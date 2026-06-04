@@ -1,12 +1,20 @@
 ---
 source: raw/7453_S9525-06-44_Modesto_Stockpiles_July_2012_GW_Report.1112.pdf
 source_type: paper
-compiled_at: 2026-04-21T02:29:44Z
+source_hash: sha256:00d9460a5646ae260a270450683819ff00f7f99a01777f1f1d6526d3bb78d54e
+compiled_at: 2026-06-04T03:03:16Z
 chunk_count: 17
 ---
 
-The July 2012 Modesto Soil Stockpiles groundwater report (Project S9525-06-44) presents sampling and laboratory results from 10 monitoring wells (MW-1 to MW-10) installed or existing at the Caltrans Modesto Stockpiles site to evaluate whether historical FMC/Barium Products disposal has affected shallow groundwater. Field work on July 16–17, 2012 included groundwater-level measurements, well inspection, purging, and sampling, with analyses performed by a California-certified laboratory using standard methods for dissolved and total metals, major ions, alkalinity, TDS, nitrate, sulfate, sulfide, dissolved mercury, and semivolatile organic compounds (SVOCs), along with QA/QC checks and hydrochemical Stiff diagrams.
+Based on the provided partial summaries, here is a coherent summary of the source document "raw/7453_S9525-06-44_Modesto_Stockpiles_July_2012_GW_Report.1112.pdf":
 
-Hydrogeologically, groundwater in the shallow upper aquifer was found to flow generally southeast, consistent with prior observations. Depth to groundwater ranged from about 31.3 to 39.7 feet below ground surface. Chemical results show moderately to highly mineralized groundwater, with elevated dissolved solids and major cations (especially calcium, sodium, and magnesium), and two broad groundwater types: calcium-dominant and sodium-dominant, with possible mixing near MW-10.
+**Overview**: This groundwater monitoring report presents the chemical characterization of samples collected from multiple monitoring wells (MW-2 through MW-10) at the Modesto Soil Stockpiles site during July 2012. The analyses focused on inorganic constituents (major anions, cations, total dissolved solids, metals) and semivolatile organic compounds (SVOCs).
 
-Most organics were not a concern: SVOCs, including PAHs, were not detected above reporting limits in the analyzed samples, and mercury was also nondetect. Many dissolved metals were low or below reporting limits, including lead, cadmium, silver, and thallium. The main notable inorganic exceedances were nitrate and total dissolved solids in several wells, plus a single vanadium exceedance in MW-6 (51 µg/L, slightly above a 50 µg/L threshold). Reported concentrations also included low-level detections of barium, strontium, arsenic, chromium, and molybdenum. Overall, the report concludes that shallow groundwater shows mainly mineralized geochemistry with limited contaminant exceedances, and no evidence of widespread organic contamination.
+**Methodology**: Samples were collected between July 18–24, 2012, and analyzed by ATL Global. Analytical methods included EPA 300.0 for anions, SM 2320B for alkalinity, SM 2540C for total dissolved solids (TDS), ICP-MS (EPA 6020) for total and dissolved metals, cold-vapor atomic absorption (EPA 7470) for mercury, SM 4500-S²⁻ D for sulfide, and GC/MS SIM (EPA 8270) for SVOCs. Quality control included blanks, laboratory control samples, matrix spikes, and duplicates, with method detection limits and practical quantitation limits reported.
+
+**Key Results**:
+- **Inorganics**: TDS ranged from 300 to 710 mg/L across the wells. Major ion concentrations varied by well: chloride (7.5–30 mg/L), nitrate (2.8–20 mg/L), sulfate (13–26 mg/L), alkalinity (230–360 mg/L as CaCO₃). Major cations (calcium, magnesium, sodium, potassium) were quantified in mg/L to µg/L ranges (e.g., total Ca up to 70,000 µg/L in MW-4, Na up to 69,000 µg/L in MW-3). Dissolved metals (e.g., arsenic, barium, chromium, selenium, vanadium) were detected at low µg/L levels.
+- **Organics**: SVOCs and mercury were not detected above their practical quantitation limits (0.20 µg/L) in any sample.
+- **Well-specific highlights**: MW-5 showed elevated nitrate (20 mg/L) and TDS (430 mg/L); MW-10 was included in the later group but specific values were not detailed.
+
+**Limitations**: QA/QC data indicated matrix spike recoveries outside acceptance limits for several metals, suggesting possible matrix interference that may affect the accuracy of those results.

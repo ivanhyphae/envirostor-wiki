@@ -1,61 +1,35 @@
 ---
 source: raw/Acceptance E-mail_Stockpiles 1 and 2 MSE Wall Sampling Plan.pdf
 source_type: paper
-compiled_at: 2026-04-21T02:21:25Z
+source_hash: sha256:a26e2b519172762edb9ce51f03de6c5726ce6bacd701f84afaf4af5a0c9537d1
+compiled_at: 2026-06-04T03:11:10Z
 chunk_count: 1
 ---
 
 ## Key claims
-- The document is an approval email from DTSC indicating that the **MSE Wall Sampling Plan for Stockpiles 1 and 2** was reviewed by DTSC and the Water Board.
-- **No comments or objections** were raised by either agency.
-- The email serves as **formal acceptance** of the proposed sampling plan.
-- The underlying purpose of the sampling plan is to **characterize MSE footing soils** and obtain **DTSC classification for on-site reuse**.
+- The California Department of Toxic Substances Control (DTSC) and the Water Board formally accepted the MSE Wall Sampling Plan for Stockpiles 1 and 2, submitted via e‑mail on March 31, 2020.
+- The plan specifies discrete soil sampling at ten locations spaced at approximately 200‑foot intervals within the midpoint of the wall footing excavation.
+- Each discrete sample is collected from one‑foot intervals to the planned excavation depth of ~4–5 feet and analyzed for barium and lead under expedited 48‑hour turnaround.
+- Analytical results will be compared to established site‑specific background levels and regulatory screening levels (RDIP removal threshold, construction worker ESL, residential ESL, commercial ESL, and DTSC residential standard) to determine suitability for reuse as clean capping material, abutment/embankment fill, or placement in BCS containment zones.
+- DTSC’s acceptance was conveyed by e‑mail with no comments, granting approval to proceed.
 
 ## Methodology
-- The proposed plan involves sampling during excavation of the **Stockpiles 1 and 2 MSE wall footing area**.
-- Sampling locations:
-  - **Ten identified locations**
-  - Spaced at approximately **200-foot intervals**
-  - Samples collected at the **mid-point of the wall footing excavation**
-- Sampling procedure:
-  - **Boring or trench samples**
-  - **Discrete soil samples** collected at **one-foot intervals**
-  - Sampling depth extends to the planned footing excavation depth of about **4 to 5 feet**
-- Analyses:
-  - Each discrete sample analyzed for **barium** and **lead**
-  - Turnaround time specified as **48 hours**
-- Evaluation approach:
-  - Analytical results compared against **RDIP and regulatory screening levels**
-  - Used to determine suitability of soils for reuse as:
-    - **clean capping material**
-    - **abutment/embankment fill**
-    - or placement in **BCS containment zones**
+- **Experimental setup**: Soil sampling of Stockpiles 1 and 2 MSE wall footing excavations. Samples are taken from borings or trenches at the midpoint of each footing excavation.
+- **Sampling design**: Ten sampling locations spaced ~200 ft apart. Discrete samples collected from 1‑ft intervals to the depth of the planned wall footing excavation (~4–5 ft).
+- **Analytes**: Barium and lead.
+- **Turnaround time**: Expedited 48‑hour analysis.
+- **Screening levels**:
+  - Barium: site‑specific background = 120 mg/kg; RDIP BCS removal threshold (groundwater protection) = 1,000 mg/kg; construction worker ESL = 3,000 mg/kg; residential ESL = 15,000 mg/kg; commercial ESL = 220,000 mg/kg.
+  - Lead: site‑specific background = 3.8 mg/kg; DTSC residential = 80 mg/kg.
+- **Regulatory oversight**: DTSC and Water Board reviewed and accepted the plan; RDIP (Removal Design Implementation Plan) monitoring including air/dust perimeter sampling was ongoing during excavation of the BCS slope zone.
 
 ## Results
-- No new environmental concentration results are reported in this email.
-- The document reports only the **review outcome**:
-  - **DTSC**: no comments; acceptance granted
-  - **Water Board**: no comments
-- Screening thresholds referenced for decision-making:
-  - **Barium**
-    - Site-specific background: **120 mg/kg**
-    - RDIP BCS removal threshold: **1,000 mg/kg**
-    - Construction worker ESL: **3,000 mg/kg**
-    - Residential ESL: **15,000 mg/kg**
-    - Commercial ESL: **220,000 mg/kg**
-  - **Lead**
-    - Site-specific background: **3.8 mg/kg**
-    - DTSC residential: **80 mg/kg**
+- No quantitative analytical results are reported because sampling was to commence after approval.
+- The key outcome is the regulatory acceptance of the sampling plan, enabling fieldwork to proceed.
 
 ## Limitations
-- This is an **administrative correspondence**, not a full technical report or paper.
-- The excerpt does **not include measured sampling results**, only the proposed plan and acceptance.
-- It does not describe:
-  - actual analytical outcomes,
-  - whether any samples exceeded thresholds,
-  - final disposition decisions for the soils,
-  - or QA/QC procedures beyond expedited turnaround.
-- The scope is limited to **approval of a sampling plan** for a specific project area.
+- No explicit limitations or caveats are mentioned in the document.
+- Implicit constraint: fieldwork commenced during the COVID‑19 pandemic, with remote work protocols noted by Geocon Consultants.
 
 ## Concepts
-MSE wall, stockpiles, footing excavation, discrete soil sampling, borings, trenches, barium, lead, DTSC classification, screening levels, background concentration, ESL, RDIP, BCS containment zones, reuse as fill, clean capping material
+BCS slope zone, RDIP (Removal Design Implementation Plan) monitoring, discrete soil samples, site‑specific background concentration, Environmental Screening Level (ESL), DTSC classification, MSE (Mechanically Stabilized Earth) wall footing, abutment/embankment fill, clean capping material, BCS containment zone

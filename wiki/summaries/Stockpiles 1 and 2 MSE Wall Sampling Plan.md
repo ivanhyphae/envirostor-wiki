@@ -1,39 +1,24 @@
 ---
 source: raw/Stockpiles 1 and 2 MSE Wall Sampling Plan.pdf
 source_type: paper
-compiled_at: 2026-04-21T02:33:30Z
+source_hash: sha256:529a16c8e935b42fc849c057cd6b5e579373bd1c93eaea6131a496e49659782e
+compiled_at: 2026-06-04T03:04:33Z
 chunk_count: 1
 ---
 
 ## Key claims
-- The document is a remedial design/implementation plan for the Caltrans Modesto Soil Stockpiles project in Stanislaus County, California, focused on managing existing barium-containing soil stockpiles.
-- It proposes an interim Phase 1 grading and consolidation plan for Stockpiles 1–3, including defined removal/placement areas and an ADL consolidation zone.
-- The plan emphasizes protecting or abandoning specific groundwater monitoring wells depending on their locations relative to grading and consolidation activities.
-- The figures provide the spatial layout and limits of the stockpiles, work areas, and referenced cross sections for construction sequencing.
+The document is a set of engineering figures (Figures 3‑1, 3‑2, 3‑3) from the *Caltrans Modesto Soil Stockpiles Remedial Design Implementation Plan – Interim Phase 1*. It depicts the layout of existing barium‑containing soil stockpiles, approximate groundwater monitoring well locations (some to be abandoned, some to be protected in‑place), and proposed grading/consolidation zones (e.g., “ADL Consolidation Zone”). The plan identifies an area for placement of imported clean embankment fill/structure backfill and distinguishes between Stockpile 1, Stockpile 2, and Stockpile 3. The file name suggests an associated sampling plan for MSE (Mechanically Stabilized Earth) walls, but no detailed sampling methodology or results are provided in the extracted content.
 
 ## Methodology
-- The source is a site plan/engineering implementation document rather than an experimental paper.
-- It uses plan-view grading drawings and figure-based site layouts for:
-  - Stockpile 1, Stockpile 2, and Stockpiles 1–3 overall
-  - Removal areas
-  - Placement areas for imported clean embankment fill/structure backfill
-  - ADL consolidation zones
-  - Approximate groundwater monitoring well locations
-- The document references typical cross sections in Figures 4A and 4B, indicating that the grading plan is supported by cross-sectional design details.
-- No quantitative evaluation metrics, statistical analysis, or dataset-based experimental methods are presented in the provided content.
+No experimental setup, dataset, or evaluation metrics are included. The source consists solely of engineering drawings and legends for a remedial design plan. The methodology would presumably involve site characterization, soil sampling, and regulatory compliance, but the extracted text does not describe any such procedures.
 
 ## Results
-- The provided excerpt does not report experimental results or performance metrics.
-- Quantitative information visible in the figures includes:
-  - Scale bars of 0–100 feet on the grading plans.
-  - Designation of multiple spatial zones and wells, but without measurements of volume, mass, or remediation effectiveness in the excerpt.
-- The main deliverable shown is the finalized grading configuration for the interim Phase 1 implementation.
+No quantitative results are reported. The figures show spatial relationships (scale in feet) and labels for stockpiles, monitoring wells, and consolidation zones, but no numerical data (e.g., contaminant concentrations, stockpile volumes, or statistical measures).
 
 ## Limitations
-- The excerpt is largely graphical and does not include narrative discussion of outcomes, uncertainty, or performance evaluation.
-- No before/after contamination measurements, remediation success metrics, or validation results are provided in the visible content.
-- The document appears to cover only an interim Phase 1 design, implying later phases may be required.
-- The excerpt does not specify detailed construction procedures or acceptance criteria beyond the layout shown in the figures.
+- The content is limited to figure captions, legends, and map excerpts; it does not contain the full text of the sampling plan or any supporting narrative.
+- The source appears to be an engineering drawing set rather than a peer‑reviewed academic paper, so formal limitations or caveats are not stated.
+- No details on sampling frequency, analytical methods, quality assurance/quality control, or statistical design are available.
 
 ## Concepts
-remedial design, implementation plan, interim phase, soil stockpile, barium-containing soil, grading plan, consolidation zone, removal area, placement area, imported clean embankment fill, structure backfill, groundwater monitoring well, protect in-place, abandon in place, cross section, site layout, Caltrans remediation
+barium‑containing soil stockpile, groundwater monitoring well, remedial design implementation plan, consolidation zone, grading plan, imported clean fill, embankment fill, structure backfill, MSE wall, Interim Phase 1, Stanislaus County, California, GEOCON Project No. S1200‑01‑01

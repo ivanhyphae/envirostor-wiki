@@ -1,44 +1,31 @@
 ---
 source: raw/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo.pdf
 source_type: paper
-compiled_at: 2026-04-21T02:41:06Z
+source_hash: sha256:d3801bfb1a59a0b41fc094221e6cf81831837a4f6d214ec12a3dd496eb226e86
+compiled_at: 2026-06-04T03:13:52Z
 chunk_count: 1
 ---
 
 ## Key claims
-- The technical memorandum evaluates soil sampled from the Stockpile 2 mechanically stabilized earth (MSE) wall footing excavation area.
-- The main conclusion is a depth-based management decision:
-  - Soil from **0 to 3 feet below ground surface (bgs)** must be placed in designated **containment zones**.
-  - Soil from **greater than 3 feet bgs** is suitable for use as **embankment fill** or **capping material**.
-- The soil below 3 feet bgs along the Stockpile 2 MSE wall footing is considered part of the existing **April 9, 2020 Variance Request (VR)** to the Remedial Design Implementation Plan, so **no additional VR is required** before using this material.
-- DTSC’s email states this memo is the agency’s **official acceptance** of the revised technical memorandum.
+- Soil from the Stockpile 2 mechanically stabilized earth (MSE) wall footing excavation area down to 3 feet below ground surface (bgs) must be placed in designated containment zones.
+- Soil from depths greater than 3 feet bgs is suitable for use as embankment fill, capping material, or within containment zones.
+- The material below 3 feet bgs is considered part of the April 9, 2020 Variance Request (VR) to the Remedial Design Implementation Plan; no additional VR is needed.
+- The memo was revised to correct a reported value from lead to barium (previously 120 mg/kg for lead, corrected to barium), but the determination remained unchanged.
 
 ## Methodology
-- The memo is described as reviewing:
-  - **Sampling** along the Stockpile 2 MSE wall footing excavation area.
-  - **Laboratory analytical results** from the sampled soil.
-- The decision appears to be based on comparison of measured soil concentrations with applicable cleanup / reuse thresholds, though the email itself does not provide the full analytical table.
-- The revision specifically corrected a value in the memo:
-  - **120 mg/kg** was clarified to apply to **barium**, not lead.
-- No explicit datasets, statistical tests, or formal performance metrics are described in the email excerpt.
+- **Experimental setup**: Sampling was conducted along the MSE wall footing excavation area of Stockpile 2. Soil was collected from various depths.
+- **Laboratory analysis**: Samples were analyzed for contaminants (metals, presumably including lead and barium). Specific analytical methods are not detailed in the email.
+- **Evaluation metrics**: Contaminant concentrations were compared against regulatory thresholds for placement in containment zones, embankment fill, or clean cover. A key criterion was the 120 mg/kg value for barium, corrected from a prior misattribution to lead.
 
 ## Results
-- Revised interpretation confirmed that:
-  - **Upper 3 feet of soil** from the Stockpile 2 southerly slope MSE wall footing must go to **fill containment zones**.
-  - Soil from **depths greater than 3 feet** is acceptable for **containment zones, embankment fill, and clean cover**.
-- The memo’s revised conclusion was unchanged by the correction from lead to barium.
-- The key quantitative value mentioned in the revision is **120 mg/kg** for **barium**.
+- Soil from 0–3 ft bgs: Must be placed in designated containment zones (contaminant levels exceed thresholds for embankment fill).
+- Soil from >3 ft bgs: Suitable for embankment fill, capping material, or containment zones (contaminant levels below thresholds).
+- The revised memo did not alter the depth-based determination, only corrected the analyte identity for the 120 mg/kg value (barium, not lead).
 
 ## Limitations
-- The provided text is an email thread summarizing acceptance of an attached technical memo, not the full memo itself.
-- The excerpt does not include:
-  - Full sampling locations,
-  - Analytical results table,
-  - Detection limits,
-  - Detailed decision criteria,
-  - Any uncertainty analysis.
-- The conclusion is limited to the **Stockpile 2 MSE wall footing** area and the specific depth interval described.
-- The email notes a correction to the metal attribution (barium vs. lead), indicating the original memo contained a labeling error.
+- The email does not explicitly state limitations, but the correction of a laboratory value (lead vs. barium) suggests potential errors in initial reporting or analyte misidentification.
+- The memo’s conclusions are site-specific (Stockpile 2 MSE wall footing) and may not generalize to other areas or stockpiles.
+- Regulatory approval is based on the agencies’ review; no independent validation or statistical confidence intervals are provided.
 
 ## Concepts
-mechanically stabilized earth (MSE) wall footing, below ground surface (bgs), soil sampling, laboratory analysis, containment zones, embankment fill, capping material, variance request (VR), remedial design implementation plan, barium, lead, clean cover, hazardous waste management
+mechanically stabilized earth (MSE) wall footing, fill containment zones, embankment fill, capping material, Variance Request (VR), Remedial Design Implementation Plan, below ground surface (bgs), contaminant threshold (120 mg/kg for barium)

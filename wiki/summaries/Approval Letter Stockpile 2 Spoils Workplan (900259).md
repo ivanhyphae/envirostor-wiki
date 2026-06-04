@@ -1,34 +1,26 @@
 ---
 source: raw/Approval Letter Stockpile 2 Spoils Workplan (900259).pdf
 source_type: paper
-compiled_at: 2026-04-21T02:21:37Z
+source_hash: sha256:8f5388c0f234d23533cb8b06edc69ad7cff024e1974919eec6d3269d86ed9b1b
+compiled_at: 2026-06-04T03:09:42Z
 chunk_count: 1
 ---
 
 ## Key claims
-- DTSC reviewed and approved the **Stockpile 2 Barium Containing Soil (BCS) Foundation Spoil Assessment Workplan Technical Memorandum** for the **State Route 132 West Project** in Modesto, Stanislaus County, California (Site Code: 900259).
-- DTSC concurs with the proposed **stockpiling and sampling procedures** for BCS spoils generated during installation of the **Weather Station and Overhead Sign #1**.
-- If sampling shows **barium and lead concentrations below site-specific background**, the material may be **reused on-site** at locations jointly agreed upon by DTSC and Caltrans.
-- If sampling indicates the spoils are **above background**, the material should be **professed/profied for disposal** at **Forward Landfill in Manteca** or another acceptable landfill.
+- DTSC approves the Stockpile 2 BCS Foundation Spoil Assessment Workplan Technical Memorandum submitted by Geocon Consultants on behalf of Caltrans.
+- If sampling shows barium and lead concentrations below site-specific background, the spoils may be reused on-site at locations agreed by both DTSC and Caltrans.
+- If concentrations exceed background, the spoils must be profiled for disposal at an acceptable landfill (e.g., Forward Landfill in Manteca).
 
 ## Methodology
-- This is an **approval letter**, not an experimental paper.
-- It references a Technical Memorandum dated **February 28, 2022**, which outlines the planned **sampling and management** of BCS spoils from Stockpile 2.
-- The evaluation basis is comparison of **sample results for barium and lead** against **established site-specific background concentrations**.
-- No formal dataset, statistical analysis, or evaluation metrics are reported in the letter itself; the decision criterion is **background exceedance vs. non-exceedance**.
+The workplan (described in the referenced Tech Memo, not included in the letter) outlines sampling and management procedures for BCS spoils generated during installation of a Weather Station and Overhead Sign #1 on Stockpile 2 of the State Route 132 West project. No further details on sampling design, frequency, or analytical methods are provided in the approval letter.
 
 ## Results
-- DTSC issued formal approval on **March 4, 2022**.
-- DTSC agreed that:
-  - **Below site-specific background** for barium and lead → material may be **reused on-site**.
-  - **Above background** → material should be **disposed of** at Forward Landfill or another suitable landfill.
-- No quantitative sampling results or measured contaminant concentrations are provided in the document.
+No quantitative results are reported in this letter; the document is an approval and does not contain data from any sampling.
 
 ## Limitations
-- The letter does **not include actual sampling data**, contaminant concentrations, or analytical results.
-- No details are given on **number of samples, sampling locations, laboratory methods, or detection limits**.
-- The approval is conditional on future sampling outcomes and **mutual agreement** between DTSC and Caltrans for on-site reuse.
-- The document is administrative/regulatory in nature, so it provides **procedural approval rather than scientific findings**.
+- The approval is conditional on mutual agreement between DTSC and Caltrans for on-site reuse locations if contaminants are below background.
+- If spoils exceed background concentrations, they must be disposed of off-site, limiting direct reuse.
+- The letter does not define the established site-specific background values or specify which other landfill options are acceptable.
 
 ## Concepts
-DTSC approval, barium containing soil (BCS), foundation spoil assessment, workplan technical memorandum, stockpile sampling, site-specific background, barium, lead, on-site reuse, landfill disposal, Forward Landfill, Caltrans, environmental site management
+Barium Containing Soil (BCS), site-specific background concentrations, spoils profiling for disposal, on-site reuse, Department of Toxic Substances Control (DTSC) approval

@@ -1,96 +1,69 @@
 ---
 concept: feasibility-study
-aliases: ["final feasibility study", "FS report", "feasibility study under cercla/ncp"]
-sources: ["raw/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.pdf"]
+entity_type: concept
+aliases: ["FS"]
+sources: ["raw/Final FS Letter.pdf", "raw/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.pdf"]
 confidence: medium
-created_at: 2026-04-21T03:06:21Z
+created_at: 2026-06-04T03:23:38Z
 ---
 
 ## Definition
 
-A feasibility study is a structured assessment used to determine whether a proposed project, system, policy, or remediation action is practical, effective, and worth implementing. It evaluates whether the proposed approach can meet its objectives within acceptable technical, financial, legal, schedule, and operational constraints.
-
-In environmental and engineering contexts, a feasibility study commonly compares alternative actions and determines which option is most suitable for detailed design, permitting, and implementation. For example, in remediation planning, a feasibility study may evaluate whether contaminated soil can be excavated, stockpiled, treated, disposed of, or left in place under institutional controls.
+A **feasibility study** is a systematic, objective evaluation of the practicality and viability of a proposed project, system, or course of action. It examines technical, economic, legal, operational, and scheduling factors to determine whether the project can be successfully implemented and whether it is worth pursuing. In environmental remediation, the feasibility study is the second phase of the Remedial Investigation/Feasibility Study (RI/FS) process under CERCLA, focusing on developing and analyzing remedial alternatives to address contamination.
 
 ## How it works
 
-A feasibility study typically follows these steps:
+The feasibility study follows a structured process, adapted to the domain but generally comprising these steps:
 
-1. **Define the problem and objectives**
-   - State the issue to be addressed.
-   - Specify performance goals, constraints, and decision criteria.
+1. **Define objectives and scope** – Establish clear goals (e.g., cleanup standards, risk reduction targets) and constraints (budget, timeline, regulations).
 
-2. **Identify alternatives**
-   - Develop a set of technically plausible options.
-   - Include the no-action or baseline alternative where relevant.
+2. **Gather baseline data** – Collect information on current conditions, including contamination extent, site characteristics, and stakeholder concerns. In environmental work, this builds on the Remedial Investigation.
 
-3. **Collect and analyze data**
-   - Review site conditions, regulations, costs, risks, timelines, and operational requirements.
-   - In environmental projects, this can include contamination extent, soil characteristics, groundwater conditions, transport logistics, disposal capacity, and health and safety considerations.
+3. **Identify alternatives** – Generate a range of plausible options (e.g., different technologies, containment strategies, or no-action). For environmental sites, alternatives may include excavation, in‑situ treatment, capping, or monitored natural attenuation.
 
-4. **Evaluate each alternative**
-   - **Technical feasibility:** Can the option be implemented with available methods and equipment?
-   - **Economic feasibility:** Are capital, operating, and lifecycle costs acceptable?
-   - **Regulatory feasibility:** Does the option comply with applicable laws, permits, and standards?
-   - **Schedule feasibility:** Can it be completed within required timeframes?
-   - **Operational feasibility:** Can it be maintained and managed during and after implementation?
-   - **Risk and uncertainty:** What residual risks or uncertainties remain?
+4. **Analyze alternatives** – Evaluate each option against pre‑defined criteria:
+   - *Effectiveness* – ability to meet objectives (e.g., reduce contaminant levels to target)
+   - *Implementability* – technical and logistical feasibility
+   - *Cost* – capital, operation, maintenance, and long‑term monitoring expenses
+   - *Regulatory compliance* – adherence to laws and permits
+   - *Community and environmental impact* – secondary effects
 
-5. **Compare alternatives**
-   - Use qualitative screening, scoring matrices, cost-benefit analysis, or more detailed decision analysis.
-   - Identify the option that best balances performance and constraints.
+5. **Compare and recommend** – Present a comparative analysis, often using a quantitative scoring or cost‑effectiveness framework, and recommend a preferred alternative. The result informs decision‑makers (e.g., regulatory agencies, project sponsors).
 
-6. **Recommend a preferred course of action**
-   - Present the rationale for the selected alternative.
-   - Note assumptions, data gaps, implementation requirements, and contingencies.
-
-7. **Support next-phase planning**
-   - The study often informs detailed design, permitting, procurement, or construction/remediation plans.
-
-In a report context, a feasibility study is usually not the final design. It is an intermediate decision document that narrows options and establishes a defensible basis for action.
+In practice, feasibility studies involve iterative refinement, stakeholder input, and sensitivity analysis to address uncertainty.
 
 ## Variants
 
-Common variants and closely related forms include:
+- **Environmental Feasibility Study (FS)** – Performed under CERCLA and state cleanup programs; typically follows a Remedial Investigation and leads to a Record of Decision. The Modesto Soil Stockpiles Final FS Report exemplifies a detailed analysis of remedial alternatives for contaminated soil stockpiles, including cost estimates and effectiveness evaluations.
 
-- **Technical feasibility study**: Focuses on whether the technology or method can work in practice.
-- **Economic feasibility study**: Focuses on costs, benefits, and affordability.
-- **Environmental feasibility study**: Assesses environmental impacts, site constraints, and compliance.
-- **Operational feasibility study**: Evaluates staffing, maintenance, logistics, and long-term manageability.
-- **Regulatory feasibility study**: Assesses whether an option can be permitted or approved.
-- **Remedial feasibility study**: In environmental cleanup, compares remedial alternatives for contaminated sites.
-- **Pre-feasibility study**: A preliminary version used early in project screening.
-- **Alternative analysis / options analysis**: Broader decision framework that may overlap with or substitute for a formal feasibility study.
-- **cost-benefit analysis**: A narrower economic tool that may be embedded within a feasibility study.
-- **site assessment** and **remedial investigation**: Upstream studies that provide data for feasibility evaluation.
+- **Business Feasibility Study** – Assesses market demand, revenue projections, operational requirements, and financial viability for a new venture or product. Common in entrepreneurship and corporate planning.
+
+- **Technical Feasibility Study** – Focuses on whether existing technology, resources, and expertise can develop the proposed system (e.g., software, manufacturing process).
+
+- **Pre‑Feasibility Study** – A preliminary, less detailed analysis performed to decide whether a full feasibility study is worthwhile. Used in mining, oil & gas, and large infrastructure projects.
+
+- **Alternatives Analysis (AA)** – A related study required under the National Environmental Policy Act (NEPA) and other environmental laws, evaluating a range of alternatives for a proposed action. Often overlaps with feasibility study objectives.
 
 ## Trade-offs
 
-Feasibility studies offer a disciplined basis for decision-making, but they involve several trade-offs:
+- **Resource intensity** – Comprehensive feasibility studies demand significant time, money, and expertise. For environmental sites, studies can span months to years and cost millions.
 
-- **Breadth vs. depth**: Covering many alternatives improves robustness, but detailed analysis of too many options can be costly and time-consuming.
-- **Early certainty vs. uncertainty**: They reduce decision risk, but outcomes are still limited by data quality and assumptions.
-- **Speed vs. rigor**: Faster studies may support scheduling needs, but may miss important constraints or risks.
-- **Cost vs. performance**: The least expensive option may not provide the best long-term outcome.
-- **Short-term implementation vs. lifecycle considerations**: An option may be easy to deploy now but expensive to operate or monitor later.
-- **Flexibility vs. commitment**: A feasibility study helps narrow choices, but premature narrowing can exclude viable alternatives.
-- **Qualitative vs. quantitative evaluation**: Numerical scoring can improve comparability, but may oversimplify complex technical or regulatory issues.
+- **Bias risk** – If not conducted objectively, studies can be skewed to support a predetermined outcome. Independent review and transparent methodologies mitigate this.
 
-Key limitations include:
-- Dependence on assumptions and available data
-- Potential bias in alternative selection or weighting
-- Sensitivity to changing regulations, site conditions, or market prices
-- The possibility that a “feasible” option is still socially, politically, or operationally difficult to implement
+- **Data dependency** – Inaccuracies or gaps in baseline data (e.g., contaminant distribution, market forecasts) weaken conclusions. Sensitivity analysis is essential.
+
+- **Decision delay** – Prolonged study periods can postpone project implementation, allowing problems to worsen (e.g., contaminant migration) or causing missed market opportunities.
+
+- **Uncertainty management** – Long‑term costs (e.g., maintenance, inflation) and future regulatory changes are difficult to predict. Environmental feasibility studies often must compare high‑cost, high‑certainty options (e.g., excavation) against lower‑cost, higher‑uncertainty options (e.g., monitored natural attenuation).
+
+- **Stakeholder divergence** – Different groups (regulators, community, project proponents) may prioritize criteria differently (cost vs. speed vs. permanence). The study must clearly articulate trade‑offs.
 
 ## See also
 
-- alternatives analysis
-- cost-benefit analysis
-- preliminary assessment
-- site assessment
-- remedial investigation
-- risk assessment
-- engineering design
-- project planning
-- environmental remediation
-- contaminated soil
+- Remedial Investigation
+- CERCLA
+- Alternatives Analysis
+- Cost-Benefit Analysis
+- Environmental Impact Statement
+- Risk Assessment
+- Record of Decision

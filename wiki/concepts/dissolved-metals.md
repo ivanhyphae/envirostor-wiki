@@ -1,87 +1,50 @@
 ---
 concept: dissolved-metals
-aliases: ["dissolved metal analysis"]
-sources: ["raw/S9800-01-17 Modesto Stockpiles Feb2014 GW Mon 0414.pdf", "raw/S9525-06-44A May 2012 GW Report 1112.pdf", "raw/GND Water Monitoring Rpt March 2102.pdf", "raw/S9525-06-44 Modesto Stockpiles GW.0612.pdf", "raw/S9525-01-44B Modesto Stockpiles GW June 2013.0613.pdf", "raw/S9800-01-17 Caltrans Modesto Stockpiles Dec 2013 GW Mon 0114.pdf", "raw/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814.pdf", "raw/S1200-01-01 Modesto Stockpiles March 2018 SW Sampling_04.18.pdf", "raw/S9800-01-17A Modesto Stockpiles Dec 11 2015 Stormwater Sampling Report_02.16.pdf"]
-confidence: high
-created_at: 2026-04-21T02:53:15Z
+entity_type: concept
+aliases: ["dissolved metals", "filterable metals"]
+sources: ["raw/S9525-06-44A Caltrans Modesto Stockpiles GW Nov2012 0213.pdf", "raw/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814.pdf", "raw/7453_S9525-06-44_Modesto_Stockpiles_July_2012_GW_Report.1112.pdf", "raw/S1200-01-01 Modesto Stockpiles Dec 2016 SW Sampling_01.17.pdf", "S9525-06-44A May 2012 GW Report 1112.pdf", "S9525-06-44AModesto Stockpiles GW. SEPT2012.1212.pdf", "S9800-01-17A Caltrans Modesto Stockpiles GW_06 16.pdf"]
+confidence: medium
+created_at: 2026-06-04T03:21:04Z
 ---
 
+# Dissolved Metals
+
 ## Definition
-
-**Dissolved metals** are metals present in water in the **dissolved phase**, meaning they pass through a standard filtration step used for water-quality sampling, typically a 0.45 µm filter. In practice, the term refers to the fraction of a metal concentration measured in filtered groundwater or surface water, as distinct from **total recoverable metals**, which includes both dissolved and particulate-bound material.
-
-In environmental monitoring, dissolved metals are used to evaluate the chemistry of groundwater and surface water and to distinguish truly mobile metal species from metals associated with suspended solids. They are commonly reported in monitoring programs such as those for groundwater monitoring, stormwater sampling, and site investigations at contaminated or industrial properties.
+Dissolved metals are metallic elements that pass through a standard 0.45‑micron filter and are present in solution as ions, inorganic complexes, or organometallic compounds in water. In environmental monitoring, the distinction between “dissolved” and “total” metals is critical because dissolved species are typically more bioavailable and mobile, directly affecting aquatic toxicity and groundwater transport. The measurement of dissolved metals is a standard parameter in groundwater and surface water quality assessments, particularly at industrial or stockpile sites where leaching of metals from soils or materials is a concern.
 
 ## How it works
+The determination of dissolved metals follows a rigorous sampling and analytical protocol:
 
-Metals in water can exist in several forms:
+1. **Sampling and filtration** – Water samples are collected in the field using dedicated equipment. Within minutes of collection, the sample is passed through a 0.45‑micron membrane filter (typically cellulose acetate or polyethersulfone) to remove particulate matter. The filtrate is then preserved, often with nitric acid to pH < 2, to keep metals in solution and prevent adsorption onto container walls.
 
-- **Truly dissolved ions** or complexes in solution
-- **Colloidal particles** small enough to pass a standard filter
-- **Adsorbed metals** attached to fine suspended solids
-- **Precipitated solids** that are not dissolved
+2. **Preservation and handling** – Filtered samples are stored in pre-cleaned polyethylene or Teflon bottles, kept cool (4°C), and shipped to a laboratory within holding time limits (typically 6 months for most metals, but shorter for mercury).
 
-A dissolved metals sample is collected and filtered in the field or at the laboratory, typically using a 0.45 µm membrane filter. The filtered sample is then preserved, usually by acidification, and analyzed by instrumental methods such as ICP-MS or ICP-OES.
+3. **Analytical methods** – Common techniques include inductively coupled plasma mass spectrometry (ICP‑MS), inductively coupled plasma optical emission spectrometry (ICP‑OES), and atomic absorption spectroscopy (AAS). These methods can quantify trace levels (parts per billion or lower) of dissolved metals such as arsenic, cadmium, chromium, copper, lead, nickel, and zinc.
 
-The measured concentration reflects the metal fraction that remained in solution or passed through the filter at the time of sampling. This makes dissolved metals especially useful for understanding:
+4. **Quality control** – Field blanks, equipment blanks, and replicate samples are used to verify that filtration and handling do not introduce contamination. Laboratory control samples and matrix spikes assess accuracy.
 
-- **Mobility** of metals in aquifers and runoff
-- **Geochemical conditions** such as pH, redox state, and alkalinity
-- **Potential transport** from a site to downgradient receptors
-- Differences between **dissolved concentrations** and **total concentrations**
-
-In site monitoring reports, dissolved metals are often interpreted alongside parameters such as pH, conductivity, dissolved oxygen, turbidity, and major ions. These supporting measurements help explain whether elevated dissolved metal concentrations are due to actual groundwater chemistry, particle disturbance during sampling, or changing redox conditions.
+The concentration of dissolved metals represents the fraction that is immediately available for biological uptake or transport in the aqueous phase, as opposed to metals bound to suspended particles that may settle or be more slowly released.
 
 ## Variants
+Dissolved metals measurements can be further categorized by the type of metal or by sample matrix:
 
-Common variants and related reporting forms include:
-
-- **Dissolved metals**: filtered fraction, usually <0.45 µm
-- **Total recoverable metals**: unfiltered or partially digested sample representing both dissolved and particulate-associated metals
-- **TCLP metals**: leaching-test metals used for waste characterization, not environmental water monitoring
-- **Filtered metals at other pore sizes**: less common, but sometimes used for research or special studies
-- **Speciated metals**: dissolved metals further separated into ionic or complexed forms
-
-In practice, dissolved metals monitoring may be applied to:
-
-- Groundwater
-- Surface water
-- Stormwater
-- Leachate
-- Pore water
-
-Different programs may vary in the exact filtration method, preservation protocol, holding times, and reporting conventions. Some reports use “dissolved” to mean “filtered” even though very small colloids can still pass through the filter and be counted in the dissolved fraction.
+- **By metal group** – Common analytes include priority pollutants (e.g., arsenic, cadmium, lead, mercury), trace nutrients (e.g., copper, zinc), and major cations (e.g., calcium, magnesium) – though the latter are rarely regulated for toxicity.
+- **Speciated dissolved metals** – Some metals exist in different oxidation states with vastly different toxicity (e.g., Cr(III) vs. Cr(VI), As(III) vs. As(V)). Special filtration and preservation steps (including field speciation kits) are required to preserve the original valency.
+- **Sample matrix variants** – Dissolved metals can be measured in groundwater, surface water, stormwater runoff, and leachate. Each matrix may have unique filtration challenges (e.g., high turbidity or organic content) that influence representativeness.
+- **Field‑filtered vs. lab‑filtered** – In some regulatory programs, samples are filtered in the field to minimize changes in metal partitioning during transport. Lab‑filtration is less common but sometimes used when field filtration is impractical.
 
 ## Trade-offs
-
-### Advantages
-- Better represents the **mobile** fraction of metals in water
-- Useful for assessing **transport risk** in groundwater and runoff
-- Less influenced by suspended sediment than total metals
-- Helps interpret geochemical processes such as sorption, precipitation, and redox reactions
-
-### Limitations
-- The “dissolved” fraction is **operationally defined**, not perfectly equivalent to molecularly dissolved metal
-- Fine colloids can pass through the filter and inflate dissolved concentrations
-- Field filtration technique can affect results if not performed consistently
-- Results can vary with sampling disturbance, filtration timing, and preservation
-- Dissolved concentrations alone may not indicate toxicity or bioavailability, since bioavailability depends on speciation and site chemistry
-
-### Interpretation considerations
-- Elevated dissolved metals may reflect **natural geochemistry** rather than contamination
-- Low turbidity does not guarantee low dissolved metals if groundwater chemistry mobilizes metals
-- Changes in pH or redox conditions can strongly increase or decrease dissolved metal concentrations
-- Comparisons across reports require attention to analytical method, detection limits, and whether samples were filtered
+- **Representativeness** – The 0.45‑micron cutoff is an operational definition; truly colloidal particles smaller than this may pass through, leading to overestimation of “dissolved” phase. Conversely, some dissolved metals may adsorb to filter material if not properly conditioned.
+- **Cost and logistics** – Field filtration requires extra equipment, training, and time. Errors in preservation or holding times can invalidate results.
+- **Interpretation vs. regulation** – Many water quality standards are expressed as total recoverable metals (unfiltered), so dissolved metals data must be converted using site‑specific partitioning coefficients. Some regulatory frameworks (e.g., U.S. EPA’s aquatic life criteria) use dissolved metals to better reflect bioavailability, but this remains an active debate.
+- **Stability of speciation** – For redox‑sensitive metals, collection and filtration must be performed under anoxic conditions (e.g., using in‑line filtration in a glove bag) to avoid oxidation artifacts, adding complexity.
+- **Bias from filtration** – If the filter is not pre‑rinsed or if the sample is highly turbid, clogging can cause premature cutoff or metal loss. Careful choice of filter pore size and material is essential.
 
 ## See also
-
-- Groundwater monitoring
-- Stormwater sampling
-- Total recoverable metals
-- Metals
-- Geochemistry
-- Redox potential
-- pH
-- Turbidity
-- Speciation
-- Bioavailability
+- Total Metals
+- Groundwater Monitoring
+- Water Quality Standards
+- Heavy Metals
+- Speciation (chemistry)
+- Field Filtration Techniques
+- Inductively Coupled Plasma Mass Spectrometry

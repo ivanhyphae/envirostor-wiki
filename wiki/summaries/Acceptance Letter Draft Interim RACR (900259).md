@@ -1,64 +1,38 @@
 ---
 source: raw/Acceptance Letter Draft Interim RACR (900259).pdf
 source_type: paper
-compiled_at: 2026-04-21T02:40:53Z
+source_hash: sha256:01f91e386fb87ad11af46bc081b5af1751a3f2f94e5c7997ef8c6f7ac7db002a
+compiled_at: 2026-06-04T03:08:05Z
 chunk_count: 1
 ---
 
 ## Key claims
-- DTSC, in consultation with the Central Valley RWQCB, reviewed the Draft Removal Action Completion Report (RACR) for the Caltrans Modesto Soil Stockpiles, Interim Phase 1, State Route 132 West Project (Site Code 900259).
-- The report documents completed consolidation, excavation, and capping activities for barium-containing soils (BCS) associated with Interim Phase 1 construction.
-- DTSC accepted the draft report as a technical status report with no comments, indicating the completed work was consistent with the approved Remedial Action Plan (RAP), approved Interim Phase 1 Remedial Design Implementation Plan (RDIP), and two approved variances.
-- The remaining documentation items for the final phase include as-built plans, cross sections, final survey data, and an Operation and Maintenance (O&M) Plan.
-- Long-term site management will continue through an O&M Agreement, land use covenant, groundwater monitoring, and future Phase 2 build-out activities.
+- DTSC accepts the Draft Phase 1 Removal Action Completion Report (RACR) as a technical status report with no comments.
+- Remediation activities (soil removal, consolidation, and capping) were completed per the approved Remedial Design Implementation Plan (RDIP) and two variance requests.
+- All confirmation samples showed barium and lead concentrations below cleanup goals (1,000 mg/kg for barium, 80 mg/kg for lead) after excavation adjustments.
+- Final components (as-built plans, survey data, Operation and Maintenance [O&M] Plan) remain pending and will be included in the Final Phase 1 RACR, anticipated July/August 2022.
+- Ultimate Phase 2 (full build-out of State Route 132) will occur in 8–10 years under a separate agreement with a supplemental RDIP and its own RACR.
 
 ## Methodology
-- The document is a regulatory acceptance letter summarizing remediation activities rather than a primary experimental study.
-- Remediation actions described:
-  - Excavation and relocation of BCS Stockpile 3 and portions of BCS Stockpile 2.
-  - Removal of contaminated soil from southern slopes of Stockpiles 1 and 2 to support construction of an MSE wall.
-  - Removal of aerially deposited lead-contaminated soil from a shoulder of State Route 99.
-  - Capping of containment zones for Stockpiles 1 and 2 with clean fill and stabilization via vegetation and erosion control.
-- Sampling and verification:
-  - Confirmation soil samples were collected from excavation bottoms and native soil after removal.
-  - BCS Stockpile 3: 29 confirmation samples analyzed for barium and lead.
-  - Stockpile 2 western end: 8 sample locations; eastern end: 12 sample locations.
-  - Southern slopes of Stockpiles 1 and 2: soil samples collected at 200-foot intervals, at 1-foot depth increments to 5 feet below surface.
-  - Clean fill source evaluation used sampling consistent with DTSC’s “Information Advisory Clean Imported Fill Material.”
-- Evaluation criteria / thresholds:
-  - Cleanup goal for barium: 1,000 mg/kg.
-  - Cleanup goal for lead: 80 mg/kg.
-  - Site-specific background concentration for barium: 120 mg/kg.
-- No formal statistical performance metrics are reported; compliance is assessed against cleanup goals and background concentrations.
+- **Remediation approach**: Excavation of barium-containing soil (BCS) Stockpiles 1–3, consolidation into containment zones within Stockpiles 1 and 2, and capping with clean fill from approved sources.
+- **Sampling and verification**: 
+  - Stockpile 3: 29 confirmation samples from excavation base; three areas with barium >1,000 mg/kg were deepened ~1 foot and resampled.
+  - Stockpile 2 ends: 20 verification samples (8 western, 12 eastern); four areas with barium >1,000 mg/kg were deepened 1 foot and resampled.
+  - Southern slopes: Samples at 200-foot intervals, 1–5 feet depth, to assess clean cap potential.
+- **Clean fill sourcing**: Four potential source areas tested per DTSC’s “Information Advisory Clean Imported Fill Material” (2001); three accepted.
+- **Erosion control**: Hydroseed, erosion control blanket, and fiber rolls on north slopes; MSE wall on south slopes eliminated need.
 
 ## Results
-- BCS Stockpile 3:
-  - Approximately 27,675 yd³ of soil excavated and transported to the BCS Stockpile 1 containment zone.
-  - 29 confirmation samples collected.
-  - 3 samples initially exceeded the barium cleanup goal of 1,000 mg/kg.
-  - Those areas were deepened by approximately 1 foot and resampled.
-  - Final confirmation samples were below cleanup goals for both barium and lead (80 mg/kg).
-- BCS Stockpile 2 western and eastern ends:
-  - Contaminated material removed and placed within the Stockpile 2 containment zone as embankment fill.
-  - Initial confirmation results showed 4 areas above the 1,000 mg/kg barium goal.
-  - After deepening by 1 foot, all remaining soil met verification thresholds of 1,000 mg/kg for barium and 80 mg/kg for lead.
-- Southern slopes of Stockpiles 1 and 2:
-  - Sampling showed barium and lead below cleanup goals.
-  - Lead was within background concentrations.
-  - Barium exceeded the site-specific background concentration of 120 mg/kg, so removed material was placed in containment zones rather than reused as clean cap soil.
-- Clean fill / capping:
-  - 4 potential clean fill source areas were sampled.
-  - 3 of the 4 were acceptable clean fill sources.
-  - Containment zones were capped with clean fill; northerly slopes were hydroseeded and covered with erosion control blanket and fiber rolls.
-- Overall outcome:
-  - DTSC accepted the draft RACR with no comments, indicating remediation completion to date was considered satisfactory.
+- **Stockpile 3**: Excavated ~27,675 yd³ of BCS; all final confirmation samples below cleanup goals (barium <1,000 mg/kg, lead <80 mg/kg).
+- **Stockpile 2 ends**: After deepening four initial exceedances, all final verification samples below cleanup goals.
+- **Southern slopes**: All samples below barium and lead cleanup goals; barium above site-specific background (120 mg/kg) so material placed in containment zones.
+- **Clean fill**: Three of four source areas accepted; material used for capping containment zones.
 
 ## Limitations
-- This is an interim acceptance letter, not the final RACR; it explicitly notes that as-built plans, cross sections, final survey data, and the O&M Plan were still pending.
-- The document does not provide a full final remedial certification for the RAP; certification will occur only after Ultimate Phase 2 is completed.
-- Long-term performance data are not yet available; groundwater monitoring and annual inspections remain future obligations.
-- Ultimate Phase 2 work is still anticipated in 8–10 years and may require revised design, oversight, and O&M documents.
-- The letter does not present detailed analytical lab methods, uncertainty analysis, or full spatial maps of contamination.
+- As-Built Plans and final survey data not yet completed; O&M Plan still to be developed and approved.
+- O&M Agreement and land use covenant will not be finalized until after Ultimate Phase 2 (8–10 years).
+- Certification of the Remedial Action Plan (RAP) is deferred until Ultimate Phase 2 completion.
+- Some soil removed from southern slopes exceeded site-specific barium background, requiring disposal in containment zones rather than use as clean cap.
 
 ## Concepts
-Remedial Action Plan (RAP), Remedial Design Implementation Plan (RDIP), Removal Action Completion Report (RACR), barium-containing soils (BCS), confirmation sampling, verification sampling, cleanup goal, site-specific background concentration, containment zone, embankment fill, clean fill, capping, hydroseed, erosion control blanket, fiber rolls, mechanically stabilized earth (MSE) wall, aerially deposited lead, Operation and Maintenance (O&M) Plan, land use covenant, groundwater monitoring, interim remediation, State Route 132 West Project, DTSC, RWQCB
+barium-containing soils (BCS), cleanup goals, confirmation sampling, Remedial Action Plan (RAP), Remedial Design Implementation Plan (RDIP), containment zones, aerially deposited lead, mechanically stabilized earth (MSE) wall, Operation and Maintenance (O&M) Plan, land use covenant

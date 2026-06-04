@@ -1,36 +1,29 @@
 ---
 source: raw/Stockpile 3 Confirmation Sampling Tech Memo Approval.pdf
 source_type: paper
-compiled_at: 2026-04-21T02:30:39Z
+source_hash: sha256:c44c731740fdd95f8f5e541ae086ef3a8e39649776f4780338e7307c92074940
+compiled_at: 2026-06-04T03:08:31Z
 chunk_count: 1
 ---
 
 ## Key claims
-- The technical memorandum documents confirmation sampling for **Stockpile 3 Barium Containing Soil (BCS) removal** and concludes that the stockpile was successfully excavated/removed.
-- Analytical verification showed that **remaining native soil concentrations of barium and lead are below the RDIP-established threshold values**.
-- Based on the sampling results, **no further BCS RDIP monitoring is required** for Stockpile 3.
-- The area is deemed **suitable for clean embankment fill** and for subsequent highway-related improvements.
+- The Technical Memorandum (Memo) dated March 13, 2020 confirms that Barium-Containing Soil (BCS) Stockpile 3 has been removed via excavation to depths where remaining native soil concentrations of barium and lead are below cleanup thresholds established in the Remedial Design Implementation Plan (RDIP).
+- DTSC agrees that no further BCS RDIP monitoring requirements are necessary and the area is now suitable for clean embankment fill.
+- The removal and relocation of all BCS stockpile material is complete (excluding regulated ADL soil along northbound State Route 99).
 
 ## Methodology
-- The source text is an approval email chain referencing a **Technical Memorandum dated March 13, 2020** titled “Stockpile 3 BCS Removal Verification Testing.”
-- The memo describes **confirmation soil sampling** performed after removal of Stockpile 3 BCS material.
-- The purpose of the sampling was to verify compliance with cleanup levels in the **Remedial Design Implementation Plan (RDIP)**.
-- Evaluation appears to be based on comparing measured soil concentrations of **barium and lead** against **RDIP verification threshold values**.
-- No detailed analytical methods, sample counts, depths, or laboratory QA/QC metrics are provided in the extracted text.
+- Confirmation soil sampling was completed after removal of BCS Stockpile 3 to verify that cleanup levels per the RDIP were achieved.
+- Analytical verification targeted concentrations of barium and lead in native soil at excavation depths, comparing them to established threshold values in the RDIP.
+- The approach included excavation of all BCS material to depths meeting thresholds, followed by placement of a minimum 12-inch clean soil cover and/or a minimum 4-inch thick layer of aggregate base material on surfaces of BCS consolidation zones (Stockpiles 1 and 2, including temporary slopes), pending DTSC approval.
 
 ## Results
-- DTSC states that the **sampling results indicate Stockpile 3 BCS has been removed**.
-- The remaining soil **meets RDIP verification thresholds**.
-- DTSC explicitly agrees that **no further BCS RDIP monitoring requirements are necessary**.
-- The site is approved as **suitable for clean embankment fill**.
-- The email also indicates that **all Stockpile 3 BCS material has been excavated to depths with concentrations of barium and lead in native soil below the RDIP threshold values**.
-- No numeric concentration values, sample-size statistics, or confidence intervals are included in the provided text.
+- Sampling results indicate Stockpile 3 BCS has been removed and remaining soil meets RDIP verification thresholds.
+- Specific numerical concentration values are not provided in the source file (only referenced as being below established thresholds).
 
 ## Limitations
-- The extracted content is an **approval email chain**, not the full technical memorandum, so methodological and numerical details are missing.
-- The text does not provide **specific sample locations, depths, number of samples, laboratory methods, or detection limits**.
-- Quantitative soil concentration results are referenced only qualitatively; **no exact numbers** are included here.
-- The approval pertains specifically to **Stockpile 3 BCS** and does not imply removal/closure of other regulated materials, such as the **ADL soil along northbound State Route 99**.
+- The regulated ADL soil along northbound State Route 99 is explicitly excluded from this removal and relocation effort.
+- The approval is contingent on DTSC acceptance (granted via email) prior to placement of clean cover material.
+- No specific concentration data or sampling density details are included in the source file.
 
 ## Concepts
-Barium Containing Soil (BCS), confirmation soil sampling, Remedial Design Implementation Plan (RDIP), verification thresholds, cleanup levels, native soil, barium, lead, embankment fill, RDIP monitoring requirements, stockpile removal, clean soil cover, aggregate base (AB), consolidation zones
+Barium-Containing Soil (BCS), Remedial Design Implementation Plan (RDIP), confirmation sampling, verification thresholds, ADL soil, consolidation zones, clean embankment fill, aggregate base material

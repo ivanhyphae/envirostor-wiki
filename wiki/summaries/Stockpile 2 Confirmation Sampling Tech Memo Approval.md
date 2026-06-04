@@ -1,41 +1,22 @@
 ---
 source: raw/Stockpile 2 Confirmation Sampling Tech Memo Approval.pdf
 source_type: paper
-compiled_at: 2026-04-21T02:37:23Z
+source_hash: sha256:61272b7e893af5a531cc13f7c93f3edb661b55412cfe15febf9fc22511b984ed
+compiled_at: 2026-06-04T03:15:06Z
 chunk_count: 1
 ---
 
 ## Key claims
-- The technical memorandum reports **confirmation soil sampling** after removal of **barium-containing soil (BCS)** from the **east and west ends of Stockpile 2**.
-- The sampling results show that both areas **met the cleanup/verification thresholds** established in the **Remedial Design Implementation Plan (RDIP)**.
-- Based on those results, DTSC concluded that the areas are **suitable for placement of clean embankment fill**.
-- DTSC’s email explicitly serves as **formal acceptance** of the memorandum and the verification sampling results.
+The technical memo demonstrates that removal of barium-containing soil (BCS) from the east and west ends of Stockpile 2 has been completed, and subsequent confirmation soil sampling shows that cleanup levels established in the Remedial Design Implementation Plan (RDIP) have been achieved. Based on these results, the California Department of Toxic Substances Control (DTSC) approves the placement of clean embankment fill over these areas.
 
 ## Methodology
-- The described process appears to be a **field remediation verification** workflow:
-  1. Remove BCS from targeted portions of Stockpile 2.
-  2. Collect **confirmation soil samples** from the east and west ends.
-  3. Compare sample results against the **RDIP cleanup/verification thresholds**.
-- No detailed sampling design, number of samples, laboratory methods, or statistical testing procedures are provided in the excerpt.
-- The only evaluation metric mentioned is **whether the sampling results meet the RDIP verification thresholds**.
+The memo describes removal of BCS from the east and west ends of Stockpile 2, followed by confirmation soil sampling to verify that RDIP verification thresholds for barium have been met. The specific sampling grid, number of samples, analytical methods, and statistical evaluation (if any) are not detailed in the email excerpt; the memo itself was attached but not fully reproduced here.
 
 ## Results
-- The memorandum concludes that:
-  - The **east end** of Stockpile 2 met the RDIP verification thresholds.
-  - The **west end** of Stockpile 2 met the RDIP verification thresholds.
-- Quantitative concentration values are **not provided** in the excerpt.
-- The practical outcome is approval to **place clean embankment fill** at the verified areas.
-- A related operational note states that **BCS removal at Stockpile 3** was expected to be completed the next day, pending final verification testing.
+Sampling results indicate that both the east and west ends of Stockpile 2 meet the RDIP verification thresholds for barium. No quantitative numbers (e.g., concentration levels, threshold values) are provided in the email chain.
 
 ## Limitations
-- The provided text is an **approval email thread**, not the full technical memorandum, so it lacks:
-  - exact contaminant concentrations,
-  - sample counts and locations,
-  - detection limits,
-  - laboratory QA/QC details,
-  - and full criteria used for threshold comparison.
-- The conclusions are specific to the **east and west ends of Stockpile 2** and should not be generalized to other stockpiles or untested areas.
-- No uncertainty analysis or discussion of potential sampling limitations is included in the excerpt.
+No limitations or caveats are explicitly mentioned in the email correspondence. The memo’s potential limitations (e.g., sample density, detection limits, temporal representativeness) are not discussed.
 
 ## Concepts
-confirmation soil sampling, barium-containing soil (BCS), Stockpile 2, Remedial Design Implementation Plan (RDIP), verification thresholds, cleanup levels, embankment fill, hazardous waste remediation, DTSC approval
+Remedial Design Implementation Plan (RDIP), Barium Containing Soil (BCS) removal, confirmation sampling, verification thresholds, clean embankment fill placement, DTSC acceptance

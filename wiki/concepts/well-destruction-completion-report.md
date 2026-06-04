@@ -1,97 +1,65 @@
 ---
 concept: well-destruction-completion-report
-aliases: ["well destruction completion report"]
-sources: ["raw/DTSC Letter Response - 2025 GW Monitoring Report (900259) (1).pdf"]
-confidence: medium
-created_at: 2026-04-21T02:49:53Z
+entity_type: concept
+aliases: []
+sources: ["raw/DTSC Approval Response for final version of Well Destruction Report.pdf"]
+confidence: high
+created_at: 2026-06-04T03:28:33Z
 ---
 
 ## Definition
 
-A **Well Destruction Completion Report** is a formal record documenting the final destruction, abandonment, or sealing of a groundwater monitoring well or similar borehole. It typically confirms that the well was taken out of service in accordance with applicable regulatory, engineering, and environmental requirements, and that the work was completed by a qualified party.
+A **Well Destruction Completion Report** is a formal, regulatory document submitted to an oversight agency (such as the California Department of Toxic Substances Control, DTSC) that provides final certification and detailed documentation that a well has been properly decommissioned ("destroyed") in accordance with applicable environmental and safety standards. The report confirms that all required steps have been completed, including sealing the borehole, removing equipment, and restoring the site to prevent future contamination or physical hazards.
 
-The report usually serves as evidence that the well no longer poses a pathway for contamination, accidental discharge, or unauthorized access to groundwater.
+In regulatory contexts, this report serves as the official record of closure, often required for wells at contaminated sites (e.g., former industrial facilities, landfills) where the well may have been used for groundwater monitoring, extraction, or injection. Approval of the report by the overseeing agency signifies that the well destruction is deemed complete and compliant.
 
 ## How it works
 
-A well destruction completion process generally follows these steps:
+The well destruction process and its completion report typically follow a multi-step regulatory workflow:
 
-1. **Identify the well to be destroyed**
-   - The well is selected for closure because it is no longer needed, is damaged, or must be removed for site management reasons.
+1. **Pre-Approval and Planning**: Before destruction, a well destruction plan must be submitted to the regulatory agency, specifying methods (e.g., pulling casing, grouting, sealing), materials (e.g., cement, bentonite), and depth intervals. The agency reviews and approves this plan.
 
-2. **Prepare a closure plan**
-   - A plan is developed describing the method of destruction, materials to be used, site conditions, and any required notifications or approvals.
-   - The plan often references groundwater monitoring and well abandonment requirements.
+2. **Field Operations**: The destruction is executed by a licensed well driller or contractor. Key steps may include:
+   - Removing pump, piping, and debris from the well.
+   - Pulling or perforating the well casing.
+   - Placing grout (cement or bentonite slurry) from the bottom of the borehole to the surface, using methods like tremie grouting to avoid voids.
+   - Cutting and capping the casing below ground surface.
+   - Backfilling and compacting the excavation.
 
-3. **Physically destroy or seal the well**
-   - The well casing and annular space are filled, cut off, sealed, or otherwise rendered unusable.
-   - Materials may include bentonite, cement grout, neat cement, or other approved sealing media depending on well construction and local rules.
+3. **Documentation and Reporting**: After destruction, the completion report is compiled. It typically includes:
+   - Well identification (ID, location, original depth and diameter).
+   - Date of destruction and contractor details.
+   - As-built diagram of the sealed borehole (grout depths, casing removal intervals).
+   - Copies of permits, waste disposal manifests, and laboratory test results (e.g., grout sample strength tests).
+   - Photographs or video logs documenting the process.
+   - Certification that the work met all regulatory requirements (e.g., California’s Water Code, Title 22 regulations).
 
-4. **Document completion**
-   - The completion report records:
-     - well identification number and location
-     - date of destruction
-     - method used
-     - materials placed
-     - depth completed to
-     - contractor or responsible party
-     - field observations and any deviations from the plan
-   - If required, the report may include sketches, photographs, logs, or signed certifications.
+4. **Agency Review and Approval**: The report is submitted to the regulatory agency. The agency reviews for completeness and compliance. If deficiencies are found, a revised report or additional field work may be required. Once approved, the well is officially decommissioned on environmental records.
 
-5. **Submit to regulators or project records**
-   - The report is kept in the site file and may be submitted to the relevant agency as proof of compliance.
-
-The technical purpose of the report is to create a defensible chain of documentation showing that the well was properly removed from service and that subsurface conditions were restored to a stable, protective state.
+An example of this process is seen in a DTSC “Approval Response for final version of Well Destruction Report,” where the agency formally accepts the documentation after verifying that all destruction activities were conducted according to the approved plan.
 
 ## Variants
 
-Common variants or closely related documents include:
-
-- **Well abandonment report**  
-  Often used interchangeably, especially for water supply or monitoring wells.
-
-- **Well decommissioning report**  
-  A broader term that may include removal, sealing, and site restoration.
-
-- **Monitoring well destruction log**  
-  A shorter field-oriented record used in some projects.
-
-- **Well completion report**  
-  In other contexts, this can mean a report for constructing a new well rather than destroying one, so the term is potentially ambiguous.
-
-- **Regulatory closure certification**  
-  A formal agency-facing certification that the destruction meets specific legal or permit conditions.
-
-Implementation details vary by jurisdiction, agency, and well type. Environmental sites, municipal wells, and private wells may each have different documentation requirements.
+- **Monitoring Well Destruction Report**: Used specifically for groundwater monitoring wells at contaminated sites. Often requires verification that no contamination remains in the borehole (e.g., sample analysis of grout returns).
+- **Production Well Decommissioning Report**: For water supply, injection, or extraction wells. May include additional steps like plugging and abandoning oil and gas wells, following state-specific oil and gas regulations.
+- **Emergency Well Destruction Report**: In cases of sudden well failure or contamination threat, a curtailed report focusing on immediate sealing and documentation.
+- **Site-Specific Variations**: Different regulatory agencies (e.g., EPA, state water boards, local health departments) may require different formats, such as online portals or standardized PDF templates. Some reports require a “Well Destruction Log” analogous to a drilling log.
 
 ## Trade-offs
 
-Key considerations and limitations include:
-
-- **Regulatory compliance**
-  - The report must match the applicable abandonment standard; incomplete documentation can leave the closure invalid or disputable.
-
-- **Technical adequacy**
-  - If the well is not properly sealed, it can remain a conduit for contamination between aquifers or surface water and groundwater.
-
-- **Cost vs. rigor**
-  - More detailed documentation improves defensibility but increases project time and administrative burden.
-
-- **Site uncertainty**
-  - Older wells may have poor construction records, making it difficult to verify depths, materials, or intervals that need sealing.
-
-- **Future redevelopment**
-  - Once destroyed, the well cannot be reused for monitoring or access; this is beneficial for risk reduction but eliminates a potential data point or infrastructure asset.
-
-- **Record permanence**
-  - Because well destruction is irreversible, the report becomes the primary evidence that the well was properly closed.
+- **Complexity vs. Cost**: Thorough documentation (e.g., video logs, lab tests) increases cost but provides stronger defense against future liability and regulatory non-compliance.
+- **Timing**: Waiting for agency approval before destruction can delay site closure; proceeding without approval risks penalties. However, some programs allow for concurrent destruction and reporting.
+- **Data Gaps**: Incomplete historical well records (e.g., unknown original depth or construction details) can make proper sealing difficult, leading to potential voids or future leaks.
+- **Regulatory Variation**: Different jurisdictions have different requirements for grout types, depths, and testing. A report acceptable in one state may be rejected in another.
+- **Liability**: Improperly documented destruction can result in ongoing financial responsibility (e.g., if contamination later migrates via the unsealed wellbore). A well-documented completion report reduces long-term risk.
 
 ## See also
 
-- well abandonment
-- groundwater monitoring
-- monitoring well
-- borehole sealing
-- environmental remediation
-- regulatory closure
-- site characterization
+- Well Destruction Plan
+- Groundwater Monitoring Well
+- Well Decommissioning
+- Tremie Grouting
+- Borehole Sealing
+- California Department of Toxic Substances Control
+- Environmental Site Assessment
+- Casing and Cementing

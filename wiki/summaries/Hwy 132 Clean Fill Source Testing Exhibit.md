@@ -1,59 +1,48 @@
 ---
 source: raw/Hwy 132 Clean Fill Source Testing Exhibit.pdf
 source_type: paper
-compiled_at: 2026-04-21T02:28:20Z
+source_hash: sha256:18a91372d82d16b5fc36aaf590a230fa3d496e08022a69d9abdba394714147ab
+compiled_at: 2026-06-04T03:11:49Z
 chunk_count: 1
 ---
 
 ## Key claims
-- The document is an initial site assessment / environmental reconnaissance for the SR-132 West freeway/expressway project area in Modesto, California.
-- It identifies parcels and right-of-way segments with recognized environmental conditions (RECs) that may affect clean fill sourcing, acquisition, or construction staging.
-- RECs are categorized by relative risk class (High, Medium, Low) based on proximity to known or suspected contamination sources and database evidence.
-- The main contaminants of concern are petroleum hydrocarbons, solvents, heavy metals, waste oil, and other industrial wastes.
-- The figure maps the spatial distribution of REC parcels, stockpiled soil, former industrial pond locations, and drainage/infiltration basins in relation to existing/proposed right-of-way.
+- The report identifies multiple Recognized Environmental Conditions (RECs) along the SR 132 corridor (Alternative 1) in Modesto, California, as part of an initial site assessment for a freeway/expressway project.
+- High‑risk RECs are primarily associated with underground storage tanks (USTs), leaking USTs (LUST), and petroleum hydrocarbon releases at several properties.
+- Medium‑risk RECs include heavy metals in soil stockpiles, solvents from auto‑body operations, and oil/water separators.
+- Low‑risk RECs (e.g., waste oil and other waste material) are also noted.
+- The main contaminants of concern are petroleum hydrocarbons, solvents, heavy metals, waste oil, and drug‑lab waste.
 
 ## Methodology
-- The assessment is based on desktop review of multiple environmental and historical databases plus visual map/figure annotation.
-- Data sources referenced include:
-  - SLIC
-  - Aerial photos (1979 to present)
-  - CA FID UST
-  - HIST UST
-  - SWEEPS
-  - HAZNET
-  - LUST
-  - HIST CORTESE
-  - CDL
-  - ENVIROSTORE
-  - US HIST AUTO
-- The report links specific APNs (assessor parcel numbers) and addresses to REC types and assigns each parcel a risk class.
-- Figure-based site mapping is used to show parcel locations, project ROW, and nearby environmental features.
-- No quantitative sampling, laboratory analysis, or performance metric is reported in the provided excerpt; the product appears to be a screening-level environmental inventory rather than a field investigation.
+- **Assessment type:** Phase I Environmental Site Assessment (ESA) methodology.
+- **Databases reviewed:** SLIC, aerial photos (1979 – present), CA FID UST, HIST UST, SWEEPS, HAZNET, LUST, HIST CORTESE, ENVIROSTORE, CDL, US HIST AUTO, and others.
+- **Site reconnaissance:** On‑site visits with photographs of parcels and existing right‑of‑way (ROW) stockpiles.
+- **Risk classification:** RECs are qualitatively classified as **High**, **Medium**, or **Low** risk based on the type of REC, regulatory history, and potential impact to the project.
+- **Parcels assessed:** Specific Assessor’s Parcel Numbers (APNs) along Kansas Avenue, Carpenter Road, and Emerald Avenue are documented with corresponding RECs and database sources.
 
 ## Results
-- High-risk RECs identified at several parcels, including:
-  - APN 007-039-040, 1724 Kansas Avenue: UST, petroleum hydrocarbons
-  - APN 029-018-032, 1050 Kansas Avenue: UST, petroleum hydrocarbons
-  - APN 029-018-033, 1030 Kansas Avenue (Valley Asbestos): LUST site, petroleum hydrocarbons
-  - APN 029-018-035, 1172 Kansas Avenue (Geological Technics Inc./Former Compass Maps): UST, petroleum hydrocarbons, drug lab waste
-  - APN 029-012-069, 818 N. Carpenter Road (Quick Stop): UST, petroleum hydrocarbons
-- Medium-risk RECs identified at:
-  - Existing SR-132 ROW south of Kansas Avenue: heavy metals in soil stockpiles, miscellaneous debris, storage
-  - APN 029-018-015, 1120 Kansas Avenue: solvents
-  - APN 029-018-034, 1124 Kansas Avenue (Attarco Motor): waste oil and other waste material
-  - APN 029-012-053, 800 N. Carpenter Road (car wash): oil/water separator
-  - APN 029-018-006, 1232 Kansas Avenue (Auto Repair): petroleum hydrocarbons, solvents
-- Low-risk REC identified at:
-  - APN 029-018-034, 1124 Kansas Avenue: waste oil and other waste material is explicitly assigned Low risk in the excerpted text
-- The excerpt contains no numerical contamination concentrations, no counts of samples, and no statistical summary beyond the categorical risk classes.
-- The map legend indicates REC risk classes of High, Medium, and Low and shows acquisition parcels or existing ROW with RECs, adjacent REC parcels, stockpiled soil locations, and other REC parcels in the project vicinity.
+- **High‑risk sites** (all with UST/petroleum hydrocarbons):
+  - 1724 Kansas Avenue (APN 007‑039‑040) – UST, petroleum hydrocarbons.
+  - 1050 Kansas Avenue (APN 029‑018‑032) – UST, petroleum hydrocarbons.
+  - 1030 Kansas Avenue (Valley Asbestos, APN 029‑018‑033) – LUST site, petroleum hydrocarbons.
+  - 1172 Kansas Avenue (APN 029‑018‑035) – UST, petroleum hydrocarbons, and drug‑lab waste.
+  - 818 N. Carpenter Road (Quick Stop, APN 029‑012‑069) – UST, petroleum hydrocarbons.
+  - 941 N. Emerald Avenue (two entries: Vethoen Associates, APN 029‑012‑056 and inferred location) – USTs, petroleum hydrocarbons.
+- **Medium‑risk sites:**
+  - Existing SR‑132 ROW south of Kansas Avenue – heavy metals in soil stockpiles, miscellaneous debris.
+  - 1120 Kansas Avenue (APN 029‑018‑015) – solvents (auto body/painting).
+  - 800 N. Carpenter Road (APN 029‑012‑053) – oil/water separator (car wash).
+  - 1232 Kansas Avenue (APN 029‑018‑006) – petroleum hydrocarbons, solvents (auto repair).
+- **Low‑risk site:**
+  - 1124 Kansas Avenue (Attarco Motor, APN 029‑018‑034) – waste oil and other waste material.
+- **Inferred locations:** 941 N. Emerald Avenue (Vethoen Associates) – USTs, petroleum hydrocarbons (high risk).
 
 ## Limitations
-- The excerpt provides a screening assessment only; it does not include field sampling or laboratory confirmation of contamination.
-- Risk classes are based on database review and inferred parcel history, so they may be conservative or uncertain.
-- Some locations are inferred rather than directly verified (e.g., “location inferred” appears for at least one site).
-- The excerpt contains no explicit uncertainty analysis, thresholds, or quantitative validation of the REC classifications.
-- The provided text is partial and appears to be extracted from figure pages, so some context, parcel details, and narrative explanations are missing.
+- No subsurface sampling or analytical laboratory testing was performed; the assessment relies solely on database records, historical aerial photography, and visual site reconnaissance.
+- Some site locations are inferred (e.g., 941 N. Emerald Avenue) and may not correspond precisely to the parcel boundaries.
+- Database records may be incomplete or outdated; undocumented releases or recent contamination may not be captured.
+- Risk classifications are based on professional judgment and available information; they do not substitute for a quantitative risk assessment.
+- The report does not address off‑site migration of contaminants or future changes in site conditions.
 
 ## Concepts
-Recognized Environmental Conditions (RECs), Right-of-Way (ROW), Underground Storage Tank (UST), Leaking Underground Storage Tank (LUST), petroleum hydrocarbons, solvents, heavy metals, waste oil, oil/water separator, environmental database review, parcel-based screening, risk classification, stockpiled soil, aerial photo interpretation, historical site reconnaissance
+Recognized Environmental Condition (REC), Underground Storage Tank (UST), Leaking Underground Storage Tank (LUST), Phase I Environmental Site Assessment, HAZNET, SWEEPS, SLIC, HIST CORTESE, ENVIROSTORE, CA FID UST, HIST UST, CDL, US HIST AUTO, drug‑lab waste, heavy metals, petroleum hydrocarbons, solvents, waste oil, risk classification (High/Medium/Low).

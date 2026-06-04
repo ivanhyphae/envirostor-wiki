@@ -1,43 +1,48 @@
 ---
 source: raw/Bent 2 Stockpiles Tech Memo.pdf
 source_type: paper
-compiled_at: 2026-04-21T02:22:04Z
+source_hash: sha256:a139a72637ed2ff1ff47c8b435dbc7b8ffdbbc501bacb67522a72a2e6bc3c74f
+compiled_at: 2026-06-04T03:07:21Z
 chunk_count: 1
 ---
 
 ## Key claims
-- The memorandum reports characterization testing of Bent 2 excavation soil stockpiles within the State Route 132 right-of-way in Modesto, California.
-- Ten discrete soil samples collected from the Bent 2 end-dump piles were analyzed for barium and lead to evaluate whether the material met site-specific clean cap criteria.
-- Barium was detected in all samples, and 4 of 10 samples exceeded the maximum site-specific background threshold for barium (120 mg/kg).
-- Lead was detected in 6 of 10 samples and remained near or below the site-specific background concentration for lead (3.8 mg/kg).
-- Based on barium results, the stockpiles do not fully meet clean cap criteria, though the material may be acceptable for limited partial clean cap use pending DTSC approval.
+- Soil from the Bent 2 excavation (approx. 4,000 cubic yards, placed as end dumps on Stockpile 2) was tested for barium and lead to assess suitability for use as “clean cap” under DTSC-approved criteria.
+- Barium concentrations in 4 of 10 samples equaled or exceeded the maximum site-specific background value of 120 mg/kg (three samples exceeded, one equaled). Lead concentrations were within the background range (max 3.8 mg/kg) except for one sample at 13 mg/kg.
+- The soil does **not** meet the DTSC‑approved clean cap criteria for barium, but the memo suggests it may still be suitable as a **partial clean cap** (≤6 inches) on the upper surface of Stockpile 2 because additional pavement (base and asphalt/concrete) will be placed over it.
+- Approved clean fill sources will be required for the northerly slope of Stockpile 2.
 
 ## Methodology
-- Sampling design: 10 discrete soil samples (STK1–STK10) were collected from Bent 2 end-dump piles at approximately 80-foot intervals, alternating between the two dump rows.
-- Sample handling: Samples were placed in labeled Ziploc bags and transported under chain-of-custody to California Laboratory Services (CLS).
-- Analytical methods: Samples were analyzed for barium and lead using EPA Method 6010B (metals analysis), with expedited 24-hour turnaround.
-- Comparison benchmarks:
-  - Maximum site-specific background: barium 120 mg/kg; lead 3.8 mg/kg.
-  - BCS removal verification threshold: barium 1,000 mg/kg; lead 80 mg/kg.
-- Quality control: Laboratory report included blanks, laboratory control samples, matrix spikes, and matrix spike duplicates; results were reported on a dry-weight basis.
+- **Sampling**: Ten discrete soil samples (STK1–STK10) collected from end dump piles at ~80‑foot intervals (east‑to‑west), alternating between two rows. Samples placed in labeled Ziploc bags and transported under chain‑of‑custody to California Laboratory Services (CLS).
+- **Analysis**: Barium and lead analyzed via EPA Method 6010B (ICP‑OES) with a 24‑hour expedited turnaround. Reporting limit: 2.5 mg/kg for both metals.
+- **Quality control**: Included blank, LCS, and matrix spike/matrix spike duplicate (recoveries 75–125%, RPD ≤30%).
+- **Reference criteria**: Maximum site‑specific background values were predetermined (barium ≤120 mg/kg, lead ≤3.8 mg/kg). The BCS Removal Verification Thresholds (1,000 mg/kg for barium, 80 mg/kg for lead) are also listed for context.
 
 ## Results
-- Barium concentrations across the 10 samples ranged from 31 to 230 mg/kg.
-  - Highest: STK1 = 230 mg/kg
-  - Lowest: STK9 = 31 mg/kg
-  - 4 samples were at or above 120 mg/kg: STK1 (230), STK2 (120), STK3 (170), STK6 (220)
-- Lead concentrations ranged from <2.5 to 13 mg/kg.
-  - Highest: STK1 = 13 mg/kg
-  - Lowest detected: STK10 = 2.6 mg/kg
-  - Lead was not detected in STK4, STK5, STK7, and STK9
-- All measured concentrations were below the BCS removal verification thresholds (barium 1,000 mg/kg; lead 80 mg/kg).
-- The report concludes the stockpiles fail clean cap criteria due to barium, but could potentially be used as a partial clean cap layer of 6 inches or less on the upper surface of Stockpile 2, subject to DTSC review and with additional structural pavement cover.
+| Sample | Barium (mg/kg) | Lead (mg/kg) |
+|--------|----------------|--------------|
+| STK1   | **230**        | 13           |
+| STK2   | **120**        | 7.6          |
+| STK3   | **170**        | 5.9          |
+| STK4   | 47             | <2.5         |
+| STK5   | 49             | <2.5         |
+| STK6   | **220**        | 4.2          |
+| STK7   | 54             | <2.5         |
+| STK8   | 50             | 2.9          |
+| STK9   | 31             | <2.5         |
+| STK10  | 48             | 2.6          |
+| **Site‑specific background** | **120** (max) | **3.8** (max) |
+
+- Barium: detected in all 10 samples; range 31–230 mg/kg. 4 samples ≥120 mg/kg (STK1=230, STK2=120, STK3=170, STK6=220).  
+- Lead: detected in 6 of 10 samples; range 2.6–13 mg/kg. Only STK1 (13 mg/kg) exceeded the background maximum (3.8 mg/kg).  
+- All results below BCS Removal Verification Thresholds (1,000 mg/kg for Ba, 80 mg/kg for Pb).
 
 ## Limitations
-- Only 10 discrete samples were collected, so spatial coverage is limited relative to the full stockpile extent.
-- The memorandum evaluates only two analytes: barium and lead.
-- Clean cap suitability is contingent on DTSC review and approval; the memorandum does not itself authorize reuse.
-- The report notes that additional clean fill from previously approved sources is still required for the northerly slope of Stockpile 2.
+- Only two metals (barium and lead) were analyzed; other potential contaminants were not assessed.
+- The sample set is small (10 discrete samples) and may not fully capture spatial variability across the 800‑ft stockpile.
+- The memo explicitly notes that the material **does not comply** with the DTSC‑approved clean cap criteria for barium, and use as partial clean cap is **pending DTSC review and approval**. The recommendation is based on the planned additional pavement cap, not on the soil meeting criteria independently.
+- Laboratory results are reported from a single analysis batch; no inter‑laboratory verification was performed.
+- The memo is a technical memorandum for construction management, not a peer‑reviewed study; conclusions are provisional.
 
 ## Concepts
-characterization testing, stockpile sampling, chain-of-custody, EPA Method 6010B, metals analysis, barium, lead, site-specific background threshold, clean cap criteria, partial clean cap, dry-weight basis, matrix spike, matrix spike duplicate, laboratory control sample, removal verification threshold
+clean cap criteria, site‑specific background concentration, EPA Method 6010B, chain‑of‑custody protocol, total barium (mg/kg), total lead (mg/kg), end dump stockpiles, partial clean cap, mechanically stabilized earth (MSE) wall, Removal Action Completion Report, California Department of Toxic Substances Control (DTSC) variance.

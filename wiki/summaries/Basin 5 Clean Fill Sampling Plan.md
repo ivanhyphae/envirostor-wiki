@@ -1,41 +1,28 @@
 ---
 source: raw/Basin 5 Clean Fill Sampling Plan.pdf
 source_type: paper
-compiled_at: 2026-04-21T02:25:40Z
+source_hash: sha256:75cb04905805c935a685bd2e7b9aaa73d4f683b6bfa03c3c16339d5c5c06b7af
+compiled_at: 2026-06-04T03:00:39Z
 chunk_count: 1
 ---
 
 ## Key claims
-- The document proposes a **sampling plan for a potential clean fill source** at **SR 132 Basin 5**.
-- The identified source area is a **10-foot cut depth** zone with an estimated **~20,000 cubic yard volume**.
-- The plan is based on the assumption that the material is **native formation adjacent to roadway cut** and therefore suitable for evaluation as clean fill.
-- The proposed investigation uses **six test pit locations** and **depth-discrete composite sampling** to characterize soil quality.
+The document presents a proposed sampling plan for verifying that material from SR 132 Basin 5 qualifies as clean fill. The plan stipulates that ~20,000 cubic yards of soil will be excavated from a 10‑foot cut depth in native formation adjacent to the roadway. It defines six test pit locations, two depth‑discrete 3‑part composite sampling intervals, and a total of six composite soil samples for laboratory analysis. The primary analytical targets are pesticides (method 8081A) in the 0–2 foot interval and metals (methods 6010B/7471A) in all intervals. A 48‑hour laboratory turnaround time is specified.
 
 ## Methodology
-- **Sampling design:**  
-  - **Six test pits** across the proposed source area.
-  - **Two depth-discrete, 3-part composite samples** per pit.
-  - **Six total composite soil samples** noted in the plan.
-- **Sampling intervals / analyses:**  
-  - **0–2 ft:** pesticides and metals testing.
-  - **2–5 ft:** metals testing.
-  - **5–10 ft:** metals testing.
-- **Analytical methods referenced:**  
-  - **8081A** for pesticides.
-  - **6010B** and **7471A** for metals.
-- **Laboratory requirement:**  
-  - **48-hour lab turnaround time**.
+The sampling plan is based on the following design:
+- **Locations:** Six test pits positioned in the area of the proposed cut (native formation adjacent to roadway cut).
+- **Depth intervals and sampling:** Two depth intervals per test pit – 0–2 feet (surface) and 2–10 feet (subsurface). Each composite sample is formed from three discrete grab samples taken within the same depth interval (“3‑part composite”). A total of six composite soil samples are collected across the six test pits.
+- **Analytical methods:**  
+  - 0–2 feet: pesticides (EPA 8081A) and metals (EPA 6010B for total metals, EPA 7471A for mercury).  
+  - 2–5 feet and 5–10 feet: metals only (EPA 6010B/7471A).  
+- **Turnaround:** 48 hours from sample receipt to laboratory results.
 
 ## Results
-- No analytical results are presented in the provided content.
-- The document only specifies the **planned sampling framework** and the **estimated source volume (~20,000 cubic yards)**.
-- No contaminant concentrations, pass/fail determinations, or comparison to cleanup criteria are included.
+No quantitative analytical results are presented; the document is a sampling plan only.
 
 ## Limitations
-- The excerpt appears to be a **sampling plan**, not a completed investigation, so it contains **no measured soil quality results**.
-- Suitability of the material as clean fill is **not confirmed** in the provided content; it depends on the pending analytical outcomes.
-- The plan is limited to **six test pit locations**, which may not capture all spatial variability within the source area.
-- Only the specified analyte groups are included; other potential contaminants are not mentioned.
+No limitations or caveats are explicitly mentioned. The plan assumes that the material is native formation from an adjacent roadway cut and that the six test pits and two‑depth composite strategy are sufficient to characterize the ~20,000‑cubic‑yard volume.
 
 ## Concepts
-clean fill, source sampling plan, test pits, composite soil sampling, depth-discrete sampling, native formation, roadway cut, pesticides analysis, metals analysis, EPA 8081A, EPA 6010B, EPA 7471A, turnaround time, soil characterization
+composite sampling, depth‑discrete sampling, clean fill criteria, pesticides (EPA 8081A), metals (EPA 6010B/7471A), test pit, native formation, 48‑hour turnaround

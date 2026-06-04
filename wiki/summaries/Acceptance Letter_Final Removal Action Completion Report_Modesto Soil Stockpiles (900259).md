@@ -1,46 +1,34 @@
 ---
 source: raw/Acceptance Letter_Final Removal Action Completion Report_Modesto Soil Stockpiles (900259).pdf
 source_type: paper
-compiled_at: 2026-04-21T02:33:42Z
+source_hash: sha256:30b0fb21c3030a94df5a0105500a7eccbdf68a155b374b5d8df84301fa4ab603
+compiled_at: 2026-06-04T03:13:28Z
 chunk_count: 1
 ---
 
 ## Key claims
-- DTSC, in consultation with the Central Valley Regional Water Quality Control Board (RWQCB), reviewed the Removal Action Completion Report (RACR) for the Caltrans Modesto Soil Stockpiles, Phase 1 Interim State Route 132 West Project.
-- The report documents consolidation and capping of barium-containing soils (BCS) completed as part of the Interim Phase 1 construction effort in Modesto, California.
-- DTSC states that the work was completed in accordance with the approved Remedial Action Plan (RAP), Remedial Design and Implementation Plan (RDIP), and two approved RDIP variance requests.
-- DTSC accepted the RACR as final and had no comments on the document.
-- The acceptance letter marks completion of the Interim Phase 1 effort, but final certification of the RAP will not occur until the later Ultimate Phase 2 build-out is completed.
+- DTSC, in consultation with the RWQCB, formally accepts the Removal Action Completion Report (RACR) for the Caltrans Modesto Soil Stockpiles Phase 1 Interim State Route 132 West Project.
+- Consolidation and capping of barium-containing soils (BCS) have been completed in accordance with the approved Remedial Action Plan (RAP), Remedial Design and Implementation Plan (RDIP), and two approved variance requests.
+- The RACR includes as-built plans, cross-section figures, final survey data, and a final Operation & Maintenance (O&M) Plan; DTSC has no comments and accepts the document as final.
+- This acceptance marks the conclusion of the Interim Phase 1 effort; final certification of the RAP will not occur until the Ultimate Phase 2 build-out (anticipated in 8–10 years), which will require a supplemental RDIP, field oversight, an additional RACR, and possible O&M Plan revisions.
 
 ## Methodology
-- This is an acceptance/review letter, not an experimental study.
-- DTSC and RWQCB reviewed the RACR dated December 1, 2022, submitted by Geocon Consultants, Inc. on behalf of Caltrans.
-- The RACR incorporated:
-  - completed soil removal, consolidation, and capping activities,
-  - as-built plans,
-  - cross-section figures,
-  - final survey data,
-  - and the final Operation and Maintenance (O&M) Plan.
-- The completion activities were assessed against the approved RAP, RDIP, and two variance requests approved on April 17, 2020 and September 21, 2020.
-- No quantitative performance metrics or analytical evaluation metrics are reported in the letter.
+The document is a regulatory acceptance letter, not an experimental study. The review process included:
+- Evaluation of the December 1, 2022 RACR submitted by Geocon Consultants Inc. on behalf of Caltrans.
+- Consultation with the Central Valley Regional Water Quality Control Board.
+- Verification that soil removal, consolidation, and capping were performed per the approved RAP, RDIP, and two variance requests (approved April 17, 2020 and September 21, 2020).
+- Review of submitted as-built plans, cross-section figures, final survey data, and the O&M Plan.
 
 ## Results
-- DTSC found no issues requiring comment and accepted the RACR as final.
-- The letter confirms completion of the Interim Phase 1 remedial actions for the site.
-- DTSC will prepare a draft O&M Agreement and submit it to Caltrans for review within 30 days.
-- A Land Use Covenant (LUC) for the remediated area will also be completed for review, signature, and recording with the Stanislaus County Assessor’s office.
-- Ultimate Phase 2 work is anticipated to begin in 8 to 10 years and will include:
-  - additional lanes,
-  - final build-out of State Route 132,
-  - a supplemental RDIP,
-  - DTSC field oversight,
-  - an Ultimate Phase 2 RACR,
-  - and possible revisions to the O&M Plan and O&M Agreement.
+- DTSC accepts the RACR as final with no comments.
+- DTSC will prepare a draft O&M Agreement and submit it for Caltrans review within 30 days of the letter.
+- A Land Use Covenant (LUC) for the remediated area will be completed, reviewed, signed, and recorded with the Stanislaus County Assessor’s office.
+- The Interim Phase 1 effort is concluded; Ultimate Phase 2 work is expected to begin in 8–10 years and will be conducted under a separate DTSC-Caltrans agreement.
 
 ## Limitations
-- The letter notes that this acceptance does not constitute final certification of the RAP for the overall project.
-- Final closure is contingent on completion of the separate, future Ultimate Phase 2 effort.
-- The letter does not provide site contamination concentrations, cleanup thresholds, sampling results, or other technical data; it only states administrative acceptance of the completion report.
+- Final certification of the RAP is deferred until the completion of the Ultimate Phase 2 State Route 132 build-out (8–10 years later).
+- Ultimate Phase 2 will require a separate supplemental RDIP, DTSC field oversight, an additional RACR, and potential revisions to the O&M Plan and O&M Agreement.
+- The acceptance letter does not provide quantitative remediation performance metrics (e.g., soil concentration levels after capping, long-term monitoring results).
 
 ## Concepts
-Remedial Action Completion Report (RACR), Department of Toxic Substances Control (DTSC), Central Valley Regional Water Quality Control Board (RWQCB), barium-containing soils (BCS), Remedial Action Plan (RAP), Remedial Design and Implementation Plan (RDIP), variance request, as-built plans, cross-section figures, final survey data, Operation and Maintenance (O&M) Plan, O&M Agreement, Land Use Covenant (LUC), Interim Phase 1, Ultimate Phase 2, soil removal, consolidation, capping
+Barium-containing soils, interim removal action, consolidation and capping, Remedial Action Plan, Remedial Design and Implementation Plan, variance request, as-built plans, Operation and Maintenance Plan, Land Use Covenant, Ultimate Phase 2 build-out

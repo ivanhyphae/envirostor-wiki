@@ -1,39 +1,30 @@
 ---
 source: raw/04 04 2013 Final  SSI and HHRA 8 (1).pdf
 source_type: paper
-compiled_at: 2026-04-21T02:35:04Z
+source_hash: sha256:d0cf1aa5e488f3aec7a97abad16d2aa721526186316feba145aa7b9f76e0577a
+compiled_at: 2026-06-04T03:13:44Z
 chunk_count: 1
 ---
 
 ## Key claims
-- This document is a DTSC review/approval letter for Geocon’s revised **Supplemental Site Investigation (SSI)** and **Human Health Risk Assessment (HHRA) Update** for the **Caltrans Modesto soil stockpiles** associated with the **State Route 132/99 West Expressway/Freeway Project** in Stanislaus County, California.
-- DTSC, in consultation with the **Regional Water Quality Control Board (Central Valley Regional)**, concludes that the March 1, 2013 revised SSI and HHRA Update are acceptable and states that it **concur[s]** with both reports.
-- The work supports preparation of a **Remedial Action Plan** for managing soil stockpiles, including evaluating whether contaminants have migrated laterally or vertically and updating human health risk estimates.
+- The Department of Toxic Substances Control (DTSC), in consultation with the Regional Water Quality Control Board, concurred with the revised reports titled “Supplemental Site Investigation (SSI), Caltrans Modesto Soil Stockpiles, State Route 132 West Freeway/Expressway Project, Stanislaus County, California” and “Human Health Risk Assessment (HHRA) Update, Caltrans Modesto Soil Stockpiles, State Route 132 West Freeway/Expressway Project, Stanislaus County, California,” both prepared by Geocon Consultants Inc. and dated March 1, 2013.
+- The SSI provides additional characterization of soil stockpiles to evaluate potential lateral and vertical migration of contaminants.
+- The HHRA Update revises the human health risk assessment based on new characterization data.
+- This approval follows a prior workplan approval (September 2012), submission of draft reports (December 2012), DTSC comments (February 2013), and subsequent revisions.
 
 ## Methodology
-- The underlying work consisted of a **Supplemental Site Characterization Workplan** followed by implementation in late September 2012.
-- Geocon collected additional characterization data from the soil stockpiles to assess:
-  - **lateral and vertical migration** of contaminants,
-  - updated conditions relevant to remedy selection,
-  - and the need to revise the **HHRA**.
-- DTSC reviewed:
-  - the response to DTSC comments,
-  - the revised SSI report,
-  - and the revised HHRA Update.
-- This document itself is an **oversight/review correspondence**, not an experimental study; it does not report a new dataset, sampling design, or numerical risk metric in the letter.
-- Evaluation was based on regulatory review and comparison against prior DTSC comments.
+- The workplan (Final Supplemental Site Characterization Workplan, September 18, 2012) was approved for additional characterization of soil stockpiles at the proposed State Route 132/99 West Expressway location.
+- Fieldwork was implemented in late September 2012.
+- The SSI and HHRA Update reports were first drafted (December 2012), then revised (March 2013) in response to DTSC comments (February 15, 2013).
+- The DTSC review included consultation with the Regional Water Quality Control Board.
+- No specific experimental design, datasets, or evaluation metrics are described in this letter; the original reports would contain those details.
 
 ## Results
-- DTSC indicates approval/acceptance of the revised documents dated **March 1, 2013**:
-  - “SSI, Caltrans Modesto Soil Stockpiles, State Route 132 West Freeway/Expressway Project, Stanislaus County, California”
-  - “HHRA Update, Caltrans Modesto Soil Stockpiles, State Route 132 West Freeway/Expressway Project, Stanislaus County, California”
-- The letter references prior drafts dated **December 14, 2012** (SSI) and **December 17, 2012** (HHRA Update), and DTSC comments dated **February 15, 2013**.
-- No quantitative contaminant concentrations, risk values, or cleanup thresholds are provided in the letter itself.
+- DTSC concurs with the March 1, 2013 SSI and HHRA Update reports.
+- No quantitative results (e.g., contaminant concentrations, risk numbers) are provided in this letter; the approval confirms the adequacy of the reports for developing a Remedial Action Plan.
 
 ## Limitations
-- The document is a **review letter** rather than the SSI/HHRA technical reports, so it contains **no detailed methods, sampling results, or risk calculations**.
-- It does not provide the specific contamination levels, exposure assumptions, or numerical HHRA outcomes used to justify concurrence.
-- Conclusions are limited to DTSC’s concurrence with the revised reports; the letter does not itself establish the final remedial action details.
+- The letter itself does not discuss limitations of the studies. Limitations, if any, would be described in the original reports (SSI and HHRA Update), which are not included in the source material.
 
 ## Concepts
-Supplemental Site Investigation, Human Health Risk Assessment, soil stockpiles, remedial action plan, contaminant migration, site characterization, hazardous substances, regulatory oversight, DTSC, Regional Water Quality Control Board, Brownfields and Environmental Restoration Program
+Supplemental Site Investigation, Human Health Risk Assessment, soil stockpile characterization, lateral and vertical contaminant migration, Remedial Action Plan, hazardous substance management, regulatory oversight, interagency agreement

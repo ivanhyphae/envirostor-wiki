@@ -1,120 +1,50 @@
 ---
 concept: barium-containing-soil
-aliases: ["bcs", "barium containing soil", "barium-impacted soil"]
-sources: ["raw/Approval Letter Stockpile 2 Spoils Workplan (900259).pdf", "raw/Approval of GW Statistical Evaluation (900259).pdf", "raw/OM Plan Comments (900259).pdf", "raw/Errata Transmittal 2-6-2020.pdf"]
+entity_type: concept
+aliases: ["barium contaminated soil", "barium-impacted soil", "BCS", "barium-contaminated soil", "bcs", "barium-containing soils"]
+sources: ["raw/Carpenter Road Shoofly Clean Fill Tech Memo.pdf", "raw/DTSC Letter Response - 2025 GW Monitoring Report (900259) (1).pdf", "raw/SR 132 Stockpile 2 BCS Removal Tech Memo.pdf", "raw/Stockpile 2 BCS Foundation Spoil Workplan Tech Memo.pdf", "raw/7083_S9525-06-44 Modesto Soil Stockpiles Fenceline Workplan.0912 (1).pdf", "raw/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19 (1).pdf", "raw/Stockpile 3 Confirmation Sampling Tech Memo Approval.pdf", "raw/SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020.pdf", "raw/Stockpile 2 MSE Wall Sampling Tech Memo.pdf", "raw/Final RDIP Approval Letter (900259).pdf", "raw/OM Plan Comments (900259).pdf", "raw/RDIP All Figures.pdf", "raw/Approval Letter Stockpile 2 Spoils Workplan (900259).pdf", "raw/Caltrans Modesto Soil Stcokpiles RDIP Variance.pdf", "raw/2025 - RE_ Reminder - Annual Inspection Report.pdf", "raw/DTSC Letter Response - 2025 GW Monitoring Report (900259).pdf", "Acceptance E-mail_Stockpiles 1 and 2 MSE Wall Sampling Plan.pdf", "Borrow Area Sampling Plan.pdf", "Draft Interim RACR_ App D-G.pdf", "DTSC E-mail Approval of Carpenter Shoofly Tech Memo.pdf", "raw/Acceptance Letter_Final Removal Action Completion Report_Modesto Soil Stockpiles (900259).pdf", "raw/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18.pdf", "raw/Stockpile 2 Confirmation Sampling Tech Memo Approval.pdf"]
 confidence: medium
-created_at: 2026-04-21T02:46:42Z
+created_at: 2026-06-04T03:19:09Z
 ---
 
+# Barium Containing Soil
+
 ## Definition
+**Barium containing soil** refers to soil that contains elevated concentrations of barium, typically from anthropogenic sources such as industrial waste, oil and gas drilling muds, mining operations, or former manufactured gas plants. Barium is a silvery‑white alkaline earth metal that occurs naturally in minerals like barite (barium sulfate) and witherite (barium carbonate). In environmental regulation, barium is a priority metal due to its potential toxicity to humans and ecosystems. Soils with barium concentrations exceeding regulatory screening levels (e.g., California Human Health Screening Levels, CHHSLs) are considered contaminated and require management under hazardous waste or cleanup programs such as the California Department of Toxic Substances Control (DTSC) oversight. Remediation often involves excavation, off‑site disposal, or on‑site capping with clean cover soil.
 
-**Barium Containing Soil** refers to soil material in which **barium (Ba)** is present at detectable or elevated concentrations, typically as a result of the native geochemistry of the site, historical industrial activity, or the incorporation of barium-bearing residues, fill, or spoil material. In environmental and remedial contexts, the term usually appears when soil has been evaluated for **regulatory compliance, waste characterization, or reuse/disposal decisions** and barium is one of the constituents of concern.
+## How It Works
+Barium in soil can exist in several chemical forms that influence its environmental behavior and risk:
 
-Barium in soil may occur naturally in minerals such as barite (barium sulfate) or as more soluble forms associated with anthropogenic contamination. The environmental significance depends less on the mere presence of barium and more on its **concentration, chemical form, mobility, and exposure pathway**.
+- **Mobility**: The solubility of barium compounds varies. Barium sulfate (barite) is highly insoluble and thus relatively immobile in soil, whereas barium chloride or barium hydroxide are more soluble and can leach into groundwater under acidic conditions. Under neutral to alkaline pH, barium tends to form low‑solubility precipitates, reducing mobility. Soil organic matter and clay content can also adsorb barium, decreasing leaching.
+- **Toxicity**: Ingested or inhaled soluble barium compounds can cause acute effects (muscle weakness, cardiac arrhythmia) and chronic effects (hypertension, kidney damage). The California Department of Toxic Substances Control has established a human health screening level of 5,200 mg/kg for barium in residential soil (based on the most sensitive endpoint).
+- **Detection and characterization**: Assessment of barium‑containing soil typically involves collection of surface or subsurface soil samples, digestion by EPA Method 3050B (acid extraction) or 3051A (microwave), and analysis by inductively coupled plasma mass spectrometry (ICP‑MS) or atomic absorption spectrometry. Field screening with X‑ray fluorescence (XRF) is also used to map hot spots.
+- **Remediation approaches** (as observed in the Modesto Soil Stockpiles project):
+  1. **Excavation and off‑site disposal** – Contaminated soil is removed to permitted landfills (e.g., Class I or Class II) if barium levels exceed hazardous waste thresholds (California Title 22 threshold for barium is 100 mg/L by the TCLP [Toxicity Characteristic Leaching Procedure]).
+  2. **On‑site containment** – A soil cap or pavement cover is placed to prevent direct contact and infiltration. The Stockpile 2 and Stockpile 3 projects in Modesto used engineered caps consisting of clean fill, geotextile, and asphalt or vegetated soil.
+  3. **Use as clean fill** – After confirmation sampling shows barium below residential/commercial screening levels, the soil can be reused as backfill or grading material under a “clean fill” designation. This is documented in tech memos like “SR 132 Basin 5 Clean Fill Tech Memo”.
+  4. **Stabilization/solidification** – Adding binders (cement, lime) to reduce leaching, though not frequently used in the referenced documents.
 
-## How it works
-
-Barium containing soil is understood through a combination of **sampling, laboratory analysis, statistical evaluation, and comparison to cleanup or management criteria**.
-
-### 1. Source and accumulation
-Barium can enter soil through:
-- naturally occurring parent material and mineral weathering,
-- industrial fill or construction debris,
-- drilling muds, pigments, brake materials, fireworks residues, or other process wastes,
-- stockpiled spoils or excavated materials that are later reused or managed on-site.
-
-In remedial projects, barium may be tracked as part of **soil stockpile or spoils management**, especially where excavated materials are being evaluated for reuse, transport, or disposal.
-
-### 2. Sampling and analysis
-Soil is collected from designated locations and analyzed for barium using laboratory methods. The result is generally reported as a **mass concentration**, such as milligrams per kilogram (mg/kg).
-
-Because barium can vary spatially within a site, evaluation often involves:
-- discrete or composite sampling,
-- comparison across depth intervals,
-- grouping by area or stockpile,
-- treatment of non-detects and analytical qualifiers.
-
-### 3. Statistical evaluation
-When enough samples are available, project teams may perform a **groundwater or soil statistical evaluation** to determine whether results are representative of site conditions and whether concentrations exceed a threshold with acceptable confidence. For soil, this may support decisions such as:
-- whether the stockpile is clean enough for reuse,
-- whether it requires off-site disposal,
-- whether additional characterization is needed.
-
-Statistical methods help distinguish:
-- isolated high values,
-- site-wide elevation,
-- background conditions,
-- trends attributable to specific source areas.
-
-### 4. Comparison to standards
-The measured barium concentration is compared to relevant criteria, which may include:
-- site-specific cleanup goals,
-- regulatory screening levels,
-- waste acceptance criteria,
-- background concentrations,
-- engineering or reuse criteria for spoils.
-
-The interpretation depends on the project context. A soil sample with barium above background is not automatically a hazard; the key question is whether it poses an unacceptable risk or violates management thresholds.
-
-### 5. Management implications
-If soil is identified as barium containing, it may be:
-- reused on-site if it meets criteria,
-- segregated and stockpiled separately,
-- characterized further for leaching potential,
-- disposed of as regulated waste if required,
-- incorporated into a remedial action or excavation plan.
-
-In some plans, comments and errata may adjust how barium-related soil is classified or managed, reflecting updated interpretations, corrected tables, or revised analytical summaries.
+The Modesto site involved multiple stockpiles (Stockpiles 1, 2, 3) of soil originating from construction and excavation within a former railroad yard that had historical barium impacts. A Removal Action Workplan (RAP) and Remedial Design Implementation Plan (RDIP) were prepared and approved by DTSC. After removal of the contaminated soil, confirmation sampling demonstrated compliance with cleanup levels, and the DTSC accepted the Final Removal Action Completion Report.
 
 ## Variants
-
-### Naturally barium-bearing soil
-Soil derived from mineral-rich geologic formations may contain elevated barium without human contamination. In such cases, barium may be treated as **background** rather than contamination, depending on local conditions.
-
-### Anthropogenically impacted soil
-Soil impacted by industrial activities, fill, or waste placement may contain barium from human sources. This is the most common regulatory concern because it may indicate disposal of barium-bearing materials or site operations that altered soil chemistry.
-
-### Stockpile or spoils material
-Excavated soil held in a stockpile or spoils area may be described as barium containing if analytical results indicate detectable or elevated barium. This variant is important for **temporary management** and **reuse decisions**.
-
-### Leachable vs. total barium
-A soil may contain:
-- **total barium**: the overall concentration in the solid matrix,
-- **leachable barium**: the fraction that can migrate into water under certain conditions.
-
-This distinction matters because barite-rich material can contain substantial total barium yet have relatively low mobility due to poor solubility.
-
-### Background-adjusted soil
-Some evaluations compare site soil to **natural background**. A soil may contain barium and still be considered acceptable if concentrations are consistent with regional background levels.
+- **Barite soil** – Naturally occurring or drilling waste containing barium sulfate. Often less mobile but may be elevated in total barium.
+- **Barium carbonate soil** – From industrial processes (e.g., brick manufacturing, glass, ceramics). More soluble than sulfate and more bioavailable.
+- **Barium‑containing slag or ash** – From smelting or coal combustion. May contain other metals (lead, arsenic) and be classified as hazardous.
+- **Low‑level barium soil** – Barium concentrations exceeding background (typically 100–500 mg/kg in California soils) but below residential screening levels. Might be managed as “restricted use” or with institutional controls.
+- **High‑mobility barium soil** – In low‑pH, sandy soils where barium can leach; requires interventions like pH adjustment or removal.
 
 ## Trade-offs
-
-### Total concentration does not equal risk
-A major limitation is that total barium concentration alone does not fully describe hazard. Bioavailability and leachability can be much more important than absolute concentration.
-
-### Background complicates interpretation
-Barium is naturally present in many soils, so distinguishing contamination from background can be difficult. This can affect cleanup decisions and may require statistical background studies.
-
-### Sampling variability
-Soil is heterogeneous. A few samples may miss localized hot spots or overstate site-wide conditions. Statistical evaluation helps, but uncertainty remains.
-
-### Chemical form matters
-Poorly soluble barium minerals behave differently from more mobile compounds. Two soils with the same total barium concentration can have very different environmental impacts.
-
-### Management and reuse constraints
-Even when soil is not highly hazardous, barium-related classifications can limit beneficial reuse, increase disposal costs, or require stockpile segregation and documentation.
-
-### Regulatory context is site-specific
-Acceptance criteria vary by jurisdiction and project. A soil that is acceptable in one remedial program may require additional treatment or disposal in another.
+- **Cost**: Excavation and off‑site disposal is expensive (transportation + tipping fees at $50–$200/ton). On‑site capping is cheaper but requires long‑term maintenance and land use restrictions.
+- **Risk**: Soluble barium forms pose greater immediate health risk; barite is less hazardous but still regulated due to total concentration. Contaminant fate depends on soil geochemistry.
+- **Regulatory complexity**: Barium is not always listed as a hazardous waste constituent unless it exceeds TCLP threshold. However, sites with total barium above 10,000 mg/kg may still trigger removal action under DTSC oversight. Confirmation sampling must be statistically robust.
+- **Public perception**: Even if barium is present in immobile forms, community concern can drive more stringent cleanup than required.
+- **Long‑term effectiveness**: Caps may degrade or be compromised by future construction; institutional controls (deed restrictions) must be monitored.
 
 ## See also
-
-- Soil Contamination
-- Heavy Metals in Soil
-- Barite
-- Environmental Site Assessment
-- Soil Stockpile Management
-- Waste Characterization
-- Groundwater Statistical Evaluation
-- Background Concentration
-- Leachability
+- Heavy metals in soil
+- California Department of Toxic Substances Control
+- Removal Action Workplan
+- Soil cap remediation
+- Toxicity Characteristic Leaching Procedure
+- X‑ray fluorescence
+- Modesto Soil Stockpiles Project

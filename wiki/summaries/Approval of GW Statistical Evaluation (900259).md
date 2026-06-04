@@ -1,40 +1,30 @@
 ---
 source: raw/Approval of GW Statistical Evaluation (900259).pdf
 source_type: paper
-compiled_at: 2026-04-21T02:21:41Z
+source_hash: sha256:2e43946fad5ae8b781a02fbe61a37100b5afc23b7c458cf3997c3373d4cb9120
+compiled_at: 2026-06-04T03:02:17Z
 chunk_count: 1
 ---
 
 ## Key claims
-- DTSC, in consultation with the Central Valley Regional Water Quality Control Board (RWQCB), approved the **Updated Comparative Evaluation of Groundwater Data** for the Caltrans encapsulated soil stockpiles at **State Route 132, Stanislaus County, California (Site Code: 900259)**.
-- The reviewed data indicate that the **encapsulated barium- and lead-impacted soil is not impacting groundwater**.
-- DTSC and RWQCB conclude that the soil **will not impact groundwater in the future**, citing:
-  - agreement with the **earlier 2014 evaluation**
-  - the **recent encapsulation** of the soil beneath the new Express Way
-- Based on this conclusion, they support **discontinuing groundwater monitoring** beneath the stockpiles and **decommissioning four remaining monitoring wells**.
+- The Department of Toxic Substances Control (DTSC) and Central Valley Regional Water Quality Control Board (RWQCB) approve the Updated Comparative Evaluation of Groundwater Data submitted by Geocon Consultants, Inc. on behalf of Caltrans.
+- The data indicate that encapsulated barium- and lead-impacted soil stockpiles beneath State Route 132 are not currently impacting groundwater and will not do so in the future.
+- The 2024 evaluation is consistent with a prior 2014 evaluation, and recent soil encapsulation supports this conclusion.
+- DTSC and RWQCB concur with the recommendation to discontinue groundwater monitoring and decommission four monitoring wells (MW4, MW6, MW9, MW10) per the approved Remedial Design and Implementation Plan.
 
 ## Methodology
-- This document is an **approval letter** summarizing regulatory review of a prior technical report: the **Updated Comparative Evaluation of Groundwater Data** dated **February 26, 2024**.
-- The underlying evaluation was prepared by **Geocon Consultants Inc.** on behalf of **Caltrans**.
-- The evaluation compared groundwater data associated with **encapsulated soil stockpiles** beneath the newly constructed **SR 132 Express Way**.
-- The purpose was to assess whether **barium- and lead-impacted soils** might affect groundwater.
-- Specific datasets, statistical tests, and numeric performance metrics are **not provided in the letter**; the letter references consistency with the **2014 evaluation** and the current encapsulation condition as the basis for review.
-- Monitoring infrastructure referenced includes wells **MW4, MW6, MW9, and MW10**.
-- The outcome is a regulatory determination rather than a new experimental analysis.
+- The evaluation is based on a comparative analysis of groundwater data collected from monitoring wells beneath the encapsulated soil stockpiles. The work was performed by Geocon Consultants, Inc. on behalf of Caltrans.
+- The evaluation was submitted as a formal report (dated February 26, 2024) and reviewed by DTSC and RWQCB.
+- No new experimental setup is described; the report reviews historical and current monitoring data.
 
 ## Results
-- The reviewers found that the **encapsulated soil is not impacting groundwater**.
-- They also concluded it **will not impact groundwater in the future**.
-- The approval supports:
-  - **discontinuation of groundwater monitoring** beneath the soil stockpiles
-  - **decommissioning of four wells**: MW4, MW6, MW9, and MW10
-- No quantitative groundwater concentration values, trend statistics, or threshold exceedances are reported in the provided text.
+- The encapsulated soil stockpiles show no current impact on groundwater quality.
+- The encapsulated soil is predicted not to impact groundwater in the future.
+- The finding is consistent with the earlier 2014 evaluation.
+- Groundwater monitoring is to be discontinued, and the four wells (MW4, MW6, MW9, MW10) are to be decommissioned.
 
 ## Limitations
-- The letter does **not present the underlying data tables, statistical analyses, or concentration measurements**.
-- It does not specify the exact groundwater parameters reviewed beyond **barium and lead**.
-- The approval is based on the submitted evaluation and regulatory judgment; the letter does not independently detail the full analytical methods or uncertainty estimates.
-- The conclusion is site-specific to **SR 132, Stanislaus County, California** and should not be generalized without further context.
+- The document is a regulatory approval letter and does not discuss study limitations. No caveats or uncertainties are explicitly mentioned by the authors (DTSC/RWQCB).
 
 ## Concepts
-groundwater monitoring, comparative evaluation, encapsulated soil stockpiles, barium, lead, Caltrans, DTSC, Central Valley Regional Water Quality Control Board, remedial design and implementation plan, monitoring well decommissioning, site mitigation, groundwater impact assessment
+encapsulation, groundwater monitoring, stockpile, barium/lead contamination, comparative evaluation, well decommissioning, Remedial Design and Implementation Plan

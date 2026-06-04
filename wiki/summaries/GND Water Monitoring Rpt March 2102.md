@@ -1,42 +1,28 @@
 ---
 source: raw/GND Water Monitoring Rpt March 2102.pdf
 source_type: paper
-compiled_at: 2026-04-21T02:24:09Z
+source_hash: sha256:6dac969a11981f6bfcd379aef97ece146bf6c948ed9c4e37d8d82348c13c7345
+compiled_at: 2026-06-04T03:11:03Z
 chunk_count: 1
 ---
 
 ## Key claims
-- DTSC and the Central Valley Regional Water Quality Control Board reviewed the May 2012 groundwater monitoring report for the Caltrans Modesto Soil Stockpiles site (SR 99 and 132, Modesto, California).
-- The report presents analytical results from groundwater monitoring well sampling conducted on March 12, 2012, with prior sampling events on June 14, 2006 and October 5, 2006.
-- DTSC concurs with the monitoring report’s findings, but emphasizes the need for continued monitoring and trend analysis.
-- The primary chemicals of concern (COCs) at the site are barium, lead, and strontium.
-- The site is associated with excess native soils and pond tailings from SR 99 construction and a nearby historical FMC evaporation pond, which is relevant to groundwater contamination concerns.
+- The Department of Toxic Substances Control (DTSC) concurs with the “Groundwater Monitoring Report, California Department of Transportation (Caltrans) Modesto Soil Stockpiles – State Route 99 and 132, Modesto, California” (prepared by Geocon Consultants, May 2012).
+- Primary chemicals of concern (COC) are barium, lead, and strontium, derived from historical chemical manufacturing by FMC (Food Machinery and Chemical Corporation) at the site.
+- DTSC requests that future reports include comparisons of concentration trends over time, graphs/maps of COC trends, and legends on all graphics (including “stiff” diagrams). Quarterly groundwater monitoring should continue at a minimum.
 
 ## Methodology
-- The document is a regulatory review letter summarizing a groundwater monitoring report prepared by Geocon Consultants (May 2012).
-- Groundwater monitoring involved sampling of monitoring wells installed in 2006.
-- Sampling events referenced:
-  - June 14, 2006
-  - October 5, 2006
-  - March 12, 2012
-- During the March 12, 2012 event, split water samples were collected.
-- The letter requests future reports include:
-  - comparisons of results and concentration trends across sampling events,
-  - graphs and maps showing concentration trends over time,
-  - legends for all graphics, including stiff diagrams.
-- A minimum quarterly groundwater monitoring schedule is recommended.
+- Groundwater monitoring well sampling was conducted on March 12, 2012; earlier sampling events occurred on October 5, 2006, and June 14, 2006.
+- Monitoring wells were installed in 2006 to assess impacts from soil stockpiles (excess native soils and pond tailings generated during SR 99 construction in the early 1960s).
+- “Split” water samples were collected during the March 2012 event.
+- The site is a portion of a 4.3-acre parcel purchased from FMC, which contained an evaporation pond in its southernmost corner.
 
 ## Results
-- The letter does not provide detailed concentration values or tabulated analytical results in the excerpt.
-- The main outcome reported is regulatory concurrence: DTSC agrees with the May 2012 groundwater monitoring report.
-- The report is treated as sufficient to support ongoing monitoring, but not sufficient to discontinue or reduce sampling.
-- No exceedance numbers, statistical summaries, or contaminant concentration trends are explicitly provided in the text available.
+- No specific numerical analytical results are presented in this letter. The letter only notes that the subject report provides analytical results of the groundwater monitoring.
 
 ## Limitations
-- The letter notes that more data are needed to evaluate concentration trends over time.
-- It requests that future reports compare results from previous sampling events, implying that the current data record is too limited for trend interpretation.
-- The document excerpt does not include the underlying analytical tables, groundwater levels, or quantitative contaminant results.
-- The monitoring frequency recommendation (“at a minimum, quarterly”) suggests the current dataset is not yet adequate for less frequent monitoring.
+- No limitations are explicitly stated. The letter implies that earlier reports lacked sufficient trend analysis and graphic legends; DTSC requests improvements in these areas.
+- The monitoring frequency is currently quarterly, but the letter does not discuss statistical power or completeness of the dataset.
 
 ## Concepts
-groundwater monitoring, monitoring wells, split samples, chemicals of concern (COCs), barium, lead, strontium, stiff diagrams, concentration trends, quarterly monitoring, regulatory review, brownfields and environmental restoration, soil stockpiles, evaporation pond, historical industrial contamination
+barium, lead, strontium, chemicals of concern (COC), stiff diagrams, split samples, quarterly groundwater monitoring, evaporation pond, pond tailings, native soils

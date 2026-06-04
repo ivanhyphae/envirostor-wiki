@@ -1,60 +1,22 @@
 ---
 source: raw/RDIP All Figures.pdf
 source_type: paper
-compiled_at: 2026-04-21T02:39:02Z
+source_hash: sha256:873d1c82075619c0c7ea3a22f24a4054ee4eea1335b4d349a31bf9211893d60f
+compiled_at: 2026-06-04T03:09:32Z
 chunk_count: 1
 ---
 
 ## Key claims
-- The document presents an **Interim Phase 1 remedial design implementation plan** for the **Caltrans Modesto Soil Stockpiles** associated with the **State Route 132 West Freeway/Expressway Project** in Stanislaus County, California.
-- The main remedial action is to **consolidate barium-containing soil and aerially deposited lead (ADL) soil** into designated stockpile areas and then manage these materials under controlled site-cover and backfill conditions.
-- The plan distinguishes between:
-  - **soil to remain in place** beneath future pavement/structures,
-  - **soil to be removed/replaced** with imported backfill,
-  - and **stockpiles to be removed**.
-- A key engineering claim is that the remedial configuration can support future highway/bridge construction using **minimum cover fill** or **aggregate base beneath pavement/hardscape**, while isolating contaminated material.
-- The plan also addresses **groundwater monitoring wells**, with some wells to be **protected in place** and others **abandoned** as part of the work.
+This document is a Remedial Design Implementation Plan (RDIP) for the Interim Phase 1 of remediation at the Caltrans Modesto Soil Stockpiles site, State Route 132 West Freeway/Expressway Project, Stanislaus County, California. The plan details the consolidation and on-site management of barium-contaminated soil and aerially deposited lead (ADL) within designated zones beneath future pavement or hardscape. Key claims include: (1) existing soil stockpiles (Stockpiles 1–3) will be regraded and consolidated into a single "Barium-Containing Soil and ADL Consolidation Zone"; (2) a minimum 12-inch-thick clean cover fill (or alternative 4-inch-thick aggregate base beneath pavement/hardscape) will be placed over the consolidation zone; (3) specific groundwater monitoring wells will be either protected in-place or abandoned; (4) stockpile material at bridge abutment removal areas will be excavated and replaced with imported backfill; and (5) the plan includes a designated soil haul truck transportation route and building demolition.
 
 ## Methodology
-- This is a **remedial design / implementation plan**, not an experimental study.
-- The plan uses:
-  - **site location and vicinity mapping**,
-  - **stockpile grading plans** for Stockpiles 1–3,
-  - **generalized cross sections** (north-south and west-east),
-  - and a **soil transportation plan**.
-- Spatial elements include:
-  - **SR-132 project limits**,
-  - the **FMC boundary/former FMC facility**,
-  - **Emerald Avenue** and **Highway 99** areas,
-  - **bridge abutment stockpile removal areas**,
-  - and **groundwater monitoring well locations** (MW1–MW10).
-- The design identifies:
-  - the **barium-containing soil and ADL consolidation zone**,
-  - **existing barium-containing soil stockpiles**,
-  - **imported clean fill / embankment fill / structure backfill placement areas**,
-  - and **haul truck transportation routes**.
-- Evaluation is primarily based on **engineering design layout** rather than performance testing; no statistical analysis or lab-based metrics are provided in the excerpt.
+The document presents a design plan rather than an experimental study. The methodology involves: (1) site characterization (location of three existing barium-containing soil stockpiles within State right-of-way); (2) design of grading plans to consolidate stockpiles into a defined zone (SR-132 Post Mile 1125+60 to Post Mile 1148+30); (3) specification of cover systems (12-inch cover fill or 4-inch aggregate base under pavement); (4) identification of groundwater monitoring wells to be retained or abandoned; and (5) planning for soil transportation routes and demolition. No datasets, experimental setups, or traditional evaluation metrics are used.
 
 ## Results
-- The plan defines **three stockpiles**:
-  - **Stockpile 1**
-  - **Stockpile 2**
-  - **Stockpile 3**
-- It specifies that **Stockpile 3 is to be removed**.
-- The plan also identifies:
-  - a **western limit** of the barium-containing soil and ADL consolidation zone at **SR-132 Post Mile 1125+60**,
-  - and an **eastern limit** at **SR-132 Post Mile 1148+30**.
-- The cross sections indicate:
-  - a **minimum 12-inch-thick cover fill** over the consolidated contaminated zone, or
-  - an **alternative 4-inch-thick aggregate base beneath pavement/hardscape**.
-- For the Emerald Avenue overcrossing, the plan shows **existing barium-containing soil to be removed and replaced with imported backfill material**.
-- The transportation plan defines a **haul truck route** for moving barium-containing soil from the stockpile area.
+No quantitative experimental results (e.g., removal efficiencies, contaminant concentrations) are provided. The plan indicates that existing soil stockpiles will be consolidated, with specific stockpiles (e.g., Stockpile 3) to be removed. Cover fill thickness requirements are specified (12-inch minimum for cover fill; 4-inch aggregate base alternative under pavement). Well locations: MW1, MW3, MW4, MW6, MW9, MW10 to be protected; MW2, MW5, MW7, MW8 to be abandoned.
 
 ## Limitations
-- The provided source content is **figure-heavy and lacks narrative sections**, so detailed rationale, field data, and outcome verification are not included here.
-- No quantitative cleanup performance results, contaminant concentration tables, or post-remediation confirmation data are shown in the excerpt.
-- The document appears to be an **interim phase plan**, implying the design may be **partial or subject to later phases**.
-- The excerpt does not include explicit discussion of uncertainty, cost, schedule, or long-term monitoring performance.
+No limitations or caveats are explicitly noted by the authors. The document is a design plan and does not include performance data or post-remediation validation.
 
 ## Concepts
-Remedial design, implementation plan, interim phase, barium-containing soil, aerially deposited lead (ADL), soil stockpile consolidation, groundwater monitoring wells, imported clean fill, embankment fill, structure backfill, retaining wall backfill, cover fill, aggregate base, stockpile grading plan, haul truck transportation route, bridge abutment, SR-132, Emerald Avenue overcrossing, contaminated soil management
+barium-contaminated soil, aerially deposited lead (ADL), consolidation zone, cover fill, aggregate base, groundwater monitoring well, stockpile regrading, right-of-way, remedial design implementation plan, imported backfill

@@ -1,44 +1,32 @@
 ---
 source: raw/DTSC Letter Response - 2025 GW Monitoring Report (900259) (1).pdf
 source_type: paper
-compiled_at: 2026-04-21T02:23:11Z
+source_hash: sha256:2724d1c5ce895e0f49c6db3326189a1cf4f3cf9150b053c200f5dc1f26dd485a
+compiled_at: 2026-06-04T03:00:42Z
 chunk_count: 1
 ---
 
 ## Key claims
-- DTSC conditionally approves the **Well Destruction Completion Report** for the Caltrans Encapsulated Soil Stockpiles site in Modesto, California, with one required revision.
-- DTSC approves the **Storm Water and Surface Water Monitoring Report (FY24/25)**.
-- The monitoring history indicates that **no metals have been leaching from the stockpiles into groundwater**, supporting decommissioning of monitoring wells.
-- Stormwater sampling during qualifying rain events showed results **within reporting limits**, indicating the stockpile containment system is functioning as intended.
-- The site contains **barium-contaminated soil** in encapsulated stockpiles, managed as part of the State Route 132 West Expressway/Freeway project.
+- Conditional approval of the Well Destruction Report for decommissioning four remaining groundwater monitoring wells at the Caltrans Encapsulated Soil Stockpiles site (State Route 132, Modesto, CA).
+- Approval of the Storm Water and Surface Water Monitoring Report (FY24/25) for the same site; all storm water sample results were within reporting limits, indicating no displacement of metals.
+- Years of groundwater monitoring data support that no metals (specifically barium) from the soil stockpiles have leached into groundwater, justifying well decommissioning.
+- The site consists of three stockpiles of barium-contaminated soil dating from the 1960s; Phase I of remediation (moving Stockpile 3 into Stockpiles 1 and 2) is complete; Phase II will use the stockpiles as a 4-lane highway base.
 
 ## Methodology
-- The document is a regulatory review letter evaluating two submitted reports dated **June 18, 2025**, prepared by **Geocon Consultants, Inc.** for Caltrans.
-- **Groundwater monitoring**: Ten monitoring wells were installed in **2012** to track potential contaminant migration from the stockpiles to groundwater.
-- **Well decommissioning/destruction**: Six wells were destroyed in **2019**; the remaining four wells are addressed in the Well Destruction Completion Report.
-- **Stormwater/surface water monitoring**: Runoff was sampled during **qualifying rain events** to evaluate containment integrity and potential transport of metals to surface water.
-- Review process involved DTSC technical staff, including:
-  - **Geological Services Branch (GSB)** geologists
-  - **Human and Ecological Risk Office (HERO)** toxicologists
-- No formal numerical performance metrics are provided beyond the reporting-limit compliance and well inventory.
+- Review process coordinated by DTSC Project Manager with input from technical staff: Geological Services Branch (GSB) reviewed both reports; Human and Ecological Risk Office (HERO) reviewed the Storm Water Sampling Report.
+- Six of ten original groundwater monitoring wells were decommissioned in 2019; the four remaining were destroyed per procedures detailed in the Well Destruction Report.
+- Surface water runoff samples collected during qualifying rain events to evaluate integrity of stockpile containment system; results compared to reporting limits.
+- DTSC conditionally approved the Well Destruction Report pending addition of a table showing estimated vs. actual grout volume used per well for performance metrics.
 
 ## Results
-- **Storm water sampling results**: all were **within reporting limits**.
-- **Groundwater monitoring outcome**: years of data indicated **no metals were leaching into groundwater** from the stockpiles.
-- **Well network status**:
-  - **10** monitoring wells originally installed in 2012
-  - **6** wells decommissioned in 2019
-  - **4** remaining wells covered by the destruction report
-- DTSC grants:
-  - **Approval** of the storm water/surface water monitoring report
-  - **Conditional approval** of the well destruction report, pending one revision
-- Required revision: add a table reporting the **estimated grout volume versus actual grout volume used** for each well to provide a performance metric for abandonment.
+- 6 wells decommissioned in 2019; 4 wells destroyed in current report – no contamination detected in groundwater.
+- Storm water sampling results: all analytes within reporting limits.
+- Comment: Well Destruction Report must be revised to include a table of estimated and actual grout volumes for each of the four wells.
 
 ## Limitations
-- The letter does not provide the underlying sampling data, site concentrations, or time-series groundwater results; it only summarizes the regulatory conclusion.
-- The approval of the well destruction report is **conditional**, not final, until the requested grout-volume table is incorporated.
-- The letter does not describe the analytical methods, detection limits, or laboratory QA/QC procedures for stormwater sampling.
-- It relies on prior monitoring history and submitted reports rather than presenting new independent field measurements.
+- Approval of Well Destruction Report is conditional – final version must incorporate a table of grout volumes within 30 calendar days of letter date.
+- No quantitative data (e.g., specific barium concentrations, detection limits, rainfall amounts) provided in the letter.
+- The letter does not include raw monitoring data or statistical analysis; only summary conclusions.
 
 ## Concepts
-Groundwater monitoring, monitoring wells, well destruction/decommissioning, grout volume, stormwater sampling, surface water runoff, qualifying rain events, encapsulated soil stockpiles, contaminant migration, barium contamination, reporting limits, containment system integrity, remedial action plan, regulatory review, DTSC approval, Caltrans, Geological Services Branch, Human and Ecological Risk Office
+Well destruction, groundwater monitoring, storm water sampling, encapsulated soil stockpile, barium contamination, grout volume performance metric, remedial action plan (Phase I and Phase II), Central Valley Regional Water Quality Control Board, DTSC conditional approval

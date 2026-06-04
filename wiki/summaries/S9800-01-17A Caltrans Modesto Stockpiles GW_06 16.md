@@ -1,10 +1,37 @@
 ---
 source: raw/S9800-01-17A Caltrans Modesto Stockpiles GW_06 16.pdf
 source_type: paper
-compiled_at: 2026-04-21T02:40:18Z
+source_hash: sha256:7e69d8b5b8b961674feb67518a18ce009da28f1958811a9cf27def1858cfce5b
+compiled_at: 2026-06-04T03:13:47Z
 chunk_count: 9
 ---
 
-The document reports groundwater monitoring results for the Caltrans Modesto Soil Stockpiles site in Stanislaus County, California, under Caltrans Contract No. 06A1895 / Task Order No. 17 and DTSC-approved monitoring protocols. The site, located south of SR 99 and Kansas Avenue, has been monitored periodically from 2006 through 2016 using wells MW-1 through MW-10, with some tables also including duplicate sample MW-11. Field work on May 2, 2016 involved inspecting the wells, measuring depth to groundwater, collecting field parameters such as pH, conductivity, temperature, and ORP, and purging and sampling only wells with sufficient water. In that event, only MW-1 and MW-7 were sampled for the main monitoring round, while most other wells were dry or insufficiently water-bearing; MW-11 was collected as a duplicate. Samples were analyzed by Advanced Technology Laboratories for dissolved Title 22 metals and general water-quality constituents including major cations, chloride, nitrate, sulfate, sulfide, total dissolved solids, and alkalinity, with QA/QC checks and comparisons to California MCLs and EPA advisory values.
+## Final Summary
 
-Overall, the monitoring data show groundwater chemistry that is broadly stable and still mineralized, with elevated dissolved solids, sulfate, chloride, and hardness/major ions typical of this site, but no dissolved metals exceeding applicable numeric thresholds in the May 2016 event. Barium and strontium, identified by DTSC as primary chemicals of concern, were detected but remained well below their screening levels. Arsenic was present at low µg/L concentrations below its drinking-water standard, lead was not detected above reporting limits, and other metals were generally non-detect or only occasionally present at low levels. Historical data compiled in the report similarly show most dissolved metals below detection or at low concentrations, with only sporadic isolated detections. The report also notes that groundwater chemistry remains similar to historical conditions, with only slight ionic-composition changes since monitoring resumed in 2012. Stiff-diagram interpretation indicates bicarbonate-dominant groundwater in MW-1 and MW-7, which for this event also appeared calcium-dominant. Annual groundwater monitoring and semiannual depth-to-water measurements continue for the site.
+**Document:** "raw/S9800-01-17A Caltrans Modesto Stockpiles GW_06 16.pdf"
+**Site:** Caltrans Modesto Soil Stockpiles, Stanislaus County, California
+**Date:** May 2, 2016 (groundwater monitoring event)
+
+**Methodology:**
+Ten monitoring wells (MW-1 through MW-10) were installed in the shallow zone of the upper aquifer (Modesto Formation) to assess groundwater quality. On May 2, 2016, field crews measured depth to groundwater, purged wells using disposable bailers, and collected samples. Samples were analyzed for Title 22 dissolved metals (EPA 6020/7470), dissolved cations (Ca, Mg, K, Na), anions (Cl, NO3-N, SO4; EPA 300.0), sulfide (SM 4500), total dissolved solids (TDS; SM 2540C), and alkalinity (SM 2320B). Field QA/QC included a duplicate sample (MW-11) collected from MW-7. Results were compared to California primary/secondary Maximum Contaminant Levels (MCLs) and EPA drinking water health advisories.
+
+**Results:**
+Most monitoring wells were dry or had insufficient water for sampling; only MW-1 and MW-7 contained enough groundwater. MW-1 had a groundwater elevation of 43.07 feet MSL, and MW-7 had 41.80 feet MSL. Key analytical findings include:
+- **Barium:** 100 µg/L (MW-1) and 110 µg/L (MW-7) – well below the MCL of 1,000 µg/L
+- **Strontium:** 810 µg/L (MW-1) and 1,100 µg/L (MW-7) – below the 4,000 µg/L health advisory
+- **Arsenic:** 1.6 µg/L (MW-1) and 2.2 µg/L (MW-7) – below the 10 µg/L MCL
+- **Lead:** Not detected above practical quantitation limits in either sample
+- **Nitrate as N:** 9.2 mg/L (MW-1) and 8.7 mg/L (MW-7) – below the 10 mg/L MCL
+- **TDS:** 420 mg/L (MW-1) and 510 mg/L (MW-7); MW-7 slightly exceeded the secondary MCL of 500 mg/L
+- **PAHs:** Mostly below reporting limits
+
+No dissolved metals exceeded applicable water quality thresholds. Barium and strontium were detected but remained well below regulatory limits. Selenium exceeded the MCL of 50 µg/L in some historical samples (e.g., 260 µg/L in MW-5 on 9/20/2012), but was not reported as an exceedance in the 2016 event.
+
+**Limitations:**
+- Only 2 of 10 monitoring wells (MW-1 and MW-7) yielded sufficient water for sampling; MW-2, MW-3, MW-4, MW-5 were dry, and MW-6, MW-8 had insufficient water
+- MW-5 well box was damaged with a missing locking cap, though the well casing appeared intact
+- Sulfide results between MW-7 and duplicate MW-11 had a relative percent difference (RPD) of 106%, exceeding the 25% quality control limit, requiring an estimated qualifier
+- Several matrix spike/matrix spike duplicate (MS/MSD) analytes had recoveries and RPDs outside control limits, though laboratory control samples validated the data
+- Some historical data (pre-2012) were reproduced from a 2007 report, and laboratory error was noted for one sample preparation
+
+**Concepts:** Stiff diagrams, Modesto Formation, semi-confined aquifer conditions, gradient, Title 22 metals, dissolved metals, MCL, PAHs, SIM (selective ion monitoring), TDS, alkalinity, field parameters (temperature, conductivity, pH), disposable bailer, monitoring well construction (PVC casing, screen interval, filter pack), groundwater elevation, purge volume calculation

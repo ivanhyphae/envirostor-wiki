@@ -1,48 +1,35 @@
 ---
 source: raw/Borrow Area Sampling Plan.pdf
 source_type: paper
-compiled_at: 2026-04-21T02:42:16Z
+source_hash: sha256:655fa1945dd2ffcb76b3302b506cdd92a6298c2e9126259fd29c1f7626791360
+compiled_at: 2026-06-04T03:10:54Z
 chunk_count: 1
 ---
 
 ## Key claims
-- The document proposes a **clean fill source sampling plan** for the Highway 132 project near Carpenter Road, Modesto, California.
-- The proposed source area is the **upper 5 feet of soil** within the Highway 132 alignment, intended for use as **BCS stockpile clean fill cover**.
-- Based on prior environmental reviews and nearby testing, the area is considered to have **no documented high-risk contamination releases in the immediate vicinity**.
-- The sampling plan is designed to verify whether the soil is suitable as **clean fill** by testing for **organochlorine pesticides (OCPs)** and **metals**.
+- The proposed sampling plan aims to characterize native soil from a California State right-of-way (Highway 132, east of Carpenter Road) for use as clean fill cover for a BCS stockpile.
+- Historical investigations (Blackburn 2014 ISA, Rincon 2018 Phase II ESA) found no high-risk contamination releases in the immediate vicinity and showed pesticide and metal concentrations below regulatory screening levels in adjacent residential backyards.
+- The plan proposes 12 borings to 5‑ft depth, with 6 discrete depth‑interval composite samples analyzed for organochlorine pesticides (OCPs) and heavy metals (0–2 ft) and heavy metals only (3–5 ft).
 
 ## Methodology
-- **Site context:** Soil to be excavated from Highway 132 alignment extending east from Carpenter Road; the area has been state right-of-way since the 1960s and was previously agricultural land.
-- **Background review:** The plan references prior environmental documentation, including:
-  - **Blackburn 2014 ISA**
-  - **Rincon 2018 Phase II ESA**
-  These were reviewed for potential contaminant sources.
-- **Sampling design:**
-  - **12 borings**, each **5 feet deep**
-  - **Six depth-discrete 4-point composite samples**
-- **Analytical program:**
-  - **0–2 ft:** OCPs and heavy metals, using **3 composite samples**
-  - **3–5 ft:** heavy metals, using **3 composite samples**
-- **Supporting data:** Geotech logs from **test borings at Carpenter Road (2017)** were appended to document lithology and indicate the material is native soil.
-- **Operational dependencies:** Field work is contingent on:
-  - contract authorization,
-  - utility marking / USA notice,
-  - DTSC approval of the sampling plan.
-- **Evaluation basis:** The plan is framed around comparison to **regulatory screening levels** referenced from nearby residential backyard testing.
+- **Study design**: Pre‑characterization sampling of a proposed clean fill source area; no experimental manipulation, intended to demonstrate acceptability for reuse.
+- **Sampling**: 12 borings, each 5 ft deep, distributed across the source area.
+- **Sample preparation**: 6 depth‑discrete 4‑point composite samples:
+  - 3 composites from 0–2 ft for OCPs and heavy metals.
+  - 3 composites from 3–5 ft for heavy metals only.
+- **Analytes**: Organochlorine pesticides (OCPs) and heavy metals (specific metals not listed in the email).
+- **Dataset**: No quantitative data provided in this transmittal; results to be submitted after analyses.
+- **Evaluation criteria**: Not explicitly stated, but implied comparison to applicable regulatory screening levels (e.g., for residential/clean fill use).
 
 ## Results
-- No new laboratory results are reported in this document; it is a **proposed sampling plan** rather than a completed study.
-- The cited background investigations found:
-  - **No high-risk documented contamination releases** in the immediate area of the proposed clean fill source.
-  - Nearby residential backyard testing west of Carpenter Road showed **pesticides and metals below applicable regulatory screening levels**.
-- The Carpenter Road borings from 2017 are described as indicating the soil is **native soil**, supporting its potential suitability as clean fill.
-- A **48-hour analytical turnaround** was planned if needed, but no measured concentrations are provided in the source text.
+- No analytical results are included in the provided correspondence; the email describes only the proposed sampling plan.
+- No quantitative numbers to report.
 
 ## Limitations
-- The document does **not include actual sampling results** or final contaminant concentrations.
-- Suitability of the soil as clean fill is **pending DTSC approval** and completion of proposed field sampling.
-- The assessment relies partly on **previous environmental reports** and **adjacent-area testing**, which may not fully characterize conditions across the entire source area.
-- Sampling is limited to the **upper 5 feet** of soil and the specific analytes listed, so contaminants outside that depth range or analyte set would not be evaluated.
+- The plan is a proposal; no data yet exist to confirm material suitability.
+- The sampling targets only OCPs and heavy metals; other potential contaminants (e.g., VOCs, SVOCs, PAHs, petroleum hydrocarbons) are not mentioned.
+- The borings are limited to 5‑ft depth and a single source area; spatial variability beyond the sampled volume is not addressed.
+- The plan does not describe quality assurance/quality control (QA/QC) procedures, field blanks, or duplicates.
 
 ## Concepts
-clean fill, source characterization, borings, depth-discrete composite sampling, organochlorine pesticides (OCPs), heavy metals, regulatory screening levels, phase II environmental site assessment (ESA), industrial site assessment (ISA), state right-of-way, native soil, utility marking (USA notice), environmental sampling plan
+clean fill, composite sampling, organochlorine pesticides (OCPs), heavy metals, Phase II ESA, regulatory screening levels, native soil characterization, depth‑discrete sampling, right‑of‑way, BCS stockpile cover

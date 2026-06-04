@@ -1,41 +1,33 @@
 ---
 source: raw/Carpenter Road Shoofly Clean Fill Tech Memo.pdf
 source_type: paper
-compiled_at: 2026-04-21T02:35:09Z
+source_hash: sha256:e4c9d304183da636837e803b38da7fe92d8685291acf54a29d47a87065382030
+compiled_at: 2026-06-04T03:00:32Z
 chunk_count: 1
 ---
 
 ## Key claims
-- The Carpenter Road Shoofly excavation material can be used as clean capping material over barium-containing soil (BCS) Stockpiles 1 and 2, subject to DTSC approval.
-- Chemical characterization testing showed that excavated native soil from the Shoofly meets the site-specific clean cap criteria established in the approved variance.
-- Barium and lead concentrations in the sampled material were at or below site-specific background thresholds.
+- Approximately 5,000 cubic yards of native soil from the Carpenter Road Shoofly will be excavated after overcrossing construction and proposed as clean capping material for barium-containing soil (BCS) Stockpiles 1 and 2, pending California Department of Toxic Substances Control (DTSC) approval.
+- Barium concentrations in all 10 composite soil samples ranged from 28 to 96 mg/kg, all below the maximum site-specific background value of 120 mg/kg.
+- Lead was detected in 9 of 10 samples at concentrations ranging from 1.4 to 3.8 mg/kg, with the highest value equal to the maximum site-specific background concentration of 3.8 mg/kg.
+- The soil material meets the BCS clean cap criteria established in the referenced variance document approved by DTSC (upperbound background threshold for barium of 120 mg/kg).
 
 ## Methodology
-- **Sampling design:** 24 discrete soil samples were collected from the Carpenter Road Shoofly along six vertical transects (CSF1–CSF6).
-- **Sampling locations:** Samples were taken from the slope face at approximately 2, 5, 10, and 15 feet from the top of slope.
-- **Laboratory preparation:** The laboratory composited three discrete samples from the same elevation along each slope face, producing eight 3-part composite samples.
-- **Analytical methods:** Composite samples were analyzed for total barium and lead using EPA Method 6010B (EPA 6000/7000 series metals analysis).
-- **Turnaround time:** Testing was performed on an expedited 48-hour turnaround.
-- **QA/QC:** The attached lab report includes blanks, laboratory control samples, matrix spikes, and matrix spike duplicates; reported QC recoveries were within specified limits.
+- 24 discrete soil samples were collected from the Carpenter Road Shoofly along six vertical transects (CSF1 through CSF6) at depths of 2, 5, 10, and 15 feet from the top of the slope.
+- Samples were placed in Ziploc bags and transported to California Laboratory Services (CLS) under chain-of-custody protocol.
+- The laboratory composited three discrete soil samples from the same elevation along each slope face, producing eight 3-part composite samples.
+- Composite samples were analyzed for barium and lead using EPA Test Method 6010B with a 48-hour expedited turnaround time.
+- Results were compared against site-specific maximum background values: 120 mg/kg for barium and 3.8 mg/kg for lead.
 
 ## Results
-- **Barium:** Detected in all 10 analyzed soil samples, ranging from **28 to 96 mg/kg**.
-  - Maximum site-specific background value: **120 mg/kg**
-- **Lead:** Detected in **9 of 10** soil samples, ranging from **1.4 to 3.8 mg/kg**.
-  - Maximum site-specific background concentration: **3.8 mg/kg**
-  - One sample was **non-detect (ND)** for lead at a reporting limit of **1.3 mg/kg**
-- Sample-by-sample results:
-  - 2 ft composites: **96 mg/kg Ba**, **3.8 mg/kg Pb**; **74 mg/kg Ba**, **2.9 mg/kg Pb**
-  - 5 ft composites: **66 mg/kg Ba**, **1.7 mg/kg Pb**; **74 mg/kg Ba**, **2.0 mg/kg Pb**
-  - 10 ft composites: **52 mg/kg Ba**, **1.4 mg/kg Pb**; **80 mg/kg Ba**, **3.2 mg/kg Pb**
-  - 15 ft composites: **28 mg/kg Ba**, **ND Pb**; **39 mg/kg Ba**, **1.6 mg/kg Pb**
-- Conclusion from data: all measured barium values were below the 120 mg/kg threshold, and lead was at or below the 3.8 mg/kg background criterion.
+- Barium: detected in all 10 samples at 28, 52, 66, 74 (two samples), 80, and 96 mg/kg; all below the 120 mg/kg background threshold.
+- Lead: detected in 9 of 10 samples at 1.4, 1.6, 1.7, 2.0, 2.9, 3.2, and 3.8 mg/kg; one sample (CSF1, CSF2, CSF3-15) reported as non-detect (<1.3 mg/kg); all values ≤ 3.8 mg/kg background threshold.
+- Quality control: laboratory control sample recoveries were 107% for barium and 105% for lead; matrix spike recoveries were 107% (barium) and 95% (lead); relative percent differences (RPD) between matrix spike duplicates were 0.8% (barium) and 3% (lead), within the 30% limit.
 
 ## Limitations
-- The memorandum evaluates only **barium and lead**; it does not report on other potential contaminants.
-- Results are based on a **limited number of composite samples** derived from discrete field samples, not exhaustive sampling of the full excavation volume.
-- The report assumes compliance with the **site-specific background threshold/variance criteria**; final use as cap material remains subject to **DTSC approval**.
-- The memorandum is a characterization summary and does not independently demonstrate long-term cap performance after placement.
+- The study is specific to the Carpenter Road Shoofly location within the State Route 132 right-of-way in Modesto, California, and results may not generalize to other sites.
+- Only two contaminants (barium and lead) were tested; other potential contaminants are not addressed.
+- The memo does not discuss long-term stability of the cap or potential leaching under varying environmental conditions.
 
 ## Concepts
-clean fill characterization, barium-containing soil (BCS), clean capping material, site-specific background threshold, composite soil sampling, vertical transects, EPA Method 6010B, expedited turnaround, chain-of-custody, quality control (blank, LCS, matrix spike, matrix spike duplicate), Relative Percent Difference (RPD), reporting limit, dry weight basis
+EPA Test Method 6010B, barium-containing soil (BCS), clean capping material, composite soil samples, site-specific background threshold, chain-of-custody protocol, inductively coupled plasma atomic emission spectrometry (ICP-AES)

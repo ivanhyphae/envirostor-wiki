@@ -1,39 +1,30 @@
 ---
 source: raw/11 29 2012 Caltrans GND Water Monitoring Rpts (1).pdf
 source_type: paper
-compiled_at: 2026-04-21T02:40:45Z
+source_hash: sha256:d6149ee8718ee2e251cf17d10251ce595a5bbd985d6d298a9ef7f782638ffa01
+compiled_at: 2026-06-04T03:08:04Z
 chunk_count: 1
 ---
 
-## Key claims
-- DTSC, in consultation with the Central Valley Regional Water Quality Control Board, reviewed three groundwater monitoring reports for the Caltrans Modesto Soil Stockpiles project covering May, June, and July 2012.
-- The reports document groundwater sampling results from monitoring wells at the SR 99/SR 132 site in Modesto, California.
-- The June 2012 report additionally documents installation of two new monitoring wells: MW-9 (south of Kansas Avenue, west of SR 99) and MW-10 (south of Kansas Avenue, east of SR 99).
-- DTSC states that it concurs with the groundwater monitoring reports and requests continued reporting as new groundwater data become available.
-- The site’s primary chemicals of concern are identified as barium, lead, and strontium.
+## Summary of DTSC Letter on Caltrans Groundwater Monitoring Reports
 
-## Methodology
-- Document review of three groundwater monitoring reports prepared by Geocon Consultants and dated November 2012:
-  1. Groundwater Monitoring Report - May 2012
-  2. Additional Well Installation and Groundwater Monitoring Report - June 2012
-  3. Groundwater Monitoring Report - July 2012
-- The underlying monitoring program included groundwater well sampling conducted in May, June, and July 2012.
-- The June report also covered installation of new wells MW-9 and MW-10.
-- No explicit analytical methods, detection limits, or quantitative performance metrics are provided in this letter itself; it serves as a regulatory review/commentary on the submitted monitoring reports.
+### Key claims
+- The California Department of Toxic Substances Control (DTSC) approves the three groundwater monitoring reports (May, June, July 2012) prepared by Geocon Consultants for the Modesto Soil Stockpiles site (State Routes 99 and 132, Stanislaus County).
+- The soil stockpiles originated from excess native soils and pond tailings generated during 1960s construction of SR 99, which traversed a former Food Machinery and Chemical Corporation (FMC) parcel. FMC processed barium sulfate and strontium sulfate ores.
+- The primary chemicals of concern (COCs) are barium, lead, and strontium.
+- June 2012 report documents installation of two new monitoring wells: MW-9 (south of Kansas Ave, west of SR 99) and MW-10 (south of Kansas Ave, east of SR 99).
 
-## Results
-- DTSC’s review found the submitted groundwater monitoring reports acceptable, stating it “concurs with the subject groundwater monitoring reports.”
-- The letter does not provide specific contaminant concentration values, trends, or numerical exceedance results.
-- Site context noted:
-  - The soil stockpiles contain excess native soils and pond tailings generated during construction of a segment of SR 99 in the early 1960s.
-  - The relevant parcel was 4.3 acres and had historically been associated with FMC, a chemical manufacturing company.
-  - An evaporation pond was located in the southernmost corner of the parcel.
-- Wells MW-9 and MW-10 were successfully installed during the June 2012 activities.
+### Methodology
+- **Experimental setup**: Groundwater monitoring wells were sampled at the Modesto Soil Stockpiles site. New monitoring wells MW-9 and MW-10 were installed in June 2012. Sampling occurred in May, June, and July 2012.
+- **Datasets**: Analytical results from groundwater sampling of monitoring wells. Exact sampling protocols and analytical methods are not detailed in this letter but were presented in the three Geocon consultant reports (dated November 2012).
+- **Evaluation metrics**: DTSC reviewed the reports in consultation with the Regional Water Quality Control Board, Central Valley Region. Approval is based on concurrence with the data and interpretation presented.
 
-## Limitations
-- This source is a regulatory transmittal/review letter, not the full technical monitoring report; it contains no detailed tables, raw groundwater results, or statistical analysis.
-- No numerical groundwater concentration data are included in the letter.
-- The letter only covers May–July 2012 monitoring activities and requests future updates as more data become available.
+### Results
+- No specific quantitative results (e.g., contaminant concentrations, detection limits) are provided in the letter. The letter acknowledges that the reports contain analytical results from the three sampling events.
+- DTSC concludes that the reports are acceptable and requests future monitoring reports as data become available.
 
-## Concepts
-Groundwater monitoring, monitoring wells, well installation, soil stockpiles, pond tailings, excess native soils, chemicals of concern (COC), barium, lead, strontium, site cleanup, Brownfields and Environmental Restoration, regulatory review, DTSC, RWQCB, SR 99, SR 132, Modesto, California
+### Limitations
+- The letter does not explicitly list limitations. However, it implies that groundwater monitoring is ongoing and more data are needed for continued site assessment. No statistical or methodological caveats are discussed.
+
+### Concepts
+chemicals of concern (COC), groundwater monitoring, monitoring well installation, soil stockpiles, evaporation pond tailings, barium, lead, strontium, Food Machinery and Chemical Corporation (FMC), Regional Water Quality Control Board (RWQCB), Department of Toxic Substances Control (DTSC)

@@ -1,36 +1,29 @@
 ---
 source: raw/FW_ SR 132 Basin 5 Clean Fill Sampling Plan .pdf
 source_type: paper
-compiled_at: 2026-04-21T02:29:56Z
+source_hash: sha256:f24957df907c92491b0a674fc1a4b8c58e4d1ed6a36fbf0cbaef585373155b68
+compiled_at: 2026-06-04T03:09:50Z
 chunk_count: 1
 ---
 
 ## Key claims
-- The document is a **clean fill sampling plan** for the proposed **Basin 5** location associated with **SR 132**.
-- The sampling plan is intended for **DTSC review and expedited approval**.
-- The planned sampling frequency is justified by the site’s proximity to a previously tested **SR 132 roadway cut section east of Carpenter Road**, where **non-impacted native formation** was exposed.
-- The authors assume that **similar subsurface conditions** are expected at Basin 5.
-- The submittal appears to be limited to a **map with sample locations**; a separate **technical memorandum** with methodology and comparative background metal tables was not included and is assumed to be covered by a previously submitted memo for the Carpenter Avenue area.
+- A clean fill sampling plan is proposed for Basin 5 along SR 132, based on the premise that geologic conditions are similar to a previously tested roadway cut section east of Carpenter Road.
+- The earlier testing of that cut section confirmed non-impacted native formation (i.e., no anthropogenic contamination), so the same condition is anticipated at Basin 5.
+- Sampling frequency and locations are determined solely by a map (included in the submittal); a stand-alone technical memorandum describing methodology and background metal concentration comparisons was not provided—the authors assume the previous Carpenter Avenue memo is applicable.
 
 ## Methodology
-- The source provided here is largely an **email transmittal** rather than the full technical plan.
-- The described approach is a **sampling plan** for clean fill/mining location evaluation at Basin 5.
-- Sampling frequency and location selection are based on:
-  - spatial adjacency to a previously investigated roadway cut,
-  - prior evidence of **non-impacted native formation**,
-  - the assumption of **similar geologic/contamination conditions** at Basin 5.
-- The attached plan reportedly includes a **map with sample locations**.
-- No explicit datasets, laboratory methods, or evaluation metrics are included in the provided text.
+- The plan relies on spatial adjacency: Basin 5 is located directly north of the previously tested SR 132 cut section east of Carpenter Road.
+- No new detailed sampling methodology or detection limits are described in this document. The authors state that the sampling methodology and comparative background metal concentration tables from the prior Carpenter Avenue technical memorandum are assumed to apply.
+- The submittal consists only of a map showing sample locations within Basin 5; no additional quality assurance/quality control (QA/QC) procedures, statistical design, or analyte lists are specified.
 
 ## Results
-- No analytical results, measured concentrations, or statistical outcomes are reported in the provided excerpt.
-- The only substantive inference is that the **previous SR 132 roadway cut east of Carpenter Road did not show impact to native formation**, and this prior observation is being used to support Basin 5 sampling design.
+- No quantitative results are presented in this plan. The document is a proposed sampling design, not a report of analytical data.
+- The only result referenced is the prior finding that the Carpenter Road cut section contained non-impacted native formation (no numerical background concentrations given).
 
 ## Limitations
-- The submittal is **incomplete in the excerpted material**: it does not include the technical memorandum that would ordinarily describe **sampling methodology** and **background metal concentrations**.
-- The approach relies on an **assumption of analogous conditions** between Basin 5 and the previously investigated Carpenter Road area.
-- Because the memo is not present, **no detailed methods, analytical thresholds, or validation results** can be verified from the provided content.
-- The available information is contained in an **email chain**, not the full plan itself.
+- The sampling plan explicitly assumes that the conditions at Basin 5 are identical to those at the previously tested area east of Carpenter Road; this assumption may not be valid if localized contamination sources (e.g., undocumented fill, runoff, or different geologic strata) exist.
+- No separate technical memorandum with sampling methodology, analytical methods, or background metal concentration tables was submitted for Basin 5. This omission shifts responsibility for verifying applicability of the prior memo to the reviewing agencies.
+- The plan provides only a map of sample locations; it lacks details on depth intervals, compositing protocols, sample handling, chain-of-custody, or laboratory accreditation requirements.
 
 ## Concepts
-clean fill sampling, Basin 5, SR 132, DTSC review, expedited approval, sampling frequency, sample locations, non-impacted native formation, roadway cut section, Carpenter Road, background metal concentrations, technical memorandum, clean cover mining location
+clean fill sampling plan, background metal concentrations, native formation, non-impacted soil, roadway cut section, spatial adjacency assumption, geochemical baseline, construction materials reuse criteria

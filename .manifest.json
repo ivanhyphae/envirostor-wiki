@@ -1,5 +1,1844 @@
 {
   "version": 2,
-  "sources": {},
-  "concepts": {}
+  "sources": {
+    "raw/04 04 2013 Final  SSI and HHRA 8 (1).pdf": {
+      "hash": "sha256:d0cf1aa5e488f3aec7a97abad16d2aa721526186316feba145aa7b9f76e0577a",
+      "type": "paper",
+      "size_bytes": 1368806,
+      "added_at": "2026-06-04T03:16:41Z",
+      "compiled_at": "2026-06-04T03:16:41Z",
+      "summary_path": "wiki/summaries/04 04 2013 Final  SSI and HHRA 8 (1).md",
+      "status": "compiled"
+    },
+    "raw/04 04 2013 Final  SSI and HHRA 8.pdf": {
+      "hash": "sha256:d8a4bc50a8305993da62a5bab70012659858e0d36eba14098ac394ba8577f604",
+      "type": "paper",
+      "size_bytes": 1368806,
+      "added_at": "2026-06-04T03:16:31Z",
+      "compiled_at": "2026-06-04T03:16:31Z",
+      "summary_path": "wiki/summaries/04 04 2013 Final  SSI and HHRA 8.md",
+      "status": "compiled"
+    },
+    "raw/06A2542ct_to16_SurfaceWaterLetter _final.20210323.pdf": {
+      "hash": "sha256:e694578feb67cd4bc010da13015faf11993b498cef48720fcf2dd1324fa1d4fa",
+      "type": "paper",
+      "size_bytes": 5228109,
+      "added_at": "2026-06-04T03:16:38Z",
+      "compiled_at": "2026-06-04T03:16:38Z",
+      "summary_path": "wiki/summaries/06A2542ct_to16_SurfaceWaterLetter _final.20210323.md",
+      "status": "compiled"
+    },
+    "raw/06A2542ct_to97_SurfaceWaterLetter_final.20230309.pdf": {
+      "hash": "sha256:9702d3033e5f5724eabf3bef1138f73dbb3fb42f66e40975c30f6b53e8c19ffc",
+      "type": "paper",
+      "size_bytes": 8737777,
+      "added_at": "2026-06-04T03:16:25Z",
+      "compiled_at": "2026-06-04T03:16:25Z",
+      "summary_path": "wiki/summaries/06A2542ct_to97_SurfaceWaterLetter_final.20230309.md",
+      "status": "compiled"
+    },
+    "raw/06A2542ct_to97_SurfaceWaterLetter_final.20230328.pdf": {
+      "hash": "sha256:0ebdbbd7a57a50d2e551835cf9f2a76c72f8f4a599b58cb8b3f38f1ee393f251",
+      "type": "paper",
+      "size_bytes": 12072116,
+      "added_at": "2026-06-04T03:16:37Z",
+      "compiled_at": "2026-06-04T03:16:37Z",
+      "summary_path": "wiki/summaries/06A2542ct_to97_SurfaceWaterLetter_final.20230328.md",
+      "status": "compiled"
+    },
+    "raw/09.20.2012 Final Caltrans Supplemental Site Characterization Workplan 2.pdf": {
+      "hash": "sha256:5416211403b1011b60a61402d4f65c6ce92e699cb0a51db3dbf0ee3908743730",
+      "type": "paper",
+      "size_bytes": 1128593,
+      "added_at": "2026-06-04T03:16:44Z",
+      "compiled_at": "2026-06-04T03:16:44Z",
+      "summary_path": "wiki/summaries/09.20.2012 Final Caltrans Supplemental Site Characterization Workplan 2.md",
+      "status": "compiled"
+    },
+    "raw/11 29 2012 Caltrans GND Water Monitoring Rpts (1).pdf": {
+      "hash": "sha256:d6149ee8718ee2e251cf17d10251ce595a5bbd985d6d298a9ef7f782638ffa01",
+      "type": "paper",
+      "size_bytes": 971180,
+      "added_at": "2026-06-04T03:16:31Z",
+      "compiled_at": "2026-06-04T03:16:31Z",
+      "summary_path": "wiki/summaries/11 29 2012 Caltrans GND Water Monitoring Rpts (1).md",
+      "status": "compiled"
+    },
+    "raw/11 29 2012 Caltrans GND Water Monitoring Rpts (2).pdf": {
+      "hash": "sha256:7a38a3b58462af20aea88c1b7e6a8d220682d2fef2becac588cc5668e460a1c2",
+      "type": "paper",
+      "size_bytes": 971181,
+      "added_at": "2026-06-04T03:16:40Z",
+      "compiled_at": "2026-06-04T03:16:40Z",
+      "summary_path": "wiki/summaries/11 29 2012 Caltrans GND Water Monitoring Rpts (2).md",
+      "status": "compiled"
+    },
+    "raw/11 29 2012 Caltrans GND Water Monitoring Rpts.pdf": {
+      "hash": "sha256:97f5649e302a336805d604ba604fb95c0a6e5a2832331a541162d63eaf0a022a",
+      "type": "paper",
+      "size_bytes": 971181,
+      "added_at": "2026-06-04T03:16:34Z",
+      "compiled_at": "2026-06-04T03:16:34Z",
+      "summary_path": "wiki/summaries/11 29 2012 Caltrans GND Water Monitoring Rpts.md",
+      "status": "compiled"
+    },
+    "raw/2025 - RE_ Reminder - Annual Inspection Report.pdf": {
+      "hash": "sha256:a068b34af878cae8511c81a3b180485bc5727502bc2c2d9d6976dfa8ed08b5d6",
+      "type": "paper",
+      "size_bytes": 275747,
+      "added_at": "2026-06-04T03:16:35Z",
+      "compiled_at": "2026-06-04T03:16:35Z",
+      "summary_path": "wiki/summaries/2025 - RE_ Reminder - Annual Inspection Report.md",
+      "status": "compiled"
+    },
+    "raw/3.14.2018 - Approval letter for SR 132 RAP.pdf": {
+      "hash": "sha256:425af341ee8ea4ade75e40ddb308f38f9c935256b444d6388a0801f0ac866a5b",
+      "type": "paper",
+      "size_bytes": 317975,
+      "added_at": "2026-06-04T03:16:37Z",
+      "compiled_at": "2026-06-04T03:16:37Z",
+      "summary_path": "wiki/summaries/3.14.2018 - Approval letter for SR 132 RAP.md",
+      "status": "compiled"
+    },
+    "raw/7083_S9525-06-44 Modesto Soil Stockpiles Fenceline Workplan.0912 (1).pdf": {
+      "hash": "sha256:7fb0cb82ce3e22cbc9a8d6b736624f06e94a7acb2d1e41da4caf8d0250d54700",
+      "type": "paper",
+      "size_bytes": 15139320,
+      "added_at": "2026-06-04T03:16:23Z",
+      "compiled_at": "2026-06-04T03:16:23Z",
+      "summary_path": "wiki/summaries/7083_S9525-06-44 Modesto Soil Stockpiles Fenceline Workplan.0912 (1).md",
+      "status": "compiled"
+    },
+    "raw/7084_S9525-06-44 Response to DTSC Workplan Comments.0912 (1).pdf": {
+      "hash": "sha256:9ae7757f29ec6bb5cd28f9f9ba660f9913efd1d6554891c116aee45143c91f32",
+      "type": "paper",
+      "size_bytes": 600634,
+      "added_at": "2026-06-04T03:16:35Z",
+      "compiled_at": "2026-06-04T03:16:35Z",
+      "summary_path": "wiki/summaries/7084_S9525-06-44 Response to DTSC Workplan Comments.0912 (1).md",
+      "status": "compiled"
+    },
+    "raw/7084_S9525-06-44 Response to DTSC Workplan Comments.0912.pdf": {
+      "hash": "sha256:9ae7757f29ec6bb5cd28f9f9ba660f9913efd1d6554891c116aee45143c91f32",
+      "type": "paper",
+      "size_bytes": 600634,
+      "added_at": "2026-06-04T03:16:43Z",
+      "compiled_at": "2026-06-04T03:16:43Z",
+      "summary_path": "wiki/summaries/7084_S9525-06-44 Response to DTSC Workplan Comments.0912.md",
+      "status": "compiled"
+    },
+    "raw/7453_S9525-06-44_Modesto_Stockpiles_July_2012_GW_Report.1112.pdf": {
+      "hash": "sha256:00d9460a5646ae260a270450683819ff00f7f99a01777f1f1d6526d3bb78d54e",
+      "type": "paper",
+      "size_bytes": 8519676,
+      "added_at": "2026-06-04T03:16:23Z",
+      "compiled_at": "2026-06-04T03:16:23Z",
+      "summary_path": "wiki/summaries/7453_S9525-06-44_Modesto_Stockpiles_July_2012_GW_Report.1112.md",
+      "status": "compiled"
+    },
+    "raw/Acceptance E-mail_Stockpiles 1 and 2 MSE Wall Sampling Plan.pdf": {
+      "hash": "sha256:a26e2b519172762edb9ce51f03de6c5726ce6bacd701f84afaf4af5a0c9537d1",
+      "type": "paper",
+      "size_bytes": 84099,
+      "added_at": "2026-06-04T03:16:37Z",
+      "compiled_at": "2026-06-04T03:16:37Z",
+      "summary_path": "wiki/summaries/Acceptance E-mail_Stockpiles 1 and 2 MSE Wall Sampling Plan.md",
+      "status": "compiled"
+    },
+    "raw/Acceptance Letter Draft Interim RACR (900259).pdf": {
+      "hash": "sha256:01f91e386fb87ad11af46bc081b5af1751a3f2f94e5c7997ef8c6f7ac7db002a",
+      "type": "paper",
+      "size_bytes": 158002,
+      "added_at": "2026-06-04T03:16:31Z",
+      "compiled_at": "2026-06-04T03:16:31Z",
+      "summary_path": "wiki/summaries/Acceptance Letter Draft Interim RACR (900259).md",
+      "status": "compiled"
+    },
+    "raw/Acceptance Letter_Final Removal Action Completion Report_Modesto Soil Stockpiles (900259).pdf": {
+      "hash": "sha256:30b0fb21c3030a94df5a0105500a7eccbdf68a155b374b5d8df84301fa4ab603",
+      "type": "paper",
+      "size_bytes": 151432,
+      "added_at": "2026-06-04T03:16:42Z",
+      "compiled_at": "2026-06-04T03:16:42Z",
+      "summary_path": "wiki/summaries/Acceptance Letter_Final Removal Action Completion Report_Modesto Soil Stockpiles (900259).md",
+      "status": "compiled"
+    },
+    "raw/Annual Stockpile Inspection Form.pdf": {
+      "hash": "sha256:a610234364281347374345f557367a89ebebb4b057c98de970a8b10f7c737c22",
+      "type": "paper",
+      "size_bytes": 8474705,
+      "added_at": "2026-06-04T03:16:39Z",
+      "compiled_at": "2026-06-04T03:16:39Z",
+      "summary_path": "wiki/summaries/Annual Stockpile Inspection Form.md",
+      "status": "compiled"
+    },
+    "raw/Appendix C - 100% Design Plans.pdf": {
+      "hash": "sha256:fedb889792b78e74f9a5b2b7566a94888270af0ad003ca5b34f347d68055194a",
+      "type": "paper",
+      "size_bytes": 9214023,
+      "added_at": "2026-06-04T03:16:28Z",
+      "compiled_at": "2026-06-04T03:16:28Z",
+      "summary_path": "wiki/summaries/Appendix C - 100% Design Plans.md",
+      "status": "compiled"
+    },
+    "raw/Approval E-mail_ SR 132 Basin 5 Clean Fill Sampling Plan.pdf": {
+      "hash": "sha256:6f39234a2a2eca08e2986bbe3e07c7f56722734d983b0ebf11c4c8580d42d9ec",
+      "type": "paper",
+      "size_bytes": 194123,
+      "added_at": "2026-06-04T03:16:33Z",
+      "compiled_at": "2026-06-04T03:16:33Z",
+      "summary_path": "wiki/summaries/Approval E-mail_ SR 132 Basin 5 Clean Fill Sampling Plan.md",
+      "status": "compiled"
+    },
+    "raw/Approval E-mail_Revised Basin 5 Clean Fill Tech Memo.pdf": {
+      "hash": "sha256:bcc7b66717125be1f44eddda411250e8a511490d89ba34b0a643b2dd02fea0d8",
+      "type": "paper",
+      "size_bytes": 212437,
+      "added_at": "2026-06-04T03:16:34Z",
+      "compiled_at": "2026-06-04T03:16:34Z",
+      "summary_path": "wiki/summaries/Approval E-mail_Revised Basin 5 Clean Fill Tech Memo.md",
+      "status": "compiled"
+    },
+    "raw/Approval Letter Stockpile 2 Spoils Workplan (900259).pdf": {
+      "hash": "sha256:8f5388c0f234d23533cb8b06edc69ad7cff024e1974919eec6d3269d86ed9b1b",
+      "type": "paper",
+      "size_bytes": 119937,
+      "added_at": "2026-06-04T03:16:34Z",
+      "compiled_at": "2026-06-04T03:16:34Z",
+      "summary_path": "wiki/summaries/Approval Letter Stockpile 2 Spoils Workplan (900259).md",
+      "status": "compiled"
+    },
+    "raw/Approval of GW Statistical Evaluation (900259).pdf": {
+      "hash": "sha256:2e43946fad5ae8b781a02fbe61a37100b5afc23b7c458cf3997c3373d4cb9120",
+      "type": "paper",
+      "size_bytes": 117749,
+      "added_at": "2026-06-04T03:16:24Z",
+      "compiled_at": "2026-06-04T03:16:24Z",
+      "summary_path": "wiki/summaries/Approval of GW Statistical Evaluation (900259).md",
+      "status": "compiled"
+    },
+    "raw/Basin 5 Clean Fill Sampling Plan.pdf": {
+      "hash": "sha256:75cb04905805c935a685bd2e7b9aaa73d4f683b6bfa03c3c16339d5c5c06b7af",
+      "type": "paper",
+      "size_bytes": 2515218,
+      "added_at": "2026-06-04T03:16:18Z",
+      "compiled_at": "2026-06-04T03:16:18Z",
+      "summary_path": "wiki/summaries/Basin 5 Clean Fill Sampling Plan.md",
+      "status": "compiled"
+    },
+    "raw/Bent 2 Stockpiles Tech Memo.pdf": {
+      "hash": "sha256:a139a72637ed2ff1ff47c8b435dbc7b8ffdbbc501bacb67522a72a2e6bc3c74f",
+      "type": "paper",
+      "size_bytes": 565592,
+      "added_at": "2026-06-04T03:16:29Z",
+      "compiled_at": "2026-06-04T03:16:29Z",
+      "summary_path": "wiki/summaries/Bent 2 Stockpiles Tech Memo.md",
+      "status": "compiled"
+    },
+    "raw/Borrow Area Results Tech Memo Approval.pdf": {
+      "hash": "sha256:2bdb5f73a34099334630915310bc38b8fb6b0cd4ea6ac94301feead6acb0e710",
+      "type": "paper",
+      "size_bytes": 146233,
+      "added_at": "2026-06-04T03:16:19Z",
+      "compiled_at": "2026-06-04T03:16:19Z",
+      "summary_path": "wiki/summaries/Borrow Area Results Tech Memo Approval.md",
+      "status": "compiled"
+    },
+    "raw/Borrow Area Sampling Plan Approval E-Mail.pdf": {
+      "hash": "sha256:08ca9aa0e0b86c8a51b21763e1839442b313e33baa56123f67b166557ec47a33",
+      "type": "paper",
+      "size_bytes": 169843,
+      "added_at": "2026-06-04T03:16:37Z",
+      "compiled_at": "2026-06-04T03:16:37Z",
+      "summary_path": "wiki/summaries/Borrow Area Sampling Plan Approval E-Mail.md",
+      "status": "compiled"
+    },
+    "raw/Borrow Area Sampling Plan.pdf": {
+      "hash": "sha256:655fa1945dd2ffcb76b3302b506cdd92a6298c2e9126259fd29c1f7626791360",
+      "type": "paper",
+      "size_bytes": 150581,
+      "added_at": "2026-06-04T03:16:38Z",
+      "compiled_at": "2026-06-04T03:16:38Z",
+      "summary_path": "wiki/summaries/Borrow Area Sampling Plan.md",
+      "status": "compiled"
+    },
+    "raw/Caltrans Modesto Soil Stcokpiles RDIP Variance.pdf": {
+      "hash": "sha256:21e20475966902c43b805eb0b4b7c5ba29447e0a51c0adcb30fc680960e95798",
+      "type": "paper",
+      "size_bytes": 1151608,
+      "added_at": "2026-06-04T03:16:34Z",
+      "compiled_at": "2026-06-04T03:16:34Z",
+      "summary_path": "wiki/summaries/Caltrans Modesto Soil Stcokpiles RDIP Variance.md",
+      "status": "compiled"
+    },
+    "raw/Carpenter Road Shoofly Clean Fill Tech Memo.pdf": {
+      "hash": "sha256:e4c9d304183da636837e803b38da7fe92d8685291acf54a29d47a87065382030",
+      "type": "paper",
+      "size_bytes": 10609947,
+      "added_at": "2026-06-04T03:16:16Z",
+      "compiled_at": "2026-06-04T03:16:16Z",
+      "summary_path": "wiki/summaries/Carpenter Road Shoofly Clean Fill Tech Memo.md",
+      "status": "compiled"
+    },
+    "raw/Carpenter Shoofly Area Clean Fill Sampling Plan.pdf": {
+      "hash": "sha256:c675420eaf8b7883277dfa394c10bd4f466e7d35440af75361e02d00ff77f524",
+      "type": "paper",
+      "size_bytes": 7382797,
+      "added_at": "2026-06-04T03:16:28Z",
+      "compiled_at": "2026-06-04T03:16:28Z",
+      "summary_path": "wiki/summaries/Carpenter Shoofly Area Clean Fill Sampling Plan.md",
+      "status": "compiled"
+    },
+    "raw/DTSC Approval E-mail for Carpenter Shoofly Clean Fill Sampling Plan.pdf": {
+      "hash": "sha256:47df1459d437f981fd21118877a678c93341c792334b9a1316c4d4413adf4f27",
+      "type": "paper",
+      "size_bytes": 343583,
+      "added_at": "2026-06-04T03:16:25Z",
+      "compiled_at": "2026-06-04T03:16:25Z",
+      "summary_path": "wiki/summaries/DTSC Approval E-mail for Carpenter Shoofly Clean Fill Sampling Plan.md",
+      "status": "compiled"
+    },
+    "raw/DTSC Approval Response for final version of Well Destruction Report.pdf": {
+      "hash": "sha256:5e37aba9d3499b267e57aeecdad3e53ebc29b70a1bdb6526b1dab5577fb63034",
+      "type": "paper",
+      "size_bytes": 172748,
+      "added_at": "2026-06-04T03:16:42Z",
+      "compiled_at": "2026-06-04T03:16:42Z",
+      "summary_path": "wiki/summaries/DTSC Approval Response for final version of Well Destruction Report.md",
+      "status": "compiled"
+    },
+    "raw/DTSC E-mail Approval of Carpenter Shoofly Tech Memo.pdf": {
+      "hash": "sha256:7b6032c666e0cd5e09a8ab2be2505b8ef3c4cdbbb4b0f786004e1d6cbe05a485",
+      "type": "paper",
+      "size_bytes": 190226,
+      "added_at": "2026-06-04T03:16:41Z",
+      "compiled_at": "2026-06-04T03:16:41Z",
+      "summary_path": "wiki/summaries/DTSC E-mail Approval of Carpenter Shoofly Tech Memo.md",
+      "status": "compiled"
+    },
+    "raw/DTSC Letter Response - 2025 GW Monitoring Report (900259) (1).pdf": {
+      "hash": "sha256:2724d1c5ce895e0f49c6db3326189a1cf4f3cf9150b053c200f5dc1f26dd485a",
+      "type": "paper",
+      "size_bytes": 390620,
+      "added_at": "2026-06-04T03:16:19Z",
+      "compiled_at": "2026-06-04T03:16:19Z",
+      "summary_path": "wiki/summaries/DTSC Letter Response - 2025 GW Monitoring Report (900259) (1).md",
+      "status": "compiled"
+    },
+    "raw/DTSC Letter Response - 2025 GW Monitoring Report (900259).pdf": {
+      "hash": "sha256:2724d1c5ce895e0f49c6db3326189a1cf4f3cf9150b053c200f5dc1f26dd485a",
+      "type": "paper",
+      "size_bytes": 390620,
+      "added_at": "2026-06-04T03:16:36Z",
+      "compiled_at": "2026-06-04T03:16:36Z",
+      "summary_path": "wiki/summaries/DTSC Letter Response - 2025 GW Monitoring Report (900259).md",
+      "status": "compiled"
+    },
+    "raw/Draft Interim RACR_ App D-G.pdf": {
+      "hash": "sha256:49509ffc8f97d30c6497eea2384df968d5704d96725e35a88b43294aad5c076a",
+      "type": "paper",
+      "size_bytes": 51341557,
+      "added_at": "2026-06-04T03:16:39Z",
+      "compiled_at": "2026-06-04T03:16:39Z",
+      "summary_path": "wiki/summaries/Draft Interim RACR_ App D-G.md",
+      "status": "compiled"
+    },
+    "raw/E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan.pdf": {
+      "hash": "sha256:a24876390890f6e0681b287bf535443ab798fc20292742f16fbab3f914dd6e15",
+      "type": "paper",
+      "size_bytes": 3263247,
+      "added_at": "2026-06-04T03:16:25Z",
+      "compiled_at": "2026-06-04T03:16:25Z",
+      "summary_path": "wiki/summaries/E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan.md",
+      "status": "compiled"
+    },
+    "raw/E-mail Acceptance of Bent 2 Soils Tech Memo.pdf": {
+      "hash": "sha256:cbfd96746bf49669d940b23f126f3fa1fb02aeeb772776b39b2dc10ba033450d",
+      "type": "paper",
+      "size_bytes": 139577,
+      "added_at": "2026-06-04T03:16:43Z",
+      "compiled_at": "2026-06-04T03:16:43Z",
+      "summary_path": "wiki/summaries/E-mail Acceptance of Bent 2 Soils Tech Memo.md",
+      "status": "compiled"
+    },
+    "raw/E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo.pdf": {
+      "hash": "sha256:2e705928b66772b0ef3d5631b32a9892a0a2e2120903a65c88888a84c1f7585a",
+      "type": "paper",
+      "size_bytes": 84920,
+      "added_at": "2026-06-04T03:16:39Z",
+      "compiled_at": "2026-06-04T03:16:39Z",
+      "summary_path": "wiki/summaries/E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo.md",
+      "status": "compiled"
+    },
+    "raw/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo.pdf": {
+      "hash": "sha256:d3801bfb1a59a0b41fc094221e6cf81831837a4f6d214ec12a3dd496eb226e86",
+      "type": "paper",
+      "size_bytes": 135634,
+      "added_at": "2026-06-04T03:16:42Z",
+      "compiled_at": "2026-06-04T03:16:42Z",
+      "summary_path": "wiki/summaries/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo.md",
+      "status": "compiled"
+    },
+    "raw/Errata Transmittal 2-6-2020.pdf": {
+      "hash": "sha256:f6f03b4d77f1c7db5eff3826d28cac284f61502e4e91e8a9d0cf6216107e2647",
+      "type": "paper",
+      "size_bytes": 293179,
+      "added_at": "2026-06-04T03:16:24Z",
+      "compiled_at": "2026-06-04T03:16:24Z",
+      "summary_path": "wiki/summaries/Errata Transmittal 2-6-2020.md",
+      "status": "compiled"
+    },
+    "raw/Errata to January 2019 RDIP - SR 132 West Expressway Phase 1.pdf": {
+      "hash": "sha256:ce24a3b763d58cc2142120fb0466d00563e5bc1aa5f2352e9f74361658873d11",
+      "type": "paper",
+      "size_bytes": 162146,
+      "added_at": "2026-06-04T03:16:24Z",
+      "compiled_at": "2026-06-04T03:16:24Z",
+      "summary_path": "wiki/summaries/Errata to January 2019 RDIP - SR 132 West Expressway Phase 1.md",
+      "status": "compiled"
+    },
+    "raw/FW_ SR 132 Basin 5 Clean Fill Sampling Plan .pdf": {
+      "hash": "sha256:f24957df907c92491b0a674fc1a4b8c58e4d1ed6a36fbf0cbaef585373155b68",
+      "type": "paper",
+      "size_bytes": 2656320,
+      "added_at": "2026-06-04T03:16:35Z",
+      "compiled_at": "2026-06-04T03:16:35Z",
+      "summary_path": "wiki/summaries/FW_ SR 132 Basin 5 Clean Fill Sampling Plan .md",
+      "status": "compiled"
+    },
+    "raw/Final FS Letter.pdf": {
+      "hash": "sha256:1ff002b186244ab21dbf7f9f8440f9928a5b42af724cc6f3a731db9ee80c7920",
+      "type": "paper",
+      "size_bytes": 470163,
+      "added_at": "2026-06-04T03:16:29Z",
+      "compiled_at": "2026-06-04T03:16:29Z",
+      "summary_path": "wiki/summaries/Final FS Letter.md",
+      "status": "compiled"
+    },
+    "raw/Final RDIP Approval Letter (900259).pdf": {
+      "hash": "sha256:2c8af221809a75b74ff4c68029aa6286689060e130aab0db40515a371c77cdf8",
+      "type": "paper",
+      "size_bytes": 1355796,
+      "added_at": "2026-06-04T03:16:33Z",
+      "compiled_at": "2026-06-04T03:16:33Z",
+      "summary_path": "wiki/summaries/Final RDIP Approval Letter (900259).md",
+      "status": "compiled"
+    },
+    "raw/Final SMP Approval E-mail.pdf": {
+      "hash": "sha256:aa99a97e3733d9f2e1c7c5ec795ec5a354b5b070e85f3d6c5e8efae8cb77e90a",
+      "type": "paper",
+      "size_bytes": 242228,
+      "added_at": "2026-06-04T03:16:32Z",
+      "compiled_at": "2026-06-04T03:16:32Z",
+      "summary_path": "wiki/summaries/Final SMP Approval E-mail.md",
+      "status": "compiled"
+    },
+    "raw/GND Water Monitoring Rpt March 2102.pdf": {
+      "hash": "sha256:6dac969a11981f6bfcd379aef97ece146bf6c948ed9c4e37d8d82348c13c7345",
+      "type": "paper",
+      "size_bytes": 302070,
+      "added_at": "2026-06-04T03:16:38Z",
+      "compiled_at": "2026-06-04T03:16:38Z",
+      "summary_path": "wiki/summaries/GND Water Monitoring Rpt March 2102.md",
+      "status": "compiled"
+    },
+    "raw/Hwy 132 Clean Fill Source Testing Exhibit.pdf": {
+      "hash": "sha256:18a91372d82d16b5fc36aaf590a230fa3d496e08022a69d9abdba394714147ab",
+      "type": "paper",
+      "size_bytes": 2673616,
+      "added_at": "2026-06-04T03:16:38Z",
+      "compiled_at": "2026-06-04T03:16:38Z",
+      "summary_path": "wiki/summaries/Hwy 132 Clean Fill Source Testing Exhibit.md",
+      "status": "compiled"
+    },
+    "raw/LOTB-N Carpenter OC.pdf": {
+      "hash": "sha256:88a9f04a52312378bddf5526afa960493553a14fcc67fe49fc03d06006e2ec68",
+      "type": "paper",
+      "size_bytes": 3591047,
+      "added_at": "2026-06-04T03:16:26Z",
+      "compiled_at": "2026-06-04T03:16:26Z",
+      "summary_path": "wiki/summaries/LOTB-N Carpenter OC.md",
+      "status": "compiled"
+    },
+    "raw/OM Plan Comments (900259).pdf": {
+      "hash": "sha256:d0952ca65286213892fd3ccc9bec6f460e7d312e49b9838dae6141c1545f1329",
+      "type": "paper",
+      "size_bytes": 153677,
+      "added_at": "2026-06-04T03:16:34Z",
+      "compiled_at": "2026-06-04T03:16:34Z",
+      "summary_path": "wiki/summaries/OM Plan Comments (900259).md",
+      "status": "compiled"
+    },
+    "raw/RDIP All Figures.pdf": {
+      "hash": "sha256:873d1c82075619c0c7ea3a22f24a4054ee4eea1335b4d349a31bf9211893d60f",
+      "type": "paper",
+      "size_bytes": 2760841,
+      "added_at": "2026-06-04T03:16:34Z",
+      "compiled_at": "2026-06-04T03:16:34Z",
+      "summary_path": "wiki/summaries/RDIP All Figures.md",
+      "status": "compiled"
+    },
+    "raw/RDIP Errata Acceptance.pdf": {
+      "hash": "sha256:a778dcf67776d4b331ea7b45d721855dc4055aa03f43b6f1515f6ed8003bf5dd",
+      "type": "paper",
+      "size_bytes": 110735,
+      "added_at": "2026-06-04T03:16:38Z",
+      "compiled_at": "2026-06-04T03:16:38Z",
+      "summary_path": "wiki/summaries/RDIP Errata Acceptance.md",
+      "status": "compiled"
+    },
+    "raw/RDIP Variance Request Acceptance E-Mail.pdf": {
+      "hash": "sha256:7f0ab6af7071b336a7ee22b589e36f06eb2a9b05938f693f35a4eb8697ae4a57",
+      "type": "paper",
+      "size_bytes": 73425,
+      "added_at": "2026-06-04T03:16:30Z",
+      "compiled_at": "2026-06-04T03:16:30Z",
+      "summary_path": "wiki/summaries/RDIP Variance Request Acceptance E-Mail.md",
+      "status": "compiled"
+    },
+    "raw/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19 (1).pdf": {
+      "hash": "sha256:60ce8666931b5b90691d0db44d4c3b2590abab7b9a44bea4a64435ea7d85750c",
+      "type": "paper",
+      "size_bytes": 17791754,
+      "added_at": "2026-06-04T03:16:25Z",
+      "compiled_at": "2026-06-04T03:16:25Z",
+      "summary_path": "wiki/summaries/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19 (1).md",
+      "status": "compiled"
+    },
+    "raw/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18.pdf": {
+      "hash": "sha256:e23d5a6413d729dd076751298598ea1b67b2b9d24d9dc7355eb9d7452a46a201",
+      "type": "paper",
+      "size_bytes": 11261620,
+      "added_at": "2026-06-04T03:16:42Z",
+      "compiled_at": "2026-06-04T03:16:42Z",
+      "summary_path": "wiki/summaries/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18.md",
+      "status": "compiled"
+    },
+    "raw/S1200-01-01 Modesto Stockpiles Dec 2016 SW Sampling_01.17.pdf": {
+      "hash": "sha256:59d4cb97b456e6cc07a236c0b93a57199a913f71141761cc337ddd9bae02056e",
+      "type": "paper",
+      "size_bytes": 1204610,
+      "added_at": "2026-06-04T03:16:24Z",
+      "compiled_at": "2026-06-04T03:16:24Z",
+      "summary_path": "wiki/summaries/S1200-01-01 Modesto Stockpiles Dec 2016 SW Sampling_01.17.md",
+      "status": "compiled"
+    },
+    "raw/S1200-01-01 Modesto Stockpiles GW April 2017_07.17.pdf": {
+      "hash": "sha256:c83f7f9dee5388da93861b00ba5fd4d32f7ce1373b863b1cfa7aea8f1684e9a2",
+      "type": "paper",
+      "size_bytes": 26541462,
+      "added_at": "2026-06-04T03:16:43Z",
+      "compiled_at": "2026-06-04T03:16:43Z",
+      "summary_path": "wiki/summaries/S1200-01-01 Modesto Stockpiles GW April 2017_07.17.md",
+      "status": "compiled"
+    },
+    "raw/S1200-01-01 Modesto Stockpiles GW April 2019_06.19.pdf": {
+      "hash": "sha256:153bc10316017cf92e70c239f8c8a9a9931ae752a951580ce77801eef75f76cc",
+      "type": "paper",
+      "size_bytes": 4594689,
+      "added_at": "2026-06-04T03:16:26Z",
+      "compiled_at": "2026-06-04T03:16:26Z",
+      "summary_path": "wiki/summaries/S1200-01-01 Modesto Stockpiles GW April 2019_06.19.md",
+      "status": "compiled"
+    },
+    "raw/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18.pdf": {
+      "hash": "sha256:b6088e36ab6c34674761dc8ae05820d063e36c8c9d863b25ccf35f23d56ab94b",
+      "type": "paper",
+      "size_bytes": 1246933,
+      "added_at": "2026-06-04T03:16:30Z",
+      "compiled_at": "2026-06-04T03:16:30Z",
+      "summary_path": "wiki/summaries/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18.md",
+      "status": "compiled"
+    },
+    "raw/S1200-01-01 Modesto Stockpiles March 2018 SW Sampling_04.18.pdf": {
+      "hash": "sha256:fe980fed442dbe216806972145dcf42be1f934611b8d6378193be083a20fb1a3",
+      "type": "paper",
+      "size_bytes": 3473251,
+      "added_at": "2026-06-04T03:16:30Z",
+      "compiled_at": "2026-06-04T03:16:30Z",
+      "summary_path": "wiki/summaries/S1200-01-01 Modesto Stockpiles March 2018 SW Sampling_04.18.md",
+      "status": "compiled"
+    },
+    "raw/S1200-01-01 Modesto Stockpiles Well Dest Rpt_06.19.pdf": {
+      "hash": "sha256:78373acfb7022bd4f840b908a74f2ef6da9ff1a849e7ce649afb386fce3d514d",
+      "type": "paper",
+      "size_bytes": 912458,
+      "added_at": "2026-06-04T03:16:39Z",
+      "compiled_at": "2026-06-04T03:16:39Z",
+      "summary_path": "wiki/summaries/S1200-01-01 Modesto Stockpiles Well Dest Rpt_06.19.md",
+      "status": "compiled"
+    },
+    "raw/S2350-01-02 Stormwater SAP_12.23.pdf": {
+      "hash": "sha256:e08910f9375071d402d525e34a4552d351b186db66a3bc88ba7429da570fe14e",
+      "type": "paper",
+      "size_bytes": 1675700,
+      "added_at": "2026-06-04T03:16:36Z",
+      "compiled_at": "2026-06-04T03:16:36Z",
+      "summary_path": "wiki/summaries/S2350-01-02 Stormwater SAP_12.23.md",
+      "status": "compiled"
+    },
+    "raw/S2350-01-02 Updated Statistical Evaluation Report_2.24.pdf": {
+      "hash": "sha256:1e058eb7af24c09ae99f0af401e1a392a5c9607ab839c08c03b5e44de326e255",
+      "type": "paper",
+      "size_bytes": 2193545,
+      "added_at": "2026-06-04T03:16:19Z",
+      "compiled_at": "2026-06-04T03:16:19Z",
+      "summary_path": "wiki/summaries/S2350-01-02 Updated Statistical Evaluation Report_2.24.md",
+      "status": "compiled"
+    },
+    "raw/S2350-01-02 Well Destruction Report_6.25.pdf": {
+      "hash": "sha256:8dada1d2c19f35e1343eb16eafde9b1af0e5c1d850331e88974956486a1c93e7",
+      "type": "paper",
+      "size_bytes": 31504523,
+      "added_at": "2026-06-04T03:16:41Z",
+      "compiled_at": "2026-06-04T03:16:41Z",
+      "summary_path": "wiki/summaries/S2350-01-02 Well Destruction Report_6.25.md",
+      "status": "compiled"
+    },
+    "raw/S2350-01-02_2.4.2025 Stormwater Sampling Report_6.25.pdf": {
+      "hash": "sha256:1db2bb117d44829e4edb28a0699ccbf96ad7c29b5c0ceadef7daf3ba4a325a44",
+      "type": "paper",
+      "size_bytes": 6296788,
+      "added_at": "2026-06-04T03:16:27Z",
+      "compiled_at": "2026-06-04T03:16:27Z",
+      "summary_path": "wiki/summaries/S2350-01-02_2.4.2025 Stormwater Sampling Report_6.25.md",
+      "status": "compiled"
+    },
+    "raw/S9525-01-44B Caltrans Modesto Stockpiles GW March 2013 0513.pdf": {
+      "hash": "sha256:3a2f0841524ea4982fbda86ec9c74dc9b86d566ea3b0d9f4a0fb8c013171c773",
+      "type": "paper",
+      "size_bytes": 3976412,
+      "added_at": "2026-06-04T03:16:36Z",
+      "compiled_at": "2026-06-04T03:16:36Z",
+      "summary_path": "wiki/summaries/S9525-01-44B Caltrans Modesto Stockpiles GW March 2013 0513.md",
+      "status": "compiled"
+    },
+    "raw/S9525-01-44B Modesto Stockpiles GW June 2013.0613 (1).pdf": {
+      "hash": "sha256:3c7010b1815f8313b21d1c483a65daa3d2731b570b8cef5f5659b56f104c67cd",
+      "type": "paper",
+      "size_bytes": 3415693,
+      "added_at": "2026-06-04T03:16:32Z",
+      "compiled_at": "2026-06-04T03:16:32Z",
+      "summary_path": "wiki/summaries/S9525-01-44B Modesto Stockpiles GW June 2013.0613 (1).md",
+      "status": "compiled"
+    },
+    "raw/S9525-01-44B Modesto Stockpiles GW June 2013.0613.pdf": {
+      "hash": "sha256:3c7010b1815f8313b21d1c483a65daa3d2731b570b8cef5f5659b56f104c67cd",
+      "type": "paper",
+      "size_bytes": 3415693,
+      "added_at": "2026-06-04T03:16:36Z",
+      "compiled_at": "2026-06-04T03:16:36Z",
+      "summary_path": "wiki/summaries/S9525-01-44B Modesto Stockpiles GW June 2013.0613.md",
+      "status": "compiled"
+    },
+    "raw/S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.pdf": {
+      "hash": "sha256:017cf1311eab8ea9c79188fb44871c434a7b6692a42ea7d2b625429abdbba4bc",
+      "type": "paper",
+      "size_bytes": 4413986,
+      "added_at": "2026-06-04T03:16:31Z",
+      "compiled_at": "2026-06-04T03:16:31Z",
+      "summary_path": "wiki/summaries/S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.md",
+      "status": "compiled"
+    },
+    "raw/S9525-06-44A Caltrans Modesto Stockpiles GW Nov2012 0213.pdf": {
+      "hash": "sha256:4e3365b945d4d0925d7567148d39217a5b4dd062a1c2edb93cc4d82efe75b1bf",
+      "type": "paper",
+      "size_bytes": 3470889,
+      "added_at": "2026-06-04T03:16:18Z",
+      "compiled_at": "2026-06-04T03:16:18Z",
+      "summary_path": "wiki/summaries/S9525-06-44A Caltrans Modesto Stockpiles GW Nov2012 0213.md",
+      "status": "compiled"
+    },
+    "raw/S9525-06-44A May 2012 GW Report 1112.pdf": {
+      "hash": "sha256:6641c2065a337d46f1bcf794486c78a3dae3b33f330c4a3b67f31a6642fe1274",
+      "type": "paper",
+      "size_bytes": 3875402,
+      "added_at": "2026-06-04T03:16:40Z",
+      "compiled_at": "2026-06-04T03:16:40Z",
+      "summary_path": "wiki/summaries/S9525-06-44A May 2012 GW Report 1112.md",
+      "status": "compiled"
+    },
+    "raw/S9525-06-44A Stormwater SAP Addendum 0213.pdf": {
+      "hash": "sha256:98abc33da887f3dc9326b0ea0a98f26f5e88742f753ef68266c113dc68bc90fc",
+      "type": "paper",
+      "size_bytes": 1046135,
+      "added_at": "2026-06-04T03:16:40Z",
+      "compiled_at": "2026-06-04T03:16:40Z",
+      "summary_path": "wiki/summaries/S9525-06-44A Stormwater SAP Addendum 0213.md",
+      "status": "compiled"
+    },
+    "raw/S9525-06-44AModesto Stockpiles GW  SEPT2012 1212.pdf": {
+      "hash": "sha256:64f6a47d3087a01e2fa1d39868bbed03b2ac9af54ecd198d10582e330ab32a64",
+      "type": "paper",
+      "size_bytes": 4517186,
+      "added_at": "2026-06-04T03:16:27Z",
+      "compiled_at": "2026-06-04T03:16:27Z",
+      "summary_path": "wiki/summaries/S9525-06-44AModesto Stockpiles GW  SEPT2012 1212.md",
+      "status": "compiled"
+    },
+    "raw/S9525-06-44AModesto Stockpiles GW. SEPT2012.1212.pdf": {
+      "hash": "sha256:101d2508d3463cfa4d4b11ae939b80154c09418f4f5e9e9a0b8104e68c9aa6a3",
+      "type": "paper",
+      "size_bytes": 4513374,
+      "added_at": "2026-06-04T03:16:40Z",
+      "compiled_at": "2026-06-04T03:16:40Z",
+      "summary_path": "wiki/summaries/S9525-06-44AModesto Stockpiles GW. SEPT2012.1212.md",
+      "status": "compiled"
+    },
+    "raw/S9800-01-17 Caltrans Modesto Stockpiles Dec 2013 GW Mon 0114.pdf": {
+      "hash": "sha256:306e4dc323536dad59f3345326428ba4a15aae524723ce2ca3064e74cba2fe2a",
+      "type": "paper",
+      "size_bytes": 3886669,
+      "added_at": "2026-06-04T03:16:28Z",
+      "compiled_at": "2026-06-04T03:16:28Z",
+      "summary_path": "wiki/summaries/S9800-01-17 Caltrans Modesto Stockpiles Dec 2013 GW Mon 0114.md",
+      "status": "compiled"
+    },
+    "raw/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.pdf": {
+      "hash": "sha256:7ee361aa4d9cbd01425397e946573e94cbec0083cef6ce4675d1809ed79aee67",
+      "type": "paper",
+      "size_bytes": 10841064,
+      "added_at": "2026-06-04T03:16:43Z",
+      "compiled_at": "2026-06-04T03:16:43Z",
+      "summary_path": "wiki/summaries/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.md",
+      "status": "compiled"
+    },
+    "raw/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814.pdf": {
+      "hash": "sha256:625bdbf2ddc0c71ba43a10f2d7541e56ff52997eed137bb227d2cbcc1029c20d",
+      "type": "paper",
+      "size_bytes": 3909266,
+      "added_at": "2026-06-04T03:16:22Z",
+      "compiled_at": "2026-06-04T03:16:22Z",
+      "summary_path": "wiki/summaries/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814.md",
+      "status": "compiled"
+    },
+    "raw/S9800-01-17A Caltrans Modesto Stockpiles GW_06 16.pdf": {
+      "hash": "sha256:7e69d8b5b8b961674feb67518a18ce009da28f1958811a9cf27def1858cfce5b",
+      "type": "paper",
+      "size_bytes": 3659111,
+      "added_at": "2026-06-04T03:16:41Z",
+      "compiled_at": "2026-06-04T03:16:41Z",
+      "summary_path": "wiki/summaries/S9800-01-17A Caltrans Modesto Stockpiles GW_06 16.md",
+      "status": "compiled"
+    },
+    "raw/S9800-01-17A Modesto Stockpiles Dec 11 2015 Stormwater Sampling Report_02.16.pdf": {
+      "hash": "sha256:b621ae9b37c58a1f26f42665ab31f7015e3dfc48002c4d4dce672527c727479b",
+      "type": "paper",
+      "size_bytes": 3605890,
+      "added_at": "2026-06-04T03:16:32Z",
+      "compiled_at": "2026-06-04T03:16:32Z",
+      "summary_path": "wiki/summaries/S9800-01-17A Modesto Stockpiles Dec 11 2015 Stormwater Sampling Report_02.16.md",
+      "status": "compiled"
+    },
+    "raw/SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020.pdf": {
+      "hash": "sha256:c5fe592bf15c051a6b36d3957ce5165d2bb6fb10d66f5740eb8d67ed942c30ed",
+      "type": "paper",
+      "size_bytes": 2514714,
+      "added_at": "2026-06-04T03:16:33Z",
+      "compiled_at": "2026-06-04T03:16:33Z",
+      "summary_path": "wiki/summaries/SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020.md",
+      "status": "compiled"
+    },
+    "raw/SR 132 Stockpile 2 BCS Removal Tech Memo.pdf": {
+      "hash": "sha256:486feafa0f38f3df56504a95e90cdb8bfab50365e9f8f313b3de4e2480ab7518",
+      "type": "paper",
+      "size_bytes": 5531798,
+      "added_at": "2026-06-04T03:16:22Z",
+      "compiled_at": "2026-06-04T03:16:22Z",
+      "summary_path": "wiki/summaries/SR 132 Stockpile 2 BCS Removal Tech Memo.md",
+      "status": "compiled"
+    },
+    "raw/Stockpile 1 MSE Wall Sampling Tech Memo.pdf": {
+      "hash": "sha256:95b62e6f3c43d54022f8c855ddd82db3abcf43f7db2fcce1b56ea1ba7542d2cf",
+      "type": "paper",
+      "size_bytes": 3300900,
+      "added_at": "2026-06-04T03:16:29Z",
+      "compiled_at": "2026-06-04T03:16:29Z",
+      "summary_path": "wiki/summaries/Stockpile 1 MSE Wall Sampling Tech Memo.md",
+      "status": "compiled"
+    },
+    "raw/Stockpile 2 BCS Foundation Spoil Workplan Tech Memo.pdf": {
+      "hash": "sha256:47791fc2d6eebedcadf187f7730dd87bb89c3cf92b6ea9bedf83ba9c813f9a49",
+      "type": "paper",
+      "size_bytes": 3432396,
+      "added_at": "2026-06-04T03:16:23Z",
+      "compiled_at": "2026-06-04T03:16:23Z",
+      "summary_path": "wiki/summaries/Stockpile 2 BCS Foundation Spoil Workplan Tech Memo.md",
+      "status": "compiled"
+    },
+    "raw/Stockpile 2 Confirmation Sampling Tech Memo Approval.pdf": {
+      "hash": "sha256:61272b7e893af5a531cc13f7c93f3edb661b55412cfe15febf9fc22511b984ed",
+      "type": "paper",
+      "size_bytes": 147493,
+      "added_at": "2026-06-04T03:16:44Z",
+      "compiled_at": "2026-06-04T03:16:44Z",
+      "summary_path": "wiki/summaries/Stockpile 2 Confirmation Sampling Tech Memo Approval.md",
+      "status": "compiled"
+    },
+    "raw/Stockpile 2 MSE Wall Sampling Tech Memo.pdf": {
+      "hash": "sha256:4e149918af5a15b8c3358325a182a3f2f33e24ea88497a463b55cae3ea680e29",
+      "type": "paper",
+      "size_bytes": 3626013,
+      "added_at": "2026-06-04T03:16:33Z",
+      "compiled_at": "2026-06-04T03:16:33Z",
+      "summary_path": "wiki/summaries/Stockpile 2 MSE Wall Sampling Tech Memo.md",
+      "status": "compiled"
+    },
+    "raw/Stockpile 3 Confirmation Sampling Tech Memo Approval.pdf": {
+      "hash": "sha256:c44c731740fdd95f8f5e541ae086ef3a8e39649776f4780338e7307c92074940",
+      "type": "paper",
+      "size_bytes": 148900,
+      "added_at": "2026-06-04T03:16:32Z",
+      "compiled_at": "2026-06-04T03:16:32Z",
+      "summary_path": "wiki/summaries/Stockpile 3 Confirmation Sampling Tech Memo Approval.md",
+      "status": "compiled"
+    },
+    "raw/Stockpiles 1 and 2 MSE Wall Sampling Plan.pdf": {
+      "hash": "sha256:529a16c8e935b42fc849c057cd6b5e579373bd1c93eaea6131a496e49659782e",
+      "type": "paper",
+      "size_bytes": 2851280,
+      "added_at": "2026-06-04T03:16:26Z",
+      "compiled_at": "2026-06-04T03:16:26Z",
+      "summary_path": "wiki/summaries/Stockpiles 1 and 2 MSE Wall Sampling Plan.md",
+      "status": "compiled"
+    },
+    "raw/WB Acceptance E-mail.pdf": {
+      "hash": "sha256:adfb3f92d3f726fe08ecd22c3856a4b46ef1e6379b5c1d41945c155d8ff7b06d",
+      "type": "paper",
+      "size_bytes": 212302,
+      "added_at": "2026-06-04T03:16:33Z",
+      "compiled_at": "2026-06-04T03:16:33Z",
+      "summary_path": "wiki/summaries/WB Acceptance E-mail.md",
+      "status": "compiled"
+    }
+  },
+  "concepts": {
+    "95-percent-upper-confidence-limit": {
+      "article_path": "wiki/concepts/95-percent-upper-confidence-limit.md",
+      "sources": [
+        "raw/Approval E-mail_Revised Basin 5 Clean Fill Tech Memo.pdf",
+        "raw/Caltrans Modesto Soil Stcokpiles RDIP Variance.pdf",
+        "E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "aerially-deposited-lead": {
+      "article_path": "wiki/concepts/aerially-deposited-lead.md",
+      "sources": [
+        "raw/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19 (1).pdf",
+        "raw/RDIP All Figures.pdf",
+        "raw/Stockpile 3 Confirmation Sampling Tech Memo Approval.pdf",
+        "raw/OM Plan Comments (900259).pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "air-monitoring": {
+      "article_path": "wiki/concepts/air-monitoring.md",
+      "sources": [
+        "Draft Interim RACR_ App D-G.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "background-concentration": {
+      "article_path": "wiki/concepts/background-concentration.md",
+      "sources": [
+        "Acceptance E-mail_Stockpiles 1 and 2 MSE Wall Sampling Plan.pdf",
+        "E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo.pdf",
+        "DTSC E-mail Approval of Carpenter Shoofly Tech Memo.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "barium": {
+      "article_path": "wiki/concepts/barium.md",
+      "sources": [
+        "raw/Stockpiles 1 and 2 MSE Wall Sampling Plan.pdf",
+        "raw/S2350-01-02_2.4.2025 Stormwater Sampling Report_6.25.pdf",
+        "raw/S9525-06-44AModesto Stockpiles GW  SEPT2012 1212.pdf",
+        "raw/S9800-01-17 Caltrans Modesto Stockpiles Dec 2013 GW Mon 0114.pdf",
+        "raw/Carpenter Shoofly Area Clean Fill Sampling Plan.pdf",
+        "raw/Stockpile 1 MSE Wall Sampling Tech Memo.pdf",
+        "raw/Bent 2 Stockpiles Tech Memo.pdf",
+        "raw/RDIP Variance Request Acceptance E-Mail.pdf",
+        "raw/11 29 2012 Caltrans GND Water Monitoring Rpts (1).pdf",
+        "raw/Acceptance Letter Draft Interim RACR (900259).pdf",
+        "raw/S9525-01-44B Modesto Stockpiles GW June 2013.0613 (1).pdf",
+        "raw/S9800-01-17A Modesto Stockpiles Dec 11 2015 Stormwater Sampling Report_02.16.pdf",
+        "Acceptance E-mail_Stockpiles 1 and 2 MSE Wall Sampling Plan.pdf",
+        "GND Water Monitoring Rpt March 2102.pdf",
+        "S9525-06-44A May 2012 GW Report 1112.pdf",
+        "S9525-06-44A Stormwater SAP Addendum 0213.pdf",
+        "11 29 2012 Caltrans GND Water Monitoring Rpts (2).pdf",
+        "DTSC E-mail Approval of Carpenter Shoofly Tech Memo.pdf",
+        "S2350-01-02 Well Destruction Report_6.25.pdf",
+        "S9800-01-17A Caltrans Modesto Stockpiles GW_06 16.pdf",
+        "raw/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo.pdf",
+        "raw/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18.pdf",
+        "raw/S1200-01-01 Modesto Stockpiles GW April 2017_07.17.pdf",
+        "raw/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.pdf",
+        "raw/09.20.2012 Final Caltrans Supplemental Site Characterization Workplan 2.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "barium-containing-soil": {
+      "article_path": "wiki/concepts/barium-containing-soil.md",
+      "sources": [
+        "raw/Carpenter Road Shoofly Clean Fill Tech Memo.pdf",
+        "raw/DTSC Letter Response - 2025 GW Monitoring Report (900259) (1).pdf",
+        "raw/SR 132 Stockpile 2 BCS Removal Tech Memo.pdf",
+        "raw/Stockpile 2 BCS Foundation Spoil Workplan Tech Memo.pdf",
+        "raw/7083_S9525-06-44 Modesto Soil Stockpiles Fenceline Workplan.0912 (1).pdf",
+        "raw/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19 (1).pdf",
+        "raw/Stockpile 3 Confirmation Sampling Tech Memo Approval.pdf",
+        "raw/SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020.pdf",
+        "raw/Stockpile 2 MSE Wall Sampling Tech Memo.pdf",
+        "raw/Final RDIP Approval Letter (900259).pdf",
+        "raw/OM Plan Comments (900259).pdf",
+        "raw/RDIP All Figures.pdf",
+        "raw/Approval Letter Stockpile 2 Spoils Workplan (900259).pdf",
+        "raw/Caltrans Modesto Soil Stcokpiles RDIP Variance.pdf",
+        "raw/2025 - RE_ Reminder - Annual Inspection Report.pdf",
+        "raw/DTSC Letter Response - 2025 GW Monitoring Report (900259).pdf",
+        "Acceptance E-mail_Stockpiles 1 and 2 MSE Wall Sampling Plan.pdf",
+        "Borrow Area Sampling Plan.pdf",
+        "Draft Interim RACR_ App D-G.pdf",
+        "DTSC E-mail Approval of Carpenter Shoofly Tech Memo.pdf",
+        "raw/Acceptance Letter_Final Removal Action Completion Report_Modesto Soil Stockpiles (900259).pdf",
+        "raw/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18.pdf",
+        "raw/Stockpile 2 Confirmation Sampling Tech Memo Approval.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "borrow-area": {
+      "article_path": "wiki/concepts/borrow-area.md",
+      "sources": [
+        "raw/Borrow Area Results Tech Memo Approval.pdf",
+        "raw/Approval E-mail_ SR 132 Basin 5 Clean Fill Sampling Plan.pdf",
+        "raw/SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020.pdf",
+        "raw/Approval E-mail_Revised Basin 5 Clean Fill Tech Memo.pdf",
+        "raw/FW_ SR 132 Basin 5 Clean Fill Sampling Plan .pdf",
+        "raw/RDIP All Figures.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "bridge-abutments": {
+      "article_path": "wiki/concepts/bridge-abutments.md",
+      "sources": [
+        "3.14.2018 - Approval letter for SR 132 RAP.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "cadmium": {
+      "article_path": "wiki/concepts/cadmium.md",
+      "sources": [
+        "raw/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18.pdf",
+        "raw/7084_S9525-06-44 Response to DTSC Workplan Comments.0912.pdf",
+        "raw/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "california-maximum-contaminant-levels": {
+      "article_path": "wiki/concepts/california-maximum-contaminant-levels.md",
+      "sources": [
+        "raw/S2350-01-02_2.4.2025 Stormwater Sampling Report_6.25.pdf",
+        "raw/S9525-06-44AModesto Stockpiles GW  SEPT2012 1212.pdf",
+        "raw/S9800-01-17 Caltrans Modesto Stockpiles Dec 2013 GW Mon 0114.pdf",
+        "raw/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18.pdf",
+        "raw/S1200-01-01 Modesto Stockpiles March 2018 SW Sampling_04.18.pdf",
+        "raw/S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.pdf",
+        "raw/S9525-01-44B Modesto Stockpiles GW June 2013.0613 (1).pdf",
+        "raw/S9800-01-17A Modesto Stockpiles Dec 11 2015 Stormwater Sampling Report_02.16.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "california-modified-split-spoon-sampler": {
+      "article_path": "wiki/concepts/california-modified-split-spoon-sampler.md",
+      "sources": [
+        "raw/LOTB-N Carpenter OC.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "caltrans": {
+      "article_path": "wiki/concepts/caltrans.md",
+      "sources": [
+        "raw/Errata Transmittal 2-6-2020.pdf",
+        "raw/Errata to January 2019 RDIP - SR 132 West Expressway Phase 1.pdf",
+        "raw/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19 (1).pdf",
+        "3.14.2018 - Approval letter for SR 132 RAP.pdf",
+        "Acceptance E-mail_Stockpiles 1 and 2 MSE Wall Sampling Plan.pdf",
+        "Borrow Area Sampling Plan Approval E-Mail.pdf",
+        "Borrow Area Sampling Plan.pdf",
+        "GND Water Monitoring Rpt March 2102.pdf",
+        "Hwy 132 Clean Fill Source Testing Exhibit.pdf",
+        "RDIP Errata Acceptance.pdf",
+        "06A2542ct_to16_SurfaceWaterLetter _final.20210323.pdf",
+        "Annual Stockpile Inspection Form.pdf",
+        "Draft Interim RACR_ App D-G.pdf",
+        "E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo.pdf",
+        "S1200-01-01 Modesto Stockpiles Well Dest Rpt_06.19.pdf",
+        "S9525-06-44A May 2012 GW Report 1112.pdf",
+        "S9525-06-44A Stormwater SAP Addendum 0213.pdf",
+        "S9525-06-44AModesto Stockpiles GW. SEPT2012.1212.pdf",
+        "11 29 2012 Caltrans GND Water Monitoring Rpts (2).pdf",
+        "DTSC E-mail Approval of Carpenter Shoofly Tech Memo.pdf",
+        "S2350-01-02 Well Destruction Report_6.25.pdf",
+        "S9800-01-17A Caltrans Modesto Stockpiles GW_06 16.pdf",
+        "04 04 2013 Final  SSI and HHRA 8 (1).pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "ceqa": {
+      "article_path": "wiki/concepts/ceqa.md",
+      "sources": [
+        "3.14.2018 - Approval letter for SR 132 RAP.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "chemical-manufacturing": {
+      "article_path": "wiki/concepts/chemical-manufacturing.md",
+      "sources": [
+        "GND Water Monitoring Rpt March 2102.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "chemicals-of-concern": {
+      "article_path": "wiki/concepts/chemicals-of-concern.md",
+      "sources": [
+        "GND Water Monitoring Rpt March 2102.pdf",
+        "S9525-06-44A Stormwater SAP Addendum 0213.pdf",
+        "11 29 2012 Caltrans GND Water Monitoring Rpts (2).pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "clean-fill": {
+      "article_path": "wiki/concepts/clean-fill.md",
+      "sources": [
+        "raw/Carpenter Road Shoofly Clean Fill Tech Memo.pdf",
+        "raw/Basin 5 Clean Fill Sampling Plan.pdf",
+        "raw/Borrow Area Results Tech Memo Approval.pdf",
+        "raw/DTSC Approval E-mail for Carpenter Shoofly Clean Fill Sampling Plan.pdf",
+        "raw/Approval E-mail_ SR 132 Basin 5 Clean Fill Sampling Plan.pdf",
+        "raw/SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020.pdf",
+        "raw/Approval E-mail_Revised Basin 5 Clean Fill Tech Memo.pdf",
+        "raw/Caltrans Modesto Soil Stcokpiles RDIP Variance.pdf",
+        "raw/FW_ SR 132 Basin 5 Clean Fill Sampling Plan .pdf",
+        "raw/RDIP All Figures.pdf",
+        "Acceptance E-mail_Stockpiles 1 and 2 MSE Wall Sampling Plan.pdf",
+        "Borrow Area Sampling Plan.pdf",
+        "Draft Interim RACR_ App D-G.pdf",
+        "DTSC E-mail Approval of Carpenter Shoofly Tech Memo.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "cleanup-levels": {
+      "article_path": "wiki/concepts/cleanup-levels.md",
+      "sources": [
+        "raw/Stockpile 2 Confirmation Sampling Tech Memo Approval.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "composite-sampling": {
+      "article_path": "wiki/concepts/composite-sampling.md",
+      "sources": [
+        "raw/Carpenter Road Shoofly Clean Fill Tech Memo.pdf",
+        "raw/Basin 5 Clean Fill Sampling Plan.pdf",
+        "raw/Stockpile 2 BCS Foundation Spoil Workplan Tech Memo.pdf",
+        "raw/DTSC Approval E-mail for Carpenter Shoofly Clean Fill Sampling Plan.pdf",
+        "Borrow Area Sampling Plan Approval E-Mail.pdf",
+        "Borrow Area Sampling Plan.pdf",
+        "DTSC E-mail Approval of Carpenter Shoofly Tech Memo.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "confirmation-sampling": {
+      "article_path": "wiki/concepts/confirmation-sampling.md",
+      "sources": [
+        "raw/Stockpile 3 Confirmation Sampling Tech Memo Approval.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "confirmation-soil-sampling": {
+      "article_path": "wiki/concepts/confirmation-soil-sampling.md",
+      "sources": [
+        "raw/Stockpile 2 Confirmation Sampling Tech Memo Approval.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "containment": {
+      "article_path": "wiki/concepts/containment.md",
+      "sources": [
+        "3.14.2018 - Approval letter for SR 132 RAP.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "containment-alternative": {
+      "article_path": "wiki/concepts/containment-alternative.md",
+      "sources": [
+        "raw/Errata Transmittal 2-6-2020.pdf",
+        "raw/Errata to January 2019 RDIP - SR 132 West Expressway Phase 1.pdf",
+        "raw/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19 (1).pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "containment-integrity": {
+      "article_path": "wiki/concepts/containment-integrity.md",
+      "sources": [
+        "raw/S2350-01-02 Stormwater SAP_12.23.pdf",
+        "raw/DTSC Letter Response - 2025 GW Monitoring Report (900259).pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "department-of-toxic-substances-control": {
+      "article_path": "wiki/concepts/department-of-toxic-substances-control.md",
+      "sources": [
+        "raw/Bent 2 Stockpiles Tech Memo.pdf",
+        "raw/Final FS Letter.pdf",
+        "raw/RDIP Variance Request Acceptance E-Mail.pdf",
+        "raw/04 04 2013 Final  SSI and HHRA 8.pdf",
+        "raw/11 29 2012 Caltrans GND Water Monitoring Rpts (1).pdf",
+        "raw/Acceptance Letter Draft Interim RACR (900259).pdf",
+        "raw/Final SMP Approval E-mail.pdf",
+        "raw/Stockpile 3 Confirmation Sampling Tech Memo Approval.pdf",
+        "raw/Approval E-mail_ SR 132 Basin 5 Clean Fill Sampling Plan.pdf",
+        "raw/WB Acceptance E-mail.pdf",
+        "raw/Final RDIP Approval Letter (900259).pdf",
+        "raw/OM Plan Comments (900259).pdf",
+        "raw/11 29 2012 Caltrans GND Water Monitoring Rpts.pdf",
+        "raw/Approval E-mail_Revised Basin 5 Clean Fill Tech Memo.pdf",
+        "raw/Approval Letter Stockpile 2 Spoils Workplan (900259).pdf",
+        "raw/Caltrans Modesto Soil Stcokpiles RDIP Variance.pdf",
+        "raw/FW_ SR 132 Basin 5 Clean Fill Sampling Plan .pdf",
+        "raw/2025 - RE_ Reminder - Annual Inspection Report.pdf",
+        "raw/7084_S9525-06-44 Response to DTSC Workplan Comments.0912 (1).pdf",
+        "raw/DTSC Letter Response - 2025 GW Monitoring Report (900259).pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "discrete-sampling": {
+      "article_path": "wiki/concepts/discrete-sampling.md",
+      "sources": [
+        "raw/SR 132 Stockpile 2 BCS Removal Tech Memo.pdf",
+        "raw/E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "dissolved-metals": {
+      "article_path": "wiki/concepts/dissolved-metals.md",
+      "sources": [
+        "raw/S9525-06-44A Caltrans Modesto Stockpiles GW Nov2012 0213.pdf",
+        "raw/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814.pdf",
+        "raw/7453_S9525-06-44_Modesto_Stockpiles_July_2012_GW_Report.1112.pdf",
+        "raw/S1200-01-01 Modesto Stockpiles Dec 2016 SW Sampling_01.17.pdf",
+        "S9525-06-44A May 2012 GW Report 1112.pdf",
+        "S9525-06-44AModesto Stockpiles GW. SEPT2012.1212.pdf",
+        "S9800-01-17A Caltrans Modesto Stockpiles GW_06 16.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "dtsc": {
+      "article_path": "wiki/concepts/dtsc.md",
+      "sources": [
+        "raw/Carpenter Road Shoofly Clean Fill Tech Memo.pdf",
+        "raw/Borrow Area Results Tech Memo Approval.pdf",
+        "raw/DTSC Letter Response - 2025 GW Monitoring Report (900259) (1).pdf",
+        "raw/7083_S9525-06-44 Modesto Soil Stockpiles Fenceline Workplan.0912 (1).pdf",
+        "raw/Approval of GW Statistical Evaluation (900259).pdf",
+        "raw/Errata Transmittal 2-6-2020.pdf",
+        "raw/DTSC Approval E-mail for Carpenter Shoofly Clean Fill Sampling Plan.pdf",
+        "raw/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19 (1).pdf",
+        "3.14.2018 - Approval letter for SR 132 RAP.pdf",
+        "Acceptance E-mail_Stockpiles 1 and 2 MSE Wall Sampling Plan.pdf",
+        "Borrow Area Sampling Plan Approval E-Mail.pdf",
+        "GND Water Monitoring Rpt March 2102.pdf",
+        "RDIP Errata Acceptance.pdf",
+        "Draft Interim RACR_ App D-G.pdf",
+        "E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo.pdf",
+        "11 29 2012 Caltrans GND Water Monitoring Rpts (2).pdf",
+        "DTSC E-mail Approval of Carpenter Shoofly Tech Memo.pdf",
+        "S2350-01-02 Well Destruction Report_6.25.pdf",
+        "04 04 2013 Final  SSI and HHRA 8 (1).pdf",
+        "raw/Acceptance Letter_Final Removal Action Completion Report_Modesto Soil Stockpiles (900259).pdf",
+        "raw/DTSC Approval Response for final version of Well Destruction Report.pdf",
+        "raw/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo.pdf",
+        "raw/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18.pdf",
+        "raw/7084_S9525-06-44 Response to DTSC Workplan Comments.0912.pdf",
+        "raw/E-mail Acceptance of Bent 2 Soils Tech Memo.pdf",
+        "raw/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.pdf",
+        "raw/Stockpile 2 Confirmation Sampling Tech Memo Approval.pdf",
+        "raw/09.20.2012 Final Caltrans Supplemental Site Characterization Workplan 2.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "encapsulated-soil-stockpiles": {
+      "article_path": "wiki/concepts/encapsulated-soil-stockpiles.md",
+      "sources": [
+        "S2350-01-02 Well Destruction Report_6.25.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "epa-6020": {
+      "article_path": "wiki/concepts/epa-6020.md",
+      "sources": [
+        "S9525-06-44A May 2012 GW Report 1112.pdf",
+        "S9525-06-44AModesto Stockpiles GW. SEPT2012.1212.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "epa-method-6010b": {
+      "article_path": "wiki/concepts/epa-method-6010b.md",
+      "sources": [
+        "raw/SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020.pdf",
+        "raw/Stockpile 2 MSE Wall Sampling Tech Memo.pdf",
+        "raw/7084_S9525-06-44 Response to DTSC Workplan Comments.0912.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "excavation": {
+      "article_path": "wiki/concepts/excavation.md",
+      "sources": [
+        "raw/SR 132 Stockpile 2 BCS Removal Tech Memo.pdf",
+        "raw/Stockpile 2 BCS Foundation Spoil Workplan Tech Memo.pdf",
+        "raw/E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "feasibility-study": {
+      "article_path": "wiki/concepts/feasibility-study.md",
+      "sources": [
+        "raw/Final FS Letter.pdf",
+        "raw/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "fenceline-sampling": {
+      "article_path": "wiki/concepts/fenceline-sampling.md",
+      "sources": [
+        "raw/7083_S9525-06-44 Modesto Soil Stockpiles Fenceline Workplan.0912 (1).pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "field-parameter": {
+      "article_path": "wiki/concepts/field-parameter.md",
+      "sources": [
+        "raw/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814.pdf",
+        "raw/S1200-01-01 Modesto Stockpiles Dec 2016 SW Sampling_01.17.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "fmc": {
+      "article_path": "wiki/concepts/fmc.md",
+      "sources": [
+        "raw/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18.pdf",
+        "raw/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.pdf",
+        "raw/09.20.2012 Final Caltrans Supplemental Site Characterization Workplan 2.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "groundwater-monitoring": {
+      "article_path": "wiki/concepts/groundwater-monitoring.md",
+      "sources": [
+        "raw/S9525-06-44A Caltrans Modesto Stockpiles GW Nov2012 0213.pdf",
+        "raw/S2350-01-02 Updated Statistical Evaluation Report_2.24.pdf",
+        "raw/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814.pdf",
+        "raw/7453_S9525-06-44_Modesto_Stockpiles_July_2012_GW_Report.1112.pdf",
+        "raw/S1200-01-01 Modesto Stockpiles GW April 2019_06.19.pdf",
+        "raw/Stockpiles 1 and 2 MSE Wall Sampling Plan.pdf",
+        "raw/S9525-06-44AModesto Stockpiles GW  SEPT2012 1212.pdf",
+        "raw/S9800-01-17 Caltrans Modesto Stockpiles Dec 2013 GW Mon 0114.pdf",
+        "raw/S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.pdf",
+        "raw/11 29 2012 Caltrans GND Water Monitoring Rpts (1).pdf",
+        "raw/S9525-01-44B Modesto Stockpiles GW June 2013.0613 (1).pdf",
+        "raw/11 29 2012 Caltrans GND Water Monitoring Rpts.pdf",
+        "raw/RDIP All Figures.pdf",
+        "raw/DTSC Letter Response - 2025 GW Monitoring Report (900259).pdf",
+        "raw/S9525-01-44B Caltrans Modesto Stockpiles GW March 2013 0513.pdf",
+        "raw/S9525-01-44B Modesto Stockpiles GW June 2013.0613.pdf",
+        "GND Water Monitoring Rpt March 2102.pdf",
+        "S1200-01-01 Modesto Stockpiles Well Dest Rpt_06.19.pdf",
+        "S9525-06-44A May 2012 GW Report 1112.pdf",
+        "S9525-06-44AModesto Stockpiles GW. SEPT2012.1212.pdf",
+        "11 29 2012 Caltrans GND Water Monitoring Rpts (2).pdf",
+        "S2350-01-02 Well Destruction Report_6.25.pdf",
+        "S9800-01-17A Caltrans Modesto Stockpiles GW_06 16.pdf",
+        "raw/S1200-01-01 Modesto Stockpiles GW April 2017_07.17.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "groundwater-quality-objectives": {
+      "article_path": "wiki/concepts/groundwater-quality-objectives.md",
+      "sources": [
+        "raw/S1200-01-01 Modesto Stockpiles GW April 2017_07.17.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "grouting": {
+      "article_path": "wiki/concepts/grouting.md",
+      "sources": [
+        "S1200-01-01 Modesto Stockpiles Well Dest Rpt_06.19.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "health-risk-assessment": {
+      "article_path": "wiki/concepts/health-risk-assessment.md",
+      "sources": [
+        "raw/7083_S9525-06-44 Modesto Soil Stockpiles Fenceline Workplan.0912 (1).pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "human-health-risk-assessment": {
+      "article_path": "wiki/concepts/human-health-risk-assessment.md",
+      "sources": [
+        "raw/04 04 2013 Final  SSI and HHRA 8.pdf",
+        "raw/7084_S9525-06-44 Response to DTSC Workplan Comments.0912 (1).pdf",
+        "04 04 2013 Final  SSI and HHRA 8 (1).pdf",
+        "raw/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.pdf",
+        "raw/09.20.2012 Final Caltrans Supplemental Site Characterization Workplan 2.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "land-use-covenant": {
+      "article_path": "wiki/concepts/land-use-covenant.md",
+      "sources": [
+        "raw/2025 - RE_ Reminder - Annual Inspection Report.pdf",
+        "raw/OM Plan Comments (900259).pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "lead": {
+      "article_path": "wiki/concepts/lead.md",
+      "sources": [
+        "raw/S9525-06-44AModesto Stockpiles GW  SEPT2012 1212.pdf",
+        "raw/S9800-01-17 Caltrans Modesto Stockpiles Dec 2013 GW Mon 0114.pdf",
+        "raw/Carpenter Shoofly Area Clean Fill Sampling Plan.pdf",
+        "raw/Stockpile 1 MSE Wall Sampling Tech Memo.pdf",
+        "raw/Bent 2 Stockpiles Tech Memo.pdf",
+        "raw/Acceptance Letter Draft Interim RACR (900259).pdf",
+        "raw/S9525-01-44B Modesto Stockpiles GW June 2013.0613 (1).pdf",
+        "Acceptance E-mail_Stockpiles 1 and 2 MSE Wall Sampling Plan.pdf",
+        "GND Water Monitoring Rpt March 2102.pdf",
+        "Hwy 132 Clean Fill Source Testing Exhibit.pdf",
+        "11 29 2012 Caltrans GND Water Monitoring Rpts (2).pdf",
+        "S2350-01-02 Well Destruction Report_6.25.pdf",
+        "raw/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo.pdf",
+        "raw/09.20.2012 Final Caltrans Supplemental Site Characterization Workplan 2.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "leaking-underground-storage-tank": {
+      "article_path": "wiki/concepts/leaking-underground-storage-tank.md",
+      "sources": [
+        "Hwy 132 Clean Fill Source Testing Exhibit.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "log-of-test-borings": {
+      "article_path": "wiki/concepts/log-of-test-borings.md",
+      "sources": [
+        "raw/LOTB-N Carpenter OC.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "manganese": {
+      "article_path": "wiki/concepts/manganese.md",
+      "sources": [
+        "raw/S9525-06-44AModesto Stockpiles GW  SEPT2012 1212.pdf",
+        "raw/S9800-01-17 Caltrans Modesto Stockpiles Dec 2013 GW Mon 0114.pdf",
+        "raw/S9525-01-44B Modesto Stockpiles GW June 2013.0613 (1).pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "maximum-contaminant-level": {
+      "article_path": "wiki/concepts/maximum-contaminant-level.md",
+      "sources": [
+        "S9525-06-44A Stormwater SAP Addendum 0213.pdf",
+        "S9800-01-17A Caltrans Modesto Stockpiles GW_06 16.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "mcls": {
+      "article_path": "wiki/concepts/mcls.md",
+      "sources": [
+        "raw/S1200-01-01 Modesto Stockpiles GW April 2017_07.17.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "mechanically-stabilized-earth-wall": {
+      "article_path": "wiki/concepts/mechanically-stabilized-earth-wall.md",
+      "sources": [
+        "raw/Stockpiles 1 and 2 MSE Wall Sampling Plan.pdf",
+        "raw/Stockpile 1 MSE Wall Sampling Tech Memo.pdf",
+        "raw/RDIP Variance Request Acceptance E-Mail.pdf",
+        "raw/Stockpile 2 MSE Wall Sampling Tech Memo.pdf",
+        "raw/OM Plan Comments (900259).pdf",
+        "raw/Caltrans Modesto Soil Stcokpiles RDIP Variance.pdf",
+        "Acceptance E-mail_Stockpiles 1 and 2 MSE Wall Sampling Plan.pdf",
+        "Annual Stockpile Inspection Form.pdf",
+        "E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo.pdf",
+        "raw/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "modesto-formation": {
+      "article_path": "wiki/concepts/modesto-formation.md",
+      "sources": [
+        "raw/S9800-01-17 Caltrans Modesto Stockpiles Dec 2013 GW Mon 0114.pdf",
+        "raw/S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.pdf",
+        "S9800-01-17A Caltrans Modesto Stockpiles GW_06 16.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "modesto-soil-stockpiles": {
+      "article_path": "wiki/concepts/modesto-soil-stockpiles.md",
+      "sources": [
+        "raw/Stockpiles 1 and 2 MSE Wall Sampling Plan.pdf",
+        "raw/S2350-01-02_2.4.2025 Stormwater Sampling Report_6.25.pdf",
+        "raw/S9525-06-44AModesto Stockpiles GW  SEPT2012 1212.pdf",
+        "raw/S9800-01-17 Caltrans Modesto Stockpiles Dec 2013 GW Mon 0114.pdf",
+        "raw/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18.pdf",
+        "raw/S1200-01-01 Modesto Stockpiles March 2018 SW Sampling_04.18.pdf",
+        "raw/S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.pdf",
+        "raw/11 29 2012 Caltrans GND Water Monitoring Rpts (1).pdf",
+        "raw/S9525-01-44B Modesto Stockpiles GW June 2013.0613 (1).pdf",
+        "raw/S9800-01-17A Modesto Stockpiles Dec 11 2015 Stormwater Sampling Report_02.16.pdf",
+        "3.14.2018 - Approval letter for SR 132 RAP.pdf",
+        "Acceptance E-mail_Stockpiles 1 and 2 MSE Wall Sampling Plan.pdf",
+        "GND Water Monitoring Rpt March 2102.pdf",
+        "Draft Interim RACR_ App D-G.pdf",
+        "S1200-01-01 Modesto Stockpiles Well Dest Rpt_06.19.pdf",
+        "S9525-06-44A May 2012 GW Report 1112.pdf",
+        "S9525-06-44A Stormwater SAP Addendum 0213.pdf",
+        "S9525-06-44AModesto Stockpiles GW. SEPT2012.1212.pdf",
+        "11 29 2012 Caltrans GND Water Monitoring Rpts (2).pdf",
+        "S2350-01-02 Well Destruction Report_6.25.pdf",
+        "S9800-01-17A Caltrans Modesto Stockpiles GW_06 16.pdf",
+        "04 04 2013 Final  SSI and HHRA 8 (1).pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "monitoring-well": {
+      "article_path": "wiki/concepts/monitoring-well.md",
+      "sources": [
+        "raw/S9525-06-44A Caltrans Modesto Stockpiles GW Nov2012 0213.pdf",
+        "raw/DTSC Letter Response - 2025 GW Monitoring Report (900259) (1).pdf",
+        "raw/S2350-01-02 Updated Statistical Evaluation Report_2.24.pdf",
+        "raw/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814.pdf",
+        "raw/7453_S9525-06-44_Modesto_Stockpiles_July_2012_GW_Report.1112.pdf",
+        "raw/S1200-01-01 Modesto Stockpiles GW April 2019_06.19.pdf",
+        "GND Water Monitoring Rpt March 2102.pdf",
+        "S1200-01-01 Modesto Stockpiles Well Dest Rpt_06.19.pdf",
+        "S9525-06-44A May 2012 GW Report 1112.pdf",
+        "S9525-06-44AModesto Stockpiles GW. SEPT2012.1212.pdf",
+        "11 29 2012 Caltrans GND Water Monitoring Rpts (2).pdf",
+        "S2350-01-02 Well Destruction Report_6.25.pdf",
+        "S9800-01-17A Caltrans Modesto Stockpiles GW_06 16.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "mse-wall": {
+      "article_path": "wiki/concepts/mse-wall.md",
+      "sources": [
+        "raw/E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "nepa": {
+      "article_path": "wiki/concepts/nepa.md",
+      "sources": [
+        "3.14.2018 - Approval letter for SR 132 RAP.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "nitrate": {
+      "article_path": "wiki/concepts/nitrate.md",
+      "sources": [
+        "raw/S9525-06-44AModesto Stockpiles GW  SEPT2012 1212.pdf",
+        "raw/S9800-01-17 Caltrans Modesto Stockpiles Dec 2013 GW Mon 0114.pdf",
+        "raw/S9525-01-44B Modesto Stockpiles GW June 2013.0613 (1).pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "no-groundwater-impact": {
+      "article_path": "wiki/concepts/no-groundwater-impact.md",
+      "sources": [
+        "raw/S2350-01-02 Updated Statistical Evaluation Report_2.24.pdf",
+        "raw/Approval of GW Statistical Evaluation (900259).pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "no-offsite-migration": {
+      "article_path": "wiki/concepts/no-offsite-migration.md",
+      "sources": [
+        "raw/S1200-01-01 Modesto Stockpiles Dec 2016 SW Sampling_01.17.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "operation-and-maintenance-plan": {
+      "article_path": "wiki/concepts/operation-and-maintenance-plan.md",
+      "sources": [
+        "raw/OM Plan Comments (900259).pdf",
+        "raw/2025 - RE_ Reminder - Annual Inspection Report.pdf",
+        "raw/Acceptance Letter_Final Removal Action Completion Report_Modesto Soil Stockpiles (900259).pdf",
+        "raw/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "paHs": {
+      "article_path": "wiki/concepts/paHs.md",
+      "sources": [
+        "raw/S1200-01-01 Modesto Stockpiles GW April 2019_06.19.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "petroleum-hydrocarbons": {
+      "article_path": "wiki/concepts/petroleum-hydrocarbons.md",
+      "sources": [
+        "Hwy 132 Clean Fill Source Testing Exhibit.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "phase-i-environmental-site-assessment": {
+      "article_path": "wiki/concepts/phase-i-environmental-site-assessment.md",
+      "sources": [
+        "Hwy 132 Clean Fill Source Testing Exhibit.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "proucl-statistical-analysis": {
+      "article_path": "wiki/concepts/proucl-statistical-analysis.md",
+      "sources": [
+        "raw/Stockpile 1 MSE Wall Sampling Tech Memo.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "quality-control": {
+      "article_path": "wiki/concepts/quality-control.md",
+      "sources": [
+        "raw/7453_S9525-06-44_Modesto_Stockpiles_July_2012_GW_Report.1112.pdf",
+        "raw/S1200-01-01 Modesto Stockpiles GW April 2019_06.19.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "regional-water-quality-control-board": {
+      "article_path": "wiki/concepts/regional-water-quality-control-board.md",
+      "sources": [
+        "raw/Approval E-mail_ SR 132 Basin 5 Clean Fill Sampling Plan.pdf",
+        "raw/Final RDIP Approval Letter (900259).pdf",
+        "raw/11 29 2012 Caltrans GND Water Monitoring Rpts.pdf",
+        "raw/7084_S9525-06-44 Response to DTSC Workplan Comments.0912 (1).pdf",
+        "Acceptance E-mail_Stockpiles 1 and 2 MSE Wall Sampling Plan.pdf",
+        "E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo.pdf",
+        "11 29 2012 Caltrans GND Water Monitoring Rpts (2).pdf",
+        "DTSC E-mail Approval of Carpenter Shoofly Tech Memo.pdf",
+        "S2350-01-02 Well Destruction Report_6.25.pdf",
+        "04 04 2013 Final  SSI and HHRA 8 (1).pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "remedial-action-completion-report": {
+      "article_path": "wiki/concepts/remedial-action-completion-report.md",
+      "sources": [
+        "Draft Interim RACR_ App D-G.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "remedial-action-plan": {
+      "article_path": "wiki/concepts/remedial-action-plan.md",
+      "sources": [
+        "3.14.2018 - Approval letter for SR 132 RAP.pdf",
+        "raw/Acceptance Letter_Final Removal Action Completion Report_Modesto Soil Stockpiles (900259).pdf",
+        "raw/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "remedial-design-implementation-plan": {
+      "article_path": "wiki/concepts/remedial-design-implementation-plan.md",
+      "sources": [
+        "raw/Errata Transmittal 2-6-2020.pdf",
+        "raw/Errata to January 2019 RDIP - SR 132 West Expressway Phase 1.pdf",
+        "raw/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19 (1).pdf",
+        "raw/Stockpiles 1 and 2 MSE Wall Sampling Plan.pdf",
+        "raw/Stockpile 1 MSE Wall Sampling Tech Memo.pdf",
+        "raw/RDIP Variance Request Acceptance E-Mail.pdf",
+        "raw/Acceptance Letter Draft Interim RACR (900259).pdf",
+        "raw/Stockpile 3 Confirmation Sampling Tech Memo Approval.pdf",
+        "raw/Final RDIP Approval Letter (900259).pdf",
+        "raw/RDIP All Figures.pdf",
+        "raw/Caltrans Modesto Soil Stcokpiles RDIP Variance.pdf",
+        "raw/DTSC Letter Response - 2025 GW Monitoring Report (900259).pdf",
+        "RDIP Errata Acceptance.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "remediation-phases": {
+      "article_path": "wiki/concepts/remediation-phases.md",
+      "sources": [
+        "raw/DTSC Letter Response - 2025 GW Monitoring Report (900259) (1).pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "removal-action-completion-report": {
+      "article_path": "wiki/concepts/removal-action-completion-report.md",
+      "sources": [
+        "raw/Acceptance Letter Draft Interim RACR (900259).pdf",
+        "raw/Acceptance Letter_Final Removal Action Completion Report_Modesto Soil Stockpiles (900259).pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "retaining-walls": {
+      "article_path": "wiki/concepts/retaining-walls.md",
+      "sources": [
+        "3.14.2018 - Approval letter for SR 132 RAP.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "rwqcb": {
+      "article_path": "wiki/concepts/rwqcb.md",
+      "sources": [
+        "raw/7083_S9525-06-44 Modesto Soil Stockpiles Fenceline Workplan.0912 (1).pdf",
+        "raw/Approval of GW Statistical Evaluation (900259).pdf",
+        "raw/Acceptance Letter_Final Removal Action Completion Report_Modesto Soil Stockpiles (900259).pdf",
+        "raw/7084_S9525-06-44 Response to DTSC Workplan Comments.0912.pdf",
+        "raw/E-mail Acceptance of Bent 2 Soils Tech Memo.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "sample-analysis-plan": {
+      "article_path": "wiki/concepts/sample-analysis-plan.md",
+      "sources": [
+        "raw/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18.pdf",
+        "raw/S1200-01-01 Modesto Stockpiles March 2018 SW Sampling_04.18.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "site-specific-background": {
+      "article_path": "wiki/concepts/site-specific-background.md",
+      "sources": [
+        "raw/Approval E-mail_Revised Basin 5 Clean Fill Tech Memo.pdf",
+        "raw/Approval Letter Stockpile 2 Spoils Workplan (900259).pdf",
+        "raw/Caltrans Modesto Soil Stcokpiles RDIP Variance.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "soil-management-plan": {
+      "article_path": "wiki/concepts/soil-management-plan.md",
+      "sources": [
+        "raw/Final SMP Approval E-mail.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "soil-stockpiles": {
+      "article_path": "wiki/concepts/soil-stockpiles.md",
+      "sources": [
+        "3.14.2018 - Approval letter for SR 132 RAP.pdf",
+        "Acceptance E-mail_Stockpiles 1 and 2 MSE Wall Sampling Plan.pdf",
+        "Borrow Area Sampling Plan.pdf",
+        "GND Water Monitoring Rpt March 2102.pdf",
+        "Annual Stockpile Inspection Form.pdf",
+        "Draft Interim RACR_ App D-G.pdf",
+        "E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo.pdf",
+        "S9525-06-44A Stormwater SAP Addendum 0213.pdf",
+        "S2350-01-02 Well Destruction Report_6.25.pdf",
+        "S9800-01-17A Caltrans Modesto Stockpiles GW_06 16.pdf",
+        "04 04 2013 Final  SSI and HHRA 8 (1).pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "soil-suitable-as-clean-cover": {
+      "article_path": "wiki/concepts/soil-suitable-as-clean-cover.md",
+      "sources": [
+        "raw/Borrow Area Results Tech Memo Approval.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "standard-penetration-test": {
+      "article_path": "wiki/concepts/standard-penetration-test.md",
+      "sources": [
+        "raw/LOTB-N Carpenter OC.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "statistical-evaluation": {
+      "article_path": "wiki/concepts/statistical-evaluation.md",
+      "sources": [
+        "raw/S2350-01-02 Updated Statistical Evaluation Report_2.24.pdf",
+        "raw/Approval of GW Statistical Evaluation (900259).pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "stockpile-1": {
+      "article_path": "wiki/concepts/stockpile-1.md",
+      "sources": [
+        "raw/SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020.pdf",
+        "raw/Approval E-mail_Revised Basin 5 Clean Fill Tech Memo.pdf",
+        "raw/Caltrans Modesto Soil Stcokpiles RDIP Variance.pdf",
+        "raw/RDIP All Figures.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "storm-water-sampling-and-analysis-plan": {
+      "article_path": "wiki/concepts/storm-water-sampling-and-analysis-plan.md",
+      "sources": [
+        "raw/S2350-01-02 Stormwater SAP_12.23.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "stormwater-pollution-prevention-plan": {
+      "article_path": "wiki/concepts/stormwater-pollution-prevention-plan.md",
+      "sources": [
+        "raw/E-mail Acceptance of Bent 2 Soils Tech Memo.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "stormwater-sampling": {
+      "article_path": "wiki/concepts/stormwater-sampling.md",
+      "sources": [
+        "raw/S2350-01-02_2.4.2025 Stormwater Sampling Report_6.25.pdf",
+        "raw/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18.pdf",
+        "raw/S1200-01-01 Modesto Stockpiles March 2018 SW Sampling_04.18.pdf",
+        "raw/S9800-01-17A Modesto Stockpiles Dec 11 2015 Stormwater Sampling Report_02.16.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "straw-waddles": {
+      "article_path": "wiki/concepts/straw-waddles.md",
+      "sources": [
+        "06A2542ct_to16_SurfaceWaterLetter _final.20210323.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "strontium": {
+      "article_path": "wiki/concepts/strontium.md",
+      "sources": [
+        "GND Water Monitoring Rpt March 2102.pdf",
+        "S9525-06-44A May 2012 GW Report 1112.pdf",
+        "11 29 2012 Caltrans GND Water Monitoring Rpts (2).pdf",
+        "raw/09.20.2012 Final Caltrans Supplemental Site Characterization Workplan 2.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "supplemental-site-investigation": {
+      "article_path": "wiki/concepts/supplemental-site-investigation.md",
+      "sources": [
+        "raw/04 04 2013 Final  SSI and HHRA 8.pdf",
+        "04 04 2013 Final  SSI and HHRA 8 (1).pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "surface-water-monitoring": {
+      "article_path": "wiki/concepts/surface-water-monitoring.md",
+      "sources": [
+        "raw/DTSC Letter Response - 2025 GW Monitoring Report (900259) (1).pdf",
+        "raw/S1200-01-01 Modesto Stockpiles Dec 2016 SW Sampling_01.17.pdf",
+        "raw/06A2542ct_to97_SurfaceWaterLetter_final.20230309.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "technical-memo": {
+      "article_path": "wiki/concepts/technical-memo.md",
+      "sources": [
+        "raw/E-mail Acceptance of Bent 2 Soils Tech Memo.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "test-pit": {
+      "article_path": "wiki/concepts/test-pit.md",
+      "sources": [
+        "raw/Basin 5 Clean Fill Sampling Plan.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "threshold-screening-level": {
+      "article_path": "wiki/concepts/threshold-screening-level.md",
+      "sources": [
+        "raw/Carpenter Road Shoofly Clean Fill Tech Memo.pdf",
+        "raw/SR 132 Stockpile 2 BCS Removal Tech Memo.pdf",
+        "raw/E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "title-22": {
+      "article_path": "wiki/concepts/title-22.md",
+      "sources": [
+        "raw/S1200-01-01 Modesto Stockpiles GW April 2017_07.17.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "title-22-metals": {
+      "article_path": "wiki/concepts/title-22-metals.md",
+      "sources": [
+        "raw/SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020.pdf",
+        "raw/S9525-01-44B Caltrans Modesto Stockpiles GW March 2013 0513.pdf",
+        "raw/S9525-01-44B Modesto Stockpiles GW June 2013.0613.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "total-dissolved-solids": {
+      "article_path": "wiki/concepts/total-dissolved-solids.md",
+      "sources": [
+        "raw/S9525-06-44A Caltrans Modesto Stockpiles GW Nov2012 0213.pdf",
+        "raw/7453_S9525-06-44_Modesto_Stockpiles_July_2012_GW_Report.1112.pdf",
+        "raw/S2350-01-02_2.4.2025 Stormwater Sampling Report_6.25.pdf",
+        "raw/S9525-06-44AModesto Stockpiles GW  SEPT2012 1212.pdf",
+        "raw/S9800-01-17 Caltrans Modesto Stockpiles Dec 2013 GW Mon 0114.pdf",
+        "raw/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18.pdf",
+        "raw/S1200-01-01 Modesto Stockpiles March 2018 SW Sampling_04.18.pdf",
+        "raw/S9525-01-44B Modesto Stockpiles GW June 2013.0613 (1).pdf",
+        "raw/S9800-01-17A Modesto Stockpiles Dec 11 2015 Stormwater Sampling Report_02.16.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "total-petroleum-hydrocarbons-diesel": {
+      "article_path": "wiki/concepts/total-petroleum-hydrocarbons-diesel.md",
+      "sources": [
+        "raw/Final SMP Approval E-mail.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "underground-storage-tank": {
+      "article_path": "wiki/concepts/underground-storage-tank.md",
+      "sources": [
+        "Hwy 132 Clean Fill Source Testing Exhibit.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "variance-request": {
+      "article_path": "wiki/concepts/variance-request.md",
+      "sources": [
+        "raw/Acceptance Letter_Final Removal Action Completion Report_Modesto Soil Stockpiles (900259).pdf",
+        "raw/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo.pdf",
+        "raw/E-mail Acceptance of Bent 2 Soils Tech Memo.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "verification-sampling": {
+      "article_path": "wiki/concepts/verification-sampling.md",
+      "sources": [
+        "raw/SR 132 Stockpile 2 BCS Removal Tech Memo.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "well-decommissioning": {
+      "article_path": "wiki/concepts/well-decommissioning.md",
+      "sources": [
+        "raw/DTSC Letter Response - 2025 GW Monitoring Report (900259) (1).pdf",
+        "raw/S2350-01-02 Updated Statistical Evaluation Report_2.24.pdf",
+        "raw/Approval of GW Statistical Evaluation (900259).pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "well-destruction": {
+      "article_path": "wiki/concepts/well-destruction.md",
+      "sources": [
+        "S1200-01-01 Modesto Stockpiles Well Dest Rpt_06.19.pdf",
+        "S2350-01-02 Well Destruction Report_6.25.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "well-destruction-completion-report": {
+      "article_path": "wiki/concepts/well-destruction-completion-report.md",
+      "sources": [
+        "raw/DTSC Approval Response for final version of Well Destruction Report.pdf"
+      ],
+      "last_compiled": "2026-06-04T03:18:45Z"
+    }
+  }
 }

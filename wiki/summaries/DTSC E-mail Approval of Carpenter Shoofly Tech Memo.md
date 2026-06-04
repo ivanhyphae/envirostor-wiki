@@ -1,35 +1,30 @@
 ---
 source: raw/DTSC E-mail Approval of Carpenter Shoofly Tech Memo.pdf
 source_type: paper
-compiled_at: 2026-04-21T02:22:07Z
+source_hash: sha256:7b6032c666e0cd5e09a8ab2be2505b8ef3c4cdbbb4b0f786004e1d6cbe05a485
+compiled_at: 2026-06-04T03:12:10Z
 chunk_count: 1
 ---
 
 ## Key claims
-- DTSC and the Water Board reviewed the revised Carpenter Shoofly Area Clean Fill Sampling Plan and later the Carpenter Shoofly Clean Fill Technical Memorandum.
-- The agencies concluded that the proposed/implemented sampling and analysis were consistent with prior borrow-area sampling efforts.
-- The final soil composite results were judged to be consistent with naturally occurring background concentrations.
-- The sampled material was determined to meet the Barium Containing Soil clean cap criteria.
-- DTSC formally accepted the Technical Memorandum and approved the Sampling Plan by email.
+- The California Department of Toxic Substances Control (DTSC) and the Water Board jointly reviewed the Carpenter Shoofly Clean Fill Technical Memorandum (dated April 12, 2021).
+- Composite soil sample results from the Carpenter Shoofly Clean Fill area are consistent with naturally occurring background concentrations.
+- The results meet the **Barium Containing Soil clean cap criteria**, allowing the material to be used as clean fill.
+- DTSC formally accepts the Technical Memorandum and approves the characterization of the fill area.
 
 ## Methodology
-- The document is an approval correspondence summarizing environmental review of a clean-fill sampling plan and technical memorandum.
-- The sampling plan described proposed sampling and analysis for soil at the Carpenter Shoofly area intended for use as clean fill.
-- The technical memorandum reported completed sampling and analysis used to characterize the Carpenter Shoofly clean fill area.
-- The evaluation appears to rely on composite soil sample results and comparison against background concentrations and clean cap criteria.
-- No detailed experimental design, sample count, analytical methods, or statistical evaluation metrics are provided in the text excerpt.
+- **Sampling**: Composite soil samples were collected from the Carpenter Shoofly Clean Fill area. The sampling plan was previously approved by DTSC (April 5, 2021) and consistent with prior borrow area sampling efforts.
+- **Analysis**: The soil was analyzed to characterize its suitability as clean fill.
+- **Evaluation**: Results were compared against naturally occurring background concentrations and the specific Barium Containing Soil clean cap criteria (thresholds for barium in soil used as capping material).
 
 ## Results
-- DTSC approved the revised Clean Fill Sampling Plan on April 7, 2021, stating there were no comments and that the plan was consistent with previous borrow area sampling efforts.
-- On April 22, 2021, DTSC stated that composite soil sample results were consistent with naturally occurring background concentrations.
-- The same results were found to meet the Barium Containing Soil clean cap criteria.
-- No numeric contaminant concentrations, detection limits, or confidence intervals are included in the provided text.
+- All composite sample results fell within the range of naturally occurring background concentrations.
+- No exceedances of the barium clean cap criteria were reported.
+- No specific numerical values are provided in the email; only qualitative agency concurrence is documented.
 
 ## Limitations
-- The provided content is approval correspondence rather than a full technical paper, so methodological and quantitative details are sparse.
-- No explicit sample sizes, locations, laboratory methods, or analytical uncertainty are described in the excerpt.
-- The document does not report full raw data or comparative thresholds beyond the general reference to clean cap criteria.
-- Conclusions are limited to the reviewed sampling plan and technical memorandum for this specific Carpenter Shoofly clean-fill area.
+- The email does not cite any limitations or caveats. The approval is unconditional regarding the characterization of the clean fill area.
+- No discussion of potential variability across the site or sample representativeness is included.
 
 ## Concepts
-clean fill, sampling plan, technical memorandum, composite soil sample, background concentration, borrow area sampling, Barium Containing Soil clean cap criteria, environmental site characterization, DTSC approval, Water Board review
+composite soil sample, clean fill, naturally occurring background concentrations, Barium Containing Soil clean cap criteria, borrow area sampling

@@ -1,39 +1,32 @@
 ---
 source: raw/Approval E-mail_ SR 132 Basin 5 Clean Fill Sampling Plan.pdf
 source_type: paper
-compiled_at: 2026-04-21T02:31:06Z
+source_hash: sha256:6f39234a2a2eca08e2986bbe3e07c7f56722734d983b0ebf11c4c8580d42d9ec
+compiled_at: 2026-06-04T03:08:45Z
 chunk_count: 1
 ---
 
 ## Key claims
-- The document is an approval email stating that DTSC and the Water Board reviewed the **Basin 5 Clean Fill Sampling Plan** dated **June 11, 2020** for the **SR 132 Basin 5** stockpile capping material.
-- DTSC states the plan is **consistent with previous borrow area sampling** and therefore requires **no comments**.
-- The sampling frequency for Basin 5 is justified by its location **adjacent and north of a previously tested SR 132 roadway cut section east of Carpenter Road**, where **non-impacted native formation** was exposed.
-- The authors imply that **similar site conditions are anticipated at Basin 5**, supporting expedited approval.
+- The Basin 5 Clean Fill Sampling Plan (dated June 11, 2020) was approved by the Department of Toxic Substances Control (DTSC) and the Waterboard.
+- The plan describes proposed sampling and analysis for soil to be used as cover material (clean fill) to cap State Route 132 stockpiles.
+- The sampling frequency is based on Basin 5’s location adjacent and north of a previously tested roadway cut section east of Carpenter Road that exposed non‑impacted native formation; similar conditions are anticipated.
+- The plan is consistent with previous borrow area sampling.
 
 ## Methodology
-- The source is an **administrative approval email**, not a full research paper with experimental results.
-- The referenced sampling plan proposes **sampling and analysis of soil** to be used as **clean fill/cap material** for the SR 132 Basin 5 stockpiles.
-- The sampling approach is described as being based on:
-  - the **location of Basin 5**
-  - comparison to a **previously tested roadway cut section**
-  - prior **borrow area sampling**
-- A technical memorandum with **sampling methodology** and **tables of comparative background metal concentrations** was mentioned as part of prior documentation, but **was not included** in the submittal summarized here.
-- No explicit datasets, laboratory methods, or formal evaluation metrics are provided in the email text.
+- The sampling plan covers a proposed clean cover mining location at Basin 5 near SR 132.
+- Sampling locations were provided on a map; no separate technical memorandum with detailed sampling methodology or comparative background metal concentration tables was included.
+- The plan relies on the assumption that background metal concentrations from a previously submitted technical memorandum for the Carpenter Avenue area are applicable to Basin 5.
+- The approval process involved review by DTSC, the Waterboard, and Caltrans (DOT).
 
 ## Results
-- DTSC’s review outcome: **approval of the Basin 5 Clean Fill Sampling Plan**.
-- Water Board review: no objections are indicated in the approval response.
-- No numerical sampling results, concentration values, or statistical metrics are included in the provided text.
-- The only specific date information is:
-  - Sampling plan date: **June 11, 2020**
-  - DTSC approval email date: **June 12, 2020**
+- DTSC and the Waterboard reviewed the plan and had no comments.
+- The plan was officially approved by DTSC via email on June 12, 2020.
+- No quantitative analytical results (e.g., concentrations of metals or other parameters) are reported in this correspondence.
 
 ## Limitations
-- The submittal reviewed by Richard Stewart reportedly **only included a map with sample locations**.
-- The email notes that a **technical memorandum with sampling methodology and comparative background metal concentration tables was not included**, unlike a previous submittal for the area east of Carpenter Avenue.
-- Geocon is said to be **assuming** the previously submitted Carpenter technical memo is applicable to Basin 5, which is a caveat in the basis for approval.
-- Because this is an approval email, it contains **no detailed technical data, experimental validation, or quantitative contamination results**.
+- The submittal did not include a new technical memorandum with sampling methodology and comparative background metal concentration tables, unlike previous submittals for the area east of Carpenter Avenue.
+- The plan assumes that the Carpenter technical memo (previously submitted) is applicable to Basin 5, but this assumption was not verified with additional site‑specific data.
+- Conditions at Basin 5 are anticipated to be similar to the previously tested area, but no confirmatory testing or discussion of potential differences is provided.
 
 ## Concepts
-clean fill, sampling plan, soil sampling, stockpile capping, Basin 5, SR 132, borrow area sampling, background metal concentrations, roadway cut section, native formation, DTSC approval, Water Board review, environmental site assessment
+clean fill, borrow area sampling, background metal concentrations, non‑impacted native formation, clean cover mining location, State Route 132 stockpiles, DTSC approval, sampling frequency, comparative background tables
