@@ -1,0 +1,14 @@
+---
+source: raw/S9525-06-44 Modesto Stockpiles GW.0612.pdf
+source_type: paper
+compiled_at: 2026-04-21T02:24:55Z
+chunk_count: 17
+---
+
+The source document is a groundwater monitoring and laboratory report for the Modesto Stockpiles site under Caltrans Task Order 44 / SR132 in Stanislaus County, documenting the first quarterly groundwater assessment event and associated lab-quality-control appendices. Field sampling occurred on March 12, 2012, at eight monitoring wells (MW-1 through MW-8), where depth to groundwater, dissolved oxygen, and oxidation-reduction potential were measured before the wells were purged and sampled; most wells were purged by about three well volumes, while MW-5 went dry briefly and was later resampled. Samples were analyzed by ATL/Excelchem and, in some cases, split with CVRWQCB, using standard methods for major ions, alkalinity, TDS, sulfide, dissolved metals, mercury, and PAHs/SVOCs, with QC checks including blanks, duplicates, matrix spikes, surrogates, and split-sample comparisons.
+
+Hydrogeologically, the report finds groundwater in the shallow aquifer flows to the southeast, consistent with prior 2006 measurements, with groundwater elevations ranging from about 47.98 ft MSL at MW-8 to 50.14 ft MSL at MW-1 and an average hydraulic gradient of about 0.0008. Geochemical interpretation using Stiff diagrams shows bicarbonate-dominant water across the site, but with spatial differences in calcium and sodium dominance that suggest mixing between site-related water and FMC-influenced groundwater. The 2006 vs. 2012 stiff diagrams indicate the wells remained within, or shifted along, a calcium-dominant to sodium-dominant hydrochemical framework.
+
+Chemically, the groundwater is generally mineralized and characterized by elevated dissolved solids, alkalinity, sodium, calcium, and magnesium, with nitrate and chloride elevated in some wells. Most monitored constituents were below drinking-water thresholds or not detected, including PAHs/SVOCs, which were not detected above reporting limits in any sample. Dissolved metals were generally low, with detections such as barium, vanadium, strontium, chromium, molybdenum, and mercury at low concentrations, all mostly below applicable standards; the notable exceptions were nitrate, which exceeded drinking-water criteria in several wells, and TDS, which was elevated in multiple wells. Manganese exceeded its secondary MCL only in MW-4.
+
+The laboratory appendices support the data quality and show that analytical batches were generally acceptable. QC recoveries and duplicates were largely within method criteria, with only a few flagged qualifiers or minor exceptions, supporting the usability of the groundwater chemistry results.

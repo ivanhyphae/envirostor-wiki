@@ -1,0 +1,12 @@
+---
+source: raw/S1200-01-01 Modesto Stockpiles Oct 2016 SW Sampling_12.16.pdf
+source_type: paper
+compiled_at: 2026-04-21T02:34:06Z
+chunk_count: 9
+---
+
+Geocon Consultants conducted surface-water and stormwater sampling at the Caltrans Modesto Soil Stockpiles site in Stanislaus County on October 28, 2016, under DTSC-approved protocols from the 2006 Sampling and Analysis Plan and a 2013 addendum. The site consists of three stockpiles near SR 99 and Kansas Avenue, associated with historic FMC/Barium Products disposal areas. Sampling occurred during a rainfall event of about 1.5 inches, with water collected from puddles, drainage features, and background inlet locations (PL1–PL5 and BG1–BG2). Field measurements included pH, conductivity, turbidity, ORP, and dissolved oxygen, and samples were filtered, preserved, and analyzed by standard EPA/SM methods for dissolved metals, chloride, nitrate, sulfate, sulfide, alkalinity, TDS, and TSS.
+
+The report’s main purpose was to characterize runoff and ponded water near the stockpiles and compare the results to California Title 22 drinking-water standards and prior sampling data. Overall, surface water observed during the storm appeared to remain within the Caltrans right-of-way, with no clear offsite migration identified. Existing site controls—such as vegetative/fiber cover, straw wattles, and an interceptor berm—were described as functioning as intended to retain or redirect runoff onsite.
+
+Analytically, most constituents were low, frequently near or below detection or reporting limits, and generally consistent with historical ranges. Field conditions on 10/28/2016 showed pH from 7.30 to 8.60, conductivity from 23 to 81 µmhos/cm, turbidity from 22.3 to 135 ntu, and ORP from -127 to 39 mV. Laboratory results for major ions and solids likewise showed modest concentrations, with one certificate-of-analysis sample (PL4) reporting chloride at 1.3 mg/L, nitrate as N at 0.63 mg/L, sulfate at 2.1 mg/L, alkalinity at 19 mg/L as CaCO3, TDS at 69 mg/L, and TSS at 330 mg/L; total sulfide was not detected. Dissolved metals were present at low levels, with several results flagged as estimated (J) because they were between the method detection and quantitation limits. Most metals and minerals did not exceed Title 22 primary or secondary MCLs; the notable exception was manganese in PL3, which equaled the secondary MCL. Overall, the data suggest limited stormwater impact and no evidence of significant offsite release from the stockpile area.

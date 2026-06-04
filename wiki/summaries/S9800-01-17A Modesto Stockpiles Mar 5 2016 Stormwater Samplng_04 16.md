@@ -1,0 +1,12 @@
+---
+source: raw/S9800-01-17A Modesto Stockpiles Mar 5 2016 Stormwater Samplng_04 16.pdf
+source_type: paper
+compiled_at: 2026-04-21T02:21:01Z
+chunk_count: 8
+---
+
+The document is a Geocon/ATL analytical report for the Caltrans Modesto Soil Stockpiles site in Stanislaus County, documenting stormwater and surface-water sampling associated with the S9800-01-17A project. The main field event occurred on March 5, 2016 during a qualifying rain event, using DTSC-approved protocols from the 2006 Surface Water Sampling and Analysis Plan and a 2013 addendum. Sampling focused on puddle/stormwater locations BG1, BG2, and PL1–PL5 around Stockpiles 1–3 to characterize water chemistry and determine whether runoff was leaving the site. BG2 could not be sampled because there was insufficient water.
+
+Sampling and analysis followed standard QA/QC procedures: water was collected with disposable bailers and a suction pump, dissolved-metal samples were field-filtered through 0.45-micron filters, and all samples were chilled and shipped under chain-of-custody. Field measurements included pH, conductivity, temperature, turbidity, ORP, and dissolved oxygen. Laboratory testing included dissolved metals by EPA 6020/7470A, anions by EPA 300.0, alkalinity by SM 2320B, TDS/TSS by SM 2540C/D, and sulfide by SM 4500-S-D. QC review showed the analytical batches were generally acceptable, with only minor exceptions noted in matrix spike performance, but overall data were considered valid.
+
+The results show measurable dissolved solids, major ions, and trace metals, but most constituents were at low levels and below drinking-water regulatory thresholds. At BG1, for example, chloride, nitrate, sulfate, TDS, TSS, sulfide, and several dissolved metals were detected at modest concentrations, all within MCLs. Across PL1–PL5, detected metals included antimony, barium, calcium, chromium, copper, magnesium, molybdenum, nickel, potassium, sodium, strontium, vanadium, and, in some samples, zinc, manganese, and arsenic. The most notable exceedance was manganese in PL2 at 60 µg/L, which exceeded its secondary MCL of 50 µg/L; no other reported metal concentrations exceeded primary or secondary MCLs. The report’s overall conclusion is that stormwater remained within the Caltrans right-of-way/site boundary during the event, with no observed offsite migration, although water chemistry varied spatially and temporally among sampling points.

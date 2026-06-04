@@ -1,0 +1,12 @@
+---
+source: raw/S9525-06-44AModesto Stockpiles GW  SEPT2012 1212.pdf
+source_type: paper
+compiled_at: 2026-04-21T02:20:40Z
+chunk_count: 16
+---
+
+The document is a September 2012 groundwater monitoring report for the Caltrans Modesto Soil Stockpiles site in Stanislaus County, prepared under a DTSC-approved work plan. It summarizes sampling and laboratory analyses from shallow monitoring wells completed in the Modesto Formation, with wells MW-1 through MW-10 included in the broader monitoring program and specific laboratory certificates covering subsets such as MW-5, MW-6, MW-7, MW-8, MW-9, and MW-10. Field work included depth-to-water measurements, purge and sample collection, and in-field measurements of pH, conductivity, temperature, dissolved oxygen, ORP, and turbidity. Samples were analyzed by Advanced Technology Laboratories for dissolved and total metals, anions, alkalinity species, TDS, sulfide, mercury, and PAHs/semivolatile organics, with QA/QC supported by blanks, duplicates, spikes, and control samples.
+
+Overall, the groundwater remained shallow and flowed generally southeast, consistent with historical conditions, with an average hydraulic gradient of about 0.0008. Turbidity varied widely between wells and was often high at the start of purging but generally decreased after continued pumping. The chemistry of the groundwater was dominated by major inorganic ions and salts rather than organic contaminants. Most PAHs and semivolatile organic compounds were not detected, and mercury was also nondetect in the reported samples. Dissolved metals were generally low to moderate, with calcium, magnesium, sodium, and strontium making up most of the dissolved load.
+
+The main water-quality concerns were elevated nitrate and total dissolved solids, with limited manganese exceedances; most other dissolved metals and mineral constituents were below applicable drinking-water and agricultural screening values. Barium and several trace metals were detected at low concentrations, but not at levels identified as major exceedances. Stiff diagrams and ion balances indicate two persistent groundwater facies at the site: calcium-dominant and sodium-dominant waters, with only slight ionic shifts since monitoring resumed in 2012. Overall, the report shows a stable but mineralized groundwater system with limited evidence of organic contamination and only a few inorganic constituents of concern.

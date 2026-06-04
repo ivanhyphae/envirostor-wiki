@@ -1,0 +1,14 @@
+---
+source: raw/S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.pdf
+source_type: paper
+compiled_at: 2026-04-21T02:33:06Z
+chunk_count: 8
+---
+
+The report documents the installation of two additional shallow monitoring wells, MW-9 and MW-10, and the June 2012 groundwater investigation at the Modesto Soil Stockpiles site near SR 99 and Kansas Avenue in Stanislaus County, California. The work was performed under DTSC-approved procedures to expand the site’s groundwater assessment. Two hollow-stem auger borings were advanced in May 2012 and completed as 2-inch PVC wells to about 40 ft below ground surface, with screened intervals placed in the shallow water-bearing zone within Modesto Formation alluvial sediments. Subsequent surveying and sampling in June 2012 added these wells to the existing monitoring network, bringing updated groundwater quality data from across the site.
+
+Hydrogeologically, the site is underlain by shallow alluvial deposits dominated by silts and silty sands with localized clay and sand lenses, and groundwater generally flows to the southeast. Groundwater levels across the monitoring network were fairly consistent in 2012, around 48–50 ft MSL, with the new wells measuring about 48.8–48.9 ft MSL. The report also notes that earlier work suggested two distinct groundwater types beneath the site.
+
+Sampling and laboratory analysis covered dissolved metals, major ions/general minerals, sulfide, total dissolved solids (TDS), alkalinity, mercury, and semivolatile organic compounds/PAHs. The two new wells were developed and sampled using low-flow or bailer-based procedures after adequate purge volume, with chain-of-custody and QA/QC controls including blanks, duplicates, matrix spikes, and laboratory control samples. Results were compared to California primary and secondary drinking-water standards, public health goals, EPA reference values, notification levels, and agricultural water-quality criteria.
+
+Overall, the chemistry indicates moderately to highly mineralized groundwater, with elevated hardness, alkalinity, chloride, sulfate, nitrate, and major cations such as calcium, magnesium, sodium, and potassium. In MW-9 and MW-10, TDS was reported at 510 mg/L and 710 mg/L, respectively, and nitrate as N was 13 mg/L in MW-9 and 9.2 mg/L in MW-10. Most dissolved metals remained below regulatory thresholds, with examples such as barium, lead, and strontium below standards, though manganese exceeded a secondary/taste-and-odor threshold in MW-10. PAHs/SVOCs and mercury were not detected above reporting limits. QA/QC results were generally acceptable, despite some matrix spike and duplicate anomalies that were qualified rather than indicating major problems with the data.

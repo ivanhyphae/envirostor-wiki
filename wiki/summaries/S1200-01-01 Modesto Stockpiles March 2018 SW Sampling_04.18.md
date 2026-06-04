@@ -1,0 +1,12 @@
+---
+source: raw/S1200-01-01 Modesto Stockpiles March 2018 SW Sampling_04.18.pdf
+source_type: paper
+compiled_at: 2026-04-21T02:26:30Z
+chunk_count: 8
+---
+
+The document is a laboratory and field monitoring report for stormwater/surface water at the Caltrans Modesto Soil Stockpiles site in Stanislaus County, California, covering repeated sampling events from 2013 through March 22, 2018. The March 22, 2018 event was conducted during a qualifying rain event under DTSC-approved SAP procedures to evaluate runoff and surface water quality around Stockpiles 1–3 and determine whether contaminants were migrating offsite. Samples were collected from designated locations including PL1–PL5 and background sites BG1–BG2, though only PL1–PL4 and BG1 were sampled in 2018 because there was insufficient water at PL5 and BG2. Field work included measurement of pH, conductivity, temperature, turbidity, ORP, and dissolved oxygen, and samples were analyzed under chain of custody for dissolved metals and general mineral chemistry using standard EPA and SM methods.
+
+Across the multi-year data set, results were generally low-level and broadly consistent with earlier monitoring, with many detections near reporting limits or estimated values. General mineral chemistry such as chloride, nitrate, sulfate, alkalinity, TDS, TSS, and sulfide was typically low and generally within the range of prior measurements, though some samples showed elevated dissolved solids and major cations such as calcium, magnesium, sodium, and potassium. Trace metals were usually present at low concentrations, but certain samples showed elevated manganese, zinc, copper, and barium. Comparison to California drinking-water standards indicated that most analytes did not exceed primary or secondary MCLs, and several metals such as beryllium, cadmium, mercury, selenium, silver, and thallium were not detected above reporting limits.
+
+The main exception in the March 2018 event was lead: PL3 contained 46 µg/L dissolved lead, exceeding the primary MCL of 15 µg/L. Manganese was also elevated in PL2–PL4 and BG1, ranging from 54 to 370 µg/L and exceeding the secondary MCL of 50 µg/L. Overall, the report concludes that site stormwater/surface water chemistry was largely similar to earlier years, with sporadic elevated metal concentrations at selected locations, especially in the 2018 sample set.

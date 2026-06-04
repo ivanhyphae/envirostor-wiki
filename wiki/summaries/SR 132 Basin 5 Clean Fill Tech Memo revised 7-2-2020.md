@@ -1,0 +1,10 @@
+---
+source: raw/SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020.pdf
+source_type: paper
+compiled_at: 2026-04-21T02:40:40Z
+chunk_count: 3
+---
+
+The **SR 132 Basin 5 Clean Fill technical memo** documents the characterization of the **Basin 5 borrow area adjacent to Carpenter Road** to determine whether it could provide **clean cover fill** for capping consolidated **barium-containing soil (BCS)** in **Stockpiles 1 and 2**. Sampling was performed in general accordance with the **DTSC 2001 Information Advisory Clean Imported Fill Soil** and was approved by DTSC. Field work consisted of **six exploratory trenches (BASIN5 1–6)** excavated on a grid pattern to a maximum depth of **10 ft**, with soil collected from **0–2 ft, 2–5 ft, and 5–10 ft** intervals and field-composited into depth-discrete samples. Samples were chilled, chain-of-custody shipped to the laboratory, and analyzed for **Title 22 metals**, **mercury**, and **organochlorine pesticides**; results were compared to **site-specific background concentrations** from a 2007 Shaw background summary.
+
+Overall, the investigation found the Basin 5 soils to be **suitable for use as clean cap material**. No field evidence of contamination was observed during trenching—there was **no staining, no odors, and no debris**. Laboratory results showed **low-level metal concentrations** consistent with natural background, including arsenic, barium, chromium, cobalt, copper, lead, nickel, vanadium, and zinc, with values generally close to or only slightly above background ranges. Several metals were consistently **nondetect**, including antimony, beryllium, cadmium, molybdenum, selenium, silver, thallium, and mercury. **Mercury was nondetect** in the project samples, and **all tested organochlorine pesticides were nondetect**. The lab certification/QC package showed that **method blanks were nondetect**, surrogate recoveries were generally within acceptance limits, and the analytical batches were considered **valid**, with QC documentation supporting the reliability of the reported data even where some matrix spike recoveries were outside preferred ranges.

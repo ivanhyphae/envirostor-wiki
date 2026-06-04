@@ -1,0 +1,12 @@
+---
+source: raw/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814.pdf
+source_type: paper
+compiled_at: 2026-04-21T02:25:36Z
+chunk_count: 18
+---
+
+The June 2014 Modesto Soil Stockpiles groundwater monitoring report for Caltrans S9800-01-17 documents field sampling, laboratory analysis, and QA/QC for shallow groundwater beneath and near three stockpiles using wells MW-1 through MW-10. On June 4–5, 2014, investigators measured depth to water, pH, conductivity, temperature, dissolved oxygen, ORP, turbidity, purge volume, and flow rate, then collected groundwater samples using a submersible pump and, in low-yield wells, disposable bailers. Samples were analyzed by a California-certified laboratory for general minerals, dissolved metals, nitrate, TDS, sulfide, alkalinity, and mercury; PAH analysis had been discontinued after November 2012 with DTSC concurrence because prior samples were nondetect. The report states that QA/QC results were generally acceptable, with blanks, LCS, duplicates, and matrix spikes supporting the usability of the data, though some metals results carried flags for dilution, quantitation-range exceedances, or elevated spike recoveries.
+
+Hydrogeologically, groundwater was found to flow south-southeast with a low average gradient of about 0.0008, and groundwater depths ranged from about 35.09 ft bgs at MW-1 to 42.86 ft bgs at MW-5. The chemistry of the shallow aquifer is heterogeneous but shows two recurring facies across the site: calcium-dominant and sodium-dominant water types, as shown by Stiff diagrams; MW-5 appears to reflect a possible mixing zone between these types. This pattern persisted through June 2014.
+
+Analytically, the report finds that the DTSC-identified chemicals of concern—barium, lead, and strontium—remained below applicable drinking-water thresholds. Barium ranged from 51 to 280 µg/L and strontium from 250 to 1,100 µg/L, both below the cited regulatory benchmarks. Many other metals were nondetect or present at low concentrations. The constituents most consistently exceeding benchmarks were nitrate and, in some wells, TDS. Nitrate as nitrogen ranged from 2.6 to 15 mg/L in the broader monitoring set, with some samples above the 10 mg/L drinking-water standard, while TDS ranged roughly from 320 to 530 mg/L in most wells but reached 680 mg/L in at least one laboratory sample, exceeding the secondary standard of 500 mg/L. Overall, the report concludes that groundwater quality is variable but that the main recurring exceedances are nitrate and TDS, not the primary site metals of concern.

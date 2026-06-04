@@ -1,0 +1,14 @@
+---
+source: raw/S9800-01-17 Caltrans Modesto Stockpiles Dec 2013 GW Mon 0114.pdf
+source_type: paper
+compiled_at: 2026-04-21T02:25:15Z
+chunk_count: 16
+---
+
+The December 2013 Caltrans Modesto Soil Stockpiles groundwater monitoring report documents a routine sampling event conducted December 11–12, 2013 across a 10-well shallow monitoring network (MW-1 through MW-10) in Stanislaus County, with MW-9 and MW-10 serving as additional wells added in 2012. The work included depth-to-water measurements, well purging, groundwater sampling, laboratory analysis, QA/QC review, and GeoTracker reporting. Samples were analyzed by ATL using standard methods for dissolved metals, chloride, nitrate, sulfate, alkalinity, total dissolved solids, sulfide, and dissolved mercury; PAH analysis had been discontinued after November 2012 with DTSC concurrence. Analytical results were compared to California primary and secondary MCLs and relevant EPA benchmarks, and geochemical patterns were evaluated with Stiff diagrams.
+
+Hydrogeologically, the shallow groundwater continued to flow toward the southeast, with an average gradient of about 0.001, consistent with historical site conditions. Depth to groundwater in December 2013 ranged from about 33.5 feet below ground surface in MW-1 to 42.5 feet bgs in MW-5, and groundwater elevations ranged from 44.08 ft MSL in MW-8 to 46.93 ft MSL in MW-1.
+
+Chemically, the groundwater was mineralized and characterized by elevated dissolved solids and major ions, but dissolved metals were generally low. Total dissolved solids were elevated in multiple wells, commonly in the 500–700 mg/L range, and nitrate and chloride were present at measurable levels across the network. In the December 2013 results, chloride ranged roughly from the teens to the high 20s mg/L, nitrate as N was commonly in the 9–25 mg/L range, and sulfate ranged from the teens to about 70 mg/L. Dissolved metals were mostly below drinking-water thresholds; barium was detected at 34–230 µg/L, and mercury was not detected in the wells shown. The notable exception was manganese, which exceeded its threshold in MW-6. Some wells also showed elevated strontium and other trace metals, but these were not presented as clear exceedances.
+
+Overall, the report suggests that the site’s groundwater quality reflects persistent mineralized conditions with recurring nitrate and TDS exceedances in several wells, indicating either broader background groundwater quality issues or long-standing site-wide conditions rather than a distinct, localized impact from the soil stockpiles. Stiff diagrams indicated two stable groundwater facies—one calcium-dominant and one sodium-dominant—with only minor compositional shifts and possible mixing noted at MW-5 and MW-9. QA/QC data generally supported the validity of the analytical batches, including the laboratory certificate results.

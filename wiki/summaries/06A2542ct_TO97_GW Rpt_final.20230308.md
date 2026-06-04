@@ -1,0 +1,12 @@
+---
+source: raw/06A2542ct_TO97_GW Rpt_final.20230308.pdf
+source_type: paper
+compiled_at: 2026-04-21T02:27:57Z
+chunk_count: 8
+---
+
+The report documents Caltrans-required groundwater monitoring for the Modesto Soil Stockpiles Encapsulation Project in Modesto, California, a site associated with historic FMC/Barium Products contamination and monitored since well installation in 2006 and 2012. The monitoring network was originally broader, but six wells were later decommissioned for highway construction, leaving MW-4, MW-6, MW-9, and MW-10 as the active wells during the reporting period.
+
+Field monitoring under Caltrans Task Order 97 / Contract 06A2542 included semi-annual depth-to-water gauging and annual groundwater sampling. Gauging was conducted on November 2, 2022; December 13, 2022; and February 21, 2023, using a GeoTech water level meter and standard decontamination procedures. MW-10 was initially difficult to locate because of mulch cover, but was later found and gauged after the contractor replaced the damaged well box. Despite these efforts, all remaining wells were dry during the reporting period, so no groundwater samples were collected in late 2022 or early 2023. As a result, no analytical results were generated for the current event, and groundwater flow direction and hydraulic gradient could not be recalculated, although historical flow has generally been south to southeast with a low gradient of about 0.0006–0.004.
+
+The report also compiles historical groundwater chemistry from repeated sampling over 2006–2023, presenting Title 22 dissolved metals and general mineral/PAH data in tabular form and comparing results to California and EPA regulatory benchmarks such as MCLs, secondary MCLs, health advisories, and notification levels. Overall, most analytes are consistently nondetect or present at low levels, with a few sporadic detections and occasional elevated values. Strontium is the most consistently elevated metal across many wells, manganese shows intermittent higher concentrations, and some wells exhibit relatively high dissolved mineral content, including chloride, sulfate, and TDS. PAHs are generally not reported above detection limits in the excerpted tables. Overall, the long-term dataset suggests groundwater chemistry is dominated more by naturally occurring minerals than by widespread elevated metal contamination, while also showing that parts of the monitoring network have become difficult to sample because of low or absent groundwater.

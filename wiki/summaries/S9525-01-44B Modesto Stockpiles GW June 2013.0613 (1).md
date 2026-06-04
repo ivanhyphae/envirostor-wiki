@@ -1,0 +1,12 @@
+---
+source: raw/S9525-01-44B Modesto Stockpiles GW June 2013.0613 (1).pdf
+source_type: paper
+compiled_at: 2026-04-21T02:19:59Z
+chunk_count: 9
+---
+
+The document reports the June 2013 groundwater monitoring event for the Caltrans Modesto Soil Stockpiles site in Stanislaus County, California (Project S9525-01-44B). Ten monitoring wells (MW-1 through MW-10) were sampled on June 5–6, 2013 in accordance with the DTSC-approved groundwater assessment work plan. Field work included measurement of groundwater elevations and in situ water-quality parameters such as pH, conductivity, temperature, dissolved oxygen, ORP, and turbidity, followed by collection of filtered groundwater samples for dissolved metals and general chemistry. Laboratory analyses included Title 22 dissolved metals, major ions, alkalinity, total dissolved solids, sulfide, and some PAHs, with QA/QC reviewed through blanks, spikes, duplicates, and control samples.
+
+Overall, groundwater chemistry was fairly stable and generally low in trace contaminants. The main DTSC chemicals of concern—barium, lead, and strontium—did not exceed drinking-water numeric thresholds in the June 2013 samples. Reported dissolved metals were mostly at low concentrations, with barium, strontium, arsenic, chromium, and other trace metals present in some wells but below their respective standards. General mineral chemistry showed more persistent water-quality issues: nitrate as nitrogen and TDS exceeded or approached applicable benchmarks in some wells, while chloride, sulfate, alkalinity, and other major ions were typically within standards. In the June 2013 data, for example, MW-1 and MW-4 showed moderate TDS and nitrate levels, while metals such as arsenic and chromium remained low.
+
+Hydrogeologically, groundwater was encountered at roughly 31.7 to 40.1 feet below ground surface, and shallow groundwater flow was interpreted to be toward the east-southeast with a very gentle gradient. The chemistry and stiff-diagram evaluation indicate two recurring groundwater facies across the site: calcium-dominant and sodium-dominant types. These patterns, along with the generally consistent analytical results from prior sampling events, suggest that groundwater conditions at the site remained broadly similar over time, with no clear evidence in this report of widespread metal contamination but with continued attention warranted for nitrate and dissolved solids.
