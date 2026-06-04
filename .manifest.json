@@ -19,6 +19,15 @@
       "summary_path": "wiki/summaries/04 04 2013 Final  SSI and HHRA 8.md",
       "status": "compiled"
     },
+    "raw/06A2542ct_TO97_GW Rpt_final.20230308.pdf": {
+      "hash": "sha256:27656d28afbf90519fa8a71ed7b4788c6e5909d0d5f2ee9f6de6e9c30ce616f2",
+      "type": "paper",
+      "size_bytes": 5496983,
+      "added_at": "2026-06-04T04:05:46Z",
+      "compiled_at": "2026-06-04T04:05:46Z",
+      "summary_path": "wiki/summaries/06A2542ct_TO97_GW Rpt_final.20230308.md",
+      "status": "compiled"
+    },
     "raw/06A2542ct_to16_SurfaceWaterLetter _final.20210323.pdf": {
       "hash": "sha256:e694578feb67cd4bc010da13015faf11993b498cef48720fcf2dd1324fa1d4fa",
       "type": "paper",
@@ -550,6 +559,15 @@
       "summary_path": "wiki/summaries/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18.md",
       "status": "compiled"
     },
+    "raw/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17.pdf": {
+      "hash": "sha256:8ac9c97fa384d349cd9378f6c815acbc31587b47bb914a027f2a5588849ad6f3",
+      "type": "paper",
+      "size_bytes": 1473686,
+      "added_at": "2026-06-04T04:05:47Z",
+      "compiled_at": "2026-06-04T04:05:47Z",
+      "summary_path": "wiki/summaries/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17.md",
+      "status": "compiled"
+    },
     "raw/S1200-01-01 Modesto Stockpiles March 2018 SW Sampling_04.18.pdf": {
       "hash": "sha256:fe980fed442dbe216806972145dcf42be1f934611b8d6378193be083a20fb1a3",
       "type": "paper",
@@ -557,6 +575,15 @@
       "added_at": "2026-06-04T03:16:30Z",
       "compiled_at": "2026-06-04T03:16:30Z",
       "summary_path": "wiki/summaries/S1200-01-01 Modesto Stockpiles March 2018 SW Sampling_04.18.md",
+      "status": "compiled"
+    },
+    "raw/S1200-01-01 Modesto Stockpiles Oct 2016 SW Sampling_12.16.pdf": {
+      "hash": "sha256:7bfaa31abfbc4b0c04813a6dd9d2a72648208ba7fb16b4c73f69a23843e4abb8",
+      "type": "paper",
+      "size_bytes": 1179448,
+      "added_at": "2026-06-04T04:05:46Z",
+      "compiled_at": "2026-06-04T04:05:46Z",
+      "summary_path": "wiki/summaries/S1200-01-01 Modesto Stockpiles Oct 2016 SW Sampling_12.16.md",
       "status": "compiled"
     },
     "raw/S1200-01-01 Modesto Stockpiles Well Dest Rpt_06.19.pdf": {
@@ -604,6 +631,15 @@
       "summary_path": "wiki/summaries/S2350-01-02_2.4.2025 Stormwater Sampling Report_6.25.md",
       "status": "compiled"
     },
+    "raw/S9525-01-44B Caltrans Modesto Stockpiles GW March 2013 0513 (1).pdf": {
+      "hash": "sha256:3a2f0841524ea4982fbda86ec9c74dc9b86d566ea3b0d9f4a0fb8c013171c773",
+      "type": "paper",
+      "size_bytes": 3976412,
+      "added_at": "2026-06-04T04:05:45Z",
+      "compiled_at": "2026-06-04T04:05:45Z",
+      "summary_path": "wiki/summaries/S9525-01-44B Caltrans Modesto Stockpiles GW March 2013 0513 (1).md",
+      "status": "compiled"
+    },
     "raw/S9525-01-44B Caltrans Modesto Stockpiles GW March 2013 0513.pdf": {
       "hash": "sha256:3a2f0841524ea4982fbda86ec9c74dc9b86d566ea3b0d9f4a0fb8c013171c773",
       "type": "paper",
@@ -638,6 +674,15 @@
       "added_at": "2026-06-04T03:16:31Z",
       "compiled_at": "2026-06-04T03:16:31Z",
       "summary_path": "wiki/summaries/S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.md",
+      "status": "compiled"
+    },
+    "raw/S9525-06-44 Modesto Stockpiles GW.0612.pdf": {
+      "hash": "sha256:e2ae8fdbe8edb1f3b5d7ac4f0b8fd1842ba4cadc26e4fd36da465b9da1aee551",
+      "type": "paper",
+      "size_bytes": 3902406,
+      "added_at": "2026-06-04T04:05:47Z",
+      "compiled_at": "2026-06-04T04:05:47Z",
+      "summary_path": "wiki/summaries/S9525-06-44 Modesto Stockpiles GW.0612.md",
       "status": "compiled"
     },
     "raw/S9525-06-44A Caltrans Modesto Stockpiles GW Nov2012 0213.pdf": {
@@ -701,6 +746,15 @@
       "added_at": "2026-06-04T03:16:43Z",
       "compiled_at": "2026-06-04T03:16:43Z",
       "summary_path": "wiki/summaries/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.md",
+      "status": "compiled"
+    },
+    "raw/S9800-01-17 Modesto Stockpiles Feb2014 GW Mon 0414.pdf": {
+      "hash": "sha256:798dc9f3d02c249351106f7af45ea92bb8cbe70bce4a4204399b42e2f15a3779",
+      "type": "paper",
+      "size_bytes": 3897192,
+      "added_at": "2026-06-04T04:05:47Z",
+      "compiled_at": "2026-06-04T04:05:47Z",
+      "summary_path": "wiki/summaries/S9800-01-17 Modesto Stockpiles Feb2014 GW Mon 0414.md",
       "status": "compiled"
     },
     "raw/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814.pdf": {
@@ -1121,6 +1175,14 @@
       ],
       "last_compiled": "2026-06-04T03:18:45Z"
     },
+    "disposable-bailer": {
+      "article_path": "wiki/concepts/disposable-bailer.md",
+      "sources": [
+        "raw/S9525-01-44B Caltrans Modesto Stockpiles GW March 2013 0513 (1).pdf",
+        "raw/S9800-01-17 Modesto Stockpiles Feb2014 GW Mon 0414.pdf"
+      ],
+      "last_compiled": "2026-06-04T04:07:11Z"
+    },
     "dissolved-metals": {
       "article_path": "wiki/concepts/dissolved-metals.md",
       "sources": [
@@ -1133,6 +1195,13 @@
         "S9800-01-17A Caltrans Modesto Stockpiles GW_06 16.pdf"
       ],
       "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "dry-well": {
+      "article_path": "wiki/concepts/dry-well.md",
+      "sources": [
+        "raw/06A2542ct_TO97_GW Rpt_final.20230308.pdf"
+      ],
+      "last_compiled": "2026-06-04T04:07:11Z"
     },
     "dtsc": {
       "article_path": "wiki/concepts/dtsc.md",
@@ -1216,6 +1285,14 @@
       ],
       "last_compiled": "2026-06-04T03:18:45Z"
     },
+    "field-filtered-sample": {
+      "article_path": "wiki/concepts/field-filtered-sample.md",
+      "sources": [
+        "raw/S1200-01-01 Modesto Stockpiles Oct 2016 SW Sampling_12.16.pdf",
+        "raw/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17.pdf"
+      ],
+      "last_compiled": "2026-06-04T04:07:11Z"
+    },
     "field-parameter": {
       "article_path": "wiki/concepts/field-parameter.md",
       "sources": [
@@ -1232,6 +1309,20 @@
         "raw/09.20.2012 Final Caltrans Supplemental Site Characterization Workplan 2.pdf"
       ],
       "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "grab-sample": {
+      "article_path": "wiki/concepts/grab-sample.md",
+      "sources": [
+        "raw/S1200-01-01 Modesto Stockpiles Oct 2016 SW Sampling_12.16.pdf"
+      ],
+      "last_compiled": "2026-06-04T04:07:11Z"
+    },
+    "groundwater-flow-direction": {
+      "article_path": "wiki/concepts/groundwater-flow-direction.md",
+      "sources": [
+        "raw/S9800-01-17 Modesto Stockpiles Feb2014 GW Mon 0414.pdf"
+      ],
+      "last_compiled": "2026-06-04T04:07:11Z"
     },
     "groundwater-monitoring": {
       "article_path": "wiki/concepts/groundwater-monitoring.md",
@@ -1294,6 +1385,14 @@
         "raw/09.20.2012 Final Caltrans Supplemental Site Characterization Workplan 2.pdf"
       ],
       "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "j-flag": {
+      "article_path": "wiki/concepts/j-flag.md",
+      "sources": [
+        "raw/S1200-01-01 Modesto Stockpiles Oct 2016 SW Sampling_12.16.pdf",
+        "raw/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17.pdf"
+      ],
+      "last_compiled": "2026-06-04T04:07:11Z"
     },
     "land-use-covenant": {
       "article_path": "wiki/concepts/land-use-covenant.md",
@@ -1376,6 +1475,13 @@
         "raw/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo.pdf"
       ],
       "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "method-detection-limit": {
+      "article_path": "wiki/concepts/method-detection-limit.md",
+      "sources": [
+        "raw/S1200-01-01 Modesto Stockpiles Oct 2016 SW Sampling_12.16.pdf"
+      ],
+      "last_compiled": "2026-06-04T04:07:11Z"
     },
     "modesto-formation": {
       "article_path": "wiki/concepts/modesto-formation.md",
@@ -1501,6 +1607,20 @@
         "Hwy 132 Clean Fill Source Testing Exhibit.pdf"
       ],
       "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "potentiometric-contour": {
+      "article_path": "wiki/concepts/potentiometric-contour.md",
+      "sources": [
+        "raw/S9800-01-17 Modesto Stockpiles Feb2014 GW Mon 0414.pdf"
+      ],
+      "last_compiled": "2026-06-04T04:07:11Z"
+    },
+    "practical-quantitation-limit": {
+      "article_path": "wiki/concepts/practical-quantitation-limit.md",
+      "sources": [
+        "raw/S1200-01-01 Modesto Stockpiles Oct 2016 SW Sampling_12.16.pdf"
+      ],
+      "last_compiled": "2026-06-04T04:07:11Z"
     },
     "proucl-statistical-analysis": {
       "article_path": "wiki/concepts/proucl-statistical-analysis.md",
@@ -1649,6 +1769,13 @@
       ],
       "last_compiled": "2026-06-04T03:18:45Z"
     },
+    "split-sample-validation": {
+      "article_path": "wiki/concepts/split-sample-validation.md",
+      "sources": [
+        "raw/S9525-06-44 Modesto Stockpiles GW.0612.pdf"
+      ],
+      "last_compiled": "2026-06-04T04:07:11Z"
+    },
     "standard-penetration-test": {
       "article_path": "wiki/concepts/standard-penetration-test.md",
       "sources": [
@@ -1673,6 +1800,13 @@
         "raw/RDIP All Figures.pdf"
       ],
       "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "stockpile-puddle": {
+      "article_path": "wiki/concepts/stockpile-puddle.md",
+      "sources": [
+        "raw/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17.pdf"
+      ],
+      "last_compiled": "2026-06-04T04:07:11Z"
     },
     "storm-water-sampling-and-analysis-plan": {
       "article_path": "wiki/concepts/storm-water-sampling-and-analysis-plan.md",
@@ -1839,6 +1973,14 @@
         "raw/DTSC Approval Response for final version of Well Destruction Report.pdf"
       ],
       "last_compiled": "2026-06-04T03:18:45Z"
+    },
+    "well-volume-purging": {
+      "article_path": "wiki/concepts/well-volume-purging.md",
+      "sources": [
+        "raw/S9525-01-44B Caltrans Modesto Stockpiles GW March 2013 0513 (1).pdf",
+        "raw/S9800-01-17 Modesto Stockpiles Feb2014 GW Mon 0414.pdf"
+      ],
+      "last_compiled": "2026-06-04T04:07:11Z"
     }
   }
 }
