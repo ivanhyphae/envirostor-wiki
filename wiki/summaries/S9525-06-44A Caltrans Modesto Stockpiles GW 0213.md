@@ -2,31 +2,30 @@
 source: raw/S9525-06-44A Caltrans Modesto Stockpiles GW 0213.pdf
 source_type: paper
 source_hash: sha256:228fda818ee523096f1a96b31675a6d2536e2d54d0231c139d3fa44652488457
-compiled_at: 2026-06-04T04:19:28Z
+compiled_at: 2026-06-04T07:52:54Z
 chunk_count: 3
 ---
 
-# Combined Summary of Source Document: S9525-06-44A Caltrans Modesto Stockpiles GW 0213.pdf
+Based on the three section summaries, here is a combined coherent summary of the source document "raw/S9525-06-44A Caltrans Modesto Stockpiles GW 0213.pdf".
 
-This document presents the results of a groundwater monitoring event conducted in January 2013 at the Modesto Stockpiles site (Caltrans project S9525-06-44A). Groundwater samples were collected from ten monitoring wells (MW-1 through MW-10) completed in the shallow zone of the upper aquifer (Modesto Formation, approximately 30 feet below ground surface, confined to semi-confined). The primary objectives were to assess water quality relative to California drinking water standards and to characterize groundwater chemistry.
+**Overall Summary**
 
-## Methodology
-Depth to groundwater was measured with an electric water-level meter, and dissolved oxygen and oxidation-reduction potential were recorded. Wells were purged of approximately three well volumes using a submersible pump; however, low-yield wells MW-5 and MW-6 went dry and required recovery before sampling. Samples were collected with disposable bailers, and samples for dissolved metals were filtered in-line through 0.45-µm filters. Laboratory analyses were performed by Advanced Technology Laboratories (ELAP-certified) using standard EPA and Standard Methods protocols: dissolved metals (Title 22 list plus strontium) by EPA Method 6020 (ICP-MS); mercury by EPA Method 7470 (cold-vapor AA); anions, alkalinity, total dissolved solids (TDS), and sulfide by EPA Method 300.0 and Standard Methods (SM 2320B, SM 2540C, SM 4500). Stiff diagrams were constructed from major cation and anion concentrations to classify water types. Results were compared to California Primary and Secondary Maximum Contaminant Levels (MCLs) and EPA Drinking Water Health Advisories.
+This document presents the results of a groundwater monitoring event conducted on January 22-23, 2013, at the Caltrans Modesto Soil Stockpiles Site (S9525-06-44A). Field activities involved measuring water levels, purging, and sampling ten monitoring wells (MW-1 through MW-10). The groundwater flow direction was confirmed to be towards the southeast at a low gradient of 0.001.
 
-## Key Findings
-- **Groundwater flow**: Direction is toward the southeast with an average hydraulic gradient of approximately 0.001, consistent with historical data.
-- **Dissolved metals**: All dissolved metals (barium, strontium, arsenic, chromium, vanadium, and others) were below their respective California MCLs or EPA health advisories, with the sole exception of manganese in MW-6 (100 µg/L), which exceeded the secondary MCL of 50 µg/L. Barium concentrations ranged from 55 to 310 µg/L (threshold 1,000/700 µg/L); strontium from 260 to 1,200 µg/L (threshold 4,000 µg/L). Arsenic ranged from 1.7 to 5.5 µg/L (MCL 10 µg/L); chromium from 0.92 to 9.5 µg/L (MCL 50 µg/L); vanadium from 15 to 41 µg/L (notification level 50 µg/L). Lead was below the practical quantitation limit in all samples.
-- **Nitrate**: Nitrate as nitrogen exceeded the primary MCL of 10 mg/L in four wells: MW‑1 (12 mg/L), MW‑5 (30 mg/L), MW‑6 (18 mg/L), and MW‑10 (18 mg/L).
-- **Total dissolved solids (TDS)**: Exceeded the secondary MCL of 500 mg/L in MW‑5 (680 mg/L), MW‑6 (600 mg/L), and MW‑10 (610 mg/L). Other wells ranged from 310 to 470 mg/L.
-- **Stiff diagrams**: Revealed two dominant water types—calcium‑dominant (MW‑1,2,4,5,7,9,10) and sodium‑dominant (MW‑3,6,8)—with only slight changes in ionic composition since March 2012.
+**Key Analytical Findings**
 
-## Quality Control and Limitations
-- **Matrix interference**: Several matrix spike recoveries fell outside control limits for high-concentration analytes (e.g., calcium, magnesium, sodium, barium, strontium) in certain batches (B3A0614-MS2, B3A0762-MS1/MS2). These were flagged with note M1, but the analytical batches were validated by laboratory control samples; no data qualification was required.
-- **Blank contamination**: The equipment blank showed chromium at 1.2 µg/L (attributed to cross-contamination but not deemed to affect sample results). In one QC batch (B3A0762), blank detections of calcium (57 µg/L) and zinc (11.6 µg/L) were noted.
-- **Holding time and dilution**: Some samples (e.g., MW‑2) exceeded holding times for preparation or analysis. Several high-concentration analytes required dilution (flagged "E"), increasing detection limits.
-- **Low-yield wells**: MW‑5 and MW‑6 required non-standard purging (well went dry, then recovered), which may affect representativeness.
-- **Single event**: The report covers only one sampling event; long-term trends cannot be fully assessed.
-- **PAH analysis**: Discontinued after November 2012 per DTSC concurrence.
+Laboratory analyses showed that concentrations of barium and strontium remained below their respective water quality thresholds. Most dissolved metals, including arsenic and chromium, were detected but did not exceed thresholds. Lead was not detected in any sample. However, several key exceedances were observed:
 
-## Overall Significance
-The document provides a comprehensive groundwater quality dataset for the Modesto Stockpiles site, indicating that while most dissolved metals meet drinking water standards, nitrate and TDS exceedances are present in several wells, particularly MW‑5, MW‑6, and MW‑10. The laboratory reports include detailed quality control data (LCS, matrix spikes, duplicates, blanks) that support the validity of the results despite some matrix effects and minor contamination. Stiff diagrams and ionic composition analyses help characterize the groundwater chemistry, which remains relatively stable compared to previous monitoring events.
+- **Manganese:** The concentration in well MW-6 (100 µg/L) exceeded the California Secondary Maximum Contaminant Level (MCL) of 50 µg/L.
+- **Nitrate as Nitrogen:** Concentrations exceeded the primary MCL of 10 mg/L in four wells: MW-1 (12 mg/L), MW-5 (30 mg/L), MW-6 (18 mg/L), and MW-10 (18 mg/L).
+- **Total Dissolved Solids (TDS):** Concentrations exceeded the secondary MCL of 500 mg/L in three wells: MW-5 (680 mg/L), MW-6 (600 mg/L), and MW-10 (610 mg/L).
+
+**Methodology and Quality Control**
+
+Samples were analyzed for a comprehensive suite of constituents, including dissolved metals (via EPA 6020/7470), major anions (via EPA 300.0), TDS, alkalinity, and sulfide. The analysis of polycyclic aromatic hydrocarbons (PAHs) was discontinued after November 2012 with regulatory concurrence. The analytical work was performed by Advanced Technology Laboratories (ATL), a California-certified laboratory.
+
+Quality control results indicated some significant matrix interference issues for common cations like calcium, magnesium, and sodium, with several matrix spike (MS) recoveries falling outside the acceptable 70-130% range. An equipment blank detected a low level of chromium (1.2 µg/L). While some relative percent differences (RPD) for duplicates and a few MS recoveries were outside control limits, laboratory control samples (LCS) were within limits, and the laboratory deemed no data qualification was necessary.
+
+**Field Limitations and Observations**
+
+Field activities were complicated by wells MW-5 and MW-6, which went dry during purging, requiring modified sampling procedures involving a recovery period. The summary also notes that well MW-1 is an upgradient well, and its elevated nitrate (12 mg/L) and TDS (460 mg/L) concentrations may represent natural background conditions.

@@ -2,33 +2,38 @@
 source: raw/2025 - RE_ Reminder - Annual Inspection Report.pdf
 source_type: paper
 source_hash: sha256:a068b34af878cae8511c81a3b180485bc5727502bc2c2d9d6976dfa8ed08b5d6
-compiled_at: 2026-06-04T03:09:51Z
+compiled_at: 2026-06-04T08:07:11Z
 chunk_count: 1
 ---
 
 ## Key claims
-- The first annual Land Use Covenant (LUC) inspection of the Modesto Stockpiles site (State Route 132 West Expressway) was conducted in March 2025.
-- The facility is less than two years old and remains in great condition with no observed issues.
-- The vegetated slope shows no significant change in vegetation due to low rainfall, but is still in good condition with no signs of erosion or disturbance.
-- Planned future actions include re-hydroseeding in the 2025 rainy season and construction of the northern retaining wall commencing in Fall 2026.
-- No standard inspection template existed for this site; one was created during the process for future use.
+- The first annual Land Use Covenant (LUC) inspection for the Modesto Stockpiles (State Route 132 West Expressway) was conducted in March 2025, two years after facility construction.
+- The facility was found to be in great condition with no observed issues; no significant vegetation change, erosion, or other disturbance was noted on the slope.
+- A standardized annual inspection template was not previously established; the project geologist was advised to create one for future use, referencing the Operation and Maintenance Plan (OMP) and LUC prohibitions.
+- Long‑term site management plans include re‑hydroseeding of slopes during the 2025 rainy season and construction of a northern retaining wall beginning in Fall 2026.
 
 ## Methodology
-- The inspection was performed by Adam Inman (Engineering Geologist, Caltrans D-6) on March 18, 2025, at the Modesto Stockpiles facility.
-- Guidance was provided by Arielle McLeskey (DTSC Project Manager) referencing the Land Use Covenant (LUC) and the Operation and Maintenance Plan (OMP) from the Removal Action Completion Report (December 1, 2022, page 485).
-- The inspection followed checklist-style elements outlined in the OMP (Section 4.3) and prohibitions listed in Article IV of the LUC.
-- Communication occurred via email thread between Caltrans and DTSC.
+- Inspection was performed by an Engineering Geologist (Adam Inman, PG) from Caltrans District 6.
+- The inspection followed the checklist‑style format recommended by the DTSC Project Manager, referencing Section 4.3 of the OMP (Removal Action Completion Report, December 1, 2022) and Article IV of the LUC (which lists site prohibitions).
+- No specific inspection form template existed; the geologist created a new Stockpile Inspection Form during the March 2025 inspection.
+- Monitoring wells were also scheduled for destruction during the same site visit.
 
 ## Results
-- Inspection findings: "No issues were observed" at the stockpile facility.
-- Slope condition: vegetation recovery is minimal due to lack of rainfall, but the slope is "still in good condition with no signs of erosion or other disturbance."
-- No quantitative measurements are reported; all findings are qualitative.
+- Annual inspection date: March 18, 2025.
+- Facility age: <2 years.
+- Condition: “great condition” – no issues observed.
+- Slope condition: good, with no signs of erosion or other disturbance.
+- Vegetation: no significant change due to insufficient rainfall.
+- Scheduled future actions:
+  - Re‑hydroseeding of slopes in the 2025 rainy season.
+  - Northern retaining wall construction beginning Fall 2026.
 
 ## Limitations
-- This was the first annual inspection for the site; no previous template existed.
-- The previous geologist retired, causing a delay in awareness and execution of the inspection.
-- The inspection was conducted two months after the due date (January 15, 2025).
-- Observations are limited to visual inspection; no soil sampling or quantitative erosion monitoring is mentioned.
+- The annual inspection was conducted nearly two months after the due date (January 15, 2025) due to project handoff and the retirement of the previous geologist.
+- No prior annual inspection had been performed despite the facility being less than two years old.
+- Lack of a pre‑existing inspection template required ad‑hoc form creation; the DTSC Project Manager noted that templates are typically included in the OMP or LUC.
+- The low rainfall in the preceding period limited natural vegetation recovery, but also contributed to slope stability by preventing erosion.
+- The author (Adam Inman) acknowledged taking over the project and not initially knowing about the annual inspection requirement.
 
 ## Concepts
-Land Use Covenant (LUC), Operation and Maintenance Plan (OMP), Removal Action Completion Report, annual inspection report, stockpile inspection form, re-hydroseeding, northern retaining wall, Modesto Stockpiles, slope erosion, vegetation recovery, groundwater monitoring well destruction.
+Land Use Covenant (LUC), Operation and Maintenance Plan (OMP), annual inspection report, checklist‑format inspection, site prohibitions (Article IV), hydroseeding, retaining wall construction, stockpile inspection form, removal action completion report, monitoring well destruction.

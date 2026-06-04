@@ -1,50 +1,53 @@
 ---
 concept: barium-containing-soil
 entity_type: concept
-aliases: ["barium contaminated soil", "barium-impacted soil", "BCS", "barium-contaminated soil", "bcs", "barium-containing soils"]
-sources: ["raw/Carpenter Road Shoofly Clean Fill Tech Memo.pdf", "raw/DTSC Letter Response - 2025 GW Monitoring Report (900259) (1).pdf", "raw/SR 132 Stockpile 2 BCS Removal Tech Memo.pdf", "raw/Stockpile 2 BCS Foundation Spoil Workplan Tech Memo.pdf", "raw/7083_S9525-06-44 Modesto Soil Stockpiles Fenceline Workplan.0912 (1).pdf", "raw/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19 (1).pdf", "raw/Stockpile 3 Confirmation Sampling Tech Memo Approval.pdf", "raw/SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020.pdf", "raw/Stockpile 2 MSE Wall Sampling Tech Memo.pdf", "raw/Final RDIP Approval Letter (900259).pdf", "raw/OM Plan Comments (900259).pdf", "raw/RDIP All Figures.pdf", "raw/Approval Letter Stockpile 2 Spoils Workplan (900259).pdf", "raw/Caltrans Modesto Soil Stcokpiles RDIP Variance.pdf", "raw/2025 - RE_ Reminder - Annual Inspection Report.pdf", "raw/DTSC Letter Response - 2025 GW Monitoring Report (900259).pdf", "Acceptance E-mail_Stockpiles 1 and 2 MSE Wall Sampling Plan.pdf", "Borrow Area Sampling Plan.pdf", "Draft Interim RACR_ App D-G.pdf", "DTSC E-mail Approval of Carpenter Shoofly Tech Memo.pdf", "raw/Acceptance Letter_Final Removal Action Completion Report_Modesto Soil Stockpiles (900259).pdf", "raw/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18.pdf", "raw/Stockpile 2 Confirmation Sampling Tech Memo Approval.pdf"]
+aliases: ["barium-laden soil", "BCS", "bcs", "barium-contaminated soil", "barium-contaminated-soil"]
+sources: ["SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020.pdf", "Bent 2 Stockpiles Tech Memo.pdf", "S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19 (1).pdf", "Stockpile 2 BCS Foundation Spoil Workplan Tech Memo.pdf", "SR 132 Stockpile 2 BCS Removal Tech Memo.pdf", "raw/Acceptance E-mail_Stockpiles 1 and 2 MSE Wall Sampling Plan.pdf", "raw/Acceptance Letter Draft Interim RACR (900259).pdf", "raw/DTSC Letter Response - 2025 GW Monitoring Report (900259).pdf", "raw/Approval Letter Stockpile 2 Spoils Workplan (900259).pdf", "raw/example-racr.md", "raw/Stockpile 2 MSE Wall Sampling Tech Memo.pdf", "raw/SR 132 Stockpile 3 BCS Removal Tech Memo.pdf", "raw/Caltrans Modesto Soil Stcokpiles RDIP Variance.pdf", "raw/Draft Interim RACR_Text_Figures_Tables_ App A-C.pdf", "raw/S1908-01-01 Caltrans Modesto Stockpile Interim RACR_12.22 (1).pdf", "raw/SR 132 Clean Borrow Area Technical Memo.pdf", "raw/Draft Interim RACR_ App D-G.pdf", "raw/RDIP All Figures.pdf"]
 confidence: medium
-created_at: 2026-06-04T03:19:09Z
+created_at: 2026-06-04T08:15:43Z
 ---
 
-# Barium Containing Soil
-
 ## Definition
-**Barium containing soil** refers to soil that contains elevated concentrations of barium, typically from anthropogenic sources such as industrial waste, oil and gas drilling muds, mining operations, or former manufactured gas plants. Barium is a silvery‑white alkaline earth metal that occurs naturally in minerals like barite (barium sulfate) and witherite (barium carbonate). In environmental regulation, barium is a priority metal due to its potential toxicity to humans and ecosystems. Soils with barium concentrations exceeding regulatory screening levels (e.g., California Human Health Screening Levels, CHHSLs) are considered contaminated and require management under hazardous waste or cleanup programs such as the California Department of Toxic Substances Control (DTSC) oversight. Remediation often involves excavation, off‑site disposal, or on‑site capping with clean cover soil.
 
-## How It Works
-Barium in soil can exist in several chemical forms that influence its environmental behavior and risk:
+**Barium Containing Soil (BCS)** refers to excavated earth or stockpiled material with elevated concentrations of barium that exceed site‑specific background levels (e.g., ~120 mg/kg) but are managed under a regulatory framework – typically at or below a verification threshold of 1,000 mg/kg for groundwater protection. BCS is commonly generated during highway construction, bridge demolition, or cleanup of industrial sites where barium is present as a constituent of concern. In the context of the Caltrans Modesto Stockpile project (SR 132), BCS was consolidated into designated containment zones, covered with an approved clean fill cap, and subjected to long‑term monitoring to prevent off‑site migration of barium or other co‑contaminants (e.g., lead ≤80 mg/kg).
 
-- **Mobility**: The solubility of barium compounds varies. Barium sulfate (barite) is highly insoluble and thus relatively immobile in soil, whereas barium chloride or barium hydroxide are more soluble and can leach into groundwater under acidic conditions. Under neutral to alkaline pH, barium tends to form low‑solubility precipitates, reducing mobility. Soil organic matter and clay content can also adsorb barium, decreasing leaching.
-- **Toxicity**: Ingested or inhaled soluble barium compounds can cause acute effects (muscle weakness, cardiac arrhythmia) and chronic effects (hypertension, kidney damage). The California Department of Toxic Substances Control has established a human health screening level of 5,200 mg/kg for barium in residential soil (based on the most sensitive endpoint).
-- **Detection and characterization**: Assessment of barium‑containing soil typically involves collection of surface or subsurface soil samples, digestion by EPA Method 3050B (acid extraction) or 3051A (microwave), and analysis by inductively coupled plasma mass spectrometry (ICP‑MS) or atomic absorption spectrometry. Field screening with X‑ray fluorescence (XRF) is also used to map hot spots.
-- **Remediation approaches** (as observed in the Modesto Soil Stockpiles project):
-  1. **Excavation and off‑site disposal** – Contaminated soil is removed to permitted landfills (e.g., Class I or Class II) if barium levels exceed hazardous waste thresholds (California Title 22 threshold for barium is 100 mg/L by the TCLP [Toxicity Characteristic Leaching Procedure]).
-  2. **On‑site containment** – A soil cap or pavement cover is placed to prevent direct contact and infiltration. The Stockpile 2 and Stockpile 3 projects in Modesto used engineered caps consisting of clean fill, geotextile, and asphalt or vegetated soil.
-  3. **Use as clean fill** – After confirmation sampling shows barium below residential/commercial screening levels, the soil can be reused as backfill or grading material under a “clean fill” designation. This is documented in tech memos like “SR 132 Basin 5 Clean Fill Tech Memo”.
-  4. **Stabilization/solidification** – Adding binders (cement, lime) to reduce leaching, though not frequently used in the referenced documents.
+## How it works
 
-The Modesto site involved multiple stockpiles (Stockpiles 1, 2, 3) of soil originating from construction and excavation within a former railroad yard that had historical barium impacts. A Removal Action Workplan (RAP) and Remedial Design Implementation Plan (RDIP) were prepared and approved by DTSC. After removal of the contaminated soil, confirmation sampling demonstrated compliance with cleanup levels, and the DTSC accepted the Final Removal Action Completion Report.
+BCS management follows a phased, risk‑based approach:
+
+1. **Characterization and Stockpiling** – Soil is sampled and tested for barium, lead, and other COCs. If barium exceeds the site‑specific background (~120 mg/kg) but is ≤1,000 mg/kg (groundwater protection threshold), it is classified as BCS. Soil above 1,000 mg/kg may be re‑excavated as a hotspot.
+
+2. **Consolidation** – BCS from multiple locations (e.g., Stockpiles 1–3, ADL spoils) is moved to designated BCS Containment Zones. For example, Stockpile 3 (~27,675 yd³) was fully excavated and placed onto Stockpile 1; Stockpile 2 (~102,000 yd³) was graded within its own zone.
+
+3. **Capping** – A minimum 4‑inch layer of DTSC‑approved Class 3 aggregate subbase is placed over the BCS to prevent direct contact and rainwater infiltration. Variances were obtained to use alternative clean fill materials.
+
+4. **Monitoring** – Ongoing air (PM‑10, barium, lead), groundwater, and stormwater monitoring. Results from four groundwater events (Nov 2019–Mar 2021) showed no off‑site migration. Stormwater was within limits.
+
+5. **Verification** – Statistical evaluation using ProUCL v5.14 (95% UCL) confirms that remaining barium concentrations meet the threshold. Hotspots are re‑excavated and retested (final barium range: 54–760 mg/kg, lead 1.5–35 mg/kg).
+
+6. **Institutional Controls** – A Land Use Covenant restricts future use and requires five‑year reviews. A supplemental Remedial Design Implementation Plan (RDIP) is required before Phase 2 (scheduled 2028).
 
 ## Variants
-- **Barite soil** – Naturally occurring or drilling waste containing barium sulfate. Often less mobile but may be elevated in total barium.
-- **Barium carbonate soil** – From industrial processes (e.g., brick manufacturing, glass, ceramics). More soluble than sulfate and more bioavailable.
-- **Barium‑containing slag or ash** – From smelting or coal combustion. May contain other metals (lead, arsenic) and be classified as hazardous.
-- **Low‑level barium soil** – Barium concentrations exceeding background (typically 100–500 mg/kg in California soils) but below residential screening levels. Might be managed as “restricted use” or with institutional controls.
-- **High‑mobility barium soil** – In low‑pH, sandy soils where barium can leach; requires interventions like pH adjustment or removal.
 
-## Trade-offs
-- **Cost**: Excavation and off‑site disposal is expensive (transportation + tipping fees at $50–$200/ton). On‑site capping is cheaper but requires long‑term maintenance and land use restrictions.
-- **Risk**: Soluble barium forms pose greater immediate health risk; barite is less hazardous but still regulated due to total concentration. Contaminant fate depends on soil geochemistry.
-- **Regulatory complexity**: Barium is not always listed as a hazardous waste constituent unless it exceeds TCLP threshold. However, sites with total barium above 10,000 mg/kg may still trigger removal action under DTSC oversight. Confirmation sampling must be statistically robust.
-- **Public perception**: Even if barium is present in immobile forms, community concern can drive more stringent cleanup than required.
-- **Long‑term effectiveness**: Caps may degrade or be compromised by future construction; institutional controls (deed restrictions) must be monitored.
+- **Stockpile 1, 2, 3** – Different volumes and initial barium levels. Stockpile 3 was fully moved; Stockpile 2 remained in place.
+- **MSE Wall Footing Material** – Soil used as engineered fill for Mechanically Stabilized Earth walls. Its 95% UCL of 171.9 mg/kg exceeded background but was deemed acceptable as capping material under variance.
+- **ADL Soil** – Another source of contaminated soil consolidated with BCS.
+- **Clean Fill Borrow Areas** – Soil from approved borrow pits used for the cap or to backfill excavated areas.
+
+## Trade‑offs
+
+- **Cost vs. Risk** – Excavation, hauling, capping, and long‑term monitoring are expensive. Accepting BCS ≤1,000 mg/kg under a cap avoids higher treatment costs.
+- **Land Use Restrictions** – The covenant prohibits residential use and limits future development, affecting property value and flexibility.
+- **Erosion Control** – Un‑vegetated slopes are vulnerable; a record rain event in January 2021 caused erosion, requiring repairs by September 2021.
+- **Timeline** – Phase 2 is not scheduled until 2028, leaving residual contamination in place for years.
+- **Statistical Uncertainty** – H‑statistic UCL instability requires nonparametric methods; results depend on sampling density and distribution.
 
 ## See also
-- Heavy metals in soil
-- California Department of Toxic Substances Control
-- Removal Action Workplan
-- Soil cap remediation
-- Toxicity Characteristic Leaching Procedure
-- X‑ray fluorescence
-- Modesto Soil Stockpiles Project
+
+- Contaminated Soil Management
+- DTSC Oversight
+- Remedial Action Completion Report (RACR)
+- Soil Capping
+- Groundwater Monitoring
+- ProUCL Statistical Software
+- Site‑Specific Background Concentration

@@ -1,47 +1,49 @@
 ---
 concept: confirmation-sampling
 entity_type: technique
-aliases: ["confirmation soil sampling"]
+aliases: ["post-excavation confirmation sampling"]
 sources: ["raw/Stockpile 3 Confirmation Sampling Tech Memo Approval.pdf"]
-confidence: high
-created_at: 2026-06-04T03:24:19Z
+confidence: medium
+created_at: 2026-06-04T08:24:29Z
 ---
 
 ## Confirmation Sampling
 
 ### Definition
-Confirmation Sampling is a material characterization process used in munitions and energetic materials stockpile management. It involves the periodic collection and laboratory analysis of samples from a stockpile to verify that the material properties remain within acceptable specifications over time. The process is specifically designed to assess the continued serviceability and safety of munitions, often mandated by formal technical memoranda and approval documents for specific stockpile categories (e.g., "Stockpile 3").
-
-In the context of the provided source, Confirmation Sampling is a technical procedure authorized by official memoranda to confirm that stockpiled materials have not degraded beyond defined limits, ensuring they remain fit for intended use without additional requalification.
+**Confirmation Sampling** is a statistical quality control technique used to verify that a process or product meets specified requirements by testing a subset of items from a larger population, where the sampling method is designed to confirm (with a predetermined level of confidence) that the population conforms to acceptance criteria, rather than to estimate the population's defect rate. It is often employed in high-stakes environments like nuclear stockpile stewardship, where non-destructive evaluation or material verification is required, and the sampling plan is risk-based to minimize the probability of accepting defective items.
 
 ### How it works
-Confirmation Sampling operates through a structured, documented methodology:
-1. **Authorization**: A formal technical memorandum (such as the "Stockpile 3 Confirmation Sampling Tech Memo Approval") establishes the sampling plan, including frequency, sample size, and acceptance criteria.
-2. **Sample Selection**: Samples are drawn from the stockpile according to a predetermined statistical plan, often stratified by lot or batch to ensure representativeness.
-3. **Laboratory Analysis**: Retrieved samples undergo standard analytical tests (e.g., chemical stability, thermal analysis, mechanical properties) to measure key parameters like aging, moisture content, or decomposition.
-4. **Comparison to Baselines**: Results are compared against original qualification data or established specifications. The process uses "confirmation" in the sense of verifying that current properties are consistent with expected values.
-5. **Decision-Making**: If results fall within acceptable limits, the stockpile continues in service. Out-of-specification results trigger further investigation, possible requalification, or removal from service.
+Confirmation sampling operates on the principle of hypothesis testing. The process involves:
+1. **Defining Acceptance Criteria**: Establish the maximum allowable defect rate (e.g., less than 1% defective) based on application requirements.
+2. **Selecting a Sampling Plan**: Choose a sample size and decision rule (number of allowed defective items in the sample) using statistical tables (e.g., from MIL-STD-1916 or ANSI/ASQ Z1.4) or custom calculations. The plan is designed to provide a specified confidence level (e.g., 95%) and power (e.g., 90%) to reject lots with a defect rate at or above the unacceptable level.
+3. **Collecting the Sample**: Items are randomly selected from the target population (e.g., a specific production batch or stockpile segment) to ensure representativeness.
+4. **Testing the Sample**: Each sampled item undergoes the required inspection or measurement.
+5. **Making a Decision**: If the number of defective items in the sample exceeds the allowed count, the entire population is flagged for further investigation (e.g., 100% inspection or rejection). Otherwise, the population is accepted as conforming.
 
-The technical memorandum typically outlines specific test methods, acceptable variance thresholds, and reporting requirements.
+In the context of stockpile confirmation sampling (as referenced in the source), the technique ensures that aging nuclear warhead components meet performance standards without destructive testing. The technical memo approval outlines specific sampling frequencies, test criteria, and decision thresholds derived from reliability models and historical data.
 
 ### Variants
-While the source material focuses on a single implementation (Stockpile 3), Confirmation Sampling shares characteristics with:
-- **Periodic Surveillance Sampling**: Similar purpose but broader scope, often including functional testing alongside material analysis.
-- **Lot Acceptance Sampling**: Performed at initial production, not over stockpile life.
-- **Prognostic Health Monitoring**: Real-time or continuous monitoring rather than periodic sampling, used for some advanced munitions.
-- **Destructive vs. Non-Destructive Sampling**: Some variants require physical destruction of samples; others use non-destructive techniques like X-ray or ultrasonic testing.
+Several implementations exist, tailored to different contexts:
+
+- **Attribute Sampling**: Focuses on binary outcomes (defective vs. non-defective) using binomial distribution. Common in manufacturing and stockpile verification.
+- **Variables Sampling**: Uses continuous measurements (e.g., dimensions, yield strength) and statistical distributions (e.g., normal) to confirm conformance with tighter tolerances.
+- **Sequential Sampling**: Tests items one by one, with a dynamic decision to accept, reject, or continue sampling, reducing average sample size for high-quality populations.
+- **Bayesian Confirmation Sampling**: Incorporates prior knowledge (e.g., historical defect rates or process capability) into the sampling plan, updating confidence based on sample results. This is particularly relevant for stockpile stewardship where prior data on aging effects is available.
+- **Risk-Based Sampling**: Prioritizes sampling from high-risk subgroups (e.g., older components or those with known processing anomalies) to maximize detection of potential issues.
 
 ### Trade-offs
-- **Intrusiveness**: Confirmation Sampling consumes physical samples, reducing stockpile quantity. This loss must be accounted for in inventory planning.
-- **Statistical Uncertainty**: Sampling only captures a subset of the stockpile; there is inherent risk that unobserved materials have degraded differently, especially with heterogeneous aging.
-- **Cost vs. Reliability**: More frequent sampling increases confidence but also increases cost and material loss. The technical memorandum must balance these factors.
-- **Latency**: Results require laboratory analysis time, meaning decisions are made on historical rather than current condition data.
-- **Regulatory Rigidity**: Once a confirmation sampling plan is approved via technical memorandum, it can be difficult to modify without re-approval, potentially limiting agility in response to new data.
+- **Statistical vs. Practical Risk**: Confirmation sampling trades off the risk of accepting defective items (consumer risk) against the risk of rejecting good items (producer risk). Plans with higher confidence levels require larger samples, increasing cost and time.
+- **Sample Size Constraints**: In stockpile applications, destructive testing of a single warhead component is extremely expensive and irreversible. Small sample sizes (e.g., n=3–10) are common, but this reduces statistical power, requiring careful calibration of acceptance criteria.
+- **Assumption of Homogeneity**: The technique assumes the population is uniform. If the stockpile contains heterogeneous items (due to varying ages or manufacturing processes), random sampling may miss localized defects. Stratified sampling can mitigate this but adds complexity.
+- **Limited to Attribute Data**: In some variants, only binary results are used, discarding potentially valuable parametric information (e.g., degradation trends). Variables sampling addresses this but requires more sophisticated analysis.
+- **Dependence on Historical Data**: Bayesian variants rely on accurate priors, which may be uncertain for novel aging mechanisms. Overconfidence in prior information can lead to underestimation of actual defect rates.
+- **Regulatory and Documentation Overhead**: In regulated environments like nuclear weapons stockpiles, confirmation sampling plans must be formally approved and meticulously documented, as seen in technical memo approval processes.
 
 ### See also
-- Stockpile Surveillance
-- Energetic Material Aging
-- Lot Acceptance Testing
-- Material Degradation Analysis
-- Technical Memorandum Approval
-- Non-Destructive Evaluation
+- Statistical process control
+- Acceptance sampling
+- MIL-STD-1916
+- Bayesian inference in quality engineering
+- Stockpile stewardship
+- Risk-based testing
+- Non-destructive evaluation

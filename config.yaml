@@ -1,84 +1,188 @@
-# sage-wiki configuration
-# Docs: https://github.com/xoai/sage-wiki
-
-version: 1
-project: envirostor-wiki
-description: "sage-wiki project: envirostor-wiki"
-
-sources:
-  - path: raw
-    type: auto          # auto-detect from file extension
-    watch: true
-
-output: wiki
-
-# LLM provider configuration
-# Supported: anthropic, openai, gemini, ollama, openai-compatible, qwen
-# For OpenRouter or other OpenAI-compatible providers, set:
-#   provider: openai-compatible
-#   base_url: https://openrouter.ai/api/v1
-# For Alibaba Cloud DashScope Qwen, set:
-#   provider: qwen
-#   api_key: ${DASHSCOPE_API_KEY}
 api:
-  provider: openai-compatible
-  api_key: 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
-  base_url: https://openrouter.ai/api/v1          # custom endpoint (OpenRouter, Azure, local proxy, etc.)
-  # rate_limit: 60      # requests per minute (default: auto per provider)
-
-# Model selection per task
-# Use faster/cheaper models for high-volume tasks, quality models for writing
-models:
-  summarize: deepseek/deepseek-v4-flash
-  extract: deepseek/deepseek-v4-flash
-  write: deepseek/deepseek-v4-flash
-  lint: deepseek/deepseek-v4-flash
-  query: deepseek/deepseek-v4-flash
-
-# Embedding configuration (optional — auto-detected from api provider)
-# Override to use a different provider/model for embeddings
-embed:
-  provider: openai        # auto, openai, gemini, ollama, voyage, mistral
-  model: text-embedding-3-large             # override model (e.g., text-embedding-3-small)
-  api_key: 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           # separate API key for embeddings
-  base_url: https://api.openai.com/v1          # separate endpoint for embeddings
-
+    api_key: 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
+    base_url: https://openrouter.ai/api/v1
+    provider: openai-compatible
 compiler:
-  max_parallel: 4
-  debounce_seconds: 2
-  summary_max_tokens: 12000
-  article_max_tokens: 4000
-  auto_commit: true
-  auto_lint: true
-  # timezone: Asia/Shanghai   # IANA timezone for user-facing timestamps (default: UTC)
-  # article_fields:           # custom frontmatter fields extracted from LLM response
-  #   - language
-  #   - domain
-
+    article_max_tokens: 4000
+    auto_commit: true
+    auto_lint: true
+    debounce_seconds: 2
+    default_tier: 3
+    max_parallel: 4
+    summary_max_tokens: 12000
+description: 'sage-wiki project: envirostor-wiki'
+embed:
+    api_key: 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
+    base_url: https://api.openai.com/v1
+    model: text-embedding-3-large
+    provider: openai
+models:
+    extract: deepseek/deepseek-v4-flash
+    lint: deepseek/deepseek-v4-flash
+    query: deepseek/deepseek-v4-flash
+    summarize: deepseek/deepseek-v4-flash
+    write: deepseek/deepseek-v4-flash
+ontology:
+    entity_types:
+        - description: |
+            A contaminated site or area of concern, including boundaries, land use, and regulatory listing status. May be a facility, stockpile area, or parcel.
+          name: site
+        - description: |
+            A chemical substance of concern at a site (e.g., barium, lead, arsenic, PAHs). Includes regulatory thresholds, fate/transport properties, and media where detected.
+          name: contaminant
+        - description: |
+            A fixed physical point where samples are collected — monitoring wells (MW-1), test pits, stormwater outfalls, fenceline stations, surface water stations.
+          name: monitoring_location
+        - description: |
+            A discrete sampling effort at a point in time — groundwater monitoring round, stormwater event, soil verification sampling, air monitoring during construction.
+          name: sampling_event
+        - description: |
+            A physical remediation activity: excavation, capping, containment, well destruction, stockpile consolidation, clean fill placement.
+          name: remedial_action
+        - description: |
+            A measured value from sampling — analyte concentration, detection status, comparison to threshold. Carries analytical method, detection limits, and QA/QC flags.
+          name: monitoring_result
+        - description: |
+            Engineered features related to the remedy: MSE walls, bridge abutments, retaining walls, clean caps, drainage systems, infiltration barriers.
+          name: infrastructure
+        - description: |
+            A formal agency action — approval, conditional approval, denial, comment letter, acceptance, closure determination. Carries the deciding agency, date, conditions, and linked documents.
+          name: regulatory_decision
+        - description: |
+            An entity bearing legal liability or operational responsibility for the site: owner-operator (Caltrans), lead agency (DTSC), co-regulator (RWQCB), consultant (Geocon), contractor.
+          name: responsible_party
+        - description: |
+            A numeric or qualitative threshold used to evaluate site conditions — MCLs, background concentrations, screening levels, action levels, 95% UCL criteria, clean fill thresholds.
+          name: regulatory_standard
+        - description: |
+            A required document in the remediation workflow — RAP, RDIP, RACR, workplan, monitoring report, HHRA, SSI, O&M plan. Carries submission/approval dates and review status.
+          name: deliverable
+        - description: |
+            An assertion about site conditions, outcomes, or adequacy of the remedy — "no groundwater impact", "soil suitable as clean cover", "barium exceeds MCL". May be contested, supported, or refuted by evidence.
+          name: claim
+        - description: |
+            A identified hazard or exposure pathway — cancer risk from inhalation, groundwater contamination pathway, community exposure via dust. Carries risk characterization, receptor population, and mitigation measures.
+          name: risk
+        - description: |
+            A legal or financial exposure tied to site conditions — CERCLA liability, cost recovery, enforcement actions, land use restrictions, covenant obligations.
+          name: liability
+        - description: |
+            A concern raised by or on behalf of affected communities — unauthorized access, dust exposure, property value impacts, notification adequacy, bilingual communication.
+          name: community_concern
+    relation_types:
+        - name: contaminates
+          synonyms:
+            - pollutes
+            - taints
+            - contains
+        - name: located_at
+          synonyms:
+            - situated_at
+            - found_at
+            - sampled_at
+        - name: exceeds
+          synonyms:
+            - surpasses
+            - violates
+            - above
+        - name: measured_in
+          synonyms:
+            - detected_in
+            - analyzed_in
+            - found_in
+        - name: remediates
+          synonyms:
+            - cleans
+            - treats
+            - addresses
+            - mitigates
+        - name: capped_with
+          synonyms:
+            - covered_by
+            - overlain_by
+        - name: migrated_to
+          synonyms:
+            - transported_to
+            - leached_to
+            - detected_in
+        - name: approved_by
+          synonyms:
+            - accepted_by
+            - authorized_by
+            - reviewed_by
+        - name: regulated_by
+          synonyms:
+            - overseen_by
+            - supervised_by
+        - name: responsible_for
+          synonyms:
+            - liable_for
+            - manages
+            - operates
+        - name: submitted_to
+          synonyms:
+            - filed_with
+            - delivered_to
+        - name: conditioned_on
+          synonyms:
+            - contingent_on
+            - requires
+            - pending
+        - name: supersedes
+          synonyms:
+            - replaces
+            - updates
+            - revises
+        - name: supports
+          synonyms:
+            - confirms
+            - demonstrates
+            - validates
+        - name: refutes
+          synonyms:
+            - contradicts
+            - challenges
+            - disputes
+        - name: contradicts
+          synonyms:
+            - conflicts_with
+            - inconsistent_with
+        - name: based_on
+          synonyms:
+            - derived_from
+            - relies_on
+            - cites
+        - name: exposes
+          synonyms:
+            - affects
+            - threatens
+            - puts_at_risk
+        - name: mitigated_by
+          synonyms:
+            - reduced_by
+            - controlled_by
+            - addressed_by
+        - name: raises_concern
+          synonyms:
+            - triggers
+            - prompts
+            - generates
+        - name: restricts
+          synonyms:
+            - limits
+            - constrains
+            - prohibits
+output: wiki
+project: envirostor-wiki
 search:
-  hybrid_weight_bm25: 0.7
-  hybrid_weight_vector: 0.3
-  default_limit: 10
-
+    default_limit: 10
+    hybrid_weight_bm25: 0.7
+    hybrid_weight_vector: 0.3
 serve:
-  transport: stdio      # stdio or sse
-  port: 3333            # SSE mode only
-
-# Ontology types (optional)
-# Extend built-in types with additional synonyms or add custom types.
-#
-# Built-in relation types: implements, extends, optimizes, contradicts, cites,
-#                          prerequisite_of, trades_off, derived_from
-# Built-in entity types: concept, technique, source, claim, artifact
-#
-# ontology:
-#   relation_types:
-#     - name: implements
-#       synonyms: ["thực hiện", "triển khai"]   # add Vietnamese synonyms
-#     - name: regulates
-#       synonyms: ["regulates", "regulated by", "调控", "调节"]
-#   entity_types:
-#     - name: conversation
-#       description: "A dialogue or discussion"
-#     - name: decision
-#       description: "A recorded decision with rationale"
+    port: 3333
+    transport: stdio
+sources:
+    - path: raw
+      type: auto
+      watch: true
+version: 1

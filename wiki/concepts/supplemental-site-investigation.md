@@ -2,65 +2,52 @@
 concept: supplemental-site-investigation
 entity_type: concept
 aliases: ["SSI", "ssi"]
-sources: ["raw/04 04 2013 Final  SSI and HHRA 8.pdf", "04 04 2013 Final  SSI and HHRA 8 (1).pdf"]
+sources: ["raw/04 04 2013 Final SSI and HHRA 8.pdf", "raw/7083_S9525-06-44 Modesto Soil Stockpiles Fenceline Workplan.0912.pdf", "raw/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313.pdf", "raw/7084_S9525-06-44 Response to DTSC Workplan Comments.0912.pdf"]
 confidence: medium
-created_at: 2026-06-04T03:23:46Z
+created_at: 2026-06-04T08:23:49Z
 ---
 
-## Definition
+## Supplemental Site Investigation
 
-A **Supplemental Site Investigation (SSI)** is a focused, iterative phase of environmental site assessment conducted after an initial Site Investigation or Phase II Environmental Site Assessment has identified potential contamination but left unresolved data gaps, uncertainties, or insufficient characterization for decision‑making. The SSI aims to collect additional, targeted data — such as soil, groundwater, soil gas, or surface water samples — to refine the conceptual site model (CSM), delineate contaminant extent, and provide the technical basis for a Human Health Risk Assessment (HHRA) or feasibility study for remediation. It is often performed under regulatory oversight (e.g., U.S. EPA, state environmental agencies) and is a standard step in the Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA) process as part of the Remedial Investigation/Feasibility Study (RI/FS) framework.
+### Definition
+A **Supplemental Site Investigation (SSI)** is a targeted phase of environmental assessment conducted after an initial site investigation to address specific data gaps, refine the conceptual site model, or satisfy regulatory requirements. It typically involves additional sampling, analysis, and evaluation of contaminants of concern, often at higher resolution or in areas where earlier findings were inconclusive or revealed unexpected contamination. The SSI is a key step in environmental remediation projects, often performed under the oversight of agencies such as the Department of Toxic Substances Control (DTSC) in California.
 
-## How it works
+### How it works
+The SSI process follows a structured approach:
 
-An SSI follows a systematic, data‑driven approach:
+1. **Data gap analysis**: Review previous investigation reports, historical records, and site conditions to identify missing information (e.g., extent of contamination, unknown source areas, or seasonal variability).
 
-1. **Data Gap Analysis** – Review existing site data (historical reports, previous investigations, monitoring results) to identify where the CSM is inadequate (e.g., unknown vertical/horizontal extent of contamination, missing media, sensitive receptors not assessed).
+2. **Workplan development**: Prepare a detailed workplan that specifies sampling locations, analytical methods, quality assurance/quality control (QA/QC) procedures, and a health and safety plan. This workplan is often submitted to regulators for approval before field activities begin.
 
-2. **Objectives and Scope Development** – Define specific objectives: e.g., delineate a groundwater plume, confirm source area concentrations, assess vapor intrusion potential, or collect samples for toxicity evaluation. The scope includes number and location of sampling points, analytical parameters, and quality assurance/quality control (QA/QC) measures.
+3. **Field investigation**: Conduct additional soil borings, groundwater monitoring well installation, soil gas sampling, or other site-specific activities. Techniques may include direct-push drilling, hand augering, excavation of test pits, or installation of fenceline monitoring wells.
 
-3. **Field Execution** – Mobilize drilling rigs (direct‑push, hollow‑stem auger, sonic), install monitoring wells, collect soil cores, grab groundwater samples, or deploy passive samplers. In some cases, real‑time field screening (e.g., photoionization detector, X‑ray fluorescence) guides adaptive sampling.
+4. **Laboratory analysis**: Analyze samples for target analytes using approved methods (e.g., EPA SW-846 for solids, EPA 8260 for VOCs) with appropriate detection limits.
 
-4. **Laboratory Analysis** – Samples are sent to accredited labs for target analytes (volatile organic compounds, semi‑volatile organic compounds, metals, pesticides, PCBs, etc.). Results are validated against QA/QC criteria.
+5. **Data evaluation and reporting**: Compare results against site-specific screening levels, background concentrations, and applicable regulatory criteria. Generate an SSI report that presents findings, updated risk assessments (if included), and recommendations for further action (e.g., remediation, monitoring, or closure).
 
-5. **Data Evaluation and CSM Update** – Combine new data with existing information. Statistical analysis (e.g., 95% upper confidence limit for background, non‑parametric tests) helps determine if contamination exceeds regulatory thresholds or natural background.
+6. **Regulatory review**: Submit the SSI report to oversight agencies for approval. Comments or revisions may be requested before final acceptance.
 
-6. **Reporting** – Document the investigation methods, findings, and revised CSM. The report often feeds directly into the HHRA (via exposure point concentrations) or into the Feasibility Study (remedial alternatives evaluation).
+In practice, SSI often involves iterative communication with regulators, as seen in the source documents where a workplan (e.g., "Modesto Soil Stockpiles Fenceline Workplan") and a response to DTSC comments were submitted.
 
-Key technical aspects include:
-- **Adaptive management**: Sampling decisions may be adjusted in the field based on preliminary results.
-- **Representativeness**: Samples must be spatially and temporally representative to support risk calculations.
-- **Data quality objectives (DQOs)**: The SSI is designed to meet predefined DQOs for decision‑making (e.g., confidence levels for defining cleanup boundaries).
+### Variants
+- **Fenceline monitoring SSI**: Focused on soil or groundwater contamination along property boundaries, often using shallow borings or monitoring wells installed at the site perimeter.
+- **Stockpile investigation**: Targeted assessment of soil or material stockpiles to characterize contamination and inform disposal or reuse options.
+- **Human Health Risk Assessment (HHRA) integration**: An SSI conducted in parallel with a HHRA to provide exposure point concentrations and refine risk estimates.
+- **Ecological SSI**: Similar scope but directed at potential ecological receptors, including sampling of sediment, surface water, or biota.
+- **Field screening‑based SSI**: Use of portable instruments (e.g., XRF, PID) to guide real‑time sampling decisions, reducing the number of fixed‑lab analyses.
 
-## Variants
+### Trade‑offs
+- **Cost vs. certainty**: Additional sampling increases project costs but reduces uncertainty about contamination extent and risk, potentially avoiding more expensive remediation or litigation later.
+- **Time**: SSI can delay project milestones while workplans are reviewed and field work completed. For time‑sensitive remediation, this may be a limitation.
+- **Regulatory acceptance**: Even with well‑designed SSI, regulatory agencies may request further data or alternative approaches, introducing iteration.
+- **Data quality**: Reliance on limited numbers of samples may still leave gaps; compositing or biased sampling can introduce inadvertent mischaracterization.
+- **Access and logistics**: Obtaining permission for additional intrusive activities on‑site or along fencelines can be challenging, especially in urban or active industrial settings.
 
-While the core concept of a supplemental investigation is universal, the name and specific regulatory context vary:
-
-- **Supplemental Remedial Investigation (SRI)** – Used under CERCLA when the original RI did not resolve all concerns; often includes ecological risk assessment components.
-- **Focused Site Investigation (FSI)** – Common in state-led cleanup programs (e.g., California DTSC); narrower scope than full SSI.
-- **Additional Data Collection (ADC)** – Broad term for any sampling after an initial assessment; may be part of a Risk-Based Corrective Action (RBCA) process.
-- **Confirmatory Sampling** – Targeted sampling after remedial action to verify clean closure; not strictly an SSI but shares similar objectives.
-- **Phase III Environmental Site Assessment** – Some consulting firms use this internal label for supplemental investigations following a Phase II.
-
-Trade‑offs and limitations
-
-| Aspect | Consideration |
-|--------|---------------|
-| **Cost** | SSI can be expensive (drilling, laboratory analysis, consultant fees); budgets must be justified by risk reduction. |
-| **Time** | Fieldwork, lab turn‑around, and data review can delay project schedules (weeks to months). |
-| **Regulatory acceptance** | If not aligned with regulatory expectations (e.g., insufficient wells, missing media), the SSI may be rejected, requiring re‑work. |
-| **Data quality vs. quantity** | Limited samples may fail to capture heterogeneity (e.g., hot spots, low‑permeability layers); too many samples can increase costs without improving decisions. |
-| **Adaptive vs. fixed scope** | Adaptive strategies reduce cost of unnecessary sampling but require experienced field staff and regulatory pre‑approval. |
-| **Risk communication** | Results may show contamination exceeding standards, leading to stakeholder concern or legal liability. |
-| **Integration with HHRA** | SSI data must be suitable for exposure assessment (e.g., adequate detection limits, multiple depth intervals). Poorly designed SSI can invalidate the HHRA. |
-
-See also
-
-Site Investigation  
-Phase II Environmental Site Assessment  
-Human Health Risk Assessment  
-Conceptual Site Model  
-Data Quality Objectives  
-Feasibility Study (remediation)  
-CERCLA  
-Risk‑Based Corrective Action
+### See also
+- Site Investigation
+- Remedial Investigation
+- Human Health Risk Assessment
+- Conceptual Site Model
+- Environmental Sampling Plan
+- Soil and Groundwater Remediation
+- DTSC oversight

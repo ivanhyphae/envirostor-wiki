@@ -1,48 +1,65 @@
 ---
 concept: removal-action-completion-report
 entity_type: concept
-aliases: ["RACR"]
-sources: ["raw/Acceptance Letter Draft Interim RACR (900259).pdf", "raw/Acceptance Letter_Final Removal Action Completion Report_Modesto Soil Stockpiles (900259).pdf"]
+aliases: ["RACR", "racr"]
+sources: ["Acceptance Letter_Final Removal Action Completion Report_Modesto Soil Stockpiles (900259).pdf", "Stockpile 2 BCS Foundation Spoil Workplan Tech Memo.pdf", "raw/Draft Interim RACR_ App D-G.pdf"]
 confidence: medium
-created_at: 2026-06-04T03:23:53Z
+created_at: 2026-06-04T08:15:59Z
 ---
 
-## Definition
+## Removal Action Completion Report
 
-A **Removal Action Completion Report (RACR)** is a formal environmental document submitted to a regulatory oversight agency (typically the U.S. Environmental Protection Agency or a state equivalent) that documents the execution and results of a removal action conducted under the Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA). The RACR serves as the primary record that the removal action has been completed in accordance with the approved work plan, achieving the stated objectives (e.g., removal of contaminated soil, treatment of groundwater, disposal of hazardous substances). Regulatory acceptance of the RACR (often via a formal acceptance letter) signifies closure of the removal action and may trigger further requirements such as long-term monitoring or final site assessment.
+### Definition
 
-## How it works
+A **Removal Action Completion Report** (RACR) is a formal environmental document prepared at the conclusion of a removal action conducted under the Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA) or analogous state cleanup programs. It serves as the final record that summarizes the removal activities performed, demonstrates that the action was carried out in accordance with the approved Removal Action Work Plan (RAWP), and confirms that cleanup objectives—typically defined by site-specific cleanup standards or risk-based levels—have been achieved. The RACR is submitted to the lead oversight agency (e.g., the U.S. Environmental Protection Agency or a state regulatory agency) for review and acceptance. Agency acceptance of the RACR often supports a determination of "No Further Action" for the removal site or phase.
 
-A Removal Action Completion Report is typically prepared after the physical removal action is concluded and all data (e.g., waste manifests, laboratory analyses, sampling results) are compiled. The process generally follows these steps:
+---
 
-1. **Data Collection and Analysis** – All field activities, waste tracking documents, confirmation sampling results, and any deviation reports are assembled. The report demonstrates that removal goals (e.g., contaminant concentrations below Action Levels) were met.
-2. **Report Drafting** – The responsible party (RP) or contractor prepares a draft RACR that includes: a summary of the removal action, a description of the waste types and quantities removed, a comparison of pre- and post-removal conditions (often with maps and tables), and a statement that the removal is complete.
-3. **Regulatory Review** – The oversight agency reviews the draft RACR. The review may be an *interim* acceptance (for partial actions) or *final* acceptance. The agency may issue an acceptance letter that can be conditional (requiring additional measures, such as submission of a separate document) or unconditional.
-4. **Acceptance and Closure** – Upon agency acceptance, the removal action is officially closed. The RACR becomes part of the site administrative record. For sites where residual contamination remains, the report may recommend transition to a remedial action or long-term management.
+### How It Works
 
-In the provided sources, the **Draft Interim Removal Action Completion Report** (first source) describes an incomplete or conditional acceptance—the agency (California Department of Toxic Substances Control, likely) acknowledges receipt but may require corrections or a final report. The **Final Removal Action Completion Report** (second source), accepted for Modesto soil stockpiles, indicates the removal action is fully complete and approved.
+1. **Preparation**: The responsible party (RP) or their environmental contractor prepares the RACR after completing all field activities (e.g., excavation, off-site disposal, backfilling, and confirmatory sampling). The report integrates data from the removal operation, waste characterization, analytical laboratory results, and waste management documentation.
 
-## Variants
+2. **Content**:
+   - **Executive Summary**: High-level overview of the removal action and key findings.
+   - **Site Background**: Description of the release or threat that triggered the removal action.
+   - **Removal Activities**: Narrative and figures showing what was done—volume of material removed, equipment used, decontamination procedures, etc.
+   - **Waste Disposal Documentation**: Manifests, bills of lading, certificates of disposal for contaminated soil, debris, or liquids sent to permitted facilities.
+   - **Confirmatory Sampling**: Data from post-removal soil, groundwater, or air samples, compared with established cleanup levels.
+   - **Deviations**: Any modifications from the approved RAWP and the rationale for such changes.
+   - **Conclusions**: Statement that removal goals were met, and recommendations (e.g., site closure).
 
-- **Interim Removal Action Completion Report** – Covers a phase or portion of a larger removal action. Used when multiple mobilizations occur or when sampling requires longer turnaround. Agency acceptance may be conditional.
-- **Final Removal Action Completion Report** – Covers the entire removal action. Acceptance confirms that all removal objectives have been met and no further removal action is planned.
-- **Removal Action Work Plan (RAWP)** vs. RACR: The RAWP is the planning document; the RACR is the completion document. In some programs, a single “Removal Action Report” (RAR) serves both purposes.
-- **Closure Report** – A broader term sometimes used for site-wide closure; a RACR is specifically for removal actions, in contrast to a *Remedial Action Completion Report* (for remedial actions under CERCLA).
+3. **Review and Acceptance**: The oversight agency reviews the RACR for completeness and adequacy. If satisfied, the agency issues a formal acceptance letter (or, in some cases, a "Completion Letter" or "No Further Action" letter). If deficiencies are found, the RP must revise and resubmit or perform additional work.
 
-## Trade-offs
+4. **Record Keeping**: The accepted RACR becomes part of the site administrative record and may support future land use decisions or liability protection.
 
-- **Timing vs. completeness** – Preparing a RACR too early (e.g., before all confirmation data are available) may lead to revisions or a conditional acceptance, delaying site closure. Waiting for full data increases report accuracy but postpones regulatory milestone.
-- **Cost and effort** – A thorough RACR requires significant documentation, including chain-of-custody records, waste manifests, and sampling chain-of-custody – increasing project costs. Overly detailed reports can also prolong the review cycle.
-- **Liability implications** – An accepted RACR reduces the RP’s liability for that removal action, but residual contamination may still require future actions. Incomplete acceptance leaves the RP vulnerable to re-opening the action.
-- **Stakeholder communication** – The RACR serves as a public record. Incomplete or confusing reports can erode community trust; overly technical reports may be hard for non-specialists to understand.
-- **Regulatory acceptance standards** – Different agencies (EPA, state DTSC, etc.) have varying requirements for RACR content and format. A report accepted by one agency may not satisfy another jurisdiction if cleanup boundaries cross state lines.
+---
 
-## See also
+### Variants
 
-- Removal Action
-- Removal Action Work Plan (RAWP)
-- CERCLA Removal Authority
-- Confirmation Sampling
-- Action Levels (CERCLA)
-- Interim Action Package
-- Remedial Action Completion Report
+- **Final RACR**: Prepared after all removal phases are complete; the final document for the entire action.
+- **Interim RACR**: Used when a removal action consists of multiple operational phases. Each phase may have its own interim report before the final RACR is prepared.
+- **Removal Action Report (RAR)**: Some programs use this term interchangeably with RACR, though RAR is sometimes reserved for emergency actions.
+- **Action Completion Report (ACR)**: Broader term used for other cleanup authorities (e.g., RCRA corrective actions) but structurally similar.
+- **State-Specific Reports**: State-led cleanups may require a "Removal Completion Report" that follows state guidance rather than EPA’s CERCLA template.
+
+---
+
+### Trade-offs
+
+- **Comprehensiveness vs. Timeliness**: A RACR must include extensive documentation (waste manifests, sampling chain-of-custody, lab reports) to satisfy regulatory completeness, which can delay submission and site closure.
+- **Cost**: Analytical testing, data validation, and report writing contribute significant costs to the overall removal project.
+- **Data Dependence**: The report’s acceptance hinges on quality of field data; poor sampling design or laboratory errors can necessitate rework and resubmission.
+- **Legal Liability**: Incomplete or inaccurate reporting may leave the RP exposed to future claims or reopen the removal action for additional work.
+- **Regulatory Discretion**: The level of detail required varies among regions and project teams; over- or under-documentation can either waste resources or cause rejection.
+
+---
+
+### See also
+
+- Removal Action Work Plan
+- CERCLA
+- No Further Action
+- Confirmatory Sampling
+- Environmental Remediation
+- Hazardous Waste Disposal
+- Administrative Record

@@ -2,21 +2,20 @@
 source: raw/WB Acceptance E-mail.pdf
 source_type: paper
 source_hash: sha256:adfb3f92d3f726fe08ecd22c3856a4b46ef1e6379b5c1d41945c155d8ff7b06d
-compiled_at: 2026-06-04T03:09:19Z
+compiled_at: 2026-06-04T07:57:31Z
 chunk_count: 1
 ---
 
-## Key claims
-The provided source is not an academic paper but an email chain forwarding a surface water sampling report for the Modesto Soil Stockpiles project. No claims, findings, or contributions are presented in the email itself.
+## Note on Source Content
 
-## Methodology
-Not applicable. The email contains no description of experimental setup, datasets, or evaluation metrics.
+The provided file is **not an academic paper** but an email correspondence (March 2021) regarding a surface water report on the Modesto Soil Stockpiles project. The actual report (“Caltrans Modesto Soil Stockpiles, Surface Water Report – December 17, 2020”) is attached but **not included** in the source material. Therefore, the structured summary below reflects only the email metadata, not the content of the referenced report.
 
-## Results
-Not applicable. No quantitative results are provided in the email.
+| Section | Content |
+|---------|---------|
+| **Key claims** | No research claims are present. The email chain documents the transmittal of a surface water report from Stantec Consulting to DTSC (Dean Wright) and subsequent forwarding to the Regional Water Quality Control Board (Kyle Cockerham), who replied with “no comment” on the report. |
+| **Methodology** | Not applicable. No experimental setup, dataset, or evaluation metrics are described. |
+| **Results** | No quantitative results are provided. |
+| **Limitations** | The actual report is not included; only the forwarding correspondence is available. |
+| **Concepts** | Not applicable – no technical concepts are introduced or used in the email body. |
 
-## Limitations
-The source material is an email message, not a paper. It only states that a report was attached and that one recipient has no comments. No substantive content from the attached report is available for analysis.
-
-## Concepts
-Not applicable.
+To produce the requested structured summary, the attached PDF surface water report would need to be provided.

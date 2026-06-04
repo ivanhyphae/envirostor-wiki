@@ -2,32 +2,37 @@
 source: raw/Caltrans Modesto Soil Stcokpiles RDIP Variance.pdf
 source_type: paper
 source_hash: sha256:21e20475966902c43b805eb0b4b7c5ba29447e0a51c0adcb30fc680960e95798
-compiled_at: 2026-06-04T03:09:44Z
+compiled_at: 2026-06-04T08:05:14Z
 chunk_count: 1
 ---
 
 ## Key claims
-- This document is a variance to the Remedial Design Implementation Plan (RDIP) for the Caltrans Modesto Soil Stockpiles, proposing an additional source of clean cover fill material for capping consolidated barium-containing soil (BCS) in Stockpiles 1 and 2 during the SR 132 West Project.
-- The new clean fill source is soil from mechanically stabilized earth (MSE) wall footing excavations (approximately 5 feet deep) along the southern boundaries of Stockpiles 1 and 2.
-- Geocon evaluated Stockpile 1 MSE wall footing material and found that the upper foot contained elevated barium concentrations unsuitable for clean cover; however, soil from 1 to 5 feet depth had barium concentrations ranging from 42 to 140 mg/kg with a 95% UCL of 113.1 mg/kg, within site-specific naturally occurring background barium levels (17–120 mg/kg), making it suitable as clean cover fill.
-- Stockpile 2 MSE wall footing material will be evaluated similarly once BCS is excavated.
+- This document presents a variance to the Remedial Design Implementation Plan (RDIP) for capping consolidated barium-containing soil (BCS) within Stockpiles 1 and 2 on the Caltrans Modesto SR 132 West Project.
+- It identifies and seeks approval for an additional clean cover fill material source: soil from mechanically stabilized earth (MSE) wall footing excavations (1–5 ft depth) along the southern boundary of Stockpile 1, and proposes future evaluation of similar material from Stockpile 2.
+- Barium concentrations in Stockpile 1 MSE wall footing soil (42–140 mg/kg) are within the site-specific naturally occurring background range (17–120 mg/kg) when evaluated using a 95% upper confidence limit (UCL) of 113.1 mg/kg, supporting its suitability as clean cover fill.
+- The Carpenter Road borrow source had already been approved by DTSC; no other clean fill sources are proposed.
 
 ## Methodology
-- **Experimental setup**: Geocon collected soil samples from MSE wall footing excavations along the southern boundary of Stockpile 1 at depths of 1 to 5 feet from existing grade after excavation of BCS material. Samples were analyzed for total barium and lead.
-- **Data analysis**: Barium concentrations were compared to site-specific naturally occurring background barium concentrations (17–120 mg/kg). A 95% upper confidence limit (UCL) was calculated using ProUCL software (Student's-t UCL method) to assess central tendency and ensure concentrations were within background.
-- **Datasets**: 12 soil samples from Stockpile 1 were analyzed for barium and lead; results are summarized in Table 1 (e.g., barium: 42–140 mg/kg; lead: <1.0–6.6 mg/kg). Maximum background barium is 120 mg/kg; BCS removal verification threshold is 1,000 mg/kg.
-- **Evaluation metrics**: Statistical tests (Shapiro-Wilk, Lilliefors) confirmed data normality; 95% Student's-t UCL = 113.1 mg/kg.
+- **Experimental Setup**: Soil samples were collected from the proposed MSE wall footing excavation along the southern boundary of Stockpile 1 following removal of overlying BCS. The excavation depth is approximately 5 ft. Samples were taken at depths from 0 to 5 ft (see Table 1 for sample IDs and depths). Stockpile 2 MSE wall footing will be evaluated similarly after BCS removal.
+- **Datasets**: 15 soil samples from Stockpile 1 MSE footing (samples STK1-1-0 through STK1-3-4) analyzed for total barium and lead. A statistical subset of 12 samples (excluding results >1.5x background? Actually the text says "soil extending from 1 to 5 feet" – the upper foot contained elevated barium and was excluded; the statistical analysis uses data from 1–5 ft depth only, 12 samples) was used for UCL calculation.
+- **Analysis**: Laboratory analysis for barium and lead (mg/kg). Comparison to site-specific naturally occurring background barium range (17–120 mg/kg) and BCS removal verification threshold (1,000 mg/kg barium). A 95% upper confidence limit (UCL) of the mean was calculated using ProUCL software (Student's-t UCL method) to demonstrate central tendency within background.
+- **Evaluation Metrics**: Barium concentration in soil must be within site-specific background range (17–120 mg/kg) or statistically shown to be within that range via 95% UCL. Lead concentrations were also measured but not used for primary suitability determination; all lead results (max 6.7 mg/kg) are below the background maximum of 3.8 mg/kg except one sample (STK1-2-0 at 6.6 mg/kg) and STK1-3-0 at 6.7 mg/kg, but the document does not discuss lead further for suitability.
 
 ## Results
-- For Stockpile 1 MSE wall footing soil (1–5 ft depth): barium concentrations = 42 to 140 mg/kg; 95% Student's-t UCL = 113.1 mg/kg; maximum site-specific background barium = 120 mg/kg.
-- All barium concentrations in the 1–5 ft interval are within or below the site-specific background range; lead results (up to 6.6 mg/kg) also fall within background (max 3.8 mg/kg for lead, though some samples exceed this; note: lead background max is 3.8 mg/kg, but data show up to 6.6 mg/kg—this is not explicitly addressed as an issue in the document).
-- The upper foot of soil (0–1 ft) contained elevated barium (e.g., 240–420 mg/kg), not suitable for clean cover.
+- **Stockpile 1 MSE Wall Footing Soil (1–5 ft depth):**
+  - Barium concentrations: 42, 83, 80, 130, 75, 140, 97, 81, 120, 130, 120, 71 mg/kg (from Table 1, samples with suffix -1 to -4 in each boring, excluding the upper 0–1 ft samples: 95, 240, 420 mg/kg which were elevated).
+  - Mean (of 12 samples): 97.42 mg/kg
+  - 95% Student's-t UCL: 113.1 mg/kg
+  - Maximum site-specific background: 120 mg/kg
+  - Conclusion: The 95% UCL (113.1 mg/kg) is less than or equal to the maximum background (120 mg/kg), indicating the material is suitable for clean cover fill.
+- **Lead concentrations** in all samples: range <1.0 to 6.7 mg/kg; site-specific background max for lead is 3.8 mg/kg, but no suitability evaluation for lead is explicitly performed in this variance (only barium is the primary concern for BCS).
+- **Stockpile 2 MSE Wall Footing**: Not yet evaluated; will be sampled after BCS removal and compared to background.
 
 ## Limitations
-- The upper foot of the MSE wall footing excavations contained elevated barium concentrations unsuitable as clean cover fill; only the 1–5 ft depth interval met criteria.
-- Stockpile 2 MSE wall footing material has not yet been evaluated; results are pending after BCS excavation.
-- The clean fill material is limited to approved Carpenter Road borrow source and any DTSC-approved wall footing excavation material; no other sources are proposed.
-- Statistical conclusions assume normality; the document acknowledges that for negatively-skewed data, some UCL methods may not be reliable, but data appear normal.
+- **Stockpile 2 not yet sampled**: The suitability of MSE wall footing material from the southern boundary of Stockpile 2 is pending excavation and analytical results. The variance only confirms suitability for Stockpile 1 material.
+- **Upper foot excluded**: The top 1 ft of the Stockpile 1 MSE footing excavation contained elevated barium (samples STK1-1-0: 95 mg/kg, but actually 95 is within background? Wait: STK1-1-0=95, STK1-2-0=240, STK1-3-0=420 – two of three exceed background, so the upper foot material is not suitable and will be handled separately. The document notes that the "upper foot of planned wall footing excavation soil contained elevated barium concentrations that would not be suitable for use as clean cover fill material." So only the 1–5 ft interval is proposed.
+- **Statistical approach**: The 95% UCL is used to demonstrate that the mean is within background. However, the dataset size is small (12 observations) and assumes normal distribution (verified by Shapiro-Wilk and Lilliefors tests at 5% significance). The document acknowledges that for highly negatively skewed data, the UCL methods may not be reliable, but states the data appear normal.
+- **Lead concentrations**: While all measured lead values are low, some exceed the stated site-specific background maximum (3.8 mg/kg) – specifically STK1-2-0 (6.6 mg/kg) and STK1-3-0 (6.7 mg/kg). However, these samples are from the excluded upper foot (STK1-2-0 and STK1-3-0 are depth 0–1 ft). Within the 1–5 ft interval, lead values range <1.0–3.9 mg/kg, with only one sample (STK1-2-1 at 3.9 mg/kg) slightly above 3.8 mg/kg. The document does not discuss lead further; presumably lead is not a primary contaminant of concern for this fill material, but the background comparison suggests possible minor exceedance.
 
 ## Concepts
-Barium-containing soil (BCS), mechanically stabilized earth (MSE) wall, clean cover fill material, 95% upper confidence limit (UCL), site-specific naturally occurring background concentrations, remedial design implementation plan (RDIP), variance, ProUCL, Shapiro-Wilk test, Lilliefors test, Student's-t UCL
+Barium-containing soil (BCS), clean cover fill material, 95% upper confidence limit (UCL), mechanically stabilized earth (MSE) wall footing, site-specific naturally occurring background concentration, remedial design implementation plan (RDIP) variance, ProUCL statistical software, Shapiro-Wilk goodness-of-fit test, Lilliefors test, Student's-t UCL, BCS removal verification threshold.

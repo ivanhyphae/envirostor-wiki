@@ -2,25 +2,21 @@
 source: raw/Final FS Letter.pdf
 source_type: paper
 source_hash: sha256:1ff002b186244ab21dbf7f9f8440f9928a5b42af724cc6f3a731db9ee80c7920
-compiled_at: 2026-06-04T03:06:50Z
+compiled_at: 2026-06-04T07:55:51Z
 chunk_count: 1
 ---
 
 ## Key claims
-- The Department of Toxic Substances Control (DTSC), in consultation with the Central Valley Regional Water Quality Control Board (RWQCB), formally concurs with the "Final Feasibility Study Caltrans Modesto Soil Stockpiles, State Route 132, West Freeway/Expressway Project, Stanislaus County" (dated June 24, 2014, prepared by Geocon Consultants, Inc.).
-- The Final Feasibility Study adequately addresses comments previously provided by DTSC on the Draft Final Feasibility Study (comments dated February 11, 2014).
-- This letter serves as the regulatory approval of the final feasibility study for the soil stockpiles at the project site.
+The Department of Toxic Substances Control (DTSC), in consultation with the Central Valley Regional Water Quality Control Board (RWQCB), has reviewed and concurs with the Final Feasibility Study (FS) for the Caltrans Modesto Soil Stockpiles. The Final FS incorporates and resolves DTSC’s prior comments on the Draft Final FS (dated December 18, 2013), as specified in DTSC’s comments of February 11, 2014.
 
 ## Methodology
-- DTSC and RWQCB conducted a technical review of the Final Feasibility Study report.
-- The review compared responses and revisions in the final document against the specific comments previously issued by DTSC for the Draft Final Feasibility Study.
-- No experimental setup, dataset, or quantitative evaluation metrics are described; the process is a regulatory document review and concurrence.
+No experimental or quantitative methodology is described. The document is a regulatory concurrence letter; it references a prior review process wherein DTSC provided comments on a draft, and the Final FS was prepared by Caltrans’ contractor (Geocon Consultants, Inc.) to address those comments. The DTSC and RWQCB jointly evaluated the revised document.
 
 ## Results
-- DTSC concurrence with the Final Feasibility Study is the sole outcome reported. No specific quantitative results (e.g., contaminant concentrations, risk numbers, remedial cost estimates) are provided in the letter itself.
+No quantitative results are reported. The key outcome is the regulatory agency’s concurrence with the Final FS.
 
 ## Limitations
-- The letter does not mention any limitations or caveats of the study or its review process; it only indicates that DTSC's earlier comments were addressed to their satisfaction.
+No limitations or caveats are mentioned in this letter.
 
 ## Concepts
-Feasibility Study, Department of Toxic Substances Control (DTSC), Central Valley Regional Water Quality Control Board (RWQCB), Brownfields and Environmental Restoration Program, environmental remediation, soil stockpiles, site assessment, regulatory concurrence
+Feasibility Study, Department of Toxic Substances Control (DTSC), Central Valley Regional Water Quality Control Board (RWQCB), Brownfields and Environmental Restoration Program, Caltrans Modesto Soil Stockpiles, State Route 132 West Freeway/Expressway Project, Geocon Consultants Inc., Draft Final Feasibility Study

@@ -1,50 +1,65 @@
 ---
 concept: disposable-bailer
 entity_type: technique
-aliases: ["disposable bailer", "bailer sampling"]
-sources: ["raw/S9525-01-44B Caltrans Modesto Stockpiles GW March 2013 0513 (1).pdf", "raw/S9800-01-17 Modesto Stockpiles Feb2014 GW Mon 0414.pdf"]
-confidence: medium
-created_at: 2026-06-04T04:07:48Z
+aliases: []
+sources: ["raw/S9800-01-17 Caltrans Modesto Stockpiles GW_06.15.pdf", "raw/S9800-01-17A Caltrans Modesto Stockpiles GW_06 16.pdf"]
+confidence: low
+created_at: 2026-06-04T08:27:25Z
 ---
 
-## Disposable Bailer
+## Definition
 
-### Definition
-A **disposable bailer** is a single-use, low-cost device used to obtain groundwater samples from monitoring wells, particularly when there is a risk of cross-contamination between sampling events or wells. It consists of a cylindrical tube (typically made of polyethylene or PVC) with a check valve or ball valve at the bottom that allows water to enter when lowered and traps it when retrieved. Disposable bailers are designed to be discarded after one use to eliminate the need for decontamination between samples, making them suitable for temporary well installations, stockpile monitoring, or investigations involving volatile organic compounds (VOCs).
+A **disposable bailer** is a single-use, low-cost device used to collect groundwater samples from monitoring wells or other aqueous environments. It is typically a rigid or semi-rigid tube, often made of polyethylene or other inert plastic, with a bottom check valve (ball valve or duckbill valve) that allows water to enter but prevents it from escaping during retrieval. Disposable bailers are designed to be used once and then discarded, eliminating the need for decontamination between samples and reducing the risk of cross-contamination.
 
-### How It Works
-A disposable bailer operates on a simple mechanical principle:
-1. **Assembly**: The bailer is attached to a dedicated line (e.g., nylon or polypropylene cord). Some designs include a separate bottom cap or check valve that is pre-installed.
-2. **Deployment**: The bailer is lowered into the well casing until it reaches the water column. The weight of the bailer and the water pressure cause the bottom valve to open, allowing water to flow into the tube.
-3. **Collection**: As the bailer is filled, air escapes through a vent at the top or through a small diameter opening. Once full, the bailer is retrieved. The bottom valve closes due to gravity or a spring mechanism, sealing the water inside.
-4. **Sample transfer**: At the surface, the sample is either poured directly into laboratory-provided containers or transferred via a separate tube connected to the bailer’s top vent.
+## How it works
 
-The device is then discarded, ensuring no residual contamination is carried to the next sampling point.
+The disposable bailer operates on a simple mechanical principle:
 
-### Variants
-- **Standard polyethylene bailer**: Most common; used for general groundwater sampling, including VOCs. Typically 1–2 inches in diameter with a 1–3 foot length.
-- **Bottom-check bailer**: Features a check valve at the bottom that opens on descent and seals on ascent. Some models include a stainless-steel ball valve for durability in abrasive conditions.
-- **Dedicated disposable bailer**: Used in long-term monitoring where each well has its own bailer left in place between sampling events. This reduces handling and potential exposure to contaminants.
-- **Volumetric bailer**: Designed for precise collection of a known volume (e.g., 250 mL, 500 mL) for specific analytical requirements.
-- **Teflon bailer**: Used for sampling trace metals or organic compounds where polyethylene may leach interfering substances.
+1. **Assembly**: The bailer consists of a hollow tube (often transparent to allow visual inspection of the sample) with a closed top (sometimes with a lanyard or rope attachment) and a bottom end fitted with a one-way check valve. The valve may be a ball-and-seat design or a flexible rubber duckbill.
 
-### Trade-offs
-**Advantages**:
-- Eliminates decontamination costs and labor, reducing risk of cross-contamination.
-- Low unit cost makes them practical for high-volume or temporary sampling programs (e.g., Caltrans Modesto stockpile monitoring).
-- Simple operation requires minimal training.
-- Suitable for wells with limited volume or where dedicated pumps are not feasible.
+2. **Deployment**: The bailer is lowered down a well casing or standpipe using a dedicated cord, wire, or rope attached to the top. The bailer is allowed to descend until it reaches the desired sampling depth, often below the water table.
 
-**Disadvantages**:
-- Generates plastic waste, which may conflict with sustainability goals.
-- Not suitable for deep wells or high-flow conditions (bailer may not fill fully).
-- May introduce aeration or agitation during retrieval, potentially stripping VOCs from the sample.
-- Limited sample volume per retrieval; multiple trips may be needed for larger containers.
-- Quality control depends on proper handling (e.g., retraction speed, avoidance of tubing contact with well walls).
+3. **Filling**: As the bailer submerges, water passes through the check valve into the tube. When the bailer is fully filled or when the water level inside equals the outside, the valve closes under the weight of the water column or by spring action, preventing back-flow.
 
-### See also
-- Groundwater Monitoring
+4. **Retrieval**: The bailer is pulled upward. The closed valve holds the water inside. Once at the surface, the bailer is typically inverted or triggered to release the sample into a collection container, often by breaking the top seal or removing a cap.
+
+5. **Disposal**: After use, the entire bailer is discarded as solid waste according to local regulations. No cleaning or reuse is intended.
+
+The simplicity of operation makes it ideal for field use where power, pumps, or dedicated sampling equipment are unavailable.
+
+## Variants
+
+- **Bottled Bailers**: A variation where a pre-cleaned, certified-clean bottle is attached to the bottom of a bailer tube; the bottle itself serves as the sample container.
+
+- **Bottom-Valve vs. Bottom-Filter Bailers**: Some designs incorporate an inline filter at the bottom to collect filtered samples without separate filtration, useful for dissolved metals analysis.
+
+- **Teflon® Bailers**: Made of polytetrafluoroethylene (PTFE) for applications requiring inert materials to avoid adsorption of organic compounds.
+
+- **Stainless Steel Bailers**: Reusable versions exist, but the disposable category is almost exclusively plastic.
+
+- **Point-Source Bailers**: Very small diameter bailers used for low-yield monitoring wells or porewater sampling.
+
+## Trade-offs
+
+| Advantage | Disadvantage |
+|-----------|--------------|
+| No decontamination required; eliminates cross-sample contamination between wells | Higher per-sample cost compared to reusable equipment (but saves labor for cleaning) |
+| Simple to use with minimal training | Limited sample volume (typically 0.5–2 liters); multiple drops may be needed for larger volumes |
+| Inert materials (polyethylene, PTFE) minimize sample alteration | Not suitable for volatile organic compound (VOC) sampling unless specially designed (e.g., with bottom fill and no headspace) |
+| Lightweight and portable | Can cause sample aeration during filling and retrieval, affecting dissolved gas parameters |
+| Readily available in pre-sterilized, certified-clean packaging | Disposal adds plastic waste; environmental concerns in long-term monitoring programs |
+
+- **Sample Integrity**: For VOC or low-level analysis, disposable bailers may introduce bias due to aeration, volatilization, or sorption onto plastic walls. Bottom-fill designs reduce some issues, but dedicated sampling pumps (e.g., low-flow bladder pumps) are often preferred.
+
+- **Regulatory Acceptance**: Many environmental agencies accept bailer sampling for certain analytes (e.g., metals, anions) but require alternative methods for volatiles or field parameters like dissolved oxygen.
+
+- **Depth Limitation**: Bailers are practical for wells up to ~20–30 m depth; deeper wells require heavier retrieval lines and longer pulling times, making pumps more efficient.
+
+## See also
+
+- Groundwater sampling
+- Low-flow sampling
+- Monitoring well
 - Bailer (sampling)
-- Volatile Organic Compounds Analysis
-- Monitoring Well Decontamination
-- Low-Flow Purging and Sampling
+- Check valve
+- Volatile organic compound sampling

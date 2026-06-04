@@ -1,55 +1,65 @@
 ---
 concept: maximum-contaminant-level
 entity_type: concept
-aliases: ["mcl"]
-sources: ["S9525-06-44A Stormwater SAP Addendum 0213.pdf", "S9800-01-17A Caltrans Modesto Stockpiles GW_06 16.pdf"]
+aliases: ["MCL", "primary MCL", "secondary MCL", "mcl"]
+sources: ["S9525-06-44A Caltrans Modesto Stockpiles GW 0213.pdf", "S9525-01-44B Modesto Stockpiles GW June 2013.0613.pdf", "S9525-01-44C Modesto Stockpiles GW September 2013 1013.pdf", "S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814.pdf", "raw/S9800-01-17A Modesto Stockpiles Mar 5 2016 Stormwater Samplng_04 16.pdf", "raw/S1200-01-01 Modesto Stockpiles Dec 2016 SW Sampling_01.17.pdf", "raw/S2350-01-02_2.4.2025 Stormwater Sampling Report_6.25.pdf", "raw/S1200-01-01 Modesto Stockpiles March 2018 SW Sampling_04.18.pdf", "raw/S9525-06-44A Stormwater SAP Addendum 0213.pdf", "raw/S9525-01-44B Modesto Stockpiles GW June 2013.0613 (1).pdf", "raw/S9800-01-17A Modesto Stockpiles Dec 11 2015 Stormwater Sampling Report_02.16.pdf", "raw/S2350-01-02_2.1.2024 Stormwater Sampling Report_5.24.pdf", "raw/S9800-01-17A Modesto Stockpiles Jan 6 2016 Stormwater Smplng 0216.pdf"]
 confidence: high
-created_at: 2026-06-04T03:26:14Z
+created_at: 2026-06-04T08:17:14Z
 ---
 
-## Definition
+## Maximum Contaminant Level
 
-A **Maximum Contaminant Level** (MCL) is the highest legally permissible concentration of a specific contaminant in water that can be delivered to any user of a public water system. In the United States, MCLs are enforceable standards established by the U.S. Environmental Protection Agency (EPA) under the Safe Drinking Water Act (SDWA). They apply to all public water systems and are designed to protect public health while accounting for the practical feasibility of treatment and monitoring. MCLs are distinct from other water quality guidelines in that non-compliance triggers mandatory public notification and corrective action.
+### Definition
 
-## How it works
+The **Maximum Contaminant Level (MCL)** is the highest permissible concentration of a contaminant in water delivered to any user of a public water system. Established under the U.S. Safe Drinking Water Act (SDWA), MCLs are enforceable standards designed to protect human health from both acute and chronic effects of drinking water contaminants. They apply to a wide range of substances including microorganisms, disinfectants, disinfection byproducts, inorganic chemicals, organic chemicals, and radionuclides.
 
-The process for setting an MCL begins with health-effects research. The EPA first establishes a **Maximum Contaminant Level Goal (MCLG)** – a non‑enforceable, health‑based target derived solely from toxicological data (including a margin of safety for sensitive populations). Because MCLGs often cannot be achieved with available technology at reasonable cost, the EPA then determines the **feasible** level: the lowest concentration that can be practically attained using the best available treatment technologies, considering cost and operational feasibility. This feasible level becomes the MCL, which is set **as close to the MCLG as possible**.
+MCLs are set as close as feasible to the Maximum Contaminant Level Goal (MCLG)—a non‑enforceable health‑based target—while taking into account the cost and technical feasibility of treatment and monitoring.
 
-Once an MCL is promulgated, public water systems must:
+### How it works
 
-- **Monitor** for the contaminant at specified frequencies (often quarterly or annually, depending on the contaminant).
-- **Report** results to the state or EPA and, if an MCL is exceeded, notify the public within specified timeframes (e.g., 30 days for acute contaminants, 12 months for non‑acute).
-- **Take corrective action** (e.g., install treatment, blend water sources, or switch to an alternative supply) to return to compliance within a mandated schedule.
+The U.S. Environmental Protection Agency (EPA) develops MCLs through a multi‑step process:
 
-MCLs also serve as cleanup targets in groundwater remediation programs. For example, California’s Title 22 applies state‑adopted MCLs as cleanup standards for contaminated groundwater at sites such as leaking underground storage tanks or industrial facilities.
+1. **Health‑effects assessment** – EPA determines the level of a contaminant that can be consumed over a lifetime without adverse health effects. This result is the MCLG, typically set at zero for carcinogens or at a reference dose for non‑carcinogens.
 
-## Variants
+2. **Feasibility analysis** – EPA evaluates the best available technology (BAT) or treatment techniques that can reliably remove or reduce the contaminant to a given level, considering both technical achievability and affordability for large and small systems.
 
-- **Primary MCLs** – Health‑based, enforceable standards for contaminants that pose an acute or chronic health risk (e.g., arsenic, lead, nitrate, benzene).
-- **Secondary MCLs** – Aesthetic or nuisance standards for contaminants that affect taste, odor, or color (e.g., chloride, iron, manganese). These are not federally enforceable but are often adopted by states.
-- **Maximum Contaminant Level Goal (MCLG)** – Non‑enforceable health target; serves as the starting point for setting the MCL.
-- **Treatment Technique (TT)** – An alternative regulatory approach used when it is impractical to measure contaminant levels (e.g., for Cryptosporidium). A TT prescribes specific treatment processes rather than a numeric limit.
-- **State‑specific MCLs** – Some states (e.g., California, New Jersey) adopt MCLs that are more stringent than federal standards (e.g., California’s MCL for hexavalent chromium, PCE, or 1,4‑dioxane). Such state MCLs may also be used in site cleanup programs under laws like California’s Porter‑Cologne Water Quality Control Act.
-- **Health Advisories** – Non‑enforceable guidance levels (e.g., for emerging contaminants like PFAS) that may later become MCLs as EPA completes the rulemaking process.
+3. **Cost‑benefit consideration** – The agency weighs the incremental costs of improved treatment against the public health benefits, ensuring that the final MCL is “feasible” under SDWA criteria.
 
-## Trade-offs
+4. **Rulemaking** – Proposed MCLs are published for public comment, and after review the final rule is promulgated in the Code of Federal Regulations (40 CFR Part 141).
 
-- **Health vs. cost**: MCLs must balance the ideal health goal (MCLG) against the economic burden imposed on water systems and their customers. Critics argue that feasibility considerations may leave sensitive subpopulations insufficiently protected.
-- **Regulatory lag**: The process from health research to final rulemaking can take a decade or more (e.g., perchlorate and PFAS). During this gap, contaminants may be present at levels that exceed eventual MCLs, without enforceable limits.
-- **Gaps in coverage**: Many contaminants (especially unregulated emerging compounds) lack MCLs. The EPA’s Unregulated Contaminant Monitoring Rule helps identify priorities, but many substances remain unconstrained.
-- **Small system burdens**: MCL compliance often requires expensive treatment (e.g., reverse osmosis, granular activated carbon). Small rural water systems may struggle to afford upgrades, leading to repeated violations or consolidation.
-- **Analytical challenges**: Some MCLs are set near the practical quantitation limit, making accurate detection and enforcement difficult, especially for laboratories serving small systems.
-- **Enforcement variability**: State primacy agencies have discretion in enforcement, leading to inconsistent compliance rates across jurisdictions.
+Once established, public water systems must conduct periodic monitoring and ensure that the concentration of each regulated contaminant does not exceed its MCL at any sampling point in the distribution system. Violations can result in fines, public notification, and requirements to take corrective action. States may also adopt MCLs that are more stringent than federal standards.
 
-## See also
+### Variants
+
+| Variant | Description |
+|---------|-------------|
+| **Maximum Contaminant Level Goal (MCLG)** | A non‑enforceable health‑based guideline; the level at which no known or anticipated adverse health effects occur, with an adequate margin of safety. |
+| **Treatment Technique (TT)** | A required process intended to reduce the level of a contaminant instead of setting a numeric MCL (e.g., filtration for *Cryptosporidium*). |
+| **Action Level** | A concentration that triggers treatment or other requirements but is not itself an MCL (used for lead and copper, where the action level is 15 µg/L and 1.3 mg/L respectively). |
+| **Secondary Maximum Contaminant Level (SMCL)** | Non‑enforceable aesthetic standards (taste, odor, color) that are recommended but not mandatory. |
+| **State MCLs** | Individual states may set MCLs more strict than federal ones; for example, California often adopts lower MCLs for certain chemicals. |
+| **International equivalents** | Other countries use similar concepts: e.g., the EU’s parametric values under the Drinking Water Directive, or WHO guideline values. |
+
+### Trade‑offs
+
+- **Health protection vs. cost** – Setting an MCL very low can require expensive treatment (e.g., reverse osmosis, granular activated carbon) that may be unaffordable for small communities, leading to compliance difficulties and potential service disruptions.
+
+- **Feasibility constraints** – MCLs must be achievable with BAT. For some contaminants (e.g., perchlorate, chromium‑VI), current treatment technology may not be capable of reducing levels to the health‑based MCLG, forcing EPA to set a higher MCL.
+
+- **Monitoring burden** – Frequent sampling and laboratory analysis are required to demonstrate compliance, imposing ongoing operational costs.
+
+- **Detection limits** – The MCL must be above the practical quantitation limit (PQL) of approved analytical methods, otherwise enforcement becomes impossible.
+
+- **Lag in updating** – MCLs are revised infrequently; new health data may indicate that existing MCLs are insufficient (e.g., legacy standards for some volatile organic compounds).
+
+- **Different standards for different systems** – Small systems may be granted variances or exemptions when compliance is economically infeasible, potentially exposing a subset of consumers to higher contaminant loads.
+
+### See also
 
 - Safe Drinking Water Act
-- Maximum Contaminant Level Goal
-- Contaminant
-- Public Water System
-- Health Advisory
-- Treatment Technique
-- Secondary Drinking Water Standards
-- California Title 22
-- Groundwater Cleanup Standard
-- Unregulated Contaminant Monitoring Rule
+- Maximum Contaminant Level Goal (MCLG)
+- Treatment Technique (TT)
+- National Primary Drinking Water Regulations
+- Drinking Water Contaminant Candidate List
+- Lead and Copper Rule
+- Perfluorinated Compounds (PFAS) Regulation

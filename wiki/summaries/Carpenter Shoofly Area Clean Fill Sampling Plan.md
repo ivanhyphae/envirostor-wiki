@@ -2,26 +2,28 @@
 source: raw/Carpenter Shoofly Area Clean Fill Sampling Plan.pdf
 source_type: paper
 source_hash: sha256:c675420eaf8b7883277dfa394c10bd4f466e7d35440af75361e02d00ff77f524
-compiled_at: 2026-06-04T03:06:07Z
+compiled_at: 2026-06-04T07:54:51Z
 chunk_count: 1
 ---
 
 ## Key claims
-The document describes a sampling plan for clean fill material at the SR 132 Carpenter Shoofly site. The plan specifies excavation depth (20 ft), total volume (~5,000 cubic yards), placement timeline (week of 4/19/21), and sampling strategy to assess contamination by total lead and barium. The primary contribution is a practical field protocol for expedited characterization of fill quality using hand‑sampling transects and depth‑discrete composites.
+The sampling plan defines a protocol for source testing of clean fill material at the SR 132 Carpenter Shoofly site. The primary contributions are the specification of sampling geometry (vertical transects along a slope), depth intervals, composite sample construction, and targeted analytes (total lead and barium) to characterize fill quality prior to placement.
 
 ## Methodology
-- **Sampling design**: Six vertical transects established along the slope.
-- **Sampling depths**: 2, 5, 10, and 15 ft measured from roadway grade.
-- **Sample preparation**: Eight 3‑part depth‑discrete composite samples (four per side of the roadway) are formed.
+- **Site**: SR 132 Carpenter Shoofly Clean Fill area.
+- **Excavation depth**: 20 feet.
+- **Volume**: 5,000 cubic yards.
+- **Sampling layout**: 6 hand sampling vertical transects positioned along the slope.
+- **Depth intervals**: Samples collected at 2, 5, 10, and 15 feet from roadway grade.
+- **Composite samples**: 8 three-part depth-discrete composites (4 composites per side) constructed from the depth-interval samples.
 - **Analytes**: Total lead and barium.
-- **Turnaround time**: Expedited 48‑hour laboratory analysis.
-- **Quantities**: No statistical sample size or power calculation is provided; the plan is field‑oriented.
+- **Laboratory turnaround**: Expedited 48-hour analysis.
 
 ## Results
-No quantitative analytical results are reported because the document is a sampling plan, not a results summary. The only numeric values given are excavation depth (20 ft), volume (5,000 cubic yards), and sampling depths (2, 5, 10, 15 ft). The expected placement date (week of 4/19/21) is noted but not part of a formal outcome.
+No quantitative results are presented, as this is a planning document. The intended outcome is the generation of analyte concentration data (total lead and barium) from the composite samples within a 48-hour turnaround.
 
 ## Limitations
-No limitations or caveats are explicitly discussed. The plan omits quality control measures, detection limits, or criteria for acceptance/rejection of fill material. The absence of statistical justification for the sampling density and composite scheme is an implicit limitation.
+No limitations or caveats are explicitly stated in the source material.
 
 ## Concepts
-Clean fill, source testing, sampling plan, vertical transect, depth‑discrete composite sample, total lead, total barium, expedited turnaround, excavation depth, roadway grade.
+hand sampling vertical transects, depth-discrete composite samples, expedited laboratory turnaround, total lead analysis, total barium analysis, clean fill source testing, roadway grade reference elevation

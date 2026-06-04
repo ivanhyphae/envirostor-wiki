@@ -2,27 +2,26 @@
 source: raw/11 29 2012 Caltrans GND Water Monitoring Rpts.pdf
 source_type: paper
 source_hash: sha256:97f5649e302a336805d604ba604fb95c0a6e5a2832331a541162d63eaf0a022a
-compiled_at: 2026-06-04T03:09:36Z
+compiled_at: 2026-06-04T07:57:44Z
 chunk_count: 1
 ---
 
 ## Key claims
-- The Department of Toxic Substances Control (DTSC), in consultation with the Regional Water Quality Control Board, reviewed three groundwater monitoring reports for Caltrans' Modesto Soil Stockpiles (May, June, July 2012) prepared by Geocon Consultants.
-- DTSC concurs with the groundwater monitoring reports and requests that future monitoring reports be submitted as groundwater data becomes available.
-- The soil stockpiles consist of excess native soils and pond tailings from 1960s highway construction crossing a former Food Machinery and Chemical Corporation (FMC) parcel; primary chemicals of concern (COC) are barium, lead, and strontium.
+This document is a formal regulatory letter from the California Department of Toxic Substances Control (DTSC) to the California Department of Transportation (Caltrans), not an academic paper. Its main contributions and findings are:
+- DTSC, in consultation with the Regional Water Quality Control Board (RWQCB), reviewed three groundwater monitoring reports (May, June, and July 2012) for the Modesto Soil Stockpiles site at State Route 99 and 132.
+- The soil stockpiles contain excess native soils and pond tailings from a 1960s construction project on a parcel formerly owned by Food Machinery and Chemical Corporation (FMC).
+- FMC processed barium sulfate, strontium sulfate ores, and other minerals. The primary chemicals of concern (COC) are barium, lead, and strontium.
+- The June 2012 report documents the installation of two new monitoring wells: MW-9 (south of Kansas Avenue, west of SR 99) and MW-10 (south of Kansas Avenue, east of SR 99).
+- DTSC concurs with the submitted groundwater monitoring reports and requests future reports be submitted as data becomes available.
 
 ## Methodology
-- Groundwater monitoring well sampling was implemented in May, June, and July 2012.
-- The June 2012 report also describes installation of two new monitoring wells: MW-9 (south of Kansas Avenue, west of SR 99) and MW-10 (south of Kansas Avenue, east of SR 99).
-- Analytical results from the well sampling are presented in the three subject reports; specific sampling protocols or analytical methods are not detailed in this letter.
+The study area comprises soil stockpiles at Modesto, California, on a 4.3-acre parcel formerly used by FMC for chemical manufacturing. Three rounds of groundwater monitoring were conducted in May, June, and July 2012 by Geocon Consultants. The June 2012 round included the installation of two additional monitoring wells (MW-9 and MW-10). The analytical results from these sampling events are presented in three separate reports.
 
 ## Results
-- Analytical results of groundwater monitoring well sampling were obtained for May, June, and July 2012 (specific numerical results are not provided in the letter; the reports themselves contain the quantitative data).
-- Primary COC identified in the soil stockpiles are barium, lead, and strontium, derived from historical processing of barium sulfate and strontium sulfate ores by FMC.
+No specific quantitative results (e.g., concentrations of barium, lead, or strontium) are provided in the letter. The document only states that the reports present "analytical results of groundwater monitoring well sampling" and that DTSC concurs with the findings.
 
 ## Limitations
-- No limitations or caveats are explicitly noted in the letter; DTSC simply concurs with the submitted reports.
-- The letter does not evaluate data quality, statistical significance, or potential gaps in monitoring coverage beyond the new wells installed.
+As a regulatory concurrence letter, this document does not discuss limitations or caveats. It only communicates DTSC’s concurrence and a request for future reporting.
 
 ## Concepts
-groundwater monitoring, chemicals of concern (COC), monitoring well installation, soil stockpiles, evaporation pond tailings, barium, lead, strontium, brownfields and environmental restoration, groundwater monitoring reports
+Chemicals of concern (COC), barium, lead, strontium, barium sulfate, strontium sulfate, groundwater monitoring, monitoring well installation, soil stockpiles, pond tailings, evaporation pond

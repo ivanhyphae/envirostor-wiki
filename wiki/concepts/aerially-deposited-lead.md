@@ -1,53 +1,62 @@
 ---
 concept: aerially-deposited-lead
 entity_type: concept
-aliases: ["ADL", "lead-contaminated soil"]
-sources: ["raw/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19 (1).pdf", "raw/RDIP All Figures.pdf", "raw/Stockpile 3 Confirmation Sampling Tech Memo Approval.pdf", "raw/OM Plan Comments (900259).pdf"]
-confidence: high
-created_at: 2026-06-04T03:22:14Z
+aliases: ["ADL", "lead from aerial deposition", "adl"]
+sources: ["S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19 (1).pdf", "Stockpiles 1 and 2 MSE Wall Sampling Plan.pdf", "raw/Draft Interim RACR_Text_Figures_Tables_ App A-C.pdf", "raw/RDIP All Figures.pdf"]
+confidence: medium
+created_at: 2026-06-04T08:17:52Z
 ---
 
-## Aerially Deposited Lead
+## Definition
 
-**Aerially deposited lead** (ADL) refers to lead contamination in soil that originates from atmospheric deposition of lead particulates, primarily from historical emissions of leaded gasoline and industrial sources. It is distinguished from "native" or geogenic lead and from lead introduced through direct, localized activities (e.g., on-site industrial operations, demolition debris). In environmental remediation contexts, ADL is often treated as a background condition that must be characterized to differentiate it from contamination caused by a specific site operator or release.
+**Aerially deposited lead** (ADL) refers to lead that has been transported through the atmosphere and subsequently deposited onto soil, vegetation, or other surfaces. In environmental remediation contexts, ADL is distinguished from lead that originates from on‑site sources (e.g., industrial spills, paint chips, or buried waste). The primary historic sources of ADL are combustion of leaded gasoline, emissions from smelters and battery recycling facilities, and industrial fugitive dust. Once deposited, lead accumulates in the upper soil horizon (typically the top 2–15 cm) and can persist for decades due to its low mobility in most soils.
 
-## How It Works
+ADL is frequently encountered at properties adjacent to major roadways, urban centers, or historical industrial zones. Because it is spatially diffuse and often intermixed with other lead sources, ADL can complicate soil management decisions – particularly when stockpiles or borrow areas are developed on formerly agricultural or vacant urban land that was never directly contaminated by a point source.
 
-ADL accumulates in surface soils through dry deposition and precipitation scavenging of airborne lead particles. Key characteristics include:
+## How it works
 
-- **Primary historical sources:** Combustion of leaded gasoline in automobiles (especially pre-1980s), emissions from smelters, battery recycling, and other industrial processes.
-- **Transport mechanism:** Lead particles attach to fine aerosols, travel downwind, and settle onto soil. Deposition rates are highest near roadways and urban centers but can extend over regional scales.
-- **Soil distribution:** ADL is typically concentrated in the upper 6–12 inches (0–30 cm) of soil. Concentrations decrease with depth unless soil has been mixed or disturbed.
-- **Persistence:** Lead is chemically stable in soil and does not biodegrade. ADL remains in the surface layer for decades to centuries without active remediation.
-- **Typical concentrations:** In urban and suburban environments, ADL can produce background soil lead levels of 50–400 mg/kg, with hotspots near high-traffic corridors exceeding 1,000 mg/kg. In rural areas, background may be 10–50 mg/kg.
+1. **Emission and transport**  
+   Lead particles are released into the atmosphere from exhaust (tetraethyl lead), high‑temperature industrial processes, or wind‑blown dust from contaminated sites. Fine particles (< 2.5 μm) can travel hundreds of kilometers; coarser particles settle closer to the source.
 
-In regulatory frameworks, ADL is often assessed by sampling soils from areas unaffected by on-site releases (e.g., beneath asphalt, in nearby parks, or at off-site reference locations). If on-site lead concentrations are statistically indistinguishable from off-site ADL levels, the contamination is deemed background rather than site-caused.
+2. **Deposition mechanisms**  
+   - **Dry deposition**: Settling under gravity or via impaction on surfaces during dry weather.  
+   - **Wet deposition**: Scavenging by rain, snow, or fog – particularly important for sub‑micron particles.  
+   The relative contribution depends on local climate, particle size distribution, and land cover.
+
+3. **Fate in soil**  
+   Lead is strongly sorbed to soil organic matter, clay minerals, and iron/manganese oxides. It tends to remain within the root zone unless physical mixing (tillage, grading, bioturbation) occurs. Leaching is minimal in neutral to alkaline soils; acidification can slowly remobilize it.
+
+4. **Implications for remediation**  
+   When earthmoving projects encounter soil with elevated lead from aerial deposition, the contamination is often heterogeneous and shallow. Distinguishing ADL from other lead sources is critical because:
+   - ADL does not indicate a **release from the site** under some regulatory frameworks (e.g., California’s Hazardous Waste Control Law).
+   - ADL may be exempt from certain cleanup action levels if it can be demonstrated to be ambient background.
+
+5. **Analytical differentiation**  
+   Methods include:
+   - Soil profile sampling to show enrichment only in the top horizon.
+   - Lead isotopic fingerprinting (²⁰⁶Pb/²⁰⁷Pb ratio) to match atmospheric signatures.
+   - Spatial correlation with known emission sources (road density, industrial history).
 
 ## Variants
 
-Several approaches exist for characterizing and managing ADL in environmental investigations:
+- **Road‑derived ADL**: Dominated by combustion of leaded gasoline; typically highest within 50 m of highways and decreases exponentially with distance.
+- **Urban background ADL**: Mixture of gasoline, industrial, and historical paint contributions; more spatially uniform across older city centers.
+- **Industrial plume ADL**: Concentrated in a downwind plume from a smelter, battery recycler, or incinerator; may include lead in association with other metals (e.g., arsenic, cadmium).
+- **Agricultural ADL**: From atmospheric deposition onto farmland over decades; common in regions with high historical leaded fuel consumption but no local contamination sources.
 
-- **Direct measurement of background soils:** Collecting soil samples from areas with known ADL influence but no on-site releases. For example, sampling beneath existing asphalt pavement that was present before site operations can capture pre-disturbance ADL.
-- **Statistical comparison with off-site reference areas:** Using datasets from nearby undeveloped lots, public lands, or regional soil surveys to establish a baseline. This is common in Remedial Investigation Reports (RIRs) and Removal Action Workplans (RAWPs).
-- **Depth-profiling to distinguish ADL from on-site releases:** ADL tends to produce a shallow, relatively uniform surface concentration. On-site releases (e.g., spills, stacking of lead-containing material) often extend deeper than 1 foot or show irregular vertical distribution.
-- **Isotopic fingerprinting:** Lead isotope ratios can sometimes differentiate ADL (originating from leaded gasoline's specific isotopic signature) from lead from other sources (e.g., industrial slag, painted surfaces).
-- **Regulatory default values:** Some jurisdictions (e.g., California Department of Toxic Substances Control, DTSC) define default ADL background concentrations based on land use (residential vs. industrial) and location (urban vs. rural). In the provided source documents, ADL is referenced as a factor in determining whether soil lead levels at a Caltrans stockpile warranted removal action or could be left in place.
+## Trade‑offs
 
-## Trade-offs
+- **Regulatory ambiguity**: Some jurisdictions allow ADL to be excluded from cleanup triggers if background levels are established, but demonstrating that lead is exclusively aerially deposited can be costly and may require extensive isotopic analyses.
+- **Heterogeneity**: ADL concentrations vary with distance from source, wind patterns, and surface roughness, making it difficult to characterize with a small number of samples.
+- **Removal depth**: Because ADL is shallow, conventional removal to 1 ft (0.3 m) commonly used for other lead contaminants may be excessive – but regulatory expectations often still require it.
+- **Stockpile management**: Soil containing ADL may be clean enough for off‑site reuse if it meets background levels, but stockpiling and re‑testing can add project costs. Mixing with clean soil may be prohibited if the ADL‑enriched layer is not completely removed.
+- **Health risk**: Though ADL concentrations are usually lower than those from point sources, they may still present a risk to children via direct ingestion of dust or soil. Risk‑based cleanup levels are therefore applied, not simply detection thresholds.
 
-- **Distinguishing ADL from site-caused contamination can be ambiguous.** In urban environments where both historical traffic and on-site activities contributed lead, separating the two is difficult and may lead to disputes over liability and cleanup scope.
-- **Remediation targets based on ADL may be less protective.** If ADL background is used to set cleanup levels, residual lead concentrations could still pose a risk, especially to children and pregnant women. Regulatory agencies often require that cleanup levels consider both background and health-based screening levels.
-- **ADL characterization adds cost and time.** Sampling at multiple locations, depth intervals, and reference sites increases project complexity. Isotopic analysis is expensive and not always conclusive.
-- **ADL is widespread and irreversible.** Because it covers large areas, remediation of ADL alone is rarely feasible; instead, it is managed through institutional controls (e.g., deed restrictions, soil management plans) or by excising it from the cleanup obligation.
-- **Risk perception and public concern.** Even if ADL is deemed "background," the public may view any elevated lead level as unacceptable, creating communication challenges for project proponents.
+## See also
 
-## See Also
-
-- Lead contamination in soil
-- Background soil concentration
-- Remedial investigation
-- Leaded gasoline
-- Soil screening levels
-- Caltrans environmental remediation practices
-- Total lead vs. bioaccessible lead
-- Institutional controls for contaminated land
+- Lead in soil  
+- Background concentrations in soil  
+- Leaded gasoline  
+- Soil remediation  
+- Atmospheric deposition of metals  
+- California Department of Transportation (Caltrans) environmental protocols

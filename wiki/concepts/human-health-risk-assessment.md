@@ -1,54 +1,62 @@
 ---
 concept: human-health-risk-assessment
 entity_type: concept
-aliases: ["HHRA", "risk assessment", "hhra"]
-sources: ["raw/04 04 2013 Final  SSI and HHRA 8.pdf", "raw/7084_S9525-06-44 Response to DTSC Workplan Comments.0912 (1).pdf", "04 04 2013 Final  SSI and HHRA 8 (1).pdf", "raw/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.pdf", "raw/09.20.2012 Final Caltrans Supplemental Site Characterization Workplan 2.pdf"]
+aliases: ["HHRA", "hhra"]
+sources: ["raw/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18.pdf", "raw/04 04 2013 Final SSI and HHRA 8.pdf", "raw/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.pdf", "raw/S9525-06-44 HHRA UPDATE Rev.0313.pdf", "raw/09.20.2012 Final Caltrans Supplemental Site Characterization Workplan 2.pdf"]
 confidence: medium
-created_at: 2026-06-04T03:23:43Z
+created_at: 2026-06-04T08:23:46Z
 ---
 
 ## Human Health Risk Assessment
 
 ### Definition
-Human Health Risk Assessment (HHRA) is a systematic, science-based process used to evaluate the potential adverse health effects in humans from exposure to environmental contaminants or hazardous agents. It integrates data from toxicology, epidemiology, exposure analysis, and environmental monitoring to characterize the nature and magnitude of risks to individuals and populations. HHRA is a key component of environmental management, regulatory decision-making, and site remediation projects, often conducted in conjunction with ecological risk assessment and site-specific investigations (SSI).
+
+Human Health Risk Assessment (HHRA) is a systematic, science‑based process used to estimate the nature and probability of adverse health effects in humans who may be exposed to hazardous substances or environmental contaminants. The assessment integrates information from exposure analysis, toxicology, and site‑specific conditions to quantify risks, often expressed as excess lifetime cancer risk or non‑cancer hazard indices. In contaminated site management, HHRA serves as the foundation for determining whether remediation is necessary and to what degree.
 
 ### How it works
-HHRA follows the framework established by the U.S. National Academy of Sciences (NRC, 1983) and adopted by agencies such as the U.S. Environmental Protection Agency (EPA), California Department of Toxic Substances Control (DTSC), and Caltrans. The process consists of four interconnected steps:
 
-1. **Hazard Identification** – Determines whether exposure to a chemical or agent can cause adverse health effects. Relies on toxicological data (e.g., animal studies, in vitro assays) and human epidemiological evidence. For environmental sites, this step identifies contaminants of potential concern (COPCs) based on detected concentrations.
+The HHRA process follows the four‑step framework established by the U.S. National Academy of Sciences and adopted by regulatory agencies:
 
-2. **Dose-Response Assessment** – Quantifies the relationship between the magnitude of exposure (dose) and the probability or severity of health effects. For non-carcinogens, this yields a reference dose (RfD) or reference concentration (RfC); for carcinogens, it produces a cancer slope factor (CSF) or unit risk estimate. These toxicity values are derived from studies under EPA guidelines.
+1. **Problem Formulation** – Identifies the contaminants of potential concern (COPCs), the exposed populations (e.g., residents, workers), and the exposure pathways (e.g., ingestion of soil, inhalation of dust). A conceptual site model (CSM) is developed to map how contaminants move from sources to receptors.
 
-3. **Exposure Assessment** – Estimates the frequency, duration, and magnitude of human contact with contaminants via relevant pathways (e.g., ingestion of soil/water, inhalation of dust or vapors, dermal contact). Uses site-specific data (soil concentrations, groundwater levels, soil vapor intrusion) combined with standard exposure factors (e.g., body weight, inhalation rate, time-activity patterns) to calculate an **intake** or **dose** over a defined period (acute, subchronic, or chronic). For example, a supplemental site characterization workplan for Caltrans might involve soil stockpile sampling to refine exposure assumptions for nearby residential areas.
+2. **Exposure Assessment** – Quantifies the magnitude, frequency, and duration of exposure for each pathway. Inputs include contaminant concentrations (e.g., from soil, groundwater, air), exposure factors (e.g., ingestion rates, body weight, exposure time), and fate‑and‑transport models. The result is an exposure dose or intake, often expressed as average daily dose (ADD) or lifetime average daily dose (LADD).
 
-4. **Risk Characterization** – Integrates the preceding steps to estimate the likelihood of health effects. For non-carcinogens, a **hazard quotient (HQ)** is calculated as the ratio of the estimated exposure dose to the RfD; an HQ > 1 indicates potential concern. For carcinogens, an **excess lifetime cancer risk (ELCR)** is estimated by multiplying the lifetime average daily dose by the CSF; risks are usually compared to a target range (e.g., 1×10⁻⁶ to 1×10⁻⁴). The HHRA also includes uncertainty analysis and may incorporate site-specific adjustments (e.g., bioavailability corrections).
+3. **Toxicity Assessment** – Determines the relationship between the magnitude of exposure and the likelihood or severity of adverse health effects. For carcinogens, a cancer slope factor (CSF) or unit risk factor is used. For non‑carcinogens, a reference dose (RfD) or reference concentration (RfC) is derived, often incorporating uncertainty factors. These values are obtained from toxicity databases (e.g., EPA IRIS, CalEPA).
 
-The HHRA is often documented as part of a combined Site-Specific Investigation and Human Health Risk Assessment (SSI/HHRA) report, as indicated by source filenames. It supports cleanup goals and remedial action objectives (RAOs) in feasibility studies (FS) and response to regulatory comments from agencies like DTSC.
+4. **Risk Characterization** – Combines exposure and toxicity information to estimate risk. For carcinogens: *Risk = LADD × CSF*. For non‑carcinogens: *Hazard Quotient (HQ) = ADD / RfD*. Risks are summed across pathways and contaminants. The resulting cancer risk (e.g., 1×10⁻⁵) and hazard index (HI = sum of HQs) are compared to risk benchmarks (e.g., 1×10⁻⁶ to 1×10⁻⁴ for cancer, HI ≤ 1 for non‑cancer). Uncertainties are explicitly discussed.
+
+In practice, HHRA is iterative; screening‑level assessments (using conservative default assumptions) may trigger a more refined assessment using site‑specific data and probabilistic methods.
 
 ### Variants
-- **Baseline HHRA** – Assesses risks under current conditions without remediation.
-- **Remedial Action HHRA** – Evaluates risks remaining after a cleanup action.
-- **Screening-Level HHRA** – Uses conservative (upper-bound) assumptions to quickly identify whether a site poses potential risks; if screening thresholds are exceeded, a more refined assessment is performed.
-- **Probabilistic HHRA** – Replaces point estimates with probability distributions for key parameters (e.g., exposure frequency, body weight), allowing quantification of uncertainty in risk estimates (Monte Carlo simulation).
-- **Cumulative HHRA** – Considers aggregate exposure to multiple contaminants via multiple pathways and routes (e.g., California’s CalEnviroScreen approach).
-- **Human Health and Ecological Risk Assessment** – Combined assessment often required for contaminated sites, though the two components may be conducted separately.
 
-### Trade-offs
-- **Conservatism vs. Realism** – Screening-level assessments overestimate risk to ensure protection, but can trigger unnecessary remediation. Refined HHRAs reduce conservatism but require more site-specific data and resources.
-- **Data Gaps and Uncertainty** – Limited toxicological data for many contaminants (e.g., PFAS, emerging chemicals) forces reliance on default values. Uncertainty in exposure parameters (e.g., ingestion rates for children) may dominate risk estimates.
-- **Site-Specific Adaptation** – Generic exposure factors may not reflect local demographics (e.g., subsistence farmers vs. suburban residents). Customizing assumptions improves relevance but increases cost.
-- **Regulatory Inconsistency** – Different jurisdictions (EPA, DTSC, Caltrans) may use different toxicity values or target risk levels, complicating multi-agency projects.
-- **Time and Cost** – A full HHRA can take months to years and cost hundreds of thousands of dollars. Screening methods are quicker but may not satisfy regulatory requirements for detailed remedial decisions.
+- **Screening‑Level Risk Assessment** – Uses conservative (upper‑bound) exposure parameters and toxicity values to quickly identify whether contaminants are below levels of concern. Often the first step before more detailed evaluation.
+
+- **Baseline Human Health Risk Assessment** – Performed before any remediation to characterize existing risks at a site. Provides the justification for cleanup actions.
+
+- **Updated / Refined Risk Assessment** – Incorporates additional data (e.g., new monitoring results, site‑specific exposure factors) and more sophisticated exposure models (e.g., Monte Carlo simulation) to reduce uncertainty. Example: the *HHRA Update* in the Caltrans Modesto project incorporated new soil gas and groundwater data to refine exposure concentrations.
+
+- **Probabilistic Risk Assessment** – Uses probability distributions for input variables (e.g., soil concentration, ingestion rate) instead of point estimates, yielding a distribution of risk values that better communicates uncertainty.
+
+- **Comparative Risk Assessment** – Evaluates risk trade‑offs among alternative remediation technologies (e.g., excavation vs. capping) or among different management actions.
+
+### Trade‑offs
+
+- **Conservatism vs. Realism** – Screening assessments overestimate risk to ensure protection, but may lead to unnecessary remediation. Refined assessments are more accurate but require extensive site‑specific data and resources.
+
+- **Data Requirements** – A full HHRA demands high‑quality chemical analyses, toxicity values, exposure factors, and site characterization (e.g., soil, groundwater, air). Incomplete data increase uncertainty.
+
+- **Uncertainty Management** – Variability in human behavior, environmental conditions, and toxicity assumptions is inherent. Conservative defaults can mask the true distribution of risk; probabilistic methods better capture variability but are complex and may be less transparent to stakeholders.
+
+- **Regulatory Acceptability** – Different agencies (US EPA, state equivalents) may have different risk benchmarks or require specific exposure scenarios (e.g., residential vs. industrial). Aligning with multiple jurisdictions can be challenging.
+
+- **Cost vs. Benefit** – Conducting a detailed HHRA can be expensive and time‑consuming. For low‑priority sites, a screening‑level approach may suffice, whereas for high‑risk sites, the investment in a refined assessment can avoid over‑remediation.
 
 ### See also
-- Site-Specific Investigation
-- Ecological Risk Assessment
-- Toxicology
-- Exposure Pathway Analysis
-- Remedial Action Objectives
-- Feasibility Study
-- DTSC (California Department of Toxic Substances Control)
-- Caltrans Environmental Guidance
-- Risk Management vs. Risk Assessment
 
----
+- Exposure Assessment
+- Toxicity Assessment
+- Risk Characterization
+- Environmental Site Assessment
+- Conceptual Site Model
+- Remedial Action Objectives
+- Probabilistic Risk Assessment

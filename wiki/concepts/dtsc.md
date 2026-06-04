@@ -1,68 +1,49 @@
 ---
 concept: dtsc
 entity_type: concept
-aliases: ["California Department of Toxic Substances Control", "department-of-toxic-substances-control", "california-department-of-toxic-substances-control", "Department of Toxic Substances Control"]
-sources: ["raw/Carpenter Road Shoofly Clean Fill Tech Memo.pdf", "raw/Borrow Area Results Tech Memo Approval.pdf", "raw/DTSC Letter Response - 2025 GW Monitoring Report (900259) (1).pdf", "raw/7083_S9525-06-44 Modesto Soil Stockpiles Fenceline Workplan.0912 (1).pdf", "raw/Approval of GW Statistical Evaluation (900259).pdf", "raw/Errata Transmittal 2-6-2020.pdf", "raw/DTSC Approval E-mail for Carpenter Shoofly Clean Fill Sampling Plan.pdf", "raw/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19 (1).pdf", "3.14.2018 - Approval letter for SR 132 RAP.pdf", "Acceptance E-mail_Stockpiles 1 and 2 MSE Wall Sampling Plan.pdf", "Borrow Area Sampling Plan Approval E-Mail.pdf", "GND Water Monitoring Rpt March 2102.pdf", "RDIP Errata Acceptance.pdf", "Draft Interim RACR_ App D-G.pdf", "E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo.pdf", "11 29 2012 Caltrans GND Water Monitoring Rpts (2).pdf", "DTSC E-mail Approval of Carpenter Shoofly Tech Memo.pdf", "S2350-01-02 Well Destruction Report_6.25.pdf", "04 04 2013 Final  SSI and HHRA 8 (1).pdf", "raw/Acceptance Letter_Final Removal Action Completion Report_Modesto Soil Stockpiles (900259).pdf", "raw/DTSC Approval Response for final version of Well Destruction Report.pdf", "raw/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo.pdf", "raw/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18.pdf", "raw/7084_S9525-06-44 Response to DTSC Workplan Comments.0912.pdf", "raw/E-mail Acceptance of Bent 2 Soils Tech Memo.pdf", "raw/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.pdf", "raw/Stockpile 2 Confirmation Sampling Tech Memo Approval.pdf", "raw/09.20.2012 Final Caltrans Supplemental Site Characterization Workplan 2.pdf"]
+aliases: ["California Department of Toxic Substances Control", "DTSC"]
+sources: ["DTSC Approval Response for final version of Well Destruction Report.pdf", "RDIP Errata Acceptance.pdf", "SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020.pdf", "Bent 2 Stockpiles Tech Memo.pdf", "Acceptance Letter_Final Removal Action Completion Report_Modesto Soil Stockpiles (900259).pdf", "S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19 (1).pdf", "DTSC E-mail Approval of Carpenter Shoofly Tech Memo.pdf"]
 confidence: high
-created_at: 2026-06-04T03:19:55Z
+created_at: 2026-06-04T08:15:26Z
 ---
-
-# DTSC (Department of Toxic Substances Control)
 
 ## Definition
 
-DTSC is the California Environmental Protection Agency department responsible for regulating hazardous waste management, overseeing site remediation, and protecting public health and the environment from toxic substances. In the context of environmental remediation projects, DTSC serves as the lead regulatory agency that reviews and approves workplans, technical memoranda, remedial action plans, and compliance documentation for contaminated sites requiring cleanup under state oversight.
+**Dtsc** is the commonly used abbreviation for the **California Department of Toxic Substances Control** (DTSC), the state agency responsible for regulating hazardous waste management, overseeing site cleanups, and protecting public health and the environment from toxic substances. The term appears in official correspondence, technical memoranda, and approval letters related to environmental remediation projects (e.g., well destruction reports, soil stockpile management, removal action completion reports).
 
-## How It Works
+## How it works
 
-DTSC operates through a structured regulatory framework where responsible parties (such as Caltrans) submit technical documents for review and written approval before proceeding with field work. The approval process follows a sequential review cycle:
+DTSC operates under the California Environmental Protection Agency (CalEPA) and enforces state and federal hazardous waste laws, including the **Resource Conservation and Recovery Act (RCRA)** and **California’s Hazardous Waste Control Law**. Its primary functions relevant to the provided documents include:
 
-1. **Workplan Submission**: Responsible parties submit detailed workplans or technical memoranda describing proposed investigation or remediation activities, including sampling methodology, analytical procedures, health and safety plans, and quality assurance/quality control measures.
+- **Site cleanup oversight**: DTSC reviews and approves work plans, technical memos, and completion reports for contaminated sites. For example, the *DTSC Approval Response for final version of Well Destruction Report* and *DTSC E-mail Approval of Carpenter Shoofly Tech Memo* show the agency’s role in vetting specific remediation actions.
+- **Stockpile management**: Monitoring and approving the handling, storage, and disposal of contaminated soil or waste stockpiles (as seen in *Bent 2 Stockpiles Tech Memo* and *Caltrans Modesto Stockpile RDIP*).
+- **Removal action completion**: Issuing acceptance letters (e.g., *Acceptance Letter_Final Removal Action Completion Report_Modesto Soil Stockpiles*) to confirm that cleanup activities meet regulatory standards.
+- **Technical guidance**: Providing errata and corrective instructions (e.g., *RDIP Errata Acceptance.pdf*) to ensure consistency and accuracy in reporting.
+- **Clean fill determination**: Evaluating whether materials qualify as “clean fill” and can be reused without further treatment (e.g., *SR 132 Basin 5 Clean Fill Tech Memo*).
 
-2. **Technical Review**: DTSC staff evaluate submissions for regulatory compliance, technical adequacy, and consistency with site cleanup goals. This review includes statistical evaluations of groundwater monitoring data, confirmation sampling results, and assessment of remedial action completion.
-
-3. **Written Approval**: DTSC issues formal acceptance letters or email approvals before work can proceed. Key examples include approvals for the Clean Fill Sampling Plan for Carpenter Road Shoofly, the Borrow Area Results Tech Memo, and the Stockpile 2 Confirmation Sampling Tech Memo.
-
-4. **Oversight and Reporting**: DTSC reviews periodic monitoring reports, including annual groundwater monitoring reports and removal action completion reports, to ensure ongoing compliance with cleanup standards.
-
-5. **Final Acceptance**: Upon completion of remedial actions, DTSC issues formal acceptance letters such as the Acceptance Letter for the Final Removal Action Completion Report for Modesto Soil Stockpiles.
+DTSC typically requires submittal of plans, data reports, and technical memos; the agency then issues formal approvals, conditional acceptances, or denials based on compliance with established cleanup standards (e.g., California Human Health Screening Levels, site-specific risk assessments).
 
 ## Variants
 
-DTSC regulatory programs involve several distinct oversight mechanisms:
+While “Dtsc” is a fixed acronym for one agency, several operational variants or related entities exist:
 
-- **Removal Action Workplans (RAW)**: Required for immediate threat removal actions, such as the $Modesto Soil Stockpiles RAP$ approved in March 2018.
+- **Regional DTSC offices**: DTSC has multiple regional offices (e.g., Berkeley, Chatsworth, Cypress) that handle local projects. The documents sourced may refer to any of these offices.
+- **DTSC’s Site Mitigation and Restoration Program**: The program specifically overseeing cleanup of contaminated sites, including the approvals described in the source files.
+- **DTSC’s Hazardous Waste Management Program**: Regulates generators, transporters, and facilities handling hazardous waste; occasionally overlaps with cleanup projects.
+- **Codified equivalents**: The same entity may be referenced as “California DTSC” or simply “the Department” in official texts.
 
-- **Removal Design Implementation Plans (RDIP)**: Detailed engineering designs for long-term remedy implementation, such as the $S1200-01-01 RDIP$ for Modesto Stockpiles.
+## Trade-offs
 
-- **Feasibility Studies (FS)**: Evaluations of remedial alternatives, such as the $Final FS Report$ (S9800-01-17) for Modesto Soil Stockpiles.
-
-- **Supplemental Site Characterization Workplans**: Additional investigation documents when initial characterization is insufficient, like the $09.20.2012 Final Caltrans Supplemental Site Characterization Workplan$.
-
-- **Technical Memoranda**: Targeted technical documents for specific issues, including clean fill sampling plans, borrow area results, wall footing soils testing, and well destruction reports.
-
-- **Groundwater Monitoring Reports**: Annual compliance reports evaluating groundwater quality trends using statistical methods approved by DTSC.
-
-## Trade-Offs
-
-**Key considerations in DTSC oversight:**
-
-- **Approval timelines**: All field activities require formal DTSC approval before commencement, which can delay urgent remediation work while awaiting written acceptances.
-
-- **Documentation burden**: Extensive technical documentation is required for each phase, including errata transmittals, updated workplans responding to DTSC comments, and multiple rounds of revisions.
-
-- **Statistical rigor**: DTSC requires thorough statistical evaluation of monitoring data, which adds complexity but ensures defensible conclusions about groundwater trends and remediation effectiveness.
-
-- **Multiple agency coordination**: Projects often require approval from both DTSC and other agencies such as the Regional Water Quality Control Board, as seen in well destruction and water monitoring reports.
-
-- **Cost implications**: The rigorous review process can increase project costs for consultants preparing documents and for the responsible party managing extended timelines.
+- **Regulatory rigor vs. project speed**: DTSC’s detailed review processes ensure environmental protection but can delay remediation schedules, as each technical memo and report must be formally approved before proceeding.
+- **Cost of compliance**: Meeting DTSC’s data quality, documentation, and cleanup standards can increase project costs significantly (e.g., extensive soil sampling, groundwater monitoring, well destruction).
+- **Flexibility in cleanup standards**: DTSC may allow site-specific risk-based cleanup levels, offering cost savings, but this requires additional justification and negotiation, adding complexity.
+- **Public involvement**: DTSC requires public notice and comment periods for significant actions, which can be beneficial for community trust but prolong the process.
 
 ## See also
 
-- Caltrans Environmental Remediation
-- Modesto Soil Stockpiles
-- Groundwater Statistical Evaluation
-- Removal Action Completion Report
-- Hazardous Waste Management (California)
-- Feasibility Study
-- Clean Fill Standards
+- California Environmental Protection Agency
+- Hazardous Waste Management
+- Environmental Remediation
+- Resource Conservation and Recovery Act
+- Risk Assessment (Environmental)
+- Clean Fill

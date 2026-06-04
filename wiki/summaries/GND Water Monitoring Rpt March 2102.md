@@ -2,27 +2,30 @@
 source: raw/GND Water Monitoring Rpt March 2102.pdf
 source_type: paper
 source_hash: sha256:6dac969a11981f6bfcd379aef97ece146bf6c948ed9c4e37d8d82348c13c7345
-compiled_at: 2026-06-04T03:11:03Z
+compiled_at: 2026-06-04T07:56:09Z
 chunk_count: 1
 ---
 
 ## Key claims
-- The Department of Toxic Substances Control (DTSC) concurs with the “Groundwater Monitoring Report, California Department of Transportation (Caltrans) Modesto Soil Stockpiles – State Route 99 and 132, Modesto, California” (prepared by Geocon Consultants, May 2012).
-- Primary chemicals of concern (COC) are barium, lead, and strontium, derived from historical chemical manufacturing by FMC (Food Machinery and Chemical Corporation) at the site.
-- DTSC requests that future reports include comparisons of concentration trends over time, graphs/maps of COC trends, and legends on all graphics (including “stiff” diagrams). Quarterly groundwater monitoring should continue at a minimum.
+- The paper (Geocon Consultants, May 2012) reports analytical results from groundwater monitoring well sampling at the Caltrans Modesto Soil Stockpiles (State Routes 99 and 132) on March 12, 2012, with reference to earlier sampling events in October 2006 and June 2006.
+- Primary chemicals of concern (COCs) are barium, lead, and strontium, originating from historical chemical manufacturing by Food Machinery and Chemical Corporation (FMC) and its predecessors.
+- The Department of Toxic Substances Control (DTSC) concurs with the report’s findings and recommends continued quarterly monitoring with enhanced trend analysis and graphical presentation.
 
 ## Methodology
-- Groundwater monitoring well sampling was conducted on March 12, 2012; earlier sampling events occurred on October 5, 2006, and June 14, 2006.
-- Monitoring wells were installed in 2006 to assess impacts from soil stockpiles (excess native soils and pond tailings generated during SR 99 construction in the early 1960s).
-- “Split” water samples were collected during the March 2012 event.
-- The site is a portion of a 4.3-acre parcel purchased from FMC, which contained an evaporation pond in its southernmost corner.
+- Groundwater monitoring wells were installed in 2006.
+- Sampling events: June 14, 2006; October 5, 2006; and March 12, 2012 (split water samples collected during the latter).
+- Future monitoring is recommended on a quarterly schedule to track COC concentrations over time.
+- Specific details (e.g., number of wells, analytical methods, detection limits) are not provided in the DTSC response; these would be found in the original Geocon report.
 
 ## Results
-- No specific numerical analytical results are presented in this letter. The letter only notes that the subject report provides analytical results of the groundwater monitoring.
+- No specific quantitative concentration values are presented in the DTSC letter.
+- DTSC indicates acceptance of the report’s results (no exceedances or violations noted).
+- Requests for future reports include graphical comparisons of concentration trends (using graphs, maps, and stiff diagrams with legends).
 
 ## Limitations
-- No limitations are explicitly stated. The letter implies that earlier reports lacked sufficient trend analysis and graphic legends; DTSC requests improvements in these areas.
-- The monitoring frequency is currently quarterly, but the letter does not discuss statistical power or completeness of the dataset.
+- The report, as reviewed, does not include a comparative discussion of groundwater monitoring results and concentration trends from previous sampling events.
+- Existing graphics (e.g., stiff diagrams) lack legends defining symbols and colors used.
+- The need for long-term trend analysis is identified; DTSC requests that future reports incorporate such analysis and improved graphics.
 
 ## Concepts
-barium, lead, strontium, chemicals of concern (COC), stiff diagrams, split samples, quarterly groundwater monitoring, evaporation pond, pond tailings, native soils
+Groundwater monitoring, split water sampling, chemicals of concern (COCs), stiff diagrams, quarterly monitoring schedule, trend analysis, barium, lead, strontium

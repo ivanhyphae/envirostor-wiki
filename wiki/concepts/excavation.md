@@ -1,58 +1,46 @@
 ---
 concept: excavation
 entity_type: technique
-aliases: ["digging"]
-sources: ["raw/SR 132 Stockpile 2 BCS Removal Tech Memo.pdf", "raw/Stockpile 2 BCS Foundation Spoil Workplan Tech Memo.pdf", "raw/E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan.pdf"]
-confidence: high
-created_at: 2026-06-04T03:20:22Z
+aliases: ["soil excavation", "foundation excavation"]
+sources: ["Bent 2 Stockpiles Tech Memo.pdf", "06A2542ct_to16_SurfaceWaterLetter _final.20210323.pdf", "Stockpile 2 BCS Foundation Spoil Workplan Tech Memo.pdf", "SR 132 Stockpile 2 BCS Removal Tech Memo.pdf"]
+confidence: medium
+created_at: 2026-06-04T08:19:50Z
 ---
 
-## Excavation
+## Definition
 
-### Definition
+**Excavation** is the process of mechanically removing earth, rock, or engineered fill from a designated area to achieve a required grade, depth, or volume. In the context of environmental and construction projects—such as those described in the provided stockpile and surface-water tech memos—excavation typically targets contaminated soil, debris, or foundation spoil for off-site disposal or beneficial reuse.
 
-Excavation is the process of removing earth, rock, or other materials from a site to create a cavity, trench, foundation, or to access subsurface materials. In construction and environmental remediation, excavation typically involves the mechanical removal of soil to achieve design grades, expose utilities, or extract contaminated material for off-site disposal or treatment.
+## How it works
 
-### How it works
+Excavation proceeds through a sequence of planning, removal, and verification steps:
 
-Excavation generally follows a structured workflow:
+1. **Site preparation** – The excavation area is cleared of vegetation, utilities are located, and erosion/sediment controls (e.g., silt fences, sediment basins) are installed to manage surface water runoff as noted in the *SurfaceWaterLetter* memo.
+2. **Digging and loading** – Hydraulic excavators, backhoes, or bulldozers remove material to predetermined depths. Loads are transported by dump trucks to temporary stockpiles (see Stockpile Management) or directly to disposal/receiving facilities.
+3. **Stockpiling and segregation** – Excavated materials are sorted by contaminant type or soil characteristics. The *Stockpile 2 BCS Foundation Spoil Workplan* memo describes stockpiling foundation spoil separately from other fractions to avoid cross‑contamination.
+4. **Water management** – Dewatering may be required if the excavation extends below the water table. The *SurfaceWaterLetter* memo emphasizes the need for a site‑specific water management plan to prevent uncontrolled discharge.
+5. **Verification and closure** – After excavation, sidewalls and floors are tested (e.g., for chemical parameters) to confirm that cleanup goals have been met. The *Stockpile 2 BCS Removal Tech Memo* documents confirmation sampling and subsequent backfill or restoration.
 
-1. **Site preparation**: Clearing vegetation, establishing access roads, and installing erosion control measures. Surveying establishes baseline grades and excavation limits.
+## Variants
 
-2. **Staging and segregation**: Excavated materials are often sorted by type (e.g., topsoil, structural fill, contaminated soil) and placed in designated stockpile areas. In remediation projects, materials may be segregated by contamination level to optimize disposal costs—clean material may be reused on-site, while impacted material is hauled to permitted facilities.
+- **Bulk excavation** – Large‑volume removal without selective segregation, common in mass grading or borrow‑source operations.
+- **Trench excavation** – Narrow, linear cuts for utilities or foundations; often requires shoring to prevent wall collapse.
+- **Selective excavation** – Targeted removal of contaminated or unsuitable layers, typically guided by prior site investigation (e.g., of hot‑spots in brownfield projects).
+- **Beneficial Consumption and Storage (BCS) excavation** – A specific variant mentioned in the provided memos where excavated material (foundation spoil) is handled under a BCS workplan for potential on‑site reuse or off‑site beneficial use, subject to regulatory approval.
 
-3. **Removal**: Mechanical equipment (excavators, backhoes, bulldozers) removes material to specified depths and lateral limits. For mechanically stabilized earth (MSE) wall foundations, excavation typically extends to competent bearing strata, with the bottom of excavation confirmed by a geotechnical engineer.
+## Trade-offs
 
-4. **Quality control**: During active excavation, field personnel monitor for signs of contamination (e.g., staining, odor) and may collect samples for laboratory analysis. Daily inspection reports document volumes, material classifications, and any variances from the work plan.
+- **Cost vs. volume** – Excavation is among the most cost‑effective remediation methods for shallow contamination but becomes exponentially more expensive with depth due to increased dewatering, shoring, and disposal fees.
+- **Speed vs. selective removal** – Bulk excavation is fast but may mix clean and contaminated soil, increasing disposal volumes. Selective excavation reduces waste but requires more sampling and slower, precision equipment.
+- **Water management complexity** – Dewatering can introduce contaminants to surface waters if not properly treated; the *SurfaceWaterLetter* memo highlights the need for permits and treatment systems, which add time and cost.
+- **Stockpile logistics** – As shown in the *Bent 2 Stockpiles Tech Memo*, stockpiling requires space, erosion controls, and potential lining to prevent leachate; failure to manage these can lead to regulatory non‑compliance.
 
-5. **Backfill and compaction**: After excavation is complete, structural fill is placed in lifts and compacted to specified densities. For wall foundations, this may involve placing reinforced backfill within the MSE wall reinforced zone.
+## See also
 
-### Variants
-
-- **Structural excavation**: For building foundations, retaining walls, or bridge abutments. Typically requires precise grade control and may involve shoring or dewatering.
-
-- **Remedial excavation**: Removal of contaminated soil to achieve cleanup goals. Often managed under a Removal Action Workplan (RAW) or similar regulatory document. Materials are characterized and segregated by contamination type (e.g., petroleum hydrocarbons, metals) for off-site disposal at permitted facilities.
-
-- **Trench excavation**: Narrow, linear excavations for utilities (water, sewer, gas, electrical). Often requires trench safety systems (shoring, sloping) to protect workers.
-
-- **Stockpile management**: Temporary storage of excavated materials. Stockpiles are constructed with stable slopes, covered to minimize dust and erosion, and sampled to determine final disposition (reuse, treatment, or disposal).
-
-### Trade-offs
-
-- **Cost vs. risk**: More extensive excavation increases costs due to hauling, disposal fees, and backfill material. However, insufficient excavation may leave contamination in place, leading to future liability or structural performance issues.
-
-- **Progress vs. quality**: Rapid excavation can compromise segregation of materials, leading to mixing of clean and contaminated soils. This increases disposal volumes and costs. Detailed inspection and slower, methodical removal reduces this risk.
-
-- **Equipment access**: Large equipment requires adequate workspace and stable ground. In constrained sites (e.g., between existing walls), smaller equipment or manual excavation may be necessary, reducing productivity.
-
-- **Environmental controls**: Excavation generates dust, noise, and runoff. Mitigation measures (water spraying, noise barriers, silt fencing) add cost but may be required by permits or community agreements.
-
-### See also
-
-- Stockpile
-- Mechanically stabilized earth
-- Removal Action Workplan
-- Foundation
-- Soil remediation
-- Compaction
-- Geotechnical investigation
+- Earthwork
+- Stockpile Management
+- Contaminated Soil Remediation
+- Dewatering
+- Excavation Safety
+- Soil Disposal
+- Site Grading

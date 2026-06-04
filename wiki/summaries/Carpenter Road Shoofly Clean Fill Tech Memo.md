@@ -2,32 +2,42 @@
 source: raw/Carpenter Road Shoofly Clean Fill Tech Memo.pdf
 source_type: paper
 source_hash: sha256:e4c9d304183da636837e803b38da7fe92d8685291acf54a29d47a87065382030
-compiled_at: 2026-06-04T03:00:32Z
+compiled_at: 2026-06-04T08:03:06Z
 chunk_count: 1
 ---
 
 ## Key claims
-- Approximately 5,000 cubic yards of native soil from the Carpenter Road Shoofly will be excavated after overcrossing construction and proposed as clean capping material for barium-containing soil (BCS) Stockpiles 1 and 2, pending California Department of Toxic Substances Control (DTSC) approval.
-- Barium concentrations in all 10 composite soil samples ranged from 28 to 96 mg/kg, all below the maximum site-specific background value of 120 mg/kg.
-- Lead was detected in 9 of 10 samples at concentrations ranging from 1.4 to 3.8 mg/kg, with the highest value equal to the maximum site-specific background concentration of 3.8 mg/kg.
-- The soil material meets the BCS clean cap criteria established in the referenced variance document approved by DTSC (upperbound background threshold for barium of 120 mg/kg).
+- Soil excavated from the Carpenter Road Shoofly (approx. 5,000 cubic yards) meets the barium (Ba) and lead (Pb) clean cap criteria established in a DTSC-approved variance document.
+- All measured barium concentrations (28–96 mg/kg) are below the maximum site-specific background value of 120 mg/kg.
+- All measured lead concentrations (1.4–3.8 mg/kg) are at or below the maximum site-specific background value of 3.8 mg/kg.
+- The excavated material is suitable for use as clean capping material over barium-containing soil (BCS) Stockpiles 1 and 2.
 
 ## Methodology
-- 24 discrete soil samples were collected from the Carpenter Road Shoofly along six vertical transects (CSF1 through CSF6) at depths of 2, 5, 10, and 15 feet from the top of the slope.
-- Samples were placed in Ziploc bags and transported to California Laboratory Services (CLS) under chain-of-custody protocol.
-- The laboratory composited three discrete soil samples from the same elevation along each slope face, producing eight 3-part composite samples.
-- Composite samples were analyzed for barium and lead using EPA Test Method 6010B with a 48-hour expedited turnaround time.
-- Results were compared against site-specific maximum background values: 120 mg/kg for barium and 3.8 mg/kg for lead.
+- **Sample collection**: 24 discrete soil samples were collected from six vertical transects (CSF1 through CSF6) along the slope face of the Carpenter Road Shoofly. Samples were taken at depths of 2, 5, 10, and 15 feet from the top of the slope.
+- **Composite preparation**: The laboratory composited three discrete samples from the same elevation along opposite slope faces, yielding eight 3-part composite samples.
+- **Analytical method**: Composite samples were analyzed for total barium and lead using EPA Method 6010B with a 48-hour expedited turnaround.
+- **Quality control**: Laboratory control samples (LCS) and matrix spike/matrix spike duplicates (MS/MSD) were analyzed; recovery and RPD results fell within acceptable limits (75–125% recovery, RPD ≤30%).
+- **Criteria**: Results were compared to maximum site-specific background concentrations (barium: 120 mg/kg; lead: 3.8 mg/kg) as approved by DTSC.
 
 ## Results
-- Barium: detected in all 10 samples at 28, 52, 66, 74 (two samples), 80, and 96 mg/kg; all below the 120 mg/kg background threshold.
-- Lead: detected in 9 of 10 samples at 1.4, 1.6, 1.7, 2.0, 2.9, 3.2, and 3.8 mg/kg; one sample (CSF1, CSF2, CSF3-15) reported as non-detect (<1.3 mg/kg); all values ≤ 3.8 mg/kg background threshold.
-- Quality control: laboratory control sample recoveries were 107% for barium and 105% for lead; matrix spike recoveries were 107% (barium) and 95% (lead); relative percent differences (RPD) between matrix spike duplicates were 0.8% (barium) and 3% (lead), within the 30% limit.
+- **Barium**: Detected in all 8 composite samples. Concentrations ranged from 28 to 96 mg/kg (reporting limit 1.2 mg/kg). All values are below the background threshold of 120 mg/kg.
+- **Lead**: Detected in 7 of 8 composites (one sample had lead below the reporting limit of 1.3 mg/kg). Concentrations ranged from 1.4 to 3.8 mg/kg. All detected values are ≤ 3.8 mg/kg (the background maximum). The composite CSF1,CSF2,CSF3-15 reported lead as not detected (<1.3 mg/kg).
+- **Key sample results** (mg/kg):
+  - CSF1,CSF2,CSF3-2: Ba 96, Pb 3.8
+  - CSF1,CSF2,CSF3-5: Ba 66, Pb 1.7
+  - CSF1,CSF2,CSF3-10: Ba 52, Pb 1.4
+  - CSF1,CSF2,CSF3-15: Ba 28, Pb <1.3
+  - CSF4,CSF5,CSF6-2: Ba 74, Pb 2.9
+  - CSF4,CSF5,CSF6-5: Ba 74, Pb 2.0
+  - CSF4,CSF5,CSF6-10: Ba 80, Pb 3.2
+  - CSF4,CSF5,CSF6-15: Ba 39, Pb 1.6
 
 ## Limitations
-- The study is specific to the Carpenter Road Shoofly location within the State Route 132 right-of-way in Modesto, California, and results may not generalize to other sites.
-- Only two contaminants (barium and lead) were tested; other potential contaminants are not addressed.
-- The memo does not discuss long-term stability of the cap or potential leaching under varying environmental conditions.
+- The study only assessed barium and lead; other potential contaminants were not considered.
+- Composite sampling may mask localized hotspots (e.g., high concentration in one discrete sample could be diluted by lower concentrations in the other two).
+- The sample set is limited to 6 transects and 4 depths; spatial variability across the full shoofly may not be fully captured.
+- The memo does not address long-term stability or leaching behavior of barium/lead in the capping material.
+- The “clean cap criteria” are site-specific and were pre-approved by DTSC; generalizability to other projects requires similar regulatory concurrence.
 
 ## Concepts
-EPA Test Method 6010B, barium-containing soil (BCS), clean capping material, composite soil samples, site-specific background threshold, chain-of-custody protocol, inductively coupled plasma atomic emission spectrometry (ICP-AES)
+barium-containing soil (BCS), clean cap criteria, site-specific background concentration, EPA Method 6010B, composite sampling, vertical transect, soil excavation, chain-of-custody protocol, California Department of Toxic Substances Control (DTSC), removal action completion report

@@ -1,71 +1,52 @@
 ---
 concept: verification-sampling
 entity_type: technique
-aliases: ["compliance sampling"]
-sources: ["raw/SR 132 Stockpile 2 BCS Removal Tech Memo.pdf"]
+aliases: ["confirmation sampling", "verification testing"]
+sources: ["raw/Acceptance Letter Draft Interim RACR (900259).pdf", "raw/example-racr.md", "raw/SR 132 Stockpile 3 BCS Removal Tech Memo.pdf"]
 confidence: high
-created_at: 2026-06-04T03:20:15Z
+created_at: 2026-06-04T08:21:29Z
 ---
 
-## Verification Sampling
+## Definition
 
-### Definition
+**Verification sampling** is the systematic collection and analysis of environmental media (e.g., soil, groundwater, air) after a remedial action has been completed to confirm that established cleanup goals, regulatory thresholds, or performance standards have been met. The process provides a statistically defensible basis for demonstrating that residual contamination falls within acceptable limits and that further action is not required. In the context of contaminated site remediation, verification sampling is the final quality assurance step before site closure or transition to long-term management.
 
-Verification Sampling is a quality control procedure used to confirm that a predetermined standard (such as a concentration, measurement, or composition) has been achieved, by collecting and analyzing a subset of material or data after a process has been completed. It is a confirmatory step distinct from routine monitoring, intended to independently validate that process outcomes meet specified criteria.
+## How it works
 
-In environmental remediation and waste characterization contexts, verification sampling is performed after a removal action (e.g., excavation of contaminated soil) to demonstrate that residual contamination levels fall below established action levels or cleanup goals. The samples are collected from the post-removal surface or subsurface and analyzed to determine whether further remediation is required.
+Verification sampling follows a structured protocol that integrates sampling design, analytical testing, statistical evaluation, and comparison against predefined threshold values. The key steps are:
 
-### How it works
+1. **Establishment of verification thresholds**: Before sampling begins, specific target concentrations (e.g., barium ≤ 1,000 mg/kg for groundwater protection, lead ≤ 80 mg/kg for residential screening) are defined based on risk assessments or regulatory standards (see Risk-Based Screening Levels).
 
-The verification sampling process typically involves:
+2. **Sampling design**: A sampling plan is developed to ensure that the media of concern are adequately characterized. For soil verification, this often involves systematic grid sampling, judgmental sampling at former hotspots, or composite sampling. The density of samples is tailored to the scale of the remedial area and the variability of contamination.
 
-1. **Establishing criteria**: Define the target contaminant(s), action levels (e.g., maximum allowable concentration), and acceptable statistical confidence (e.g., 95% upper confidence limit).
+3. **Sample collection and analysis**: Samples are collected using standard techniques (e.g., hand auger, direct-push, or test pits) and analyzed by an accredited laboratory for the contaminants of interest (e.g., barium, lead). Quality control measures include field duplicates, blanks, and matrix spikes.
 
-2. **Designing a sampling plan**: Determine the number of samples, locations, and depth intervals. Common designs include stratified random sampling, systematic grid sampling, or judgmental sampling focused on areas with highest likelihood of residual contamination.
+4. **Statistical evaluation**: The data are evaluated using tools such as **ProUCL** to calculate upper confidence limits (UCL) of the mean, typically at the 95% confidence level. Nonparametric methods may be preferred when the distribution is skewed (e.g., H-statistic instability). The UCL is compared to the verification threshold.
 
-3. **Field collection**: Collect samples from the remediated area, often from the floor and sidewalls of excavations, using methods that avoid cross-contamination (e.g., decontaminated equipment, disposable tools).
+5. **Decision-making**: If the UCL (or individual sample results, depending on the criterion) falls below the threshold, the area is deemed verified. Areas exceeding thresholds may trigger additional excavation or re‑sampling, as seen in the re‑excavation of hotspots for barium and lead in the referenced project (source: *example-racr.md*).
 
-4. **Laboratory analysis**: Submit samples to accredited laboratories for analysis of target contaminants using approved methods (e.g., EPA SW-846).
+6. **Documentation**: Results are compiled in a verification report (e.g., an Interim Remedial Action Completion Report) that provides the evidence for compliance and supports regulatory acceptance (see Remedial Action Completion Report).
 
-5. **Statistical evaluation**: Compare results to action levels using statistical tests (e.g., one-sample t-test, nonparametric methods) to determine if the null hypothesis of non-compliance can be rejected.
+## Variants
 
-6. **Decision-making**: If results indicate that contaminant levels exceed action levels with statistical confidence, additional removal or corrective action is required, followed by re-sampling.
+- **Confirmatory sampling**: A subset of verification sampling often used after excavation to test that removal has been complete. It may be more targeted, focusing on sidewalls and bottoms of excavations.
+- **Performance‑based verification**: The sampling plan is designed to demonstrate that a specific performance standard (e.g., a maximum contaminant level in groundwater) is achieved, rather than a fixed cleanup goal.
+- **Statistical verification**: Relies entirely on statistical inference (e.g., 95% UCL) to confirm that the mean concentration is below a threshold. This approach is common when contamination is heterogeneous.
+- **Unit‑specific vs. area‑wide verification**: Sampling may be conducted per discrete remedial unit (e.g., each stockpile) or averaged across a larger consolidated zone, depending on the conceptual site model and regulatory requirements.
 
-### Variants
+## Trade-offs
 
-Verification sampling can take several forms depending on the regulatory context and project requirements:
+- **Representativeness vs. cost**: Increasing the number of samples improves statistical confidence but raises analytical and labor costs. Optimal sample numbers must balance the need for defensibility with budget constraints.
+- **Threshold selection**: Choosing a single threshold (e.g., a concentration limit) may not account for spatial variability or background levels. If the threshold is set too low, unnecessary re‑excavation may occur; if set too high, residual risk may remain.
+- **Temporal considerations**: Verification sampling is a snapshot in time. For contaminants that migrate or degrade, one‑time sampling may not capture long‑term conditions. Post‑closure monitoring may be required (see Long‑Term Monitoring Plan).
+- **Statistical method sensitivity**: Nonparametric methods (e.g., bootstrap) are robust to skewed data but may yield a higher UCL than parametric methods, potentially leading to more conservative decisions. The choice of method can significantly affect outcomes.
+- **Regulatory acceptance**: Different jurisdictions may accept different levels of statistical rigor. ProUCL calculations may be required by some agencies, while others accept simple comparison of all individual results to thresholds.
 
-- **Grid-based verification sampling**: Samples are collected on a systematic grid (e.g., 10 ft × 10 ft) across the entire remediated area. Commonly used for soil remediation where residual contamination may be heterogeneous.
+## See also
 
-- **Discrete verification sampling**: Targeted samples are collected from specific locations, such as hot spots, excavation walls, or beneath former structures. Useful when contamination is suspected to be localized.
-
-- **Composite verification sampling**: Multiple discrete samples are combined into a single sample for analysis. Reduces analytical costs but may mask localized exceedances.
-
-- **Field screening verification sampling**: Use of portable instruments (e.g., X-ray fluorescence, photoionization detectors) for rapid, real-time assessment, often supplemented by a subset of laboratory-confirmed samples.
-
-- **Density-based verification sampling**: The number of samples per unit area is proportional to the confidence required (e.g., higher density near sensitive receptors).
-
-### Trade-offs
-
-| Consideration | Advantages | Limitations |
-|---|---|---|
-| **Statistical power** | Larger sample size increases confidence in decisions | Higher costs and longer turnaround times |
-| **Grid sampling** | Provides spatial coverage; easy to interpret | May miss localized hot spots if grid is too coarse |
-| **Judgmental sampling** | Targets likely contamination areas | Subject to bias; may not represent entire site |
-| **Field screening** | Rapid, low-cost, enables adaptive management | Lower precision and accuracy than laboratory methods |
-| **Composite sampling** | Reduces analytical costs | Can obscure small areas of high contamination |
-| **Discrete sampling** | Identifies exact locations of residual contamination | More expensive per unit area; may require more samples |
-
-Key limitations include:
-- Verification sampling only provides data at discrete points; interpolation between points involves uncertainty.
-- Results depend heavily on sampling design and analytical methods; improper design can lead to false compliance conclusions.
-- Regulatory agencies may require specific sampling plans (e.g., EPA’s “Data Quality Objectives” process) that constrain flexibility.
-
-### See also
-
-- Statistical Sampling (environmental)
-- Remedial Action Objectives
-- Action Level (contamination)
-- Quality Assurance/Quality Control (QA/QC)
-- Data Quality Objectives (DQO)
-- Groundwater Monitoring Well Network
+- Confirmatory Sampling
+- Remedial Action Completion Report
+- Risk-Based Screening Levels
+- 95% Upper Confidence Limit
+- ProUCL
+- Site Closure Criteria

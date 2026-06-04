@@ -2,66 +2,60 @@
 concept: standard-penetration-test
 entity_type: technique
 aliases: ["SPT"]
-sources: ["raw/LOTB-N Carpenter OC.pdf"]
-confidence: medium
-created_at: 2026-06-04T03:24:05Z
+sources: ["LOTB-N Carpenter OC.pdf"]
+confidence: high
+created_at: 2026-06-04T08:17:09Z
 ---
 
-## Standard Penetration Test
+## Definition
 
-### Definition
+The **Standard Penetration Test (SPT)** is an in-situ dynamic penetration test used in geotechnical engineering to determine the relative density and strength of soil, particularly granular soils like sands and silts. It provides a measure of soil resistance to penetration and is widely used for site characterization, foundation design, and liquefaction assessment. The test result is expressed as the **N-value**, which represents the number of blows required to drive a standard split-spoon sampler 300 mm (12 inches) into the soil after an initial seating drive of 150 mm (6 inches).
 
-The **Standard Penetration Test** (SPT) is an in‑situ dynamic penetration test used in geotechnical engineering to determine the resistance of soil to penetration by a standard sampler driven by a hammer of a specific weight dropping from a standard height. The result is expressed as the *N‑value* (blow count), which is the number of hammer blows required to drive the sampler 300 mm (approximately 12 inches) after an initial seating drive of 150 mm. SPT results are widely used for estimating soil strength, relative density, and liquefaction potential, and for correlating with other geotechnical parameters.
+## How it works
 
-### How It Works
+The SPT is performed in a borehole during drilling. The procedure, standardized by ASTM D1586 and similar codes (e.g., BS 1377), involves:
 
-The SPT procedure, standardized by ASTM D1586 (and equivalent international codes), follows these steps:
+1. **Drilling**: A borehole is advanced to the desired test depth, typically using rotary or auger drilling. The hole is cleaned of disturbed material, and the bottom is leveled.
+2. **Sampler assembly**: A standard split-spoon sampler (51 mm outer diameter, 35 mm inner diameter, 610 mm length) is attached to drill rods and lowered to the bottom of the borehole.
+3. **Driving**: A 63.5 kg (140 lb) drop hammer is raised and dropped freely from a height of 760 mm (30 inches) onto the drill rods. The hammer fall is guided by a cathead or automated trip mechanism to ensure consistent energy transfer.
+4. **Count measurements**: The number of blows is recorded for each 150 mm (6 inches) of penetration. The **N-value** is the sum of blows for the second and third 150 mm increments (i.e., the final 300 mm). The first 150 mm (seating drive) discards disturbed material at the borehole bottom.
+5. **Recovery**: The sampler is withdrawn, and the soil sample is retained for visual classification and moisture content testing.
 
-1. **Drilling:** A borehole is advanced to the desired test depth using a drilling method that minimizes disturbance of the underlying soil. Common methods include hollow‑stem augers or rotary drilling with mud.
-2. **Sampler insertion:** A split‑barrel sampler (typical outer diameter 51 mm, inner diameter 35 mm) is attached to the end of the drill rod and lowered to the bottom of the borehole.
-3. **Seating drive:** The sampler is first driven 150 mm (6 inches) into the soil using a 63.5‑kg (140‑lb) hammer falling freely from a height of 760 mm (30 inches). This seating drive accounts for any disturbed material at the borehole base. The blows for this seating interval are recorded but not used in the N‑value.
-4. **Test drive:** The sampler is driven an additional 300 mm (12 inches) in three 75‑mm (3‑inch) increments. The number of blows required for each 75‑mm increment is recorded. The sum of blows for the final two 75‑mm increments (i.e., the last 150 mm) is typically reported as the N‑value, though many standards use the total blows for the full 300 mm. The blows for the first 75‑mm of the test drive are often recorded separately to check for seating effects.
-5. **Soil recovery:** After the test, the sampler is retrieved, opened, and the soil sample is recovered for visual classification, moisture content determination, and sometimes laboratory testing.
-6. **Energy measurement:** Because hammer energy efficiency varies between rigs and operators, modern practice often involves measuring the actual energy delivered to the rods (E<sub>r</sub>) and correcting the blow counts to a standard energy ratio of 60% (N<sub>60</sub>). Corrections may also be applied for overburden pressure, rod length, borehole diameter, and sampler configuration.
+The test is typically repeated at 1.5 m (5 ft) intervals, or at changes in stratum. For cohesive soils, the SPT is less reliable because pore pressure and soil adhesion affect blow counts. Corrections are applied to the raw N-value for factors like:
+- **Overburden pressure** (N<sub>60</sub> to normalize to 60% hammer energy efficiency)
+- **Hammer energy efficiency** (typically 30–80% of theoretical energy)
+- **Borehole diameter**, rod length, and sampler type
 
-The N‑value (or corrected N<sub>60</sub>) is then used with empirical correlations to estimate soil properties such as:
+## Variants
 
-* Relative density of granular soils
-* Undrained shear strength of cohesive soils
-* Foundation bearing capacity
-* Liquefaction susceptibility
-* Soil modulus and settlement parameters.
+1. **SPT with energy measurement (SPT-EM)**: Uses instrumented rods to measure actual hammer energy transfer, providing more accurate N<sub>60</sub> values. Common in seismic studies and liquefaction analyses.
+2. **Modified SPT (MSPT)**: A lighter or heavier hammer system (e.g., 40 kg or 80 kg) used for very soft or very dense soils, though less standardized.
+3. **Auto-SPT**: Fully automated hammers with controlled drop heights and consistent energy delivery, reducing human error.
+4. **Tapered cone SPT**: Replaces the split-spoon with a cone tip (e.g., 60° apex angle) for continuous penetration logging, bridging SPT and CPT (Cone Penetration Test) methods.
+5. **Seismic SPT**: Records P-wave and S-wave arrival times during penetration for seismic velocity profiling.
 
-### Variants
+## Trade-offs
 
-1. **Energy‑corrected SPT (N<sub>60</sub>):** The raw N‑value is adjusted to a reference hammer energy efficiency of 60% using measured or assumed energy transfer ratios. This is the most common variant for modern design.
+**Advantages**:
+- Widely accepted and standardized globally, providing extensive empirical databases for correlations (e.g., bearing capacity, settlement, liquefaction).
+- Simple, robust equipment usable in boreholes with soil sampling.
+- Applicable in a wide range of soil types (cohesionless to weakly cohesive).
 
-2. **Overburden‑corrected N‑value (N<sub>1</sub> or (N<sub>1</sub>)<sub>60</sub>):** The N<sub>60</sub> value is further normalized to an effective overburden pressure of 100 kPa (≈1 ton/ft²). This correction is essential for liquefaction assessment and for comparing soil densities at different depths.
+**Limitations**:
+- **Low repeatability**: Blow count variability due to hammer energy differences, operator technique, and borehole bottom disturbance. High scatter in results.
+- **Inapplicability in soft clays**: N-values in clays often correlate poorly with undrained shear strength—prefer pressuremeter or triaxial tests.
+- **Depth limitation**: Rod friction can affect counts at depths over 30 m, requiring energy correction.
+- **Disruptive**: Requires borehole drilling, which disturbs soil and slows field work.
+- **Empirical correlations**: N-value to engineering parameters (e.g., relative density, modulus) are site-specific and may not transfer between regions.
+- **Safety**: Heavy drop hammer poses risk of injury if mishandled.
 
-3. **Automated SPT (ASTM D6066):** Uses an automatic hammer trip mechanism to improve consistency of drop height and reduce operator variability.
+**Key trade-off**: SPT is a low-cost, quick field test with extensive historical data but suffers from poor precision and sensitivity compared to CPT or pressuremeter tests. It is often used for preliminary site investigations rather than detailed design.
 
-4. **SPT with large (California) sampler:** A larger diameter sampler (76 mm outer, 64 mm inner) is sometimes used in coarse gravelly soils to reduce refusal. The N‑value from this sampler must be corrected using empirical factors.
+## See also
 
-5. **Hollow‑stem auger SPT:** The test is performed through the open center of the hollow‑stem auger, common in environmental and geotechnical investigations where soil disturbance must be minimized.
-
-6. **Modified SPT for rock:** For very dense or cemented materials, a solid‑cone (rock) tip may replace the standard split barrel, but the test is then more akin to a dynamic probing and correlations are different.
-
-### Trade‑offs and Limitations
-
-* **Operator and equipment variability:** The SPT is highly sensitive to the energy delivered by the hammer, which can vary by ±30‑50% between different rigs and operators. Without energy measurement, N‑values from different sources may not be comparable.
-* **Soil disturbance:** The drilling and driving process disturbs the soil, particularly in loose sands and soft clays. The N‑value may not reflect true in‑situ conditions in these materials.
-* **Depth limitations:** Rod friction and buckling become significant below about 30 m, limiting reliable application at very great depths.
-* **Liquefaction correlation uncertainty:** While SPT is the most common method for liquefaction assessment, the correlations are empirical and heavily based on a limited database of case histories, leading to large uncertainty.
-* **Time and cost:** SPT is relatively slow and expensive compared to continuous penetration tests like the Cone Penetration Test (CPT). It provides discrete point data, not continuous profiling.
-* **Gravelly soils:** SPT is unreliable in gravels and cobbles because the sampler may become obstructed or broken. Alternative tests (e.g., Becker Hammer Test) are preferred.
-* **Low‐energy correction requirement:** Failure to apply energy corrections can lead to underestimation of soil strength and overestimation of bearing capacity, potentially unsafe designs.
-* **Environmental concerns:** In contaminated sites, the open borehole may create a pathway for contaminant migration; environmental sampling methods must be integrated.
-
-### See also
-
-* Cone Penetration Test – A continuous, electric‑based alternative to SPT.
-* Blow count – General term for the N‑value and its uses.
-* Geotechnical investigation – The broader context in which SPT is applied.
-* Liquefaction – Assessment using SPT‑based empirical methods.
-* Dynamic cone penetration test – A simpler, lighter dynamic test.
-* Standard penetration test hammer energy measurement – Detailed procedures for energy calibration.
+- Cone Penetration Test
+- Vane Shear Test
+- Pressuremeter Test
+- Soil Liquefaction
+- Geotechnical Site Investigation
+- N-value Corrections

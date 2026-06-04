@@ -2,20 +2,32 @@
 source: raw/S9525-01-44B Modesto Stockpiles GW June 2013.0613 (1).pdf
 source_type: paper
 source_hash: sha256:3c7010b1815f8313b21d1c483a65daa3d2731b570b8cef5f5659b56f104c67cd
-compiled_at: 2026-06-04T03:09:52Z
-chunk_count: 9
+compiled_at: 2026-06-04T08:07:42Z
+chunk_count: 2
 ---
 
-Here is a single coherent summary of the source document, integrating the three provided summaries.
+Based on the two section summaries provided, here is a combined coherent summary of the source document:
 
----
+**Sampling and Analytical Methods**
 
-The document presents groundwater monitoring results for the Caltrans Modesto Soil Stockpiles site (Project S9525-01-44B) in Stanislaus County, California, focusing on data collected in June 2013 from up to ten monitoring wells (MW‑1 through MW‑10). Field activities included depth-to-groundwater measurements, well purging, and sample collection using disposable bailers with 0.45‑micron filtration for dissolved metals. Laboratory analyses covered Title 22 dissolved metals (including strontium) by EPA Method 6020/7470, general minerals (TDS, alkalinity, chloride, nitrate, sulfate, sulfide), and, historically, PAHs by EPA Method 8270C SIM. QA/QC included equipment blanks, laboratory control samples, and matrix spikes.
+Groundwater sampling was conducted on June 5–6, 2013, at ten monitoring wells (MW-1 through MW-10) installed in the shallow Modesto Formation aquifer. Wells were purged of approximately three well volumes, and samples were collected with disposable bailers; dissolved metals samples were field-filtered (0.45-micron). Samples were analyzed by a certified laboratory (ATL Global) using EPA methods (6020 for dissolved metals, 7470 for mercury, 300.0 for anions) and Standard Methods (2320B for alkalinity, 2540C for TDS, 4500-S²⁻ for sulfide). Water quality data were compared to California primary and secondary MCLs and EPA health advisories. Quality assurance included field equipment blanks, laboratory control samples, and matrix spike/matrix spike duplicates (MS/MSD).
 
-The key findings for the June 2013 sampling event are as follows. All dissolved metals—including barium, lead, strontium, arsenic, chromium, and others—remained below their respective numeric water quality thresholds (Maximum Contaminant Levels or MCLs). For example, barium ranged from 45 to 230 µg/L (threshold 1,000 µg/L) and strontium from 250 to 1,000 µg/L (threshold 4,000 µg/L). However, nitrate (as N) and total dissolved solids (TDS) consistently exceeded MCLs in several wells: nitrate (primary MCL 10 mg/L) was elevated in MW‑1, MW‑5, MW‑6, MW‑9, and MW‑10, with concentrations up to 20 mg/L; TDS (secondary MCL 500 mg/L) exceeded the standard in MW‑1, MW‑5, MW‑6, and MW‑10, with values from 340 to 620 mg/L. PAH analysis had been discontinued after November 2012 with regulatory concurrence due to sustained non‑detection.
+**Groundwater Conditions and Flow**
 
-Additional details from a certificate of analysis for wells MW‑1 and MW‑2 show high concentrations of calcium, magnesium, sodium, and strontium, while most trace metals were below detection limits. Groundwater flow was east‑southeast with an average gradient of 0.0005 ft/ft; water levels ranged from 31.73 to 40.11 ft below top of casing. Stiff diagrams indicated calcium‑dominant water in most wells and sodium‑dominant water in MW‑3, MW‑6, and MW‑8.
+Depth to groundwater ranged from 31.73 to 40.11 feet below top of casing (groundwater elevations 47.00–48.66 ft MSL). Groundwater flow direction was toward the east-southeast with an average gradient of 0.0005 ft/ft, consistent with historical patterns.
 
-Limitations of the study include wells MW‑5 and MW‑6 that went dry during purging, requiring recovery and redevelopment. Some matrix spike recoveries were outside control limits, though the batch was validated by laboratory control samples. No active supply wells were identified within one mile downgradient, limiting exposure pathway assessments. The variation in water chemistry observed in Stiff diagrams may reflect either natural hydrogeologic variability or anthropogenic influences.
+**Water Chemistry and Exceedances**
 
-Overall, the monitoring confirms that dissolved metals were consistently below regulatory thresholds, while nitrate and TDS remained elevated in specific wells, with MW‑1 suggesting possible natural background for nitrate.
+Stiff diagrams identified two groundwater types: calcium-dominant (MW-1, MW-2, MW-4, MW-5, MW-7, MW-9, MW-10) and sodium-dominant (MW-3, MW-6, MW-8). 
+
+No dissolved metals concentrations (including the primary chemicals of concern barium and strontium) exceeded their respective numeric thresholds. Barium was detected in all wells (45–230 µg/L; MCL 1,000 µg/L) and strontium ranged from 250–1,000 µg/L (health advisory 4,000 µg/L). Lead was not detected above 1.0 µg/L in any well. Other metals (arsenic, chromium, vanadium) were detected but remained below thresholds.
+
+However, nitrate as nitrogen exceeded the primary MCL of 10 mg/L in five wells: MW-1 (12 mg/L), MW-5 (17 mg/L), MW-6 (20 mg/L), MW-9 (12 mg/L), and MW-10 (20 mg/L). Total dissolved solids (TDS) exceeded the secondary MCL of 500 mg/L in four wells: MW-1 (520 mg/L), MW-5 (530 mg/L), MW-6 (620 mg/L), and MW-10 (620 mg/L).
+
+**Detailed Example Results**
+
+For example, well MW-1 showed barium (84 µg/L), strontium (1,000 µg/L), and major cations (calcium 82,000 µg/L, magnesium 34,000 µg/L, sodium 16,000 µg/L). Well MW-2 showed barium (84 µg/L), strontium (620 µg/L), an excellent cation-anion balance (5.6 meq/L each), TDS of 350 mg/L, chloride 11 mg/L, nitrate as N 6.1 mg/L, and sulfate 11 mg/L.
+
+**Study Limitations**
+
+Several limitations affect data interpretation. Wells MW-5 and MW-6 went dry during purging and were allowed to recover; MW-5 required redevelopment. The field equipment blank contained nickel (1.8 µg/L), but this was judged not to have significantly influenced results. Some samples required dilution due to high native concentrations, and several MS/MSD recoveries fell outside control limits—however, sample results were validated by laboratory control samples and no data qualification was deemed necessary. PAH analysis had been discontinued with DTSC concurrence in November 2012, so no PAH data are available for June 2013.

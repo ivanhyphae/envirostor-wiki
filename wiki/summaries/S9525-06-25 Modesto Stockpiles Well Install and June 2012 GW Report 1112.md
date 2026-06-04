@@ -2,49 +2,35 @@
 source: raw/S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.pdf
 source_type: paper
 source_hash: sha256:017cf1311eab8ea9c79188fb44871c434a7b6692a42ea7d2b625429abdbba4bc
-compiled_at: 2026-06-04T03:08:33Z
-chunk_count: 8
+compiled_at: 2026-06-04T07:57:19Z
+chunk_count: 2
 ---
 
-# Combined Summary: Modesto Stockpiles Well Installation and Groundwater Monitoring Report (June 2012)
+Based on the two provided section summaries, here is a combined coherent summary of the source document "raw/S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.pdf":
 
-## Overview
-This report documents the installation of two new monitoring wells (MW-9 and MW-10) at the State Route 99/132 Modesto Soil Stockpiles site and presents groundwater analytical results from June 2012 sampling. The work was performed to assess groundwater quality at this location, with data compared to California Maximum Contaminant Levels (MCLs), secondary MCLs, and other applicable thresholds.
+---
 
-## Methodology
-Two hollow-stem auger borings were advanced to approximately 40 feet depth, with 2-inch Schedule 40 PVC wells installed using 0.010-inch slot screens and #2/12 sand pack. Wells were developed by surging and pumping approximately 10 well volumes. Groundwater samples were collected using disposable bailers after purging, with field parameters (temperature, conductivity, pH, dissolved oxygen, turbidity) measured during development and sampling.
+## Combined Summary
 
-Samples were analyzed by Advanced Technology Laboratories (ATL), a California-certified laboratory, using: EPA 6020/7470 (Title 22 dissolved metals), EPA 300.0 (chloride, nitrate, sulfate), SM 4500 (sulfide), SM 2540C (TDS), SM 2320B (alkalinity), and EPA 8270-SIM (PAHs). Quality control included method blanks, laboratory control samples, duplicates, and matrix spikes.
+This report documents the installation of two new groundwater monitoring wells (MW-9 and MW-10) at the Modesto Soil Stockpiles site and presents results from a June 2012 groundwater sampling event. The primary purpose was to initiate groundwater sampling following DTSC-approved protocols, focusing on chemicals of concern (barium, lead, strontium) identified from the site’s history as former FMC evaporation ponds.
 
-The monitoring network includes ten wells (MW-1 through MW-10) installed at depths of 39–45 feet, with historical groundwater elevation data (2006–2012) showing seasonal variation from approximately 44.78 to 50.52 feet MSL.
+**Methodology**
+- **Field work:** Wells were installed using hollow-stem auger drilling, constructed with 2-inch Schedule 40 PVC casing and 10-foot, 0.010-inch-slotted screens with a silica sand filter pack. Development was performed before sampling.
+- **Sampling:** Groundwater samples were collected on June 20, 2012, using pre-cleaned disposable polyethylene bailers after purging.
+- **Analytical suite:** Samples were analyzed for Title 22 dissolved metals (EPA 6020/7470), dissolved strontium and major cations (EPA 6020), anions (EPA 300.0), sulfide, TDS, alkalinity, and PAHs (EPA 8270-SIM). Quality control included method blanks, laboratory control samples (LCS), matrix spikes (MS), matrix spike duplicates (MSD), and duplicates.
+- **Evaluation:** Results were compared to California Primary and Secondary MCLs, EPA Health Advisories, and other water quality thresholds.
 
-## Key Results
+**Key Results**
+- **Dissolved metals:** Barium (67–160 µg/L), lead (<1.0–2.2 µg/L), and strontium (840–990 µg/L) were below respective thresholds. Manganese in MW-10 (290 µg/L) exceeded the secondary MCL of 50 µg/L.
+- **General minerals:** Nitrate as nitrogen in MW-9 (13 mg/L) exceeded the primary MCL of 10 mg/L. TDS in both wells (510–710 mg/L) exceeded the secondary MCL of 500 mg/L.
+- **PAHs:** None detected at concentrations ≥ PQLs.
+- **Groundwater type:** Stiff diagrams indicate calcium-dominant water in MW-9 and sodium-dominant water in MW-10.
 
-### Metals
-- **Barium**: 67 µg/L (MW-9) and 160 µg/L (MW-10)—well below MCLs (1,000/700 µg/L)
-- **Lead**: <1.0 µg/L (MW-9) and 2.2 µg/L (MW-10)—below action level (15 µg/L)
-- **Strontium**: 840 µg/L (MW-9) and 990 µg/L (MW-10)—below threshold (4,000 µg/L)
-- **Manganese**: 290 µg/L in MW-10 exceeded secondary MCL (50 µg/L); none detected at threshold-exceeding levels in MW-9
-- Historical data showed chromium up to 18 µg/L, nickel up to 29 µg/L, and zinc up to 160 µg/L, all generally below MCLs
+**Quality Control Findings**
+- **Metals (EPA 6020):** LCS recoveries were within 85–115% for all reported metals, confirming batch-level accuracy. However, matrix spike recoveries in several samples were outside the 70–130% acceptance range due to high native concentrations of calcium, magnesium, potassium, and sodium (e.g., recoveries >500% or negative). Duplicate RPDs were mostly ≤20%. The authors attribute these anomalies to natural matrix interference, not method failure, and note that since affected analytes were not near thresholds, data are considered sufficient.
+- **Mercury (EPA 7470):** LCS recovery 103%, MS recoveries 98.6–101%, all within limits.
+- **SVOCs (EPA 8270/SIM):** LCS recoveries for acenaphthene, phenanthrene, and pyrene were within established limits (e.g., 80.7–83.4%); surrogate recoveries were also acceptable.
+- **Limitations:** Matrix interference from high native concentrations caused flagged MS/MSD results. Dilution flags (E, D5, D6) were noted for several analytes. The SVOC QC section spiked only three target PAHs. Despite these issues, the overall data quality is deemed acceptable for the report’s purpose.
 
-### General Minerals
-- **Nitrate**: 13 mg/L in MW-9 exceeded primary MCL of 10 mg/L; MW-10 at 9.2 mg/L was below the standard
-- **Total Dissolved Solids (TDS)**: 510 mg/L (MW-9) and 710 mg/L (MW-10) both exceeded secondary MCL of 500 mg/L
-- **Major cations**: MW-9 showed calcium (92,000 µg/L total), magnesium (67,000 µg/L), potassium (37,000 µg/L), sodium (54,000 µg/L); MW-10 showed higher concentrations: calcium (130,000 µg/L), magnesium (110,000 µg/L), potassium (58,000 µg/L), sodium (110,000 µg/L)
-
-### Organic Compounds
-All PAHs were non-detect (below practical quantitation limits) in all samples from both new wells and historical monitoring.
-
-## Quality Control Limitations
-Several QC issues were noted:
-1. **Matrix spike recoveries**: Barium and strontium MS/MSD recoveries in one batch fell outside control limits (barium MS >130%; MSD <70%), though data were considered sufficient since concentrations were not near thresholds
-2. **Anion spikes**: Matrix spike recoveries for chloride, nitrate, and sulfate in MW-9 exceeded upper limits (132–179%)
-3. **Metals matrix spikes**: Recoveries for magnesium, potassium, and sodium were outside 70–130% limits; calcium recovery was 180% in one spike and -47% in another
-4. **Sulfide**: Low recovery (-40%) in MW-9 matrix spike
-5. **Historical data**: Pre-2012 data reproduced from a previous report without reinterpretation
-6. **New well considerations**: MW-9 and MW-10 were newly installed (May 2012) and may not represent fully stabilized conditions
-
-Despite these limitations, mercury LCS recovered at 103% and SVOC LCS recoveries (80.7–83.4%) were within acceptable ranges (58–117%). Mercury MS/MSD recoveries (98.6–101%) were satisfactory with RPD of 0.423%.
-
-## Conclusions
-Primary chemicals of concern (barium, lead, strontium) were below drinking-water thresholds in both new wells. The main exceedances were nitrate in MW-9 (13 mg/L exceeding 10 mg/L primary MCL) and TDS in both wells (exceeding 500 mg/L secondary MCL). Manganese in MW-10 exceeded the secondary MCL for taste/odor. No PAHs were detected. While quality control issues were noted for several matrix spike recoveries, these were attributed to matrix interference and do not appear to invalidate the overall conclusions regarding groundwater quality at the site.
+**Concepts**
+Stiff diagrams, Practical Quantitation Limits (PQLs), Unified Soil Classification System (USCS), Primary/Secondary MCLs, Title 22 metals, EPA methods (6020, 7470, 8270/SIM, 300.0, 3010A), matrix interference, LCS, MS/MSD, surrogate recovery, Modesto Formation, GeoTracker.

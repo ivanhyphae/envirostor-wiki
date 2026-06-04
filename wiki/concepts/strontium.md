@@ -1,34 +1,72 @@
 ---
 concept: strontium
 entity_type: concept
-aliases: ["sr", "Sr"]
-sources: ["GND Water Monitoring Rpt March 2102.pdf", "S9525-06-44A May 2012 GW Report 1112.pdf", "11 29 2012 Caltrans GND Water Monitoring Rpts (2).pdf", "raw/09.20.2012 Final Caltrans Supplemental Site Characterization Workplan 2.pdf"]
-confidence: low
-created_at: 2026-06-04T03:25:42Z
+aliases: ["sr"]
+sources: ["raw/S2350-01-02 Updated Statistical Evaluation Report_2.24.pdf", "raw/S9525-06-44AModesto Stockpiles GW SEPT2012 1212.pdf", "raw/S9800-01-17 Modesto Stockpiles Feb2014 GW Mon 0414 (1).pdf", "raw/S2350-01-02_2.4.2025 Stormwater Sampling Report_6.25.pdf", "raw/11 29 2012 Caltrans GND Water Monitoring Rpts (2).pdf", "raw/S9800-01-17 Caltrans Modesto Stockpiles GW_06.15.pdf", "raw/S9800-01-17A Caltrans Modesto Stockpiles GW_06 16.pdf"]
+confidence: medium
+created_at: 2026-06-04T08:23:05Z
 ---
 
+# Strontium
+
 ## Definition
-Strontium (Sr) is a chemical element (atomic number 38) belonging to the alkaline earth metals. In environmental and groundwater monitoring contexts—as reflected in the source titles (e.g., Caltrans groundwater monitoring reports)—strontium is primarily studied as a stable or radiogenic constituent. Its presence in water can indicate natural mineral dissolution or anthropogenic contamination (e.g., from nuclear fallout, industrial waste, or agricultural runoff). The radioactive isotope strontium-90 is a fission product of particular concern due to its long half-life (28.9 years) and affinity for bone tissue in living organisms.
+
+Strontium (chemical symbol **Sr**, atomic number 38) is a soft, silvery-white alkaline earth metal. It is highly reactive, tarnishing rapidly in air to form a yellowish oxide layer. Naturally occurring strontium is a mixture of four stable isotopes (⁸⁴Sr, ⁸⁶Sr, ⁸⁷Sr, ⁸⁸Sr), with ⁸⁸Sr being the most abundant (≈82.6%). The radioactive isotope ⁹⁰Sr (half‑life 28.9 years) is a fission product of uranium and plutonium and is a persistent environmental contaminant.
 
 ## How it works
-Strontium enters the environment through weathering of rocks (e.g., celestite, strontianite) and through human activities. In groundwater, strontium typically exists as the divalent cation Sr²⁺. Its mobility is influenced by geochemical parameters: pH, redox potential, competing cations (Ca²⁺, Mg²⁺), and the presence of complexing agents such as sulfate or carbonate. Under aerobic conditions, strontium tends to be relatively mobile, but it can be attenuated by sorption onto clay minerals, iron oxyhydroxides, and organic matter. In monitoring programs, strontium concentrations are quantified by inductively coupled plasma mass spectrometry (ICP-MS) or atomic absorption spectroscopy. Stable strontium isotopes (⁸⁷Sr/⁸⁶Sr) serve as tracers for water–rock interactions and groundwater provenance, while radiogenic strontium-90 is measured via beta counting or liquid scintillation after chemical separation.
 
-The source documents (Caltrans groundwater monitoring reports) likely include strontium as a parameter in routine analysis, used to assess the impact of highway construction on water quality and to distinguish natural background from contamination.
+### Chemical and physical behavior
+
+Strontium exhibits the +2 oxidation state exclusively in its compounds, forming white or colorless salts. It reacts vigorously with water to produce strontium hydroxide and hydrogen gas, and with dilute acids to release hydrogen. Strontium salts often display a characteristic crimson-red flame color, exploited in fireworks and signal flares.
+
+### Occurrence and extraction
+
+Strontium is the 15th most abundant element in Earth’s crust, primarily found in the minerals celestine (SrSO₄) and strontianite (SrCO₃). Commercial production involves reduction of strontium oxide with aluminum or electrolysis of molten strontium chloride.
+
+### Biological and environmental role
+
+Strontium is not an essential element for humans but mimics calcium in biological systems. It can be incorporated into bone mineral (hydroxyapatite) via ionic substitution. The radioactive isotope ⁹⁰Sr, when ingested, accumulates in bone and marrow, delivering sustained radiation and increasing the risk of bone cancer and leukemia.
+
+Strontium ion (Sr²⁺) in groundwater and surface water is often monitored in environmental assessments, as elevated levels can indicate anthropogenic contamination from nuclear fallout, industrial waste, or natural mineral dissolution. The California Department of Transportation (Caltrans) and other agencies routinely include strontium in groundwater monitoring programs at stockpile sites and stormwater outfalls.
 
 ## Variants
-- **Stable strontium (⁸⁸Sr, ⁸⁷Sr, ⁸⁶Sr, ⁸⁴Sr)**: The naturally occurring isotopes, with ⁸⁷Sr/⁸⁶Sr ratios used in isotope hydrology.
-- **Radiogenic strontium-90**: A beta-emitting fission product with high radiotoxicity; regulated under drinking water standards (e.g., US EPA MCL of 8 pCi/L).
-- **Strontium compounds**: Common forms include strontium carbonate (SrCO₃), strontium sulfate (SrSO₄), and strontium chloride (SrCl₂), each with different solubility and environmental behavior.
 
-## Trade-offs
-- **Detection limits**: Stable strontium is ubiquitous at low levels in groundwater (10–1000 μg/L), making it a sensitive tracer but requiring high-precision isotopic analysis for source discrimination.
-- **Toxicity**: Stable strontium has low acute toxicity; however, strontium-90 poses a radiological hazard. Monitoring must differentiate between stable and radioactive forms, which requires specialized analytical methods.
-- **Regulatory context**: Strontium is not currently a primary contaminant in most drinking water standards (except radiostrontium), but state and local agencies may include it in monitoring suites to track geochemical changes—adding cost without direct health-based mandates.
-- **Interference**: High calcium concentrations can compete with strontium during solid-phase extraction or sorption processes, potentially biasing results if proper sample preservation and laboratory protocols are not followed.
+### Stable isotopes
+
+- **⁸⁴Sr** (0.56%) – primordial  
+- **⁸⁶Sr** (9.86%) – stable  
+- **⁸⁷Sr** (7.00%) – stable; radiogenic daughter of ⁸⁷Rb; used in geochronology  
+- **⁸⁸Sr** (82.58%) – stable  
+
+### Radioactive isotopes
+
+- **⁸⁹Sr** – beta emitter (half‑life 50.5 days); used in palliative radiotherapy for bone metastases  
+- **⁹⁰Sr** – beta emitter (half‑life 28.9 years); major fission product; used in radioisotope thermoelectric generators (RTGs) and industrial thickness gauges  
+- **⁹²Sr** – short‑lived (half‑life 2.7 hours); decay product in nuclear fuel cycles  
+
+### Common compounds
+
+| Compound | Formula | Use |
+|----------|---------|-----|
+| Strontium carbonate | SrCO₃ | Fireworks, ferrite magnets |
+| Strontium nitrate | Sr(NO₃)₂ | Red signal flares, pyrotechnics |
+| Strontium titanate | SrTiO₃ | Synthetic gemstone, high‑k dielectric |
+| Strontium ranelate | C₁₂H₆N₂O₈SSr₂ | Osteoporosis treatment |
+| Strontium chloride | SrCl₂ | Electrolyte in toothpaste for sensitive teeth |
+
+## Trade‑offs
+
+- **Health vs. benefit**: Stable strontium compounds (e.g., strontium ranelate) are used therapeutically to increase bone density, but ⁹⁰Sr is highly radiotoxic. The margin between therapeutic and toxic doses for stable Sr is wide, but chronic ingestion of high levels may interfere with calcium metabolism and bone mineralization.
+- **Environmental persistence**: ⁹⁰Sr has a 28.9‑year half‑life and remains in soil and water for decades. Its chemical similarity to calcium means it readily enters the food chain, accumulating in milk and bone. Remediation of contaminated sites is challenging and expensive.
+- **Industrial vs. environmental risk**: Strontium carbonate and nitrate are widely used in pyrotechnics and ceramics with controlled workplace exposure limits, but accidental releases or improper disposal can lead to soil and water contamination.
+- **Analytical detection**: Strontium in environmental samples is typically measured by inductively coupled plasma mass spectrometry (ICP‑MS) or atomic absorption spectroscopy. Distinguishing stable from radioactive Sr requires radiochemical separation and beta counting, adding cost and complexity.
 
 ## See also
-- Groundwater chemistry
-- Alkaline earth metals
-- Isotope hydrology
-- Radioactive contamination
-- Water quality monitoring
+
+- Alkaline earth metal
+- Calcium
+- Isotopes of strontium
+- Strontium-90
+- Bone seeker
+- Radionuclide monitoring
+- Celestine (mineral)

@@ -2,69 +2,61 @@
 concept: total-dissolved-solids
 entity_type: concept
 aliases: ["TDS"]
-sources: ["raw/S9525-06-44A Caltrans Modesto Stockpiles GW Nov2012 0213.pdf", "raw/7453_S9525-06-44_Modesto_Stockpiles_July_2012_GW_Report.1112.pdf", "raw/S2350-01-02_2.4.2025 Stormwater Sampling Report_6.25.pdf", "raw/S9525-06-44AModesto Stockpiles GW  SEPT2012 1212.pdf", "raw/S9800-01-17 Caltrans Modesto Stockpiles Dec 2013 GW Mon 0114.pdf", "raw/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18.pdf", "raw/S1200-01-01 Modesto Stockpiles March 2018 SW Sampling_04.18.pdf", "raw/S9525-01-44B Modesto Stockpiles GW June 2013.0613 (1).pdf", "raw/S9800-01-17A Modesto Stockpiles Dec 11 2015 Stormwater Sampling Report_02.16.pdf"]
+sources: ["S9525-01-44B Modesto Stockpiles GW June 2013.0613.pdf", "S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814.pdf", "raw/S2350-01-02 Updated Statistical Evaluation Report_2.24.pdf", "raw/S9525-06-44AModesto Stockpiles GW SEPT2012 1212.pdf", "raw/S9800-01-17 Modesto Stockpiles Feb2014 GW Mon 0414 (1).pdf", "raw/S2350-01-02_2.4.2025 Stormwater Sampling Report_6.25.pdf"]
 confidence: high
-created_at: 2026-06-04T03:21:27Z
+created_at: 2026-06-04T08:17:39Z
 ---
 
-## Total Dissolved Solids
+## Definition
 
-### Definition
+**Total Dissolved Solids (TDS)** is a measure of the combined content of all inorganic and organic substances contained in a water sample that are present in a dissolved state (smaller than 2 micrometers, typically passing through a 0.45‑µm filter). It is expressed in milligrams per liter (mg/L) or parts per million (ppm). TDS includes minerals, salts, metals, cations, anions, and some organic matter that are fully dissolved in the water. Common constituents include calcium, magnesium, sodium, potassium, chloride, sulfate, bicarbonate, and nitrate.
 
-**Total Dissolved Solids (TDS)** is a measure of the combined content of all inorganic and organic substances contained in a water sample that are present in a dissolved state. TDS is typically determined by filtering a water sample through a 0.45-micrometer filter to remove suspended solids, then evaporating the filtrate to dryness and weighing the residue. It is expressed in milligrams per liter (mg/L) or parts per million (ppm). TDS is a key indicator of water quality, affecting taste, hardness, and corrosivity, and is monitored in environmental studies, industrial processes, and drinking water regulations.
+TDS is a key water quality indicator for drinking water, irrigation, industrial processes, and environmental monitoring. High TDS can affect taste, scaling potential, and aquatic life.
 
-### How it works
+## How it works
 
-TDS encompasses a wide range of dissolved ions, minerals, salts, and organic compounds. The primary constituents include:
+TDS is measured using two primary methods: **gravimetric analysis** and **electrical conductivity (EC) measurement**.
 
-- **Major cations:** Calcium (Ca²⁺), magnesium (Mg²⁺), sodium (Na⁺), and potassium (K⁺)
-- **Major anions:** Bicarbonate (HCO₃⁻), sulfate (SO₄²⁻), chloride (Cl⁻), and nitrate (NO₃⁻)
-- **Other dissolved solids:** Silica, iron, manganese, fluoride, and trace metals
+### Gravimetric method (laboratory standard)
+1. A water sample is filtered through a 0.45‑µm membrane to remove suspended solids.
+2. The filtrate is evaporated to dryness in a pre-weighed dish at 180°C (or 105°C depending on the protocol).
+3. The residue weight is recorded, and TDS = (weight of residue – tare weight) / sample volume.
+   - This yields an accurate mass-based result but is time‑consuming and requires careful quality control.
 
-The measurement of TDS can be performed by two primary methods:
+### Electrical conductivity method (field / screening)
+1. A conductivity probe measures the ability of water to conduct an electrical current.
+2. Because dissolved ions (e.g., Na⁺, Cl⁻, Ca²⁺, HCO₃⁻) are the primary charge carriers, EC correlates strongly with TDS.
+3. A conversion factor (typically 0.5–0.7 for natural waters) is used: TDS (mg/L) ≈ EC (µS/cm) × K.
+   - The exact factor depends on the ionic composition of the water.
+   - The method is rapid, inexpensive, and suitable for real‑time monitoring, but it provides an estimate rather than a direct mass measurement.
 
-1. **Gravimetric analysis (Standard Method 2540 C):** A known volume of water is filtered through a 0.45 μm glass-fiber filter. The filtrate is collected in a pre-weighed dish and evaporated at 180°C until constant weight. The residue represents the TDS. This is the reference method but is time-consuming and requires careful laboratory technique.
+TDS is also sometimes estimated from total filtered residue (non‑filterable residue) or by summing the concentrations of major ions if complete chemical analyses are available.
 
-2. **Electrical conductivity (EC) conversion:** TDS correlates strongly with the electrical conductivity of water, as dissolved ions conduct electricity. A conductivity meter measures the water's ability to carry a current (in microsiemens per centimeter, µS/cm). TDS is then estimated using a conversion factor, typically:
-   - TDS (mg/L) = EC (µS/cm) × 0.5 to 0.7 (depending on the water's ionic composition)
-   - For natural waters, a factor of 0.64 is often applied.
+## Variants
 
-In environmental monitoring reports (such as those from Caltrans Modesto Stockpiles projects), TDS is routinely tabulated alongside specific conductance, pH, and major ion concentrations. For example, groundwater monitoring at the Modesto Stockpiles site (2012–2018) consistently reported TDS values ranging from 200 to 1,200 mg/L, with higher values correlating with elevated sulfate, chloride, and sodium levels.
+| Variant / Implementation | Description |
+|------------------------|-------------|
+| **Gravimetric TDS** | The reference laboratory method described above. Yields a true mass per volume measurement. |
+| **Conductivity‑based TDS** | Most common field method. Uses a calibrated conductivity meter with a conversion factor. |
+| **Ion summation** | TDS computed as the arithmetic sum of individually analyzed ions (e.g., Ca²⁺, Mg²⁺, Na⁺, K⁺, CO₃²⁻, HCO₃⁻, Cl⁻, SO₄²⁻, NO₃⁻). Assumes no missing major constituents. |
+| **Filterable residue (Total Dissolved solids or TDS)** | The residue remaining after filtration through a 0.45‑µm filter, dried at 180°C. Some protocols dry at 105°C, which may retain water of hydration. |
+| **Total dissolved solids (TDS) vs. total suspended solids (TSS)** | TDS is the dissolved fraction; TSS is the particulate fraction retained on the filter. Together they equal total solids (TS). |
 
-### Variants
+## Trade-offs
 
-- **Gravimetric TDS:** The standard laboratory method as described above.
-- **Calculated TDS:** Summation of measured individual dissolved constituents (e.g., total cations + total anions + silica).
-- **Conductivity-derived TDS:** Estimated from electrical conductivity using an empirical conversion factor. This is the most common field method due to its speed and simplicity.
-- **On-site TDS meters:** Handheld instruments (usually calibrated in mg/L or ppm) that measure conductivity and convert internally to TDS, subject to calibration accuracy and temperature compensation.
+- **Accuracy vs. speed**: The gravimetric method is definitive but slow and requires a well‑equipped lab; conductivity meters provide instant results but depend on calibration and the assumed conversion factor.
+- **Ion‑specific effects**: Conductivity‑based TDS estimates can be biased if the water has a high proportion of non‑conducting substances (e.g., dissolved organic carbon, silica) or if the ionic composition deviates from the calibration standard.
+- **Filter pore size**: The standard 0.45‑µm cutoff is arbitrary. Colloids (0.001–1 µm) may pass and contribute to TDS or be retained, affecting comparability between studies.
+- **Temperature dependence**: Conductivity readings are temperature‑dependent; modern meters automatically correct to 25°C.
+- **Spatial and temporal variability**: TDS can vary with rainfall, evaporation, geological formations, and anthropogenic inputs (e.g., road salt, agricultural runoff, wastewater). Single grab samples may not represent average conditions.
+- **Regulatory limits**: Drinking water standards (e.g., US EPA secondary maximum contaminant level of 500 mg/L) are based on palatability, not health risk, so exceeding the limit is not necessarily harmful but may affect taste.
 
-In regulatory and reporting contexts, TDS is often grouped with other water quality parameters such as **Specific Conductance**, **Salinity**, and **Hardness**. The distinction between TDS and **Total Suspended Solids (TSS)** is critical: TDS passes through a 0.45 μm filter, while TSS is retained.
+## See also
 
-### Trade-offs
-
-- **Measurement method trade-offs:**
-  - Gravimetric analysis provides the most accurate TDS but is slow and requires laboratory resources.
-  - Conductivity-derived TDS is rapid and suitable for real-time monitoring but depends on the accuracy of the conversion factor, which varies with water chemistry. Waters dominated by calcium bicarbonate have different conductivity–TDS relationships than sodium chloride-dominated waters.
-  - Calculated TDS requires complete ion analysis, which is expensive but yields the most detailed chemical information.
-
-- **Limitations of TDS as a water quality indicator:**
-  - TDS does not differentiate between toxic and non-toxic constituents; high TDS alone does not indicate pollution (e.g., historical seawater intrusion, natural mineral dissolution).
-  - TDS does not directly measure organic contaminants, pathogens, or heavy metals.
-  - Temperature and pH can affect the solubility of certain solids, potentially altering TDS results during sample storage or transport.
-
-- **Regulatory and health considerations:**
-  - The U.S. EPA recommends a secondary maximum contaminant level (SMCL) of 500 mg/L for TDS in drinking water (not a health-based standard, but for aesthetic quality—taste, staining).
-  - In the Caltrans Modesto Stockpiles groundwater reports, TDS levels in some monitoring wells approached or exceeded 1,000 mg/L, triggering evaluation of potential impacts on beneficial uses under the California Basin Plan.
-  - High TDS can increase corrosivity in plumbing and reduce crop yields in irrigation.
-
-- **Data variability:** Seasonal fluctuations (e.g., wet vs. dry periods) and anthropogenic inputs (road salt, fertilizer, industrial discharge) can cause significant TDS changes over short time scales, making single-parameter monitoring insufficient for comprehensive water quality assessment.
-
-### See also
-
-- Specific Conductance
+- Electrical Conductivity
+- Suspended Solids
+- Water Quality Parameters
 - Salinity
-- Total Suspended Solids
-- Water Quality Monitoring
-- Groundwater Chemistry
-- Ionic Composition
 - Hardness
+- Ion Chromatography
+- Gravimetric Analysis

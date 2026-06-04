@@ -2,28 +2,33 @@
 source: raw/RDIP Variance Request Acceptance E-Mail.pdf
 source_type: paper
 source_hash: sha256:7f0ab6af7071b336a7ee22b589e36f06eb2a9b05938f693f35a4eb8697ae4a57
-compiled_at: 2026-06-04T03:07:11Z
+compiled_at: 2026-06-04T07:58:11Z
 chunk_count: 1
 ---
 
 ## Key claims
-- DTSC officially accepts the Variance Request (VR) for using soil from the MSE wall footing excavation along the southern boundary of Stockpile 1 as clean cap soil.
-- Barium concentrations in the 1–5 ft depth interval of this soil have a calculated 95% Upper Confidence Limit (UCL) of 113.1 mg/kg, which falls within the site-specific naturally occurring background range.
-- For the analogous soil along the southern boundary of Stockpile 2, acceptance is deferred until confirmatory data are submitted and reviewed.
-- Approved soil may only be used as clean cover or embankment fill within the stockpile footprints; off-site transport or use in other project areas is not permitted.
+- DTSC and the Water Board approved a variance request (VR) allowing soil from 1–5 ft below existing grade along the southern boundary of Stockpile 1’s MSE wall footing excavation to be used as clean cap soil on the project.
+- Approval was based on the soil’s barium concentrations (95% UCL of 113.1 mg/kg) falling within the range of site‑specific naturally occurring background concentrations.
+- The upper foot of the same excavation was deemed unsuitable as clean fill due to elevated barium and was instead placed in permanent fill areas (Stockpiles 1 and 2).
+- Approval for similar soil along the southern boundary of Stockpile 2 is pending submission and review of corresponding data.
+- Permitted use of the soil is restricted to clean cover or embankment fill only within the footprints of Stockpiles 1 and 2; off‑site transport or use in other project areas is disallowed.
 
 ## Methodology
-The “experimental setup” is a regulatory review of a Remedial Design Implementation Plan (RDIP) Variance Request submitted by Bay Cities (via Caltrans). The key quantitative criterion is the 95% UCL of barium concentrations in the excavated soil, compared against site-specific naturally occurring background concentrations. The analysis is based on soil samples from the upper 1–5 ft of the MSE wall footing excavation along the southern boundary of Stockpile 1.
+- **Data source**: Variance request letter (dated April 9, 2020) submitted by the project team (Bay Cities, Caltrans) and reviewed by DTSC and the Regional Water Board.
+- **Evaluation metric**: Comparison of the 95% upper confidence limit (UCL) of barium concentrations in proposed clean cover soil against established site‑specific naturally occurring background concentrations.
+- **Decision framework**: Regulatory review based on compliance with the Remedial Design Implementation Plan (RDIP) and applicable cleanup standards.
 
 ## Results
-- For Stockpile 1: The 95% UCL of barium concentration is **113.1 mg/kg**.
-- This value is within the range of site-specific naturally occurring background (no numerical background range given in the email).
-- Based on this, DTSC approves the use of this soil as clean cap soil.
+- Barium 95% UCL for the 1–5 ft depth interval of the MSE wall footing excavation along Stockpile 1’s southern boundary: **113.1 mg/kg**.
+- This value was below the upper bound of site‑specific naturally occurring background barium concentrations, leading to acceptance of the variance for that area.
+- Quantitative results for Stockpile 2 were not yet available at the time of the decision.
 
 ## Limitations
-- Approval currently applies **only** to the Stockpile 1 area; Stockpile 2 remains pending data submission and review.
-- The Variance Request is explicitly limited: the soil may **only** be used within the stockpile footprints as clean cover or embankment fill—not elsewhere on the project or hauled off-site.
-- No mention of long-term monitoring, potential bioavailability of barium, or variability across the full depth profile.
+- Approval applies only to the specific material and location described (southern boundary of Stockpile 1, 1–5 ft depth interval).
+- The upper foot of the excavation contains elevated barium and is excluded from clean cover use.
+- Stockpile 2 decision is deferred pending data submission; no guarantee of approval.
+- Soil approved for clean cover may not be used in other project areas or transported off‑site.
+- No discussion of potential co‑contaminants or long‑term performance of the clean cap.
 
 ## Concepts
-95% Upper Confidence Limit (UCL), naturally occurring background concentrations, clean cap soil, Remedial Design Implementation Plan (RDIP) Variance Request, mechanically stabilized earth (MSE) wall, stockpile permanent fill areas.
+Remedial Design Implementation Plan (RDIP), Variance Request (VR), mechanically stabilized earth (MSE) wall, clean cap soil, 95% upper confidence limit (95% UCL), naturally occurring background concentrations, Stockpile 1, Stockpile 2, barium contamination, DTSC (Department of Toxic Substances Control), Regional Water Quality Control Board, permanent fill area

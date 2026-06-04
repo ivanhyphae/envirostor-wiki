@@ -2,18 +2,36 @@
 source: raw/Stockpile 2 MSE Wall Sampling Tech Memo.pdf
 source_type: paper
 source_hash: sha256:4e149918af5a15b8c3358325a182a3f2f33e24ea88497a463b55cae3ea680e29
-compiled_at: 2026-06-04T03:09:30Z
-chunk_count: 2
+compiled_at: 2026-06-04T07:59:34Z
+chunk_count: 1
 ---
 
-Based on the two section summaries, here is a combined coherent summary of the source document:
+## Key claims
+- Barium-containing soil (BCS) was excavated from the Stockpile 2 southerly slope to facilitate construction of a mechanically stabilized earth (MSE) wall, and the excavated material was transported for placement as embankment fill within the designated Stockpile 2 fill containment zone.
+- Barium was detected in all 29 soil samples at concentrations ranging from 53 to 930 mg/kg. Fourteen of the 29 samples exceeded the maximum site-specific background value for barium of 120 mg/kg.
+- Thirteen of the 14 elevated barium samples were from depths between the surface and 3 feet; one sample (STK2-7-4) at 140 mg/kg was collected deeper than the planned 3-foot excavation depth.
+- Lead was detected in all samples at concentrations from 3.5 to 22 mg/kg, with most values comparable to the maximum site-specific background of 3.8 mg/kg.
+- The upper three feet of soil from the MSE wall footing excavation requires placement within the designated Stockpiles 1 and 2 fill containment zones. Soil from depths greater than 3 feet is suitable for placement in containment zones, as general embankment fill, or as capping material pending regulatory approval.
 
-**Summary of "Stockpile 2 MSE Wall Sampling Tech Memo.pdf"**
+## Methodology
+- Soil samples were collected from the mid-point of the planned wall footing excavation within seven trenches (STK2-1 through STK2-7) spaced at approximately 200-foot intervals along the Stockpile 2 southerly slope.
+- Discrete soil samples were collected from one-foot intervals to the maximum planned wall footing excavation depth of 3 to 5 feet.
+- A total of 29 soil samples were obtained and transported to Advanced Technology Laboratories (ATL) under chain of custody protocol.
+- Each soil sample was analyzed for total barium and total lead using EPA Test Method 6010B (inductively coupled plasma atomic emission spectroscopy, ICP-AES) under expedited 48-hour turnaround.
+- Site-specific maximum background concentrations were used as reference thresholds: barium at 120 mg/kg and lead at 3.8 mg/kg. The BCS removal verification threshold was 1,000 mg/kg for barium and 80 mg/kg for lead.
+- Quality control included method blanks, laboratory control samples (LCS), matrix spikes (MS), matrix spike duplicates (MSD), and duplicate analyses within analytical batches B0F0375 and B0F0376.
 
-This technical memo presents the results of a soil sampling investigation for the Stockpile 2 Mechanically Stabilized Earth (MSE) Wall project, focusing on barium and lead concentrations. The primary objective was to characterize soil from the wall footing excavation to determine appropriate disposal or reuse options.
+## Results
+- **Barium concentrations:** ranged from 53 mg/kg (STK2-1-4) to 930 mg/kg (STK2-1-0). Fourteen of 29 samples exceeded the maximum site-specific background of 120 mg/kg. The highest concentrations were in surface samples (0–1 ft): STK2-1-0 (930 mg/kg), STK2-4-0 (830 mg/kg), STK2-7-0 (690 mg/kg), STK2-7-1 (580 mg/kg), and STK2-1-1 (490 mg/kg). All samples were below the BCS removal verification threshold of 1,000 mg/kg.
+- **Lead concentrations:** ranged from 3.5 mg/kg (STK2-2-0) to 22 mg/kg (STK2-7-0). Most samples were within the same order of magnitude as the maximum site-specific background of 3.8 mg/kg. The highest values were observed in trench STK2-7: STK2-7-0 (22 mg/kg), STK2-7-1 (15 mg/kg), and STK2-7-2 (10 mg/kg). All lead concentrations were below the BCS removal verification threshold of 80 mg/kg.
+- **Depth distribution:** Elevated barium concentrations above background were predominantly in the upper 0–3 feet. Only sample STK2-7-4 (collected deeper than the planned 3-foot excavation depth) showed elevated barium (140 mg/kg) at depth.
 
-Soil samples were collected from the midpoint of seven trenches (STK2-1 through STK2-7) spaced at approximate 200-foot intervals. Discrete samples were taken at one-foot intervals to a maximum planned depth of 3 or 5 feet, resulting in 29 total samples. Samples were prepared using EPA Method 3050B and analyzed for total barium and lead via EPA Method 6010B (ICP-AES) at Advanced Technology Laboratories (ATL). Quality control measures included blanks, laboratory control samples (LCS), duplicates, and matrix spikes.
+## Limitations
+- The study is site-specific to the Stockpile 2 MSE wall footing excavation along State Route 132 in Modesto, California, and does not generalize to other locations or soil stockpiles.
+- Sample collection was limited to the mid-point of the planned wall footing excavation at 200-foot intervals; spatial variability along the full footing length may not be fully captured.
+- One sample (STK2-7-4) with elevated barium (140 mg/kg) was collected deeper than the planned 3-foot excavation depth, indicating potential contamination below the target excavation depth at one location.
+- The analysis was limited to barium and lead; other potential contaminants were not evaluated.
+- Matrix spike recovery for barium in batch B0F0375 (MS2) was 187%, outside the acceptance limits (11–177%), attributed to possible matrix interference, though the batch was validated by the laboratory control sample.
 
-Barium was detected in all samples, ranging from 53 to 930 mg/kg. Fourteen of the 29 samples exceeded the site-specific maximum background concentration of 120 mg/kg, with 13 of these elevated samples occurring between the surface and 3 feet. This indicates that the upper three feet of soil contain barium above background levels and require placement within designated fill containment zones. Lead was detected at concentrations from 3.5 to 22 mg/kg, with the majority falling within the same order of magnitude as the site-specific background of 3.8 mg/kg. Notably, one elevated barium sample (STK2-7-4 at 140 mg/kg) was collected deeper than the planned excavation depth.
-
-Key limitations of the study include the sampling being restricted to the mid-point of each trench, which may not capture the full spatial variability of contamination. Additionally, the analysis was limited to barium and lead. Quality control data were generally acceptable, but matrix spike recoveries for barium in one analytical batch (B0F0375) exceeded acceptance limits (187% and 204%), likely due to matrix interference; however, the corresponding LCS were within acceptable ranges. The suitability of deeper soil for general embankment fill or capping is noted as pending regulatory approval.
+## Concepts
+mechanically stabilized earth (MSE) wall, barium containing soil (BCS), EPA Test Method 6010B, inductively coupled plasma atomic emission spectroscopy (ICP-AES), site-specific background concentration, practical quantitation limit (PQL), method detection limit (MDL), chain of custody protocol, removal action completion report, embankment fill, fill containment zone

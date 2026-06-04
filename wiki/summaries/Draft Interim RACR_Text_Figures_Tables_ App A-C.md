@@ -2,33 +2,44 @@
 source: raw/Draft Interim RACR_Text_Figures_Tables_ App A-C.pdf
 source_type: paper
 source_hash: sha256:1d82e4bc71c1f1b2db917eeb7590e5001c0165ffb65fbc9f5e17cd99e3d5dcdc
-compiled_at: 2026-06-04T04:11:39Z
-chunk_count: 4
+compiled_at: 2026-06-04T08:06:54Z
+chunk_count: 1
 ---
 
-# Combined Summary: Interim Removal Action Completion Report (RACR) – SR 132 West Project, Phase 1
+## Key claims
+- The paper documents the successful completion of interim removal actions for barium-containing soil (BCS) stockpiles at the Caltrans Modesto Soil Stockpiles site, under California DTSC oversight.
+- BCS Stockpiles 1–3 and aerially deposited lead (ADL) soil were consolidated and permanently capped with clean fill and structural pavement section as highway embankment fill during Phase 1 of the SR 132 West Project.
+- All BCS removal verification soil samples met the Remedial Design Implementation Plan (RDIP) verification thresholds for barium (≤1000 mg/kg, groundwater protection) and lead (≤80 mg/kg, residential screening level).
+- Air monitoring during grading activities confirmed that airborne levels of total dust, barium, and lead remained below all designated action and risk levels.
+- Groundwater and stormwater monitoring showed contaminant concentrations below regulatory thresholds, consistent with historical data; no offsite migration was observed.
+- A Final RACR and recording of a land use covenant (LUC) are planned after Ultimate Phase 2 construction (scheduled completion 2028).
 
-## Document Purpose and Scope
-This Interim Removal Action Completion Report documents the current status of consolidating barium‑containing soil (BCS) Stockpiles 1–3 and aerially deposited lead (ADL) soil as highway embankment fill, capped with DTSC‑approved clean fill, during Phase 1 of the SR 132 West Project. The work follows the 2019 Remedial Design Implementation Plan (RDIP) and the 2018 Final Remedial Action Plan. A Final RACR will be submitted after Ultimate Phase 2 construction (scheduled for 2028). The selected remedy – containment by incorporation as highway fill with clean cover – has been partially implemented; remaining work includes structural pavement, erosion control, drainage, and barriers.
+## Methodology
+- **Experimental setup:** Remedial design followed the 2019 RDIP. BCS and ADL soil were excavated from three stockpiles (Stockpiles 1–3) and from specific construction zones (bridge abutments, MSE wall footings, SR 99 unpaved shoulder), then transported and placed as compacted embankment fill within designated BCS Containment Zones in Stockpiles 1 and 2. The containment zones were capped with a minimum 12-inch clean fill layer and/or asphalt pavement section (0.85 ft concrete + 0.25 ft hot mix asphalt + 0.70 ft Class 3 aggregate subbase).
+- **Datasets:**
+    - **BCS removal verification:** Soil samples were collected from excavation bases after BCS removal. Stockpile 3: 29 samples from 26 locations. Stockpile 2 west end: 10 samples from 8 locations. Stockpile 2 east end: 14 samples from 12 locations. All analyzed for barium and lead by EPA Method 6010B.
+    - **Clean fill source characterization:** Soil samples from four borrow areas (SR 132 ROW east of Carpenter Road, Basin 5, Bent 2 stockpiles, Carpenter Road shoofly) analyzed for barium and lead.
+    - **Groundwater/stormwater monitoring:** Four groundwater events (2 with sampling) and three stormwater events, analyzing for target analytes.
+    - **Air monitoring:** Real-time particulate counters (pDR-1200) and active filter sampling (NIOSH 0500 for total dust, NIOSH 7300 modified for metals) at upwind and downwind locations during BCS grading activities.
+- **Evaluation metrics:**
+    - **Soil:** RDIP verification thresholds: barium ≤1000 mg/kg, lead ≤80 mg/kg. Background concentrations: barium ≤120 mg/kg, lead ≤3.8 mg/kg.
+    - **Air:** Total dust fence-line action level = 4.0 mg/m³; barium action level = 25 µg/m³; lead action level = 1.5 µg/m³ (California Air Resources Board 30-day standard).
 
-## Site Preparation and BCS Removal/Placement
-- **Stockpile 3**: Approximately 27,675 yd³ (3,075 truckloads) were fully excavated and placed on Stockpile 1 and between Stockpile 1 and Emerald Avenue.
-- **Stockpile 2**: About 102,000 yd³ were graded and consolidated within designated BCS Containment Zones. The western and eastern ends were excavated; final verification confirmed barium concentrations of 54–760 mg/kg and lead of 1.5–35 mg/kg after re‑excavation of hotspots.
-- **MSE wall footing soil**: Soil from mechanically stabilized earth (MSE) wall foundations along Stockpile 1’s southern boundary (barium 42–420 mg/kg; 95% UCL = 171.9 mg/kg) was placed in Containment Zones. Stockpile 2 MSE wall footing data are pending.
-- **Verification thresholds**: Barium ≤ 1,000 mg/kg (groundwater protection); lead ≤ 80 mg/kg (DTSC residential screening level). Clean fill source characterization used site‑specific upperbound background concentrations: barium 120 mg/kg, lead 3.8 mg/kg.
+## Results
+- **Stockpile 3 removal:** ~27,675 yd³ (based on 9 yd³/truck) of BCS removed. Final verification: barium 46–970 mg/kg, lead 1.6–40 mg/kg (all below thresholds).
+- **Stockpile 2 west end:** Final verification: barium 54–760 mg/kg, lead 1.5–35 mg/kg.
+- **Stockpile 2 east end:** Final verification: barium 63–760 mg/kg, lead 1.6–35 mg/kg.
+- **MSE wall footing soil (Stockpile 1):** Barium 42–420 mg/kg, lead 1.1–6.7 mg/kg. The 95% upper confidence limit (UCL) for barium was 171.9 mg/kg (mean 128.3 mg/kg), exceeding the site-specific background maximum of 120 mg/kg. All excavated material was placed in BCS Containment Zones.
+- **Air monitoring:** All measured total dust, barium, and lead concentrations were below their respective action levels during all grading activities.
+- **Groundwater:** Two sampling events (February 2020, March 2021) reported target analytes below regulatory thresholds, consistent with historical data.
+- **Stormwater:** Three events (Dec 2019 – Dec 2020) showed analytical results consistent with historical data; no offsite migration of BCS-related contaminants was observed.
 
-## Monitoring and Compliance
-- **Air monitoring**: Real‑time direct‑read particulate counters (pDR‑1200) with PM‑10 inlets and active sampling (NIOSH 0500 for total dust, NIOSH 7300 for barium/lead) were used upwind/downwind and for personal sampling. Results were below action levels: total dust < 4.0 mg/m³, barium < 25 µg/m³, lead < 1.5 µg/m³.
-- **Groundwater/stormwater monitoring**: Four groundwater events (Nov 2019–Mar 2021) and three stormwater events (Dec 2019–Dec 2020) showed concentrations below regulatory thresholds and consistent with historical data; no offsite migration was observed. Annual groundwater monitoring will continue until a regulatory determination that capped BCS poses no threat to groundwater.
-- **Clean fill capping**: Class 3 aggregate subbase (minimum 4 inches) was approved as an alternative interim clean cover on Stockpile 1 and 2 upper surfaces after two DTSC‑approved variances to the RDIP. Capping was largely completed by Fall 2020. A record rain event in January 2021 caused significant erosion on unvegetated northerly slopes, which was repaired by September 2021; slopes were vegetated in October 2021.
-- **Land use covenant**: A land use covenant will be recorded to restrict future land use, with five‑year reviews and ongoing monitoring.
+## Limitations
+- The interim RACR is incomplete: as-built plans for the BCS Containment Zone (Figure 5), typical cross sections (Figure 6), boundary survey data (Appendix E), and the final Operation and Maintenance Plan (Appendix G) are pending.
+- Remaining work includes: placement of structural pavement section on the capped BCS Stockpiles, erosion control (slope vegetation, erosion control blankets, fiber rolls), drainage installation, median barrier and signage.
+- A record rain event in January 2021 caused significant erosion of clean cap material on north slopes of Stockpiles 1 and 2, requiring regrading in September 2021 and hydroseeding in October 2021.
+- Final certification and recording of the land use covenant (LUC) are pending; DTSC will prepare it.
+- The report covers only Interim Phase 1; a Final RACR will be submitted after Ultimate Phase 2 construction (scheduled completion 2028). A supplemental RDIP will be required before Phase 2 disturbance of BCS.
 
-## Statistical Methodology and Limitations
-- **95% UCL calculation**: ProUCL software (v5.14) was used to calculate upper confidence limits for MSE wall footing data. Based on simulation studies (Singh, Maichle, and Lee 2006), the H‑statistic UCL is unstable and should be avoided; nonparametric methods are preferred for skewed datasets that do not follow a gamma distribution.
-- **Stockpile 3 verification**: Final barium 46–970 mg/kg; lead 1.6–40 mg/kg (n=24 after re‑excavation).
-- **Stockpile 2**: West end – barium 54–430 mg/kg, lead 1.5–2.8 mg/kg; East end – barium 63–760 mg/kg, lead 1.6–23 mg/kg.
-- **Stockpile 1 MSE wall footing**: Barium 42–420 mg/kg, lead <1.0–6.7 mg/kg; the 95% UCL (171.9 mg/kg) exceeded site‑specific background (120 mg/kg) but was deemed suitable as capping material.
-- **Limitations**: Initial verification samples at several locations exceeded thresholds, requiring deepened excavation and resampling. A supplemental RDIP will be required prior to Phase 2 construction; final closure certification awaits Phase 2 completion. Statistical tests indicated the MSE wall data were not normally or gamma distributed.
-
-## Team Roles
-Key partners included Caltrans (owner/operator), City of Modesto (project proponent), Geocon (environmental consultant, verification sampling, air monitoring), WSP (construction manager), BCPG (contractor), Dokken (design engineer), and Kleinfelder (compaction testing).
+## Concepts
+BCS (barium-containing soil), ADL (aerially deposited lead), BCS Containment Zone, RDIP (Remedial Design Implementation Plan), RACR (Removal Action Completion Report), MSE (mechanically stabilized earth) wall, verification threshold, 95% UCL (upper confidence limit), DTSC (Department of Toxic Substances Control), CVRWQCB (Central Valley Regional Water Quality Control Board), ESL (Environmental Screening Level), NIOSH 0500/7300 modified, PM-10, land use covenant (LUC)

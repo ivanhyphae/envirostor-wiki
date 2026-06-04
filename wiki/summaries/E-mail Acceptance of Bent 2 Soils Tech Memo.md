@@ -2,31 +2,32 @@
 source: raw/E-mail Acceptance of Bent 2 Soils Tech Memo.pdf
 source_type: paper
 source_hash: sha256:cbfd96746bf49669d940b23f126f3fa1fb02aeeb772776b39b2dc10ba033450d
-compiled_at: 2026-06-04T03:14:28Z
+compiled_at: 2026-06-04T07:57:58Z
 chunk_count: 1
 ---
 
 ## Key claims
-- Soils from the Bent 2 column excavation exceed the background criteria established in the April 9, 2020 Variance Request for use as clean cap material.
-- Despite not meeting clean cap criteria, the soil can still be used as a 6-inch or thinner layer placed on top of Stockpile 2, provided it is covered with clean base material and asphalt/concrete roadway construction.
-- The acceptance of the Technical Memo (Tech Memo) and Revised Stormwater Pollution Prevention Plan (SWPPP) Amendment is officially granted by the Department of Toxic Substances Control (DTSC) and the Water Board (WB).
-- Strict adherence to rainy season surface water sampling and erosion control measures in the SWPPP is required to prevent off-site contaminant migration.
+- The Bent 2 excavation soils exceed the established background criteria for use as clean cap cover material as per the April 9, 2020 Variance Request approved by DTSC.
+- Despite exceeding criteria, DTSC and the Water Board conditionally approve placement of the soil on top of Stockpile 2 at a thickness of 6 inches or less, provided it is covered with clean base material and the roadway asphalt/concrete.
+- The conditional approval is intended to allow efficient use of the soil while maintaining the integrity of the remedy.
+- Strict adherence to the Revised Stormwater Pollution Prevention Plan (SWPPP) Amendment (dated October 22, 2020) and winter surface water sampling is required to prevent off-site contaminant migration.
+- The email serves as DTSC’s official acceptance of the Tech Memo and the Revised SWPPP Amendment.
 
 ## Methodology
-- The paper is an email correspondence summarizing regulatory review of a Technical Memorandum (Tech Memo) dated October 30, 2020.
-- Analytical results compared Bent 2 excavation soil samples against established background criteria from an April 9, 2020 Variance Request approved by DTSC.
-- Evaluation metric: whether soil sample concentrations meet the "clean cap criteria" as defined in the Variance Request.
-- A Revised SWPPP Amendment dated October 22, 2020 was also reviewed and accepted.
+- The Technical Memorandum (dated October 30, 2020) evaluated the suitability of excavated Bent 2 soils as clean cap material.
+- Analytical testing was performed on soil samples collected from the Bent 2 column excavation; specific analytical methods, target analytes, and detection limits are not described in the email.
+- Comparison of results against background concentration criteria established in the Variance Request (April 9, 2020) determined exceedance.
+- The assessment was part of the SR 132 project regulatory process (California Department of Transportation, DTSC, Water Board). No formal evaluation metrics beyond pass/fail of background criteria are stated.
 
 ## Results
-- Quantitative numbers: The soil sample results **do not meet** the clean cap criteria (no specific concentration values provided).
-- Acceptance: DTSC and WB agree the soil can be placed at a thickness of **6 inches or less** on Stockpile 2, under specified coverage conditions.
-- Condition: Must be covered with clean base material and asphalt/concrete roadway construction.
+- All analytical results for Bent 2 soils exceeded the predetermined background criteria for clean cap use.
+- No specific numerical values for concentrations or exceedance magnitudes are provided in the email.
+- The conditional approval allows placement only under restricted conditions: ≤6 inch thickness on Stockpile 2, with clean base cover, and final pavement cover.
 
 ## Limitations
-- The Bent 2 soils may be temporarily exposed to the elements during winter months due to project schedule constraints, posing a risk of contaminant mobilization.
-- The acceptance is conditional on strict adherence to the SWPPP's rainy season surface water sampling and erosion control measures to ensure contaminants remain on site.
-- No explicit caveats about the analytical methods or sample representativeness are mentioned.
+- The soils do not meet the original clean cap criteria; the approval is a compensatory approach.
+- Temporal exposure during winter months is anticipated due to project schedule, requiring enhanced erosion control and monitoring.
+- The acceptance is conditional upon strict implementation of the Revised SWPPP Amendment and surface water sampling during the rainy season.
 
 ## Concepts
-clean cap criteria, Variance Request, Stormwater Pollution Prevention Plan (SWPPP), clean cover material, Stockpile 2, surface water sampling, erosion control, contaminated soil management, regulatory acceptance, DTSC, Water Board
+Clean cap material, Background criteria, Variance Request, Stockpile 2, Stormwater Pollution Prevention Plan (SWPPP), Erosion control measures, Surface water sampling
