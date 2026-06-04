@@ -1,0 +1,13 @@
+---
+source: raw/S9800-01-17A Modesto Stockpiles Mar 5 2016 Stormwater Samplng_04 16.pdf
+source_type: paper
+source_hash: sha256:c960db457eb38b63c2c6b6d9304cd69e06a63dcd39cdc338ab2e994695923862
+compiled_at: 2026-06-04T04:12:13Z
+chunk_count: 4
+---
+
+The source document “raw/S9800-01-17A Modesto Stockpiles Mar 5 2016 Stormwater Samplng_04 16.pdf” reports on surface water sampling conducted at Caltrans Modesto Soil Stockpiles (Stanislaus County, CA) during a rain event on March 5, 2016. Six grab samples were collected—five from stockpile runoff areas (PL1–PL5) and one background sample (BG1); BG2 was dry. Stormwater was retained onsite; no offsite migration was observed. Field parameters (pH, conductivity, turbidity, ORP, DO) were measured, and samples were field‑filtered (0.45 µm) for dissolved metals. Laboratory analyses included dissolved metals (by EPA 6020/7470A), anions (EPA 300.0), sulfide (SM 4500‑S‑D), alkalinity (SM 2320B), TDS (SM 2540C), and TSS (SM 2540D).
+
+Results showed that most dissolved metals were below primary Maximum Contaminant Levels (MCLs). However, manganese in sample PL2 (60 µg/L) exceeded the secondary MCL of 50 µg/L (taste/odor threshold). Zinc was detected in PL2, PL4, and PL5; arsenic in PL2; and other metals (antimony, barium, calcium, chromium, copper, magnesium, molybdenum, nickel, potassium, sodium, strontium, vanadium) were found in the runoff samples. Background sample BG1 contained similar metals at comparable levels, with no MCL exceedances. General mineral parameters (alkalinity, TDS, TSS, chloride, sulfate) were within typical ranges and consistent with previous events.
+
+Limitations included: all samples were outside holding time for nitrate analysis (collected on a Saturday); dilution was required for some analytes (calcium in all samples; barium and potassium in PL3); matrix spike recoveries for calcium, magnesium, nitrate, and sulfate fell outside acceptance limits, though the batch was validated by laboratory control samples (LCS). In the QC section (Certificate of Analysis), additional matrix spike recoveries for dissolved metals (e.g., calcium, copper, vanadium) also exceeded limits, with flags (M1) noting potential matrix interference, but the batch was accepted based on LCS performance. One sample was received past holding time (H1), and high‑concentration targets required dilution (D6). Overall, the data characterize stormwater quality at the stockpiles with the only exceedance being secondary MCL for manganese.

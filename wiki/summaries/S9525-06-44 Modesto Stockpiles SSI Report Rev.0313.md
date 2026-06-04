@@ -1,0 +1,19 @@
+---
+source: raw/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313.pdf
+source_type: paper
+source_hash: sha256:851cdae5810d4a35583b6e8c183f9eb56a5a91a5af45577c3c56ae579f1b7141
+compiled_at: 2026-06-04T04:13:48Z
+chunk_count: 18
+---
+
+Based on the six section summaries, the source document is a combined site investigation and laboratory analytical report for the Modesto Stockpiles project (S9525-06-44) in California. The investigation focused on three soil stockpiles containing barium from historical chemical processing, with the goal of assessing contaminant migration and satisfying regulatory data gaps to inform a Remedial Action Plan.
+
+The report’s key finding is that barium and cadmium concentrations at stockpile perimeters and fencelines did not exceed California Human Health Screening Levels (CHHSLs), indicating no lateral or vertical migration of contaminants. While barium reached very high levels inside the stockpiles (up to 130,000 mg/kg in one sample), all perimeter and fenceline results (barium up to 4,300 mg/kg) were below the residential CHHSL of 5,200 mg/kg. Cadmium was not detected in any of the laboratory samples, supporting the report’s assertion that earlier 2004 detections were likely false positives caused by barium interference. One sample (CB3-9.0) showed diesel range organics (DRO) at 120 mg/kg, slightly exceeding the residential Environmental Screening Level of 83 mg/kg.
+
+The field methodology involved 68 soil borings (35 fenceline, 28 perimeter, 5 targeting historical cadmium hotspots) drilled between September 25–28, 2012, using direct-push and hand-auger techniques. All samples were sent to Advanced Technology Laboratories and analyzed for Title 22 metals, barium, cadmium, and, in one instance, petroleum hydrocarbons and PAHs. Laboratory methods included EPA 6020 (ICP-MS), 6010B (ICP-AES), 7471 (mercury), 8015B (GRO/DRO), and 8270/SIM (SVOCs). Sample processing used EPA 3050B digestion, and results were reported with practical quantitation limits (PQLs) and dilution factors where necessary.
+
+Detailed laboratory results confirmed high barium concentrations in interior samples (e.g., 130,000 mg/kg at CB2-11.0, 95,000–97,000 mg/kg at other cadmium boring locations) and generally non-detectable levels of antimony, beryllium, cadmium, selenium, silver, thallium, and mercury. Other detected metals included arsenic (up to 2,100 µg/kg), chromium (up to 7,900 µg/kg), copper (up to 18,000 µg/kg), lead (up to 44,000 µg/kg), nickel (up to 7,800 µg/kg), vanadium (up to 25,000 µg/kg), and zinc (up to 200,000 µg/kg). Strontium ranged up to 270 mg/kg.
+
+Quality control data showed frequent matrix spike recovery failures for barium, lead, and selenium (flagged M1), attributed to matrix interference from high native concentrations. Some duplicate RPDs and DRO recoveries also fell outside acceptance limits. The report notes that cadmium borings were only placed in Stockpiles 2 and 3, and that the 2004 data appear unreliable. These limitations, along with the limited scope of sampling, mean the report is not a comprehensive site characterization but sufficient for its regulatory purpose.
+
+Key concepts used throughout the report include Title 22 metals, California Human Health Screening Levels (CHHSLs), Total Threshold Limit Concentration (TTLC), Soluble Threshold Limit Concentration (STLC), Environmental Screening Levels (ESLs), Regional Screening Levels (RSLs), site-specific background levels, EPA methods 6020, 6010B, 7471, 8015B, and 8270/SIM, ICP-MS, ICP-AES, cold vapor atomic absorption, direct-push sampling, and the Unified Soil Classification System.

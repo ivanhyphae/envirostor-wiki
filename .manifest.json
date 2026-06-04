@@ -118,6 +118,15 @@
       "summary_path": "wiki/summaries/7083_S9525-06-44 Modesto Soil Stockpiles Fenceline Workplan.0912 (1).md",
       "status": "compiled"
     },
+    "raw/7083_S9525-06-44 Modesto Soil Stockpiles Fenceline Workplan.0912.pdf": {
+      "hash": "sha256:7fb0cb82ce3e22cbc9a8d6b736624f06e94a7acb2d1e41da4caf8d0250d54700",
+      "type": "paper",
+      "size_bytes": 15139320,
+      "added_at": "2026-06-04T04:14:24Z",
+      "compiled_at": "2026-06-04T04:14:24Z",
+      "summary_path": "wiki/summaries/7083_S9525-06-44 Modesto Soil Stockpiles Fenceline Workplan.0912.md",
+      "status": "compiled"
+    },
     "raw/7084_S9525-06-44 Response to DTSC Workplan Comments.0912 (1).pdf": {
       "hash": "sha256:9ae7757f29ec6bb5cd28f9f9ba660f9913efd1d6554891c116aee45143c91f32",
       "type": "paper",
@@ -350,6 +359,15 @@
       "added_at": "2026-06-04T03:16:39Z",
       "compiled_at": "2026-06-04T03:16:39Z",
       "summary_path": "wiki/summaries/Draft Interim RACR_ App D-G.md",
+      "status": "compiled"
+    },
+    "raw/Draft Interim RACR_Text_Figures_Tables_ App A-C.pdf": {
+      "hash": "sha256:1d82e4bc71c1f1b2db917eeb7590e5001c0165ffb65fbc9f5e17cd99e3d5dcdc",
+      "type": "paper",
+      "size_bytes": 75954837,
+      "added_at": "2026-06-04T04:14:24Z",
+      "compiled_at": "2026-06-04T04:14:24Z",
+      "summary_path": "wiki/summaries/Draft Interim RACR_Text_Figures_Tables_ App A-C.md",
       "status": "compiled"
     },
     "raw/E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan.pdf": {
@@ -595,6 +613,15 @@
       "summary_path": "wiki/summaries/S1200-01-01 Modesto Stockpiles Well Dest Rpt_06.19.md",
       "status": "compiled"
     },
+    "raw/S1908-01-01 Caltrans Modesto Stockpile Interim RACR_12.22 (1).pdf": {
+      "hash": "sha256:ffd8a3c5bbd3749957c6b850ff69fc7c5b5ae3e729872deac2294a3bc88aa01a",
+      "type": "paper",
+      "size_bytes": 68209570,
+      "added_at": "2026-06-04T04:14:23Z",
+      "compiled_at": "2026-06-04T04:14:23Z",
+      "summary_path": "wiki/summaries/S1908-01-01 Caltrans Modesto Stockpile Interim RACR_12.22 (1).md",
+      "status": "compiled"
+    },
     "raw/S2350-01-02 Stormwater SAP_12.23.pdf": {
       "hash": "sha256:e08910f9375071d402d525e34a4552d351b186db66a3bc88ba7429da570fe14e",
       "type": "paper",
@@ -620,6 +647,15 @@
       "added_at": "2026-06-04T03:16:41Z",
       "compiled_at": "2026-06-04T03:16:41Z",
       "summary_path": "wiki/summaries/S2350-01-02 Well Destruction Report_6.25.md",
+      "status": "compiled"
+    },
+    "raw/S2350-01-02_2.1.2024 Stormwater Sampling Report_5.24.pdf": {
+      "hash": "sha256:56e466ad59e26f61d666f8fe6d64cfc0eb9b989b6a4b26e41dd48e95c0779ba6",
+      "type": "paper",
+      "size_bytes": 4111629,
+      "added_at": "2026-06-04T04:14:25Z",
+      "compiled_at": "2026-06-04T04:14:25Z",
+      "summary_path": "wiki/summaries/S2350-01-02_2.1.2024 Stormwater Sampling Report_5.24.md",
       "status": "compiled"
     },
     "raw/S2350-01-02_2.4.2025 Stormwater Sampling Report_6.25.pdf": {
@@ -676,6 +712,15 @@
       "summary_path": "wiki/summaries/S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.md",
       "status": "compiled"
     },
+    "raw/S9525-06-44 HHRA UPDATE Rev.0313.pdf": {
+      "hash": "sha256:f123e47ea97ef62a3a478894fed3896b1aa5bd461d0748640c7666da95215c76",
+      "type": "paper",
+      "size_bytes": 3083824,
+      "added_at": "2026-06-04T04:14:24Z",
+      "compiled_at": "2026-06-04T04:14:24Z",
+      "summary_path": "wiki/summaries/S9525-06-44 HHRA UPDATE Rev.0313.md",
+      "status": "compiled"
+    },
     "raw/S9525-06-44 Modesto Stockpiles GW.0612.pdf": {
       "hash": "sha256:e2ae8fdbe8edb1f3b5d7ac4f0b8fd1842ba4cadc26e4fd36da465b9da1aee551",
       "type": "paper",
@@ -683,6 +728,15 @@
       "added_at": "2026-06-04T04:05:47Z",
       "compiled_at": "2026-06-04T04:05:47Z",
       "summary_path": "wiki/summaries/S9525-06-44 Modesto Stockpiles GW.0612.md",
+      "status": "compiled"
+    },
+    "raw/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313.pdf": {
+      "hash": "sha256:851cdae5810d4a35583b6e8c183f9eb56a5a91a5af45577c3c56ae579f1b7141",
+      "type": "paper",
+      "size_bytes": 11715594,
+      "added_at": "2026-06-04T04:14:25Z",
+      "compiled_at": "2026-06-04T04:14:25Z",
+      "summary_path": "wiki/summaries/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313.md",
       "status": "compiled"
     },
     "raw/S9525-06-44A Caltrans Modesto Stockpiles GW Nov2012 0213.pdf": {
@@ -739,6 +793,15 @@
       "summary_path": "wiki/summaries/S9800-01-17 Caltrans Modesto Stockpiles Dec 2013 GW Mon 0114.md",
       "status": "compiled"
     },
+    "raw/S9800-01-17 Caltrans Modesto Stockpiles GW_06.15.pdf": {
+      "hash": "sha256:8ed62b3c1f15d63369dc3198e6e2a7204bca0955ff6f550d40c538f024823cb3",
+      "type": "paper",
+      "size_bytes": 2274032,
+      "added_at": "2026-06-04T04:14:26Z",
+      "compiled_at": "2026-06-04T04:14:26Z",
+      "summary_path": "wiki/summaries/S9800-01-17 Caltrans Modesto Stockpiles GW_06.15.md",
+      "status": "compiled"
+    },
     "raw/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.pdf": {
       "hash": "sha256:7ee361aa4d9cbd01425397e946573e94cbec0083cef6ce4675d1809ed79aee67",
       "type": "paper",
@@ -746,6 +809,15 @@
       "added_at": "2026-06-04T03:16:43Z",
       "compiled_at": "2026-06-04T03:16:43Z",
       "summary_path": "wiki/summaries/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.md",
+      "status": "compiled"
+    },
+    "raw/S9800-01-17 Modesto Stockpiles Feb2014 GW Mon 0414 (1).pdf": {
+      "hash": "sha256:798dc9f3d02c249351106f7af45ea92bb8cbe70bce4a4204399b42e2f15a3779",
+      "type": "paper",
+      "size_bytes": 3897192,
+      "added_at": "2026-06-04T04:14:25Z",
+      "compiled_at": "2026-06-04T04:14:25Z",
+      "summary_path": "wiki/summaries/S9800-01-17 Modesto Stockpiles Feb2014 GW Mon 0414 (1).md",
       "status": "compiled"
     },
     "raw/S9800-01-17 Modesto Stockpiles Feb2014 GW Mon 0414.pdf": {
@@ -784,6 +856,24 @@
       "summary_path": "wiki/summaries/S9800-01-17A Modesto Stockpiles Dec 11 2015 Stormwater Sampling Report_02.16.md",
       "status": "compiled"
     },
+    "raw/S9800-01-17A Modesto Stockpiles Jan 6 2016 Stormwater Smplng 0216.pdf": {
+      "hash": "sha256:eba0c3ed3ad21ae940091d0c8d53cea9a3a31f20a2642e4b9bc9c58aa6e8f114",
+      "type": "paper",
+      "size_bytes": 3844897,
+      "added_at": "2026-06-04T04:14:22Z",
+      "compiled_at": "2026-06-04T04:14:22Z",
+      "summary_path": "wiki/summaries/S9800-01-17A Modesto Stockpiles Jan 6 2016 Stormwater Smplng 0216.md",
+      "status": "compiled"
+    },
+    "raw/S9800-01-17A Modesto Stockpiles Mar 5 2016 Stormwater Samplng_04 16.pdf": {
+      "hash": "sha256:c960db457eb38b63c2c6b6d9304cd69e06a63dcd39cdc338ab2e994695923862",
+      "type": "paper",
+      "size_bytes": 2648669,
+      "added_at": "2026-06-04T04:14:24Z",
+      "compiled_at": "2026-06-04T04:14:24Z",
+      "summary_path": "wiki/summaries/S9800-01-17A Modesto Stockpiles Mar 5 2016 Stormwater Samplng_04 16.md",
+      "status": "compiled"
+    },
     "raw/SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020.pdf": {
       "hash": "sha256:c5fe592bf15c051a6b36d3957ce5165d2bb6fb10d66f5740eb8d67ed942c30ed",
       "type": "paper",
@@ -793,6 +883,15 @@
       "summary_path": "wiki/summaries/SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020.md",
       "status": "compiled"
     },
+    "raw/SR 132 Clean Borrow Area Technical Memo.pdf": {
+      "hash": "sha256:bd07277165e4e4b56e0d66bcb70427b8991476ee0c243bc24c5af2a7e30b5b85",
+      "type": "paper",
+      "size_bytes": 4753162,
+      "added_at": "2026-06-04T04:14:22Z",
+      "compiled_at": "2026-06-04T04:14:22Z",
+      "summary_path": "wiki/summaries/SR 132 Clean Borrow Area Technical Memo.md",
+      "status": "compiled"
+    },
     "raw/SR 132 Stockpile 2 BCS Removal Tech Memo.pdf": {
       "hash": "sha256:486feafa0f38f3df56504a95e90cdb8bfab50365e9f8f313b3de4e2480ab7518",
       "type": "paper",
@@ -800,6 +899,15 @@
       "added_at": "2026-06-04T03:16:22Z",
       "compiled_at": "2026-06-04T03:16:22Z",
       "summary_path": "wiki/summaries/SR 132 Stockpile 2 BCS Removal Tech Memo.md",
+      "status": "compiled"
+    },
+    "raw/SR 132 Stockpile 3 BCS Removal Tech Memo.pdf": {
+      "hash": "sha256:492ce758b72d075d221f5ef586f6ece0d7b6b03ff3a4135f62f259c66cdec9da",
+      "type": "paper",
+      "size_bytes": 3835210,
+      "added_at": "2026-06-04T04:14:23Z",
+      "compiled_at": "2026-06-04T04:14:23Z",
+      "summary_path": "wiki/summaries/SR 132 Stockpile 3 BCS Removal Tech Memo.md",
       "status": "compiled"
     },
     "raw/Stockpile 1 MSE Wall Sampling Tech Memo.pdf": {

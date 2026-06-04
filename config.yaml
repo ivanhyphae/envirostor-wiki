@@ -25,8 +25,6 @@ api:
   api_key: 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
   base_url: https://openrouter.ai/api/v1          # custom endpoint (OpenRouter, Azure, local proxy, etc.)
   # rate_limit: 60      # requests per minute (default: auto per provider)
-  extra_params:
-    reasoning_effort: low
 
 # Model selection per task
 # Use faster/cheaper models for high-volume tasks, quality models for writing
@@ -48,7 +46,7 @@ embed:
 compiler:
   max_parallel: 4
   debounce_seconds: 2
-  summary_max_tokens: 2000
+  summary_max_tokens: 4000
   article_max_tokens: 4000
   auto_commit: true
   auto_lint: true
