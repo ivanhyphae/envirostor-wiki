@@ -1,10 +1,10 @@
 ---
 concept: modesto-formation
 entity_type: concept
-aliases: ["upper aquifer", "Modesto Formation aquifer"]
-sources: ["raw/S9800-01-17 Caltrans Modesto Stockpiles Dec 2013 GW Mon 0114.pdf", "raw/S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.pdf", "S9800-01-17A Caltrans Modesto Stockpiles GW_06 16.pdf"]
-confidence: medium
-created_at: 2026-06-04T03:24:00Z
+aliases: []
+sources: ["raw/S9525-01-44C Modesto Stockpiles GW September 2013 1013.pdf", "raw/S9525-06-44A Caltrans Modesto Stockpiles GW 0213.pdf"]
+confidence: high
+created_at: 2026-06-04T04:21:06Z
 ---
 
 ## Modesto Formation (geology)
@@ -15,15 +15,15 @@ The Modesto Formation is a Quaternary alluvial geologic unit widely distributed 
 ### How it works
 The Modesto Formation functions as an unconfined to semi-confined aquifer system. Its hydraulic properties are controlled by the heterogeneous layering of coarse-grained channel deposits (high permeability) and fine-grained overbank or floodplain deposits (low permeability). Groundwater flows primarily through the sand and gravel layers, recharged by infiltration of precipitation, streamflow from the Sierra foothills, and irrigation return flows. The formation sits above older Tertiary formations (e.g., the Tehama Formation) and is often overlain by younger Holocene alluvium. Its thickness varies from a few meters to over 100 meters, with the thickest deposits near the valley axis.
 
-In groundwater monitoring contexts (as seen in the provided Caltrans stockpile reports), the Modesto Formation is the target aquifer for monitoring wells. Wells are screened within its coarser intervals to track water levels and quality. The formation’s high vertical and lateral variability means that local-scale hydraulic conductivity can range from <1 ft/day (clay-rich zones) to >100 ft/day (clean gravels). This heterogeneity influences contaminant transport and well yield.
+In groundwater monitoring contexts—as documented in Caltrans stockpile reports (e.g., the provided Modesto Stockpiles reports)—the Modesto Formation is the target aquifer for monitoring wells. Wells are screened within its coarser intervals to track water levels and water quality. The formation’s high vertical and lateral variability means that local-scale hydraulic conductivity can range from <1 ft/day (clay-rich zones) to >100 ft/day (clean gravels). This heterogeneity strongly influences contaminant transport and well yield.
 
 ### Variants
-- **Modesto facies**: The classic alluvial fan and braided-stream deposits (dominant gravels and sands).
+- **Modesto facies**: The classic alluvial fan and braided-stream deposits, dominated by gravels and sands.
 - **Riverbank facies**: Finer-grained sands and silts associated with ancestral San Joaquin River meanders.
 - **Lacustrine facies**: Localized clay and silt lenses deposited in ephemeral lakes or backswamps.
 - **Eolian facies**: Rare thin silt layers reworked by wind.
 
-In some classification schemes, the Modesto Formation is subdivided into an upper unit (less consolidated) and a lower unit (slightly more cemented). The formation is equivalent in part to the “Modesto Formation” of the USGS Quaternary mapping and should not be confused with the older “Modesto Formation” of the Cretaceous (which is a different unit in the same region).
+In some classification schemes, the Modesto Formation is subdivided into an upper unit (less consolidated) and a lower unit (slightly more cemented). The formation is equivalent in part to the “Modesto Formation” of the USGS Quaternary mapping and should not be confused with the older “Modesto Formation” of the Cretaceous (a different unit in the same region).
 
 ### Trade-offs
 - **Heterogeneity**: While the coarse units are excellent aquifers, the lateral discontinuity of permeable zones makes well placement critical. One well may intersect productive gravel, while a nearby well in clay yields negligible water.
