@@ -2,6 +2,8 @@ api:
     api_key: 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
     base_url: https://openrouter.ai/api/v1
     provider: openai-compatible
+    extra_params:
+        reasoning_effort: low
 parsers:
     external: true
     trust_external: true
@@ -12,7 +14,7 @@ compiler:
     debounce_seconds: 2
     default_tier: 3
     max_parallel: 4
-    summary_max_tokens: 12000
+    summary_max_tokens: 4000
 description: 'sage-wiki project: envirostor-wiki'
 embed:
     api_key: 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
