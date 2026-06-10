@@ -1,0 +1,15 @@
+---
+source: raw/S9525-01-44C Modesto Stockpiles GW September 2013 1013.pdf
+source_type: paper
+source_hash: sha256:f9169dc3c3e259749350c2ab282e3b95e7fcce3e5f7d1f00be6cf1bf589afc7e
+compiled_at: 2026-06-10T19:37:13Z
+chunk_count: 3
+---
+
+This document is a combined groundwater monitoring report for the Caltrans Modesto Soil Stockpiles site (southerly of SR 99 and Kansas Avenue, Stanislaus County, California), prepared by Geocon Consultants, Inc. and dated October 24, 2013. It covers the September 2013 quarterly sampling event and includes laboratory analytical reports (Certificates of Analysis) from Advanced Technology Laboratories (ATL Global) for nine monitoring wells (MW‑1, MW‑3 through MW‑10).
+
+The Geocon report identifies that nitrate (as N) equaled or exceeded the primary MCL of 10 mg/L in wells MW‑1 (12 mg/L), MW‑4 (10 mg/L), MW‑5 (36 mg/L), MW‑6 (16 mg/L), and MW‑10 (17 mg/L). Total dissolved solids (TDS) exceeded the secondary MCL of 500 mg/L in the same five wells (ranging from 510 to 750 mg/L). Upgradient well MW‑1 had elevated levels (12 mg/L nitrate, 590 mg/L TDS), which the report suggests may represent natural background concentrations. No dissolved metals (barium, strontium, arsenic, chromium, vanadium, lead) exceeded their respective primary MCLs, EPA health advisories, or notification levels; lead was not detected above the practical quantitation limit.
+
+The laboratory data (EPA 6020 for dissolved metals, EPA 7470A for mercury, EPA 300 for anions, and standard methods for alkalinity, TDS, and sulfide) provide detailed results for each well. Barium concentrations ranged from 36 to 320 µg/L, strontium from 260 to 1,200 µg/L, arsenic from 1.4 to 5.8 µg/L, chromium from 1.2 to 9.4 µg/L, and vanadium from 19 to 38 µg/L. Mercury was not detected (PQL 0.20 µg/L) in all samples. Several matrix spike recoveries fell outside laboratory acceptance limits (e.g., barium, chromium, strontium, sodium, vanadium), but the analytical batches were validated by laboratory control samples, so no data qualification was deemed necessary. Additional QA/QC flags include dilution due to high analyte concentration (D6) and results above quantitation range (E). Stiff diagrams in the appendix characterize groundwater hydrochemistry as calcium-dominant or sodium-dominant.
+
+Regulatory oversight is provided by the Department of Toxic Substances Control (DTSC) and the Central Valley Regional Water Quality Control Board (CVRWQCB). DTSC previously concurred with discontinuing PAH analysis after November 2012. Remedial actions completed during this period included replacement of a damaged well box for MW‑6 and lock replacement on all wells. The next quarterly monitoring event was scheduled for December 2013. Caltrans is the owner/operator, Geocon is the consultant performing monitoring and reporting, and ATL Global provided the analytical services.

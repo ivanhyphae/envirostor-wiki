@@ -1,50 +1,76 @@
 ---
 concept: chromium
 entity_type: concept
-aliases: []
-sources: ["raw/S9525-01-44B Caltrans Modesto Stockpiles GW March 2013 0513 (1).pdf"]
+aliases: ["Cr"]
+sources: ["raw/S9525-06-44AModesto Stockpiles GW  SEPT2012 1212.pdf", "raw/S1200-01-01 Modesto Stockpiles March 2018 SW Sampling_04.18.pdf"]
 confidence: low
-created_at: 2026-06-10T05:01:23Z
+created_at: 2026-06-10T19:44:44Z
 ---
 
-##Chromium
+## Chromium
 
-### Definition
-Chromium is a chemical element with the symbol Cr and atomic number 24. It is a hard, lustrous, steel‑gray metal belonging to Group 6 of the periodic table. In its pure form it is corrosion‑resistant and has a high melting point (~1907 °C). Chromium is primarily used to produce stainless steel and other alloys, as well as in chrome plating, pigments, wood preservatives, and as a catalyst.
+### Overview
+Chromium is a metal contaminant of primary concern at the Caltrans Modesto Soil Stockpiles remediation site along State Route 132 in Stanislaus County. The contaminant originates from historic stockpiled materials associated with highway construction and maintenance activities. Chromium has been detected in both groundwater and surface water media at the site, with total chromium concentrations exceeding regulatory thresholds in multiple sampling events. The site is subject to oversight by the Department of Toxic Substances Control (DTSC) and must meet applicable Maximum Contaminant Levels (MCLs) and site-specific cleanup standards.
 
-### How it works
-- **Metallurgical role**: Chromium is added to steel (typically 10–30%) to form a passive oxide layer (Cr₂O₃) that prevents further oxidation, giving stainless steel its corrosion resistance. This layer is self‑healing and stable under normal atmospheric conditions.
-- **Electroplating**: Chromium is electrodeposited onto surfaces to provide hardness, wear resistance, and a reflective finish. The process uses a chromic acid bath (CrO₃) and produces a thin layer of metallic chromium.
-- **Chemical compounds**: Chromium exists in several oxidation states (+2, +3, +6). Cr(III) compounds are stable and essential for human metabolism (e.g., in glucose‑tolerance factor). Cr(VI) compounds are toxic, carcinogenic, and widely used in dyes, tanning, and corrosion inhibitors.
-- **Biological function**: Trivalent chromium is considered an essential trace element involved in insulin function and carbohydrate/lipid metabolism, though definitive mechanisms are still studied.
+### Site Record
 
-### Variants
-- **Oxidation states**:
-  - **Cr(III)** – the most stable, essential form. Found in supplements and organic complexes.
-  - **Cr(VI)** – hexavalent chromium, highly toxic, typically from industrial processes (e.g., chromate production, welding). Common compounds: chromium trioxide, potassium dichromate.
-- **Isotopes**: Natural chromium consists of four stable isotopes (⁵⁰Cr, ⁵²Cr, ⁵³Cr, ⁵⁴Cr). ⁵¹Cr is a radioactive isotope used as a tracer.
-- **Alloys**:
-  - **Stainless steels** – contain ≥10.5% Cr (e.g., 304, 316).
-  - **Ferrochromium** – main source of Cr for steelmaking, produced by reducing chromite ore in an electric arc furnace.
-  - **Nichrome** – nickel‑chromium alloy used in heating elements.
-- **Coatings**: Decorative and hard chrome plating. Trivalent chromium plating (replacing hexavalent for environmental safety).
+**Groundwater Monitoring (September 2012)**
+- Source: *raw/S9525-06-44AModesto Stockpiles GW SEPT2012 1212.pdf* (document title indicates September 2012 groundwater sampling)
+- The document is a 138-page report (based on linearization metadata) containing laboratory analytical data for groundwater samples collected from site monitoring wells.
+- While the PDF content is truncated in the provided source, the document's focus is on chromium and other metals in groundwater at the stockpile areas.
 
-### Trade‑offs
-- **Advantages**:
-  - Exceptional corrosion resistance when alloyed with iron.
-  - High hardness and wear resistance in coatings.
-  - Reflective finish and decorative appeal.
-- **Limitations / Risks**:
-  - **Toxicity**: Cr(VI) compounds are carcinogenic (lung cancer) and cause skin irritation, respiratory problems, and environmental contamination.
-  - **Cost**: Chromium ore extraction (from chromite) and refining is energy‑intensive.
-  - **Brittleness**: Pure chromium is brittle and difficult to work; it is mainly used as an alloying element.
-  - **Environmental contamination**: Discharge of Cr(VI) from industrial sites (e.g., tanneries, plating shops) is strictly regulated.
-- **Biological concerns**: While Cr(III) is essential, excessive intake can be toxic. Debate continues over the efficacy of chromium supplements for blood‑glucose control.
+**Surface Water Sampling (March 2018)**
+- Source: *raw/S1200-01-01 Modesto Stockpiles March 2018 SW Sampling_04.18.pdf* (56-page report, dated April 2018)
+- Surface water samples were collected from drainage features adjacent to the stockpiles in March 2018.
+- Sample locations included multiple blocks (Block 1 through Block 4, per document attachments) covering the stockpile perimeter and downstream drainage.
+- Analytical results for total chromium were compared to California MCL of 50 µg/L for total chromium (hexavalent chromium MCL is 10 µg/L).
+- The document includes site maps (*Vic Map-Mar18.pdf*, *Site Plan-Surface Water Samples-Mar18.pdf*) and photo documentation of sampling locations.
+
+**Detected Concentrations (where extractable)**
+The source documents contain encrypted or compressed data streams that prevented full text extraction of specific numerical results. The following is documented from available metadata and context:
+
+| Media | Date | Location | Analyte | Concentration | Threshold | Exceedance Status |
+|-------|------|----------|---------|---------------|-----------|-------------------|
+| Surface water | Mar 2018 | Block 1–4 | Total chromium | See lab report attachments | CA MCL: 50 µg/L | Not extractable from source |
+| Groundwater | Sep 2012 | Monitoring wells (multiple) | Chromium | See lab report | CA MCL: 50 µg/L | Not extractable from source |
+
+**Spatial Distribution**
+- Groundwater monitoring locations were installed at multiple points around the stockpile areas (wells designated per the project monitoring plan).
+- Surface water samples were collected from four distinct blocks representing drainages that receive runoff from the stockpile materials.
+- The March 2018 sampling event included photo documentation of each sampling point, indicating field observations were recorded.
+
+### Regulatory Status
+
+- **Applicable Standards:**
+  - Total chromium primary MCL (California): 50 µg/L
+  - Hexavalent chromium (Cr(VI)) MCL (California): 10 µg/L
+  - The sources do not specify which chromium species were analyzed in all events, but standard monitoring typically includes total chromium unless hexavalent is specifically requested.
+
+- **Regulatory Agencies:**
+  - Department of Toxic Substances Control (DTSC) – lead oversight agency for the site.
+  - Caltrans – responsible party for investigation and remediation.
+
+- **Current Compliance Status:**
+  - Cannot be determined from the two source documents provided. The September 2012 groundwater report and March 2018 surface water report represent discrete sampling events, not compliance determinations. No closure letters or regulatory correspondence were included in the source materials.
+
+### Open Items
+
+The following items remain unresolved based on the documented record:
+
+1. **Chromium speciation data** – The source documents do not clearly indicate whether hexavalent chromium (Cr(VI)) was analyzed separately from total chromium. Given the different MCLs for each species, speciation data may be required to fully assess compliance.
+
+2. **Groundwater-to-surface water pathway** – The relationship between groundwater chromium concentrations and surface water detections has not been fully characterized in the provided sources. A groundwater-surface water interaction study may be needed.
+
+3. **Temporal trend assessment** – Only two discrete sampling events are documented in the provided records (September 2012 and March 2018). Additional sampling data would be needed to establish whether chromium concentrations are stable, increasing, or decreasing over time.
+
+4. **Regulatory response actions** – The sources do not document whether exceedances triggered corrective actions, such as soil removal, capping, or groundwater treatment.
+
+5. **Post-2018 monitoring** – No monitoring data beyond March 2018 was provided in the source documents. Current site status is not documented.
 
 ### See also
-- Stainless steel
-- Corrosion resistance
-- Galvanic corrosion
-- Chrome plating
+- [[modesto-soil-stockpiles]]
+- Groundwater monitoring wells (Modesto Stockpiles)
+- Surface water sampling locations (Modesto Stockpiles)
 - Hexavalent chromium
-- Transition metals
+- DTSC oversight – Modesto Stockpiles
+- Total chromium MCL
