@@ -1,8 +1,10 @@
 ---
 concept: stormwater-sampling-report
 entity_type: concept
-aliases: ["Stormwater Sampling Report"]
-sources: ["raw/S2350-01-02_2.1.2024 Stormwater Sampling Report_5.24.pdf"]
+aliases:
+  - Stormwater Sampling Report
+sources:
+  - raw/S2350-01-02_2.1.2024 Stormwater Sampling Report_5.24.pdf
 confidence: low
 created_at: 2026-06-10T19:50:26Z
 ---
