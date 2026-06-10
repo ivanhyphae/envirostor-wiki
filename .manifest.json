@@ -379,6 +379,15 @@
       "summary_path": "wiki/summaries/raw-GND Water Monitoring Rpt March 2102-pdf.md",
       "status": "compiled"
     },
+    "raw/Hwy 132 Clean Fill Source Testing Exhibit.pdf": {
+      "hash": "sha256:18a91372d82d16b5fc36aaf590a230fa3d496e08022a69d9abdba394714147ab",
+      "type": "paper",
+      "size_bytes": 2673616,
+      "added_at": "2026-06-10T23:01:46Z",
+      "compiled_at": "2026-06-10T23:01:46Z",
+      "summary_path": "wiki/summaries/raw-Hwy 132 Clean Fill Source Testing Exhibit-pdf.md",
+      "status": "compiled"
+    },
     "raw/LOTB-N Carpenter OC.pdf": {
       "hash": "sha256:88a9f04a52312378bddf5526afa960493553a14fcc67fe49fc03d06006e2ec68",
       "type": "paper",
@@ -532,15 +541,6 @@
       "summary_path": "wiki/summaries/raw-S9525-01-44B Caltrans Modesto Stockpiles GW March 2013 0513-pdf.md",
       "status": "compiled"
     },
-    "raw/S9525-01-44B Modesto Stockpiles GW June 2013.0613 (1).pdf": {
-      "hash": "sha256:3c7010b1815f8313b21d1c483a65daa3d2731b570b8cef5f5659b56f104c67cd",
-      "type": "paper",
-      "size_bytes": 3415693,
-      "added_at": "2026-06-10T22:24:09Z",
-      "compiled_at": "2026-06-10T22:24:09Z",
-      "summary_path": "wiki/summaries/raw-S9525-01-44B Modesto Stockpiles GW June 2013-0613 (1)-pdf.md",
-      "status": "compiled"
-    },
     "raw/S9525-01-44B Modesto Stockpiles GW June 2013.0613.pdf": {
       "hash": "sha256:3c7010b1815f8313b21d1c483a65daa3d2731b570b8cef5f5659b56f104c67cd",
       "type": "paper",
@@ -568,15 +568,6 @@
       "summary_path": "wiki/summaries/raw-S9525-06-44 HHRA UPDATE Rev-0313-pdf.md",
       "status": "compiled"
     },
-    "raw/S9525-06-44 Modesto Stockpiles GW.0612.pdf": {
-      "hash": "sha256:e2ae8fdbe8edb1f3b5d7ac4f0b8fd1842ba4cadc26e4fd36da465b9da1aee551",
-      "type": "paper",
-      "size_bytes": 3902406,
-      "added_at": "2026-06-10T22:24:10Z",
-      "compiled_at": "2026-06-10T22:24:10Z",
-      "summary_path": "wiki/summaries/raw-S9525-06-44 Modesto Stockpiles GW-0612-pdf.md",
-      "status": "compiled"
-    },
     "raw/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313.pdf": {
       "hash": "sha256:851cdae5810d4a35583b6e8c183f9eb56a5a91a5af45577c3c56ae579f1b7141",
       "type": "paper",
@@ -584,6 +575,15 @@
       "added_at": "2026-06-10T19:41:15Z",
       "compiled_at": "2026-06-10T19:41:15Z",
       "summary_path": "wiki/summaries/raw-S9525-06-44 Modesto Stockpiles SSI Report Rev-0313-pdf.md",
+      "status": "compiled"
+    },
+    "raw/S9525-06-44A Caltrans Modesto Stockpiles GW 0213.pdf": {
+      "hash": "sha256:228fda818ee523096f1a96b31675a6d2536e2d54d0231c139d3fa44652488457",
+      "type": "paper",
+      "size_bytes": 3056653,
+      "added_at": "2026-06-10T23:01:45Z",
+      "compiled_at": "2026-06-10T23:01:45Z",
+      "summary_path": "wiki/summaries/raw-S9525-06-44A Caltrans Modesto Stockpiles GW 0213-pdf.md",
       "status": "compiled"
     },
     "raw/S9525-06-44A Caltrans Modesto Stockpiles GW Nov2012 0213.pdf": {
@@ -638,24 +638,6 @@
       "added_at": "2026-06-10T19:40:49Z",
       "compiled_at": "2026-06-10T19:40:49Z",
       "summary_path": "wiki/summaries/raw-S9800-01-17 Caltrans Modesto Stockpiles Dec 2013 GW Mon 0114-pdf.md",
-      "status": "compiled"
-    },
-    "raw/S9800-01-17 Caltrans Modesto Stockpiles GW_06.15.pdf": {
-      "hash": "sha256:8ed62b3c1f15d63369dc3198e6e2a7204bca0955ff6f550d40c538f024823cb3",
-      "type": "paper",
-      "size_bytes": 2274032,
-      "added_at": "2026-06-10T22:05:51Z",
-      "compiled_at": "2026-06-10T22:05:51Z",
-      "summary_path": "wiki/summaries/raw-S9800-01-17 Caltrans Modesto Stockpiles GW_06-15-pdf.md",
-      "status": "compiled"
-    },
-    "raw/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.pdf": {
-      "hash": "sha256:7ee361aa4d9cbd01425397e946573e94cbec0083cef6ce4675d1809ed79aee67",
-      "type": "paper",
-      "size_bytes": 10841064,
-      "added_at": "2026-06-10T22:48:24Z",
-      "compiled_at": "2026-06-10T22:48:24Z",
-      "summary_path": "wiki/summaries/raw-S9800-01-17 Modesto Soil Stockpiles Final FS Report-0614-pdf.md",
       "status": "compiled"
     },
     "raw/S9800-01-17 Modesto Stockpiles Feb2014 GW Mon 0414 (1).pdf": {
@@ -764,15 +746,6 @@
       "added_at": "2026-06-10T19:41:00Z",
       "compiled_at": "2026-06-10T19:41:00Z",
       "summary_path": "wiki/summaries/raw-Stockpile 2 Confirmation Sampling Tech Memo Approval-pdf.md",
-      "status": "compiled"
-    },
-    "raw/Stockpile 2 MSE Wall Sampling Tech Memo.pdf": {
-      "hash": "sha256:4e149918af5a15b8c3358325a182a3f2f33e24ea88497a463b55cae3ea680e29",
-      "type": "paper",
-      "size_bytes": 3626013,
-      "added_at": "2026-06-10T22:24:10Z",
-      "compiled_at": "2026-06-10T22:24:10Z",
-      "summary_path": "wiki/summaries/raw-Stockpile 2 MSE Wall Sampling Tech Memo-pdf.md",
       "status": "compiled"
     },
     "raw/Stockpile 3 Confirmation Sampling Tech Memo Approval.pdf": {
@@ -901,6 +874,13 @@
       "sources": [],
       "last_compiled": "2026-06-10T19:44:07Z"
     },
+    "blackburn-consulting": {
+      "article_path": "wiki/concepts/blackburn-consulting.md",
+      "sources": [
+        "Hwy 132 Clean Fill Source Testing Exhibit.pdf"
+      ],
+      "last_compiled": "2026-06-10T23:03:02Z"
+    },
     "cadmium": {
       "article_path": "wiki/concepts/cadmium.md",
       "sources": [
@@ -944,6 +924,13 @@
         "raw/S2350-01-02_2.1.2024 Stormwater Sampling Report_5.24.pdf"
       ],
       "last_compiled": "2026-06-10T19:44:07Z"
+    },
+    "caltrans-district-10": {
+      "article_path": "wiki/concepts/caltrans-district-10.md",
+      "sources": [
+        "Hwy 132 Clean Fill Source Testing Exhibit.pdf"
+      ],
+      "last_compiled": "2026-06-10T23:03:02Z"
     },
     "caltrans-district-6-hazardous-waste-branch": {
       "article_path": "wiki/concepts/caltrans-district-6-hazardous-waste-branch.md",
@@ -1016,6 +1003,13 @@
         "raw/DTSC Approval E-mail for Carpenter Shoofly Clean Fill Sampling Plan.pdf"
       ],
       "last_compiled": "2026-06-10T19:44:07Z"
+    },
+    "clean-fill-source-testing-workplan": {
+      "article_path": "wiki/concepts/clean-fill-source-testing-workplan.md",
+      "sources": [
+        "Hwy 132 Clean Fill Source Testing Exhibit.pdf"
+      ],
+      "last_compiled": "2026-06-10T23:03:02Z"
     },
     "clean-fill-suitable-as-cover": {
       "article_path": "wiki/concepts/clean-fill-suitable-as-cover.md",
@@ -1159,6 +1153,13 @@
       "sources": [],
       "last_compiled": "2026-06-10T19:44:07Z"
     },
+    "kansas-avenue": {
+      "article_path": "wiki/concepts/kansas-avenue.md",
+      "sources": [
+        "Hwy 132 Clean Fill Source Testing Exhibit.pdf"
+      ],
+      "last_compiled": "2026-06-10T23:03:02Z"
+    },
     "land-use-covenant": {
       "article_path": "wiki/concepts/land-use-covenant.md",
       "sources": [
@@ -1262,6 +1263,13 @@
       ],
       "last_compiled": "2026-06-10T19:44:07Z"
     },
+    "n-emerald-avenue": {
+      "article_path": "wiki/concepts/n-emerald-avenue.md",
+      "sources": [
+        "Hwy 132 Clean Fill Source Testing Exhibit.pdf"
+      ],
+      "last_compiled": "2026-06-10T23:03:02Z"
+    },
     "nitrate": {
       "article_path": "wiki/concepts/nitrate.md",
       "sources": [
@@ -1305,6 +1313,13 @@
         "raw/06A2542ct_TO97_GW Rpt_final.20230308.pdf"
       ],
       "last_compiled": "2026-06-10T19:44:07Z"
+    },
+    "phase-1-environmental-site-assessment": {
+      "article_path": "wiki/concepts/phase-1-environmental-site-assessment.md",
+      "sources": [
+        "Hwy 132 Clean Fill Source Testing Exhibit.pdf"
+      ],
+      "last_compiled": "2026-06-10T23:03:02Z"
     },
     "rap-approval": {
       "article_path": "wiki/concepts/rap-approval.md",
@@ -1368,7 +1383,8 @@
     "s9525-01-44b": {
       "article_path": "wiki/concepts/s9525-01-44b.md",
       "sources": [
-        "raw/S9525-01-44B Modesto Stockpiles GW June 2013.0613 (1).pdf"
+        "raw/S9525-01-44B Modesto Stockpiles GW June 2013.0613 (1).pdf",
+        "S9525-06-44A Caltrans Modesto Stockpiles GW 0213.pdf"
       ],
       "last_compiled": "2026-06-10T22:25:13Z"
     },
@@ -1411,6 +1427,13 @@
         "raw/Final SMP Approval E-mail.pdf"
       ],
       "last_compiled": "2026-06-10T19:44:07Z"
+    },
+    "sr-132-west-freeway-expressway-project": {
+      "article_path": "wiki/concepts/sr-132-west-freeway-expressway-project.md",
+      "sources": [
+        "Hwy 132 Clean Fill Source Testing Exhibit.pdf"
+      ],
+      "last_compiled": "2026-06-10T23:03:02Z"
     },
     "stiff-diagrams": {
       "article_path": "wiki/concepts/stiff-diagrams.md",
