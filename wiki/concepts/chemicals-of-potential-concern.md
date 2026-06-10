@@ -1,50 +1,51 @@
 ---
 concept: chemicals-of-potential-concern
 entity_type: concept
-aliases: ["copc"]
-sources: ["raw/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.pdf", "raw/S9525-06-44 HHRA UPDATE Rev.0313.pdf", "raw/S9525-06-44A Stormwater SAP Addendum 0213.pdf"]
-confidence: low
-created_at: 2026-06-04T08:25:19Z
+aliases: ["primary-contaminants-of-concern"]
+sources: ["raw/S9525-01-44B Caltrans Modesto Stockpiles GW March 2013 0513 (1).pdf"]
+confidence: medium
+created_at: 2026-06-10T05:02:31Z
 ---
 
-## Chemicals of Potential Concern
+## Definition
 
-### Definition
-**Chemicals of Potential Concern (COPCs)** are contaminants identified during a Human Health Risk Assessment (HHRA) or ecological risk assessment that exceed preliminary screening levels and warrant further quantitative evaluation. They are selected from a larger set of detected compounds based on toxicity, concentration, exposure potential, and regulatory benchmarks. The term is commonly used in hazardous waste site investigations (e.g., CERCLA or RCRA cleanups) to focus risk calculations on constituents that could pose an unacceptable risk under realistic exposure scenarios.
+**Chemicals of Potential Concern (COPCs)** are substances identified during environmental site assessments or risk evaluations that may pose a risk to human health or the environment, warranting further investigation or management. In the context of the Caltrans Modesto Stockpiles groundwater monitoring report (March 2013), COPCs refer to constituents detected in groundwater samples that exceed established screening levels (e.g., MCLs, ESLs, or site-specific action levels) and require evaluation for potential adverse effects.
 
-### How It Works
-COPC identification follows a tiered screening process:
+## How it works
 
-1. **Data Collection**: Analytical results from soil, groundwater, surface water, sediment, or air samples are compiled. (See Environmental Sampling Plan).
-2. **Screening Against Benchmarks**: Each detected chemical is compared to risk-based screening levels (e.g., EPA Regional Screening Levels, state-specific cleanup standards) for relevant pathways (ingestion, inhalation, dermal contact).
-3. **Exclusion Criteria**: Chemicals are removed from the candidate list if:
-   - Concentrations are below detection limits or screening levels.
-   - The chemical is a natural background constituent at similar levels.
-   - Exposure is not complete (e.g., confined aquifer not used as drinking water).
-   - The chemical is not toxic at observed doses.
-4. **Final COPC List**: Remaining compounds become the focus of detailed exposure and toxicity assessments in the baseline risk assessment.
-5. **Iterative Refinement**: If risk calculations show no significant risk, COPCs may be dropped from subsequent phases; conversely, additional chemicals may be added if new data emerge.
+The process of identifying and managing COPCs typically involves the following steps:
 
-In the context of the provided source documents (e.g., Modesto Soil Stockpiles Final FS Report, HHRA Update, Stormwater SAP Addendum), COPCs are used to guide feasibility study alternatives and to design stormwater monitoring plans.
+1. **Data collection** – Groundwater samples are collected from monitoring wells and analyzed for a suite of analytes (metals, VOCs, SVOCs, pesticides, etc.).
+2. **Screening against benchmarks** – Detected concentrations are compared to regulatory or risk‑based screening levels (e.g., California MCLs, EPA MCLs, or site‑specific Environmental Screening Levels).
+3. **Selection of COPCs** – Any analyte exceeding its screening level becomes a "chemical of potential concern" for further evaluation.
+4. **Risk assessment** – For each COPC, a refined human health or ecological risk assessment is conducted using site‑specific exposure parameters (ingestion, inhalation, dermal contact) and toxicity values.
+5. **Decision‑making** – If the calculated risk exceeds acceptable thresholds (e.g., a hazard index > 1 or cancer risk > 1E‑6), remediation or management actions are triggered.
 
-### Variants
-- **Site‑Specific COPCs**: Tailored to the media and land use at a particular site (e.g., residential vs. industrial).
-- **Ecological COPCs**: Selected using ecological screening levels for receptors such as plants, wildlife, or benthic organisms.
-- **Provisional COPCs**: Compounds retained for further study when toxicity data or exposure pathways are uncertain.
-- **Indicator COPCs**: A subset of chemicals used as surrogates for a larger group (e.g., total PCBs as indicator for dioxin‑like compounds).
+In the Modesto Stockpiles report, COPCs were likely identified through comparison with California Department of Toxic Substances Control (DTSC) or San Francisco Bay RWQCB screening criteria. The document itself (S9525‑01‑44B) contains analytical data tables, statistical comparisons, and a COPC list used for subsequent risk evaluation.
 
-### Trade‑Offs
-- **Overly Conservative Screening**: Using very low screening levels can generate a long COPC list, increasing project cost and diluting focus on truly significant risks.
-- **Missed Risks**: Excluding chemicals that lack screening benchmarks but have emerging toxicity data may underestimate cumulative risk.
-- **Data Quality Dependence**: COPC identification relies on robust analytical data; high detection limits or incomplete suites can lead to false negatives.
-- **Temporal Variability**: Concentrations change over time (e.g., seasonal fluctuations, remediation progress), requiring periodic re‑evaluation of the COPC list.
-- **Regulatory Inconsistency**: Different agencies may use different screening values, causing confusion in multi‑jurisdictional projects.
+## Variants
 
-### See Also
+- **Tiered Screening** – Some programs (e.g., EPA’s Regional Screening Levels, California’s ESLs) use tiered benchmarks: Tier 1 are conservative generic values; Tier 2 incorporate site‑specific factors.
+- **COPCs in different media** – The concept applies to soil, sediment, surface water, and air, though groundwater COPCs are most common in California stockpile assessments.
+- **Incidental vs. primary contaminants** – COPCs may be separated into those of primary concern (highly toxic, mobile) and incidental (low toxicity or limited distribution).
+- **Constituent of Concern (COC)** – In some frameworks, COCs are a subset of COPCs that are confirmed to present an unacceptable risk after detailed analysis.
+
+## Trade-offs
+
+| Consideration | Advantage | Limitation |
+|---------------|-----------|------------|
+| **Conservative screening** | Ensures protection of sensitive receptors; reduces chance of overlooking hazards. | May generate a large list of COPCs, increasing cost and complexity of further evaluation. |
+| **Site‑specific refinement** | Tailors risk assessment to actual exposure conditions, avoiding unnecessary remediation. | Requires additional data collection (e.g., groundwater flow modeling, receptor surveys) and expert judgment. |
+| **Regulatory alignment** | Facilitates acceptance by oversight agencies (e.g., DTSC, RWQCB). | May impose rigid criteria that do not reflect site‑specific hydrogeology or background conditions. |
+| **Use of generic toxicity values** | Speeds up screening; widely available. | May not account for synergistic effects or emerging contaminants; can be outdated. |
+
+For the Modesto Stockpiles site, the trade‑offs likely involved balancing the need to address multiple detected metals (e.g., chromium, nickel) against background concentrations and natural attenuation capacity.
+
+## See also
+
+- Groundwater Monitoring
 - Human Health Risk Assessment
-- Ecological Risk Assessment
-- Screening Level
-- Baseline Risk Assessment
-- Chemical of Concern (vs. COPC)
-- Feasibility Study
-- Environmental Monitoring
+- California Environmental Screening Levels (ESLs)
+- Maximum Contaminant Level (MCL)
+- Volatile Organic Compounds (VOCs)
+- Stockpile Management

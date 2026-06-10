@@ -1,0 +1,66 @@
+@prefix :    <urn:kg:> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+# ── Minimal sample: one of each type, all connected ──────────────────────────
+
+# Concept
+:cfd-modeling a :Concept ;
+    rdfs:label "CFD Modeling" ;
+    rdfs:comment "Computational fluid dynamics. Used for wind studies, pollution dispersion, and intervention scenario evaluation." .
+
+:site-characterization a :Concept ;
+    rdfs:label "Site Characterization" ;
+    rdfs:comment "Environmental site assessment — reviewing DTSC records, sampling strategies, contamination mapping, and risk evaluation." .
+
+# Organization
+:hyphae-design-lab a :Organization ;
+    rdfs:label "Hyphae Design Lab" ;
+    rdfs:comment "Oakland-based environmental consulting firm. Specializations: CFD air quality modeling, green stormwater infrastructure, GIS/geospatial, community engagement, sensor networks, digital twins. Brent Bucknum is Principal/Founder." ;
+    :worksOn :vip209-sr132 .
+
+:vip209 a :Organization ;
+    rdfs:label "Valley Improvement Projects (VIP 209)" ;
+    rdfs:comment "Community organization in Modesto serving the San Joaquin Valley. Client for SR 132 remediation assessment." ;
+    :worksOn :vip209-sr132 .
+
+# Grant
+:dtsc-tag-grant a :Grant ;
+    rdfs:label "DTSC TAG Grant" ;
+    rdfs:comment "Department of Toxic Substances Control Technical Assistance Grant. $75K for VIP209 SR 132 site characterization. Contract: Mar 2026 – Mar 2027." ;
+    :relatedTo :vip209-sr132 .
+
+# Site
+:sr132-modesto-site a :Site ;
+    rdfs:label "SR 132 - Hwy 99 Interchange, Modesto" ;
+    rdfs:comment "Barium-contaminated site along SR 132 West Expressway near Hwy 99 interchange in Modesto. DTSC EnviroStor ID 60001626. Contains stockpiles of contaminated soil; groundwater sampling wells being destroyed." .
+
+# Phase (must be created before Project that references it? no — Project before Phase)
+:vip209-envirostor a :Phase ;
+    rdfs:label "EnviroStor Database Analysis" ;
+    rdfs:comment "Compile and analyze DTSC EnviroStor records for SR 132 site. First deliverable due May 31, 2026." ;
+    :partOf :vip209-sr132 ;
+    :hasStatus "active" .
+
+:vip209-sampling a :Phase ;
+    rdfs:label "Sampling Strategy" ;
+    rdfs:comment "Develop soil and groundwater sampling strategy. Follows EnviroStor analysis." ;
+    :partOf :vip209-sr132 ;
+    :precededBy :vip209-envirostor ;
+    :hasStatus "planned" .
+
+# Deliverable
+:vip209-findings-report a :Deliverable ;
+    rdfs:label "SR132 Findings Report" ;
+    rdfs:comment "Final report compiling all analysis, modeling, and recommendations. Due November 2026." ;
+    :assignedTo :hyphae-design-lab ;
+    :hasStatus "planned" .
+
+# Project (references everything above)
+:vip209-sr132 a :Project ;
+    rdfs:label "VIP209 SR 132 Remediation Assessment" ;
+    rdfs:comment "Site characterization and remediation assessment for barium-contaminated site along SR 132 in Modesto. DTSC TAG Grant ($75K). Scope: public records request, EnviroStor analysis, sampling strategy, CFD dust dispersion model, findings report. Contract: Mar 2026 – Mar 2027." ;
+    :hasStatus "active" ;
+    :locatedAt :sr132-modesto-site ;
+    :worksOn :hyphae-design-lab, :vip209 ;
+    :fundedBy :dtsc-tag-grant ;
+    :addresses :cfd-modeling, :site-characterization .

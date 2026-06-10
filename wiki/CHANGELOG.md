@@ -2,13 +2,13 @@
 
 Compilation history for sage-wiki.
 
-## 2026-06-04T08:29:59Z
+## 2026-06-10T05:02:37Z
 
-- Added: 114 sources
+- Added: 2 sources
 - Modified: 0 sources
 - Removed: 0 sources
-- Summarized: 112
-- Concepts extracted: 118
-- Articles written: 118
-- Errors: 2
+- Summarized: 2
+- Concepts extracted: 8
+- Articles written: 8
+- Errors: 0
 
