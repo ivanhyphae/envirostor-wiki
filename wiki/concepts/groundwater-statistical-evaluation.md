@@ -1,30 +1,41 @@
 ---
 concept: groundwater-statistical-evaluation
 entity_type: concept
-aliases: ["Groundwater Statistical Evaluation"]
-sources: ["raw/06A2542ct_TO97_GW Rpt_final.20230308.pdf"]
-confidence: low
-created_at: 2026-06-10T19:46:00Z
+aliases: ["Updated Comparative Evaluation of Groundwater Data", "Statistical Evaluation Report", "Updated Statistical Evaluation Report"]
+sources: ["raw-md/Approval of GW Statistical Evaluation (900259).md", "S2350-01-02 Updated Statistical Evaluation Report_2.24.md"]
+confidence: medium
+created_at: 2026-06-14T09:37:31Z
 ---
 
 ## Overview
 
-**Groundwater Statistical Evaluation** refers to the analytical procedures applied to groundwater monitoring data collected at the Caltrans Modesto Soil Stockpiles remediation site (State Route 132, Stanislaus County, California). This evaluation is documented in the final groundwater report *TO97_GW Rpt_final.20230308.pdf* (dated March 8, 2023). Its purpose is to determine whether contaminant concentrations in site wells are statistically distinguishable from background levels or regulatory thresholds, and to assess temporal trends. The evaluation supports decision‑making under the oversight of relevant regulatory agencies (likely including DTSC).
+The **Groundwater Statistical Evaluation** for the Caltrans Modesto Soil Stockpiles site (SR 132, Stanislaus County, California) is a regulatory-deliverable analysis that assesses whether barium and lead from encapsulated soil stockpiles beneath the newly constructed State Route 132 Expressway have impacted groundwater. The evaluation was prepared by Geocon Consultants Inc. on behalf of Caltrans and submitted to the Department of Toxic Substances Control (DTSC) in coordination with the Central Valley Regional Water Quality Control Board (RWQCB). The analysis supports the conclusion that the encapsulated soil is not impacting groundwater and will not do so in the future, leading to approval of groundwater monitoring discontinuation and well decommissioning.
 
 ## Site Record
 
-The source document (a 10‑page PDF with metadata indicating it is the final groundwater report) provides the basis for this evaluation. Specific data sets, well identifiers (e.g., MW‑series wells), and analytical results are included in the report but the provided excerpt does not contain extractable numerical values or trend results. The evaluation method is presumed to be non‑parametric (commonly Mann‑Kendall or similar) as is standard for such projects, but the truncated text does not confirm this. The report’s date (March 8, 2023) represents the final version submitted for regulatory review.
+- **Labelled source document:** *Updated Comparative Evaluation of Groundwater Data, Caltrans Encapsulated Soil Stockpiles, State Route 132, Stanislaus County, California* dated February 26, 2024. Referred to in regulatory correspondence as the "Evaluation Report."
+- **Evaluation type:** Comparative evaluation of groundwater data for barium and lead, comparing post-construction monitoring results to earlier (2014) baseline data.
+- **Key finding:** The data indicate the encapsulated soil is not impacting groundwater and will not impact groundwater in the future. Consistency with the earlier 2014 evaluation and the recent encapsulation of soil beneath the Expressway support this conclusion.
+- **Regulatory action:** DTSC, in consultation with RWQCB, issued a formal approval letter on May 3, 2024 (signed by Dean Wright, PG, Project Manager, DTSC Site Mitigation and Restoration Program).
+- **Monitoring wells addressed:** Four remaining monitoring wells — MW4, MW6, MW9, and MW10 — are recommended for decommissioning per the approved Remedial Design and Implementation Plan.
+- **Contaminants of concern:** Barium and lead were the subject of the evaluation, as these were the constituents associated with the impacted soil stockpiles.
 
 ## Regulatory Status
 
-The applicable groundwater standards for the project are expected to be based on California Maximum Contaminant Levels (MCLs) and/or site‑specific background thresholds, as enforced by the Department of Toxic Substances Control (DTSC) and the Central Valley Regional Water Quality Control Board. The source does not state whether the statistical evaluation demonstrates compliance or identifies exceedances. Without access to the full report, the regulatory status cannot be determined from this excerpt.
+- **Lead agency:** DTSC Site Mitigation and Restoration Program, with consultation from Central Valley RWQCB.
+- **Standard applied:** Site-specific comparative evaluation against earlier (2014) data, not explicitly against California Maximum Contaminant Levels (MCLs) in the available sources. The approval letter cites no numerical threshold exceedances.
+- **Compliance status:** The agencies agree the encapsulated soil is not impacting groundwater and will not impact groundwater in the future. The evaluation is approved with no stated conditions or reservations.
+- **Next regulatory step:** Decommissioning of wells MW4, MW6, MW9, and MW10, as noted in the approval letter.
 
 ## Open Items
 
-The provided source material does not list unresolved issues or pending deliverables. Open items may include validation of statistical assumptions, review of outlier treatment, or acceptance of the statistical method by regulatory agencies, but these are not documented in the available text.
+No unresolved issues, pending deliverables, or contested claims are documented in the available source material. The evaluation was approved without conditions, and the only required future action is decommissioning of the four monitoring wells.
 
 ## See also
 
-- Caltrans Modesto Soil Stockpiles Remediation (SR 132, Stanislaus County)
+- Caltrans Modesto Soil Stockpiles Remediation
 - Groundwater Monitoring Well Network
-- DTSC Oversight and Site Closure Process
+- [[barium]]
+- [[lead]]
+- DTSC Site Mitigation and Restoration Program
+- Remedial Design and Implementation Plan

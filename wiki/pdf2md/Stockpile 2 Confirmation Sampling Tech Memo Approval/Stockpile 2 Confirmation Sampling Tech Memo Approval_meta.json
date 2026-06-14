@@ -1,0 +1,125 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Wright, Dean@DTSC",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.962890625,
+          51.8203125
+        ],
+        [
+          152.7239990234375,
+          51.8203125
+        ],
+        [
+          152.7239990234375,
+          64.3572998046875
+        ],
+        [
+          34.962890625,
+          64.3572998046875
+        ]
+      ]
+    },
+    {
+      "title": "Richard C. Stewart",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.962890625,
+          660.0526733398438
+        ],
+        [
+          179.4166259765625,
+          660.0526733398438
+        ],
+        [
+          179.4166259765625,
+          673.0726776123047
+        ],
+        [
+          34.962890625,
+          673.0726776123047
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          94
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          20
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1056,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          49
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Stockpile 2 Confirmation Sampling Tech Memo Approval"
+}

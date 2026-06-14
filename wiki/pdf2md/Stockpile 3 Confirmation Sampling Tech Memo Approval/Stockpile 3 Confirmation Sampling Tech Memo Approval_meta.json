@@ -1,0 +1,148 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Wright, Dean@DTSC",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.560546875,
+          51.8203125
+        ],
+        [
+          152.7239990234375,
+          51.8203125
+        ],
+        [
+          152.7239990234375,
+          64.3572998046875
+        ],
+        [
+          35.560546875,
+          64.3572998046875
+        ]
+      ]
+    },
+    {
+      "title": "\u2010Richard",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.26171875,
+          38.2650146484375
+        ],
+        [
+          75.67073822021484,
+          38.2650146484375
+        ],
+        [
+          75.67073822021484,
+          49.2449951171875
+        ],
+        [
+          35.26171875,
+          49.2449951171875
+        ]
+      ]
+    },
+    {
+      "title": "Richard C. Stewart",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.26171875,
+          64.1953125
+        ],
+        [
+          179.4166259765625,
+          64.1953125
+        ],
+        [
+          179.4166259765625,
+          77.33270263671875
+        ],
+        [
+          35.26171875,
+          77.33270263671875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          94
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          20
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1222,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          69
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          17
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Stockpile 3 Confirmation Sampling Tech Memo Approval"
+}

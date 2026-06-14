@@ -1,0 +1,121 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Wright, Dean@DTSC",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.26171875,
+          51.8203125
+        ],
+        [
+          152.7239990234375,
+          51.8203125
+        ],
+        [
+          152.7239990234375,
+          64.3572998046875
+        ],
+        [
+          35.26171875,
+          64.3572998046875
+        ]
+      ]
+    },
+    {
+      "title": "Richard C. Stewart",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.6640625,
+          400.43267822265625
+        ],
+        [
+          179.4166259765625,
+          400.43267822265625
+        ],
+        [
+          179.4166259765625,
+          413.4526672363281
+        ],
+        [
+          34.6640625,
+          413.4526672363281
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          91
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          21
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1053,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          55
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Borrow Area Sampling Plan"
+}

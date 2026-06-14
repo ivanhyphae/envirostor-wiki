@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/sr-132-modesto.md",
+                "file": "concepts/barium.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sr-132-modesto"
+              "title": "barium"
             }
           }
         ]
@@ -185,6 +185,9 @@
   },
   "active": "011d1e1007f8547f",
   "lastOpenFiles": [
+    "concepts/strontium.md",
+    "concepts/stormwater-sampling-report.md",
+    "concepts/sr-132-modesto.md",
     "concepts/phase-1-environmental-site-assessment.md",
     "concepts/blackburn-consulting.md",
     "concepts/clean-fill-source-testing-workplan.md",
@@ -207,9 +210,6 @@
     "concepts/task-order-44.md",
     "concepts/caltrans-district-6-hazardous-waste-branch.md",
     "concepts/contract-06a1580.md",
-    "concepts/stk2-trenches.md",
-    "concepts/city-of-modesto.md",
-    "concepts/upper-three-foot-placement-requirement.md",
-    "summaries/raw-S9525-06-44 Modesto Stockpiles GW-0612-pdf.md"
+    "concepts/stk2-trenches.md"
   ]
 }

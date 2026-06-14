@@ -2,42 +2,41 @@
 concept: dtsc-residential-screening-level
 entity_type: concept
 aliases: ["DTSC residential screening level"]
-sources: ["raw/S9525-06-44AModesto Stockpiles GW  SEPT2012 1212.pdf"]
-confidence: medium
-created_at: 2026-06-10T19:45:06Z
+sources: ["raw-md/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.md", "S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19.md"]
+confidence: low
+created_at: 2026-06-14T09:36:30Z
 ---
 
 ## Overview
 
-The **DTSC Residential Screening Level** is a risk‑based benchmark used by the California Department of Toxic Substances Control (DTSC) to evaluate whether contaminant concentrations in soil, groundwater, or soil vapor at a given site pose an acceptable risk for residential (unrestricted) land use. In the context of the [[modesto-soil-stockpiles]] remediation case (SR 132, Stanislaus County), this screening level is referenced in groundwater characterization and risk‑assessment documents to determine whether cleanup is required to protect future residents.
+The **DTSC Residential Screening Level** is a risk‑based benchmark used by the California Department of Toxic Substances Control (DTSC) to determine whether contaminant concentrations in soil, soil vapor, or groundwater at a given site are acceptable for unrestricted residential use. In the [[caltrans-modesto-soil-stockpiles]] remediation case (SR 132, Stanislaus County), this screening level is referenced in the *Final Feasibility Study Report* (June 2014) as a criterion for evaluating remedial alternatives and establishing cleanup goals. The screening level is derived from USEPA Regional Screening Levels (RSLs) and California Human Health Screening Levels (CHHSLs), adapted with site‑specific exposure assumptions where necessary.
 
 ## Site record
 
-The sole source provided for this article is the partially encrypted PDF *raw/S9525-06-44AModesto Stockpiles GW  SEPT2012 1212.pdf* (September 2012 Groundwater Report). The document’s content is not fully decodable from the available extract; therefore, specific numerical values (e.g., screening level for a particular contaminant, such as arsenic or tetrachloroethene) could not be retrieved.
+The primary source document for this concept within the project record is the *Final Feasibility Study Report* (`raw-md/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.md`). The source material consists of a single rendered title page (image); no extractable text or numerical screening‑level values (e.g., for arsenic, tetrachloroethene, or other contaminants) are available from the provided extract. Based on the document title and metadata, the report (dated June 2014) was prepared to evaluate remedial options for soil stockpiles on State Route 132. The report likely includes comparisons of detected contaminant concentrations to DTSC residential screening levels, but specific values, exceedances, and spatial details cannot be confirmed from the source material.
 
-Based on the limited readable metadata (object headers), the report likely includes:
-- Groundwater analytical results from monitoring wells at the Modesto Stockpiles site.
-- Comparison of detected concentrations to DTSC‑approved screening levels.
-
-No explicit DTSC Residential Screening Level value (in mg/L, µg/L, or mg/kg) can be confirmed from the provided source material.
+No other source documents (e.g., groundwater reports, RI data) that cite explicit DTSC residential screening levels were provided for this article beyond the earlier, also partially encrypted, September 2012 groundwater report.
 
 ## Regulatory status
 
-DTSC Residential Screening Levels are typically derived from:
+DTSC Residential Screening Levels serve as the default cleanup standards for residential land use at the Modesto Soil Stockpiles site. The levels are typically adopted from:
+
 - USEPA Regional Screening Levels (RSLs) for residential soil and tap water.
 - California Human Health Screening Levels (CHHSLs) for soil and groundwater.
-- State‑specific toxicity criteria and exposure assumptions.
+- State‑specific toxicity values and exposure assumptions (e.g., 1×10⁻⁶ target cancer risk, hazard index of 1.0).
 
-For the Modesto Stockpiles project, these screening levels serve as the primary cleanup targets under DTSC oversight. Without extractable data from the September 2012 report, the current compliance status (whether all detected concentrations are below the applicable screening levels) cannot be determined from this source.
+Because the *Final FS Report* source is not decodable, the compliance status of the stockpiles—i.e., whether all concentrations are below the applicable screening levels—cannot be determined from the provided record.
 
 ## Open items
 
-- The key numerical values (e.g., screening level for metals, VOCs, or SVOCs) remain unextractable from the provided PDF. A review of the full, decrypted report is required to verify site‑specific screening levels.
-- No information is available in the source regarding whether any exceedances were identified or whether a final remedy was selected based on the residential screening criteria.
+- The specific numerical values for DTSC residential screening levels applied at the site are not extractable from the available source material (FS report title page only). A review of the complete, decrypted FS report or supporting data tables is required to identify the exact screening levels used for each contaminant.
+- It is not documented whether any detected concentrations exceeded the residential screening levels or whether the selected remedy (if any) achieved the required cleanup levels.
+- The relationship between the residential screening levels and other applicable thresholds (e.g., MCLs, background concentrations) is not discussed in the provided source.
 
 ## See also
 
-- [[modesto-soil-stockpiles]]
+- [[caltrans-modesto-soil-stockpiles]]
 - [[dtsc]]
-- CHHSLs (California Human Health Screening Levels)
-- USEPA Regional Screening Levels
+- *Final Feasibility Study Report, Modesto Soil Stockpiles* (June 2014)
+- USEPA Regional Screening Levels (RSLs)
+- California Human Health Screening Levels (CHHSLs)

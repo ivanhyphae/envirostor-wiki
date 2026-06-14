@@ -1,0 +1,194 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Wright, Dean@DTSC",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.560546875,
+          51.8203125
+        ],
+        [
+          152.7239990234375,
+          51.8203125
+        ],
+        [
+          152.7239990234375,
+          64.3572998046875
+        ],
+        [
+          35.560546875,
+          64.3572998046875
+        ]
+      ]
+    },
+    {
+      "title": "EXTERNAL:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.365234375,
+          175.18359375
+        ],
+        [
+          80.44471740722656,
+          175.18359375
+        ],
+        [
+          80.44471740722656,
+          186.28497314453125
+        ],
+        [
+          34.365234375,
+          186.28497314453125
+        ]
+      ]
+    },
+    {
+      "title": "EXTERNAL:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          278.5078125,
+          437.2200012207031
+        ],
+        [
+          332.61358642578125,
+          437.2200012207031
+        ],
+        [
+          332.61358642578125,
+          449.2200012207031
+        ],
+        [
+          278.5078125,
+          449.2200012207031
+        ]
+      ]
+    },
+    {
+      "title": "EXTERNAL:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.859375,
+          675.2109375
+        ],
+        [
+          80.44471740722656,
+          675.2109375
+        ],
+        [
+          80.44471740722656,
+          686.3850021362305
+        ],
+        [
+          35.859375,
+          686.3850021362305
+        ]
+      ]
+    },
+    {
+      "title": "Ralph Carson PG",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.560546875,
+          95.51953125
+        ],
+        [
+          122.57130432128906,
+          95.51953125
+        ],
+        [
+          122.57130432128906,
+          106.55206298828125
+        ],
+        [
+          35.560546875,
+          106.55206298828125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          305
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          25
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1657,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          30
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/WB Acceptance E-mail"
+}

@@ -1,0 +1,113 @@
+{
+  "table_of_contents": [
+    {
+      "title": "EXTERNAL:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          79.48828125,
+          654.71484375
+        ],
+        [
+          122.92574310302734,
+          654.71484375
+        ],
+        [
+          122.92574310302734,
+          665.1480331420898
+        ],
+        [
+          79.48828125,
+          665.1480331420898
+        ]
+      ]
+    },
+    {
+      "title": "Richard C. Stewart",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          76.798828125,
+          160.875
+        ],
+        [
+          213.81300354003906,
+          160.875
+        ],
+        [
+          213.81300354003906,
+          174.94012451171875
+        ],
+        [
+          76.798828125,
+          174.94012451171875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          98
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          20
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1151,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          23
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/E-mail Acceptance of Bent 2 Soils Tech Memo"
+}

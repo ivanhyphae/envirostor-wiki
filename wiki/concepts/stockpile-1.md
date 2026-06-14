@@ -1,79 +1,66 @@
 ---
 concept: stockpile-1
 entity_type: concept
-aliases: ["Stockpile 1", "Stockpile #1"]
-sources: ["raw/S9800-01-17A Modesto Stockpiles Mar 5 2016 Stormwater Samplng_04 16.pdf", "raw/S1200-01-01 Modesto Stockpiles Oct 2016 SW Sampling_12.16.pdf", "raw/S2350-01-02_2.4.2025 Stormwater Sampling Report_6.25.pdf", "raw/Stockpiles 1 and 2 MSE Wall Sampling Plan.pdf", "raw/RDIP All Figures.pdf", "raw/S1200-01-01 Modesto Stockpiles March 2018 SW Sampling_04.18.pdf", "raw/06A2542ct_TO97_GW Rpt_final.20230308.pdf", "raw/S2350-01-02_2.1.2024 Stormwater Sampling Report_5.24.pdf"]
+aliases: ["stockpile-1-area", "Stockpile 1"]
+sources: ["raw-md/RDIP All Figures.md", "raw-md/E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo.md", "raw-md/Acceptance E-mail_Stockpiles 1 and 2 MSE Wall Sampling Plan.md", "raw-md/E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan.md", "raw-md/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.md", "Caltrans Modesto Soil Stcokpiles RDIP Variance.md", "RDIP Variance Request Acceptance E-Mail.md", "Stockpiles 1 and 2 MSE Wall Sampling Plan.md", "S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19.md", "raw-md/Annual Stockpile Inspection Form.md"]
 confidence: high
-created_at: 2026-06-10T19:44:19Z
+created_at: 2026-06-14T09:32:41Z
 ---
 
 ## Overview
-Stockpile 1 is one of two on-site soil stockpiles (with Stockpile 2) at the Caltrans Modesto Soil Stockpiles site (SR 132, Stanislaus County). It consists of historical roadway maintenance debris and excavated soil that was stockpiled at this former Caltrans maintenance yard. The pile contained elevated metals, petroleum hydrocarbons, and pesticides, and has been the subject of ongoing stormwater monitoring, characterization, and remediation since at least 2016. It is located immediately adjacent to the mechanized stabilized earth (MSE) wall that was installed as part of the SR 132 widening project.
+
+Stockpile 1 is one of three on-site soil stockpiles (with Stockpile 2 and Stockpile 3) at the Caltrans Modesto Soil Stockpiles site along SR 132 in Stanislaus County, California. The pile consists of historical roadway maintenance debris — primarily roadway sweepings, sediment from drainage structures, and excavated soils — placed on the original ground surface beginning sometime between 1963 and 1967, as documented in the Feasibility Study (FS) report (S9800-01-17, June 2014). Aerial photographs confirm the pile existed in its current configuration by 1967. The pile contained elevated barium, arsenic, lead, and other metals, and was the subject of a removal action between 2019–2021 that excavated approximately 8,000 cubic yards for off-site disposal. An MSE wall was constructed across the former footprint beginning in 2021. The pile is now in a post-removal monitoring phase.
 
 ## Site record
-**Location & Composition:** Stockpile 1 is documented in the Remedial Design Implementation Plan (RDIP) figures and the MSE Wall Sampling Plan. The pile is situated along the south side of SR 132, adjacent to the MSE wall. The material primarily consists of roadway sweepings, sediment from drainage structures, and excavated soils from Caltrans maintenance activities.
 
-**Stormwater Monitoring Results:**
-- **March 5, 2016** (S9800-01-17A): Stormwater samples collected from Stockpile 1 runoff showed exceedances of applicable screening levels for several metals. Analytical results included:
-  - Copper: 0.052 mg/L (exceeded CTR saltwater chronic)
-  - Lead: 0.015 mg/L (exceeded CTR freshwater chronic of 0.008mg/L)
-  - Zinc: 0.28 mg/L (exceeded CTR freshwater chronic of 0.12 mg/L)
-  - Iron: 1.8 mg/L (exceeded site-specific screening level)
-  
-- **October 2016** (S1200-01-01, Dec 2016): Stormwater sampling at Stockpile 1 detected:
-  - Total petroleum hydrocarbons (TPH-diesel): 1,200 µg/L in the first flush
-  - TPH-motor oil: 2,500 µg/L
-  - Barium: 1,500 µg/L (exceeded MCL of 1,000 µg/L)
-  - Arsenic: 0.018 mg/L (exceeded CTR freshwater chronic)
+**Location and Composition:** The FS report (Section 1.6.2, referencing Shaw 2007a) describes Stockpile 1 material as "generally similar" to native Modesto formation soils but with distinct layers of gray and bluish-gray non-native materials. Debris encountered during geotechnical investigation (Kleinfelder, September 2012) at approximate depth 3–10 feet in boring A-12-002 included asphalt, metal, and brick. Boring logs and cross-sections in Shaw (2007a) show the Modesto formation beneath Stockpile 1 at depths ranging from approximately 2 feet near the western end.
 
-- **March 2018** (S1200-01-01, Apr 2018): Stormwater samples showed generally lower concentrations than 2016, but still exceeded some thresholds:
-  - Iron: 0.42 mg/L
-  - Manganese: 0.089 mg/L
-  - TPH-diesel: 720 µg/L
+**Soil Characterization (2004–2006):**  
+- January 2004 (Shaw PSI): Barium maximum of 1,730 mg/kg in Stockpile 1. Background barium ranged 57–888 mg/kg. Lead and arsenic exceeded background values.  
+- May 2006 (Shaw SI, reported 2007a): Barium maximum 130 mg/kg in Stockpile 1. Background barium from eight borings west of Stockpile 1: 17–120 mg/kg (95th UCL). Lead detected at 12 mg/kg maximum in surface soil (Stockpile 1). Arsenic 95th UCL of 1.15 mg/kg in background soil.  
+- September 2012 (Fenceline/Permeter borings, FS Section 3.2.1): Barium maximum 240 mg/kg, copper 24 mg/kg, lead 17 mg/kg, zinc 120 mg/kg. All below residential CHHSLs/RSLs.
 
-- **February 2024** (S2350-01-02, May 2024): The most recent stormwater report for Stockpile 1 showed:
-  - Selenium: 0.0052 mg/L (below MCL but above CTR chronic)
-  - TPH-diesel: 480 µg/L
-  - No acute exceedances for copper, lead, or zinc
+**Stormwater Monitoring Results (Stockpile 1 runoff):**  
+- March 5, 2016 (S9800-01-17A): Copper 0.052 mg/L (exceeded CTR saltwater chronic), lead 0.015 mg/L (exceeded CTR freshwater chronic of 0.008 mg/L), zinc 0.28 mg/L (exceeded CTR freshwater chronic of 0.12 mg/L), iron 1.8 mg/L.  
+- October 2016 (S1200-01-01, Dec 2016): TPH-diesel 1,200 µg/L first flush, TPH-motor oil 2,500 µg/L, barium 1,500 µg/L (exceeded MCL of 1,000 µg/L), arsenic 0.018 mg/L (exceeded CTR freshwater chronic).  
+- March 2018 (S1200-01-01, Apr 2018): Lower concentrations: iron 0.42 mg/L, manganese 0.089 mg/L, TPH-diesel 720 µg/L.  
+- February 2024 (S2350-01-02, May 2024): Selenium 0.0052 mg/L (below MCL but above CTR chronic), TPH-diesel 480 µg/L. No acute exceedances for copper, lead, or zinc.  
+- February 2025 (S2350-01-02, Jun 2025): Barium 0.42 mg/L, TPH-motor oil 890 µg/L, pH 6.9.
 
-- **February 2025** (S2350-01-02, Jun 2025): Stormwater monitoring results continued to show:
-  - Barium: 0.42 mg/L
-  - TPH-motor oil: 890 µg/L
-  - pH: 6.9 (within acceptable range)
+**Remedial Action (2019–2021):**  
+The RDIP (January 2019, Figures 3-1 through 3-5) shows the Stockpile 1 grading plan. Approximately 8,000 cubic yards was excavated and transported to the Vinewood Avenue disposal site per the Soil Transportation Plan (RDIP Fig 5). Verification soil samples (0–5 ft) post-excavation showed arsenic reduced to 4.2–13 mg/kg and lead to 45–110 mg/kg. The MSE wall was constructed across the former footprint in 2021.
 
-**Soil Characterization:** The MSE Wall Sampling Plan (undated) describes the soil characterization conducted for Stockpile 1. Direct-push soil samples collected from the pile at 5-ft depth intervals showed:
-- Arsenic: 12–76 mg/kg (exceeded Caltrans screening level of 7.5 mg/kg)
-- Lead: 89–760 mg/kg (exceeded residential screening level of 80 mg/kg)
-- Barium: 180–940 mg/kg
-- TPH-diesel: ND–280 mg/kg
-- DDT: 0.089–2.1 mg/kg (exceeded residential screening level of 0.087 mg/kg)
+**MSE Wall Footing Excavation Sampling (April 2020):**  
+- Technical Memo dated April 6, 2020, proposed sampling at 10 locations at ~200-foot intervals along the MSE wall footing excavation (4–5 ft depth).  
+- DTSC e-mail acceptance April 7, 2020: DTSC and Water Board agreed with the memo but required that soil placed within Stockpiles 1 and 2 fill containment zones or used as general bridge embankment fill — not as capping material — because the 95% UCL exceeded the maximum background of 120 mg/kg.  
+- Sampling criteria: barium compared to site-specific background max 120 mg/kg, RDIP BCS removal threshold 1,000 mg/kg, construction worker ESL 3,000 mg/kg; lead compared to DTSC residential 80 mg/kg.
 
-**Remediation Activities:** The RDIP (Figures 3-1 through 3-5) shows the Stockpile 1 grading plan as part of the site-wide remediation. Between 2019 and 2021:
-- Approximately 8,000 cubic yards of material from Stockpile 1 was excavated and transported to the Vinewood Avenue disposal site per the Soil Transportation Plan (RDIP Fig 5).
-- Verification soil samples (0–5 ft) collected after excavation showed arsenic concentrations reduced to 4.2–13 mg/kg and lead to 45–110 mg/kg.
-- The MSE wall was constructed in 2021 across the former footprint of Stockpile 1.
+**Groundwater Monitoring:** Well [[mw-5]] (installed 2022, TO97 GW Rpt, March 2023): arsenic 0.012 mg/L (exceeded MCL of 0.010 mg/L), barium 0.89 mg/L (below MCL of 1.0 mg/L), TPH-diesel not detected.
 
-**Groundwater Monitoring:** Groundwater well [[mw-5]] (installed 2022, reported in TO97 GW Rpt, Mar 2023), located downgradient of the Stockpile 1 area, showed:
-- Arsenic: 0.012 mg/L (exceeded MCL of 0.010 mg/L)
-- Barium: 0.89 mg/L (below MCL of 1.0 mg/L)
-- TPH-diesel: ND
+**Annual Inspection March 18, 2025:** The Stockpile 1 containment zone inspection (Adam Inman) noted no issues with MSE walls, pavement, median/shoulders, north slope, or storm drains. "No issues observed."
 
 ## Regulatory status
-Stockpile 1 is subject to oversight by the California Department of Toxic Substances Control (DTSC) under the corrective action program for the Modesto Soil Stockpiles site. Applicable standards for the pile include:
-- **Soil screening levels**: Caltrans-derived residential screening levels (RSLs) and DTSC-modified screening levels for industrial/commercial use.
-- **Stormwater**: California Toxics Rule (CTR) criteria for freshwater and saltwater chronic toxicity, and National Pollutant Discharge Elimination System (NPDES) permit limits for the SR 132 project.
-- **Groundwater**: California MCLs (Title 22).
 
-The site is currently in a post-remediation monitoring phase for Stockpile 1. The January 2025 DTSC approval letter for the RDIP noted that the remedy—removal and off-site disposal of Stockpile 1 material—was considered complete, subject to confirmation of final cover and no further excavation in the MSE wall area.
+Applicable standards documented in the record:  
+- **Soil screening levels:** Caltrans-derived residential screening levels (RSLs), DTSC-modified RSLs for industrial/commercial use, and RDIP BCS removal threshold 1,000 mg/kg for barium (groundwater protection).  
+- **Stormwater:** California Toxics Rule (CTR) criteria for freshwater and saltwater chronic toxicity; NPDES permit limits for SR 132 project.  
+- **Groundwater:** California MCLs (Title 22).  
+- **Thresholds for MSE wall footing reuse:** Barium site-specific background max 120 mg/kg; lead DTSC residential 80 mg/kg.
+
+Oversight: DTSC (Dean Wright, P.G., Project Manager); Water Board (Steven Meeks). The remedial action for Stockpile 1 — removal and off-site disposal — was considered complete per January 2025 DTSC approval letter for the RDIP, subject to confirmation of final cover and no further excavation in MSE wall area.
 
 ## Open items
-- Final post-removal soil verification data for Stockpile 1 have not been formally approved by DTSC; sampling results from the MSE wall sampling plan showed residual soil contaminants (arsenic up to 13 mg/kg, lead up to 110 mg/kg) may require a cap or institutional controls.
-- Annual stormwater monitoring is required through at least 2027 to demonstrate that the remaining cover (topsoil/vegetation over the MSE wall) is not contributing contaminants of concern.
-- A groundwater monitoring well (MW-5) downgradient of the former Stockpile 1 showed an arsenic exceedance in 2023; additional monitoring rounds are needed to determine if this is related to residual stockpile material or background conditions.
+
+- Final post-removal soil verification data (arsenic up to 13 mg/kg, lead up to 110 mg/kg) not formally approved by DTSC; may require a cap or institutional controls.  
+- Annual stormwater monitoring required through at least 2027 per current RDIP conditions.  
+- Arsenic exceedance in MW-5 (0.012 mg/L vs. MCL 0.010 mg/L) requires additional monitoring rounds to determine if related to residual stockpile or background conditions.  
+- MSE wall footing soil characterization showed 95% UCL above background maximum of 120 mg/kg; DTSC required placement within containment zones — confirmation of this placement is not documented in available records.
 
 ## See also
-Stockpile 2
-[[mw-5]]
-Modesto Soil Stockpiles Site Overview
-MSE Wall Construction
+
+Stockpile 2  
+Stockpile 3  
+[[mw-5]]  
+Modesto Soil Stockpiles Site Overview  
+MSE Wall Construction  
 CTR Criteria

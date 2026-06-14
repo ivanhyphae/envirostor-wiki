@@ -1,0 +1,170 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          163.458984375,
+          77.34375
+        ],
+        [
+          447.345703125,
+          77.34375
+        ],
+        [
+          447.345703125,
+          94.359375
+        ],
+        [
+          163.458984375,
+          94.359375
+        ]
+      ]
+    },
+    {
+      "title": "Sent Via Electronic Mail",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          236.671875,
+          179.82421875
+        ],
+        [
+          373.718017578125,
+          179.82421875
+        ],
+        [
+          373.718017578125,
+          192.9600830078125
+        ],
+        [
+          236.671875,
+          192.9600830078125
+        ]
+      ]
+    },
+    {
+      "title": "Dear Mr. Juhrend:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.419921875,
+          419.203125
+        ],
+        [
+          168.7919921875,
+          419.203125
+        ],
+        [
+          168.7919921875,
+          431.4501037597656
+        ],
+        [
+          71.419921875,
+          431.4501037597656
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 3,
+        "llm_error_count": 0,
+        "llm_tokens_used": 2379,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          78
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          67
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          8
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Acceptance Letter_Final Removal Action Completion Report_Modesto Soil Stockpiles (900259)"
+}

@@ -1,0 +1,452 @@
+{
+  "table_of_contents": [
+    {
+      "title": "State Route 132 West Freeway/Expressway Project",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          159.873046875,
+          73.08984375
+        ],
+        [
+          450.9970397949219,
+          73.08984375
+        ],
+        [
+          450.9970397949219,
+          86.4307861328125
+        ],
+        [
+          159.873046875,
+          86.4307861328125
+        ]
+      ]
+    },
+    {
+      "title": "Post Construction Contract Award Errata",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          187.365234375,
+          95.51953125
+        ],
+        [
+          423.4355773925781,
+          95.51953125
+        ],
+        [
+          423.4355773925781,
+          109.43670654296875
+        ],
+        [
+          187.365234375,
+          109.43670654296875
+        ]
+      ]
+    },
+    {
+      "title": "INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.419921875,
+          215.015625
+        ],
+        [
+          163.9440155029297,
+          215.015625
+        ],
+        [
+          163.9440155029297,
+          228.51080322265625
+        ],
+        [
+          71.419921875,
+          228.51080322265625
+        ]
+      ]
+    },
+    {
+      "title": "2.0 PROJECT ORGANIZATION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.822265625,
+          515.49609375
+        ],
+        [
+          247.89601135253906,
+          515.49609375
+        ],
+        [
+          247.89601135253906,
+          528.5107727050781
+        ],
+        [
+          70.822265625,
+          528.5107727050781
+        ]
+      ]
+    },
+    {
+      "title": "2.1 Project Team Responsibilities",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          71.12109375,
+          87.01171875
+        ],
+        [
+          266.13714599609375,
+          87.01171875
+        ],
+        [
+          266.13714599609375,
+          100.4708251953125
+        ],
+        [
+          71.12109375,
+          100.4708251953125
+        ]
+      ]
+    },
+    {
+      "title": "2.2 Project Team Representatives",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          71.419921875,
+          87.78515625
+        ],
+        [
+          266.85595703125,
+          87.78515625
+        ],
+        [
+          266.85595703125,
+          100.4708251953125
+        ],
+        [
+          71.419921875,
+          100.4708251953125
+        ]
+      ]
+    },
+    {
+      "title": "4.4 Barium-containing Soil Excavation and Fill Placement Area Preparation",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          69.92578125,
+          349.20703125
+        ],
+        [
+          498.9729919433594,
+          349.20703125
+        ],
+        [
+          498.9729919433594,
+          362.6708068847656
+        ],
+        [
+          69.92578125,
+          362.6708068847656
+        ]
+      ]
+    },
+    {
+      "title": "4.6 Verification Sampling and Analysis",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          70.5234375,
+          598.640625
+        ],
+        [
+          295.4182434082031,
+          598.640625
+        ],
+        [
+          295.4182434082031,
+          611.0709381103516
+        ],
+        [
+          70.5234375,
+          611.0709381103516
+        ]
+      ]
+    },
+    {
+      "title": "4.7 Grading Control and Containment Measures",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          70.822265625,
+          473.73046875
+        ],
+        [
+          344.11431884765625,
+          473.73046875
+        ],
+        [
+          344.11431884765625,
+          486.8707580566406
+        ],
+        [
+          70.822265625,
+          486.8707580566406
+        ]
+      ]
+    },
+    {
+      "title": "5.1 Groundwater/Stormwater Monitoring",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          71.71875,
+          461.0707702636719
+        ],
+        [
+          301.4532470703125,
+          461.0707702636719
+        ],
+        [
+          301.4532470703125,
+          473.0707702636719
+        ],
+        [
+          71.71875,
+          473.0707702636719
+        ]
+      ]
+    },
+    {
+      "title": "5.2 Health and Safety Plan",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          71.419921875,
+          584.71875
+        ],
+        [
+          224.85720825195312,
+          584.71875
+        ],
+        [
+          224.85720825195312,
+          597.2708892822266
+        ],
+        [
+          71.419921875,
+          597.2708892822266
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          67
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 2535,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          84
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          103
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          87
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          84
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          13
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "Text",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Errata to January 2019 RDIP - SR 132 West Expressway Phase 1"
+}

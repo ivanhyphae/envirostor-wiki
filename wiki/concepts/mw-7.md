@@ -1,37 +1,40 @@
 ---
 concept: mw-7
 entity_type: concept
-aliases: ["MW-7"]
-sources: ["raw/S9800-01-17A Caltrans Modesto Stockpiles GW_06 16.pdf"]
+aliases: ["mw7", "MW-7"]
+sources: ["raw-md/S1200-01-01 Modesto Stockpiles Well Dest Rpt_06.19.md", "raw-md/RDIP All Figures.md", "raw-md/11 29 2012 Caltrans GND Water Monitoring Rpts (2).md", "S9800-01-17 Caltrans Modesto Stockpiles Dec 2013 GW Mon 0114.md"]
 confidence: medium
-created_at: 2026-06-10T19:48:10Z
+created_at: 2026-06-14T09:31:54Z
 ---
 
 ## Overview
 
-**Mw 7** is a groundwater monitoring well associated with the Caltrans Modesto Soil Stockpiles remediation project in Stanislaus County, California. The designation appears in the case file document `raw/S9800-01-17A Caltrans Modesto Stockpiles GW_06 16.pdf`, which corresponds to a groundwater monitoring report presumably produced in 2016 for the State Route 132 stockpile site. No second source or cross-reference for Mw 7 is available in the provided record.
+**Mw 7** (also designated MW7) is a groundwater monitoring well associated with the Caltrans Modesto Soil Stockpiles remediation site along State Route 132 in Stanislaus County, California. The well was installed as part of the monitoring network for the barium, lead, and strontium contamination originating from historical Food Machinery and Chemical Corporation (FMC) operations. MW7 was destroyed on April 30, 2019, as part of a well abandonment program conducted during the Remedial Design Implementation Plan (RDIP) Phase 1.
 
-## Site record
+## Site Record
 
-The sole source document (`S9800-01-17A Caltrans Modesto Stockpiles GW_06 16.pdf`) is encrypted and contains no extractable text beyond metadata. The PDF metadata indicate a file size of ~3.7 MB, creation with linearized PDF, and use of AES‑128 encryption. **No concentrations, sampling dates, or analytical results for Mw 7 can be retrieved from the provided materials.** Any spatial location, depth, or performance data for this well are not documented in the accessible record.
+**Installation and Location:** MW7 was located within the SR 132 project site, as shown on Figure 3-4 (May 2019) and Figure 2 (January 2019) of the RDIP. The well was designated as “to be abandoned” on the January 2019 site plan, consistent with its subsequent destruction.
 
-Because the source file is unreadable, the following fields cannot be populated:
+**Destruction:** On April 30, 2019, Gregg (a well destruction contractor) destroyed MW7 along with wells MW3 and MW8. Geocon staff member Lauren Short supervised the destruction, with Caltrans personnel also present. The destruction permit (ENC2019-50174) was issued by Stanislaus County Department of Environmental Resources on April 26, 2019. The well completion report for MW7 documents the work dates as April 30, 2019.
 
-- Constituents detected  
-- Exceedances relative to MCLs or screening levels  
-- Trends over time  
-- Verification results  
-- Phase or remedial action specifics  
+**Sampling History:** Multiple groundwater monitoring reports were submitted to DTSC for May, June, and July 2012 (prepared by Geocon, November 2012). DTSC’s November 29, 2012 letter by Senior Engineering Geologist Randy Adams concurred with the reports. However, the specific analytical results for MW7 from these reports are not provided in the available source documents. The only extractable data are the well destruction activities.
 
-## Regulatory status
+**Regulatory Oversight:** The project has been reviewed by DTSC (Brownfields and Environmental Restoration Program) in consultation with the Central Valley Regional Water Quality Control Board (RWQCB). Chemicals of concern documented by DTSC are barium, lead, and strontium.
 
-No regulatory standards, agency decisions, or compliance determinations specific to Mw 7 are extractable. The broader project context (Caltrans Modesto Soil Stockpiles, SR 132, Stanislaus County) suggests oversight by the California Department of Toxic Substances Control (DTSC) and/or the Central Valley Regional Water Quality Control Board, but this is inferred from the project name, not from the source document itself.
+## Regulatory Status
 
-## Open items
+The applicable regulatory framework includes DTSC oversight and RWQCB consultation. No exceedances or compliance determinations specific to MW7 are documented in the accessible record. The well has been physically removed from service.
 
-All substantive data and status information for Mw 7 remain unavailable due to the encrypted state of the cited document. No deliverables, disputed claims, or pending actions are documented.
+## Open Items
+
+- No groundwater monitoring data (concentrations, trends, verification results) for MW7 are extractable from the provided sources.
+- The May, June, and July 2012 monitoring reports are referenced but their specific MW7 data are not included in the file.
+- No pending actions or deliverables specific to MW7 are documented.
 
 ## See also
 
-- [[modesto-soil-stockpiles]] *(placeholder – no separate article provided)*  
-- [[mw-5]] *(example of a monitoring well referenced in the source snippet, though no data are readable)*
+- [[caltrans-modesto-soil-stockpiles]]
+- [[mw-5]]
+- [[mw-8]]
+- [[geocon-consultants]]
+- dtsc-brownfields-program

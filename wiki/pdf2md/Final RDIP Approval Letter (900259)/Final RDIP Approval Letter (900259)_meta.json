@@ -1,0 +1,117 @@
+{
+  "table_of_contents": [
+    {
+      "title": "A",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          275.220703125,
+          45.24609375
+        ],
+        [
+          371.443359375,
+          45.24609375
+        ],
+        [
+          371.443359375,
+          100.16015625
+        ],
+        [
+          275.220703125,
+          100.16015625
+        ]
+      ]
+    },
+    {
+      "title": "b Department of Toxic Substances Control",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          68.4000015258789,
+          55.777587890625
+        ],
+        [
+          447.7911682128906,
+          55.777587890625
+        ],
+        [
+          447.7911682128906,
+          126.90020751953125
+        ],
+        [
+          68.4000015258789,
+          126.90020751953125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          67
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 3,
+        "llm_error_count": 0,
+        "llm_tokens_used": 2271,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          115
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          15
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Final RDIP Approval Letter (900259)"
+}

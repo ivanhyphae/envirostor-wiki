@@ -1,0 +1,652 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Technical Memorandum",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          218.7421875,
+          74.25
+        ],
+        [
+          388.39971923828125,
+          74.25
+        ],
+        [
+          388.39971923828125,
+          90.66241455078125
+        ],
+        [
+          218.7421875,
+          90.66241455078125
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 1\nSUMMARY OF CARPENTER ROAD SHOOFLY SOIL ANALYTICAL RESULTS - BARIUM AND LEAD\nSTATE ROUTE 132 CALTRANS MODESTO SOIL STOCKPILES\nSTANISLAUS COUNTY, CALIFORNIA",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          125.712890625,
+          89.33203125
+        ],
+        [
+          483.1252250671387,
+          89.33203125
+        ],
+        [
+          483.1252250671387,
+          136.7066764831543
+        ],
+        [
+          125.712890625,
+          136.7066764831543
+        ]
+      ]
+    },
+    {
+      "title": "CHAIN OF CUSTODY RECORD",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          287.25,
+          11.25
+        ],
+        [
+          504.0,
+          11.25
+        ],
+        [
+          504.0,
+          44.25
+        ],
+        [
+          287.25,
+          44.25
+        ]
+      ]
+    },
+    {
+      "title": "Page 2 of 3",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          211.53515625,
+          7.5
+        ],
+        [
+          504.0,
+          7.5
+        ],
+        [
+          504.0,
+          43.5
+        ],
+        [
+          211.53515625,
+          43.5
+        ]
+      ]
+    },
+    {
+      "title": "CHAIN OF CUSTODY RECORD",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          288.75,
+          13.1484375
+        ],
+        [
+          504.0,
+          13.1484375
+        ],
+        [
+          504.0,
+          30.0
+        ],
+        [
+          288.75,
+          30.0
+        ]
+      ]
+    },
+    {
+      "title": "Metals by EPA 6000/7000 Series Methods",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          208.58203125,
+          168.99609375
+        ],
+        [
+          398.18853759765625,
+          168.99609375
+        ],
+        [
+          398.18853759765625,
+          180.06695556640625
+        ],
+        [
+          208.58203125,
+          180.06695556640625
+        ]
+      ]
+    },
+    {
+      "title": "Metals by EPA 6000/7000 Series Methods",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          208.880859375,
+          167.0625
+        ],
+        [
+          398.18853759765625,
+          167.0625
+        ],
+        [
+          398.18853759765625,
+          178.7669677734375
+        ],
+        [
+          208.880859375,
+          178.7669677734375
+        ]
+      ]
+    },
+    {
+      "title": "Metals by EPA 6000/7000 Series Methods - Quality Control",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          168.0,
+          171.0
+        ],
+        [
+          440.25,
+          171.0
+        ],
+        [
+          440.25,
+          183.0
+        ],
+        [
+          168.0,
+          183.0
+        ]
+      ]
+    },
+    {
+      "title": "Notes and Definitions",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          249.521484375,
+          168.99609375
+        ],
+        [
+          340.33074951171875,
+          168.99609375
+        ],
+        [
+          340.33074951171875,
+          179.35186767578125
+        ],
+        [
+          249.521484375,
+          179.35186767578125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          133
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 2713,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          39
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          83
+        ],
+        [
+          "TableCell",
+          60
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1571,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          35
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          286
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "Span",
+          6
+        ],
+        [
+          "Form",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 4,
+        "llm_error_count": 0,
+        "llm_tokens_used": 9221,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          532
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "Span",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Form",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 2,
+        "llm_error_count": 0,
+        "llm_tokens_used": 6731,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          784
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "Span",
+          7
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Form",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 8,
+        "llm_error_count": 1,
+        "llm_tokens_used": 148928,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          387
+        ],
+        [
+          "Span",
+          299
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 3711,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          105
+        ],
+        [
+          "TableCell",
+          71
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1556,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          325
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "Span",
+          9
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 2500,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          71
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Carpenter Road Shoofly Clean Fill Tech Memo"
+}

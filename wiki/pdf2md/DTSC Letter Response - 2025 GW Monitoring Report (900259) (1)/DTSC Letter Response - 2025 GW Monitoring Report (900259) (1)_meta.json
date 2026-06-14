@@ -1,0 +1,170 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          180.4921875,
+          64.1953125
+        ],
+        [
+          431.5078125,
+          64.1953125
+        ],
+        [
+          431.5078125,
+          99.7734375
+        ],
+        [
+          180.4921875,
+          99.7734375
+        ]
+      ]
+    },
+    {
+      "title": "Sent Via Electronic Mail",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          237.568359375,
+          194.76007080078125
+        ],
+        [
+          373.718017578125,
+          194.76007080078125
+        ],
+        [
+          373.718017578125,
+          206.76007080078125
+        ],
+        [
+          237.568359375,
+          206.76007080078125
+        ]
+      ]
+    },
+    {
+      "title": "GSB Comment:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          70.822265625,
+          444.0500793457031
+        ],
+        [
+          156.0679931640625,
+          444.0500793457031
+        ],
+        [
+          156.0679931640625,
+          456.0500793457031
+        ],
+        [
+          70.822265625,
+          456.0500793457031
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          119
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 2,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1775,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          116
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          109
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/DTSC Letter Response - 2025 GW Monitoring Report (900259) (1)"
+}

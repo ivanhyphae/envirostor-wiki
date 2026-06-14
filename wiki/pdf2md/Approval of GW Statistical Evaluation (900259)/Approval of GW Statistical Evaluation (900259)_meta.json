@@ -1,0 +1,113 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Sent Via Electronic Mail",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          237.568359375,
+          167.0625
+        ],
+        [
+          373.718017578125,
+          167.0625
+        ],
+        [
+          373.718017578125,
+          180.00006103515625
+        ],
+        [
+          237.568359375,
+          180.00006103515625
+        ]
+      ]
+    },
+    {
+      "title": "Dear Ms. Silva:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.71875,
+          390.5101013183594
+        ],
+        [
+          153.43199157714844,
+          390.5101013183594
+        ],
+        [
+          153.43199157714844,
+          402.5101013183594
+        ],
+        [
+          71.71875,
+          402.5101013183594
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          71
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 2,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1654,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          59
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Text",
+          9
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Approval of GW Statistical Evaluation (900259)"
+}

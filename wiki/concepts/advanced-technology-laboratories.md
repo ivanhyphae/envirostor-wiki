@@ -1,31 +1,44 @@
 ---
 concept: advanced-technology-laboratories
 entity_type: concept
-aliases: ["Advanced Technology Laboratories"]
-sources: ["raw/S9800-01-17A Caltrans Modesto Stockpiles GW_06 16.pdf"]
-confidence: low
-created_at: 2026-06-10T19:49:47Z
+aliases: ["ATL"]
+sources: ["raw-md/7453_S9525-06-44_Modesto_Stockpiles_July_2012_GW_Report.1112.md"]
+confidence: high
+created_at: 2026-06-14T09:36:20Z
 ---
 
 ## Overview
 
-Advanced Technology Laboratories appears in the project record for the Caltrans Modesto Soil Stockpiles remediation case file (SR 132, Stanislaus County, CA) through the document referenced as *S9800-01-17A* (filename “Caltrans Modesto Stockpiles GW_06 16.pdf”). The provided excerpt of this PDF consists almost entirely of binary‑encoded object streams, encryption metadata, and truncated content. No human‑readable laboratory results, site‑specific data, or narrative text could be extracted from the snippet. Consequently, the specific role of Advanced Technology Laboratories in this project—whether as an analytical laboratory, data validator, or other contractor—cannot be confirmed from the source as presented.
+Advanced Technology Laboratories (ATL) is a California-certified analytical laboratory that provided groundwater sample analysis for the Caltrans Modesto Soil Stockpiles remediation project (State Route 132, Stanislaus County) during the July 2012 groundwater monitoring event. ATL is located at 3275 Walnut Avenue, Signal Hill, CA 90755. The laboratory held California ELAP certification number 1838, NELAP accreditation 02107CA, and additional certifications from CSDLAC, ORELAP, and TCEQ. In this project, ATL acted as the primary analytical laboratory under chain-of-custody protocol, processing samples collected by Geocon Consultants, Inc. field personnel (Mike O’Brien) on July 17, 2012.
 
 ## Site record
 
-No verifiable concentrations, monitoring locations, dates, or exceedances associated with Advanced Technology Laboratories can be cited from the document extract. The raw PDF data includes references to encryption (Filter/Standard, AESV2), multiple compressed object streams, and a truncated body marked `[...truncated...]`. Without decryption or a complete plain‑text conversion, the document’s substantive content remains inaccessible.
+The groundwater samples delivered to ATL on July 17, 2012 (ATL Work Order Number 1202544) were analyzed for the following parameters:
+
+- Title 22 dissolved metals (including strontium) by EPA Methods 6020/7470
+- Dissolved calcium, magnesium, potassium, and sodium by EPA Method 6020
+- Chloride, nitrate as nitrogen, and sulfate by EPA Method 300.0
+- Sulfide by Standard Method (SM) 4500
+- Total dissolved solids (TDS) by SM 2540C
+- Total alkalinity, bicarbonate alkalinity, carbonate alkalinity by SM 2320B
+- Polycyclic aromatic hydrocarbons (PAHs) by EPA Method 8270-SIM
+
+The laboratory report (amended November 13, 2012) and chain-of-custody documentation were included in Appendix B of the monitoring report. The analytical results for this event are summarized on Tables 2 and 3 of that report. Specific concentration values, exceedances, or monitoring locations are not detailed in the source excerpts beyond the analytical suite description.
+
+The chain-of-custody record confirms sample condition checks (chilled, no headspace for VOA, containers intact, sealed, number of samples matching COC, preserved) and transport method (client/ATL courier). The sampler was Mike O’Brien of Geocon.
 
 ## Regulatory status
 
-Not documented in the provided source material.
+ATL held active California ELAP certification (No. 1838) and NELAP accreditation (No. 02107CA) at the time of the July 2012 analysis. The laboratory’s certifications cover the analytical methods employed. The laboratory director, Eddie Rodriguez, certified that results met National Environmental Laboratory Accreditation Conference requirements and applicable state-specific programs. No regulatory deficiencies or non-compliances regarding ATL’s role are documented in the provided sources.
 
 ## Open items
 
-- The complete, decrypted content of file *S9800-01-17A* must be obtained to establish whether Advanced Technology Laboratories performed analytical work, supplied equipment, or provided other services for this project.  
-- If the laboratory contributed data, those results should be cross‑referenced against applicable standards (MCLs, DTSC screening levels, etc.) and integrated into the site record.
+- The full analytical results (Tables 2 and 3) are not included in the source excerpts; those tables must be consulted for specific concentration data and any regulatory exceedances.
+- No other project events involving ATL (e.g., subsequent monitoring rounds) are documented in the available material.
 
 ## See also
 
-- Caltrans Modesto Soil Stockpiles case file
-- S9800-01-17A
+- [[geocon-consultants]]
+- Caltrans Modesto Soil Stockpiles remediation case file
 - State Route 132 (Stanislaus County)
+- S9525-06-44 groundwater monitoring event July 2012

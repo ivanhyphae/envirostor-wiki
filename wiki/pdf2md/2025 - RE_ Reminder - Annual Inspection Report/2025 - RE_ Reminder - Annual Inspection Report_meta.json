@@ -1,0 +1,315 @@
+{
+  "table_of_contents": [
+    {
+      "title": "This Message Is From an External Sender",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          87.85546875,
+          170.54296875
+        ],
+        [
+          297.7424621582031,
+          170.54296875
+        ],
+        [
+          297.7424621582031,
+          182.7569580078125
+        ],
+        [
+          87.85546875,
+          182.7569580078125
+        ]
+      ]
+    },
+    {
+      "title": "Hello Arielle \u2013",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          76.798828125,
+          245.1796875
+        ],
+        [
+          140.7637481689453,
+          245.1796875
+        ],
+        [
+          140.7637481689453,
+          256.6575927734375
+        ],
+        [
+          76.798828125,
+          256.6575927734375
+        ]
+      ]
+    },
+    {
+      "title": "EXTERNAL EMAIL. Links/attachments may not be safe.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          79.787109375,
+          595.7285003662109
+        ],
+        [
+          327.1987609863281,
+          595.7285003662109
+        ],
+        [
+          327.1987609863281,
+          607.3287048339844
+        ],
+        [
+          79.787109375,
+          607.3287048339844
+        ]
+      ]
+    },
+    {
+      "title": "Arielle McLeskey (she/her/hers)",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          76.798828125,
+          71.15625
+        ],
+        [
+          231.40798950195312,
+          71.15625
+        ],
+        [
+          231.40798950195312,
+          83.64373779296875
+        ],
+        [
+          76.798828125,
+          83.64373779296875
+        ]
+      ]
+    },
+    {
+      "title": "arielle.mcleskey@dtsc.ca.gov",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          77.6953125,
+          123.36328125
+        ],
+        [
+          193.640625,
+          123.36328125
+        ],
+        [
+          193.640625,
+          133.406982421875
+        ],
+        [
+          77.6953125,
+          133.406982421875
+        ]
+      ]
+    },
+    {
+      "title": "Thank you,",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          77.09765625,
+          139.89373779296875
+        ],
+        [
+          130.65719604492188,
+          139.89373779296875
+        ],
+        [
+          130.65719604492188,
+          151.89373779296875
+        ],
+        [
+          77.09765625,
+          151.89373779296875
+        ]
+      ]
+    },
+    {
+      "title": "Arielle McLeskey (she/her/hers)",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          77.09765625,
+          170.54296875
+        ],
+        [
+          231.40798950195312,
+          170.54296875
+        ],
+        [
+          231.40798950195312,
+          182.64373779296875
+        ],
+        [
+          77.09765625,
+          182.64373779296875
+        ]
+      ]
+    },
+    {
+      "title": "arielle.mcleskey@dtsc.ca.gov",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          76.5,
+          222.656982421875
+        ],
+        [
+          192.8062286376953,
+          222.656982421875
+        ],
+        [
+          192.8062286376953,
+          232.406982421875
+        ],
+        [
+          76.5,
+          232.406982421875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          98
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          19
+        ],
+        [
+          "SectionHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 2470,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          87
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          15
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          76
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          26
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/2025 - RE_ Reminder - Annual Inspection Report"
+}

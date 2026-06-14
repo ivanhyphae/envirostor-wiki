@@ -1,0 +1,148 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Wright, Dean@DTSC",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.6640625,
+          51.8203125
+        ],
+        [
+          152.7239990234375,
+          51.8203125
+        ],
+        [
+          152.7239990234375,
+          64.3572998046875
+        ],
+        [
+          34.6640625,
+          64.3572998046875
+        ]
+      ]
+    },
+    {
+      "title": "Richard C. Stewart",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.962890625,
+          606.3526763916016
+        ],
+        [
+          179.4166259765625,
+          606.3526763916016
+        ],
+        [
+          179.4166259765625,
+          619.3726806640625
+        ],
+        [
+          34.962890625,
+          619.3726806640625
+        ]
+      ]
+    },
+    {
+      "title": "EXTERNAL EMAIL. Links/attachments may not be safe.",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          37.0546875,
+          93.19921875
+        ],
+        [
+          283.5179138183594,
+          93.19921875
+        ],
+        [
+          283.5179138183594,
+          105.4649658203125
+        ],
+        [
+          37.0546875,
+          105.4649658203125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          96
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          19
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1359,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          39
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Borrow Area Results Tech Memo Approval"
+}

@@ -1,0 +1,86 @@
+{
+  "table_of_contents": [
+    {
+      "title": "EXTERNAL EMAIL. Links/attachments may not be safe.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          79.48828125,
+          684.2285003662109
+        ],
+        [
+          327.1987609863281,
+          684.2285003662109
+        ],
+        [
+          327.1987609863281,
+          695.8287124633789
+        ],
+        [
+          79.48828125,
+          695.8287124633789
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          99
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          24
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 913,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          94
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          21
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Acceptance E-mail_Stockpiles 1 and 2 MSE Wall Sampling Plan"
+}

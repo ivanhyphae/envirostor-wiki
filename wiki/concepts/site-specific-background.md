@@ -1,63 +1,59 @@
 ---
 concept: site-specific-background
 entity_type: concept
-aliases: ["site-specific background"]
-sources: ["raw/S9525-06-44AModesto Stockpiles GW  SEPT2012 1212.pdf"]
+aliases: ["background concentrations", "site-specific background concentration"]
+sources: ["raw-md/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.md", "raw-md/Borrow Area Results Tech Memo Approval.md", "raw-md/DTSC E-mail Approval of Carpenter Shoofly Tech Memo.md", "Bent 2 Stockpiles Tech Memo.md", "Stockpile 2 BCS Foundation Spoil Workplan Tech Memo.md"]
 confidence: high
-created_at: 2026-06-10T19:45:03Z
+created_at: 2026-06-14T09:37:00Z
 ---
 
 ## Overview
 
-The California Department of Transportation (Caltrans) Modesto Soil Stockpiles (SR 132, Stanislaus County) case file addresses stockpiled soil removed during a roadway-widening project along State Route 132 near Modesto, California. The stockpiles were generated during the construction of a four-lane expressway, which uncovered contaminated soil requiring off-site disposal or on-site management. The site is associated with historic agricultural and industrial land use, including nearby pesticide formulation and bulk fuel storage operations.
+The Site Specific Background concept for the Caltrans Modesto Soil Stockpiles (SR 132, Stanislaus County, CA) defines the naturally occurring or locally representative concentrations of chemicals of potential concern (COPCs) used to distinguish anthropogenic contamination from ambient conditions. Establishing defensible background concentrations is critical for determining which stockpile soils require remediation, what disposal or capping standards apply, and how to evaluate the suitability of clean fill materials for site restoration. The state Department of Toxic Substances Control (DTSC) and the Central Valley Regional Water Quality Control Board have accepted multiple background characterizations supporting project decisions.
 
 ## Site Record
 
-### Source and Documentation
-The primary source document is the *Site Specific Background* for the Modesto Soil Stockpiles Groundwater Investigation report (September 2012, reference S9525-06-44A). This report was prepared for Caltrans by an environmental consultant (name redacted in source material) to support regulatory approval for stockpile management and off-site disposal.
+### 2006 Background Assessment (Shaw SI)
 
-### Soil Stockpile Characteristics
-- **Volume:** Approximately 138,000 cubic yards of soil were excavated during the SR 132 widening (phase from 2019–2020).
-- **Contaminants of concern:** Pesticides (DDT, dieldrin, and chlordane), petroleum hydrocarbons (TPH), and metals (lead, arsenic, and chromium).
-- **Concentrations:** Soil testing from stockpile samples showed:
-  - DDT: up to 12 mg/kg (action level 5 mg/kg by DTSC)
-  - Dieldrin: up to 4.2 mg/kg (action level 1 mg/kg)
-  - Total lead: up to 760 mg/kg (action level 100 mg/kg for residential, 500 mg/kg for industrial)
-  - Total arsenic: up to 85 mg/kg (background at 30–45 mg/kg)
-- **Monitoring wells:** Two groundwater monitoring wells (MW-5 and MW-6) were installed in 2012 near the stockpile area to assess potential leaching to shallow groundwater (depth to water approx. 15 ft bgs).
+Shaw conducted the initial background evaluation during the 2006 Site Investigation, collecting soil samples from eight borings west of Stockpile 1 in undeveloped, relatively undisturbed ground. Each boring extended to 15 feet, with samples collected at 5-, 10-, and 15-foot depths. The subsurface was predominantly sand with varying silt and clay content. Samples were analyzed for inorganics, PAHs, and other constituents (e.g., nitrate, sulfate). For inorganics, Shaw calculated 95th upper confidence limits (UCLs) to establish local background concentrations. For infrequently detected constituents (beryllium, cadmium, mercury), arithmetic means were used; non-detects were assigned one-half the detection limit. Four background samples were also analyzed for PAHs; none were detected (Shaw, 2007a, as cited in the Final FS Report).
 
-### Verification Results
-Groundwater samples from MW-5 and MW-6 (September 2012) showed:
-- **Barium:** 1,800 µg/L (MCL = 1,000 µg/L) at MW-5
-- **Arsenic:** 64 µg/L (MCL = 10 µg/L) at MW-6
-- **Dieldrin:** 0.09 µg/L (MCL = 0.1 µg/L) at MW-5
-- **Tetrachloroethylene (PCE):** 14 µg/L (MCL = 5 µg/L) at MW-6
+Shaw reported that the calculated background metals concentrations were generally consistent with those determined for the adjacent FMC site. Barium concentrations in background soil ranged from 17 to 120 mg/kg.
 
-These values indicate exceedances of federal Safe Drinking Water Act Maximum Contaminant Levels (MCLs) for barium, arsenic, and PCE, with dieldrin marginally below its MCL.
+### 2020 Clean Cap Borrow Area Characterization
+
+A Technical Memorandum dated February 27, 2020 described composite soil sampling of a proposed borrow area for clean cover material to cap Stockpiles 1 and 2. DTSC Project Manager Dean Wright reviewed the data and, via email on March 4, 2020, accepted the memo, stating that the composite results were "consistent with naturally occurring background concentrations and suitable as clean cover material for capping Stockpiles 1 and 2." This acceptance did not require additional sampling or conditions.
+
+### 2021 Carpenter Shoofly Clean Fill Characterization
+
+A Technical Memorandum dated April 12, 2021 documented sampling and analysis of the Carpenter Shoofly area for use as clean fill. DTSC and the Water Board jointly reviewed the data. In an email dated April 22, 2021, Dean Wright confirmed that the composite soil sample results were "consistent with naturally occurring background concentrations and meet the [Stockpile-specific] Barium Containing Soil clean cap criteria." This acceptance also required no further action.
+
+### Total Metals Comparison to Background (FS Report)
+
+The Final FS Report (June 2014) compared stockpile soil metals to the established background. Key findings:
+
+- **Arsenic, chromium, cobalt, copper:** Detected at concentrations "slightly exceeding background concentrations."
+- **Barium, lead, nickel, vanadium, zinc:** Detected at concentrations "considerably higher than background values."
+- **Barium (primary COPC):** Maximum concentrations were 130 mg/kg (Stockpile 1), 64,000 mg/kg (Stockpile 2), and 72,000 mg/kg (Stockpile 3). Background ranged from 17–120 mg/kg.
+- **Antimony, selenium, silver:** Not detected in any of 278 stockpile samples.
+- **Beryllium, cadmium, mercury, molybdenum, thallium:** Detected at low concentrations.
 
 ## Regulatory Status
 
-### Applicable Standards
-- **MCLs (federal California standards):** Arsenic 10 µg/L, Barium 1,000 µg/L, PCE 5 µg/L, Dieldrin 0.1 µg/L.
-- **DTSC action levels:** As referenced in the 2012 report, DTSC uses site-specific screening levels (e.g., for pesticides and metals in soil) based on human health risk.
-- **Background thresholds:** For metals, the California Regional Water Quality Control Board (RWQCB) set background arsenic at 30–45 mg/kg in soil. The site data (85 mg/kg) exceed this.
-
-### Compliance Status
-The project is currently under a **consent order** with the DTSC, issued in October 2019, requiring:
-- Off-site disposal of all stockpiled soil exceeding DTSC action levels (completed November 2020).
-- Groundwater monitoring for three years (2021–2024) to verify no ongoing contamination.
-- A **Proposed Remedial Action Plan (PRAP)** was submitted in 2021 and approved by DTSC in March 2022.
-
-The site is in compliance per the latest DTSC review (July 2023), with no violations noted for groundwater monitoring schedules or disposal records.
+- **Acceptance criteria:** DTSC and/or Water Board accepted the borrow area and Carpenter Shoofly results based on consistency with naturally occurring background and suitability for the intended use (clean cap or clean fill). No formal numeric background thresholds were codified in these approvals beyond the statement of consistency.
+- **Background as reference:** The background values from the 2006 SI have been used as the benchmark for distinguishing natural from anthropogenic metals concentrations throughout the project.
+- **Compliance standing:** All background characterizations submitted have been accepted without conditions. No current compliance issues are documented for the background-related decisions.
 
 ## Open Items
 
-- **Pending Verification:** The final groundwater monitoring report for 2024 has not yet been submitted (as of source document date). One round of sampling in Q1 2024 showed barium at 980 µg/L (still below MCL of 1,000 µg/L) at MW-5, but DTSC is requiring one more round before closure.
-- **Soil Stockpiles:** Two small stockpiles (approx. 200 cubic yards each) remain on-site, covered and awaiting characterization sampling per the 2023 Revised Work Plan. DTSC has not yet approved the results.
+- None identified in the provided sources. The two background characterizations (borrow area and Carpenter Shoofly) received unconditional approval.
 
 ## See also
 
-- Caltrans Modesto Soil Stockpiles Remedial Action Plan
+- [[caltrans-modesto-soil-stockpiles]]
+- Barium COPC
+- Stockpile 1 Background Assessment
+- Stockpile 2 and 3 Metals Exceedances
+- [[clean-cap-borrow-area-tech-memo]]
+- Carpenter Shoofly Clean Fill
 - DTSC Consent Order for Stockpile Management
-- MW-5 Monitoring Well Data Series
-- Site-Specific Background for SR 132 Project
+- Shaw 2006 Site Investigation

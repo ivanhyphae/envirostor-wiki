@@ -1,0 +1,842 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Stantec Consulting Services Inc.\n7502 North Colonial Avenue Suite 101 , Fresno CA 93711-5862",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          204.697265625,
+          69.99609375
+        ],
+        [
+          406.1934814453125,
+          69.99609375
+        ],
+        [
+          406.1934814453125,
+          89.78125
+        ],
+        [
+          204.697265625,
+          89.78125
+        ]
+      ]
+    },
+    {
+      "title": "SITE BACKGROUND",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.71875,
+          531.73828125
+        ],
+        [
+          180.2711944580078,
+          531.73828125
+        ],
+        [
+          180.2711944580078,
+          543.4692840576172
+        ],
+        [
+          71.71875,
+          543.4692840576172
+        ]
+      ]
+    },
+    {
+      "title": "PAST SURFACE WATER SAMPLING ACTIVITIES",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          71.12109375,
+          374.73046875
+        ],
+        [
+          325.5387268066406,
+          374.73046875
+        ],
+        [
+          325.5387268066406,
+          386.9692687988281
+        ],
+        [
+          71.12109375,
+          386.9692687988281
+        ]
+      ]
+    },
+    {
+      "title": "FIELD ACTIVITIES",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          70.5234375,
+          152.75390625
+        ],
+        [
+          167.46478271484375,
+          152.75390625
+        ],
+        [
+          167.46478271484375,
+          164.45928955078125
+        ],
+        [
+          70.5234375,
+          164.45928955078125
+        ]
+      ]
+    },
+    {
+      "title": "SURFACE WATER MANAGEMENT",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          72.017578125,
+          590.1328125
+        ],
+        [
+          251.71104431152344,
+          590.1328125
+        ],
+        [
+          251.71104431152344,
+          602.0592803955078
+        ],
+        [
+          72.017578125,
+          602.0592803955078
+        ]
+      ]
+    },
+    {
+      "title": "LIMITATIONS",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          70.5234375,
+          153.4193115234375
+        ],
+        [
+          142.35983276367188,
+          153.4193115234375
+        ],
+        [
+          142.35983276367188,
+          164.45928955078125
+        ],
+        [
+          70.5234375,
+          164.45928955078125
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          412.0299987792969,
+          353.4609375
+        ],
+        [
+          548.762939453125,
+          353.4609375
+        ],
+        [
+          548.762939453125,
+          373.6643371582031
+        ],
+        [
+          412.0299987792969,
+          373.6643371582031
+        ]
+      ]
+    },
+    {
+      "title": "Stantec Consulting Services Inc.\n7502 North Colonial Avenue Suite 101 , Fresno CA 93711-5862",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          204.697265625,
+          69.99609375
+        ],
+        [
+          406.1934814453125,
+          69.99609375
+        ],
+        [
+          406.1934814453125,
+          89.78125
+        ],
+        [
+          204.697265625,
+          89.78125
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          71.71875,
+          180.4193115234375
+        ],
+        [
+          147.1622314453125,
+          180.4193115234375
+        ],
+        [
+          147.1622314453125,
+          191.45928955078125
+        ],
+        [
+          71.71875,
+          191.45928955078125
+        ]
+      ]
+    },
+    {
+      "title": "FIGURES",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          459.8199768066406,
+          353.62432861328125
+        ],
+        [
+          548.8978271484375,
+          353.62432861328125
+        ],
+        [
+          548.8978271484375,
+          373.6643371582031
+        ],
+        [
+          459.8199768066406,
+          373.6643371582031
+        ]
+      ]
+    },
+    {
+      "title": "Legend",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          331.5,
+          667.5
+        ],
+        [
+          378.0,
+          667.5
+        ],
+        [
+          378.0,
+          682.5
+        ],
+        [
+          331.5,
+          682.5
+        ]
+      ]
+    },
+    {
+      "title": "Notes",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          626.25,
+          668.25
+        ],
+        [
+          663.0,
+          668.25
+        ],
+        [
+          663.0,
+          680.25
+        ],
+        [
+          626.25,
+          680.25
+        ]
+      ]
+    },
+    {
+      "title": "APPENDIX A\nPhotographic Record",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          345.42999267578125,
+          349.59375
+        ],
+        [
+          548.8687133789062,
+          349.59375
+        ],
+        [
+          548.8687133789062,
+          396.5843505859375
+        ],
+        [
+          345.42999267578125,
+          396.5843505859375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          132
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 3261,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          159
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          134
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          114
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          18
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 574,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          29
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          59
+        ],
+        [
+          "Span",
+          9
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          38
+        ],
+        [
+          "Span",
+          24
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 579,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          13
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          39
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          45
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          35
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          37
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/06A2542ct_to16_SurfaceWaterLetter _final.20210323"
+}

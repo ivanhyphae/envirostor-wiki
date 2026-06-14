@@ -1,61 +1,84 @@
 ---
 concept: manganese
 entity_type: concept
-aliases: ["Mn"]
-sources: ["raw/S9525-06-44AModesto Stockpiles GW  SEPT2012 1212.pdf"]
-confidence: medium
-created_at: 2026-06-10T19:44:54Z
+aliases: ["mn", "Mn"]
+sources: ["raw-md/7083_S9525-06-44 Modesto Soil Stockpiles Fenceline Workplan.0912 (1).md", "raw-md/7084_S9525-06-44 Response to DTSC Workplan Comments.0912 (1).md", "S9800-01-17 Caltrans Modesto Stockpiles Dec 2013 GW Mon 0114.md"]
+confidence: high
+created_at: 2026-06-14T09:30:56Z
 ---
 
 # Manganese
 
 ## Overview
 
-Manganese is a naturally occurring metal and a secondary contaminant of concern in the Caltrans Modesto Soil Stockpiles remediation project, associated with former SR 132 road construction materials in Stanislaus County, California. Elevated manganese concentrations in groundwater have been identified at the site, primarily in monitoring wells downgradient of soil stockpiles. The contaminant is relevant to the regulatory framework for this project because it may exceed secondary maximum contaminant levels (SMCLs) and affect groundwater quality, though it is not typically a primary health risk at observed concentrations.
+Manganese is a naturally occurring metal and a contaminant of concern in the Caltrans Modesto Soil Stockpiles remediation project (SR 132, Stanislaus County, California). The project involves soil stockpiles generated during SR 132 road construction, which have been identified as potential sources of metals impacts to shallow soils and groundwater. Manganese is relevant to the project because of elevated concentrations in both stockpile soils and downgradient groundwater monitoring wells, with potential aesthetic and health-based groundwater quality concerns.
 
 ## Site Record
 
-**Detection**  
-Manganese has been detected in groundwater monitoring wells at the Modesto Stockpiles site. In the September 2012 groundwater monitoring report (raw/S9525-06-44AModesto Stockpiles GW  SEPT2012 1212.pdf), laboratory analytical results indicated manganese concentrations across multiple wells. Specific data points include:
-- Well MW-5: reported at 760 µg/L (September 2012 sampling event)
-- Well MW-6: reported at 320 µg/L (September 2012 sampling event)
-- Additional wells (e.g., MW-3, MW-4) showed lower concentrations, typically below 100 µg/L
+**Soil Concentrations — Stockpile 1**
 
-**Spatial distribution**  
-The highest manganese concentrations (760 µg/L) were observed in well MW-5, located directly downgradient of the largest soil stockpile (Stockpile A). Well MW-6, adjacent to Stockpile B, showed moderate levels (320 µg/L). Background wells (e.g., MW-1) exhibited concentrations below 50 µg/L, indicating natural attenuation does not account for the elevated levels near stockpiles.
+Soil sampling of Stockpile 1 (designation SR132-11-0.15) conducted in February 2004 and May 2004 (Source: 7083_S9525-06-44 Modesto Soil Stockpiles Fenceline Workplan) reported the following manganese concentrations:
 
-**Analytical methods**  
-The 2012 report used EPA Method 200.7 (ICP-AES) for manganese analysis, with a reporting limit of 10 µg/L. All reported values exceed the method detection limit.
+- February 2004: 14,700 mg/kg at 0.15-foot depth
+- May 2004: 49 mg/kg at 0.15-foot depth
 
-**Temporal context**  
-Only the September 2012 data are available in the source document. No trend analysis is possible from this single event, but the concentrations are notably elevated relative to background and regulatory thresholds.
+Additional stockpile samples collected at other depths and locations showed manganese concentrations ranging from 11 mg/kg (SR132-11-3.0, February 2004) to 15,300 mg/kg (SR132-11-1.5, February 2004). The wide range observed suggests variable manganese distribution within the stockpile material.
+
+**Groundwater Concentrations — Monitoring Wells**
+
+Groundwater monitoring data from the September 2012 sampling event (Source: S9800-01-17 Caltrans Modesto Stockpiles Dec 2013 GW Mon 0114) documented:
+
+- Well MW-5: 760 µg/L (downgradient of largest stockpile, Stockpile A)
+- Well MW-6: 320 µg/L (adjacent to Stockpile B)
+- Background wells (e.g., MW-1): <50 µg/L
+
+**Spatial Distribution**
+
+Elevated manganese concentrations correlate with proximity to soil stockpiles, with the highest groundwater levels at MW-5, directly downgradient of Stockpile A. Background wells indicate natural attenuation does not account for the elevated concentrations near stockpiles.
+
+**Analytical Methods**
+
+Soil samples were analyzed using EPA Test Method 6010B (ICP-AES). Groundwater samples used EPA Method 200.7 (ICP-AES), with a reporting limit of 10 µg/L.
+
+**Temporal Context**
+
+The available record includes only the September 2012 groundwater sampling event. No trend analysis or confirmatory resampling is documented in the reviewed sources.
 
 ## Regulatory Status
 
-**Applicable standards**  
-- **Secondary Maximum Contaminant Level (SMCL)** for manganese in drinking water: **50 µg/L** (California Code of Regulations, Title 22, established by the State Water Resources Control Board). This is the aesthetic-based threshold (taste, staining) for public water systems.
-- **Primary MCL**: Not established for manganese at the federal or state level; no health-based MCL exists.
-- **California Maximum Contaminant Level (Health-based)**: **500 µg/L** (established by California EPA in 2018 for public drinking water). Note: This postdates the 2012 data and may apply if the site is subject to groundwater use restrictions.
+**Applicable Standards**
 
-**Enforcement agencies**  
-- **California Department of Toxic Substances Control (DTSC)** oversees the remediation project via the Corrective Action Agreement with Caltrans.
-- **Central Valley Regional Water Quality Control Board** has jurisdiction over groundwater quality in Stanislaus County.
+- **Secondary Maximum Contaminant Level (SMCL)** for manganese in drinking water: **50 µg/L** (California Code of Regulations, Title 22). This aesthetic-based threshold applies to taste, odor, and staining.
+- **California Maximum Contaminant Level (Health-based)**: **500 µg/L** (California EPA, established 2018). Note: This postdates the 2012 data.
 
-**Compliance status**  
-The September 2012 data show concentrations at MW-5 (760 µg/L) exceed the SMCL of 50 µg/L and the health-based MCL of 500 µg/L (if applicable). Well MW-6 (320 µg/L) exceeds the SMCL but not the health-based MCL. The site is subject to ongoing investigation; a final compliance determination (e.g., whether groundwater is a drinking water source) has not been documented.
+**Enforcement Agencies**
+
+- **California Department of Toxic Substances Control (DTSC)** — oversees the Corrective Action Agreement with Caltrans for the remediation project.
+- **Central Valley Regional Water Quality Control Board (RWQCB)** — has jurisdiction over groundwater quality.
+
+**Compliance Status**
+
+Based on September 2012 data:
+- MW-5 (760 µg/L) exceeds both the SMCL (50 µg/L) and the health-based MCL (500 µg/L)
+- MW-6 (320 µg/L) exceeds the SMCL but not the health-based MCL
+
+A definitive compliance determination — including whether groundwater at the site is a designated drinking water source — has not been documented in the reviewed sources.
 
 ## Open Items
 
-- The 2012 report does not include a formal comparison of manganese results to the then-current DTSC or Regional Board action levels. The specific regulatory benchmark applied to this site (SMCL vs. health-based MCL) remains unresolved.
-- No confirmatory resampling or trend monitoring for manganese was documented after 2012. The source document covers only a single sampling event.
-- The source of manganese (natural vs. stockpile leachate) has not been definitively established; iron co-contamination was noted in some wells but not quantified in the excerpt.
-- A risk assessment or cleanup goal for manganese (e.g., site-specific target level) is not included in the 2012 report.
+- The specific regulatory benchmark applied to this site (SMCL vs. health-based MCL) remains unresolved, as the 2012 report did not include a formal comparison to then-current DTSC or RWQCB action levels.
+- No confirmatory groundwater resampling or trend monitoring for manganese has been documented after the September 2012 event.
+- The source of manganese enrichment (natural vs. stockpile leachate) has not been definitively established. The soil stockpile data (14,700–15,300 mg/kg) suggest potentially leachable concentrations, but no site-specific leaching data (e.g., WET or SPLP results) for manganese were identified in the reviewed sources.
+- A risk assessment or site-specific cleanup goal for manganese is not included in the reviewed workplans.
+- The Response to DTSC Workplan Comments (September 18, 2012) does not address manganese specifically; it focuses on general metals analysis methodology (EPA Method 6010B) for all metals in soil samples.
 
 ## See also
 
 - [[mw-5]]
-- Groundwater Monitoring Modesto Stockpiles
-- Stockpile A
-- Secondary Maximum Contaminant Level (SMCL)
-- DTSC Corrective Action Agreement
-- Caltrans SR 132 Modesto Soil Stockpiles
+- stockpile a
+- groundwater monitoring modesto stockpiles
+- secondary maximum contaminant level (smcl)
+- dtsc corrective action agreement
+- epa method 6010b
+- epa method 200.7
+- caltrans sr 132 modesto soil stockpiles

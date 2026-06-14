@@ -1,0 +1,155 @@
+{
+  "table_of_contents": [
+    {
+      "title": "\\' ./ Department of Toxic Substances Control",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          64.38394165039062,
+          47.44061279296875
+        ],
+        [
+          443.7657165527344,
+          47.44061279296875
+        ],
+        [
+          443.7657165527344,
+          111.2249755859375
+        ],
+        [
+          64.38394165039062,
+          111.2249755859375
+        ]
+      ]
+    },
+    {
+      "title": "Next Steps",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          64.314453125,
+          225.849609375
+        ],
+        [
+          123.18677520751953,
+          225.849609375
+        ],
+        [
+          123.18677520751953,
+          238.02703857421875
+        ],
+        [
+          64.314453125,
+          238.02703857421875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          67
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 2,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1720,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          75
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          65
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          7
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/3.14.2018 - Approval letter for SR 132 RAP"
+}

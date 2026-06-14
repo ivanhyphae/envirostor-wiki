@@ -1,0 +1,251 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Wright, Dean@DTSC",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.26171875,
+          51.8203125
+        ],
+        [
+          152.7239990234375,
+          51.8203125
+        ],
+        [
+          152.7239990234375,
+          64.3572998046875
+        ],
+        [
+          35.26171875,
+          64.3572998046875
+        ]
+      ]
+    },
+    {
+      "title": "Richard C. Stewart",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.560546875,
+          596.9326629638672
+        ],
+        [
+          179.4166259765625,
+          596.9326629638672
+        ],
+        [
+          179.4166259765625,
+          609.9526672363281
+        ],
+        [
+          35.560546875,
+          609.9526672363281
+        ]
+      ]
+    },
+    {
+      "title": "EXTERNAL EMAIL. Links/attachments may not be safe.",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          36.755859375,
+          79.6640625
+        ],
+        [
+          283.5179138183594,
+          79.6640625
+        ],
+        [
+          283.5179138183594,
+          92.02496337890625
+        ],
+        [
+          36.755859375,
+          92.02496337890625
+        ]
+      ]
+    },
+    {
+      "title": "Richard C. Stewart",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.560546875,
+          506.99267578125
+        ],
+        [
+          179.4166259765625,
+          506.99267578125
+        ],
+        [
+          179.4166259765625,
+          520.0126647949219
+        ],
+        [
+          35.560546875,
+          520.0126647949219
+        ]
+      ]
+    },
+    {
+      "title": "EXTERNAL EMAIL. Links/attachments may not be safe.",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          36.755859375,
+          695.3203125
+        ],
+        [
+          283.5179138183594,
+          695.3203125
+        ],
+        [
+          283.5179138183594,
+          706.9049987792969
+        ],
+        [
+          36.755859375,
+          706.9049987792969
+        ]
+      ]
+    },
+    {
+      "title": "Dean\u2026..I'm leaving shortly for home man\u2026.really hit by this cold & not feeling well.",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          35.26171875,
+          309.76171875
+        ],
+        [
+          418.9406433105469,
+          309.76171875
+        ],
+        [
+          418.9406433105469,
+          321.7650146484375
+        ],
+        [
+          35.26171875,
+          321.7650146484375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          97
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          24
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 2108,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          22
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          58
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Borrow Area Sampling Plan Approval E-Mail"
+}

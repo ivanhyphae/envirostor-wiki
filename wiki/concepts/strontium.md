@@ -1,41 +1,51 @@
 ---
 concept: strontium
 entity_type: concept
-aliases: ["Sr"]
-sources: ["raw/S9525-06-44AModesto Stockpiles GW  SEPT2012 1212.pdf"]
-confidence: medium
-created_at: 2026-06-10T19:45:13Z
+aliases: ["sr", "Sr"]
+sources: ["raw-md/7083_S9525-06-44 Modesto Soil Stockpiles Fenceline Workplan.0912 (1).md", "raw-md/7453_S9525-06-44_Modesto_Stockpiles_July_2012_GW_Report.1112.md", "raw-md/7084_S9525-06-44 Response to DTSC Workplan Comments.0912 (1).md", "S9800-01-17 Caltrans Modesto Stockpiles Dec 2013 GW Mon 0114.md"]
+confidence: high
+created_at: 2026-06-14T09:31:09Z
 ---
 
 ## Overview
 
-Strontium is a naturally occurring alkaline earth metal that has been identified as a **constituent of potential concern (COPC)** in groundwater beneath the [[modesto-soil-stockpiles]] site (SR 132, Stanislaus County, California). Its relevance in this project arises from its detection above regulatory screening levels in groundwater monitoring wells associated with historical soil stockpiles. Strontium is not a primary contaminant of focus under typical CERCLA or DTSC oversight but is tracked as part of the comprehensive groundwater monitoring program to assess the broader environmental impact of the stockpiles. In the project record, strontium is evaluated against **California Maximum Contaminant Levels (MCLs)** for drinking water and site-specific background concentrations.
+Strontium is a naturally occurring alkaline earth metal identified as a **constituent of potential concern (COPC)** in groundwater and soil beneath the [[caltrans-modesto-soil-stockpiles]] site (SR 99/132, Stanislaus County, CA). Its relevance at the site stems from the historical processing of **celestite (strontium sulfate)** at the former Barium Products Ltd. / FMC Corporation facility (1930s–1970s), which generated the waste materials later incorporated into the stockpiles. The DTSC has identified strontium (along with barium and lead) as a primary chemical of concern for the site’s groundwater monitoring program.
 
 ## Site Record
 
-The primary documentation for strontium at the Caltrans Modesto Soil Stockpiles site is found in the **"Groundwater Monitoring Report, September 2012 (S9525-06-44A)"**, prepared for Caltrans. Key findings include:
+**Soil (2004 PSI):** Strontium was detected in stockpile soil samples collected in February and May 2004 during the Preliminary Site Investigation (PSI), reported in the *Fenceline Workplan* (Appendix A). Key results include:
 
-- **Detection and Concentration Ranges:** Strontium was detected in multiple monitoring wells during the September 2012 sampling event. The most frequently cited concentration in the report is **strontium at 1,100 µg/L** in **well MW-5**, collected on September 12, 2012. This value is noted as an exceedance relative to the **California MCL of 1,000 µg/L** for strontium (the MCL for strontium is currently listed as a secondary MCL or drinking water standard; the exact regulatory classification is unclear from the source alone).
-- **Spatial Distribution:** Strontium concentrations across the site were variable. While MW-5 showed 1,100 µg/L, other wells reported lower levels (e.g., MW-3 at 0.82 µg/L, MW-8 at 7.3 µg/L), indicating a localized plume or heterogeneous hydrogeologic conditions. The source does not provide a comprehensive spatial contour map or confirm a continuous strontium plume.
-- **Temporal Trends:** The September 2012 report represents a single sampling event. No trend analysis is possible from this source alone. The source notes that strontium in MW-5 exceeded the MCL, but the report does not specify whether this was a recurring exceedance or a first-time detection.
-- **Verification Results:** The source does not document any follow-up verification sampling or regulatory confirmation of the 1,100 µg/L detection. The report recommends continued monitoring, but no addendum or corrective action is detailed in the provided excerpt.
+- **Stockpile 1:** Sample SR132-01-0.15 (0–15 ft): **49 mg/kg**. Sample SR132-01-4.5: approximately **35 mg/kg** (value truncated in source).
+- **Stockpile 2:** Sample SR132-11-0.15: **49 mg/kg**; SR132-11-1.5: **46 mg/kg**; SR132-11-3.0: **43 mg/kg**.
+- **Stockpile 3:** Strontium was included in the metals analysis suite, but specific values are truncated in the source table.
+
+These soil values are not compared to a specific regulatory threshold in the sources; strontium in soil is managed as part of the overall stockpile characterization, not as a standalone trigger for action.
+
+**Groundwater (July 2012):** The *Groundwater Monitoring Report – July 2012* (November 2012) presents the most complete record of dissolved strontium in groundwater:
+
+- **Detected Range:** 210 µg/L (MW-10) to **1,100 µg/L** (MW-1, MW-5, MW-6).
+- **High Concentrations (>1,000 µg/L):** MW-1 (1,100 µg/L; 7/16/12), MW-5 (1,100 µg/L; 7/16/12), MW-6 (1,100 µg/L; 7/16/12).
+- **Moderate Concentrations (600–850 µg/L):** MW-2 (740 µg/L), MW-3 (850 µg/L), MW-4 (840 µg/L), MW-7 (600 µg/L), MW-8 (800 µg/L), MW-9 (210 µg/L).
+- **Applicable Threshold:** The report uses a numeric water quality threshold of **4,000 µg/L** (EPA Drinking Water Health Advisory). No groundwater sample exceeded this threshold. All strontium detections were reported as significantly below the threshold.
+
+**Temporal Trends:** The July 2012 results were compared to historical data (2006–2012) on Figure 6 of the report, which showed strontium concentrations "remained significantly below their numeric water quality thresholds" and were "similar to historical levels."
 
 ## Regulatory Status
 
-- **Applicable Standard:** The **California Maximum Contaminant Level (MCL)** for strontium is **1,000 µg/L** (as of the 2012 reporting date). This is the primary threshold used for evaluating potable groundwater quality at the site.
-- **Agency Oversight:** The project is subject to oversight by the **California Department of Toxic Substances Control (DTSC)** and likely the **Central Valley Regional Water Quality Control Board (RWQCB)** , though the source does not explicitly state regulatory action. The September 2012 report was prepared to fulfill monitoring obligations under a **Corrective Action Plan (CAP)** or similar regulatory order (the exact document name is not provided in the source).
-- **Compliance Status:** At the time of sampling (September 2012), well MW-5 was **not in compliance** with the strontium MCL of 1,000 µg/L, as the concentration (1,100 µg/L) exceeded the threshold. Other wells were in compliance. The report does not indicate if this exceedance resulted in a Notice of Violation, a revised CAP, or a time-critical removal action.
+- **Primary COPC Designation:** DTSC has designated strontium as a primary chemical of concern for the site, alongside barium and lead. This designation is based on the historical processing of celestite at the adjacent FMC facility.
+- **Applicable Standard:** **EPA Drinking Water Health Advisory: 4,000 µg/L**. This is the threshold used by the July 2012 groundwater report.
+- **Compliance Status:** All monitored wells (MW-1 through MW-10) were in **compliance** with the 4,000 µg/L health advisory as of July 2012. No MCL exceedance (1,000 µg/L state MCL, if applied) was flagged in the report, and the DTSC has not taken any documented enforcement action related to strontium at the site.
 
 ## Open Items
 
-1. **Exceedance Validation:** The 1,100 µg/L detection in MW-5 has not been confirmed by a second sampling event, nor has a trend been established. A verification sample is outstanding.
-2. **Source Characterization:** The source does not identify whether the strontium originates from the stockpile materials, background geology, or an unrelated off-site source. A source investigation—potentially using isotopic analysis—remains unresolved.
-3. **Corrective Action Determination:** No remedial action or interim measure (e.g., institutional controls, groundwater extraction, or capping) has been documented in response to the MW-5 exceedance. The need for such action is pending further review by DTSC/RWQCB.
-4. **Reporting Gaps:** The September 2012 report does not include a full landfill-wide isotopic analysis or risk assessment for strontium. A **Human Health Risk Assessment (HHRA)** update may be required if strontium is reclassified from a secondary to a primary contaminant.
+1. **No Action Level Established:** The July 2012 report uses the EPA Health Advisory (4,000 µg/L) as the threshold, not the California MCL (1,000 µg/L). The basis for this selection (versus the more stringent MCL) is not explained in the source and may require clarification.
+2. **Source of Strontium in Groundwater:** The relative contribution of the stockpiles (containing former celestite processing waste) versus naturally occurring background (alluvial deposits of the Modesto Formation) has not been formally resolved. Isotopic analysis is not documented.
+3. **Temporal Trend Unconfirmed:** While the July 2012 data showed stability compared to 2006 levels, no trend analysis beyond this date is available in the provided sources. Additional monitoring rounds (e.g., December 2013) are not included here.
 
 ## See also
 
-- [[modesto-soil-stockpiles]] – site overview
-- [[mw-5]] – monitoring well location and history
-- California MCLs – applicable drinking water standards
-- DTSC Oversight – regulatory framework for the site
+- [[caltrans-modesto-soil-stockpiles]] – site history and background
+- [[mw-5]], [[mw-1]], [[mw-6]] – monitoring wells with strontium ≥1,100 µg/L
+- [[barium]] – primary COPC from barite processing at the same facility
+- celestite – strontium sulfate ore processed at the former FMC plant
+- DTSC – regulatory oversight agency

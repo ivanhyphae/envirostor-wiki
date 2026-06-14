@@ -1,0 +1,143 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Department of Toxic Substances Control",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          151.5,
+          72.31640625
+        ],
+        [
+          441.75,
+          72.31640625
+        ],
+        [
+          441.75,
+          90.10546875
+        ],
+        [
+          151.5,
+          90.75
+        ]
+      ]
+    },
+    {
+      "title": "FINAL SUPPLEMENTAL SITE CHARACTERIZATION WORKPLAN, MODESTO SOIL STOCKPILES, STATE ROUTE 132 AND 99, STANISLAUS COUNTY, CALIFORNIA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          64.845703125,
+          320.9765625
+        ],
+        [
+          520.5,
+          320.9765625
+        ],
+        [
+          520.5,
+          361.1953125
+        ],
+        [
+          64.845703125,
+          361.1953125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          55
+        ],
+        [
+          "Span",
+          16
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1070,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          81
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          12
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          65
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          5
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/09.20.2012 Final Caltrans Supplemental Site Characterization Workplan 2"
+}

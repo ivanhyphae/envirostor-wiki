@@ -1,0 +1,113 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Richard C. Stewart",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          77.994140625,
+          330.64453125
+        ],
+        [
+          213.81300354003906,
+          330.64453125
+        ],
+        [
+          213.81300354003906,
+          344.44012451171875
+        ],
+        [
+          77.994140625,
+          344.44012451171875
+        ]
+      ]
+    },
+    {
+      "title": "EXTERNAL EMAIL. Links/attachments may not be safe.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          79.48828125,
+          566.4597625732422
+        ],
+        [
+          327.1987609863281,
+          566.4597625732422
+        ],
+        [
+          327.1987609863281,
+          578.0599670410156
+        ],
+        [
+          79.48828125,
+          578.0599670410156
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          103
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          20
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1057,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          52
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/FW_ SR 132 Basin 5 Clean Fill Sampling Plan "
+}
