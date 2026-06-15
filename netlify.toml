@@ -1,0 +1,7 @@
+[build]
+  base = "/"
+  command = "cd site && npm install && npx quartz build"
+  publish = "site/public"
+
+[build.environment]
+  NODE_VERSION = "18"
