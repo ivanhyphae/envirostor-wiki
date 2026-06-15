@@ -1,1 +1,31 @@
+# sage-wiki internals
 .sage/
+.manifest.json
+
+# Obsidian
+.obsidian/
+
+# Quartz build output
+site/public/
+site/.quartz-cache/
+site/tsconfig.tsbuildinfo/
+site/prof/
+
+# Node
+site/node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+
+# Config secrets (API keys are in here)
+config.yaml
+
+# Marker-PDF output (not part of wiki content)
+wiki/pdf2md/
+
+# Claude
+.claude/
