@@ -1,5 +1,43 @@
 # Prompt customization — envirostor-wiki
 
+## Per-document-type prompt routing (2026-06-22)
+
+The single `summarize_paper`/`summarize_article` setup over-fit one document
+shape (e.g. dry monitoring wells were reported as contested "claims", and email
+threads got the wrong frame). sage-wiki already supports per-type prompts — this
+change uses it instead of flattening to one generic prompt.
+
+How it works (no code change to sage-wiki):
+- `templateName := "summarize_" + content.Type` in `internal/compiler/summarize.go`,
+  with fallback to `summarize_article` when no matching prompt file exists.
+- `content.Type` is resolved by `TypeForFile` → `DetectSourceTypeWithSignals`,
+  driven by the new `type_signals:` block in `config.yaml`. This only fires
+  because the `raw-md` source is `type: auto`. (Signals are filename-substring,
+  case-sensitive, first-match-wins.)
+- Markdown sources preserve the resolved type (the `.pdf`→"paper" hard-coding in
+  `extract.go:50` does NOT apply here — our corpus is already-converted `.md`).
+
+Five custom types + prompts (filename dashes map to slot underscores):
+
+| Type | prompt file | Catches (count) |
+|------|-------------|-----------------|
+| `correspondence` | `summarize-correspondence.md` | emails, approval/acceptance/comment letters (31) |
+| `monitoring_report` | `summarize-monitoring-report.md` | GW/SW/stormwater monitoring + stat eval (19) |
+| `workplan` | `summarize-workplan.md` | workplans, SAPs, sampling plans, variances, design plans (11) |
+| `tech_memo` | `summarize-tech-memo.md` | standalone technical memos (7) |
+| `assessment` | `summarize-assessment.md` | RACR/RAP/RDIP/FS/HHRA/SSI + errata (12) |
+
+The remaining ~4 files (inspection form, exhibit, well-destruction report, a
+cryptic name) fall back to `summarize-article.md` — acceptable. Classification was
+dry-run over all 86 `raw-md` filenames before committing the keyword lists; known
+collisions resolve correctly (e.g. "DTSC Letter Response - … GW Monitoring Report"
+→ correspondence via "Response", not monitoring).
+
+To re-classify or recompile: type_signals/prompt changes do NOT change source
+hashes, so the manifest diff skips everything. Full reset required (see bottom of
+this file). NOTE: as of 2026-06-22 the OpenRouter API key in config.yaml returns
+401 ("User not found") — recompile will fail until that key is refreshed.
+
 ## What was done (2026-06-10)
 
 Replaced the default sage-wiki prompt templates with domain-specific versions
