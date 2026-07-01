@@ -1,0 +1,2526 @@
+{
+  "table_of_contents": [
+    {
+      "title": "BACKGROUND",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          260.25,
+          529.5
+        ],
+        [
+          360.0,
+          529.5
+        ],
+        [
+          360.0,
+          540.0
+        ],
+        [
+          260.25,
+          540.0
+        ]
+      ]
+    },
+    {
+      "title": "Project Description and History",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          79.787109375,
+          565.5
+        ],
+        [
+          226.5,
+          565.5
+        ],
+        [
+          226.5,
+          575.25
+        ],
+        [
+          79.787109375,
+          575.25
+        ]
+      ]
+    },
+    {
+      "title": "Surface Water Sampling Activities \u2013 Prior to Stockpile Encapsulation",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          79.787109375,
+          376.27734375
+        ],
+        [
+          393.0,
+          376.27734375
+        ],
+        [
+          393.0,
+          386.33203125
+        ],
+        [
+          79.787109375,
+          386.33203125
+        ]
+      ]
+    },
+    {
+      "title": "STORM WATER SAMPLING ACTIVITIES",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          183.0,
+          75.0234375
+        ],
+        [
+          436.5,
+          75.0234375
+        ],
+        [
+          436.5,
+          86.25
+        ],
+        [
+          183.0,
+          86.25
+        ]
+      ]
+    },
+    {
+      "title": "Field Activities",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          80.25,
+          171.0
+        ],
+        [
+          149.25,
+          171.0
+        ],
+        [
+          149.25,
+          180.0
+        ],
+        [
+          80.25,
+          180.0
+        ]
+      ]
+    },
+    {
+      "title": "Laboratory Analyses",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          80.25,
+          477.0
+        ],
+        [
+          175.5,
+          477.0
+        ],
+        [
+          175.5,
+          486.75
+        ],
+        [
+          80.25,
+          486.75
+        ]
+      ]
+    },
+    {
+      "title": "Analytical Results",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          80.0859375,
+          73.08984375
+        ],
+        [
+          163.5,
+          73.08984375
+        ],
+        [
+          163.5,
+          83.25
+        ],
+        [
+          80.0859375,
+          83.25
+        ]
+      ]
+    },
+    {
+      "title": "Dissolved Metals and Sulfate",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          80.25,
+          99.0
+        ],
+        [
+          214.5,
+          99.0
+        ],
+        [
+          214.5,
+          109.5
+        ],
+        [
+          80.25,
+          109.5
+        ]
+      ]
+    },
+    {
+      "title": "Title 22 Metals",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          79.5,
+          204.0
+        ],
+        [
+          150.75,
+          204.0
+        ],
+        [
+          150.75,
+          213.75
+        ],
+        [
+          79.5,
+          213.75
+        ]
+      ]
+    },
+    {
+      "title": "Laboratory QA/QC",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          80.25,
+          348.0
+        ],
+        [
+          168.0,
+          348.0
+        ],
+        [
+          168.0,
+          358.1015625
+        ],
+        [
+          80.25,
+          358.1015625
+        ]
+      ]
+    },
+    {
+      "title": "STORM WATER MANAGEMENT",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          204.697265625,
+          87.0
+        ],
+        [
+          414.0,
+          87.0
+        ],
+        [
+          414.0,
+          99.0
+        ],
+        [
+          204.697265625,
+          99.0
+        ]
+      ]
+    },
+    {
+      "title": "PHOTO NO. 1",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          269.25,
+          677.25
+        ],
+        [
+          353.25,
+          676.5
+        ],
+        [
+          353.25,
+          690.75
+        ],
+        [
+          269.25,
+          691.5
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 1",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          287.6475966043834,
+          113.89220916401584
+        ],
+        [
+          322.8544638971074,
+          113.89220916401584
+        ],
+        [
+          322.8544638971074,
+          122.88369936117499
+        ],
+        [
+          287.6475966043834,
+          122.88369936117499
+        ]
+      ]
+    },
+    {
+      "title": "SUMMARY OF LABORATORY ANALYSIS RESULTS - TDS AND SULFATE",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          172.28892504950048,
+          126.6301536099913
+        ],
+        [
+          439.71130001763817,
+          126.6301536099913
+        ],
+        [
+          439.71130001763817,
+          138.05866839224473
+        ],
+        [
+          172.28892504950048,
+          138.05866839224473
+        ]
+      ]
+    },
+    {
+      "title": "CALTRANS CONTRACT 06A2767, TO NO. 2, EA 10-1E7003",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          199.2558872311614,
+          140.11738890573002
+        ],
+        [
+          411.2461732703294,
+          140.11738890573002
+        ],
+        [
+          411.2461732703294,
+          151.20711300102994
+        ],
+        [
+          199.2558872311614,
+          151.20711300102994
+        ]
+      ]
+    },
+    {
+      "title": "CALTRANS ENCAPSULATED SOIL STOCKPILES",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          215.1563291251659,
+          153.60462420146874
+        ],
+        [
+          394.0172807653793,
+          153.60462420146874
+        ],
+        [
+          394.0172807653793,
+          163.34540524839113
+        ],
+        [
+          215.1563291251659,
+          163.34540524839113
+        ]
+      ]
+    },
+    {
+      "title": "MODESTO, CALIFORNIA",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          257.88876671530306,
+          165.5932777976809
+        ],
+        [
+          352.81775521006404,
+          165.5932777976809
+        ],
+        [
+          352.81775521006404,
+          176.0833496943666
+        ],
+        [
+          257.88876671530306,
+          176.0833496943666
+        ]
+      ]
+    },
+    {
+      "title": "Notes:",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          155.0600325445504,
+          355.9131536375495
+        ],
+        [
+          180.52883016056353,
+          355.9131536375495
+        ],
+        [
+          180.52883016056353,
+          364.9046438347086
+        ],
+        [
+          155.0600325445504,
+          364.9046438347086
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 2",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          378.7497952264367,
+          75.74997969702179
+        ],
+        [
+          413.24977657379526,
+          75.74997969702179
+        ],
+        [
+          413.24977657379526,
+          84.74997728478675
+        ],
+        [
+          378.7497952264367,
+          84.74997728478675
+        ]
+      ]
+    },
+    {
+      "title": "SUMMARY OF LABORATORY ANALYSIS RESULTS - TITLE 22 METALS (DISSOLVED)",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          238.49987105347893,
+          89.99997587764965
+        ],
+        [
+          552.7497011522452,
+          89.99997587764965
+        ],
+        [
+          552.7497011522452,
+          98.99997346541461
+        ],
+        [
+          238.49987105347893,
+          98.99997346541461
+        ]
+      ]
+    },
+    {
+      "title": "CALTRANS CONTRACT 06A2767, TO NO. 2, EA 10-1E7003",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          289.499843480009,
+          103.4999722592971
+        ],
+        [
+          501.7497287257151,
+          103.4999722592971
+        ],
+        [
+          501.7497287257151,
+          112.49996984706205
+        ],
+        [
+          289.499843480009,
+          112.49996984706205
+        ]
+      ]
+    },
+    {
+      "title": "CALTRANS ENCAPSULATED SOIL STOCKPILES",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          305.9998345591805,
+          116.24996884196412
+        ],
+        [
+          483.74973845752805,
+          116.24996884196412
+        ],
+        [
+          483.74973845752805,
+          124.49996663074867
+        ],
+        [
+          305.9998345591805,
+          124.49996663074867
+        ]
+      ]
+    },
+    {
+      "title": "MODESTO, CALIFORNIA",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          348.74981144612485,
+          128.99996542463114
+        ],
+        [
+          443.9997599486149,
+          128.99996542463114
+        ],
+        [
+          443.9997599486149,
+          137.2499632134157
+        ],
+        [
+          348.74981144612485,
+          137.2499632134157
+        ]
+      ]
+    },
+    {
+      "title": "ASSET Laboratories",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          67.53515625,
+          87.01171875
+        ],
+        [
+          178.69921875,
+          87.0
+        ],
+        [
+          178.69921875,
+          97.06640625
+        ],
+        [
+          67.53515625,
+          97.5
+        ]
+      ]
+    },
+    {
+      "title": "SAMPLE RECEIVING/GENERAL COMMENTS:",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          68.25,
+          175.95703125
+        ],
+        [
+          302.25,
+          175.95703125
+        ],
+        [
+          302.25,
+          186.0
+        ],
+        [
+          68.25,
+          186.0
+        ]
+      ]
+    },
+    {
+      "title": "ASSET Laboratories",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          50.203125,
+          87.0
+        ],
+        [
+          171.75,
+          87.0
+        ],
+        [
+          171.75,
+          99.0
+        ],
+        [
+          50.203125,
+          99.0
+        ]
+      ]
+    },
+    {
+      "title": "ANALYTICAL RESULTS",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          382.5,
+          87.75
+        ],
+        [
+          537.0,
+          87.75
+        ],
+        [
+          537.0,
+          99.0
+        ],
+        [
+          382.5,
+          99.0
+        ]
+      ]
+    },
+    {
+      "title": "ASSET Laboratories",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          68.1328125,
+          98.25
+        ],
+        [
+          171.75,
+          98.25
+        ],
+        [
+          171.75,
+          108.75
+        ],
+        [
+          68.1328125,
+          108.75
+        ]
+      ]
+    },
+    {
+      "title": "ANALYTICAL RESULTS",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          382.5,
+          87.75
+        ],
+        [
+          537.0,
+          87.75
+        ],
+        [
+          537.0,
+          99.0
+        ],
+        [
+          382.5,
+          99.0
+        ]
+      ]
+    },
+    {
+      "title": "ASSET Laboratories",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          68.1328125,
+          98.25
+        ],
+        [
+          171.75,
+          98.25
+        ],
+        [
+          171.75,
+          108.75
+        ],
+        [
+          68.1328125,
+          108.75
+        ]
+      ]
+    },
+    {
+      "title": "ANALYTICAL RESULTS",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          382.5,
+          87.75
+        ],
+        [
+          537.0,
+          87.75
+        ],
+        [
+          537.0,
+          99.0
+        ],
+        [
+          382.5,
+          99.0
+        ]
+      ]
+    },
+    {
+      "title": "ASSET Laboratories",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          68.1328125,
+          98.25
+        ],
+        [
+          171.75,
+          98.25
+        ],
+        [
+          171.75,
+          108.75
+        ],
+        [
+          68.1328125,
+          108.75
+        ]
+      ]
+    },
+    {
+      "title": "ANALYTICAL QC SUMMARY REPORT",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          435.75,
+          80.25
+        ],
+        [
+          676.5,
+          80.25
+        ],
+        [
+          676.5,
+          93.75
+        ],
+        [
+          435.75,
+          93.75
+        ]
+      ]
+    },
+    {
+      "title": "Qualifiers:",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          53.3671875,
+          502.5
+        ],
+        [
+          90.75,
+          502.5
+        ],
+        [
+          90.75,
+          510.75
+        ],
+        [
+          53.3671875,
+          510.75
+        ]
+      ]
+    },
+    {
+      "title": "ANALYTICAL QC SUMMARY REPORT",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          435.75,
+          63.75
+        ],
+        [
+          677.25,
+          63.75
+        ],
+        [
+          677.25,
+          77.25
+        ],
+        [
+          435.75,
+          77.25
+        ]
+      ]
+    },
+    {
+      "title": "Qualifiers:",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          52.98046875,
+          501.75
+        ],
+        [
+          90.75,
+          501.75
+        ],
+        [
+          90.75,
+          510.75
+        ],
+        [
+          52.98046875,
+          510.75
+        ]
+      ]
+    },
+    {
+      "title": "ANALYTICAL QC SUMMARY REPORT",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          435.75,
+          63.75
+        ],
+        [
+          677.25,
+          63.75
+        ],
+        [
+          677.25,
+          77.25
+        ],
+        [
+          435.75,
+          77.25
+        ]
+      ]
+    },
+    {
+      "title": "Qualifiers:",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          53.75390625,
+          501.43359375
+        ],
+        [
+          90.75,
+          501.43359375
+        ],
+        [
+          90.75,
+          510.75
+        ],
+        [
+          53.75390625,
+          510.75
+        ]
+      ]
+    },
+    {
+      "title": "ANALYTICAL QC SUMMARY REPORT",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          435.75,
+          63.3515625
+        ],
+        [
+          677.25,
+          63.3515625
+        ],
+        [
+          677.25,
+          77.25
+        ],
+        [
+          435.75,
+          77.25
+        ]
+      ]
+    },
+    {
+      "title": "Qualifiers:",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          54.0,
+          501.75
+        ],
+        [
+          90.75,
+          501.75
+        ],
+        [
+          90.75,
+          510.75
+        ],
+        [
+          54.0,
+          510.75
+        ]
+      ]
+    },
+    {
+      "title": "ANALYTICAL QC SUMMARY REPORT",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          435.75,
+          63.75
+        ],
+        [
+          677.25,
+          63.75
+        ],
+        [
+          677.25,
+          77.25
+        ],
+        [
+          435.75,
+          77.25
+        ]
+      ]
+    },
+    {
+      "title": "Qualifiers:",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          54.0,
+          501.75
+        ],
+        [
+          90.75,
+          501.75
+        ],
+        [
+          90.75,
+          510.75
+        ],
+        [
+          54.0,
+          510.75
+        ]
+      ]
+    },
+    {
+      "title": "ANALYTICAL QC SUMMARY REPORT",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          435.75,
+          63.75
+        ],
+        [
+          677.25,
+          63.75
+        ],
+        [
+          677.25,
+          77.25
+        ],
+        [
+          435.75,
+          77.25
+        ]
+      ]
+    },
+    {
+      "title": "Qualifiers:",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          53.75390625,
+          501.75
+        ],
+        [
+          90.75,
+          501.75
+        ],
+        [
+          90.75,
+          510.75
+        ],
+        [
+          53.75390625,
+          510.75
+        ]
+      ]
+    },
+    {
+      "title": "ANALYTICAL QC SUMMARY REPORT",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          435.75,
+          63.75
+        ],
+        [
+          677.25,
+          63.75
+        ],
+        [
+          677.25,
+          77.25
+        ],
+        [
+          435.75,
+          77.25
+        ]
+      ]
+    },
+    {
+      "title": "Qualifiers:",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          54.0,
+          501.75
+        ],
+        [
+          90.75,
+          501.75
+        ],
+        [
+          90.75,
+          510.75
+        ],
+        [
+          54.0,
+          510.75
+        ]
+      ]
+    },
+    {
+      "title": "CHAIN OF CUSTODY RECORD",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          315.0,
+          42.0
+        ],
+        [
+          515.25,
+          42.0
+        ],
+        [
+          515.25,
+          54.685546875
+        ],
+        [
+          315.0,
+          54.685546875
+        ]
+      ]
+    },
+    {
+      "title": "ASSET Laboratories",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          35.25,
+          37.5
+        ],
+        [
+          151.5,
+          37.5
+        ],
+        [
+          151.5,
+          49.5
+        ],
+        [
+          35.25,
+          49.5
+        ]
+      ]
+    },
+    {
+      "title": "ASSET Laboratories",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          33.75,
+          37.5
+        ],
+        [
+          165.0,
+          37.5
+        ],
+        [
+          165.0,
+          52.5
+        ],
+        [
+          33.75,
+          52.5
+        ]
+      ]
+    },
+    {
+      "title": "WORK ORDER Summary",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          34.5,
+          64.5
+        ],
+        [
+          202.5,
+          64.5
+        ],
+        [
+          202.5,
+          81.0
+        ],
+        [
+          34.5,
+          81.0
+        ]
+      ]
+    },
+    {
+      "title": "ASSET Laboratories",
+      "heading_level": null,
+      "page_id": 27,
+      "polygon": [
+        [
+          33.75,
+          36.75
+        ],
+        [
+          165.0,
+          36.75
+        ],
+        [
+          165.0,
+          53.25
+        ],
+        [
+          33.75,
+          53.25
+        ]
+      ]
+    },
+    {
+      "title": "WORK ORDER Summary",
+      "heading_level": null,
+      "page_id": 27,
+      "polygon": [
+        [
+          34.5,
+          64.5
+        ],
+        [
+          202.5,
+          64.5
+        ],
+        [
+          202.5,
+          81.0
+        ],
+        [
+          34.5,
+          81.0
+        ]
+      ]
+    },
+    {
+      "title": "Ship From",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          52.411764705882355,
+          67.22727272727273
+        ],
+        [
+          117.44117647058823,
+          67.22727272727273
+        ],
+        [
+          117.44117647058823,
+          74.18181818181819
+        ],
+        [
+          52.411764705882355,
+          74.18181818181819
+        ]
+      ]
+    },
+    {
+      "title": "LABEL INSTRUCTIONS:",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          49.11328125,
+          322.13671875
+        ],
+        [
+          195.08823529411765,
+          322.13671875
+        ],
+        [
+          195.08823529411765,
+          330.92045454545456
+        ],
+        [
+          49.11328125,
+          330.92045454545456
+        ]
+      ]
+    },
+    {
+      "title": "TERMS AND CONDITIONS:",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          46.40625,
+          387.580078125
+        ],
+        [
+          211.58823529411765,
+          387.580078125
+        ],
+        [
+          211.58823529411765,
+          395.8295454545455
+        ],
+        [
+          46.40625,
+          395.8295454545455
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          53
+        ],
+        [
+          "Span",
+          24
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 11759,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          57
+        ],
+        [
+          "Span",
+          18
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          52
+        ],
+        [
+          "Span",
+          21
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          37
+        ],
+        [
+          "Span",
+          16
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          41
+        ],
+        [
+          "Span",
+          23
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          160
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          24
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          12
+        ],
+        [
+          "Span",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          11
+        ],
+        [
+          "Span",
+          6
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          89
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "Span",
+          10
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1626,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          489
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Span",
+          19
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 2,
+        "llm_error_count": 0,
+        "llm_tokens_used": 5313,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          50
+        ],
+        [
+          "Span",
+          29
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "PageFooter",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          40
+        ],
+        [
+          "Span",
+          23
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          110
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "Span",
+          17
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 2220,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          457
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Span",
+          22
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 2,
+        "llm_error_count": 0,
+        "llm_tokens_used": 7833,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          414
+        ],
+        [
+          "Span",
+          35
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 4,
+        "llm_error_count": 0,
+        "llm_tokens_used": 10221,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          671
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Span",
+          33
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageFooter",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 3,
+        "llm_error_count": 0,
+        "llm_tokens_used": 12391,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          96
+        ],
+        [
+          "Span",
+          30
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 2,
+        "llm_error_count": 0,
+        "llm_tokens_used": 6221,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          275
+        ],
+        [
+          "Span",
+          28
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 3388,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          729
+        ],
+        [
+          "Span",
+          28
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 3,
+        "llm_error_count": 0,
+        "llm_tokens_used": 8330,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          658
+        ],
+        [
+          "Span",
+          27
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 3,
+        "llm_error_count": 0,
+        "llm_tokens_used": 10010,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          435
+        ],
+        [
+          "Span",
+          27
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 3,
+        "llm_error_count": 0,
+        "llm_tokens_used": 10466,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          429
+        ],
+        [
+          "Span",
+          28
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 2,
+        "llm_error_count": 0,
+        "llm_tokens_used": 4264,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          200
+        ],
+        [
+          "Span",
+          28
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 2,
+        "llm_error_count": 0,
+        "llm_tokens_used": 3813,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          943
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "Span",
+          11
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Form",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 1,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          219
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "Span",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Form",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 1,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 26,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          484
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "Span",
+          14
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 3705,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 27,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          106
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "Span",
+          13
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 4,
+        "llm_error_count": 1,
+        "llm_tokens_used": 5420,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 28,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          70
+        ],
+        [
+          "Span",
+          34
+        ],
+        [
+          "Text",
+          21
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/S2350-01-02_2.1.2024 Stormwater Sampling Report_5.24"
+}

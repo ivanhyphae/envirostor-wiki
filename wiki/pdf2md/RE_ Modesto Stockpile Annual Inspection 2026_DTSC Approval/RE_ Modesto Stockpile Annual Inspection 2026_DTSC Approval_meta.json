@@ -1,0 +1,117 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Hello Adam,",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          76.5,
+          185.23828125
+        ],
+        [
+          138.0,
+          185.23828125
+        ],
+        [
+          138.0,
+          195.75
+        ],
+        [
+          76.5,
+          195.75
+        ]
+      ]
+    },
+    {
+      "title": "This Message Is From an External Sender",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          86.0625,
+          265.67578125
+        ],
+        [
+          296.25,
+          265.67578125
+        ],
+        [
+          296.25,
+          278.82421875
+        ],
+        [
+          86.0625,
+          278.82421875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          65
+        ],
+        [
+          "Span",
+          26
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1027,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          39
+        ],
+        [
+          "Span",
+          14
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/RE_ Modesto Stockpile Annual Inspection 2026_DTSC Approval"
+}

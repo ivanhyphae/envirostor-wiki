@@ -1,0 +1,415 @@
+{
+  "table_of_contents": [
+    {
+      "title": "BACKGROUND",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          260.25,
+          543.33984375
+        ],
+        [
+          344.25,
+          543.33984375
+        ],
+        [
+          344.25,
+          552.75
+        ],
+        [
+          260.25,
+          552.75
+        ]
+      ]
+    },
+    {
+      "title": "Project Description and History",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          72.75,
+          567.75
+        ],
+        [
+          240.75,
+          567.75
+        ],
+        [
+          240.75,
+          578.25
+        ],
+        [
+          72.75,
+          578.25
+        ]
+      ]
+    },
+    {
+      "title": "Previous Surface Water Sampling Activities",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          72.75,
+          340.5
+        ],
+        [
+          304.5,
+          340.5
+        ],
+        [
+          304.5,
+          351.9140625
+        ],
+        [
+          72.75,
+          351.9140625
+        ]
+      ]
+    },
+    {
+      "title": "PROJECT SCOPE",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          254.25,
+          543.0
+        ],
+        [
+          350.25,
+          541.5
+        ],
+        [
+          350.25,
+          552.0
+        ],
+        [
+          254.25,
+          553.5
+        ]
+      ]
+    },
+    {
+      "title": "Field Activities",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          72.75,
+          592.5
+        ],
+        [
+          154.5,
+          592.5
+        ],
+        [
+          154.5,
+          602.25
+        ],
+        [
+          72.75,
+          602.25
+        ]
+      ]
+    },
+    {
+      "title": "Laboratory Analyses",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          72.75,
+          263.25
+        ],
+        [
+          185.25,
+          263.25
+        ],
+        [
+          185.25,
+          274.5703125
+        ],
+        [
+          72.75,
+          274.5703125
+        ]
+      ]
+    },
+    {
+      "title": "Report Preparation",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          72.75,
+          570.0
+        ],
+        [
+          175.5,
+          570.0
+        ],
+        [
+          175.5,
+          579.75
+        ],
+        [
+          72.75,
+          579.75
+        ]
+      ]
+    },
+    {
+      "title": "GEOCON CONSULTANTS, INC.",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          934.734375,
+          632.25
+        ],
+        [
+          1080.0,
+          632.25
+        ],
+        [
+          1080.0,
+          663.75
+        ],
+        [
+          934.734375,
+          663.75
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          64
+        ],
+        [
+          "Span",
+          24
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 2177,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          55
+        ],
+        [
+          "Span",
+          24
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          59
+        ],
+        [
+          "Span",
+          24
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          55
+        ],
+        [
+          "Span",
+          27
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          104
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          19
+        ],
+        [
+          "Span",
+          14
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "TableCell",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 2,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1644,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/S9525-06-44A Stormwater SAP Addendum 0213"
+}

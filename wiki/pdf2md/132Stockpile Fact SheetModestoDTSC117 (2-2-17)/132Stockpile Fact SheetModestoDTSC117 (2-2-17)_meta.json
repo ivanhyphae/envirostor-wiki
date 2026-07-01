@@ -1,0 +1,478 @@
+{
+  "table_of_contents": [
+    {
+      "title": "COMMUNITY Update",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          57.97265625,
+          51.046875
+        ],
+        [
+          561.19921875,
+          51.046875
+        ],
+        [
+          561.19921875,
+          126.84375
+        ],
+        [
+          57.97265625,
+          126.84375
+        ]
+      ]
+    },
+    {
+      "title": "Draft Remedial Action Plan, Caltrans Modesto Soil Stockpiles\nState Route 132 West Freeway/Expressway Project",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          42.0,
+          170.15625
+        ],
+        [
+          567.75,
+          169.5
+        ],
+        [
+          567.75,
+          227.390625
+        ],
+        [
+          42.0,
+          227.390625
+        ]
+      ]
+    },
+    {
+      "title": "You May Review and Comment on\nthe Draft Final Cleanup Plan for the\nCaltrans Modesto Soil Stockpiles Site",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          42.75,
+          247.88671875
+        ],
+        [
+          353.25,
+          247.88671875
+        ],
+        [
+          353.25,
+          327.55078125
+        ],
+        [
+          42.75,
+          327.55078125
+        ]
+      ]
+    },
+    {
+      "title": "Site Description and History",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          43.5,
+          623.77734375
+        ],
+        [
+          228.75,
+          623.77734375
+        ],
+        [
+          228.75,
+          640.01953125
+        ],
+        [
+          43.5,
+          640.01953125
+        ]
+      ]
+    },
+    {
+      "title": "Site Investigation",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          43.5,
+          529.5
+        ],
+        [
+          173.25,
+          529.8046875
+        ],
+        [
+          173.25,
+          547.5
+        ],
+        [
+          43.5,
+          546.8203125
+        ]
+      ]
+    },
+    {
+      "title": "Human Health Risk Assessment",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          323.25,
+          448.59375
+        ],
+        [
+          561.0,
+          448.59375
+        ],
+        [
+          561.0,
+          464.0625
+        ],
+        [
+          323.25,
+          464.0625
+        ]
+      ]
+    },
+    {
+      "title": "Remedial Actions Considered",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          44.25,
+          60.71484375
+        ],
+        [
+          264.0,
+          60.71484375
+        ],
+        [
+          264.0,
+          73.86328125
+        ],
+        [
+          44.25,
+          73.86328125
+        ]
+      ]
+    },
+    {
+      "title": "Proposed Remedial Action Plan",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          322.5,
+          127.6171875
+        ],
+        [
+          532.5,
+          127.6171875
+        ],
+        [
+          532.5,
+          144.6328125
+        ],
+        [
+          322.5,
+          144.6328125
+        ]
+      ]
+    },
+    {
+      "title": "California Environmental Quality Act",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          43.5,
+          227.390625
+        ],
+        [
+          286.5,
+          227.390625
+        ],
+        [
+          286.5,
+          244.40625
+        ],
+        [
+          43.5,
+          244.40625
+        ]
+      ]
+    },
+    {
+      "title": "Next Steps",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          43.5,
+          377.4375
+        ],
+        [
+          122.25,
+          377.4375
+        ],
+        [
+          122.25,
+          394.453125
+        ],
+        [
+          43.5,
+          394.453125
+        ]
+      ]
+    },
+    {
+      "title": "Where to Find Site Documents",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          331.5,
+          99.0
+        ],
+        [
+          521.25,
+          99.0
+        ],
+        [
+          521.25,
+          112.53515625
+        ],
+        [
+          331.5,
+          112.53515625
+        ]
+      ]
+    },
+    {
+      "title": "O Caltrans - Online",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          333.75,
+          245.953125
+        ],
+        [
+          402.75,
+          245.953125
+        ],
+        [
+          402.75,
+          254.25
+        ],
+        [
+          333.75,
+          254.25
+        ]
+      ]
+    },
+    {
+      "title": "O DTSC - EnviroStor Database:",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          333.75,
+          397.5
+        ],
+        [
+          441.0,
+          397.5
+        ],
+        [
+          441.0,
+          406.44140625
+        ],
+        [
+          333.75,
+          406.44140625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          76
+        ],
+        [
+          "Span",
+          15
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 2716,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          91
+        ],
+        [
+          "Span",
+          31
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          107
+        ],
+        [
+          "Span",
+          12
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          117
+        ],
+        [
+          "Span",
+          42
+        ],
+        [
+          "Text",
+          18
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/132Stockpile Fact SheetModestoDTSC117 (2-2-17)"
+}

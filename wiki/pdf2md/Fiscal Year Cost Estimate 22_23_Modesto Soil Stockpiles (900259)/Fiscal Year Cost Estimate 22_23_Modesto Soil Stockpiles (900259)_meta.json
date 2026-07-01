@@ -1,0 +1,160 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          489.779296875,
+          115.2421875
+        ],
+        [
+          546.556640625,
+          115.2421875
+        ],
+        [
+          546.556640625,
+          135.3515625
+        ],
+        [
+          489.779296875,
+          135.3515625
+        ]
+      ]
+    },
+    {
+      "title": "Sent Via Electronic Mail",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          236.373046875,
+          180.2109375
+        ],
+        [
+          373.7759704589844,
+          180.2109375
+        ],
+        [
+          373.7759704589844,
+          193.830810546875
+        ],
+        [
+          236.373046875,
+          193.830810546875
+        ]
+      ]
+    },
+    {
+      "title": "Dear Mr. Stewart:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.12109375,
+          404.12109375
+        ],
+        [
+          166.176025390625,
+          404.12109375
+        ],
+        [
+          166.176025390625,
+          416.1371765136719
+        ],
+        [
+          71.12109375,
+          416.1371765136719
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 2,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1777,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          96
+        ],
+        [
+          "TableCell",
+          48
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1487,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Fiscal Year Cost Estimate 22_23_Modesto Soil Stockpiles (900259)"
+}

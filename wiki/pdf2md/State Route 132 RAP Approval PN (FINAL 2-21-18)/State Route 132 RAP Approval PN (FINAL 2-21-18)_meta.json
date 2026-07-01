@@ -1,0 +1,118 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          103.9921875,
+          44.0859375
+        ],
+        [
+          531.9140625,
+          44.0859375
+        ],
+        [
+          531.9140625,
+          96.6796875
+        ],
+        [
+          103.9921875,
+          96.6796875
+        ]
+      ]
+    },
+    {
+      "title": "DEPARTMENT OF TOXIC SUBSTANCES CONTROL APPROVES REMEDIAL ACTION PLAN FOR \nCALTRANS MODESTO SOIL STOCKPILES, STATE ROUTE 132 WEST FREEWAY/EXPRESSWAY",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.962890625,
+          145.40625
+        ],
+        [
+          538.684326171875,
+          145.40625
+        ],
+        [
+          538.684326171875,
+          171.539306640625
+        ],
+        [
+          34.962890625,
+          171.539306640625
+        ]
+      ]
+    },
+    {
+      "title": "Online Repositories:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.0,
+          586.5584259033203
+        ],
+        [
+          122.84959411621094,
+          586.5584259033203
+        ],
+        [
+          122.84959411621094,
+          596.5184326171875
+        ],
+        [
+          36.0,
+          596.5184326171875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          112
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 3,
+        "llm_error_count": 0,
+        "llm_tokens_used": 2610,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/State Route 132 RAP Approval PN (FINAL 2-21-18)"
+}

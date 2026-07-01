@@ -1,0 +1,173 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Department of Toxic Substances Control",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          200.91176470588235,
+          58.27148437500001
+        ],
+        [
+          575.5588235294117,
+          58.27148437500001
+        ],
+        [
+          575.5588235294117,
+          72.017578125
+        ],
+        [
+          200.91176470588235,
+          72.017578125
+        ]
+      ]
+    },
+    {
+      "title": "MODESTO RAMP REHABILITATION PROJECT, STATE ROUTE 99 - KANSAS\nAVENUE NORTHBOUND OFF-RAMP, MODESTO, CALIFORNIA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          89.29411764705883,
+          245.03906250000003
+        ],
+        [
+          654.1764705882352,
+          245.03906250000003
+        ],
+        [
+          654.1764705882352,
+          265.4318181818182
+        ],
+        [
+          89.29411764705883,
+          265.4318181818182
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          40
+        ],
+        [
+          "Span",
+          35
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1089,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          46
+        ],
+        [
+          "Span",
+          7
+        ],
+        [
+          "Text",
+          5
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          64
+        ],
+        [
+          "Span",
+          27
+        ],
+        [
+          "Text",
+          12
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          37
+        ],
+        [
+          "Span",
+          15
+        ],
+        [
+          "Text",
+          8
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/08.30.2012 Caltrans Ramp5_srb RAdocx_srb 8_15_12_JS081612 RA4"
+}

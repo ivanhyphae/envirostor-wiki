@@ -1,0 +1,213 @@
+{
+  "table_of_contents": [
+    {
+      "title": "DEPARTMENT OF TRANSPORTATION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.576171875,
+          59.7900390625
+        ],
+        [
+          257.14529914529913,
+          59.7900390625
+        ],
+        [
+          257.14529914529913,
+          71.20493358633776
+        ],
+        [
+          36.576171875,
+          71.20493358633776
+        ]
+      ]
+    },
+    {
+      "title": "1. Limit Access to Caltrans Authorized Personnel",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          89.21367521367522,
+          380.7275390625
+        ],
+        [
+          341.86080586080584,
+          380.7275390625
+        ],
+        [
+          341.86080586080584,
+          392.7514231499051
+        ],
+        [
+          89.21367521367522,
+          392.7514231499051
+        ]
+      ]
+    },
+    {
+      "title": "2. Maintain the Current Grade and Vegetative Cover",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          89.0419921875,
+          160.0830078125
+        ],
+        [
+          357.6043956043956,
+          160.0830078125
+        ],
+        [
+          357.6043956043956,
+          171.6552734375
+        ],
+        [
+          89.0419921875,
+          171.6552734375
+        ]
+      ]
+    },
+    {
+      "title": "3. <u>Maintain the Groundwater Monitoring System</u>",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          86.96459096459097,
+          450.1611328125
+        ],
+        [
+          338.1123321123321,
+          450.1611328125
+        ],
+        [
+          338.1123321123321,
+          463.2763671875
+        ],
+        [
+          86.96459096459097,
+          463.2763671875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          79
+        ],
+        [
+          "Span",
+          32
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1495,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          44
+        ],
+        [
+          "Span",
+          13
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          31
+        ],
+        [
+          "Span",
+          13
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Caltrans  Response3.24.2012"
+}

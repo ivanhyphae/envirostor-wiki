@@ -1,0 +1,649 @@
+{
+  "table_of_contents": [
+    {
+      "title": "CALIFORNIA DEPARTMENT OF TRANSPORTATION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          147.322265625,
+          114.75
+        ],
+        [
+          455.25,
+          114.75
+        ],
+        [
+          455.25,
+          126.0
+        ],
+        [
+          147.322265625,
+          126.0
+        ]
+      ]
+    },
+    {
+      "title": "I. Service Request Purpose",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          52.294921875,
+          471.75
+        ],
+        [
+          235.5,
+          471.75
+        ],
+        [
+          235.5,
+          483.0
+        ],
+        [
+          52.294921875,
+          483.0
+        ]
+      ]
+    },
+    {
+      "title": "II. Scope of Services",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          52.5,
+          564.0
+        ],
+        [
+          194.25,
+          564.0
+        ],
+        [
+          194.25,
+          576.0
+        ],
+        [
+          52.5,
+          576.0
+        ]
+      ]
+    },
+    {
+      "title": "III. Period of Performance",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          52.5,
+          208.5
+        ],
+        [
+          220.5,
+          208.5
+        ],
+        [
+          220.5,
+          219.0
+        ],
+        [
+          52.5,
+          219.0
+        ]
+      ]
+    },
+    {
+      "title": "IV. Schedule",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          52.5,
+          273.75
+        ],
+        [
+          145.5,
+          273.75
+        ],
+        [
+          145.5,
+          283.5
+        ],
+        [
+          52.5,
+          283.5
+        ]
+      ]
+    },
+    {
+      "title": "V. Reports",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          52.5,
+          394.5
+        ],
+        [
+          137.25,
+          394.5
+        ],
+        [
+          137.25,
+          406.44140625
+        ],
+        [
+          52.5,
+          406.44140625
+        ]
+      ]
+    },
+    {
+      "title": "VI. Meetings",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          52.5,
+          552.62109375
+        ],
+        [
+          143.25,
+          552.62109375
+        ],
+        [
+          143.25,
+          564.22265625
+        ],
+        [
+          52.5,
+          564.22265625
+        ]
+      ]
+    },
+    {
+      "title": "VII. Cost",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          52.5,
+          673.5
+        ],
+        [
+          119.25,
+          673.5
+        ],
+        [
+          119.25,
+          684.0
+        ],
+        [
+          52.5,
+          684.0
+        ]
+      ]
+    },
+    {
+      "title": "VIII. Invoices",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          52.5,
+          383.25
+        ],
+        [
+          140.25,
+          384.75
+        ],
+        [
+          140.25,
+          394.5
+        ],
+        [
+          51.75,
+          393.75
+        ]
+      ]
+    },
+    {
+      "title": "IX. Personnel",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          52.5,
+          549.0
+        ],
+        [
+          150.75,
+          549.0
+        ],
+        [
+          150.75,
+          559.5
+        ],
+        [
+          52.5,
+          559.5
+        ]
+      ]
+    },
+    {
+      "title": "Caltrans Contract Manager",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          52.5,
+          127.6171875
+        ],
+        [
+          210.75,
+          127.6171875
+        ],
+        [
+          210.75,
+          139.9921875
+        ],
+        [
+          52.5,
+          139.9921875
+        ]
+      ]
+    },
+    {
+      "title": "Caltrans Service Request Manager",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          52.294921875,
+          274.5
+        ],
+        [
+          255.0,
+          274.5
+        ],
+        [
+          255.0,
+          286.55859375
+        ],
+        [
+          52.294921875,
+          286.55859375
+        ]
+      ]
+    },
+    {
+      "title": "DTSC Contract Manager",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          304.505859375,
+          127.5
+        ],
+        [
+          446.25,
+          127.5
+        ],
+        [
+          446.25,
+          139.60546875
+        ],
+        [
+          304.505859375,
+          139.60546875
+        ]
+      ]
+    },
+    {
+      "title": "DTSC Service Request Manager",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          303.310546875,
+          274.5
+        ],
+        [
+          491.25,
+          274.5
+        ],
+        [
+          491.25,
+          286.55859375
+        ],
+        [
+          303.310546875,
+          286.55859375
+        ]
+      ]
+    },
+    {
+      "title": "X. Conflict of Interest Certification",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          52.5,
+          426.0
+        ],
+        [
+          272.25,
+          426.0
+        ],
+        [
+          272.25,
+          437.25
+        ],
+        [
+          52.5,
+          437.25
+        ]
+      ]
+    },
+    {
+      "title": "Signatures",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          53.25,
+          504.66796875
+        ],
+        [
+          117.75,
+          504.66796875
+        ],
+        [
+          117.75,
+          516.75
+        ],
+        [
+          53.25,
+          516.75
+        ]
+      ]
+    },
+    {
+      "title": "43A0487 _04 Modesto Stockpiles",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          45.75,
+          42.75
+        ],
+        [
+          405.0,
+          43.3125
+        ],
+        [
+          405.0,
+          68.25
+        ],
+        [
+          45.75,
+          66.515625
+        ]
+      ]
+    },
+    {
+      "title": "\"43A0487 _04 Modesto Stockpiles\" History",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          46.5,
+          216.75
+        ],
+        [
+          389.25,
+          216.75
+        ],
+        [
+          389.25,
+          235.5
+        ],
+        [
+          46.5,
+          235.5
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          74
+        ],
+        [
+          "Span",
+          26
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 4030,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          64
+        ],
+        [
+          "Span",
+          21
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          60
+        ],
+        [
+          "Span",
+          20
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          86
+        ],
+        [
+          "Span",
+          32
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          19
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "Span",
+          8
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Form",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 2513,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          50
+        ],
+        [
+          "Span",
+          18
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/43A0487 _04 Modesto Stockpiles - signed"
+}

@@ -1,0 +1,1438 @@
+{
+  "table_of_contents": [
+    {
+      "title": "State of California, Department of Transportation (Caltrans)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          168.75,
+          113.92789373814041
+        ],
+        [
+          447.0,
+          113.92789373814041
+        ],
+        [
+          447.0,
+          126.5234375
+        ],
+        [
+          168.75,
+          126.5234375
+        ]
+      ]
+    },
+    {
+      "title": "I. Task Order Purpose",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          77.25,
+          516.4231499051233
+        ],
+        [
+          220.5,
+          514.9240986717267
+        ],
+        [
+          220.5,
+          526.5380859375
+        ],
+        [
+          77.25,
+          527.6660341555977
+        ]
+      ]
+    },
+    {
+      "title": "II. Scope of Services",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          78.75,
+          435.888671875
+        ],
+        [
+          198.75,
+          435.888671875
+        ],
+        [
+          198.75,
+          446.71726755218214
+        ],
+        [
+          78.75,
+          446.71726755218214
+        ]
+      ]
+    },
+    {
+      "title": "Detailed DTSC tasks consist of:",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          111.7045177045177,
+          115.3369140625
+        ],
+        [
+          260.14407814407815,
+          115.3369140625
+        ],
+        [
+          260.14407814407815,
+          125.9203036053131
+        ],
+        [
+          111.7045177045177,
+          125.9203036053131
+        ]
+      ]
+    },
+    {
+      "title": "TASK 2. Additional Site Characterization if needed",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          111.52734375,
+          235.302734375
+        ],
+        [
+          351.6068376068376,
+          234.60151802656546
+        ],
+        [
+          351.6068376068376,
+          246.103515625
+        ],
+        [
+          111.52734375,
+          247.34345351043643
+        ]
+      ]
+    },
+    {
+      "title": "TASK 7. Public Participation.",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          110.2051282051282,
+          289.306640625
+        ],
+        [
+          249.64835164835165,
+          289.306640625
+        ],
+        [
+          249.64835164835165,
+          301.650390625
+        ],
+        [
+          110.2051282051282,
+          301.650390625
+        ]
+      ]
+    },
+    {
+      "title": "Informational Terms and Definitions",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          109.45543345543345,
+          608.6148007590133
+        ],
+        [
+          293.1306471306471,
+          608.6148007590133
+        ],
+        [
+          293.1306471306471,
+          619.1081593927894
+        ],
+        [
+          109.45543345543345,
+          619.1081593927894
+        ]
+      ]
+    },
+    {
+      "title": "16. Payment.",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          86.96459096459097,
+          290.078125
+        ],
+        [
+          162.68376068376068,
+          290.078125
+        ],
+        [
+          162.68376068376068,
+          300.87890625
+        ],
+        [
+          86.96459096459097,
+          300.87890625
+        ]
+      ]
+    },
+    {
+      "title": "III. Invoices, Meetings, Electronic Submittal of Documents",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          77.0498046875,
+          540.4248046875
+        ],
+        [
+          380.0952380952381,
+          540.4248046875
+        ],
+        [
+          380.0952380952381,
+          553.5400390625
+        ],
+        [
+          77.0498046875,
+          553.5400390625
+        ]
+      ]
+    },
+    {
+      "title": "IV. Period of Performance",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          80.25,
+          259.3358633776091
+        ],
+        [
+          228.0,
+          259.3358633776091
+        ],
+        [
+          228.0,
+          269.8292220113852
+        ],
+        [
+          80.25,
+          269.8292220113852
+        ]
+      ]
+    },
+    {
+      "title": "V. Task Schedule and/or Deliverable Due Dates",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          79.9658203125,
+          325.9521484375
+        ],
+        [
+          334.5,
+          325.9521484375
+        ],
+        [
+          334.5,
+          337.28652751423147
+        ],
+        [
+          79.9658203125,
+          337.28652751423147
+        ]
+      ]
+    },
+    {
+      "title": "VI. Cost",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          80.267578125,
+          406.2428842504744
+        ],
+        [
+          140.25,
+          406.2428842504744
+        ],
+        [
+          140.25,
+          415.9867172675522
+        ],
+        [
+          80.267578125,
+          415.9867172675522
+        ]
+      ]
+    },
+    {
+      "title": "VII. Project Personnel",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          80.267578125,
+          605.615234375
+        ],
+        [
+          204.0,
+          605.615234375
+        ],
+        [
+          204.0,
+          616.8595825426945
+        ],
+        [
+          80.267578125,
+          616.8595825426945
+        ]
+      ]
+    },
+    {
+      "title": "IX. Signatures",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          75.71916971916971,
+          126.66982922201139
+        ],
+        [
+          165.68253968253967,
+          126.66982922201139
+        ],
+        [
+          165.68253968253967,
+          140.16129032258064
+        ],
+        [
+          75.71916971916971,
+          140.16129032258064
+        ]
+      ]
+    },
+    {
+      "title": "IX.\nSignatures",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          81.71672771672772,
+          129.66793168880454
+        ],
+        [
+          167.93162393162393,
+          129.66793168880454
+        ],
+        [
+          167.93162393162393,
+          141.953125
+        ],
+        [
+          81.71672771672772,
+          141.953125
+        ]
+      ]
+    },
+    {
+      "title": "ATTACHMENT B",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          200.91819291819291,
+          74.95256166982922
+        ],
+        [
+          367.8603515625,
+          74.95256166982922
+        ],
+        [
+          367.8603515625,
+          91.44212523719165
+        ],
+        [
+          200.91819291819291,
+          91.44212523719165
+        ]
+      ]
+    },
+    {
+      "title": "CALTRANS Modesto Soil Stockpile Site\nModesto, CA\nStanislaus County",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          164.1831501831502,
+          483.4440227703985
+        ],
+        [
+          467.05982905982904,
+          483.4440227703985
+        ],
+        [
+          467.05982905982904,
+          541.157495256167
+        ],
+        [
+          164.1831501831502,
+          541.157495256167
+        ]
+      ]
+    },
+    {
+      "title": "ATTACHMENT C",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          29.238095238095237,
+          352.9541015625
+        ],
+        [
+          41.98290598290598,
+          352.9541015625
+        ],
+        [
+          41.98290598290598,
+          405.4933586337761
+        ],
+        [
+          29.238095238095237,
+          405.4933586337761
+        ]
+      ]
+    },
+    {
+      "title": "ATTACHMENHT D\nGUIDELINES FOR SUBMITTING PDF DOCUMENTS TO THE\nDEPARTMENT OF TOXIC SUBSTANCES CONTROL",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          140.9208984375,
+          47.9696394686907
+        ],
+        [
+          477.75,
+          47.9696394686907
+        ],
+        [
+          477.75,
+          86.1954459203036
+        ],
+        [
+          140.9208984375,
+          86.1954459203036
+        ]
+      ]
+    },
+    {
+      "title": "ATTACHMENT E\nCALTRANS MODESTO SOIL STOCKPILES - STATE ROUTE 132/99",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          165.0,
+          31.480075901328274
+        ],
+        [
+          449.25,
+          31.480075901328274
+        ],
+        [
+          449.25,
+          59.212523719165084
+        ],
+        [
+          165.0,
+          59.212523719165084
+        ]
+      ]
+    },
+    {
+      "title": "ATTACHMENT E\nCALTRANS MODESTO SOIL STOCKPILES - STATE ROUTE 132/99",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          166.5,
+          31.480075901328274
+        ],
+        [
+          448.5,
+          31.480075901328274
+        ],
+        [
+          448.5,
+          59.212523719165084
+        ],
+        [
+          166.5,
+          59.212523719165084
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          70
+        ],
+        [
+          "Span",
+          24
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          54
+        ],
+        [
+          "Span",
+          17
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          51
+        ],
+        [
+          "Span",
+          14
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          54
+        ],
+        [
+          "Span",
+          14
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          66
+        ],
+        [
+          "Span",
+          20
+        ],
+        [
+          "ListItem",
+          15
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          62
+        ],
+        [
+          "Span",
+          21
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          63
+        ],
+        [
+          "Span",
+          23
+        ],
+        [
+          "ListItem",
+          13
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          50
+        ],
+        [
+          "Span",
+          14
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          53
+        ],
+        [
+          "Span",
+          11
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          58
+        ],
+        [
+          "Span",
+          16
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          59
+        ],
+        [
+          "Span",
+          14
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          59
+        ],
+        [
+          "Span",
+          17
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          56
+        ],
+        [
+          "Span",
+          19
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          19
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "Span",
+          8
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 1,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "Span",
+          8
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 1,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          19
+        ],
+        [
+          "Span",
+          19
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 1,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          50
+        ],
+        [
+          "Span",
+          25
+        ],
+        [
+          "Text",
+          20
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Span",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          13
+        ],
+        [
+          "Span",
+          7
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          216
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "Span",
+          6
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 2,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          102
+        ],
+        [
+          "Span",
+          6
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 4,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          64
+        ],
+        [
+          "Span",
+          19
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          94
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "Span",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 1,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          8
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Span",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 1,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Caltrans SR 132-99 Task Order 4"
+}
