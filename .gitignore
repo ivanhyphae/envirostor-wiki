@@ -24,9 +24,11 @@ __pycache__/
 # Config secrets (API keys are in here)
 config.yaml
 
-# Marker-PDF output (not part of wiki content)
-wiki/pdf2md/
 
 # Claude
 .claude/
 site/.github/
+
+# Working files
+marker-config.json
+process-pdfs.sh

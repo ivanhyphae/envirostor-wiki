@@ -946,7 +946,10 @@ community_involvement_documents:
 
   - title: "Draft Final Remedial Action Plan - Updated Implementation Schedule"
     folder_url: "https://www.envirostor.dtsc.ca.gov/public/community_involvement_documents?global_id=60001626&document_folder=+3738133072"
-    files: []
+    files:
+      - name: "Draft Final RAP Updated Implementation Sch.pdf"
+        url: "https://www.envirostor.dtsc.ca.gov/public/view_document.asp?docurl=/public/community_involvement/3738133072/Draft%20Final%20RAP%20Updated%20Implementation%20Sch%2Epdf"
+        present: true
 
   - title: "State Route 132 West Freeway/Expressway Project - Draft Environmental Impact Report/Environmental Assessment and Draft Final Remedial Action Plan"
     folder_url: "https://www.envirostor.dtsc.ca.gov/public/community_involvement_documents?global_id=60001626&document_folder=+3714649796"
