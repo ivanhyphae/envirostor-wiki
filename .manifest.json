@@ -1,6 +1,24 @@
 {
   "version": 2,
   "sources": {
+    "wiki/pdf2md/03.01.2012 SR 132 west Expressway Followup5_srb.RA/03.01.2012 SR 132 west Expressway Followup5_srb.RA.md": {
+      "hash": "sha256:d3c78852901fe0a6e3065f0e87ce2b7bd808f48ca2147a1559725812f5ae4df8",
+      "type": "article",
+      "size_bytes": 7916,
+      "added_at": "2026-07-01T04:40:04Z",
+      "compiled_at": "2026-07-01T04:40:04Z",
+      "summary_path": "wiki/summaries/wiki-pdf2md-03-01-2012 SR 132 west Expressway Followup5_srb-RA-03-01-2012 SR 132 west Expressway Followup5_srb-RA.md",
+      "status": "compiled"
+    },
+    "wiki/pdf2md/04 04 2013 Final  SSI and HHRA 8/04 04 2013 Final  SSI and HHRA 8.md": {
+      "hash": "sha256:da719b14483f5fd10a9cd92b82f8631e3eaaff6b89fc7a41888108b83532f4da",
+      "type": "assessment",
+      "size_bytes": 5083,
+      "added_at": "2026-07-01T04:39:59Z",
+      "compiled_at": "2026-07-01T04:39:59Z",
+      "summary_path": "wiki/summaries/wiki-pdf2md-04 04 2013 Final  SSI and HHRA 8-04 04 2013 Final  SSI and HHRA 8.md",
+      "status": "compiled"
+    },
     "wiki/pdf2md/06A2542ct_to97_SurfaceWaterLetter_final.20230309/06A2542ct_to97_SurfaceWaterLetter_final.20230309.md": {
       "hash": "sha256:ca92cfb888702d325be224c98b5b02a523b71888738550e943bde48bc3166210",
       "type": "monitoring_report",
@@ -37,6 +55,15 @@
       "summary_path": "wiki/summaries/wiki-pdf2md-Acceptance E-mail_Stockpiles 1 and 2 MSE Wall Sampling Plan-Acceptance E-mail_Stockpiles 1 and 2 MSE Wall Sampling Plan.md",
       "status": "compiled"
     },
+    "wiki/pdf2md/Acceptance Letter Draft Interim RACR (900259)/Acceptance Letter Draft Interim RACR (900259).md": {
+      "hash": "sha256:3491571258763576dce5a7f05d6db61e3256ff8ca8bdfbb8830fa682271b8f7b",
+      "type": "correspondence",
+      "size_bytes": 9809,
+      "added_at": "2026-07-01T04:40:05Z",
+      "compiled_at": "2026-07-01T04:40:05Z",
+      "summary_path": "wiki/summaries/wiki-pdf2md-Acceptance Letter Draft Interim RACR (900259)-Acceptance Letter Draft Interim RACR (900259).md",
+      "status": "compiled"
+    },
     "wiki/pdf2md/Acceptance Letter_Final Removal Action Completion Report_Modesto Soil Stockpiles (900259)/Acceptance Letter_Final Removal Action Completion Report_Modesto Soil Stockpiles (900259).md": {
       "hash": "sha256:01502baf95516bfb0e8efbbdc410ec8de8259bc6a5aea8cedd98eb68f66ac75c",
       "type": "correspondence",
@@ -44,6 +71,33 @@
       "added_at": "2026-07-01T04:12:37Z",
       "compiled_at": "2026-07-01T04:12:37Z",
       "summary_path": "wiki/summaries/wiki-pdf2md-Acceptance Letter_Final Removal Action Completion Report_Modesto Soil Stockpiles (900259)-Acceptance Letter_Final Removal Action Completion Report_Modesto Soil Stockpiles (900259).md",
+      "status": "compiled"
+    },
+    "wiki/pdf2md/Approval Letter Stockpile 2 Spoils Workplan (900259)/Approval Letter Stockpile 2 Spoils Workplan (900259).md": {
+      "hash": "sha256:db1ae44d40e12e846a50c7aee425b029acbdde20bc4f517f83f82e05aa8e1754",
+      "type": "correspondence",
+      "size_bytes": 2824,
+      "added_at": "2026-07-01T04:40:02Z",
+      "compiled_at": "2026-07-01T04:40:02Z",
+      "summary_path": "wiki/summaries/wiki-pdf2md-Approval Letter Stockpile 2 Spoils Workplan (900259)-Approval Letter Stockpile 2 Spoils Workplan (900259).md",
+      "status": "compiled"
+    },
+    "wiki/pdf2md/Basin 5 Clean Fill Sampling Plan/Basin 5 Clean Fill Sampling Plan.md": {
+      "hash": "sha256:0f52cea02833c48f9fe91a6c58fc49cca7d7f50a722ec8b8e2ef00ea4750211f",
+      "type": "workplan",
+      "size_bytes": 54,
+      "added_at": "2026-07-01T04:40:05Z",
+      "compiled_at": "2026-07-01T04:40:05Z",
+      "summary_path": "wiki/summaries/wiki-pdf2md-Basin 5 Clean Fill Sampling Plan-Basin 5 Clean Fill Sampling Plan.md",
+      "status": "compiled"
+    },
+    "wiki/pdf2md/Bent 2 Stockpiles Tech Memo/Bent 2 Stockpiles Tech Memo.md": {
+      "hash": "sha256:58179ed4c70754a5bb1e89cda525d510d1d6acdf90d9c4e8fa8d3b4b41dcea4d",
+      "type": "tech_memo",
+      "size_bytes": 25177,
+      "added_at": "2026-07-01T04:40:04Z",
+      "compiled_at": "2026-07-01T04:40:04Z",
+      "summary_path": "wiki/summaries/wiki-pdf2md-Bent 2 Stockpiles Tech Memo-Bent 2 Stockpiles Tech Memo.md",
       "status": "compiled"
     },
     "wiki/pdf2md/Borrow Area Results Tech Memo Approval/Borrow Area Results Tech Memo Approval.md": {
@@ -62,6 +116,24 @@
       "added_at": "2026-07-01T04:12:38Z",
       "compiled_at": "2026-07-01T04:12:38Z",
       "summary_path": "wiki/summaries/wiki-pdf2md-Caltrans  Response3-24-2012-Caltrans  Response3-24-2012.md",
+      "status": "compiled"
+    },
+    "wiki/pdf2md/Caltrans Ramp Clarification Letter dated 8.24.12 /Caltrans Ramp Clarification Letter dated 8.24.12 .md": {
+      "hash": "sha256:8cf39952bd0ce10fd46a7178068d479862ffe46d49ed167f2eb522f4f021fb13",
+      "type": "article",
+      "size_bytes": 5186,
+      "added_at": "2026-07-01T04:40:02Z",
+      "compiled_at": "2026-07-01T04:40:02Z",
+      "summary_path": "wiki/summaries/wiki-pdf2md-Caltrans Ramp Clarification Letter dated 8-24-12 -Caltrans Ramp Clarification Letter dated 8-24-12 .md",
+      "status": "compiled"
+    },
+    "wiki/pdf2md/E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo/E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo.md": {
+      "hash": "sha256:bd224f02b95992a4cacd8f07d84c806f773751e03b4b23f208955f592e3a8f98",
+      "type": "correspondence",
+      "size_bytes": 11037,
+      "added_at": "2026-07-01T04:40:01Z",
+      "compiled_at": "2026-07-01T04:40:01Z",
+      "summary_path": "wiki/summaries/wiki-pdf2md-E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo-E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo.md",
       "status": "compiled"
     },
     "wiki/pdf2md/Errata to January 2019 RDIP - SR 132 West Expressway Phase 1/Errata to January 2019 RDIP - SR 132 West Expressway Phase 1.md": {
@@ -100,6 +172,24 @@
       "summary_path": "wiki/summaries/wiki-pdf2md-GND Water Monitoring Rpt March 2102-GND Water Monitoring Rpt March 2102.md",
       "status": "compiled"
     },
+    "wiki/pdf2md/Hwy 132 Clean Fill Source Testing Exhibit/Hwy 132 Clean Fill Source Testing Exhibit.md": {
+      "hash": "sha256:f05ae92ea2cf27dc1ba1694cf45614842fd0fdde870b685ffe479674970d3988",
+      "type": "article",
+      "size_bytes": 82,
+      "added_at": "2026-07-01T04:40:01Z",
+      "compiled_at": "2026-07-01T04:40:01Z",
+      "summary_path": "wiki/summaries/wiki-pdf2md-Hwy 132 Clean Fill Source Testing Exhibit-Hwy 132 Clean Fill Source Testing Exhibit.md",
+      "status": "compiled"
+    },
+    "wiki/pdf2md/Modesto Soil Stockpiles_ Final Recorded LUC/Modesto Soil Stockpiles_ Final Recorded LUC.md": {
+      "hash": "sha256:e8b0e289af8b391c1349158650b1f3850ca11b1a9a6f25b5b7e6013ecda4b4e5",
+      "type": "article",
+      "size_bytes": 79550,
+      "added_at": "2026-07-01T04:40:06Z",
+      "compiled_at": "2026-07-01T04:40:06Z",
+      "summary_path": "wiki/summaries/wiki-pdf2md-Modesto Soil Stockpiles_ Final Recorded LUC-Modesto Soil Stockpiles_ Final Recorded LUC.md",
+      "status": "compiled"
+    },
     "wiki/pdf2md/RDIP Variance Reqeust #2 Acceptance E-Mail/RDIP Variance Reqeust #2 Acceptance E-Mail.md": {
       "hash": "sha256:3141be6afd429ea6abcaade32c6a8353e75df0924856112d80f51916e87a5a9d",
       "type": "correspondence",
@@ -107,6 +197,15 @@
       "added_at": "2026-07-01T04:12:41Z",
       "compiled_at": "2026-07-01T04:12:41Z",
       "summary_path": "wiki/summaries/wiki-pdf2md-RDIP Variance Reqeust #2 Acceptance E-Mail-RDIP Variance Reqeust #2 Acceptance E-Mail.md",
+      "status": "compiled"
+    },
+    "wiki/pdf2md/Response to Comments letter for SR 132 RAP with Appendix J/Response to Comments letter for SR 132 RAP with Appendix J.md": {
+      "hash": "sha256:5696b0d2bc116eaf2b705c7c0651f0c7037eebc33d18b9c553c4f814aaea82aa",
+      "type": "correspondence",
+      "size_bytes": 762672,
+      "added_at": "2026-07-01T04:40:01Z",
+      "compiled_at": "2026-07-01T04:40:01Z",
+      "summary_path": "wiki/summaries/wiki-pdf2md-Response to Comments letter for SR 132 RAP with Appendix J-Response to Comments letter for SR 132 RAP with Appendix J.md",
       "status": "compiled"
     },
     "wiki/pdf2md/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17.md": {
@@ -136,6 +235,24 @@
       "summary_path": "wiki/summaries/wiki-pdf2md-S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112-S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.md",
       "status": "compiled"
     },
+    "wiki/pdf2md/S9525-06-44A May 2012 GW Report 1112/S9525-06-44A May 2012 GW Report 1112.md": {
+      "hash": "sha256:49368bf433de132fc0f96f33623779be55172eef2cc179cd26965593ea0d0286",
+      "type": "monitoring_report",
+      "size_bytes": 727323,
+      "added_at": "2026-07-01T04:40:06Z",
+      "compiled_at": "2026-07-01T04:40:06Z",
+      "summary_path": "wiki/summaries/wiki-pdf2md-S9525-06-44A May 2012 GW Report 1112-S9525-06-44A May 2012 GW Report 1112.md",
+      "status": "compiled"
+    },
+    "wiki/pdf2md/State Route 132 RAP Approval PN (FINAL 2-21-18)/State Route 132 RAP Approval PN (FINAL 2-21-18).md": {
+      "hash": "sha256:d020306bb6730c1f2b05ddba8b91b842c9595a23361476fe9916329b94a5d2d1",
+      "type": "correspondence",
+      "size_bytes": 4227,
+      "added_at": "2026-07-01T04:40:03Z",
+      "compiled_at": "2026-07-01T04:40:03Z",
+      "summary_path": "wiki/summaries/wiki-pdf2md-State Route 132 RAP Approval PN (FINAL 2-21-18)-State Route 132 RAP Approval PN (FINAL 2-21-18).md",
+      "status": "compiled"
+    },
     "wiki/pdf2md/WB Acceptance E-mail/WB Acceptance E-mail.md": {
       "hash": "sha256:36080395ab647a7d7c25f71ffac0e042df55dca4b667c400782e9e2d67230c32",
       "type": "correspondence",
@@ -153,6 +270,14 @@
         "RDIP Variance Reqeust #2 Acceptance E-Mail.md"
       ],
       "last_compiled": "2026-07-01T04:14:00Z"
+    },
+    "alternative-4-containment": {
+      "article_path": "wiki/concepts/alternative-4-containment.md",
+      "sources": [
+        "Response to Comments letter for SR 132 RAP with Appendix J/Response to Comments letter for SR 132 RAP with Appendix J.md",
+        "State Route 132 RAP Approval PN (FINAL 2-21-18)/State Route 132 RAP Approval PN (FINAL 2-21-18).md"
+      ],
+      "last_compiled": "2026-07-01T04:41:27Z"
     },
     "annual-inspection-report": {
       "article_path": "wiki/concepts/annual-inspection-report.md",
@@ -193,12 +318,26 @@
       ],
       "last_compiled": "2026-07-01T04:14:00Z"
     },
+    "basin-5-clean-fill-sampling-plan": {
+      "article_path": "wiki/concepts/basin-5-clean-fill-sampling-plan.md",
+      "sources": [
+        "Basin 5 Clean Fill Sampling Plan/Basin 5 Clean Fill Sampling Plan.md"
+      ],
+      "last_compiled": "2026-07-01T04:41:27Z"
+    },
     "bent-2-area": {
       "article_path": "wiki/concepts/bent-2-area.md",
       "sources": [
         "S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.md"
       ],
       "last_compiled": "2026-07-01T04:14:00Z"
+    },
+    "bent-2-excavation": {
+      "article_path": "wiki/concepts/bent-2-excavation.md",
+      "sources": [
+        "Bent 2 Stockpiles Tech Memo/Bent 2 Stockpiles Tech Memo.md"
+      ],
+      "last_compiled": "2026-07-01T04:41:27Z"
     },
     "bg-1": {
       "article_path": "wiki/concepts/bg-1.md",
@@ -262,6 +401,13 @@
       ],
       "last_compiled": "2026-07-01T04:14:00Z"
     },
+    "clean-fill-source-testing": {
+      "article_path": "wiki/concepts/clean-fill-source-testing.md",
+      "sources": [
+        "Hwy 132 Clean Fill Source Testing Exhibit/Hwy 132 Clean Fill Source Testing Exhibit.md"
+      ],
+      "last_compiled": "2026-07-01T04:41:27Z"
+    },
     "clean-fill-suitable-as-cover": {
       "article_path": "wiki/concepts/clean-fill-suitable-as-cover.md",
       "sources": [
@@ -269,6 +415,13 @@
         "RDIP Variance Reqeust #2 Acceptance E-Mail.md"
       ],
       "last_compiled": "2026-07-01T04:14:00Z"
+    },
+    "compendium-of-public-comments": {
+      "article_path": "wiki/concepts/compendium-of-public-comments.md",
+      "sources": [
+        "Response to Comments letter for SR 132 RAP with Appendix J/Response to Comments letter for SR 132 RAP with Appendix J.md"
+      ],
+      "last_compiled": "2026-07-01T04:41:27Z"
     },
     "draft-supplemental-site-investigation-workplan": {
       "article_path": "wiki/concepts/draft-supplemental-site-investigation-workplan.md",
@@ -291,6 +444,13 @@
         "RDIP Variance Reqeust #2 Acceptance E-Mail.md"
       ],
       "last_compiled": "2026-07-01T04:14:00Z"
+    },
+    "environmental-impact-report-environmental-assessment": {
+      "article_path": "wiki/concepts/environmental-impact-report-environmental-assessment.md",
+      "sources": [
+        "Response to Comments letter for SR 132 RAP with Appendix J/Response to Comments letter for SR 132 RAP with Appendix J.md"
+      ],
+      "last_compiled": "2026-07-01T04:41:27Z"
     },
     "epa-health-advisory": {
       "article_path": "wiki/concepts/epa-health-advisory.md",
@@ -319,6 +479,13 @@
       ],
       "last_compiled": "2026-07-01T04:14:00Z"
     },
+    "human-health-risk-assessment": {
+      "article_path": "wiki/concepts/human-health-risk-assessment.md",
+      "sources": [
+        "04 04 2013 Final  SSI and HHRA 8/04 04 2013 Final  SSI and HHRA 8.md"
+      ],
+      "last_compiled": "2026-07-01T04:41:27Z"
+    },
     "interim-phase-1-sr-132-west-project": {
       "article_path": "wiki/concepts/interim-phase-1-sr-132-west-project.md",
       "sources": [
@@ -328,6 +495,13 @@
         "Fiscal Year Cost Estimate 24_25_Modesto Soil Stockpiles (900259).md"
       ],
       "last_compiled": "2026-07-01T04:14:00Z"
+    },
+    "kansas-avenue-ramp-safety-improvements": {
+      "article_path": "wiki/concepts/kansas-avenue-ramp-safety-improvements.md",
+      "sources": [
+        "Caltrans Ramp Clarification Letter dated 8.24.12 /Caltrans Ramp Clarification Letter dated 8.24.12 .md"
+      ],
+      "last_compiled": "2026-07-01T04:41:27Z"
     },
     "land-use-covenant": {
       "article_path": "wiki/concepts/land-use-covenant.md",
@@ -380,7 +554,8 @@
       "article_path": "wiki/concepts/mw-2.md",
       "sources": [
         "S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.md",
-        "S2350-01-02 Updated Statistical Evaluation Report_2.24.md"
+        "S2350-01-02 Updated Statistical Evaluation Report_2.24.md",
+        "S9525-06-44A May 2012 GW Report 1112/S9525-06-44A May 2012 GW Report 1112.md"
       ],
       "last_compiled": "2026-07-01T04:14:00Z"
     },
@@ -420,7 +595,8 @@
       "article_path": "wiki/concepts/mw-8.md",
       "sources": [
         "S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.md",
-        "S2350-01-02 Updated Statistical Evaluation Report_2.24.md"
+        "S2350-01-02 Updated Statistical Evaluation Report_2.24.md",
+        "S9525-06-44A May 2012 GW Report 1112/S9525-06-44A May 2012 GW Report 1112.md"
       ],
       "last_compiled": "2026-07-01T04:14:00Z"
     },
@@ -445,6 +621,13 @@
       ],
       "last_compiled": "2026-07-01T04:14:00Z"
     },
+    "phase-1-removal-action-completion-report": {
+      "article_path": "wiki/concepts/phase-1-removal-action-completion-report.md",
+      "sources": [
+        "Acceptance Letter Draft Interim RACR (900259)/Acceptance Letter Draft Interim RACR (900259).md"
+      ],
+      "last_compiled": "2026-07-01T04:41:27Z"
+    },
     "pl-1": {
       "article_path": "wiki/concepts/pl-1.md",
       "sources": [
@@ -465,6 +648,13 @@
         "06A2542ct_to97_SurfaceWaterLetter_final.20230309.md"
       ],
       "last_compiled": "2026-07-01T04:14:00Z"
+    },
+    "recorded-land-use-covenant": {
+      "article_path": "wiki/concepts/recorded-land-use-covenant.md",
+      "sources": [
+        "Modesto Soil Stockpiles_ Final Recorded LUC/Modesto Soil Stockpiles_ Final Recorded LUC.md"
+      ],
+      "last_compiled": "2026-07-01T04:41:27Z"
     },
     "remedial-action-plan": {
       "article_path": "wiki/concepts/remedial-action-plan.md",
@@ -527,6 +717,27 @@
       ],
       "last_compiled": "2026-07-01T04:14:00Z"
     },
+    "stockpile-1-mse-wall-footing-excavation": {
+      "article_path": "wiki/concepts/stockpile-1-mse-wall-footing-excavation.md",
+      "sources": [
+        "E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo/E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo.md"
+      ],
+      "last_compiled": "2026-07-01T04:41:27Z"
+    },
+    "stockpile-2-barium-containing-soil-foundation-spoil-assessment-workplan": {
+      "article_path": "wiki/concepts/stockpile-2-barium-containing-soil-foundation-spoil-assessment-workplan.md",
+      "sources": [
+        "Approval Letter Stockpile 2 Spoils Workplan (900259)/Approval Letter Stockpile 2 Spoils Workplan (900259).md"
+      ],
+      "last_compiled": "2026-07-01T04:41:27Z"
+    },
+    "stockpile-3-material": {
+      "article_path": "wiki/concepts/stockpile-3-material.md",
+      "sources": [
+        "Caltrans Ramp Clarification Letter dated 8.24.12 /Caltrans Ramp Clarification Letter dated 8.24.12 .md"
+      ],
+      "last_compiled": "2026-07-01T04:41:27Z"
+    },
     "strontium": {
       "article_path": "wiki/concepts/strontium.md",
       "sources": [
@@ -534,6 +745,20 @@
         "S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.md"
       ],
       "last_compiled": "2026-07-01T04:14:00Z"
+    },
+    "supplemental-site-investigation": {
+      "article_path": "wiki/concepts/supplemental-site-investigation.md",
+      "sources": [
+        "04 04 2013 Final  SSI and HHRA 8/04 04 2013 Final  SSI and HHRA 8.md"
+      ],
+      "last_compiled": "2026-07-01T04:41:27Z"
+    },
+    "surface-sample": {
+      "article_path": "wiki/concepts/surface-sample.md",
+      "sources": [
+        "S9525-06-44A May 2012 GW Report 1112/S9525-06-44A May 2012 GW Report 1112.md"
+      ],
+      "last_compiled": "2026-07-01T04:41:27Z"
     },
     "title-22-mcl": {
       "article_path": "wiki/concepts/title-22-mcl.md",
