@@ -1,0 +1,1013 @@
+# EnviroStor Document Inventory
+# Site: STATE ROUTE 132 WEST EXPRESSWAY (AKA: STATE ROUTE 132/99 INTERCHANGE)
+# Global ID: 60001626
+# Source: https://www.envirostor.dtsc.ca.gov/public/profile_report.asp?global_id=60001626
+# Generated: 2026-06-25
+#
+# Each file entry carries a "present" flag indicating whether the PDF has been
+# downloaded into this raw/ directory (true) or is still missing (false).
+# Status as of 2026-06-25: 139 of 139 file entries present, 0 missing.
+# All 128 PDFs on disk are accounted for in this inventory.
+
+completed_activities:
+
+  - title: Annual Land Use Covenant Inspection Report
+    document_type: Land Use Restriction Monitoring Report
+    date_completed: 6/12/2026
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60588228"
+    files:
+      - name: Annual Stockpile Inspection Form.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/7760639786/Annual%20Stockpile%20Inspection%20Form.pdf"
+        present: true
+      - name: RE_ Modesto Stockpile Annual Inspection 2026_DTSC Approval.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/3417606949/RE_%20Modesto%20Stockpile%20Annual%20Inspection%202026_DTSC%20Approval.pdf"
+        present: true
+
+  - title: Stormwater/Surface Water Monitoring Report (FY24/25)
+    document_type: Monitoring Report
+    date_completed: 3/16/2026
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60588160"
+    files:
+      - name: S2350-01-02_2.4.2025 Stormwater Sampling Report_6.25.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/4366825699/S2350-01-02_2.4.2025%20Stormwater%20Sampling%20Report_6.25.pdf"
+        present: true
+      - name: DTSC Letter Response - 2025 GW Monitoring Report (900259).pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/7392872452/DTSC%20Letter%20Response%20-%202025%20GW%20Monitoring%20Report%20(900259).pdf"
+        present: true
+      - name: S2350-01-02 Well Destruction Report_6.25.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/3511952042/S2350-01-02%20Well%20Destruction%20Report_6.25.pdf"
+        present: true
+      - name: DTSC Approval Response for final version of Well Destruction Report.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/5531788468/DTSC%20Approval%20Response%20for%20final%20version%20of%20Well%20Destruction%20Report.pdf"
+        present: true
+
+  - title: Well Destruction Completion Report
+    document_type: Well Decommissioning Report
+    date_completed: 1/30/2026
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60588158"
+    files:
+      - name: DTSC Letter Response - 2025 GW Monitoring Report (900259).pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/2020283341/DTSC%20Letter%20Response%20-%202025%20GW%20Monitoring%20Report%20(900259).pdf"
+        present: true
+
+  - title: Annual Cost Estimate Letter
+    document_type: Annual Oversight Cost Estimate
+    date_completed: 12/24/2025
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&enforcement_id=60599261"
+    files:
+      - name: Annual Cost Estimate Letter - FY 25.26 - State Route 132 (900259).pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/9310124039/Annual%20Cost%20Estimate%20Letter%20-%20FY%2025.26%20-%20State%20Route%20132%20(900259).pdf"
+        present: true
+
+  - title: Successor Interagency Agreement Task Order
+    document_type: Amendment - Order/Agreement
+    date_completed: 10/17/2025
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&enforcement_id=60575587"
+    files:
+      - name: 43A0487 _04 Modesto Stockpiles - signed.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/9203007340/43A0487%20_04%20Modesto%20Stockpiles%20-%20signed.pdf"
+        present: true
+
+  - title: Annual Land Use Covenant Inspection Report
+    document_type: Land Use Restriction Monitoring Report
+    date_completed: 6/10/2025
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60553591"
+    files:
+      - name: Annual Stockpile Inspection Form.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/4373966813/Annual%20Stockpile%20Inspection%20Form.pdf"
+        present: true
+      - name: 2025 - RE_ Reminder - Annual Inspection Report.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/4659748673/2025%20-%20RE_%20Reminder%20-%20Annual%20Inspection%20Report.pdf"
+        present: true
+
+  - title: PM Change Notification
+    document_type: Correspondence
+    date_completed: 12/16/2024
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&enforcement_id=60582849"
+    files:
+      - name: "DTSC PM Change Notice - State Route 132 - Modesto Soil Stockpiles, Modesto.pdf"
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/3612202286/DTSC%20PM%20Change%20Notice%20-%20State%20Route%20132%20-%20Modesto%20Soil%20Stockpiles,%20Modesto.pdf"
+        present: true
+      - name: "PM Change Notification_ CALTRANS MODESTO SOIL STOCKPILES (SL0609924194) - Kansas & N Emerald, Well deconstruction.pdf"
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/3146244645/PM%20Change%20Notification_%20CALTRANS%20MODESTO%20SOIL%20STOCKPILES%20(SL0609924194)%20-%20Kansas%20&%20N%20Emerald,%20Well%20deconstruction.pdf"
+        present: false
+
+  - title: Annual Cost Estimate Letter
+    document_type: Annual Oversight Cost Estimate
+    date_completed: 11/21/2024
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&enforcement_id=60575177"
+    files:
+      - name: Fiscal Year Cost Estimate 24_25_Modesto Soil Stockpiles (900259).pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/6083302140/Fiscal%20Year%20Cost%20Estimate%2024_25_Modesto%20Soil%20Stockpiles%20(900259).pdf"
+        present: true
+
+  - title: "Storm Water Sampling Report - Februrary 1, 2024"
+    document_type: Monitoring Report
+    date_completed: 5/15/2024
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60565658"
+    files:
+      - name: S2350-01-02_2.1.2024 Stormwater Sampling Report_5.24.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/4181706070/S2350-01-02_2.1.2024%20Stormwater%20Sampling%20Report_5.24.pdf"
+        present: true
+
+  - title: Updated Comparative Evaluation of Groundwater Data
+    document_type: Technical Report
+    date_completed: 5/3/2024
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60562913"
+    files:
+      - name: S2350-01-02 Updated Statistical Evaluation Report_2.24.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/6613255143/S2350-01-02%20Updated%20Statistical%20Evaluation%20Report_2.24.pdf"
+        present: true
+      - name: Approval of GW Statistical Evaluation (900259).pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/1165272355/Approval%20of%20GW%20Statistical%20Evaluation%20(900259).pdf"
+        present: true
+
+  - title: Land Use Covenant
+    document_type: Land Use Restriction
+    date_completed: 4/18/2024
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&enforcement_id=60485174"
+    files:
+      - name: Modesto Soil Stockpiles_ Final Recorded LUC.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/6255924820/Modesto%20Soil%20Stockpiles_%20Final%20Recorded%20LUC.pdf"
+        present: true
+
+  - title: Storm Water Sampling and Analysis Plan
+    document_type: Technical Workplan
+    date_completed: 1/26/2024
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60560310"
+    files:
+      - name: S2350-01-02 Stormwater SAP_12.23.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/3766010880/S2350-01-02%20Stormwater%20SAP_12.23.pdf"
+        present: true
+
+  - title: Annual Oversight Cost Estimate
+    document_type: Annual Oversight Cost Estimate
+    date_completed: 11/7/2023
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&enforcement_id=60553776"
+    files:
+      - name: Fiscal Year Cost Estimate 23_24_Modesto Soil Stockpiles (900259).pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/5173359513/Fiscal%20Year%20Cost%20Estimate%2023_24_Modesto%20Soil%20Stockpiles%20(900259).pdf"
+        present: true
+
+  - title: Operation and Maintenance Agreement
+    document_type: "Operation & Maintenance Order/Agreement"
+    date_completed: 6/20/2023
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&enforcement_id=60485173"
+    files:
+      - name: Final O and M Agreement with Cover Letter (900259).pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/6339832901/Final%20O%20and%20M%20Agreement%20with%20Cover%20Letter%20(900259).pdf"
+        present: true
+
+  - title: Surface Water Monitoring Report
+    document_type: Monitoring Report
+    date_completed: 4/12/2023
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60540323"
+    files:
+      - name: 06A2542ct_to97_SurfaceWaterLetter_final.20230328.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/8362827897/06A2542ct_to97_SurfaceWaterLetter_final.20230328.pdf"
+        present: true
+
+  - title: Groundwater Monitoring Report
+    document_type: Monitoring Report
+    date_completed: 3/9/2023
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60539713"
+    files:
+      - name: 06A2542ct_TO97_GW Rpt_final.20230308.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/7565220475/06A2542ct_TO97_GW%20Rpt_final.20230308.pdf"
+        present: true
+
+  - title: Surface Water Report
+    document_type: Technical Report
+    date_completed: 3/9/2023
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60539711"
+    files:
+      - name: 06A2542ct_to97_SurfaceWaterLetter_final.20230309.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/6234089493/06A2542ct_to97_SurfaceWaterLetter_final.20230309.pdf"
+        present: true
+
+  - title: Final Interim Phase 1 Remedial Action Completion Report
+    document_type: Remedial Action Completion Report
+    date_completed: 1/18/2023
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60517227"
+    files:
+      - name: S1908-01-01 Caltrans Modesto Stockpile Interim RACR_12.22 (1).pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/3359634220/S1908-01-01%20Caltrans%20Modesto%20Stockpile%20Interim%20RACR_12.22%20(1).pdf"
+        present: true
+      - name: Acceptance Letter_Final Removal Action Completion Report_Modesto Soil Stockpiles (900259).pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/4121581137/Acceptance%20Letter_Final%20Removal%20Action%20Completion%20Report_Modesto%20Soil%20Stockpiles%20(900259).pdf"
+        present: true
+
+  - title: Annual Oversight Cost Estimate
+    document_type: Annual Oversight Cost Estimate
+    date_completed: 10/4/2022
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&enforcement_id=60529219"
+    files:
+      - name: Fiscal Year Cost Estimate 22_23_Modesto Soil Stockpiles (900259).pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/3981190562/Fiscal%20Year%20Cost%20Estimate%2022_23_Modesto%20Soil%20Stockpiles%20(900259).pdf"
+        present: true
+
+  - title: Draft Operation and Maintenance Plan
+    document_type: Other Report
+    date_completed: 8/1/2022
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60485169"
+    files:
+      - name: OM Plan Comments (900259).pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/9477669835/OM%20Plan%20Comments%20(900259).pdf"
+        present: true
+
+  - title: Stockpile 2 Spoil Assessment Workplan Technical Memorandum
+    document_type: Soils Management Plan
+    date_completed: 3/4/2022
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60517365"
+    files:
+      - name: Stockpile 2 BCS Foundation Spoil Workplan Tech Memo.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/7710556507/Stockpile%202%20BCS%20Foundation%20Spoil%20Workplan%20Tech%20Memo.pdf"
+        present: true
+      - name: Approval Letter Stockpile 2 Spoils Workplan (900259).pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/4710957407/Approval%20Letter%20Stockpile%202%20Spoils%20Workplan%20(900259).pdf"
+        present: true
+
+  - title: Draft Interim Phase 1 Remedial Action Completion Report - Status Report
+    document_type: Technical Report
+    date_completed: 2/24/2022
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60485167"
+    files:
+      - name: Draft Interim RACR_ App D-G.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/9837081015/Draft%20Interim%20RACR_%20App%20D-G.pdf"
+        present: true
+      - name: Draft Interim RACR_Text_Figures_Tables_ App A-C.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/8773845851/Draft%20Interim%20RACR_Text_Figures_Tables_%20App%20A-C.pdf"
+        present: true
+      - name: Acceptance Letter Draft Interim RACR (900259).pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/5600849986/Acceptance%20Letter%20Draft%20Interim%20RACR%20(900259).pdf"
+        present: true
+
+  - title: Soil Excavation and Re-deposition Field Work
+    document_type: Fieldwork
+    date_completed: 12/23/2021
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60474721"
+    files:
+      - name: S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/7629882633/S1200-01-01%20Caltrans%20Modesto%20Stockpile%20RDIP_01.19.pdf"
+        present: true
+
+  - title: Carpenter Shoofly Clean Fill Sampling Report
+    document_type: Technical Report
+    date_completed: 4/22/2021
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60497384"
+    files:
+      - name: Carpenter Road Shoofly Clean Fill Tech Memo.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/9023241937/Carpenter%20Road%20Shoofly%20Clean%20Fill%20Tech%20Memo.pdf"
+        present: true
+      - name: DTSC E-mail Approval of Carpenter Shoofly Tech Memo.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/2455326914/DTSC%20E-mail%20Approval%20of%20Carpenter%20Shoofly%20Tech%20Memo.pdf"
+        present: true
+
+  - title: Carpenter Shoofly Clean Fill Sampling Plan
+    document_type: Technical Workplan
+    date_completed: 4/7/2021
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60496861"
+    files:
+      - name: Carpenter Shoofly Area Clean Fill Sampling Plan.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/7401428699/Carpenter%20Shoofly%20Area%20Clean%20Fill%20Sampling%20Plan.pdf"
+        present: true
+      - name: DTSC Approval E-mail for Carpenter Shoofly Clean Fill Sampling Plan.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/7339888632/DTSC%20Approval%20E-mail%20for%20Carpenter%20Shoofly%20Clean%20Fill%20Sampling%20Plan.pdf"
+        present: true
+
+  - title: Surface Water Report_12_17_2020
+    document_type: Technical Report
+    date_completed: 3/26/2021
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60496630"
+    files:
+      - name: 06A2542ct_to16_SurfaceWaterLetter _final.20210323.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/7490813314/06A2542ct_to16_SurfaceWaterLetter%20_final.20210323.pdf"
+        present: true
+      - name: WB Acceptance E-mail.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/1658325672/WB%20Acceptance%20E-mail.pdf"
+        present: true
+
+  - title: Interagency Agreement 19-T4804 Task Order 4
+    document_type: InterAgency Agreement
+    date_completed: 3/18/2021
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&enforcement_id=60504523"
+    files:
+      - name: 43A0404-04 Executed.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/6969059824/43A0404-04%20Executed.pdf"
+        present: true
+
+  - title: Soil Management Plan
+    document_type: Technical Workplan
+    date_completed: 2/11/2021
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60485148"
+    files:
+      - name: Final SMP Approval E-mail.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/7210661947/Final%20SMP%20Approval%20E-mail.pdf"
+        present: true
+
+  - title: Bent 2 Soil Tech Memo
+    document_type: Technical Report
+    date_completed: 11/6/2020
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60490203"
+    files:
+      - name: Bent 2 Stockpiles Tech Memo.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/4171722888/Bent%202%20Stockpiles%20Tech%20Memo.pdf"
+        present: true
+      - name: E-mail Acceptance of Bent 2 Soils Tech Memo.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/6345873773/E-mail%20Acceptance%20of%20Bent%202%20Soils%20Tech%20Memo.pdf"
+        present: true
+
+  - title: "RDIP Variance Request #2"
+    document_type: Technical Report
+    date_completed: 9/21/2020
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60486701"
+    files:
+      - name: "S1908-01-01 RDIP Variance #2.pdf"
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/7384205698/S1908%2D01%2D01%20RDIP%20Variance%20%232%2Epdf"
+        present: true
+      - name: "RDIP Variance Reqeust #2 Acceptance E-Mail.pdf"
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/2755397975/RDIP%20Variance%20Reqeust%20%232%20Acceptance%20E%2DMail%2Epdf"
+        present: true
+
+  - title: Basin 5 Clean Cap Borrow Area Tech Memo
+    document_type: Technical Report
+    date_completed: 7/9/2020
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60481201"
+    files:
+      - name: SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/4087895274/SR%20132%20Basin%205%20Clean%20Fill%20Tech%20Memo%20revised%207-2-2020.pdf"
+        present: true
+      - name: Approval E-mail_Revised Basin 5 Clean Fill Tech Memo.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/6787567615/Approval%20E-mail_Revised%20Basin%205%20Clean%20Fill%20Tech%20Memo.pdf"
+        present: true
+
+  - title: Stockpile 2 MSE Wall Sampling Tech Memo
+    document_type: Technical Report
+    date_completed: 6/22/2020
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60480331"
+    files:
+      - name: Stockpile 2 MSE Wall Sampling Tech Memo.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/5299467325/Stockpile%202%20MSE%20Wall%20Sampling%20Tech%20Memo.pdf"
+        present: true
+      - name: "E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo.pdf"
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/1966764688/E-mail%20Acceptance,%20Stockpile%202%20Wall%20Footing%20Tech%20Memo.pdf"
+        present: true
+
+  - title: Basin 5 Borrow Area Workplan
+    document_type: Technical Workplan
+    date_completed: 6/12/2020
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60480007"
+    files:
+      - name: Basin 5 Clean Fill Sampling Plan.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/8358884513/Basin%205%20Clean%20Fill%20Sampling%20Plan.pdf"
+        present: true
+      - name: FW_ SR 132 Basin 5 Clean Fill Sampling Plan .pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/6475787103/FW_%20SR%20132%20Basin%205%20Clean%20Fill%20Sampling%20Plan%20.pdf"
+        present: true
+      - name: Approval E-mail_ SR 132 Basin 5 Clean Fill Sampling Plan.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/8849699258/Approval%20E-mail_%20SR%20132%20Basin%205%20Clean%20Fill%20Sampling%20Plan.pdf"
+        present: true
+
+  - title: RDIP Variance Request
+    document_type: Technical Report
+    date_completed: 4/17/2020
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60477539"
+    files:
+      - name: Caltrans Modesto Soil Stcokpiles RDIP Variance.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/1320439219/Caltrans%20Modesto%20Soil%20Stcokpiles%20RDIP%20Variance.pdf"
+        present: true
+      - name: RDIP Variance Request Acceptance E-Mail.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/6186203479/RDIP%20Variance%20Request%20Acceptance%20E-Mail.pdf"
+        present: true
+
+  - title: Stockpile 1 MSE Wall Sampling Tech Memorandum
+    document_type: Technical Report
+    date_completed: 4/13/2020
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60477495"
+    files:
+      - name: "E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo.pdf"
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/9308742702/E-mail%20Acceptance,%20Stockpile%201%20Wall%20Footing%20Sampling%20Tech%20Memo.pdf"
+        present: true
+      - name: Stockpile 1 MSE Wall Sampling Tech Memo.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/6664930582/Stockpile%201%20MSE%20Wall%20Sampling%20Tech%20Memo.pdf"
+        present: true
+
+  - title: MSE Wall Sampling Plan
+    document_type: Technical Workplan
+    date_completed: 4/7/2020
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60477238"
+    files:
+      - name: E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/7045455038/E-mail%20-%20Stockpiles%201%20and%202%20MSE%20Wall%20Sampling%20Plan.pdf"
+        present: true
+      - name: Stockpiles 1 and 2 MSE Wall Sampling Plan.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/7622525870/Stockpiles%201%20and%202%20MSE%20Wall%20Sampling%20Plan.pdf"
+        present: true
+      - name: Acceptance E-mail_Stockpiles 1 and 2 MSE Wall Sampling Plan.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/7560549676/Acceptance%20E-mail_Stockpiles%201%20and%202%20MSE%20Wall%20Sampling%20Plan.pdf"
+        present: true
+
+  - title: Stockpile 3 Removal Technical Memorandum
+    document_type: Technical Report
+    date_completed: 3/18/2020
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60476826"
+    files:
+      - name: SR 132 Stockpile 3 BCS Removal Tech Memo.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/8334399163/SR%20132%20Stockpile%203%20BCS%20Removal%20Tech%20Memo.pdf"
+        present: true
+      - name: Stockpile 3 Confirmation Sampling Tech Memo Approval.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/7075132071/Stockpile%203%20Confirmation%20Sampling%20Tech%20Memo%20Approval.pdf"
+        present: true
+
+  - title: Stockpile 2 Confirmation Sampling Tech Memo
+    document_type: Technical Report
+    date_completed: 3/10/2020
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60476662"
+    files:
+      - name: SR 132 Stockpile 2 BCS Removal Tech Memo.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/4873012721/SR%20132%20Stockpile%202%20BCS%20Removal%20Tech%20Memo.pdf"
+        present: true
+      - name: Stockpile 2 Confirmation Sampling Tech Memo Approval.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/2995861232/Stockpile%202%20Confirmation%20Sampling%20Tech%20Memo%20Approval.pdf"
+        present: true
+
+  - title: Borrow Area Sampling Results Tech Memo
+    document_type: Technical Report
+    date_completed: 3/4/2020
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60476418"
+    files:
+      - name: SR 132 Clean Borrow Area Technical Memo.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/7711872935/SR%20132%20Clean%20Borrow%20Area%20Technical%20Memo.pdf"
+        present: true
+      - name: Borrow Area Results Tech Memo Approval.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/2205565512/Borrow%20Area%20Results%20Tech%20Memo%20Approval.pdf"
+        present: true
+
+  - title: Clean Borrow Area Tech Memo
+    document_type: Technical Workplan
+    date_completed: 2/13/2020
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60476414"
+    files:
+      - name: Borrow Area Sampling Plan.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/4169646322/Borrow%20Area%20Sampling%20Plan.pdf"
+        present: true
+      - name: Hwy 132 Clean Fill Source Testing Exhibit.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/3590131461/Hwy%20132%20Clean%20Fill%20Source%20Testing%20Exhibit.pdf"
+        present: true
+      - name: LOTB-N Carpenter OC.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/4698730289/LOTB-N%20Carpenter%20OC.pdf"
+        present: true
+      - name: Borrow Area Sampling Plan Approval E-Mail.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/3070849359/Borrow%20Area%20Sampling%20Plan%20Approval%20E-Mail.pdf"
+        present: true
+
+  - title: Groundwater Monitoring Report October - 2018 and April 2019
+    document_type: Monitoring Report
+    date_completed: 6/20/2019
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60461474"
+    files:
+      - name: S1200-01-01 Modesto Stockpiles GW April 2019_06.19.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/8311053216/S1200-01-01%20Modesto%20Stockpiles%20GW%20April%202019_06.19.pdf"
+        present: true
+
+  - title: Groundwater Monitoring Well Destruction Report
+    document_type: Well Decommissioning Report
+    date_completed: 6/20/2019
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60461476"
+    files:
+      - name: S1200-01-01 Modesto Stockpiles Well Dest Rpt_06.19.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/5282987833/S1200-01-01%20Modesto%20Stockpiles%20Well%20Dest%20Rpt_06.19.pdf"
+        present: true
+
+  - title: Remedial Design and Implementation Plan
+    document_type: Design/Implementation Workplan
+    date_completed: 4/3/2019
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60431441"
+    files:
+      - name: RDIP All Figures.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/9889907658/RDIP%20All%20Figures.pdf"
+        present: true
+      - name: "Appendix C - 100% Design Plans.pdf"
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/6379913151/Appendix%20C%20-%20100%%20Design%20Plans.pdf"
+        present: true
+      - name: S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/3318179070/S1200-01-01%20Caltrans%20Modesto%20Stockpile%20RDIP_01.19.pdf"
+        present: true
+      - name: Final RDIP Approval Letter (900259).pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/1104695200/Final%20RDIP%20Approval%20Letter%20(900259).pdf"
+        present: true
+      - name: Errata Transmittal 2-6-2020.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/1314822137/Errata%20Transmittal%202-6-2020.pdf"
+        present: true
+      - name: Errata to January 2019 RDIP - SR 132 West Expressway Phase 1.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/5220915079/Errata%20to%20January%202019%20RDIP%20-%20SR%20132%20West%20Expressway%20Phase%201.pdf"
+        present: true
+      - name: RDIP Errata Acceptance.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/2909886240/RDIP%20Errata%20Acceptance.pdf"
+        present: true
+
+  - title: "Surface Water Sampling Report, March 22, 2018"
+    document_type: Monitoring Report
+    date_completed: 4/30/2018
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60444027"
+    files:
+      - name: S1200-01-01 Modesto Stockpiles March 2018 SW Sampling_04.18.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/9722915470/S1200-01-01%20Modesto%20Stockpiles%20March%202018%20SW%20Sampling_04.18.pdf"
+        present: true
+
+  - title: Evironmental Impact Report (EIR)
+    document_type: CEQA - Responsible Agency Review
+    date_completed: 3/15/2018
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&enforcement_id=60316449"
+    files:
+      - name: "opr25@opr.ca.gov_20180319_135531.pdf"
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/6704302728/opr25@opr.ca.gov_20180319_135531.pdf"
+        present: true
+      - name: 3.15.2018 - Caltrans Modesto SOF.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/9278030872/3.15.2018%20-%20Caltrans%20Modesto%20SOF.pdf"
+        present: true
+
+  - title: Remedial Action Plan (RAP)
+    document_type: Remedial Action Plan
+    date_completed: 3/14/2018
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60316458"
+    files:
+      - name: S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/3523650228/S1200-01-01%20Final%20Caltrans%20Modesto%20Stockpile%20RAP_03.18.pdf"
+        present: true
+      - name: 3.14.2018 - Approval letter for SR 132 RAP.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/6643740594/3.14.2018%20-%20Approval%20letter%20for%20SR%20132%20RAP.pdf"
+        present: true
+
+  - title: "Surfare Water Sampling Report - January 8, 2018"
+    document_type: Monitoring Report
+    date_completed: 2/12/2018
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60441236"
+    files:
+      - name: S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/4108508050/S1200-01-01%20Modesto%20Stockpiles%20Jan%202018%20SW%20Sampling_02.18.pdf"
+        present: true
+
+  - title: "Caltrans/DTSC Interagency Agreement 43A0310, DTSC No.12-T0106: Task Order 43A0310-04, Amendment 2"
+    document_type: InterAgency Agreement
+    date_completed: 2/9/2018
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&enforcement_id=60441238"
+    files:
+      - name: 43A0310-04 A02 Executed Task Order-Caltrnas Modesto Soil Stockpiles.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/8104359507/43A0310-04%20A02%20Executed%20Task%20Order-Caltrnas%20Modesto%20Soil%20Stockpiles.pdf"
+        present: true
+
+  - title: Groundwater Monitoring Report October 2016 and April 2017
+    document_type: Monitoring Report
+    date_completed: 7/21/2017
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60429665"
+    files:
+      - name: S1200-01-01 Modesto Stockpiles GW April 2017_07.17.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/3861434757/S1200-01-01%20Modesto%20Stockpiles%20GW%20April%202017_07.17.pdf"
+        present: true
+
+  - title: "Surface Water Monitoring Report, March 24, 2017"
+    document_type: Monitoring Report
+    date_completed: 6/6/2017
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60427835"
+    files:
+      - name: S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/3597096085/S1200-01-01%20Modesto%20Stockpiles%20Mar%202017%20SW%20Sampling_06.17.pdf"
+        present: true
+
+  - title: "Surface Water Monitoring Report, December 15, 2016"
+    document_type: Monitoring Report
+    date_completed: 1/18/2017
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60422034"
+    files:
+      - name: S1200-01-01 Modesto Stockpiles Dec 2016 SW Sampling_01.17.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/6171919107/S1200-01-01%20Modesto%20Stockpiles%20Dec%202016%20SW%20Sampling_01.17.pdf"
+        present: true
+
+  - title: "Surface Water Monitoring Report, October 28, 2016"
+    document_type: Monitoring Report
+    date_completed: 1/6/2017
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60421527"
+    files:
+      - name: S1200-01-01 Modesto Stockpiles Oct 2016 SW Sampling_12.16.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/2038546502/S1200-01-01%20Modesto%20Stockpiles%20Oct%202016%20SW%20Sampling_12.16.pdf"
+        present: true
+
+  - title: Groundwater Monitoring Report May 2016
+    document_type: Monitoring Report
+    date_completed: 7/21/2016
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60411909"
+    files:
+      - name: S9800-01-17A Caltrans Modesto Stockpiles GW_06 16.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/7665469110/S9800-01-17A%20Caltrans%20Modesto%20Stockpiles%20GW_06%2016.pdf"
+        present: true
+
+  - title: "Caltrans/DTSC Interagency Agreement No. 43A0310, DTSC # 12-T0106 , Task Order 4, Amendment 1"
+    document_type: Consultative Service Agreement
+    date_completed: 6/17/2016
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&enforcement_id=60411117"
+    files:
+      - name: 43A0310-04 A01 Executed (2).pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/3507734537/43A0310-04%20A01%20Executed%20(2).pdf"
+        present: true
+
+  - title: "Interagency Agreement Task Oder #4 Amendment No. 1 ( Consultation Agreement DTSC#12-T0106 Amendment No.1"
+    document_type: Amendment - Order/Agreement
+    date_completed: 6/17/2016
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&enforcement_id=60411897"
+    files:
+      - name: 43A0310-04 A01 Executed.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/8184162735/43A0310-04%20A01%20Executed.pdf"
+        present: true
+
+  - title: "Surface Water Monitoring Report March 5, 2016"
+    document_type: Monitoring Report
+    date_completed: 5/11/2016
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60411918"
+    files:
+      - name: S9800-01-17A Modesto Stockpiles Mar 5 2016 Stormwater Samplng_04 16.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/3517031610/S9800-01-17A%20Modesto%20Stockpiles%20Mar%205%202016%20Stormwater%20Samplng_04%2016.pdf"
+        present: true
+
+  - title: "Surface Water Sampling Report December 11, 2015"
+    document_type: Monitoring Report
+    date_completed: 3/9/2016
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60411916"
+    files:
+      - name: S9800-01-17A Modesto Stockpiles Dec 11 2015 Stormwater Sampling Report_02.16.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/9557041764/S9800-01-17A%20Modesto%20Stockpiles%20Dec%2011%202015%20Stormwater%20Sampling%20Report_02.16.pdf"
+        present: true
+
+  - title: "Surface Water Sampling Report January 6, 2016"
+    document_type: Monitoring Report
+    date_completed: 3/3/2016
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60411914"
+    files:
+      - name: S9800-01-17A Modesto Stockpiles Jan 6 2016 Stormwater Smplng 0216.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/1695677042/S9800-01-17A%20Modesto%20Stockpiles%20Jan%206%202016%20Stormwater%20Smplng%200216.pdf"
+        present: true
+
+  - title: "Caltrans Modesto Soil Stockpiles , SR 132 Groundwater Monitoring Report - April 2015"
+    document_type: Monitoring Report
+    date_completed: 7/30/2015
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60397118"
+    files:
+      - name: S9800-01-17 Caltrans Modesto Stockpiles GW_06.15.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/2760760247/S9800-01-17%20Caltrans%20Modesto%20Stockpiles%20GW_06.15.pdf"
+        present: true
+
+  - title: Preliminary Nonbinding Allocation of Responsibility
+    document_type: Correspondence
+    date_completed: 5/18/2015
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&enforcement_id=60384186"
+    files:
+      - name: 5.18.2015 - Final Caltrans Cover Letter Revised Administrative Record Caltrans Modesto SoilStockpiles.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/2640324234/5.18.2015%20-%20Final%20Caltrans%20Cover%20Letter%20Revised%20Administrative%20Record%20Caltrans%20Modesto%20SoilStockpiles.pdf"
+        present: true
+
+  - title: "Groundwater Monitoring Report, June 2014"
+    document_type: Monitoring Report
+    date_completed: 10/6/2014
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60383026"
+    files:
+      - name: S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/3790984928/S9800-01-17%20Modesto%20Stockpiles%20June%202014%20GW%20Mon%200814.pdf"
+        present: true
+
+  - title: Feasibility Study
+    document_type: Feasibility Study Report
+    date_completed: 6/30/2014
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60306494"
+    files:
+      - name: Final FS Letter.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/7499616861/Final%20FS%20Letter.pdf"
+        present: true
+      - name: S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/5478955924/S9800-01-17%20Modesto%20Soil%20Stockpiles%20Final%20FS%20Report.0614.pdf"
+        present: true
+
+  - title: "Groundwater Monitoring Report February 2014, Modesto Soil Stockpiles"
+    document_type: Monitoring Report
+    date_completed: 5/22/2014
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60360810"
+    files:
+      - name: S9800-01-17 Modesto Stockpiles Feb2014 GW Mon 0414.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/2470565617/S9800-01-17%20Modesto%20Stockpiles%20Feb2014%20GW%20Mon%200414.pdf"
+        present: true
+      - name: S9800-01-17 Modesto Stockpiles Feb2014 GW Mon 0414.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/8258181512/S9800-01-17%20Modesto%20Stockpiles%20Feb2014%20GW%20Mon%200414.pdf"
+        present: true
+
+  - title: Groundwater Monitoring Report December 2013 - Caltrans Modesto Soil Stockpiles
+    document_type: Monitoring Report
+    date_completed: 4/28/2014
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60358786"
+    files:
+      - name: S9800-01-17 Caltrans Modesto Stockpiles Dec 2013 GW Mon 0114.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/7755557000/S9800-01-17%20Caltrans%20Modesto%20Stockpiles%20Dec%202013%20GW%20Mon%200114.pdf"
+        present: true
+
+  - title: "Groundwater Monitoring Report, September 2013 - Caltrans Modesto Soil Stockpiles, Stanislaus County"
+    document_type: Monitoring Report
+    date_completed: 11/5/2013
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60341621"
+    files:
+      - name: S9525-01-44C Modesto Stockpiles GW September 2013 1013.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/2887418985/S9525-01-44C%20Modesto%20Stockpiles%20GW%20September%202013%201013.pdf"
+        present: true
+
+  - title: "Groundwater Monitoring Report, June 2013, Caltrans Modesto Soil Stockpiles, Stanislaus County"
+    document_type: Monitoring Report
+    date_completed: 7/9/2013
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60328594"
+    files:
+      - name: S9525-01-44B Modesto Stockpiles GW June 2013.0613.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/5135162174/S9525-01-44B%20Modesto%20Stockpiles%20GW%20June%202013.0613.pdf"
+        present: true
+      - name: S9525-01-44B Modesto Stockpiles GW June 2013.0613.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/8448933243/S9525-01-44B%20Modesto%20Stockpiles%20GW%20June%202013.0613.pdf"
+        present: true
+
+  - title: "Groundwater Monitoring Report, March 2013 - Caltrans Modesto Soil Stockpiles, Stanislaus County"
+    document_type: Monitoring Report
+    date_completed: 6/18/2013
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60325375"
+    files:
+      - name: S9525-01-44B Caltrans Modesto Stockpiles GW March 2013 0513.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/7531829655/S9525-01-44B%20Caltrans%20Modesto%20Stockpiles%20GW%20March%202013%200513.pdf"
+        present: true
+      - name: S9525-01-44B Caltrans Modesto Stockpiles GW March 2013 0513.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/5775587320/S9525-01-44B%20Caltrans%20Modesto%20Stockpiles%20GW%20March%202013%200513.pdf"
+        present: true
+
+  - title: "Caltrans/DTSC Interagency Agreement No. 43A0310, DTDC # 12-T0106 , Task Order 4"
+    document_type: Consultative Service Agreement
+    date_completed: 6/7/2013
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&enforcement_id=60325362"
+    files:
+      - name: Caltrans SR 132-99 Task Order 4.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/3345411539/Caltrans%20SR%20132-99%20Task%20Order%204.pdf"
+        present: true
+
+  - title: Supplemental Site Characterization Report
+    document_type: Remedial Investigation Report
+    date_completed: 4/4/2013
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60306464"
+    files:
+      - name: 7083_S9525-06-44 Modesto Soil Stockpiles Fenceline Workplan.0912.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/6687727212/7083_S9525-06-44%20Modesto%20Soil%20Stockpiles%20Fenceline%20Workplan.0912.pdf"
+        present: true
+      - name: 7084_S9525-06-44 Response to DTSC Workplan Comments.0912.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/6687727212/7084_S9525-06-44%20Response%20to%20DTSC%20Workplan%20Comments.0912.pdf"
+        present: true
+      - name: 09.20.2012 Final Caltrans Supplemental Site Characterization Workplan 2.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/1926075577/09.20.2012%20Final%20Caltrans%20Supplemental%20Site%20Characterization%20Workplan%202.pdf"
+        present: true
+      - name: 04 04 2013 Final  SSI and HHRA 8.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/8078811466/04%2004%202013%20Final%20%20SSI%20and%20HHRA%208.pdf"
+        present: true
+      - name: S9525-06-44 Modesto Stockpiles SSI Report Rev.0313.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/1030807316/S9525-06-44%20Modesto%20Stockpiles%20SSI%20Report%20Rev.0313.pdf"
+        present: true
+
+  - title: Updated Human Health Risk Assessment Report
+    document_type: Risk Assessment Report
+    date_completed: 4/4/2013
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60306488"
+    files:
+      - name: 04 04 2013 Final  SSI and HHRA 8.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/7444508194/04%2004%202013%20Final%20%20SSI%20and%20HHRA%208.pdf"
+        present: true
+      - name: S9525-06-44 HHRA UPDATE Rev.0313.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/6667617619/S9525-06-44%20HHRA%20UPDATE%20Rev.0313.pdf"
+        present: true
+
+  - title: "Addendum to Surface Water Sampling and Analysis Plan, Caltrans Modesto Soil Stockpiles, Stanislaus County"
+    document_type: Monitoring Plan
+    date_completed: 3/6/2013
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60318199"
+    files:
+      - name: S9525-06-44A Stormwater SAP Addendum 0213.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/1115676701/S9525-06-44A%20Stormwater%20SAP%20Addendum%200213.pdf"
+        present: true
+
+  - title: "Groundwater Monitoring Report - January 2013, Caltrans Modesto Soil Stockpiles, Stanislaus County"
+    document_type: Monitoring Report
+    date_completed: 3/6/2013
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60318334"
+    files:
+      - name: S9525-06-44A Caltrans Modesto Stockpiles GW 0213.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/7994550943/S9525-06-44A%20Caltrans%20Modesto%20Stockpiles%20GW%200213.pdf"
+        present: true
+
+  - title: "Groundwater Monitoring Report, November 2012, Caltrans Modesto Soil Stockpiles, Stanislaus County"
+    document_type: Monitoring Report
+    date_completed: 2/12/2013
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60316576"
+    files:
+      - name: S9525-06-44A Caltrans Modesto Stockpiles GW Nov2012 0213.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/1069946110/S9525-06-44A%20Caltrans%20Modesto%20Stockpiles%20GW%20Nov2012%200213.pdf"
+        present: true
+
+  - title: GW MONITORING REPORT - SEPTEMBER 2012
+    document_type: Monitoring Report
+    date_completed: 12/31/2012
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60313766"
+    files:
+      - name: S9525-06-44AModesto Stockpiles GW. SEPT2012.1212.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/esi/uploads/geo_report/1023862540/S9525-06-44AModesto%20Stockpiles%20GW.%20SEPT2012.1212.pdf"
+        present: true
+      - name: S9525-06-44AModesto Stockpiles GW  SEPT2012 1212.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/4560224771/S9525-06-44AModesto%20Stockpiles%20GW%20%20SEPT2012%201212.pdf"
+        present: true
+
+  - title: "Additional Well Installation and Groundwater Monitoring Report, June 2102, Modesto Soil Stockpiles SR 99 and 132"
+    document_type: Monitoring Report
+    date_completed: 11/29/2012
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60312528"
+    files:
+      - name: S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/4021619498/S9525-06-25%20Modesto%20Stockpiles%20Well%20Install%20and%20June%202012%20GW%20Report%201112.pdf"
+        present: true
+      - name: 11 29 2012 Caltrans GND Water Monitoring Rpts.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/4949552774/11%2029%202012%20Caltrans%20GND%20Water%20Monitoring%20Rpts.pdf"
+        present: true
+
+  - title: "Groundwater Monitoring Report, July 2012, Modesto Soil Stockpiles, State Route 99 and 132"
+    document_type: Monitoring Report
+    date_completed: 11/29/2012
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60312530"
+    files:
+      - name: 7453_S9525-06-44_Modesto_Stockpiles_July_2012_GW_Report.1112.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/3486958146/7453_S9525-06-44_Modesto_Stockpiles_July_2012_GW_Report.1112.pdf"
+        present: true
+      - name: 11 29 2012 Caltrans GND Water Monitoring Rpts.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/5421905338/11%2029%202012%20Caltrans%20GND%20Water%20Monitoring%20Rpts.pdf"
+        present: true
+
+  - title: "Groundwater Monitoring Report. May 2102, Modesto Soil Stockpiles , State Route 99 and 132"
+    document_type: Monitoring Report
+    date_completed: 11/29/2012
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60312504"
+    files:
+      - name: S9525-06-44A May 2012 GW Report 1112.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/9554746866/S9525-06-44A%20May%202012%20GW%20Report%201112.pdf"
+        present: true
+      - name: 11 29 2012 Caltrans GND Water Monitoring Rpts.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/6672149479/11%2029%202012%20Caltrans%20GND%20Water%20Monitoring%20Rpts.pdf"
+        present: true
+
+  - title: Supplemental Sampling and Analysis Plan
+    document_type: Site Characterization Workplan
+    date_completed: 9/20/2012
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60306453"
+    files:
+      - name: 7083_S9525-06-44 Modesto Soil Stockpiles Fenceline Workplan.0912.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/8471298038/7083_S9525-06-44%20Modesto%20Soil%20Stockpiles%20Fenceline%20Workplan.0912.pdf"
+        present: true
+      - name: 7084_S9525-06-44 Response to DTSC Workplan Comments.0912.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/8471298038/7084_S9525-06-44%20Response%20to%20DTSC%20Workplan%20Comments.0912.pdf"
+        present: true
+
+  - title: "State Route 132 West Expressway/Freeway (Caltrans Soil Stockpiles), Modesto, Stanislaus County - Ramp"
+    document_type: Correspondence
+    date_completed: 8/30/2012
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&enforcement_id=60292901"
+    files:
+      - name: 08.30.2012 Caltrans Ramp5_srb RAdocx_srb 8_15_12_JS081612 RA4.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/1047169327/08.30.2012%20Caltrans%20Ramp5_srb%20RAdocx_srb%208_15_12_JS081612%20RA4.pdf"
+        present: true
+      - name: Caltrans Ramp Clarification Letter dated 8.24.12 .pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/6918812394/Caltrans%20Ramp%20Clarification%20Letter%20dated%208.24.12%20.pdf"
+        present: true
+      - name: Caltrans Ramp Letter dated 5.29.12.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/6918812394/Caltrans%20Ramp%20Letter%20dated%205.29.12.pdf"
+        present: true
+      - name: S9650-06-03 Modesto Ramp Ex Mon Plan -no appx-0612.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/4955555558/S9650-06-03%20Modesto%20Ramp%20Ex%20Mon%20Plan%20-no%20appx-0612.pdf"
+        present: true
+      - name: S9650-06-03 MODESTO RAMP WORKPLAN.0412.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/4955555558/S9650-06-03%20MODESTO%20RAMP%20WORKPLAN.0412.pdf"
+        present: true
+
+  - title: "State Route 132 West Expressway/Freeway (Caltrans Soil Stockpiles), Modesto, Groundwater Monitoring Rpt. March 2012"
+    document_type: Monitoring Report
+    date_completed: 6/27/2012
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&doc_id=60302407"
+    files:
+      - name: S9525-06-44 Modesto Stockpiles GW.0612.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/3290557682/S9525-06-44%20Modesto%20Stockpiles%20GW.0612.pdf"
+        present: true
+      - name: GND Water Monitoring Rpt March 2102.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/2969088494/GND%20Water%20Monitoring%20Rpt%20March%202102.pdf"
+        present: true
+
+  - title: "Consultant Agreement: 43A02060 Caltrans/DTSC ( DTSC 308-T3616) - Task Order 6, Caltrans Modesto Soil Stockpiles, SR 132/99"
+    document_type: Consultative Service Agreement
+    date_completed: 5/23/2012
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&enforcement_id=60306441"
+    files:
+      - name: Caltrans -DTSC Agreement.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/6350662052/Caltrans%20-DTSC%20Agreement.pdf"
+        present: true
+
+  - title: "California Department of Transportation's Response to Department of Toxic Substances Control's Letter dated 3/1/2012"
+    document_type: Correspondence
+    date_completed: 3/23/2012
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&enforcement_id=60294449"
+    files:
+      - name: Caltrans  Response3.24.2012.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/6731475651/Caltrans%20%20Response3.24.2012.pdf"
+        present: true
+
+  - title: "State Route 132 West Expressway/Freeway (Caltrans Soil Stockpiles), Modesto, Stanislaus County - DTSC 3/1/2012 Letter"
+    document_type: Correspondence
+    date_completed: 3/1/2012
+    subpage_url: "https://www.envirostor.dtsc.ca.gov/public/final_documents2?global_id=60001626&enforcement_id=60292902"
+    files:
+      - name: 03.01.2012 SR 132 west Expressway Followup5_srb.RA.pdf
+        url: "https://www.envirostor.dtsc.ca.gov/public/deliverable_documents/9170989811/03.01.2012%20SR%20132%20west%20Expressway%20Followup5_srb.RA.pdf"
+        present: true
+
+# ─────────────────────────────────────────────
+# Community Involvement Documents (separate section on the EnviroStor site)
+# These are public notices, fact sheets, EIR appendices, etc.
+# Each entry is a folder page containing one or more PDFs.
+# The individual files need to be scraped from each folder URL.
+# ─────────────────────────────────────────────
+community_involvement_documents:
+
+  - title: "Draft Final Remedial Action Plan, Caltrans Modesto Soil Stockpiles, State Route 132 - West Freeway/Expressway Project, Stanislaus County, California"
+    folder_url: "https://www.envirostor.dtsc.ca.gov/public/community_involvement_documents?global_id=60001626&document_folder=+4904194474"
+    files:
+      - name: "S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan.Revised_10.14.pdf"
+        url: "https://www.envirostor.dtsc.ca.gov/public/view_document.asp?docurl=/public/community_involvement/4904194474/S9800%2D01%2D17%20Modesto%20Stockpiles%20Draft%20Final%20Remedial%20Action%20Plan%2ERevised%5F10%2E14%2Epdf"
+        present: true
+
+  - title: "Draft Final Remedial Action Plan - Updated Implementation Schedule"
+    folder_url: "https://www.envirostor.dtsc.ca.gov/public/community_involvement_documents?global_id=60001626&document_folder=+3738133072"
+    files: []
+
+  - title: "State Route 132 West Freeway/Expressway Project - Draft Environmental Impact Report/Environmental Assessment and Draft Final Remedial Action Plan"
+    folder_url: "https://www.envirostor.dtsc.ca.gov/public/community_involvement_documents?global_id=60001626&document_folder=+3714649796"
+    files: []
+
+  - title: "Public Notice (Spanish) - Department of Toxic Substances Control Approves Remedial Action Plan for Caltrans Modesto Soil Stockpiles, State Route 132 West Freeway/Expressway"
+    folder_url: "https://www.envirostor.dtsc.ca.gov/public/community_involvement_documents?global_id=60001626&document_folder=+6284626603"
+    files: []
+
+  - title: "Public Notice - Department of Toxic Substances Control Approves Remedial Action Plan for Caltrans Modesto Soil Stockpiles, State Route 132 West Freeway/Expressway"
+    folder_url: "https://www.envirostor.dtsc.ca.gov/public/community_involvement_documents?global_id=60001626&document_folder=+2138661026"
+    files: []
+
+  - title: "Notice of Availability - Final Environmental Impact Report/Environmental Assessment With Finding of No Significant Impact And Draft Final Remedial Action Plan – State Route 132 West Freeway/Expressway Project, March 2018"
+    folder_url: "https://www.envirostor.dtsc.ca.gov/public/community_involvement_documents?global_id=60001626&document_folder=+4938232243"
+    files: []
+
+  - title: "PUBLIC NOTICE (SPANISH) - PUBLIC HEARING AND PUBLIC COMMENT PERIOD"
+    folder_url: "https://www.envirostor.dtsc.ca.gov/public/community_involvement_documents?global_id=60001626&document_folder=+1187656998"
+    files: []
+
+  - title: "PUBLIC NOTICE - PUBLIC HEARING AND PUBLIC COMMENT PERIOD"
+    folder_url: "https://www.envirostor.dtsc.ca.gov/public/community_involvement_documents?global_id=60001626&document_folder=+5290089249"
+    files: []
+
+  - title: "PUBLIC NOTICE - PUBLIC HEARING AND PUBLIC COMMENT PERIOD (duplicate entry)"
+    folder_url: "https://www.envirostor.dtsc.ca.gov/public/community_involvement_documents?global_id=60001626&document_folder=+3437107682"
+    files: []
+
+  - title: "Approval of Remedial Action Plan, Caltrans Modesto Soil Stockpiles, State Route 132 West Freeway/Expressway Project"
+    folder_url: "https://www.envirostor.dtsc.ca.gov/public/community_involvement_documents?global_id=60001626&document_folder=+1045796036"
+    files: []
+
+  - title: "Final Remedial Action Plan, Caltrans Modesto Soil Stockpiles, State Route 132 West Freeway/Expressway Project"
+    folder_url: "https://www.envirostor.dtsc.ca.gov/public/community_involvement_documents?global_id=60001626&document_folder=+1267857193"
+    files: []
+
+  - title: "Response to Public Comments For Draft Final Remedial Action Plan, Caltrans Modesto Soil Stockpiles, State Route 132 West Freeway/Expressway Project"
+    folder_url: "https://www.envirostor.dtsc.ca.gov/public/community_involvement_documents?global_id=60001626&document_folder=+6907002091"
+    files: []
+
+  - title: "Final Environmental Impact Report/Environmental Assessment With Finding of No Significant Impact And Draft Final Remedial Action Plan – State Route 132 West Freeway/Expressway Project, March 2018 (Vol. 2 of 2, Appendix A-G)"
+    folder_url: "https://www.envirostor.dtsc.ca.gov/public/community_involvement_documents?global_id=60001626&document_folder=+6367161393"
+    files: []
+
+  - title: "Final Environmental Impact Report/Environmental Assessment With Finding of No Significant Impact And Draft Final Remedial Action Plan – State Route 132 West Freeway/Expressway Project, March 2018 (Vol. 2 of 2, Appendix H-K)"
+    folder_url: "https://www.envirostor.dtsc.ca.gov/public/community_involvement_documents?global_id=60001626&document_folder=+6094425797"
+    files: []
+
+  - title: "Final Environmental Impact Report/Environmental Assessment With Finding of No Significant Impact And Draft Final Remedial Action Plan – State Route 132 West Freeway/Expressway Project, March 2018, (Vol. 1 of 2)"
+    folder_url: "https://www.envirostor.dtsc.ca.gov/public/community_involvement_documents?global_id=60001626&document_folder=+3183460831"
+    files: []
+
+  - title: "Public Hearing Summary Report - State Route 132 West Freeway/Expressway Project, City of Modesto, Stanislaus County, California"
+    folder_url: "https://www.envirostor.dtsc.ca.gov/public/community_involvement_documents?global_id=60001626&document_folder=+2373631119"
+    files: []
+
+  - title: "Fact Sheet (Spanish) - Draft Final Remedial Action Plan, Caltrans Modesto Soil Stockpiles, State Route 132 West Freeway/Expressway Project"
+    folder_url: "https://www.envirostor.dtsc.ca.gov/public/community_involvement_documents?global_id=60001626&document_folder=+1514912247"
+    files: []
+
+  - title: "Fact Sheet - Draft Final Remedial Action Plan, Caltrans Modesto Soil Stockpiles, State Route 132 West Freeway/Expressway Project"
+    folder_url: "https://www.envirostor.dtsc.ca.gov/public/community_involvement_documents?global_id=60001626&document_folder=+7302647233"
+    files: []
