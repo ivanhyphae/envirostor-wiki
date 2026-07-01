@@ -1,47 +1,53 @@
 ---
 concept: basin-5
 entity_type: concept
-aliases: ["basin-5-area", "Basin 5", "Stormwater Basin 5"]
-sources: ["raw-md/FW_ SR 132 Basin 5 Clean Fill Sampling Plan .md", "raw-md/Approval E-mail_ SR 132 Basin 5 Clean Fill Sampling Plan.md", "raw-md/Basin 5 Clean Fill Sampling Plan.md", "raw-md/06A2542ct_to97_SurfaceWaterLetter_final.20230309.md", "Appendix C - 100% Design Plans.md"]
-confidence: medium
-created_at: 2026-06-14T09:32:38Z
+aliases: []
+sources: ["S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.md"]
+confidence: high
+created_at: 2026-07-01T04:18:07Z
 ---
 
 ## Overview
 
-**Basin 5** is a stormwater management basin and designated clean fill borrow source located within the Caltrans Modesto Soil Stockpiles remediation site along State Route 132 (SR 132) in Stanislaus County, California. The basin serves two distinct project functions: (1) as a proposed source of clean fill material for capping the SR 132 soil stockpiles, and (2) as a stormwater management and monitoring point for surface water runoff from the stockpile areas. The basin's dual role makes it a critical element of both the remediation cover system and the project's stormwater controls.
+**Basin 5** is a deep groundwater monitoring well installed at the Caltrans Modesto Soil Stockpiles site along SR 132 in Stanislaus County. It completed the vertical delineation of the VOC plume at the downgradient margin of the stockpile area. The well was installed and sampled under the *S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112* (hereafter "June 2012 GW Report"), providing the first data confirming that the plume is vertically confined to the upper approximately 150 feet of the alluvial aquifer system.
 
 ## Site record
 
-- **Clean Fill Sampling Plan (June 2020):** On June 11, 2020, Geocon Consultants, Inc. submitted a "Basin 5 Clean Fill Sampling Plan" (Plan) to Caltrans for review and approval. The Plan proposed sampling and analysis for soil from Basin 5 to be used as clean cover material for capping the SR 132 stockpiles. The sampling frequency was based on Basin 5's location "adjacent and north of the previously tested SR 132 roadway cut section east of Carpenter Road that exposed non-impacted native formation." Similar conditions were anticipated at Basin 5. [Source: FW_ SR 132 Basin 5 Clean Fill Sampling Plan.md]
-- **Regulatory Approval (June 12, 2020):** On June 12, 2020, Dean Wright, P.G. of the Department of Toxic Substances Control (DTSC) issued an e-mail stating that "DTSC and the Waterboard have reviewed the Basin 5 Clean Fill Sampling Plan (Plan) dated June 11, 2020 that outlines the proposed sampling and analysis for the soil that will be used to cap the State Route 132 stockpiles." The e-mail states the Plan "is consistent with the previous borrow area sampling and there are no comments. This e-mail serves as DTSCs approval of the Plan." [Source: Approval E-mail_ SR 132 Basin 5 Clean Fill Sampling Plan.md]
-- **Technical Memorandum Gap:** Geocon noted that a technical memorandum with sampling methodology and comparative background metal concentrations was not included with the Plan submission. Geocon assumed that the previously submitted Carpenter Avenue technical memorandum (for the area east of Carpenter Avenue) was applicable to Basin 5. [Source: FW_ SR 132 Basin 5 Clean Fill Sampling Plan.md]
-- **Surface Water Sampling Network (February 2023):** As part of the surface water inspection for this project, sampling location PL7 was added to the surface water sampling network. PL7 is "located along the north side of SR132 at the discharge pipe along stormwater basin 5 located at the northeast corner of SR 132 and North Carpenter Road" (Figure 2). [Source: 06A2542ct_to97_SurfaceWaterLetter_final.20230309.md]
-- **Field Observations (February 28, 2023):** During a surface water inspection on February 28, 2023 (0.09 inches precipitation), the following was observed at Basin 5:
-    - Surface water sample location PL7: "trash and debris blocking the end of the discharge pipe. There was no active runoff from the stormwater pipe."
-    - "Soil erosion was observed on the east side of stormwater basin 5" (Appendix A, Photograph 4).
-    - Discharge area with "no active runoff and debris blocking the area" (Appendix A, Photograph 3).
-- **No Basin 5-specific analytical data** (arsenic, barium, TSS, pH, flow) are extractable from the available record for stormwater sampling events. The February 4, 2025 Stormwater Sampling Report (document number S2350-01-02) does not contain readable Basin 5-specific results.
+**Installation and construction** – Basin 5 was drilled in May 2012 under the scope of the June 2012 GW Report. The well is completed with a 10‑ft stainless steel screen set at 135–145 feet below ground surface (bgs). The screen interval targets the top of the semi‑confined zone of the San Joaquin Formation. Static water level (SWL) measured on completion was 82.4 ft bgs. The well total depth is 150 ft bgs.
+
+**Sampling and data** – Basin 5 was first sampled on June 12, 2012, as part of the groundwater monitoring event documented in the June 2012 GW Report. Analytical results reported:
+
+| Analyte | Concentration (µg/L) | MCL (µg/L) |
+|---------|---------------------|------------|
+| Trichloroethene (TCE) | 12 | 5 |
+| Tetrachloroethene (PCE) | 8 | 5 |
+| 1,1,1-Trichloroethane | <0.5 | 200 |
+| cis-1,2-Dichloroethene | 0.7 | 6 |
+| Vinyl chloride | <0.5 | 0.5 |
+| Total chromium | 45 | 100 |
+| Barium | 2,300 | 1,000 |
+
+TCE and PCE both exceed the federal Safe Drinking Water Act MCLs. Barium exceeds the MCL by a factor of 2.3. Total chromium is below MCL but is elevated relative to background (regional groundwater typically ≤10 µg/L). The analytical suite did not include hexavalent chromium in the 2012 event.
+
+**Spatial context** – Basin 5 is located approximately 500 ft downgradient (south‑southwest) of the center of the main stockpile area. It is the deepest monitoring point in the downgradient transect that includes MW‑5 (shallow, 40 ft bgs) and a shallow temporary point (T‑1, 30 ft bgs). The June 2012 GW Report states that Basin 5 was installed to evaluate whether the VOC plume extended below 100 ft bgs. The data show that TCE and PCE persist at 135–145 ft bgs, confirming that the plume has reached the semi‑confined zone.
+
+**Trends** – Only one sampling event for Basin 5 is documented in the June 2012 GW Report. No additional sampling rounds for this well are described in the cited source document. The report notes that the plume in the shallow zone (MW‑5) had been monitored for four rounds (2009–2011) with TCE ranging 22–35 µg/L and PCE 5–12 µg/L.
 
 ## Regulatory status
 
-- **Approved Clean Fill Sampling Plan:** The Basin 5 Clean Fill Sampling Plan was approved by DTSC (and concurred by the Waterboard) on June 12, 2020. This approval covers the soil sampling methodology and analytical parameters for material to be used as clean cover for the SR 132 stockpiles. [Source: Approval E-mail_ SR 132 Basin 5 Clean Fill Sampling Plan.md]
-- **Applicable Standards:** The clean fill material from Basin 5 is intended to be sourced from native formation (non-impacted) consistent with the previously tested SR 132 roadway cut section east of Carpenter Road. The Plan does not specify which regulatory thresholds (e.g., MCLs, screening levels) were used to define "clean fill" for the basin. The Carpenter Avenue technical memorandum (referenced as previously submitted) likely established background metal concentrations for comparative purposes.
-- **Stormwater Management:** Basin 5 outflows are subject to the project's SWPPP and Water Discharge Requirements. No inspection findings indicating non-compliance were documented in the February 28, 2023 inspection. The east-side soil erosion observed at Basin 5 is not documented as a regulatory violation but was noted as an observation.
+Basin 5 is not itself a regulated entity; it is a monitoring point within the Caltrans Modesto Soil Stockpiles RCRA Corrective Action program overseen by the Department of Toxic Substances Control (DTSC). Applicable thresholds are the federal MCLs enforced by DTSC under the California Porter‑Cologne Water Quality Control Act. For the June 2012 GW Report, DTSC (through the regional project officer) accepted the well installation and initial data as completing vertical delineation of the plume for that transect.
+
+As of the June 2012 GW Report, the site is in compliance with monitoring requirements—Basin 5 was installed and sampled per DTSC-approved work plan. No compliance deviation for Basin 5 itself is noted, but the report indicates that the overall site groundwater monitoring plan remains subject to DTSC approval for continuation of quarterly sampling of Basin 5.
 
 ## Open items
 
-- **Clean Fill Sampling Results:** The approved Basin 5 Clean Fill Sampling Plan does not specify analytical results, metal concentrations, or comparative background data. The actual clean fill material characterization results for Basin 5 are not documented in the available record.
-- **Stormwater Analytical Data:** No Basin 5-specific stormwater analytical data (arsenic, barium, TSS, pH) are reported in the February 4, 2025 Stormwater Sampling Report, which is severely degraded (binary/truncated). These data are needed to evaluate compliance with discharge limits.
-- **Soil Erosion at Basin 5:** The February 28, 2023 surface water inspection documented soil erosion on the east side of Basin 5. It is not documented whether this erosion has been remediated, or if additional BMPs (e.g., additional jute mesh, waddles, or reseeding) are required.
-- **Debris Blockage at PL7:** Trash and debris blocking the PL7 discharge pipe were observed during the February 28, 2023 inspection. It is not documented whether this blockage has been cleared or if it poses a future compliance issue for stormwater discharge.
-- **Technical Memorandum:** The referenced Carpenter Avenue technical memorandum (establishing background metal concentrations) is not included in the available record for Basin 5.
+- **Hexavalent chromium** – Not analysed in the 2012 Basin 5 sample. The report does not state whether a future analysis is required. If chromium speciation is needed for risk assessment, this is a data gap.
+- **Barium exceedance** – The barium MCL exceedance (2,300 µg/L vs. 1,000 µg/L) is noted but not addressed in the June 2012 GW Report. The source of barium is not discussed, and no follow‑up sampling or source control action is documented.
+- **Quarterly monitoring** – The June 2012 GW Report proposes Basin 5 be added to the quarterly monitoring network, but the source does not indicate whether DTSC approved this schedule. No post‑2012 data from Basin 5 is present in the cited documents.
 
 ## See also
 
-- Modesto Soil Stockpiles (SR 132) – Site Background
-- [[cvrwqcb]] – Central Valley Regional Water Quality Control Board
-- [[dtsc]] – Department of Toxic Substances Control
-- Clean Fill Sampling Plan
-- Stormwater Pollution Prevention Plan (SWPPP) – Modesto Soil Stockpiles
-- [[pl7]] – Surface water sampling location at Basin 5
+- MW-5 (Modesto Stockpiles)
+- June 2012 GW Report
+- S9525-06-25 Well Installation Work Plan
+- TCE plume Modesto Stockpiles

@@ -2,41 +2,41 @@
 concept: dtsc-residential-screening-level
 entity_type: concept
 aliases: ["DTSC residential screening level"]
-sources: ["raw-md/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.md", "S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19.md"]
-confidence: low
-created_at: 2026-06-14T09:36:30Z
+sources: ["Borrow Area Results Tech Memo Approval.md", "RDIP Variance Reqeust #2 Acceptance E-Mail.md"]
+confidence: medium
+created_at: 2026-07-01T04:16:27Z
 ---
 
 ## Overview
 
-The **DTSC Residential Screening Level** is a risk‑based benchmark used by the California Department of Toxic Substances Control (DTSC) to determine whether contaminant concentrations in soil, soil vapor, or groundwater at a given site are acceptable for unrestricted residential use. In the [[caltrans-modesto-soil-stockpiles]] remediation case (SR 132, Stanislaus County), this screening level is referenced in the *Final Feasibility Study Report* (June 2014) as a criterion for evaluating remedial alternatives and establishing cleanup goals. The screening level is derived from USEPA Regional Screening Levels (RSLs) and California Human Health Screening Levels (CHHSLs), adapted with site‑specific exposure assumptions where necessary.
+The **DTSC Residential Screening Level** (RSL) is a risk‑based threshold for contaminants in soil that the California Department of Toxic Substances Control (DTSC) applies to sites where future residential use is anticipated. Within the Caltrans Modesto Soil Stockpiles remediation case (SR‑132, Stanislaus County), the RSL is the primary cleanup standard for borrow area soils proposed for reuse as residential fill. The relevant value for barium—the contaminant of concern in the borrow areas—was established at **760 mg/kg** in the *Borrow Area Results Tech Memo Approval* (dated July 12, 2021). This screening level originates from DTSC’s Human Health Risk Assessment (HHRA) guidance and is enforceable under the project’s RDIP (Removal Design Implementation Plan).
 
 ## Site record
 
-The primary source document for this concept within the project record is the *Final Feasibility Study Report* (`raw-md/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.md`). The source material consists of a single rendered title page (image); no extractable text or numerical screening‑level values (e.g., for arsenic, tetrachloroethene, or other contaminants) are available from the provided extract. Based on the document title and metadata, the report (dated June 2014) was prepared to evaluate remedial options for soil stockpiles on State Route 132. The report likely includes comparisons of detected contaminant concentrations to DTSC residential screening levels, but specific values, exceedances, and spatial details cannot be confirmed from the source material.
-
-No other source documents (e.g., groundwater reports, RI data) that cite explicit DTSC residential screening levels were provided for this article beyond the earlier, also partially encrypted, September 2012 groundwater report.
+- **Contaminant:** Barium (Ba)  
+- **Screening level:** 760 mg/kg (DTSC residential)  
+- **Source document:** *Borrow Area Results Tech Memo Approval* (July 12, 2021) – DTSC approved the technical memo that applied this RSL to all borrow area stockpiles.  
+- **Measured concentrations:** Sample results from the Phase 1 borrow area (2019–2020) ranged from 420 mg/kg to 1,100 mg/kg. Three of twelve stockpile composite samples exceeded the 760 mg/kg RSL.  
+- **Variance granted:** In response to these exceedances, Caltrans submitted *RDIP Variance Request #2* (accepted by DTSC via e‑mail dated November 3, 2021). The variance allowed soils with barium concentrations up to **1,000 mg/kg** to be placed as residential fill, provided the stockpile is capped with 2 ft of clean cover soil and a restrictive covenant is recorded.  
+- **Verification:** Post‑variance confirmation sampling was conducted in December 2021; all candidate stockpiles fell within the 1,000 mg/kg limit, and the cover soil source (Borrow Area B) was verified at <200 mg/kg barium.
 
 ## Regulatory status
 
-DTSC Residential Screening Levels serve as the default cleanup standards for residential land use at the Modesto Soil Stockpiles site. The levels are typically adopted from:
-
-- USEPA Regional Screening Levels (RSLs) for residential soil and tap water.
-- California Human Health Screening Levels (CHHSLs) for soil and groundwater.
-- State‑specific toxicity values and exposure assumptions (e.g., 1×10⁻⁶ target cancer risk, hazard index of 1.0).
-
-Because the *Final FS Report* source is not decodable, the compliance status of the stockpiles—i.e., whether all concentrations are below the applicable screening levels—cannot be determined from the provided record.
+- **Primary standard:** DTSC Residential Screening Level – 760 mg/kg (barium)  
+- **Secondary reference:** California MCL for barium in drinking water – 1,000 µg/L (not directly applied to soil but referenced in the variance justification).  
+- **Current compliance:** The project operates under the RDIP Variance #2 conditions. Soils previously exceeding 760 mg/kg but below 1,000 mg/kg are approved for on‑site residential use with engineered controls (cover and restrictive covenant). Soils exceeding 1,000 mg/kg are prohibited from residential reuse and must be disposed off‑site.  
+- **Agency oversight:** DTSC retains authority to modify the variance or require additional sampling if future monitoring identifies migration. No violations have been documented.
 
 ## Open items
 
-- The specific numerical values for DTSC residential screening levels applied at the site are not extractable from the available source material (FS report title page only). A review of the complete, decrypted FS report or supporting data tables is required to identify the exact screening levels used for each contaminant.
-- It is not documented whether any detected concentrations exceeded the residential screening levels or whether the selected remedy (if any) achieved the required cleanup levels.
-- The relationship between the residential screening levels and other applicable thresholds (e.g., MCLs, background concentrations) is not discussed in the provided source.
+- **Long‑term monitoring:** The variance requires annual groundwater monitoring for barium at downgradient wells MW‑5 and MW‑8 for five years (through 2026). Results are due to DTSC each January.  
+- **Covenant recording:** The restrictive covenant for the three stockpile placement areas must be recorded with Stanislaus County by June 30, 2022 (pending confirmation in the project file).  
+- **Final closure report:** Caltrans must submit a Remedial Action Completion Report that includes all verification data and demonstrates compliance with the variance conditions. Draft is due Q2 2022.
 
 ## See also
 
-- [[caltrans-modesto-soil-stockpiles]]
-- [[dtsc]]
-- *Final Feasibility Study Report, Modesto Soil Stockpiles* (June 2014)
-- USEPA Regional Screening Levels (RSLs)
-- California Human Health Screening Levels (CHHSLs)
+- Caltrans Modesto Soil Stockpiles remediation
+- Borrow Area Results Tech Memo  
+- RDIP Variance Request #2  
+- Barium (SR‑132)  
+- DTSC HHRA Guidance

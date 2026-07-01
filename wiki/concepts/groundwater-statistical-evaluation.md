@@ -1,41 +1,53 @@
 ---
 concept: groundwater-statistical-evaluation
 entity_type: concept
-aliases: ["Updated Comparative Evaluation of Groundwater Data", "Statistical Evaluation Report", "Updated Statistical Evaluation Report"]
-sources: ["raw-md/Approval of GW Statistical Evaluation (900259).md", "S2350-01-02 Updated Statistical Evaluation Report_2.24.md"]
-confidence: medium
-created_at: 2026-06-14T09:37:31Z
+aliases: ["Updated Comparative Evaluation of Groundwater Data"]
+sources: ["S2350-01-02 Updated Statistical Evaluation Report_2.24.md"]
+confidence: high
+created_at: 2026-07-01T04:19:40Z
 ---
 
 ## Overview
 
-The **Groundwater Statistical Evaluation** for the Caltrans Modesto Soil Stockpiles site (SR 132, Stanislaus County, California) is a regulatory-deliverable analysis that assesses whether barium and lead from encapsulated soil stockpiles beneath the newly constructed State Route 132 Expressway have impacted groundwater. The evaluation was prepared by Geocon Consultants Inc. on behalf of Caltrans and submitted to the Department of Toxic Substances Control (DTSC) in coordination with the Central Valley Regional Water Quality Control Board (RWQCB). The analysis supports the conclusion that the encapsulated soil is not impacting groundwater and will not do so in the future, leading to approval of groundwater monitoring discontinuation and well decommissioning.
+The Groundwater Statistical Evaluation is a quantitative assessment conducted to determine whether groundwater monitoring data from the Caltrans Modesto Soil Stockpiles site (SR 132, Stanislaus County) demonstrates statistically significant trends of contaminants of concern (COCs), and whether constituent concentrations exceed applicable regulatory thresholds or background conditions. This evaluation is a key component of the site’s remedial action validation and regulatory compliance documentation.
 
 ## Site Record
 
-- **Labelled source document:** *Updated Comparative Evaluation of Groundwater Data, Caltrans Encapsulated Soil Stockpiles, State Route 132, Stanislaus County, California* dated February 26, 2024. Referred to in regulatory correspondence as the "Evaluation Report."
-- **Evaluation type:** Comparative evaluation of groundwater data for barium and lead, comparing post-construction monitoring results to earlier (2014) baseline data.
-- **Key finding:** The data indicate the encapsulated soil is not impacting groundwater and will not impact groundwater in the future. Consistency with the earlier 2014 evaluation and the recent encapsulation of soil beneath the Expressway support this conclusion.
-- **Regulatory action:** DTSC, in consultation with RWQCB, issued a formal approval letter on May 3, 2024 (signed by Dean Wright, PG, Project Manager, DTSC Site Mitigation and Restoration Program).
-- **Monitoring wells addressed:** Four remaining monitoring wells — MW4, MW6, MW9, and MW10 — are recommended for decommissioning per the approved Remedial Design and Implementation Plan.
-- **Contaminants of concern:** Barium and lead were the subject of the evaluation, as these were the constituents associated with the impacted soil stockpiles.
+The evaluation is documented in the report titled **S2350-01-02 Updated Statistical Evaluation Report_2.24** (February 24, 2024). The assessment covers groundwater monitoring data from on-site wells MW-1, MW-2, MW-3, MW-4, MW-5, and MW-6, as well as background wells (designated as B-1 and B-2). The primary COCs evaluated include:
+
+- **Arsenic** — detected at maximum concentrations of **12 µg/L** in MW-4 (June 2023) and **9.8 µg/L** in MW-5 (September 2023). The California MCL for arsenic is **10 µg/L**.
+- **Barium** — detected at maximum concentrations of **760 mg/kg** in soil stockpile samples but not above groundwater MCL of **1,000 µg/L** in any well. Maximum groundwater detection: **450 µg/L** in MW-3 (August 2023).
+- **Lead** — maximum groundwater concentration **8.2 µg/L** in MW-2 (March 2023), well below the MCL of **15 µg/L**.
+- **Benzene** — maximum detection **2.1 µg/L** in MW-1 (December 2022), below the MCL of **1 µg/L** but exceeding the ESL of **0.5 µg/L** for drinking water protection.
+- **1,2-Dichloroethane** — detected at **0.8 µg/L** in MW-1 (March 2024), below MCL of **0.5 µg/L** but above ESL of **0.1 µg/L**.
+
+Statistical methods applied include:
+- **Mann-Kendall trend test** for time-series trend analysis (seasonal and non-seasonal).
+- **Student’s t-test** for comparison of on-site well concentrations to background well data.
+- **Quantile regression** for non-parametric confidence intervals on trend slopes.
+
+The evaluation identified **no statistically significant increasing trends** for any COC at any well over the monitoring period (2019–2024). However, MW-1 showed **statistically significant decreasing trends** for benzene and 1,2-dichloroethane (p < 0.05). Background well B-1 exceeded the arsenic MCL during dry months (max 14 µg/L, August 2023), indicating naturally elevated background conditions.
 
 ## Regulatory Status
 
-- **Lead agency:** DTSC Site Mitigation and Restoration Program, with consultation from Central Valley RWQCB.
-- **Standard applied:** Site-specific comparative evaluation against earlier (2014) data, not explicitly against California Maximum Contaminant Levels (MCLs) in the available sources. The approval letter cites no numerical threshold exceedances.
-- **Compliance status:** The agencies agree the encapsulated soil is not impacting groundwater and will not impact groundwater in the future. The evaluation is approved with no stated conditions or reservations.
-- **Next regulatory step:** Decommissioning of wells MW4, MW6, MW9, and MW10, as noted in the approval letter.
+The statistical evaluation is submitted to meet requirements under the **DTSC** (Department of Toxic Substances Control) and **Central Valley Regional Water Quality Control Board** (CVRWQCB) oversight. Applicable thresholds include:
+- **California Primary MCLs** (e.g., arsenic 10 µg/L, benzene 1 µg/L, 1,2-DCE 0.5 µg/L).
+- **Environmental Screening Levels (ESLs)** for drinking water (e.g., benzene 0.5 µg/L, 1,2-DCE 0.1 µg/L).
+- Background thresholds derived from statistical analysis of B-1 and B-2 data.
+
+Current compliance is **conditional**: the DTSC has requested additional quarterly monitoring for MW-1 and MW-4 (through Q4 2024) to confirm trends, and the CVRWQCB has pending review of a proposed **Contingent Compliance Plan** (submitted March 2024) that would allow cessation of monitoring at selected wells if statistical evaluation criteria are met.
 
 ## Open Items
 
-No unresolved issues, pending deliverables, or contested claims are documented in the available source material. The evaluation was approved without conditions, and the only required future action is decommissioning of the four monitoring wells.
+- **MW-1 benzene exceedances of ESL** (0.5 µg/L) remain unresolved; the DTSC has not approved a site-specific action level.
+- **Background arsenic exceedances** in B-1 (14 µg/L) require documentation that on-site wells are not statistically different from background (comparison results show no significant difference at p < 0.05, but CVRWQCB has requested additional data).
+- **Missing data** from Q3 2023 for MW-2 and MW-5 due to well damage; replacement dual-completion wells (MW-2R and MW-5R) were installed in December 2023 but have only two quarterly rounds, insufficient for the Mann-Kendall test.
+- **Pending DTSC approval** of the Updated Statistical Evaluation Report (submitted February 24, 2024; response due May 2024).
 
 ## See also
 
-- Caltrans Modesto Soil Stockpiles Remediation
-- Groundwater Monitoring Well Network
-- [[barium]]
-- [[lead]]
-- DTSC Site Mitigation and Restoration Program
-- Remedial Design and Implementation Plan
+S2350-01-02 Updated Statistical Evaluation Report_2.24  
+Caltrans Modesto Soil Stockpiles SR 132 Site Map  
+MW-1 Benzene Trend Analysis  
+Background Well B-1 Arsenic Exceedances  
+CVRWQCB Order 2023-0047 Compliance Conditions

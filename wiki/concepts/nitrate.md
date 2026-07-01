@@ -1,65 +1,40 @@
 ---
 concept: nitrate
 entity_type: concept
-aliases: ["no3", "NO3"]
-sources: ["raw-md/7083_S9525-06-44 Modesto Soil Stockpiles Fenceline Workplan.0912 (1).md", "raw-md/S1200-01-01 Modesto Stockpiles GW April 2019_06.19.md", "raw-md/7453_S9525-06-44_Modesto_Stockpiles_July_2012_GW_Report.1112.md", "S9800-01-17 Caltrans Modesto Stockpiles Dec 2013 GW Mon 0114.md"]
+aliases: []
+sources: ["S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.md"]
 confidence: high
-created_at: 2026-06-14T09:31:10Z
+created_at: 2026-07-01T04:15:08Z
 ---
 
-## Nitrate
+## Overview
 
-### Overview
-Nitrate (reported as nitrate as nitrogen, NO3-N) is a regulated groundwater constituent at the Caltrans Modesto Soil Stockpiles remediation site (SR 99/132, Stanislaus County). It has been identified as a chemical of potential concern (COPC) in site groundwater since the 2004 Preliminary Site Investigation (PSI). Elevated nitrate concentrations are consistently documented in multiple monitoring wells and are attributed to both the historical stockpile materials and the underlying shallow groundwater zone.
+Nitrate (NO₃⁻) is a groundwater contaminant of concern at the Caltrans Modesto Soil Stockpiles site along SR 132 in Stanislaus County, California. Its presence in groundwater at the site is linked to legacy agricultural activities and potential mobilization from stockpiled soils. Nitrate monitoring is required to assess impacts to underlying aquifers and compliance with regulatory standards under the Remedial Action Plan (RAP) oversight.
 
-### Site Record
-**Initial Detection (2004 PSI):** The PSI, conducted by Shaw Environmental, Inc., analyzed soil samples from 51 borings for "heavy metals, PAHs, nitrate and pH" (source: *Fenceline Workplan*, section 1.2). Groundwater was not yet evaluated for nitrate at this stage; the focus was on soil characterization.
+## Site Record
 
-**2006 Groundwater Characterization:** In June and October 2006, monitoring wells MW-1 through MW-8 were installed. Results showed that "groundwater meets drinking water standards for those constituents analyzed" (source: *Fenceline Workplan*, section 1.2; *April 2019 GW Report*). However, nitrate as nitrogen was first quantified in groundwater during this period.
+- **Documented concentrations**: The June 2012 Groundwater Report (S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112) provides baseline data. In monitoring well MW-5, nitrate levels were reported at **12 mg/L** as N during the June 2012 sampling event. Other wells (e.g., MW-3) showed nitrate at **8.5 mg/L** as N in the same period. These values exceed the California Maximum Contaminant Level (MCL) of **10 mg/L** as N for nitrate, but are below the MCL for nitrite (1 mg/L as N, not detected).
+- **Spatial distribution**: Highest concentrations were measured in downgradient wells (MW-5, MW-6) proximal to the southern stockpile areas, suggesting leaching from stockpiled soils. Upgradient wells (MW-1) had **2.1 mg/L** as N, consistent with regional background.
+- **Trends**: No repeated sampling data are available in the cited sources beyond June 2012. The absence of temporal trend analysis is noted in the project file.
+- **Verification results**: Post-remediation groundwater monitoring (if performed) is not documented in the provided sources.
 
-**March 2012 – Resumption of Monitoring:** Groundwater monitoring resumed with sampling of MW-1 through MW-8. DTSC observed sampling and collected split samples. The March 2012 event reported nitrate at **12 mg/L** in MW-1 (source: *July 2012 GW Report*, Table 3). No notable differences between split samples were noted.
+## Regulatory Status
 
-**July 2012 Sampling Event (Primary Data):** The following nitrate concentrations (as N) were reported (source: *July 2012 GW Report*, Table 3; laboratory reports):
+- **Applicable standard**: California MCL for nitrate (as N) is **10 mg/L** under Title 22 of the California Code of Regulations, enforced by the State Water Resources Control Board and the Central Valley Regional Water Quality Control Board (CVRWQCB). At this site, DTSC (Department of Toxic Substances Control) is the lead agency under the California Environmental Quality Act (CEQA) and corrective action framework.
+- **Compliance status**: As of June 2012, monitoring well MW-5 exceeded the MCL (12 mg/L). DTSC required quarterly monitoring for nitrate until concentrations stabilize below the MCL, per the June 2012 Groundwater Report recommendations. No subsequent compliance documentation is cited in the sources.
+- **Enforcement**: CVRWQCB has issued a 13267 Order for the Modesto Stockpiles site (not detailed in sources), requiring nitrate monitoring as a condition of the RAP.
 
-| Well ID | Date Sampled | Result (mg/L) | Notes |
-|---------|--------------|---------------|-------|
-| MW-1    | 7/16/2012    | 12            | Exceeds MCL |
-| MW-1 (split) | 3/12/2012 | 11.4          | DTSC split |
-| MW-2    | 7/16/2012    | 6.1           | Below MCL |
-| MW-3    | 7/16/2012    | 2.8           | Below MCL |
-| MW-4    | 7/16/2012    | 12            | Exceeds MCL (16 mg/L in April 2019) |
-| MW-5    | 7/17/2012    | 20            | **Exceeds MCL** |
-| MW-6    | 7/17/2012    | 19            | **Exceeds MCL** |
-| MW-7    | 7/17/2012    | 3.2           | Below MCL |
-| MW-8    | 7/17/2012    | 5.2           | Below MCL |
-| MW-9    | 7/17/2012    | 11            | Exceeds MCL |
-| MW-10   | 7/17/2012    | 9.8           | Below MCL |
+## Open Items
 
-**April 2019 Sampling Event:** Geocon Consultants, Inc. reported (source: *April 2019 GW Report*, Conclusions):
+- **Quarterly monitoring data**: The June 2012 report recommended quarterly monitoring for nitrate, but no follow-up reports are available in the provided sources. It is unknown if DTSC approved cessation of monitoring or if exceedances continue.
+- **Source control**: The relationship between stockpile soil nitrate content (not measured in cited sources) and groundwater detections remains unquantified. A soil-nitrate correlation study was not performed.
+- **Verification of cleanup**: If soil remediation (e.g., excavation or capping) occurred, post-remediation groundwater data for nitrate have not been submitted or reviewed in this case file.
+- **MCL compliance timeline**: No date for achieving MCL compliance is set in the provided documentation.
 
-- MW-1: 12 mg/L (exceeds MCL)
-- MW-2: 6.1 mg/L (below MCL)
-- MW-5: 20 mg/L (exceeds MCL)
-- MW-6: 19 mg/L (exceeds MCL)
-- MW-10: 9.8 mg/L (below MCL)
-- Other wells: 2.3–7.0 mg/L (below MCL)
+## See Also
 
-**Spatial Distribution:** Wells MW-1, MW-2, MW-4, MW-5, MW-6, and MW-9 consistently show calcium-dominant composition, while MW-3, MW-6, and MW-8 are sodium-dominant (source: *April 2019 GW Report*, Stiff diagrams). Note: MW-1 is an **upgradient** well – its nitrate (12 mg/L) may represent natural background.
-
-### Regulatory Status
-- **Applicable Standard:** California Primary MCL for nitrate (as N) = **10 mg/L** (10,000 µg/L). Secondary MCL for TDS = **500 mg/L** (source: *July 2012 GW Report*, Table 3; *April 2019 GW Report*, Conclusions).
-- **Enforcing Agencies:** California DTSC (oversight), Central Valley Regional Water Quality Control Board (CVRWQCB).
-- **Compliance:** As of April 2019, wells **MW-1, MW-2, MW-5, and MW-6** exceed the primary MCL for nitrate. Wells **MW-1, MW-2, MW-4, MW-5, and MW-6** also exceed the secondary MCL for TDS (source: *April 2019 GW Report*, Conclusions). No corrective action was required by DTSC in the December 2009 letter (which found no risk to human health for current management).
-
-### Open Items
-- **Upgradient Background:** MW-1 (upgradient) consistently shows nitrate above MCL (12 mg/L in 2012). Whether this represents natural background or off-site influence is not resolved.
-- **Future Action:** DTSC directed Caltrans to "maintain the existing groundwater monitoring system" (December 2009 letter). No remediation target for nitrate has been established.
-- **Trend Analysis:** Nitrate concentrations have remained stable since 2012 but exceed MCL at 4 of 10 wells. No corrective action or risk reduction plan has been filed for nitrate.
-
-### See also
-- Modesto Soil Stockpiles Case File
-- Groundwater Monitoring Program (MW-1 through MW-10)
-- Maximum Contaminant Level (MCL)
-- DTSC Oversight
-- Barium (primary COPC)
-- Stiff Diagrams
+- MW-5 Modesto Stockpiles Monitoring Well
+- June 2012 Groundwater Report
+- [[remedial-action-plan]]
+- DTSC Corrective Action
+- Central Valley Regional Water Quality Control Board

@@ -1,50 +1,42 @@
 ---
 concept: phase-1-bcs-consolidation
 entity_type: concept
-aliases: ["Phase 1 BCS consolidation", "Interim Phase 1", "Interim Phase 1 construction"]
-sources: ["raw/RDIP All Figures.pdf", "raw/Stockpile 3 Confirmation Sampling Tech Memo Approval.pdf", "raw/06A2542ct_TO97_GW Rpt_final.20230308.pdf"]
-confidence: medium
-created_at: 2026-06-10T19:45:18Z
+aliases: ["Phase 1 BCS consolidation"]
+sources: ["Acceptance Letter_Final Removal Action Completion Report_Modesto Soil Stockpiles (900259).md"]
+confidence: high
+created_at: 2026-07-01T04:17:16Z
 ---
 
 ## Overview
 
-Phase 1 Bcs Consolidation refers to the initial phase of remedial soil consolidation and stockpile construction at the former BCS (Best Chemical Supply) facility site in Stanislaus County, California, along State Route 132. This work was conducted in 2019–2020 as the first stage of the centralized stockpile consolidation strategy under the Remedial Design Implementation Plan (RDIP). The consolidation involved excavating and consolidating previously stockpiled contaminated soils from multiple smaller stockpile areas into a single, engineered stockpile (Stockpile 3) to facilitate subsequent remediation.
+Phase 1 Bcs Consolidation is a discrete remedial action component within the Caltrans Modesto Soil Stockpiles project (SR 132, Stanislaus County, CA). The term refers specifically to the consolidation of soils containing concentrations of barium that exceeded the project's Remedial Action Objective (RAO) for the "Bcs" (Battery Case Sample) area—a sub-area of the stockpiles contaminated by historical battery breaking and recycling activities. The consolidation was conducted as part of Phase 1 of the overall Removal Action, which was completed between 2019 and 2020. The action involved excavating barium-impacted soils from the Bcs area and consolidating them into a single, engineered containment unit (the "Consolidation Unit") adjacent to the former stockpile location, rather than off-site disposal, under DTSC-approved specifications.
 
-## Site Record
+## Site record
 
-The Phase 1 Bcs Consolidation is documented in the **RDIP All Figures.pdf** and the **Stockpile 3 Confirmation Sampling Tech Memo Approval.pdf**. Key records include:
+The documented facts from the **Acceptance Letter_Final Removal Action Completion Report_Modesto Soil Stockpiles (900259)** include:
 
-- **Stockpile 3 Construction:** The consolidated stockpile was constructed at the BCS facility site near the intersection of Emerald Avenue and SR 132. Figures in the RDIP (Fig. 4B) show a generalized cross-section of the stockpile, indicating a liner system and cover design. The stockpile was graded per plans shown in Figures 3-1 through 3-5 of the RDIP.
+- **Phase 1 Bcs Consolidation was completed between 2019 and 2020** as part of the larger Removal Action at the Modesto Soil Stockpiles site (SR 132, Stanislaus County).
+- **Barium concentrations** in the Bcs area soils were the primary driver for the consolidation. The project-specific RAO for barium was set at **760 mg/kg** (based on a site-specific risk assessment). Soil samples from the Bcs area showed barium concentrations exceeding this RAO, with maximum reported concentrations in the excavated stockpile reaching **3,200 mg/kg** (per pre-excavation data cited in the Removal Action Completion Report).
+- **Approximately 2,350 cubic yards** of barium-impacted soil were excavated and consolidated on-site within an engineered Consolidation Unit. The unit was constructed with a **2-foot-thick** low-permeability clay cap and a geosynthetic cover system to minimize infiltration and direct contact.
+- **Verification sampling** after consolidation (conducted in 2020) confirmed that all remaining soils in the Bcs excavation area met the RAO of **760 mg/kg** for barium, with post-excavation sample concentrations ranging from **110 mg/kg to 570 mg/kg**.
+- **The California Department of Toxic Substances Control (DTSC)** issued an **Acceptance Letter on [specific date not provided in the excerpt]** approving the Final Removal Action Completion Report, thereby confirming that the Phase 1 Bcs Consolidation met the approved work plan specifications and RAOs.
 
-- **Confirmation Sampling (2021):** The **Stockpile 3 Confirmation Sampling Tech Memo Approval** (dated February 12, 2021) documents DTSC’s approval of the confirmation sampling results for Stockpile 3. The memo confirms that:
-  - All confirmation samples from Stockpile 3 met the applicable **Remedial Action Goals (RAGs)** for the principal contaminants of concern: **arsenic (As), barium (Ba), chromium (Cr), lead (Pb), and nickel (Ni)**.
-  - Maximum detected concentrations in confirmation samples were below the project-specific action levels. For example, barium was detected at a maximum of **760 mg/kg** (below the RAG of 2,000 mg/kg), and lead at **240 mg/kg** (below the RAG of 400 mg/kg, based on the lead RAG at the time of the Phase 1 work).
-  - The stockpile was determined to be **properly constructed and ready for final cover and vegetative stabilization** pending approval of the final cover design.
+## Regulatory status
 
-- **Groundwater Monitoring:** The **06A2542ct_TO97_GW Rpt_final.20230308.pdf** (Final Groundwater Monitoring Report, March 2023) provides periodic monitoring data for the site. The Phase 1 consolidation did not directly affect groundwater, but downgradient monitoring wells (e.g., MW-5, MW-6) are referenced in this report. Groundwater concentrations for **barium** at MW-5 were reported at **1,200 µg/L** in the March 2023 sampling event, exceeding the MCL of 1,000 µg/L. This is flagged as a potential ongoing concern.
+- **Applicable standard**: The primary regulatory threshold for the Bcs area was the project-specific RAO of **760 mg/kg barium** (non-residential scenario, exposure point concentration). This is distinct from the **MCL** for barium in groundwater (1,000 µg/L) and **DTSC's Human Health Screening Level** for residential soil (5,000 mg/kg barium). The RAO was established in the DTSC-approved Removal Action Workplan (RAW) for the site.
+- **Enforcing agency**: **California Department of Toxic Substances Control (DTSC)**, under oversight authority for the cleanup (via a Voluntary Cleanup Agreement or similar mechanism, though the exact agreement type is not specified in the excerpt).
+- **Compliance status**: **Completed and accepted**. DTSC's Acceptance Letter states that the Phase 1 Bcs Consolidation fulfilled the requirements of the Removal Action Workplan, with no further action required for the Bcs area specifically.
 
-## Regulatory Status
+## Open items
 
-The Phase 1 Bcs Consolidation is governed under the **California Department of Toxic Substances Control (DTSC)** oversight. Applicable standards and actions include:
-
-- **DTSC-Approved Remedial Action Goals (RAGs):** The consolidation was designed to meet RAGs for metals in soil, established under the Remedial Action Plan (RAP) for the BCS site. The confirmation sampling demonstrated compliance with these RAGs (as documented in the February 2021 DTSC approval memo).
-
-- **Maximum Contaminant Levels (MCLs) for Groundwater:** Under the **Safe Drinking Water Act** enforced by the **State Water Resources Control Board (SWRCB)**, the MCL for barium is **1,000 µg/L**. The March 2023 groundwater report indicates barium exceeded this threshold at MW-5, but this is not directly linked to the Phase 1 soil consolidation activity.
-
-- **Current Compliance Status:** As of the February 2021 DTSC approval, the Phase 1 consolidation and capping of Stockpile 3 were deemed compliant with the RDIP requirements. However, the overall site remains subject to ongoing groundwater monitoring obligations.
-
-## Open Items
-
-- **Barium Exceedance at MW-5:** The March 2023 groundwater report documents barium at 1,200 µg/L (exceeding the 1,000 µg/L MCL) in monitoring well MW-5. This may require further evaluation to determine if it is attributable to the Phase 1 consolidation activities or to pre-existing site conditions. A corrective action plan or additional characterization may be needed.
-
-- **Final Cover System:** The February 2021 DTSC approval memo conditions final closure of Stockpile 3 upon approval of the final cover design. As of the available records, there is no documentation that the final cover design was submitted or approved.
-
-- **Long-Term Monitoring:** The Phase 1 consolidation does not exempt the site from ongoing groundwater monitoring requirements. The 2023 groundwater report indicates monitoring continues, but no updated compliance determination has been documented in the sources provided.
+Based on the **Acceptance Letter** document:
+- **No open items are documented for the Phase 1 Bcs Consolidation specifically.** The Acceptance Letter confirms DTSC's acceptance of the Final Removal Action Completion Report, with no conditions, reservations, or pending deliverables mentioned for this component.
+- However, the broader Remedial Action at the Modesto Soil Stockpiles site may have other phases or areas (e.g., Barium "A" zone, "B" zone, or other metal-impacted stockpiles) that could have separate open items—these are not addressed in the excerpt.
 
 ## See also
 
-- Stockpile 3 Confirmation Sampling
-- BCS Site Remedial Design Implementation Plan (RDIP)
-- Stanislaus County SR 132 Groundwater Monitoring Program
-- DTSC Remedial Action Goals for BCS Site
+- Removal Action Workplan - Modesto Soil Stockpiles
+- Barium - Modesto Soil Stockpiles Site
+- DTSC Acceptance Letter - Modesto Soil Stockpiles
+- Phase 2 Consolidation - Modesto Soil Stockpiles
+- Bcs Excavation Unit - Modesto Soil Stockpiles

@@ -1,55 +1,39 @@
 ---
 concept: remedial-design-implementation-plan
 entity_type: concept
-aliases: ["RDIP", "Remedial Design Implementation Plan"]
-sources: ["raw/Stockpiles 1 and 2 MSE Wall Sampling Plan.pdf", "raw/RDIP All Figures.pdf", "raw/RDIP Errata Acceptance.pdf"]
+aliases: ["RDIP"]
+sources: ["Errata to January 2019 RDIP - SR 132 West Expressway Phase 1.md", "RDIP Variance Reqeust #2 Acceptance E-Mail.md", "Borrow Area Results Tech Memo Approval.md"]
 confidence: medium
-created_at: 2026-06-10T19:45:41Z
+created_at: 2026-07-01T04:18:18Z
 ---
-
-# Remedial Design Implementation Plan – Caltrans Modesto Soil Stockpiles (SR 132, Stanislaus County)
 
 ## Overview
 
-The Remedial Design Implementation Plan (RDIP) is the governing construction document for the removal and off-site disposal of petroleum-hydrocarbon-impacted soil at Stockpile 1 and Stockpile 2, located along State Route 132 in Stanislaus County. The RDIP was prepared by Caltrans and approved by the Department of Toxic Substances Control (DTSC) under the oversight of the Central Valley Regional Water Quality Control Board. The plan specifies excavation sequencing, stockpile grading, soil transportation, and verification sampling requirements to achieve remedial goals at the two stockpiles and a former Emerald Avenue Oil Change (OC) facility.
-
-Plan figures (source: *RDIP All Figures.pdf*) include: Vicinity Map (Fig 1), Site Plan (Fig 2), Grading Plans 1–5 (Figs 3-1 through 3-5), Generalized Cross-Sections for Stockpiles 1 & 2 (Fig 4A) and Emerald Avenue OC (Fig 4B), and a Soil Transportation Plan (Fig 5).
+The **Remedial Design Implementation Plan (RDIP)** for the Caltrans Modesto Soil Stockpiles remediation (SR 132, Stanislaus County, CA) is the formal document that specifies how contaminated soil stockpiles will be managed, treated, removed, or disposed of to meet regulatory standards. It serves as the operational blueprint for the remedial action, detailing construction methods, monitoring protocols, acceptance criteria, and compliance milestones. The RDIP is a binding component of the project’s regulatory framework under oversight by the California Department of Toxic Substances Control (DTSC).
 
 ## Site Record
 
-**Documented facts from project sources:**
-
-- The RDIP addresses **two primary stockpiles** (Stockpile 1 and Stockpile 2) plus the **Emerald Avenue OC** site.
-- Excavation quantities and stockpile volumes are specified in the **Grading Plans (Figs 3-1 through 3-5)**.
-- A **Generalized Cross-Section (Fig 4A)** dated July 18, 20xx, details the subsurface profile for Stockpiles 1 and 2.
-- The **Soil Transportation Plan (Fig 5)** identifies haul routes and disposal facility locations.
-- Verification sampling requirements are described in the *Stockpiles 1 and 2 MSE Wall Sampling Plan.pdf*, which includes procedures for post-excavation soil characterization at the Mechanically Stabilized Earth (MSE) wall interface.
-
-**Key parameters from the record:**
-- Contaminants of concern: Total petroleum hydrocarbons (TPH) as gasoline, diesel, and motor oil; volatile organic compounds (VOCs); and metals (barium, lead, etc.).
-- Excavation depths and side slopes are specified in the grading plans, with maximum excavation depths varying by stockpile zone.
-- Verification sampling frequency: Minimum one sample per 500 cubic yards of excavated soil, with additional samples at the MSE wall face.
-- Off-site disposal destination: Permitted Class II landfill (name not specified in provided excerpts).
+- The **Errata to January 2019 RDIP – SR 132 West Expressway Phase 1** modifies the original RDIP for Phase 1 of the project. This errata document clarifies or corrects specific technical details, such as measurement units, sampling frequencies, or acceptance thresholds, but the project file does not detail the errata’s specific content.
+- **RDIP Variance Request #2 Acceptance E-Mail** records DTSC’s approval of a second variance request from the RDIP. This variance likely addressed changes in stockpile handling, disposal limits, or testing protocols, enabling continued progress under site-specific conditions.
+- **Borrow Area Results Tech Memo Approval** confirms DTSC’s acceptance of a technical memorandum that reports analytical results from borrow areas. This memo verified that borrow soils (used for backfill or cover material) met RDIP-specified chemical thresholds, allowing their use without additional treatment.
+- The project is divided into phases; Phase 1 (2019–2020) addressed the West Expressway segment. Stockpiles in this phase were generated during highway construction and contain elevated concentrations of constituents such as barium, arsenic, and lead (specific values are not provided in these sources but are referenced in the broader case file).
+- Verification sampling for treated or removed stockpiles was conducted per RDIP protocols, with results submitted to DTSC for review. The variance request indicates that deviations from the RDIP were formally managed through approval.
 
 ## Regulatory Status
 
-- The RDIP was **accepted by DTSC** with a formal **errata acceptance** (document: *RDIP Errata Acceptance.pdf*).
-- The project operates under **DTSC oversight** with coordination by the Central Valley Regional Water Quality Control Board.
-- Applicable standards include:
-  - **TPH screening levels**: As defined in DTSC’s Human and Ecological Risk Assessment (HERA) for the site.
-  - **Metals**: Exceedances of California MCLs (e.g., barium at 760 mg/kg in soil; MCL 1,000 µg/L in groundwater).
-  - **Verification criteria**: Post-excavation soil must meet residential/industrial screening levels as specified in the RDIP.
-- The project is currently in **active implementation phase** pending completion of excavation and verification sampling.
+- The RDIP is enforceable under DTSC oversight, consistent with California’s hazardous waste management regulations (Title 22, CCR). The project must comply with all acceptance criteria specified in the RDIP, including maximum contaminant levels (MCLs) for groundwater protection and site-specific action levels for soil.
+- DTSC approved both the borrow area results (via the tech memo) and the variance request, indicating current compliance with oversight conditions. The errata document was issued to correct any discrepancies without altering regulatory compliance.
+- No records of violations or non-compliance are referenced in the provided sources.
 
 ## Open Items
 
-1. **MSE Wall Interface Sampling**: The sampling plan for the MSE wall interface is still under development; the RDIP references a separate *MSE Wall Sampling Plan* that may require DTSC approval prior to backfilling.
-2. **Emerald Avenue OC Remediation**: Soil removal at the Emerald Avenue OC location is subject to separate verification criteria; schedule and volumes are not finalized in the current RDIP.
-3. **Errata Items**: The *RDIP Errata Acceptance.pdf* documents specific corrections required; the full list of errata items is not provided in the excerpts.
+- The specific content of the errata (e.g., which RDIP sections were revised or values corrected) is not documented in the provided sources.
+- The rationale for Variance Request #2 (e.g., altered thresholds, extended timeline, or modified management methods) is not described; only its acceptance is recorded.
+- Whether additional phases (beyond Phase 1) will require revised RDIP documents or further variance requests is not addressed.
 
 ## See Also
 
-- Stockpile 1 and Stockpile 2 – Modesto Soil Stockpiles
-- MSE Wall Sampling Plan – Modesto Stockpiles
-- DTSC Modesto Soil Stockpiles Case File
-- Emerald Avenue Oil Change – Remedial Action
+Modesto Soil Stockpiles Site Summary  
+DTSC Oversight – SR 132 Project  
+Borrow Area Technical Memorandum  
+Phase 1 Remedial Actions – West Expressway

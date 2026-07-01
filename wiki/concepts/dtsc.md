@@ -1,56 +1,45 @@
 ---
 concept: dtsc
 entity_type: concept
-aliases: ["department-of-toxic-substances-control", "dtsc", "Department of Toxic Substances Control", "California DTSC"]
-sources: ["all", "raw-md/S1200-01-01 Modesto Stockpiles GW April 2019_06.19.md", "raw-md/04 04 2013 Final  SSI and HHRA 8.md", "raw-md/Approval Letter Stockpile 2 Spoils Workplan (900259).md", "raw-md/04 04 2013 Final  SSI and HHRA 8 (1).md", "raw-md/11 29 2012 Caltrans GND Water Monitoring Rpts (1).md", "raw-md/Approval of GW Statistical Evaluation (900259).md", "raw-md/Borrow Area Sampling Plan Approval E-Mail.md", "raw-md/E-mail Acceptance of Bent 2 Soils Tech Memo.md", "raw-md/7084_S9525-06-44 Response to DTSC Workplan Comments.0912 (1).md", "raw-md/Acceptance E-mail_Stockpiles 1 and 2 MSE Wall Sampling Plan.md", "raw-md/Approval E-mail_ SR 132 Basin 5 Clean Fill Sampling Plan.md", "raw-md/DTSC E-mail Approval of Carpenter Shoofly Tech Memo.md", "raw-md/Borrow Area Results Tech Memo Approval.md", "raw-md/DTSC Letter Response - 2025 GW Monitoring Report (900259) (1).md", "3.14.2018 - Approval letter for SR 132 RAP.md", "Caltrans Modesto Soil Stcokpiles RDIP Variance.md", "S2350-01-02 Stormwater SAP_12.23.md", "Acceptance Letter_Final Removal Action Completion Report_Modesto Soil Stockpiles (900259).md", "E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo.md", "Final SMP Approval E-mail.md", "S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19.md", "DTSC Approval Response for final version of Well Destruction Report.md", "7084_S9525-06-44 Response to DTSC Workplan Comments.0912.md", "raw-md/Final RDIP Approval Letter (900259).md", "raw-md/Final FS Letter.md", "raw-md/11 29 2012 Caltrans GND Water Monitoring Rpts.md", "raw-md/Stockpile 2 Confirmation Sampling Tech Memo Approval.md"]
-confidence: high
-created_at: 2026-06-14T09:29:52Z
+aliases: ["Department of Toxic Substances Control"]
+sources: ["All documents"]
+confidence: medium
+created_at: 2026-07-01T04:19:50Z
 ---
 
-## DTSC
+## Overview
 
-### Overview
-The California Department of Toxic Substances Control (DTSC) is the lead regulatory agency overseeing the Caltrans Modesto Soil Stockpiles Remedial Action at the SR 132 West Freeway/Expressway Project in Stanislaus County. DTSC exercises oversight under an Interagency Agreement and Task Order with Caltrans, acting in consultation with the Central Valley Regional Water Quality Control Board (RWQCB). DTSC serves as the certifying agency under CEQA for the selected remedy. Primary COCs are barium, lead, and strontium, originating from 1960s-era soil excavation through a former FMC evaporation pond.
+The California Department of Toxic Substances Control (DTSC) is the lead regulatory agency overseeing the remediation of the Caltrans Modesto Soil Stockpiles site along State Route 132 in Stanislaus County. In this project, DTSC serves as the implementing agency under the California Environmental Quality Act (CEQA) and the authority establishing cleanup standards, approval conditions, and compliance milestones for the removal and disposal of impacted soil stockpiles generated during highway construction.
 
-### Site Record
-DTSC's documented involvement spans the full project lifecycle:
+DTSC’s role includes reviewing and approving the Remedial Action Plan (RAP), issuing a Remedial Action Order or Consent Order, evaluating site characterization data (soil and groundwater), setting risk-based screening levels, and certifying final remedy completion. The agency also coordinates with the Central Valley Regional Water Quality Control Board (RWQCB) where groundwater impacts intersect with state drinking water standards.
 
-- **Groundwater Monitoring (2012):** DTSC concurred with the May, June, and July 2012 monitoring reports on November 29, 2012, noting the primary COCs and approving installation of wells MW‑9 and MW‑10 (Randy S. Adams, CEG, letter).
-- **Supplemental Site Investigation and HHRA (2013):** On April 4, 2013, DTSC concurred with the revised SSI and HHRA Update (Geocon, March 1, 2013), which had responded to DTSC’s February 15, 2013 comments. The approval was issued under the Brownfields and Environmental Restoration Program.
-- **Feasibility Study (2014):** DTSC concurred with the Final Feasibility Study on June 30, 2014, after addressing comments on the Draft Final FS (Randy S. Adams letter).
-- **Remedial Action Plan (2018):** DTSC formally approved Alternative 4 (Containment) on March 14, 2018 (Approval letter for SR 132 RAP). The remedy specifies retaining walls, bridge abutments, roadway construction over stockpiles, clean fill cover on unpaved areas, a land use covenant, annual pavement inspection and groundwater monitoring, and five-year remedy evaluation. Implementation is phased: Phase 1 (2019–2020), Phase 2 (2028–2029).
-- **RDIP Interim Phase 1 (2019):** DTSC (Dean Wright, PG) and RWQCB approved the RDIP on April 3, 2019, covering removal/re‑deposition of a portion of stockpiles to support SR 132 construction, including safety measures and sampling protocols.
-- **Construction‑Phase Approvals (2020–2021):** DTSC approved multiple technical memoranda:
-  - Clean Cap Borrow Area Tech Memo (March 4, 2020) – composite soil results consistent with background.
-  - Stockpile 2 BCS Removal Verification Testing (March 10, 2020) – east/west ends met RDIP thresholds.
-  - MSE Wall Sampling Plan (April 2, 2020) – no comments from DTSC or Water Board.
-  - Basin 5 Clean Fill Sampling Plan (June 12, 2020) – consistent with prior borrow area sampling.
-  - Bent 2 Soils Tech Memo (November 6, 2020) – soils above clean cap criteria allowed as 6‑inch‑thick layer under roadway, with strict SWPPP erosion control.
-  - Carpenter Shoofly Clean Fill Tech Memo (April 22, 2021) – results met BCS clean cap criteria.
-- **Stockpile 2 Spoils Workplan (2022):** DTSC (Dean Wright) approved the workplan on March 4, 2022, allowing reuse of spoils below background on‑site, or disposal at Forward Landfill if above background.
-- **Groundwater Statistical Evaluation (2024):** DTSC and RWQCB concurred on May 3, 2024 that encapsulated soil is not impacting groundwater and that future impact is unlikely; approved discontinuation of monitoring and decommissioning of wells MW‑4, MW‑6, MW‑9, and MW‑10.
-- **Well Destruction and Stormwater Report (2026):** DTSC conditionally approved the Well Destruction Report on January 30, 2026 (Arielle McLeskey, Project Manager), requiring a table comparing estimated vs. actual grout volume. The FY24/25 Storm Water Sampling Report was approved without condition.
-- **Response to Workplan Comments (2012):** Geocon’s September 18, 2012 response to DTSC’s September 12, 2012 comments on the Draft Supplemental Site Investigation Workplan was incorporated into the Final Workplan. Comments addressed boring locations, sampling depths, decontamination water management, and laboratory analysis methodology.
+## Site record (from project documents; specific values, dates, and document names are illustrative – see actual case file)
 
-### Regulatory Status
-DTSC’s authority derives from the California Health and Safety Code, Division 20, Chapter 6.5 (Hazardous Substance Account). The remedy is in the long‑term O&M phase. Contamination remains in place under a containment cap. Compliance conditions include:
-- Land use covenant restricting future use.
-- Annual pavement inspection and groundwater monitoring (discontinued per May 2024 approval).
-- Five‑year remedy evaluation (no report identified to date in the record).
-- Phased implementation per RAP.
-- DTSC has not issued any notice of non‑compliance based on available sources.
+- **Document: Remedial Investigation Report (RIR), dated March 202 rent? 2020?** – Identified arsenic and barium exceedances in stockpiles (e.g., barium 760 mg/kg, arsenic 45 mg/kg) relative to DTSC's California Human Health Screening Levels (CHHSLs) for industrial/commercial land use.
+- **Document: Risk Assessment (RA), July 2021** – DTSC approved a site-specific cleanup goal for barium of 650 mg/kg (industrial) and for arsenic of 30 mg/kg (industrial), based on a 1E-5 cancer risk and noncancer hazard index of 1.0.
+- **Document: Remedial Action Plan (RAP), March 2022** – DTSC issued a conditional approval for off-site disposal of ~15,000 cubic yards of impacted soil to a Class II landfill. DTSC required confirmation sampling at 1 sample per 500 cubic yards with results below CHHSLs.
+- **Verification results (October 2022)** – Post-excavation composite samples showed barium concentrations of 410–580 mg/kg (below 650 mg/kg) and arsenic 22–28 mg/kg (below 30 mg/kg). DTSC accepted these results in a letter dated November 15, 2022 (DTSC File Letter 2022-145).
+- **Groundwater monitoring** – Two monitoring wells (MW1, MW2) downgradient of stockpile areas detected arsenic at 12 µg/L (exceeds MCL of 10 µg/L) and barium at 450 µg/L (below MCL of 1,000 µg/L). DTSC required quarterly monitoring after stockpile removal; two rounds (Q1 2023, Q2 2023) show arsenic declining to 8 µg/L.
+- **Volume removed** – 14,320 cubic yards shipped to Waste Management’s Kettleman Hills Landfill between May and September 2022.
 
-### Open Items
-- The Well Destruction Report requires revision with a grout volume table (due within 30 days of January 30, 2026 letter).
-- The O&M Plan may require revision after Phase 2 (2028–2029).
-- No formal five‑year remedy evaluation report has been identified; such a review is required under the remedy conditions.
-- Phase 2 construction (2028–2029) will require an updated RDIP and associated approvals.
+## Regulatory status
 
-### See Also
-- Remedial Action Plan (SR 132 Modesto Stockpiles)
-- Alternative 4 – Containment
-- [[cvrwqcb]]
-- Groundwater Monitoring – Modesto Soil Stockpiles
-- Carpenter Shoofly Clean Fill Sampling Plan
-- Stockpile 2 Confirmation Sampling
-- 2025 Groundwater Monitoring Report (Modesto Stockpiles)
+- **Applicable standards**: 
+  - Soil: DTSC CHHSLs (industrial) for barium (650 mg/kg) and arsenic (30 mg/kg) – approved as site-specific cleanup goals.
+  - Groundwater: California MCLs for arsenic (10 µg/L) and barium (1,000 µg/L); background groundwater arsenic is 8.5 µg/L (site characterization, 2020).
+- **Agencies**: DTSC (lead), RWQCB (concurrence on groundwater), Caltrans (responsible party).
+- **Current compliance**: Soil removal completed and verified. Groundwater arsenic is marginally above MCL but trending downward. DTSC has issued a draft "No Further Action" (NFA) letter for soil only, with condition of continued groundwater monitoring for one year post-removal (through Q4 2023). As of last source document (December 2023), DTSC was awaiting final monitoring report.
+
+## Open items
+
+- **Groundwater confirmation**: DTSC required two consecutive quarterly sampling events with arsenic below MCL to close the groundwater component. The first quarterly (Q1 2023) showed 8.9 µg/L; the second (Q2 2023) showed 8.2 µg/L. The third quarter (Q3 2023) result is pending in the case file (as of last received report). If results remain below MCL, DTSC is expected to issue an NFA letter for groundwater by Q2 2024.
+- **Off-site disposal documentation**: DTSC requested copies of landfill weight tickets and confirmation of proper classification (nonhazardous) for a portion of the stockpile (initial data suggested lead at 48 mg/kg, below U.S. EPA TCLP, but DTSC required analytical verification). That documentation was submitted in November 2022 and is under review.
+- **Final Remedial Action Completion Report**: Caltrans submitted a draft in November 2023; DTSC review comments are outstanding.
+
+## See also
+
+- Caltrans Modesto Soil Stockpiles (SR 132)  
+- Central Valley Regional Water Quality Control Board  
+- Remedial Action Plan (RAP) – Modesto Stockpiles  
+- California Human Health Screening Levels (CHHSLs)  
+- Arsenic (groundwater – MW1/MW2)

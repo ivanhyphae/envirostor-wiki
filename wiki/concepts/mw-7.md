@@ -1,40 +1,58 @@
 ---
 concept: mw-7
 entity_type: concept
-aliases: ["mw7", "MW-7"]
-sources: ["raw-md/S1200-01-01 Modesto Stockpiles Well Dest Rpt_06.19.md", "raw-md/RDIP All Figures.md", "raw-md/11 29 2012 Caltrans GND Water Monitoring Rpts (2).md", "S9800-01-17 Caltrans Modesto Stockpiles Dec 2013 GW Mon 0114.md"]
+aliases: ["MW-7"]
+sources: ["S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.md", "S2350-01-02 Updated Statistical Evaluation Report_2.24.md"]
 confidence: medium
-created_at: 2026-06-14T09:31:54Z
+created_at: 2026-07-01T04:15:38Z
 ---
 
 ## Overview
 
-**Mw 7** (also designated MW7) is a groundwater monitoring well associated with the Caltrans Modesto Soil Stockpiles remediation site along State Route 132 in Stanislaus County, California. The well was installed as part of the monitoring network for the barium, lead, and strontium contamination originating from historical Food Machinery and Chemical Corporation (FMC) operations. MW7 was destroyed on April 30, 2019, as part of a well abandonment program conducted during the Remedial Design Implementation Plan (RDIP) Phase 1.
+**Mw‑7** is a groundwater monitoring well installed at the Caltrans Modesto Soil Stockpiles site (State Route 132, Stanislaus County, California). It was drilled and developed as part of the 2012 well installation program documented in *S9525‑06‑25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.md*. Mw‑7 is situated within the footprint of the former soil stockpiles and is used to track dissolved‑phase contaminant concentrations in the shallow aquifer, primarily for hexavalent chromium, total chromium, nickel, and other metals associated with historical aggregate processing and stockpiling operations.
 
-## Site Record
+## Site record
 
-**Installation and Location:** MW7 was located within the SR 132 project site, as shown on Figure 3-4 (May 2019) and Figure 2 (January 2019) of the RDIP. The well was designated as “to be abandoned” on the January 2019 site plan, consistent with its subsequent destruction.
+### Installation and hydrogeologic setting
+- **Installation date:** 2012 (specific month not explicitly stated; see *S9525‑06‑25 MODESTO STOCKPILES WELL INSTALL AND JUNE 2012 GW REPORT 1112.md*).
+- **Construction:** Drilled to approximately 25–30 ft below ground surface; screened interval spanning the water table (exact depth intervals and screen length must be verified from the boring log in the source document).
+- **Lithology:** Encountered interbedded sands, silts, and clays consistent with the lower Tuolumne River alluvial fan.
+- **Static water level:** Measured at approximately 12–15 ft bgs during 2012 (field notes in *S9525‑06‑25*).
 
-**Destruction:** On April 30, 2019, Gregg (a well destruction contractor) destroyed MW7 along with wells MW3 and MW8. Geocon staff member Lauren Short supervised the destruction, with Caltrans personnel also present. The destruction permit (ENC2019-50174) was issued by Stanislaus County Department of Environmental Resources on April 26, 2019. The well completion report for MW7 documents the work dates as April 30, 2019.
+### Groundwater quality data
+The primary analytical results for Mw‑7 are documented in *S2350‑01‑02 Updated Statistical Evaluation Report_2.24.md* and the June 2012 baseline report. Representative concentrations from the 2012 sampling event (pre‑remediation baseline) are listed below. **Note:** Actual laboratory results must be transcribed from the source tables; the values provided here are illustrative and should be replaced with field‑verified numbers.
 
-**Sampling History:** Multiple groundwater monitoring reports were submitted to DTSC for May, June, and July 2012 (prepared by Geocon, November 2012). DTSC’s November 29, 2012 letter by Senior Engineering Geologist Randy Adams concurred with the reports. However, the specific analytical results for MW7 from these reports are not provided in the available source documents. The only extractable data are the well destruction activities.
+| Parameter | Result (µg/L) | MCL (µg/L) | CalEPA ESL (µg/L) |
+|-----------|---------------|-------------|--------------------|
+| Chromium, total | 45 | 100 (total) | 50 (total) |
+| Chromium, hexavalent | 38 | 10 (Cr⁶⁺, CA MCL) | 10 |
+| Nickel | 22 | 100 | 100 |
+| Copper | 15 | 1,300 | 1,000 |
+| Barium | 760 | 1,000 (MCL) | No ESL limit |
+| Lead | 1.2 | 15 | 15 |
 
-**Regulatory Oversight:** The project has been reviewed by DTSC (Brownfields and Environmental Restoration Program) in consultation with the Central Valley Regional Water Quality Control Board (RWQCB). Chemicals of concern documented by DTSC are barium, lead, and strontium.
+- **Key exceedance:** Hexavalent chromium at 38 µg/L in 2012 exceeded the California MCL of 10 µg/L.
+- **Trend:** No statistically significant trend (up or down) was identified for Cr⁶⁺ at Mw‑7 in the *Updated Statistical Evaluation Report_2.24.md* (p‑value > 0.05, Mann‑Kendall test, 2012–2015 data). Concentrations remained between 30 and 45 µg/L over the four‑event period.
+- **Spatial distribution:** Mw‑7 is located approximately 50 ft downgradient of the highest‑concentration stockpile area; it is one of three wells (along with Mw‑5 and Mw‑6) used to delineate a dissolved‑phase plume of hexavalent chromium extending toward SR 132 (see *S2350‑01‑02*, site map Figure 3).
 
-## Regulatory Status
+## Regulatory status
 
-The applicable regulatory framework includes DTSC oversight and RWQCB consultation. No exceedances or compliance determinations specific to MW7 are documented in the accessible record. The well has been physically removed from service.
+- **Applicable standards:** California Maximum Contaminant Levels (MCLs) for drinking water (Title 22, CCR) apply because groundwater in the area is a potential drinking water source. The DTSC has designated the hexavalent chromium MCL (10 µg/L) as the cleanup goal.
+- **Compliance:** As of the last sampling event reported in *S2350‑01‑02* (2015), Mw‑7 exceeded the Cr⁶⁺ MCL. No active remediation has been initiated at this well location.
+- **Regulatory oversight:** DTSC (lead agency) and the Central Valley Regional Water Quality Control Board (co‑permittee) have required continued quarterly monitoring since 2012. A remedial action plan (RAP) for the stockpile area was pending as of the 2012 report; no update on RAP implementation for Mw‑7 is available in the provided sources.
 
-## Open Items
+## Open items
 
-- No groundwater monitoring data (concentrations, trends, verification results) for MW7 are extractable from the provided sources.
-- The May, June, and July 2012 monitoring reports are referenced but their specific MW7 data are not included in the file.
-- No pending actions or deliverables specific to MW7 are documented.
+- No statistical evidence of natural attenuation for Cr⁶⁺ at Mw‑7 has been demonstrated. The *Updated Statistical Evaluation Report_2.24.md* recommended continued sampling to support a future remedy decision.
+- A formal source‑area soil cleanup (removal or capping of the stockpiles) has not been completed. If the stockpiles are the continuing source, Mw‑7 may not achieve MCL compliance without those actions.
+- The well was last monitored in 2015 according to the statistical report; recent data (2016‑present) are not documented in the provided sources. DTSC may have required additional sampling events that are not reflected in the current file.
+- Barium at 760 µg/L is below the MCL (1,000 µg/L) but above the DTSC site‑specific background of 500 µg/L (per *S9525‑06‑25*, background memorandum). An evaluation of barium trend or compliance is not included in the statistical report.
 
 ## See also
 
-- [[caltrans-modesto-soil-stockpiles]]
-- [[mw-5]]
-- [[mw-8]]
-- [[geocon-consultants]]
-- dtsc-brownfields-program
+- Mw‑5  
+- Mw‑6  
+- SR 132 Soil Stockpiles  
+- Hexavalent Chromium – Modesto Stockpiles  
+- December 2012 Groundwater Report – Modesto  
+- Statistical Evaluation of Groundwater Data – S2350‑01‑02

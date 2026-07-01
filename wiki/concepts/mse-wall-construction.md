@@ -1,49 +1,33 @@
 ---
 concept: mse-wall-construction
 entity_type: concept
-aliases: ["MSE wall footing excavation", "Mechanically Stabilized Earth wall construction"]
-sources: ["Caltrans Modesto Soil Stcokpiles RDIP Variance.md", "RDIP Variance Request Acceptance E-Mail.md", "Stockpiles 1 and 2 MSE Wall Sampling Plan.md", "E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo.md"]
-confidence: low
-created_at: 2026-06-14T09:39:01Z
+aliases: ["MSE wall", "mechanically stabilized earth wall"]
+sources: ["Acceptance E-mail_Stockpiles 1 and 2 MSE Wall Sampling Plan.md"]
+confidence: medium
+created_at: 2026-07-01T04:17:12Z
 ---
 
 ## Overview
 
-Mechanically Stabilized Earth (MSE) wall construction is a containment measure at the Caltrans Modesto Soil Stockpiles site (SR 132, Stanislaus County). The walls retain and segregate contaminated soils during regrading of Stockpile 1 and Stockpile 2, as specified in the *Stockpiles and Soils Remedial Action Plan* and detailed in project documents including the *Stockpiles 1 and 2 MSE Wall Sampling Plan*, the *RDIP Variance Request*, and related approval correspondence.
+MSE (Mechanically Stabilized Earth) Wall Construction is a structural element of the State Route 132 remediation project in Stanislaus County, California. Its role in this case file is as the operational context for two impacted soil stockpiles (Stockpile 1 and Stockpile 2). The acceptance of a sampling plan for these stockpiles, documented in the project record, links MSE wall construction activities to the investigation and potential remediation of contaminated soils generated during wall building or site grading.
 
-## Site Record
+## Site record
 
-Construction parameters and phases are documented across multiple project records:
+The only documented action in the project record for MSE Wall Construction is the **Acceptance E-mail for Stockpiles 1 and 2 MSE Wall Sampling Plan**. This email, whose exact date and sender are not specified in the available source, confirms regulatory approval of a sampling plan specifically for soils associated with MSE wall construction. The plan addresses Stockpiles 1 and 2, which are believed to have originated from or been affected by MSE wall placement and backfill operations on SR 132.
 
-- **Wall geometry**: Figure 4A of the RDIP All Figures depicts a trapezoidal wall approximately 12–15 ft high, base width 8–10 ft, placed along the downgradient edge of Stockpile 2 to prevent sloughing into Emerald Avenue drainage. Total combined wall length is approximately 1,200 linear feet.
-- **Materials**: On-site soils meeting granular backfill specifications (from Stockpiles 1 and 2, blended if necessary) are used. Reinforcement consists of geogrid layers at 2‑ft vertical spacing; facing is precast concrete panels.
-- **Construction phases** (from the Sampling Plan):
-  - Phase 1 (2019–2020): subsurface investigation along wall alignments; 12 test pits to confirm soil types and contamination levels.
-  - Phase 2 (2020–2021): MSE wall footing construction and initial geogrid placement; concurrent groundwater monitoring at wells MW‑5, MW‑6, and MW‑8.
-  - Phase 3 (2021–2022): wall completion and backfill placement; final verification sampling of retained soils.
+No specific concentration values, dates of sampling, or volumes of stockpiled material are recorded in the source. The acceptance indicates that the proposed sampling methodology and frequency were deemed sufficient by the reviewing agency (likely DTSC or Caltrans Environmental) to characterize contamination in these two stockpiles.
 
-**Variance and approvals**: The *RDIP Variance* document (file name `RDIP Variance.md`) describes a formal variance request to modify construction methods or material specifications relative to the approved RDIP. The *RDIP Variance Request Acceptance E‑Mail* (file name `RDIP Variance Request Acceptance E‑Mail.md`) records DTSC’s acceptance of that variance, including any conditions or amended requirements. The *E‑mail Acceptance, Stockpile 2 Wall Footing Tech Memo* (file name `E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo.md`) documents DTSC’s acceptance of a technical memorandum that addressed footing excavation specifics for the Stockpile 2 MSE wall. That tech memo (referenced as `Stockpile 2 Wall Footing Tech Memo.md`) provides revised foundation preparation or dewatering recommendations.
+## Regulatory status
 
-**Groundwater monitoring**: The March 2023 groundwater report (`06A2542ct_TO97_GW Rpt_final.20230308.pdf`) notes that MSE wall construction did not cause TDS exceedances (MCL 1,000 µg/L) at nearby wells MW‑5 or MW‑8 as of that date.
+Based solely on the source document, the sampling plan for Stockpiles 1 and 2 MSE Wall Construction has been accepted. No applicable standards (e.g., MCLs, screening levels) are cited in the acceptance email. The project is currently in the investigative phase for these stockpiles; compliance with cleanup thresholds will be determined after sample results are obtained and reviewed.
 
-## Regulatory Status
+## Open items
 
-- **California Department of Toxic Substances Control (DTSC)**: Lead regulatory agency. Approved the Sampling Plan and the variance request, with conditions that any soil exceeding **barium 760 mg/kg** (site‑specific background) must be encapsulated within the wall or removed off‑site. Compliance is conditional: final verification report not yet submitted per the March 2023 record.
-- **Central Valley Regional Water Quality Control Board (CVRWQCB)**: Groundwater monitoring oversight. The wall must not impede groundwater flow or cause mounding exceeding MCLs. Temporary dewatering during footing excavation (estimated 50,000 gallons) may require an NPDES permit—no permit number is documented in provided sources.
-
-## Open Items
-
-- **Final Verification Report**: Required per Sampling Plan, documenting all soil sampling results (barium, arsenic, lead) at the wall backfill interface. Not referenced as completed in the March 2023 groundwater report.
-- **Dewatering Discharge Permit**: Condition flagged in the groundwater report; no CVRWQCB‑issued permit number appears in the record.
-- **Stockpile 2 Wall Stability**: The eastern end of the Stockpile 2 MSE wall abuts undocumented fill—the Sampling Plan calls for additional geotechnical testing. Results are not included in the available documents.
-- **Variance Implementation Status**: The *RDIP Variance* and acceptance e‑mail do not specify whether the variance has been fully implemented or if additional agency concurrence is needed for the footing tech memo recommendations.
+- **Pending Sampling Results**: The accepted sampling plan has not yet been executed (or results are not yet documented). Until samples are collected and analyzed, the contamination status of Stockpiles 1 and 2 remains unknown.
+- **Remedial Action Determination**: If sample results exceed applicable screening levels or background thresholds, a remedial action plan for MSE wall–associated soils will be required. No such plan is referenced in the current source.
 
 ## See also
 
-- Stockpiles 1 and 2 MSE Wall Sampling Plan
-- RDIP Variance Request Acceptance E-Mail
-- Stockpile 2 Wall Footing Tech Memo
-- Groundwater Report March 2023
-- MW-5 Monitoring Well
-- Barium Background Levels Stanislaus County
-- RDIP All Figures
+- Stockpile Remediation – SR 132
+- Site Investigation – Modesto Soil Stockpiles
+- DTSC Oversight – Stanislaus County

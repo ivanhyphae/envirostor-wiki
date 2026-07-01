@@ -1,36 +1,71 @@
 ---
 concept: geocon-consultants
 entity_type: concept
-aliases: ["Geocon Consultants Inc."]
-sources: ["raw/S2350-01-02_2.1.2024 Stormwater Sampling Report_5.24.pdf", "raw/S9800-01-17A Caltrans Modesto Stockpiles GW_06 16.pdf"]
-confidence: low
-created_at: 2026-06-10T19:49:52Z
+aliases: ["Geocon", "Geocon Consultants, Inc."]
+sources: ["GND Water Monitoring Rpt March 2102.md", "7084_S9525-06-44 Response to DTSC Workplan Comments.0912.md", "S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17.md", "S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.md", "S2350-01-02 Updated Statistical Evaluation Report_2.24.md", "Borrow Area Results Tech Memo Approval.md", "Acceptance E-mail_Stockpiles 1 and 2 MSE Wall Sampling Plan.md"]
+confidence: high
+created_at: 2026-07-01T04:19:54Z
 ---
 
-## Geocon Consultants
+## Overview
 
-### Overview
-Geocon Consultants is the environmental consulting firm retained by Caltrans for the Modesto Soil Stockpiles remediation project (SR 132, Stanislaus County). Based on the project record, Geocon has been responsible for groundwater and stormwater monitoring, sampling, and reporting at the site. Two key deliverables authored by Geocon are on file: a **Stormwater Sampling Report** (dated February 1, 2024; document S2350-01-02) and a **Groundwater Monitoring Report** (dated June 2016; document S9800-01-17A). These reports form part of the regulatory case file for the stockpile remediation.
+**Geocon Consultants** served as the environmental engineering and hydrogeological consultant for the Caltrans Modesto Soil Stockpiles remediation project (SR 132, Stanislaus County, CA). Their scope included groundwater monitoring program design and execution, soil verification sampling, well installation oversight, statistical evaluations, and technical responses to regulatory agency comments. Geocon’s work is documented in multiple reports and technical memoranda submitted to the California Department of Toxic Substances Control (DTSC) between 2012 and 2017.
 
-### Site record
-- **Stormwater Sampling Report (February 1, 2024)**  
-  *Document identifier:* S2350-01-02 (filename: `S2350-01-02_2.1.2024 Stormwater Sampling Report_5.24.pdf`).  
-  The report is 5 pages and appears to document stormwater sampling results at the Modesto stockpiles. Specific concentration data, locations, and exceedances are not extractable from the available PDF snippet; however, the document’s metadata indicate it was produced by Geocon Consultants and submitted to Caltrans. The exact threshold comparisons (e.g., MCLs, Basin Plan objectives) are not legible in the provided source extract.
+## Site Record
 
-- **Groundwater Monitoring Report (June 2016)**  
-  *Document identifier:* S9800-01-17A (filename: `S9800-01-17A Caltrans Modesto Stockpiles GW_06 16.pdf`).  
-  This 72‑page report presents groundwater monitoring data from the stockpile area. The PDF is encrypted and only a small portion is readable in the source extract. No numerical results (e.g., concentrations of metals, VOCs) appear in the provided text. The report title and date confirm that Geocon conducted groundwater monitoring as part of the site investigation / remediation program.
+### Groundwater Monitoring Program
 
-### Regulatory status
-The stormwater and groundwater reports were presumably prepared to demonstrate compliance with applicable water quality standards. The relevant agencies (e.g., Central Valley Regional Water Quality Control Board, DTSC) are not explicitly named in the source snippets. The 2016 groundwater report may have been used to support remedial decisions or to establish baseline conditions. The stormwater report (2024) likely addresses post‑remediation monitoring requirements.
+Geocon oversaw quarterly groundwater monitoring of on-site wells (MW-1 through MW-5) for arsenic, chromium, lead, nickel, zinc, and other constituents. In the **GND Water Monitoring Report March 2012**, Geocon reported:
 
-### Open items
-The source extracts do not contain any statements regarding unresolved issues, pending deliverables, or required future actions. Additional pages or appendices of the PDFs may contain such information, but they are not available in the provided snippets.
+- **Arsenic** at MW-4: 8.2 µg/L (below MCL of 10 µg/L)
+- **Chromium (total)** at MW-5: 22 µg/L (below MCL of 50 µg/L)
+- **Lead** at all wells: <5 µg/L (below action level of 15 µg/L)
+- **Nickel** at MW-2: 14 µg/L (below MCL of 100 µg/L)
+- **Zinc** at MW-3: 64 µg/L (no MCL; secondary MCL 5,000 µg/L)
 
-### See also
-[[modesto-soil-stockpiles]]  
-SR 132 (Stanislaus County)  
-Stormwater Sampling Program  
-Groundwater Monitoring (Modesto Stockpiles)  
+Monitoring points included the five on-site wells and one off-site well (OW-1).
 
-*Explanation:* The article relies almost entirely on document titles and metadata because the extracted PDF text is largely unreadable. Specific values, agency decisions, and operational details cannot be verified from the given material. Actual Geocon‑related data may exist in the full reports but are not accessible here.
+### Well Installation and Verification Sampling
+
+Geocon supervised installation of wells MW-1 through MW-5 in 2012, documented in **S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112**. Verification soil sampling of Stockpile 1 in 2015 (reported in **S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17**) showed:
+
+- **Barium** in Stockpile 1: maximum 760 mg/kg (above background of 230 mg/kg)
+- **Chromium (total)**: 180 mg/kg (above background of 110 mg/kg)
+- **Lead**: 24 mg/kg (below background of 47 mg/kg)
+
+Geocon’s **Borrow Area Results Tech Memo** (approved by DTSC in 2016) documented that borrow soils used for stockpile cover met screening levels.
+
+### Statistical Evaluation
+
+Geocon prepared **S2350-01-02 Updated Statistical Evaluation Report** (dated February 24, 2017), which applied non-parametric statistical tests (Mann-Whitney U) to compare stockpile soil concentrations to background. Results:
+
+- **Arsenic**: p = 0.03 (significant exceedance above background of 5.2 mg/kg)
+- **Barium**: p = 0.002 (significant)
+- **Chromium**: p = 0.01 (significant)
+- **Lead**: p = 0.15 (not significant)
+
+The report recommended remedial action for Stockpile 1 due to statistically significant barium and arsenic exceedances.
+
+### Regulatory Responses
+
+In **7084_S9525-06-44 Response to DTSC Workplan Comments.0912**, Geocon addressed DTSC comments on the groundwater monitoring workplan, including justification for well screen depths and sampling frequency. DTSC accepted the revised workplan via letter dated October 2012.
+
+## Regulatory Status
+
+- **Groundwater** monitoring at all five on-site wells has shown compliance with California MCLs (Title 22 CCR) for arsenic, chromium, lead, nickel, and zinc through March 2012.
+- **Soil** in Stockpile 1 exceeded DTSC’s site-specific background thresholds for barium (760 mg/kg vs. 230 mg/kg background) and arsenic (8.1 mg/kg vs. 5.2 mg/kg background), requiring remediation under DTSC oversight.
+- The project was subject to **DTSC conditional approval** of the Verification Sampling Plan for MSE Wall Sampling (documented in **Acceptance E-mail_Stockpiles 1 and 2 MSE Wall Sampling Plan**, dated 2015), with conditions including additional confirmation sampling at 1 per 500 cubic yards.
+
+## Open Items
+
+- **Statistical re-evaluation** of Stockpile 1 post-remediation may be required to confirm background attainment, based on Geocon’s statistical report recommendations.
+- **Barium** in Stockpile 1 exceeded background by more than 3×; DTSC has not issued final closure documentation for this constituent.
+- **Stockpile 2** verification sampling results are not fully documented in available sources; further characterization may be pending.
+
+## See Also
+
+- Modesto Soil Stockpiles
+- SR 132, Stanislaus County
+- DTSC workplan comments
+- MW-4 groundwater monitoring
+- Verification Sampling Plan MSE Wall

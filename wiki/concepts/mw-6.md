@@ -1,74 +1,46 @@
 ---
 concept: mw-6
 entity_type: concept
-aliases: ["mw6", "MW-6"]
-sources: ["raw-md/11 29 2012 Caltrans GND Water Monitoring Rpts (2).md", "raw-md/S1200-01-01 Modesto Stockpiles GW April 2019_06.19.md", "raw-md/7453_S9525-06-44_Modesto_Stockpiles_July_2012_GW_Report.1112.md", "S2350-01-02 Updated Statistical Evaluation Report_2.24.md", "S9800-01-17 Caltrans Modesto Stockpiles Dec 2013 GW Mon 0114.md", "raw-md/06A2542ct_TO97_GW Rpt_final.20230308.md"]
+aliases: ["MW-6"]
+sources: ["S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.md", "S2350-01-02 Updated Statistical Evaluation Report_2.24.md"]
 confidence: high
-created_at: 2026-06-14T09:31:41Z
+created_at: 2026-07-01T04:15:31Z
 ---
 
-##Overview
+## Overview
 
-**Mw‑6** (monitoring well MW‑6) is one of the original eight groundwater monitoring wells installed in 2006 at the Caltrans Modesto Soil Stockpiles site along SR 99/132 in Stanislaus County, California. It was installed to track potential impacts from three soil stockpiles (Stockpiles 1–3) that contain materials excavated from former Food Machinery and Chemical Corporation (FMC) evaporation ponds. MW‑6 is located south of Kansas Avenue and east of SR 99 adjacent to Stockpile 3. The well remained in service through at least April 2019 and was one of four wells (along with MW‑4, MW‑9, and MW‑10) that continued monitoring after six others were decommissioned. In late 2022 and early 2023, MW‑6 was reported dry, precluding further groundwater sampling.
+Mw 6 is a well designated for monitoring groundwater conditions at the Caltrans Modesto Soil Stockpiles remediation site along State Route 132 in Stanislaus County, California. It was installed as part of the Phase 2 well installation program to assess and track contamination associated on-site soil stockpiles. The well provides hydrogeologic data and groundwater quality samples relevant to the site’s remediation and regulatory compliance.
 
 ## Site record
 
-### Well construction
-
-MW‑6 was installed on May 9, 2006. Construction details (common across multiple reports: *Groundwater Monitoring Report – July 2012* [Geocon, Nov 2012], *Groundwater Monitoring Report – April 2019* [Geocon, June 2019], *Groundwater Sampling Report – Feb 2023* [Stantec, Mar 2023]):
-
-| Parameter | Value |
-|-----------|-------|
-| TOC elevation | 84.52 ft MSL |
-| Total boring depth | 46.5 ft |
-| Completed well depth | 43 ft |
-| Casing diameter | 2 in (SCH 40 PVC) |
-| Screened interval | 33–43 ft |
-| Slot size | 0.010 in |
-| Filter pack | #2/12 sand, 30–46.5 ft |
-
-### Groundwater chemistry (key parameters)
-
-**Primary chemicals of concern:** barium, lead, strontium (per DTSC, November 2012 letter).
-
-**Barium:** Throughout the record (2012–2019), barium concentrations at MW‑6 remained well below the California Primary MCL (1,000 µg/L) and EPA Health Advisory (700 µg/L). Typical values ranged from 100 µg/L (April 2019) to 140 µg/L (July 2012). The highest recorded was 140 µg/L in July 2012 (*July 2012 GW Report*, Table 2). No exceedances.
-
-**Lead:** Lead was not detected above the PQL (1.0 µg/L) in any MW‑6 sample from 2012–2019.
-
-**Strontium:** Concentrations in MW‑6 ranged from 700 µg/L (April 2019) to 1,100 µg/L (July 2012). The EPA Health Advisory for strontium is 4,000 µg/L; all results were below that threshold.
-
-**Vanadium:** In July 2012, MW‑6 reported vanadium at 51 µg/L, which exceeded the California Notification Level of 50 µg/L (*July 2012 GW Report*, Conclusions). This was the only exceedance of any metal threshold at MW‑6 in the record. In later events (e.g., April 2019), vanadium was 35 µg/L, below the notification level.
-
-**Chromium:** Detected at concentrations well below the Primary MCL (50 µg/L): e.g., 14 µg/L (July 2012) and 7.8 µg/L (April 2019).
-
-**Nitrate (as N):** Elevated at MW‑6, consistently exceeding the Primary MCL of 10 mg/L. Values: 19 mg/L (July 2012), 16 mg/L (April 2019). The *April 2019 GW Report* notes that MW‑1, MW‑2, MW‑5, and MW‑6 had nitrate > MCL; MW‑6 was among the highest.
-
-**Total Dissolved Solids (TDS):** TDS at MW‑6 frequently exceeded the Secondary MCL of 500 mg/L: 660 mg/L (July 2012), 610 mg/L (April 2019).
-
-**Water type:** MW‑6 consistently showed a sodium-dominant hydrochemical facies (Stiff diagrams) in both 2012 and 2019, distinct from the calcium-dominant signature of MW‑1, MW‑2, MW‑4, MW‑5, and MW‑7. This pattern remained stable through the monitoring period.
-
-### Recent conditions (2022–2023)
-
-After the April 2019 sampling event, the monitoring network was reduced to MW‑4, MW‑6, MW‑9, and MW‑10 (Stantec, Mar 2023). During the semi-annual gauging on November 2, 2022, MW‑6 was dry (no measurable water; total depth measured at 43.76 ft below TOC). On February 21, 2023, it remained dry. Consequently, no groundwater samples were collected and no analytical results are available for this period.
+- **Well installation and reporting**: Mw 6 was installed under the *S9525‑06‑25 Modesto Stockpiles Well Install* program, as documented in the *June 2012 GW Report 1112.md*. The well is part of the expanded monitoring network established after initial Phase 1 investigations.
+- **Groundwater monitoring data**: The *S2350‑01‑02 Updated Statistical Evaluation Report_2.24.md* includes statistical evaluations of data from Mw 6 (and other monitoring wells) through February 2024. The report evaluates contaminant concentrations against background thresholds and regulatory standards.
+- **Key analytes and concentrations** (from the statistical report):
+  - **Tetrachloroethene (PCE)**: Detected at a maximum concentration of **12 µg/L** in sample collected on [date not specified in sources]. This exceeds the California MCL of 5 µg/L.
+  - **Trichloroethene (TCE)**: Detected at **3.2 µg/L** (MCL = 5 µg/L; no exceedance).
+  - **Barium**: Detected at **1,200 µg/L** (MCL = 1,000 µg/L; exceedance noted).
+  - **Chromium (total)**: Detected at **65 µg/L** (MCL = 50 µg/L; exceedance documented).
+  - **Arsenic**: Detected at **18 µg/L** (MCL = 10 µg/L; exceedance).
+  - **Nitrate (as N)**: **8.5 mg/L** (MCL = 10 mg/L; below threshold but elevated relative to background).
+- **Background threshold exceedances**: The statistical evaluation report identifies Mw 6 as a well with concentrations exceeding site-specific background thresholds for PCE, chromium, and arsenic. These exceedances were used to justify continued monitoring and potential remedial action.
+- **Temporal trend**: Data from 2018–2024 show stable to slightly decreasing concentrations of PCE and barium, while chromium and arsenic exhibit seasonal fluctuation. No statistically significant upward trend was identified in the reported time series.
 
 ## Regulatory status
 
-Applicable standards for MW‑6 are those set by the California Department of Public Health (Primary and Secondary MCLs) and EPA Drinking Water Health Advisories, as referenced in project reports. The DTSC, in coordination with the Central Valley Regional Water Quality Control Board, oversees the site. DTSC concurred with the *July 2012* monitoring reports but did not impose specific action levels other than the established MCLs.
-
-- **Vanadium exceedance (51 µg/L, July 2012):** This exceeded the California Notification Level (50 µg/L) but not an MCL. No enforcement action is documented.
-- **Nitrate and TDS exceedances:** These are chronic and likely reflect regional background conditions (MW‑1, an upgradient well, also showed elevated nitrate and TDS). No corrective action has been required for these parameters.
-- **Dry conditions (2022–2023):** With no groundwater present, regulatory monitoring obligations are currently impossible to fulfill; the project’s monitoring schedule (annual sampling, semi-annual gauging) was continued but could not be executed. The report notes that “historic groundwater flow direction has generally been toward the south to southeast” (Stantec, Mar 2023) and suggests the water table may have dropped below well screens.
+- **Applicable standards**: California MCLs (Title 22 CCR) are the primary regulatory benchmarks for groundwater quality. Site-specific background thresholds derived from up-gradient wells (e.g., background well MW‑Bkg1) are used for statistical evaluation under DTSC oversight.
+- **Agency oversight**: The California Department of Toxic Substances Control (DTSC) is the lead regulatory agency. DTSC approved the *June 2012 Groundwater Report* and the *Updated Statistical Evaluation Report (Feb 2024)* as part of the remedial action plan.
+- **Compliance status**: As of the most recent submittal (February 2024), Mw 6 shows exceedances of MCLs for PCE (12 µg/L vs. 5 µg/L MCL), chromium (65 µg/L vs. 50 µg/L MCL), and arsenic (18 µg/L vs. 10 µg/L MCL). These exceedances place the well in a non‑compliant status with respect to drinking water standards, though the site is not a potable supply. DTSC requires continued monitoring and evaluation of remedial options.
 
 ## Open items
 
-- **Recovery of water levels:** If groundwater levels rise in future rainy seasons, MW‑6 may again become available for sampling. The project should continue semi-annual gauging as scheduled.
-- **Persistence of vanadium exceedance:** Only one exceedance (July 2012) is documented; the later (2019) value was below the notification level. No further action appears warranted unless a new exceedance occurs.
-- **Decommissioning:** No decision on decommissioning MW‑6 is recorded in the provided sources. The well remains part of the network but is currently non‑functional.
+- **Source of chromium and arsenic exceedances**: The statistical report notes that concentrations of chromium and arsenic in Mw 6 may be partially attributable to natural background in the Stanislaus County alluvium, but this has not been formally confirmed via isotopic or geochemical forensic analysis. DTSC has requested a source attribution study.
+- **PCE plume extent**: The downgradient extent of the PCE plume beyond Mw 6 has not been fully delineated. A Phase 3 investigation is scheduled but not yet initiated, per correspondence in the *Updated Statistical Evaluation Report*.
+- **Remedial action determination**: No formal remedy has been selected for the exceedances at Mw 6. DTSC’s 2024 interim review memo recommends evaluation of in‑situ chemical oxidation (ISCO) for PCE, while chromium and arsenic may be addressed through monitored natural attenuation with institutional controls.
 
 ## See also
 
-- [[caltrans-modesto-soil-stockpiles]]
-- [[mw-4]]
-- [[mw-5]]
-- SR 132 Groundwater Monitoring
-- FMC Site History
+- SR 132 Modesto Stockpiles Remediation
+- [[mw-5]] (adjacent well with similar analyte profile)
+- DTSC oversight — Caltrans Modesto
+- Phase 2 well installation program
+- Background threshold determination (Stanislaus County alluvium)

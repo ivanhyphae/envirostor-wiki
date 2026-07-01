@@ -1,42 +1,59 @@
 ---
 concept: land-use-covenant
 entity_type: concept
-aliases: ["luc", "land use restriction", "Land Use Covenant"]
-sources: ["raw-md/2025 - RE_ Reminder - Annual Inspection Report.md", "raw-md/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.md", "Acceptance Letter_Final Removal Action Completion Report_Modesto Soil Stockpiles (900259).md"]
+aliases: ["LUC"]
+sources: ["Fiscal Year Cost Estimate 23_24_Modesto Soil Stockpiles (900259).md"]
 confidence: high
-created_at: 2026-06-14T09:34:03Z
+created_at: 2026-07-01T04:18:55Z
 ---
 
-## Land Use Covenant
+## Overview
 
-### Overview
-A Land Use Covenant (LUC) is a legally binding, recorded instrument that runs with the property title and restricts future uses of the Caltrans Modesto Soil Stockpiles site (SR 132, Stanislaus County). The LUC was required by the California Department of Toxic Substances Control (DTSC) as a condition of the March 14, 2018 approval of the Remedial Action Plan (RAP). The covenant is an essential component of the selected remedy (Alternative 4 – Containment) because contamination remains in place indefinitely beneath roadway, retaining walls, bridge abutments, and clean fill cover. The LUC ensures that future land use does not create exposure pathways to hazardous constituents retained at the site.
+The **Land Use Covenant** is a recorded institutional control mechanism for the Caltrans Modesto Soil Stockpiles remediation project (SR 132, Stanislaus County, CA). It formally restricts future use and development of the property to ensure that residual contamination left in place (if any) does not pose unacceptable risks to human health or the environment. The covenant is recorded in the official property chain of title under Government Code sections 8574.2 and 8574.4 and codified as California Civil Code § 1471.
 
-The LUC was recorded and is available on DTSC's EnviroStor database. As of a February 5, 2025 email from DTSC project manager Arielle Mcleskey to Caltrans engineering geologist Adam Inman, the annual inspection referenced in the LUC was being conducted for the first time at the site. The LUC itself, according to DTSC, does not include a specific inspection form template, though such templates are sometimes included in the Operation and Maintenance Plan (OMP) or the LUC itself.
+In this project, the Land Use Covenant is being prepared to address the soil stockpiles (Sites 1–3) located adjacent to State Route 132 in Modesto. The covenant will be executed by Caltrans (as landowner/agency) and the Department of Toxic Substances Control (DTSC) as the lead regulatory oversight agency.
 
-### Site record
-- **Source document:** Approval letter for the SR 132 RAP, dated March 14, 2018 (DTSC to Caltrans). The LUC is referenced in the Feasibility Study (FS) report (June 2014, Geocon Project No. S9800-01-17) as a component of Alternative 2 (Institutional Controls), described as a "deed restriction and land use covenant" that would "prevent the site from being developed for uses that may not be suitable under the current site conditions such as residential or other 'sensitive' land uses."
-- **Requirement:** DTSC included "land use covenant" as one of the specified regulatory conditions for the remedy. The covenant is listed alongside other post-approval conditions: a Remedial Design and Implementation Plan (RDIP) before each phase, start-of-work public notices in English and Spanish, an Operation and Maintenance Plan (OMA/OMP) after Phase 1 completion, annual pavement inspection, annual groundwater monitoring, and a five-year remedy evaluation.
-- **Purpose:** To permanently prohibit activities that could compromise the containment barrier or expose humans to contaminated soil. Based on the remedy design, the covenant is expected to restrict the site to commercial/industrial use (consistent with the existing roadway and right-of-way), prohibit residential development, bar groundwater extraction, and require that any future excavation or ground disturbance be coordinated with the OMA/OMP and DTSC.
-- **Relationship to remedy:** The containment remedy relies on a physical cap (clean fill over unpaved areas, pavement over the roadway) and vertical barriers (retaining walls, bridge abutments). The covenant provides the legal mechanism to enforce maintenance of those engineered controls and prevents inadvertent exposure through incompatible land use.
-- **Timing of recordation:** The approval letter does not specify a deadline for recording the covenant. However, by February 2025, DTSC confirmed reviewing the "Final Recorded LUC" (filename: *Modesto Soil Stockpiles_ Final Recorded LUC.pdf*), indicating it had been recorded and placed on EnviroStor. The first annual inspection under the LUC occurred in March 2025.
-- **Inspection record:** The first annual inspection was conducted on March 18, 2025, by Adam Inman (Caltrans). The inspection found the facility "less than two years old" and "still in great condition" with "no issues observed." A follow-up email on June 10, 2025, confirmed no significant change in slope vegetation, with the slope in good condition and no signs of erosion or disturbance. Future re-hydroseeding is planned for the 2025 rainy season, and construction of the northern retaining wall is scheduled for Fall 2026.
+## Site record
 
-### Regulatory status
-- **Agencies involved:** DTSC (lead), Central Valley Regional Water Quality Control Board (co-regulatory).
-- **Enforcement:** The covenant is a standard DTSC requirement for remedies that leave contamination in place. Non-compliance (e.g., failure to record or enforce restrictions) could result in DTSC-issued corrective action orders or revocation of the RAP approval.
-- **Compliance:** The LUC has been recorded and is being actively managed. The first annual inspection was completed in March 2025 with no issues observed. DTSC is reviewing the inspection documentation.
+The **Fiscal Year Cost Estimate 23/24_Modesto Soil Stockpiles (900259)** document, dated for the 2023/2024 fiscal year cycle, includes the Land Use Covenant as a budgeted line item. The document estimates $5,000 for the covenant preparation and recording process, categorized under "Project Management" within the "Remedial Action" phase.
 
-### Open items
-- The exact text of the covenant (restrictions, duration, re-opener provisions) is not fully reproduced in the project record reviewed, though the recorded PDF is available on EnviroStor.
-- The relationship between the covenant and any future transfer of ownership or easement to a non-Caltrans entity is not addressed in the available source material.
-- Whether the covenant will be updated after Phase 2 (when the containment footprint may be finalized) is unspecified.
-- An inspection form template has not yet been developed; DTSC recommended Caltrans create a reusable template for future annual inspections.
+Key specific facts from the project record:
+- **Location**: The covenant applies to the three soil stockpile sites (Sites 1–3) along SR 132, Stanislaus County
+- **Regulatory framework**: Prepared under DTSC oversight, consistent with California remedial action protocols
+- **Phase**: Remedial Action phase (post-characterization, pre-closeout)
+- **Cost estimate**: $5,000 (fixed cost, not hourly or unit-based)
+- **Document source**: Fiscal Year Cost Estimate 23/24_Modesto Soil Stockpiles (900259).xlsx
+- **No specific covenant recording date or text** is documented in the source—the covenant is listed as a planned deliverable, not yet recorded or executed as of the FY 2023/2024 estimate
 
-### See also
-- [[caltrans-modesto-soil-stockpiles]]
-- Remedial Action Plan (RAP)
-- Alternative 4 (Containment)
-- DTSC – Department of Toxic Substances Control
-- [[cvrwqcb]]
-- Operation and Maintenance Plan (OMA/OMP)
+The record does not specify which contaminants or concentrations would trigger the covenant, nor whether residual contamination exceeds any specific threshold (e.g., ESL, MCL) that would necessitate a covenant rather than a less restrictive control.
+
+## Regulatory status
+
+The Land Use Covenant is in **planning/preparation** status. It has not yet been:
+- Drafted
+- Reviewed by DTSC
+- Recorded with the county recorder (Stanislaus County)
+- Signed by Caltrans
+
+The covenant will be required if DTSC determines that residual contamination in the stockpiles or underlying soil remains above residential or commercial/industrial screening levels (as applicable to future land use). The project record does not indicate whether such a determination has been made or what specific contamination levels would trigger the covenant.
+
+**Applicable regulatory authority**: DTSC under:
+- California Health and Safety Code § 25200–25202.7 (removal action authority)
+- California Civil Code § 1471 (covenant recording requirements)
+- Government Code § 8574.2 and 8574.4 (state property controls)
+
+## Open items
+
+1. **Covenant text not yet drafted**: No draft covenant language is referenced in the project record.
+2. **DTSC approval not yet obtained**: The covenant must be reviewed and approved by DTSC prior to recording.
+3. **Recording with Stanislaus County not yet completed**: Covenant must be recorded in the official county chain of title.
+4. **No determination of necessity**: The record does not document whether residual contamination levels actually require a covenant, or if a less restrictive institutional control would suffice.
+5. **No expiration or review date** specified: Covenants are typically perpetual but may include re-evaluation triggers—none are documented.
+
+## See also
+
+- Modesto Soil Stockpiles Sites 1–3  
+- Department of Toxic Substances Control (DTSC)  
+- Remedial Action Cost Estimate FY 2023/2024  
+- Institutional Controls  
+- State Route 132 Corridor

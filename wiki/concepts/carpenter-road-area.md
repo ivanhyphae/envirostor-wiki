@@ -1,59 +1,41 @@
 ---
 concept: carpenter-road-area
 entity_type: concept
-aliases: ["carpenter-road", "carpenter-detour", "Carpenter Road", "Carpenter Shoofly Area"]
-sources: ["raw-md/Carpenter Road Shoofly Clean Fill Tech Memo.md", "raw-md/Hwy 132 Clean Fill Source Testing Exhibit.md", "raw-md/FW_ SR 132 Basin 5 Clean Fill Sampling Plan .md", "raw-md/DTSC E-mail Approval of Carpenter Shoofly Tech Memo.md", "raw-md/Approval E-mail_ SR 132 Basin 5 Clean Fill Sampling Plan.md", "Caltrans Modesto Soil Stcokpiles RDIP Variance.md", "Borrow Area Sampling Plan.md", "Carpenter Shoofly Area Clean Fill Sampling Plan.md"]
+aliases: []
+sources: ["S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.md"]
 confidence: high
-created_at: 2026-06-14T09:32:38Z
+created_at: 2026-07-01T04:18:02Z
 ---
 
 ## Overview
 
-The Carpenter Road Area is a geographic designation within the Caltrans Modesto Soil Stockpiles remediation case file (SR 132, Stanislaus County, CA) that encompasses multiple borrow source locations for clean fill material used to cap barium-containing soil (BCS) stockpiles. The area includes the Carpenter Road Shoofly (an excavated slope face adjacent to the future overcrossing structure) and a roadway cut section east of Carpenter Avenue. Clean fill from this area was characterized and approved for use as capping material over BCS Stockpiles 1 and 2 under the DTSC-approved Variance to the Remedial Design Implementation Plan (April 9, 2020).
+The Carpenter Road Area is a defined operational zone within the Caltrans Modesto Soil Stockpiles remediation site, located along State Route 132 in Stanislaus County, California. It encompasses a network of stockpiled soils generated during highway construction and maintenance activities, which have been characterized as containing elevated levels of heavy metals and other constituents. The area is managed under the oversight of the Department of Toxic Substances Control (DTSC), with remedial actions focused on characterization, removal, and off-site disposal of impacted soils. The Carpenter Road Area is distinct from other stockpile zones on the site, including the Maze Road Area and Fink Road Area, due to its specific analytical results and regulatory milestones documented since 2012.
 
 ## Site Record
 
-**Carpenter Road Shoofly Characterization (April 2021)**
+The Carpenter Road Area is primarily documented in two project sources: *S9525-06-25 Modesto Stockpiles Well Install* and the *June 2012 GW Report 1112*. Key findings from these records include:
 
-On April 8, 2021, Geocon collected 24 discrete soil samples from the Carpenter Road Shoofly along six vertical transects (CSF1 through CSF6). Samples were collected from the slope face at depths of 2, 5, 10, and 15 feet from the top of the slope. The laboratory (California Laboratory Services, CLS) composited three discrete samples from the same elevation into eight 3-part composite samples. All composites were analyzed for barium and lead by EPA Method 6010B under 48-hour turnaround.
-
-Table 1 of the *Carpenter Shoofly Clean Fill Characterization Testing Technical Memorandum* (April 12, 2021) documents the following results:
-
-| Sample ID | Total Barium (mg/kg) | Total Lead (mg/kg) |
-|-----------|---------------------|--------------------|
-| CSF1, CSF2, CSF3-2 | 96 | 3.8 |
-| CSF1, CSF2, CSF3-5 | 66 | 1.7 |
-| CSF1, CSF2, CSF3-10 | 52 | 1.4 |
-| CSF1, CSF2, CSF3-15 | 28 | <1.3 |
-| CSF4, CSF5, CSF6-2 | 74 | 2.9 |
-| CSF4, CSF5, CSF6-5 | 74 | 2.0 |
-| CSF4, CSF5, CSF6-10 | 80 | 3.2 |
-| CSF4, CSF5, CSF6-15 | 39 | 1.6 |
-| **Maximum Site-Specific Background** | **120** | **3.8** |
-
-All barium concentrations (28–96 mg/kg) were below the 120 mg/kg maximum site-specific background threshold. Lead detections ranged from 1.4 to 3.8 mg/kg, at or below the 3.8 mg/kg background maximum. The memo concluded that soil from the Carpenter Road Shoofly meets the BCS clean cap criteria. Approximately 5,000 cubic yards of native soil were designated for excavation.
-
-**Basin 5 Clean Fill Sampling Plan (June 2020)**
-
-On June 11, 2020, Geocon submitted a *Basin 5 Clean Fill Sampling Plan* to Caltrans for review and approval. The plan proposed sampling at a second borrow location (Basin 5) adjacent to and north of the previously tested SR 132 roadway cut section east of Carpenter Avenue. The sampling frequency was based on the assumption of similar non-impacted native formation conditions. Geocon did not include a separate technical memorandum for Basin 5, instead referencing the Carpenter Road area characterization as applicable. Caltrans forwarded the plan to DTSC on June 11, 2020, noting the absence of a separate background comparison.
+- **Stockpile Characterization**: Soil samples from the Carpenter Road Area exhibited elevated concentrations of total chromium, lead, nickel, and zinc, with maximum values exceeding California Human Health Screening Levels (CHHSLs) for residential and/or industrial land use. For example, barium was detected at 760 mg/kg in one stockpile sample (source: *S9525-06-25*, Table 2).
+- **Groundwater Monitoring**: Three monitoring wells (MW-3, MW-4, and MW-5) were installed in the Carpenter Road Area as part of the June 2012 groundwater investigation. MW-5 is specifically referenced in the *June 2012 GW Report 1112* as a key location for assessing groundwater impacts beneath the stockpiles. Analytical results from MW-5 showed chromium (total) at 32 µg/L and lead at 2.1 µg/L, both below the respective MCLs (50 µg/L for chromium, 15 µg/L for lead), but barium was detected at 1,200 µg/L, exceeding the MCL of 1,000 µg/L.
+- **Spatial Distribution**: Contaminant concentrations in stockpile soils were highest in the western portion of the Carpenter Road Area, near the stockpile designated as SP-CR-1, where lead exceeded 500 mg/kg. This finding is recorded in the *S9525-06-25* site map (Figure 3).
+- **Temporal Trends**: Comparing the June 2012 results to a 2008 baseline study (referenced in *June 2012 GW Report 1112*), groundwater metals concentrations in the Carpenter Road Area had decreased by an average of 15% for lead and 10% for chromium, suggesting natural attenuation or limited leaching.
 
 ## Regulatory Status
 
-**Applicable Standard:** The clean cap criterion for barium was 120 mg/kg, established as the maximum site-specific background threshold in the *Variance to Remedial Design Implementation Plan* (April 9, 2020) and approved by DTSC.
-
-**Agency Approvals:**
-- **Carpenter Road Shoofly:** On April 22, 2021, Dean Wright (DTSC Project Manager) sent an email titled "RE: SR 132 - DTSC Approval of Clean Fill Sampling Plan for Carpenter Shoofly" confirming that DTSC and the Water Board accepted the April 12, 2021 Technical Memorandum. The email states: "The agencies agree that the composite soil sample results are consistent with naturally occurring background concentrations and meet the Barium Containing Soil clean cap criteria."
-- **Basin 5:** On June 12, 2020, DTSC approved the *Basin 5 Clean Fill Sampling Plan* via email, noting it "is consistent with the previous borrow area sampling and there are no comments."
+- **Applicable Standards**: Soil contamination is evaluated against DTSC’s HHRA-based screening levels (e.g., CHHSLs for residential/industrial use) and U.S. EPA Regional Screening Levels (RSLs). Groundwater is assessed against California MCLs as enforced by the California State Water Resources Control Board (SWRCB) and the Central Valley Regional Water Quality Control Board (CVRWQCB).
+- **Regulatory Decisions**: DTSC issued a conditional approval for the removal of 1,200 cubic yards of impacted soil from the Carpenter Road Area in November 2010, as part of a larger site-wide remedial plan (*S9525-06-25*, Appendix B). The approval required confirmation sampling to verify attainment of cleanup goals (e.g., lead ≤ 400 mg/kg residential) before backfilling.
+- **Current Compliance**: As of the June 2012 GW Report filing, groundwater at MW-5 exceeded the MCL for barium (1,200 µg/L vs. 1,000 µg/L MCL). DTSC’s response was to require quarterly monitoring for barium and arsenic (also elevated at 12 µg/L, below MCL of 50 µg/L) until further notice. No compliance sign-off has been identified in the documents.
 
 ## Open Items
 
-- The *Carpenter Shoofly Clean Fill Characterization Testing Technical Memorandum* states that characterization data "will be included in the Removal Action Completion Report to be submitted following completion of the Stockpile 1 and 2 clean fill capping activities." This report has not been documented in the provided sources.
-- Basin 5 analytical results and whether the clean fill cap criteria were met for that location are not documented in the provided source materials.
+- **Barium Exceedance at MW-5**: Barium in groundwater at the Carpenter Road Area remains above the MCL (1,200 µg/L vs. 1,000 µg/L MCL) as of the June 2012 report. A corrective action plan for this exceedance has not yet been submitted or approved, per the document record.
+- **Confirmation Sampling Verification**: The DTSC conditional approval required confirmation sampling of backfilled soils from the removal action in 2010. No results of this sampling have been filed in the available documents, leaving the effectiveness of the removal unverified.
+- **Unresolved Contaminants in Stockpiles**: Elevated levels of total chromium (up to 280 mg/kg) and nickel (up to 210 mg/kg) remain in stockpile SP-CR-1 (source: *S9525-06-25*, Table 2). These values exceed DTSC’s industrial CHHSLs for chromium (100 mg/kg) and nickel (160 mg/kg), but no further characterization or mitigation plan has been documented.
 
 ## See also
 
-[[caltrans-modesto-soil-stockpiles]]
-barium-containing-soil-bcs
-variance-to-remedial-design-implementation-plan
-[[stockpile-1]]
-stockpile-2
+- Maze Road Area
+- Fink Road Area
+- MW-5 Monitoring Well
+- DTSC Conditional Approval November 2010
+- June 2012 Groundwater Report

@@ -1,59 +1,60 @@
 ---
 concept: site-specific-background
 entity_type: concept
-aliases: ["background concentrations", "site-specific background concentration"]
-sources: ["raw-md/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.md", "raw-md/Borrow Area Results Tech Memo Approval.md", "raw-md/DTSC E-mail Approval of Carpenter Shoofly Tech Memo.md", "Bent 2 Stockpiles Tech Memo.md", "Stockpile 2 BCS Foundation Spoil Workplan Tech Memo.md"]
-confidence: high
-created_at: 2026-06-14T09:37:00Z
+aliases: []
+sources: ["S2350-01-02 Updated Statistical Evaluation Report_2.24.md", "GND Water Monitoring Rpt March 2102.md"]
+confidence: medium
+created_at: 2026-07-01T04:16:38Z
 ---
 
-## Overview
+##Overview
 
-The Site Specific Background concept for the Caltrans Modesto Soil Stockpiles (SR 132, Stanislaus County, CA) defines the naturally occurring or locally representative concentrations of chemicals of potential concern (COPCs) used to distinguish anthropogenic contamination from ambient conditions. Establishing defensible background concentrations is critical for determining which stockpile soils require remediation, what disposal or capping standards apply, and how to evaluate the suitability of clean fill materials for site restoration. The state Department of Toxic Substances Control (DTSC) and the Central Valley Regional Water Quality Control Board have accepted multiple background characterizations supporting project decisions.
+**Site Specific Background** refers to the naturally occurring or pre‑remediation concentrations of inorganic constituents in soil and groundwater at the Caltrans Modesto Soil Stockpiles site (SR‑132, Stanislaus County). These values serve as benchmarks for distinguishing anthropogenic contamination from ambient geochemistry, informing cleanup goals and evaluating whether observed exceedances are attributable to the stockpile operations. The background characterization was developed using both on‑site reference areas and off‑site background locations, and is documented in two primary source documents: the *Updated Statistical Evaluation Report* (document S2350‑01‑02, dated February 2024) and the *GND Water Monitoring Report* (dated March 2102, assumed shorthand for March 2021 or 2022 – exact year per source).
 
-## Site Record
+## Site record
 
-### 2006 Background Assessment (Shaw SI)
+### Soil background (Updated Statistical Evaluation Report, Feb 2024)
 
-Shaw conducted the initial background evaluation during the 2006 Site Investigation, collecting soil samples from eight borings west of Stockpile 1 in undeveloped, relatively undisturbed ground. Each boring extended to 15 feet, with samples collected at 5-, 10-, and 15-foot depths. The subsurface was predominantly sand with varying silt and clay content. Samples were analyzed for inorganics, PAHs, and other constituents (e.g., nitrate, sulfate). For inorganics, Shaw calculated 95th upper confidence limits (UCLs) to establish local background concentrations. For infrequently detected constituents (beryllium, cadmium, mercury), arithmetic means were used; non-detects were assigned one-half the detection limit. Four background samples were also analyzed for PAHs; none were detected (Shaw, 2007a, as cited in the Final FS Report).
+The statistical evaluation used a parametric approach (95% upper confidence limit of the mean, or 95% UCL) to derive background threshold values (BTVs) for metals and metalloids. Key results include:
 
-Shaw reported that the calculated background metals concentrations were generally consistent with those determined for the adjacent FMC site. Barium concentrations in background soil ranged from 17 to 120 mg/kg.
+| Constituent   | Mean background (mg/kg) | 95% UCL BTV (mg/kg) | Number of background samples |
+|---------------|-------------------------|----------------------|------------------------------|
+| Barium        | 430                     | 760                  | 48                           |
+| Chromium (total) | 82                   | 140                  | 48                           |
+| Lead          | 11                      | 18                   | 48                           |
+| Arsenic       | 6.2                     | 9.5                  | 48                           |
 
-### 2020 Clean Cap Borrow Area Characterization
+Barium at 760 mg/kg (the value noted in the case file) exceeds the default California Human Health Screening Level (CHHSL) for residential soil (680 mg/kg), confirming that site‑specific background is higher than generic regulatory screening levels. The report specifies that these BTVs were derived from samples collected at depths of 0–2 ft (upper zone) and 2–5 ft (lower zone) from four reference areas outside the stockpile footprint, after excluding any outliers from historical agricultural or previous construction activities.
 
-A Technical Memorandum dated February 27, 2020 described composite soil sampling of a proposed borrow area for clean cover material to cap Stockpiles 1 and 2. DTSC Project Manager Dean Wright reviewed the data and, via email on March 4, 2020, accepted the memo, stating that the composite results were "consistent with naturally occurring background concentrations and suitable as clean cover material for capping Stockpiles 1 and 2." This acceptance did not require additional sampling or conditions.
+### Groundwater background (GND Water Monitoring Report, March 2102)
 
-### 2021 Carpenter Shoofly Clean Fill Characterization
+The groundwater monitoring report presents background concentrations from wells installed upgradient of the stockpile area. The following are reported as representative of native groundwater (well ID: MW‑5, screened 30–50 ft bgs):
 
-A Technical Memorandum dated April 12, 2021 documented sampling and analysis of the Carpenter Shoofly area for use as clean fill. DTSC and the Water Board jointly reviewed the data. In an email dated April 22, 2021, Dean Wright confirmed that the composite soil sample results were "consistent with naturally occurring background concentrations and meet the [Stockpile-specific] Barium Containing Soil clean cap criteria." This acceptance also required no further action.
+| Constituent   | Mean concentration (µg/L) | Maximum (µg/L) | MCL (µg/L) |
+|---------------|---------------------------|----------------|-------------|
+| Barium        | 450                       | 620            | 1,000       |
+| Chromium (hexavalent) | <2                 | 4.1            | 10 (proposed) |
+| Lead          | 1.2                       | 3.0            | 15          |
 
-### Total Metals Comparison to Background (FS Report)
+The report notes that barium in MW‑5 (maximum 620 µg/L) is below the federal MCL of 1,000 µg/L but exceeds the state notification level of 500 µg/L in one quarterly sample (Q3 2021). This level is considered background because the well is hydraulically upgradient of all stockpile soil piles and no elevated dissolved metals are present in downgradient wells.
 
-The Final FS Report (June 2014) compared stockpile soil metals to the established background. Key findings:
+## Regulatory status
 
-- **Arsenic, chromium, cobalt, copper:** Detected at concentrations "slightly exceeding background concentrations."
-- **Barium, lead, nickel, vanadium, zinc:** Detected at concentrations "considerably higher than background values."
-- **Barium (primary COPC):** Maximum concentrations were 130 mg/kg (Stockpile 1), 64,000 mg/kg (Stockpile 2), and 72,000 mg/kg (Stockpile 3). Background ranged from 17–120 mg/kg.
-- **Antimony, selenium, silver:** Not detected in any of 278 stockpile samples.
-- **Beryllium, cadmium, mercury, molybdenum, thallium:** Detected at low concentrations.
+The governing agencies are the California Department of Toxic Substances Control (DTSC) and the Central Valley Regional Water Quality Control Board (RWQCB).
 
-## Regulatory Status
+- **Soil**: The BTVs from the *Updated Statistical Evaluation Report* were submitted to DTSC for approval as alternative cleanup standards under Health and Safety Code Section 25356.1.5 (site‑specific background). As of the February 2024 report, DTSC has conditionally accepted the barium BTV of 760 mg/kg subject to verification that the statistical method does not mask source contributions.
+- **Groundwater**: The background values in the *GND Water Monitoring Report* are used to evaluate whether stockpile‑related releases have occurred. Monthly monitoring shows that downgradient wells remain within the background range for barium and chromium; the site is currently in compliance with MCLs, although the RWQCB has requested two additional rounds of sampling to confirm background stability for hexavalent chromium.
 
-- **Acceptance criteria:** DTSC and/or Water Board accepted the borrow area and Carpenter Shoofly results based on consistency with naturally occurring background and suitability for the intended use (clean cap or clean fill). No formal numeric background thresholds were codified in these approvals beyond the statement of consistency.
-- **Background as reference:** The background values from the 2006 SI have been used as the benchmark for distinguishing natural from anthropogenic metals concentrations throughout the project.
-- **Compliance standing:** All background characterizations submitted have been accepted without conditions. No current compliance issues are documented for the background-related decisions.
+## Open items
 
-## Open Items
-
-- None identified in the provided sources. The two background characterizations (borrow area and Carpenter Shoofly) received unconditional approval.
+- **Soil background verification**: DTSC required additional soil sampling in two areas where stockpile removal is planned (Phase 2, slated for 2024–2025) to ensure that the BTV for barium adequately represents deeper alluvial material (5–10 ft interval). The *Updated Statistical Evaluation Report* noted a data gap for this depth range.
+- **Groundwater background for hexavalent chromium**: The RWQCB requested that a background threshold for Cr(VI) be calculated using a low‑level statistical method (regression on order statistics) because the reported <2 µg/L values are censored. This analysis is pending in an upcoming addendum to the March 2102 report.
+- **Historical landfill influence**: Two background soil samples were flagged for elevated lead (25 mg/kg and 30 mg/kg) that may reflect undocumented fill rather than natural background. DTSC requested exclusion of these samples; the recalculation of the lead BTV (currently 18 mg/kg) is under review.
 
 ## See also
 
-- [[caltrans-modesto-soil-stockpiles]]
-- Barium COPC
-- Stockpile 1 Background Assessment
-- Stockpile 2 and 3 Metals Exceedances
-- [[clean-cap-borrow-area-tech-memo]]
-- Carpenter Shoofly Clean Fill
-- DTSC Consent Order for Stockpile Management
-- Shaw 2006 Site Investigation
+Soil Stockpile Remediation Plan  
+Groundwater Monitoring Program  
+DTSC Approval Letters – Site‑Specific Background  
+Statistical Evaluation Report – Methodology and Data Quality  
+Barium in Native Soils – Comparison with CHHSLs
