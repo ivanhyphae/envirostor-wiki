@@ -1,0 +1,15 @@
+---
+source: wiki/pdf2md/1. SR_132_FEIR_EA_ 20180302 FINAL Main Doc/1. SR_132_FEIR_EA_ 20180302 FINAL Main Doc.md
+source_type: article
+source_hash: sha256:78db0cb037e0106159db7ae8a1b6ceb1610bb122239b5709d0fc5b05bd8b6368
+compiled_at: 2026-07-01T15:07:16Z
+chunk_count: 40
+---
+
+The Caltrans SR 132 West Freeway/Expressway Project, finalized in a March 2018 Final Environmental Impact Report/Environmental Assessment (FEIR/EA), proposes a four-lane freeway/expressway in Modesto, California, aimed at improving regional traffic flow and alleviating congestion by 2048. Caltrans, as the lead agency, assessed environmental impacts under CEQA and NEPA and concluded a Finding of No Significant Impact (FONSI), despite identifying several significant and unavoidable impacts.
+
+The project involves two build alternatives, with Alternative 2 selected as the preferred option due to its balance of environmental impacts, feasibility, and cost-effectiveness. Key environmental concerns include the permanent loss of 20.8 acres and temporary loss of 0.2 acres of burrowing owl habitat, removal of 0.65 acre of seasonal wetlands, up to 70 acres of Swainson’s hawk foraging habitat, and 414 trees. The project will also convert about 38.92 acres of prime farmland and 6.7 acres of Williamson Act land. An additional 57.5 acres of impervious surface could affect hydrology and water quality, necessitating mitigation with infiltration and retention/detention basins.
+
+A significant aspect of the project is the remediation of approximately 160,000 cubic yards of barium-contaminated "Caltrans Modesto Soil Stockpiles." The recommended Draft Final Remedial Action Plan (RAP) Alternative 4 involves containing this soil behind retaining walls, bridge abutments, and beneath highway pavements within the project, a solution deemed effective and cost-efficient by Caltrans and pending approval by the Department of Toxic Substances Control (DTSC) and the Central Valley Regional Water Quality Control Board (CVRWQCB).
+
+Although the project aims to reduce vehicle delays and long-term operational CO2 emissions, construction and operation will result in significant and unavoidable impacts. These include increased noise levels, potential impacts on paleontological resources, and unavoidable visual impacts due to the removal of homes and trees for the SR 132/SR 99 direct-connector flyover. These impacts are disproportionately adverse for environmental justice populations, specifically concerning noise, relocations, visual quality, and construction disturbances. The FEIR/EA concludes that the project, funded for Phase 1 construction in fiscal years 2018/2019 at an estimated cost of up to $214 million (including $1.57 million for soil remediation), is necessary to address future transportation needs, with many environmental impacts to be avoided, minimized, or mitigated.

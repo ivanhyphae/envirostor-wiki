@@ -1,0 +1,17 @@
+---
+source: wiki/pdf2md/S2350-01-02_2.1.2024 Stormwater Sampling Report_5.24/S2350-01-02_2.1.2024 Stormwater Sampling Report_5.24.md
+source_type: article
+source_hash: sha256:a3b58de2b3c435bc2e70e614547b3f8851d0c1ddd6ec41acf2548ae4f4aa750a
+compiled_at: 2026-07-01T15:16:44Z
+chunk_count: 51
+---
+
+A Stormwater Sampling Report, prepared by Geocon for Caltrans, details the stormwater sampling activities conducted on February 1, 2024, at the Caltrans Encapsulated Soil Stockpiles in Modesto, Stanislaus County. These stockpiles were created from soil excavated from the historic Barium Products Ltd./FMC facility evaporation ponds during SR 99 construction and later encapsulated beneath the SR 132 roadbed. The report summarizes findings from this new sampling event and compares them to data from March and December 2023, following protocols approved by DTSC and the Central Valley Regional Water Quality Control Board. Geocon and Stantec have been conducting sampling, with further monitoring planned for 2024.
+
+Samples were collected from designated locations (SW-East, SW-West, BG-West), field-filtered for dissolved metals, and analyzed by ASSET Laboratories for dissolved metals, polycyclic aromatic hydrocarbons (PAHs), nitrate, sulfate, sulfide, and total dissolved solids (TDS). Key findings indicate that Total Dissolved Solids (42-180 mg/L) and Sulfate (<2.0-38 mg/L) were well below their secondary Maximum Contaminant Levels (MCLs) of 500 mg/L and 250 mg/L, respectively. Barium and Zinc were detected but remained below primary or secondary drinking water MCLs, with Barium ranging from 10 µg/L to 900 µg/L (MCL: 1,000 µg/L). Copper was detected in SW-East (13 µg/L), significantly below its 1,300 µg/L MCL. Strontium was found in SW-East and SW-West, with no established MCL. Other metals like Antimony, Arsenic, Cadmium, Chromium, Lead, Nickel, and Selenium were all below their respective MCLs. However, Thallium, though not detailed for this specific event, exceeded the primary MCL in December 2023 samples, highlighting it as a contaminant of concern. No discharge or runoff was observed during the February 1, 2024, sampling, and laboratory quality control data met acceptable standards.
+
+ASSET Laboratories' Analytical Results Report, printed on February 12, 2024, presented the detailed analyses. For instance, Total Dissolved Solids were 63 mg/L, Sulfate 3.6 mg/L, Barium 0.52 mg/L, and Zinc 0.24 mg/L. Most other metals were "ND" (Not Detected). The report also included extensive Quality Control (QC) summaries for analytes using EPA methods, confirming results were generally within acceptable recovery limits with no significant exceedances of QC thresholds. The Chain of Custody Records and a Work Order Summary confirmed samples were collected by T. Esquirel of Geocon on February 1, 2024, received by ASSET Laboratories on February 2, 2024, with proper handling and a sample temperature of 2.4 °C.
+
+An Advanced Technology Laboratories, Inc. shipping label for Marlon Cartin prepared on January 24, 2024, indicates a shipment to ASSET LABORATORIES, with General Logistics Systems US, Inc. (GLS) as the carrier. This label emphasizes terms and conditions, including non-transferability and adherence to GLS service terms.
+
+The overall conclusion is that most contaminant levels are below regulatory thresholds, but the historical exceedance of thallium necessitates continued vigilance. Caltrans plans additional stormwater sampling during qualifying rain events in 2024 as part of ongoing monitoring obligations.

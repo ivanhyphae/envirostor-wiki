@@ -1,0 +1,25 @@
+---
+source: wiki/pdf2md/SR_132_DEIR_EA_Append_A-F/SR_132_DEIR_EA_Append_A-F.md
+source_type: article
+source_hash: sha256:f76ee194bba8ccc520e8908dbff86892898535aa6502d0a489dad0505dff089a
+compiled_at: 2026-07-01T15:11:33Z
+chunk_count: 167
+---
+
+This document, an Appendix to the Caltrans Modesto Soil Stockpiles Remediation project (SR 132) Environmental Impact Report/Environmental Assessment (EIR/EA), details comprehensive evaluations and policies concerning potential impacts and relocation assistance.
+
+Initial assessments confirm that the project avoids any "Section 4(f) use" of historic properties (3530 Maze Boulevard and 416/418 I Street, Modesto), which are eligible for the National Register of Historic Places, as it will not acquire or impact their historic boundaries, access, noise, or visual quality. Similarly, several recreational resources, including Charles M. Sharp Park, J.M. Pike Park, Cesar E. Chavez Park, Maddux Youth Center, Mellis Park, and the Virginia Corridor Trailway, are either too distant from the project (over 0.2 miles) or will not experience construction impacts, thereby avoiding Section 4(f) or 6(f) triggers. Mellis Park and the Virginia Corridor Trailway are specifically noted for their Section 6(f) protection due to Land and Water Conservation Fund Act funding.
+
+The document extensively details Caltrans' Relocation Assistance Program, emphasizing a "uniform policy for fair and equitable treatment" to minimize hardship for displaced individuals, families, businesses, farms, and non-profit organizations. This program, outlined in both English and Spanish (as a public information brochure for the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970), ensures that displaced persons do not suffer disproportionately due to public programs. Caltrans is responsible for property acquisition and providing benefits, ensuring replacement housing is "decent, safe, and sanitary" (DS&S), functionally equivalent, adequately sized, and located in a generally not less desirable area.
+
+Key provisions of the Relocation Assistance Program include:
+*   **Eligibility and Benefits:** Assistance is for eligible displaced parties, though residents not lawfully present in the U.S. are ineligible for direct relocation payments.
+*   **Financial Assistance:** Includes moving costs (actual reasonable costs or a fixed schedule), and various replacement housing payments. Owner-occupants (180+ days) may receive Price Differential, Mortgage Differential, and Incidental Expenses (up to $22,500). Tenants and 90-day owner-occupants may receive a Rent Differential (up to 42 months of payments), which can be converted to a Downpayment Option for home purchase. Mobile home owners and occupants have specific provisions for moving and restitution housing payments depending on ownership and occupancy duration.
+*   **Nonresidential Relocation:** Businesses, farms, and non-profits are eligible for moving expenses (up to $2,500 for search costs), reestablishment expenses (up to $10,000), or a fixed "in lieu" payment ($1,000 to $20,000), with California law also allowing for lost goodwill payments.
+*   **Process and Rights:** Caltrans provides advisory assistance, a Relocation Agent, and at least 90 days' written notice before a move. Relocation payments are generally not considered income for tax or social security purposes. Displacees have the right to appeal payment decisions. Claims must generally be filed within 18 months of vacating the property or receiving acquisition payment.
+*   **Last Resort Housing:** Special provisions allow Caltrans to construct, rehabilitate, or modify housing, potentially exceeding standard payment limits, to ensure comparable and affordable options when replacement housing is otherwise unavailable.
+*   **Non-discrimination:** Caltrans adheres to Title VIII of the Civil Rights Act of 1968 (Fair Housing Law) and Title VI of the 1964 Civil Rights Act, ensuring non-discriminatory practices in housing and provision of services regardless of race, color, religion, sex, national origin, or income.
+
+Specifically for the SR 132 project, Appendix E outlines environmental commitments and mitigation measures, including restricting construction to the right-of-way, coordinating with property owners for access, and minimizing land use impacts through design refinements. Caltrans also addresses agricultural impacts (reconstructing irrigation systems, compensating for crop damage), community impacts (assigning a right-of-way specialist, aiding with relocations), and visual impacts (conforming to local tree ordinances, replacing vegetation, using directional lighting, and landscaping).
+
+In essence, the project minimizes environmental and historical impacts by avoiding land use from protected resources and guarantees a comprehensive and equitable relocation assistance program for any potentially displaced individuals or entities, adhering to federal and state regulations while addressing broader environmental and community considerations.

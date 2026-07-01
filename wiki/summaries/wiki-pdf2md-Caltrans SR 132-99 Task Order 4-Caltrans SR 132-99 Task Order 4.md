@@ -1,0 +1,13 @@
+---
+source: wiki/pdf2md/Caltrans SR 132-99 Task Order 4/Caltrans SR 132-99 Task Order 4.md
+source_type: article
+source_hash: sha256:e6135b2c2ee0cae14ece833bb5702a5a957d8c8108f766d3aa34868763fcd376
+compiled_at: 2026-07-01T15:10:25Z
+chunk_count: 8
+---
+
+This document, Task Order No. 4 under Interagency Agreement No. 43A0310, formalizes a collaboration between Caltrans and the California Department of Toxic Substances Control (DTSC) for the remediation of hazardous substances at the Caltrans Modesto Soil Stockpiles site, located in Stanislaus County, Modesto, CA. The agreement, effective from June 1, 2013, to May 31, 2016, outlines Caltrans' responsibility to fund up to $172,000 for DTSC's oversight and consultative services during this period.
+
+The Modesto Soil Stockpiles are impacted by metals, including barium, lead, and strontium, which pose risks to human health and water quality, necessitating remediation prior to the construction of the State Route 132 West Expressway. Remedial actions include updating the Preliminary Endangerment Assessment (PEA) and Human Health Risk Assessment (HHRA), potentially conducting additional site characterization, evaluating risks and determining cleanup levels, and developing a Feasibility Study (FS) and Remedial Action Plan (RAP). The RAP, which will be incorporated into the project's Environmental Impact/Environmental Assessment (EIR/EA), will detail steps for addressing contaminated soil, surface water, and groundwater. Following RAP approval, a Remedial Design and Implementation Plan (RDIP) will guide the actual cleanup, including health and safety protocols and community air monitoring. Caltrans is responsible for implementing the approved RAP and RDIP, submitting an implementation report, and for ongoing operation and maintenance (O&M), which includes quarterly groundwater monitoring and an O&M agreement with DTSC.
+
+DTSC, alongside the Central Valley Regional Water Quality Control Board, provides regulatory oversight, reviewing and approving all submitted plans and reports. The process includes significant public participation, with Caltrans required to prepare a Public Participation Plan, develop fact sheets, and hold public meetings. All submitted documents to DTSC, including large project files, must adhere to specific digital guidelines, such as being searchable via Optical Character Recognition (OCR) for web accessibility compliance, having a maximum file size of 15 MB, and using specific naming conventions. The task order outlines detailed cost estimates for DTSC's oversight through Fiscal Year 2015/16, allocating labor and resources for various review, approval, and consultation activities, including site certification upon completion of remediation.

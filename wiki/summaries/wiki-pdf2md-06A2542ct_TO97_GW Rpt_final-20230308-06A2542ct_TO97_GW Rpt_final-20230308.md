@@ -1,0 +1,11 @@
+---
+source: wiki/pdf2md/06A2542ct_TO97_GW Rpt_final.20230308/06A2542ct_TO97_GW Rpt_final.20230308.md
+source_type: monitoring_report
+source_hash: sha256:36c0d964e7230067fa457eb6804f9597026a83ddf456d01443b96ca53b8eb32b
+compiled_at: 2026-07-01T15:12:54Z
+chunk_count: 32
+---
+
+A series of Groundwater Monitoring Reports, primarily from Stantec Consulting Services Inc. for Caltrans under Contract No. 06A2542, Task Order No. 97, detail groundwater monitoring efforts at the former Modesto Soil Stockpile Encapsulation Project site in Stanislaus County, covering periods from June 2006 to March 2023. Monitoring focused on a network of ten wells (MW-1 to MW-10), later reduced to four (MW-4, MW-6, MW-9, MW-10) due to decommissioning for highway construction. Additionally, a January 2023 monitoring round included wells GW-1 through GW-6.
+
+A significant challenge during the November 2022 to March 2023 period was the consistent lack of measurable groundwater in several wells (MW-2, MW-3, MW-4, MW-5, MW-6, MW-8, MW-9, MW-10), preventing sampling and analysis. MW-10 was initially unlocatable, hindering some gauging attempts. However, separate monitoring efforts in January 2023 by Cambria Environmental Technology, Inc. and another Caltrans report (Task Order ES-19-0010) did detect groundwater and analyzed for Title 22 Metals and PAHs in other wells. These reports identified barium and lead exceeding Maximum Contaminant Levels (MCLs) in some wells; specifically, barium in MW-1 (1,100 µg/L) and lead in MW-2 (36 µg/L) surpassed their respective MCLs of 1,000 µg/L and 15 µg/L. Other analytes like arsenic (up to 89.6 µg/L against a 10 µg/L MCL) and chromium (up to 73 µg/L) also approached or exceeded MCLs. Groundwater flow in January 2023 was observed to be to the south-southwest. Caltrans recommended continued quarterly monitoring to track contaminant trends, and existing recommendations include semi-annual depth-to-water measurements and annual groundwater sampling. The reports were submitted to regulatory bodies including the California Department of Toxic Substances Control (DTSC) and the Central Valley Regional Water Quality Control Board (CVRWQCB). Historical data, including findings from Shaw Environmental, Inc. and split sampling with the CVRWQCB, is incorporated into these ongoing efforts.

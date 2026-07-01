@@ -1,0 +1,13 @@
+---
+source: wiki/pdf2md/S1200-01-01 Modesto Stockpiles GW April 2017_07.17/S1200-01-01 Modesto Stockpiles GW April 2017_07.17.md
+source_type: monitoring_report
+source_hash: sha256:1ff71393783ea351df627c0d39e3bea9b798ea9afaa60cc5ada748d1de9d6d3c
+compiled_at: 2026-07-01T15:14:54Z
+chunk_count: 73
+---
+
+This groundwater monitoring report by Geocon Consultants, Inc. for Caltrans District 6 details semi-annual depth-to-groundwater measurements and annual groundwater sampling at the Caltrans Modesto Soil Stockpiles (Project No. S1200-01-01), with monitoring protocols approved by the DTSC. Groundwater depth and flow direction were evaluated in October 2016 and April 2017. In October 2016, depth to groundwater ranged from 38.77 to 47.10 feet below TOC, with flow consistently southward. In April 2017, depth to groundwater ranged from 35.52 to 40.73 feet below TOC, with an east-southeastward flow, consistent with historical trends.
+
+The April 2017 sampling round, conducted from April 12-20, provided a comprehensive analysis of dissolved metals (Title 22) and general mineral analytes. Dissolved metals, including barium (33-180 µg/L), strontium (190-1,200 µg/L), arsenic (1.6-4.8 µg/L), and vanadium (21-34 µg/L), were detected, generally consistent with historical levels. However, nitrate as nitrogen (2.6-24 mg/L) exceeded the primary MCL of 10 mg/L in MW-1, MW-2, and MW-4, and Total Dissolved Solids (TDS) (230-550 mg/L) exceeded the secondary MCL of 500 mg/L in MW-1, MW-2, and MW-4. Other analytes measured included chloride, sulfate, calcium, magnesium, potassium, sodium, sulfide, and polycyclic aromatic hydrocarbons (PAHs). Analyses, performed by Advanced Technology Laboratories (ATL) using EPA methods 6020 and 7470A, detected various dissolved CAM 17 metals (e.g., Antimony, Arsenic, Barium, Cadmium, Chromium, Lead, Manganese, Selenium, Mercury), with concentrations often reported in ug/L.
+
+Several wells (MW-3, MW-4, and MW-8 in October 2016; MW-5, MW-6, MW-8, MW-9, and MW-10 in April 2017) were dry or had insufficient water for sampling. QA/QC considerations for April 2017 included a duplicate sample for MW-7 (MW-11) showing high RPDs for sulfide and carbonate, resulting in qualified (estimated) results. Laboratory narratives indicated dilutions for high analyte concentrations and some MS/MSD analytes outside control limits, though overall results were validated by laboratory control samples. Various data qualifiers (R, M1, I, E, D1, D5, D6, ND) were used, and GEOCON requested clarification on dilutions and potential re-runs. Manganese concentrations in MW-2 are noted for separate discussion.

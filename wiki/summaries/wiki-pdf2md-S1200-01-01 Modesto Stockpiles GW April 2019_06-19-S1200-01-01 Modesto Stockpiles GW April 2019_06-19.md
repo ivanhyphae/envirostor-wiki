@@ -1,0 +1,13 @@
+---
+source: wiki/pdf2md/S1200-01-01 Modesto Stockpiles GW April 2019_06.19/S1200-01-01 Modesto Stockpiles GW April 2019_06.19.md
+source_type: monitoring_report
+source_hash: sha256:c5474bc448360abb54891d35fa129831911fe5138bce19a8745f04182ab23cff
+compiled_at: 2026-07-01T15:23:17Z
+chunk_count: 95
+---
+
+This groundwater monitoring report, prepared by Geocon Consultants, Inc. for Caltrans Project No. S1200-01-01, details semiannual groundwater assessments conducted in October 2018 and April 2019 at the Caltrans Modesto Soil Stockpiles in Stanislaus County, California, under DTSC oversight. Groundwater was sampled from up to ten monitoring wells, with depth-to-water measurements ranging from approximately 34 to 47 feet below casing, indicating a consistent south to southeast flow at a gradient of 0.008 to 0.01 ft/ft.
+
+The April 2019 sampling event (conducted April 9-17) involved wells MW-1, MW-3, MW-4, MW-5, MW-6, MW-7, MW-8, and MW-11. Analytes included dissolved metals (e.g., barium, strontium, manganese, calcium, magnesium, sodium), general minerals (e.g., nitrate, total dissolved solids (TDS), chloride, sulfate, alkalinity), and field parameters. Historically, nitrates (as nitrogen) and TDS have frequently exceeded California's primary and secondary Maximum Contaminant Levels (MCLs), particularly in wells MW-1, MW-2, MW-5, MW-6, and MW-10. During the April 2019 event, MW-5 notably exhibited a nitrate concentration of 40 mg/L and a TDS of 760 mg/L, both exceeding MCLs, and manganese (59 ug/L). MW-1 also showed elevated TDS (630 mg/L). Other dissolved metals like barium and strontium were similar to historical levels and generally below thresholds, though some, such as chromium (up to 8.7 ug/L in MW-5) and copper (up to 8.3 ug/L in MW-4), were detected. Many potentially toxic metals (e.g., antimony, arsenic, lead, mercury) were consistently not detected (ND).
+
+Groundwater chemistry remained primarily calcium-dominant in most wells, with some sodium-dominant wells. Laboratory quality assurance indicated overall data validity despite some samples requiring dilution, minor matrix interferences, and occasional matrix spike recoveries falling outside acceptance limits for certain analytes (e.g., sulfate, calcium, magnesium, copper, potassium, sodium, strontium, and zinc). However, Laboratory Control Samples (LCS) generally showed acceptable recoveries, and blanks were largely free of contamination. Caltrans funds this annual monitoring, with Geocon responsible for execution and reporting.

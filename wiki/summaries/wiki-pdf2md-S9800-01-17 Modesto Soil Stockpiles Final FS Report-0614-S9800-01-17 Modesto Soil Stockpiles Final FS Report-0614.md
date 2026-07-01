@@ -1,0 +1,13 @@
+---
+source: wiki/pdf2md/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.md
+source_type: assessment
+source_hash: sha256:bfe1014efe7902828be0d81f17d209cbbbdf9d8bfce877498025329835fe6c2f
+compiled_at: 2026-07-01T15:07:55Z
+chunk_count: 30
+---
+
+This Final Feasibility Study (FS), prepared by GEOCON Consultants, Inc. in June 2014 for the Caltrans Modesto Soil Stockpiles (Project No. S9800-01-17), evaluates remedial alternatives for three soil stockpiles containing barium, PAHs, and other metals. These stockpiles, located in Modesto, Stanislaus County, were created from pond tailings from a former chemical processing facility and range from 24,000 to 102,000 cubic yards in volume. The FS complies with requirements from the California Department of Toxic Substances Control (DTSC) and the Central Valley Regional Water Quality Control Board (CVRWQCB).
+
+Previous Human Health Risk Assessments (HHRAs) in 2007 and 2013 concluded that, with proper management (fencing, signage, vegetative cover, and no disturbance of deeper soil), the stockpiles do not pose unacceptable cancer risks or non-cancer hazards to offsite residents, trespassers, future construction workers, or shallow groundwater users. Despite the CVRWQCB's concerns about groundwater impact, COPC concentrations in groundwater remain below California MCLs, and DTSC concurred that a numerical cleanup goal was unnecessary, favoring a performance-based approach to prevent exposure and groundwater threats.
+
+The FS identifies Remedial Action Objectives (RAOs) focused on protecting human health and preventing future groundwater impact. It screens general response actions and evaluates four specific alternatives: No Action, Institutional Controls, Removal (excavation and off-site disposal), and Containment (capping). After comparative analysis against NCP criteria, **Alternative 4 – Containment, specifically "By Capping with the SR-132 Project," was recommended.** This approach involves integrating the soil stockpiles as fill for the SR-132 Project embankments, retaining walls, bridge abutments, and beneath roadway pavements. The interim plan (2018) includes covering portions with roadways and capping remaining areas with a vegetated, clean soil cap, with ultimate build-out (2028) aiming for complete containment within the project infrastructure. Remedial technologies like soil washing and soil mixing were screened out due to technical implementability, high costs, or regulatory concerns. The path forward includes the development of a Remedial Action Plan (RAP) and a Remedial Design Implementation Plan (RDIP, with Caltrans responsible for ongoing management of the stockpiles.

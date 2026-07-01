@@ -1,40 +1,52 @@
 ---
 concept: interim-phase-1-sr-132-west-project
 entity_type: concept
-aliases: ["Interim Phase 1 SR-132 West Project", "Phase 1 SR-132 West Project"]
-sources: ["Acceptance Letter_Final Removal Action Completion Report_Modesto Soil Stockpiles (900259).md", "Errata to January 2019 RDIP - SR 132 West Expressway Phase 1.md", "Fiscal Year Cost Estimate 23_24_Modesto Soil Stockpiles (900259).md", "Fiscal Year Cost Estimate 24_25_Modesto Soil Stockpiles (900259).md"]
-confidence: medium
-created_at: 2026-07-01T04:16:49Z
+aliases: ["Interim Phase 1 SR-132 West Project"]
+sources: ["wiki/pdf2md/OM Plan Comments (900259)/OM Plan Comments (900259).md", "wiki/pdf2md/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19.md"]
+confidence: high
+created_at: 2026-07-01T15:32:37Z
 ---
 
-##Overview
+## Overview
 
-The **Interim Phase 1 SR 132 West Project** (also referred to in project records as the SR 132 West Expressway Phase 1) is a early‑action remedial component of the larger Caltrans Modesto Soil Stockpiles remediation case (Stanislaus County, California). Its purpose is to address contaminated soil stockpiles that originated from previous Caltrans operations along the SR 132 corridor. The project is documented in a series of regulatory and financial records: an Acceptance Letter for a Final Removal Action Completion Report, an Errata to the January 2019 Remedial Design Implementation Plan (RDIP), and Fiscal Year Cost Estimates for FY 2023/24 and FY 2024/25. These documents collectively define the interim phase’s scope, regulatory approval status, and ongoing cost obligations.
+The **Interim Phase 1 SR 132 West Project** is the initial remedial component of the Caltrans Modesto Soil Stockpiles case (Site Code 900259) in Stanislaus County, California. This interim phase addresses two barium-containing soil (BCS) stockpiles located along State Route 132. The primary remedial action involved placing a clean cap cover over the stockpiles, with the portion of SR 132 freeway serving as the cap surface. An Operation and Maintenance (O&M) Plan, dated March 2022, was developed to govern long-term inspection, maintenance, and repair of this cap system.
 
 ## Site Record
 
-The primary site‑specific facts are drawn from the following project sources:
+The key project document is the **Draft Operation and Maintenance Plan, Caltrans Modesto Soil Stockpiles, Interim Phase 1 State Route 132 West Project, Stanislaus County, California, dated March 2022** (hereafter Draft O&M Plan). This plan was submitted by Geocon Consultants Inc. on behalf of the California Department of Transportation (Caltrans). The Draft O&M Plan was intended for inclusion as **Appendix G** of the Remedial Action Completion Report.
 
-| Source Document | Key Content |
-|----------------|-------------|
-| **Acceptance Letter_Final Removal Action Completion Report_Modesto Soil Stockpiles (900259)** | DTSC acceptance of the completion report for the removal action. The letter confirms that the interim removal action at the Modesto Soil Stockpiles (SR 132 West) met the approved objectives and that no further interim action is required under Phase 1. Specific acceptance conditions (if any) are not detailed in the file name alone; the letter is the definitive regulatory acknowledgment. |
-| **Errata to January 2019 RDIP – SR 132 West Expressway Phase 1** | Corrects the original RDIP for Phase 1. The errata clarifies design specifications, volume estimates, or compliance criteria that were amended after the initial plan. Without the full text, the exact revisions are unknown, but the document’s existence indicates that the Phase 1 design was adjusted prior to implementation. |
-| **Fiscal Year Cost Estimate 23_24_Modesto Soil Stockpiles (900259)** | Provides the projected budget for the stockpile management and associated activities during FY 2023/24. The estimate likely covers monitoring, maintenance, and possibly additional soil handling. |
-| **Fiscal Year Cost Estimate 24_25_Modesto Soil Stockpiles (900259)** | Continues cost projections into FY 2024/25, indicating that the project remains active for budgeting purposes beyond the interim action. |
+The Draft O&M Plan outlines activities associated with inspection, maintenance, and repair of the portion of SR 132 that serves as the **clean cap cover over two barium-containing soil (BCS) stockpiles**. Accompanying the Draft O&M Plan was a blank **O&M Site Inspection Form** for field crews to document cap condition and freeway integrity.
 
-No specific concentration values, volumes, or exceedance data are available from the source file names alone; those details would appear in the body of the referenced documents.
+The California Department of Toxic Substances Control (DTSC), in consultation with the Central Valley Regional Water Quality Control Board (RWQCB), issued formal review comments on the Draft O&M Plan via letter dated **August 1, 2022**, from Dean Wright, P.G., DTSC Project Manager. The DTSC letter identified six specific deficiencies requiring correction before the O&M Plan could be finalized:
+
+1. **Spelling error**: "Maintenance" misspelled in the Subject line of the Draft O&M Plan.
+2. **Section 2.1 – Advance notification**: Required inclusion of a minimum of **10 working days advance notice** to DTSC before any BCS disturbance, to ensure prior written authorization.
+3. **Section 2.4 – Health and Safety Code compliance**: Required text indicating that **Health and Safety Code (HSC) 25123.3(b)(4)(A)** requirements will be met. DTSC noted that the minimum thickness of **6 millimeters** provided met HSC requirements (though HSC uses mils, not millimeters), and the word "millimeter" was misspelled.
+4. **Section 3.1 – Inspections after events**: Required revision to indicate that in addition to annual inspections, inspections will also occur after **fires, substantial rainfall (1 inch in 24 hours), significant seismic events, traffic accidents that may cause damage to the cap**, etc., particularly for the north vegetated slope that remains until final freeway completion.
+5. **Section 2.7 – Unauthorized access**: Required that periodic patrols note whether unauthorized access (e.g., homeless encampments) has impacted the cap, especially on the north vegetated slope.
+6. **O&M Site Inspection Form**: Required expansion of line items under each stockpile with subheadings listing specific elements: **MSE Wall** (bulging areas, out of plane), **Highway Pavement** (cracks, potholes), **Median and Shoulders** (cracks, potholes), **North Slope** (vegetation, rills, slumping), **Storm Drains** (debris/obstructions, erosion around inlets/outlets).
+
+No concentration values, soil volumes, or analytical data for the BCS stockpiles are provided in this source document.
 
 ## Regulatory Status
 
-The applicable regulatory framework involves the California Department of Toxic Substances Control (DTSC). The Acceptance Letter issued by DTSC for the Final Removal Action Completion Report signifies that the removal action conducted under Interim Phase 1 has been **accepted as complete**. This acceptance does not necessarily close the entire case but marks the completion of this interim phase under the project’s regulatory oversight. The Errata to the RDIP indicates that the Phase 1 design was subject to agency review and correction prior to implementation.
+The regulatory oversight is joint: **DTSC** (Site Evaluation and Remediation Unit, Site Mitigation and Restoration Program) in consultation with the **Central Valley RWQCB**. The applicable standard invoked for cap thickness is **Health and Safety Code Section 25123.3(b)(4)(A)** , which specifies minimum liner/cap requirements (stated in mils). The Draft O&M Plan had not yet been accepted as final as of August 1, 2022; DTSC required revisions and resubmission as Appendix G of the Remedial Action Completion Report before the interim phase could be considered fully closed.
 
 ## Open Items
 
-The provided source document titles do not explicitly identify unresolved issues. However, the existence of continuing Fiscal Year Cost Estimates for FY 2023/24 and FY 2024/25 suggests that **post‑interim‑phase activities** (e.g., monitoring, reporting, or residual soil management) are still being budgeted and may require future deliverables. Whether DTSC has required additional sampling, confirmation soil testing, or a final close‑out report is not stated in the file names; the Acceptance Letter itself may contain conditions that are not captured here. No contested claims or pending enforcement actions are documented in the available references.
+As of the August 1, 2022 DTSC comment letter, the following items remained open:
+
+- The Draft O&M Plan had not been finalized or accepted by DTSC.
+- Six specific corrections identified in the DTSC comment letter had not yet been incorporated.
+- The final Remedial Action Completion Report with the revised O&M Plan as Appendix G had not been submitted.
+- A revised O&M Plan incorporating DTSC and RWQCB comments was required prior to acceptance of the interim phase as complete.
+- Ongoing compliance with HSC 25123.3(b)(4)(A) requirements for cap integrity remained to be demonstrated through the finalized inspection and maintenance protocols.
 
 ## See Also
 
 - Modesto Soil Stockpiles (900259)
-- SR 132 West Expressway
-- Final Removal Action Completion Report – Modesto Soil Stockpiles
-- January 2019 RDIP – SR 132 West Expressway Phase 1
+- Geocon Consultants Inc
+- California Department of Toxic Substances Control
+- Central Valley Regional Water Quality Control Board
+- Health and Safety Code Section 25123.3
+- Remedial Action Completion Report – Modesto Soil Stockpiles

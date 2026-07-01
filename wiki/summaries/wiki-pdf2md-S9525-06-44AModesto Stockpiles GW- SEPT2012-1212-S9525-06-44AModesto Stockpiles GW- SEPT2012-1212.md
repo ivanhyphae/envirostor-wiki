@@ -1,0 +1,9 @@
+---
+source: wiki/pdf2md/S9525-06-44AModesto Stockpiles GW. SEPT2012.1212/S9525-06-44AModesto Stockpiles GW. SEPT2012.1212.md
+source_type: article
+source_hash: sha256:455a7f921cef5731d805b4fbf1832f479089f14639bf4be4d0738205a7a535a0
+compiled_at: 2026-07-01T15:21:31Z
+chunk_count: 33
+---
+
+The Geocon Consultants, Inc. December 2012 Groundwater Monitoring Report details the September 2012 sampling event at the Caltrans Modesto Soil Stockpiles site, confirming consistent groundwater flow to the southeast. Analysis of ten monitoring wells revealed Polycyclic Aromatic Hydrocarbons (PAHs) were not detected, and most dissolved metals like barium, lead, and strontium remained below water quality thresholds, aligning with historical data. However, several exceedances of regulatory limits were noted, including nitrate in MW-1, MW-5, MW-6, MW-9, and MW-10, and Total Dissolved Solids (TDS) in MW-5, MW-6, and MW-10. Historically, beryllium and lead exceedances were also recorded. Upgradient well MW-1's concentrations suggest some levels may be natural background conditions. Groundwater, predominantly bicarbonate, showed variations in sodium, potassium, and calcium, with field measurements confirming typical ranges for dissolved oxygen, temperature, and pH. Split samples analyzed by Advanced Technology Laboratories (ATL) and Excelchem Environmental Labs corroborated these findings, and ATL's detailed report further confirmed the absence of PAHs and provided specific cation and anion balances for wells like MW-5, MW-7, MW-8, and MW-10, along with arsenic levels. The "Eq. Blank" sample validated equipment cleanliness. The overall document includes figures in Appendix C, but specific authorship and date for this section are not provided.
