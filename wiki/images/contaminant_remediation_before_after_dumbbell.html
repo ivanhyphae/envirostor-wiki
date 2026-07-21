@@ -1,0 +1,96 @@
+<h2 style="position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">A before-and-after chart showing three contaminants whose concentrations dropped from peak detections to current or post-remediation levels relative to their regulatory limits, with year labels and hover detail on health impacts.</h2>
+
+<div style="display:flex;gap:16px;flex-wrap:wrap;align-items:center;margin-bottom:1.5rem;font-size:12px;color:var(--text-secondary);">
+  <span style="display:flex;align-items:center;gap:4px;"><span style="width:10px;height:10px;border-radius:50%;background:#85B7EB;display:inline-block;"></span>Peak detected</span>
+  <span style="display:flex;align-items:center;gap:4px;"><span style="width:10px;height:10px;border-radius:50%;background:#0C447C;display:inline-block;"></span>Current / post-remediation</span>
+  <span style="display:flex;align-items:center;gap:4px;"><span style="width:12px;height:0;border-top:2px dashed #898781;display:inline-block;"></span>Regulatory limit</span>
+</div>
+
+<div id="dumbbellChart" style="position:relative;">
+
+  <div class="row" data-peak="9.5" data-current="0.56" style="position:relative;padding-bottom:20px;margin-bottom:20px;border-bottom:0.5px solid var(--border);">
+    <p style="font-size:13px;font-weight:500;color:var(--text-primary);margin:0 0 22px;">Lead &mdash; soil <span style="font-weight:400;color:var(--text-secondary);">(mg/kg vs. 80 mg/kg limit)</span></p>
+    <div class="track" style="position:relative;height:16px;">
+      <div class="connector" style="position:absolute;top:7px;height:2px;background:#B4B2A9;"></div>
+      <div class="dot-wrap peak" style="position:absolute;top:0;">
+        <div style="position:absolute;bottom:22px;left:50%;transform:translateX(-50%);font-size:11px;color:var(--text-muted);white-space:nowrap;">2012</div>
+        <div style="width:16px;height:16px;border-radius:50%;background:#85B7EB;border:2px solid var(--surface-2);"></div>
+        <div class="tip" style="position:absolute;top:22px;left:50%;transform:translateX(-50%);opacity:0;transition:opacity .15s;background:var(--surface-2);border:0.5px solid var(--border);border-radius:var(--radius);padding:6px 10px;font-size:12px;color:var(--text-secondary);width:210px;pointer-events:none;z-index:2;">760 mg/kg detected in the Stockpile S-3 hot spot. Lead is a neurotoxin with no safe exposure level.</div>
+      </div>
+      <div class="dot-wrap current" style="position:absolute;top:0;">
+        <div style="position:absolute;bottom:22px;left:50%;transform:translateX(-50%);font-size:11px;color:var(--text-muted);white-space:nowrap;">2020</div>
+        <div style="width:16px;height:16px;border-radius:50%;background:#0C447C;border:2px solid var(--surface-2);"></div>
+        <div class="tip" style="position:absolute;top:22px;left:50%;transform:translateX(-50%);opacity:0;transition:opacity .15s;background:var(--surface-2);border:0.5px solid var(--border);border-radius:var(--radius);padding:6px 10px;font-size:12px;color:var(--text-secondary);width:210px;pointer-events:none;z-index:2;">45 mg/kg residual after 2019&ndash;2020 excavation &mdash; below the limit.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="row" data-peak="2.47" data-current="0.93" style="position:relative;padding-bottom:20px;margin-bottom:20px;border-bottom:0.5px solid var(--border);">
+    <p style="font-size:13px;font-weight:500;color:var(--text-primary);margin:0 0 22px;">Lead &mdash; groundwater <span style="font-weight:400;color:var(--text-secondary);">(&micro;g/L vs. 15 &micro;g/L MCL, well MW-5)</span></p>
+    <div class="track" style="position:relative;height:16px;">
+      <div class="connector" style="position:absolute;top:7px;height:2px;background:#B4B2A9;"></div>
+      <div class="dot-wrap peak" style="position:absolute;top:0;">
+        <div style="position:absolute;bottom:22px;left:50%;transform:translateX(-50%);font-size:11px;color:var(--text-muted);white-space:nowrap;">2012</div>
+        <div style="width:16px;height:16px;border-radius:50%;background:#85B7EB;border:2px solid var(--surface-2);"></div>
+        <div class="tip" style="position:absolute;top:22px;left:50%;transform:translateX(-50%);opacity:0;transition:opacity .15s;background:var(--surface-2);border:0.5px solid var(--border);border-radius:var(--radius);padding:6px 10px;font-size:12px;color:var(--text-secondary);width:210px;pointer-events:none;z-index:2;">37 &micro;g/L, above the federal MCL, before source removal.</div>
+      </div>
+      <div class="dot-wrap current" style="position:absolute;top:0;">
+        <div style="position:absolute;bottom:22px;left:50%;transform:translateX(-50%);font-size:11px;color:var(--text-muted);white-space:nowrap;">2020</div>
+        <div style="width:16px;height:16px;border-radius:50%;background:#0C447C;border:2px solid var(--surface-2);"></div>
+        <div class="tip" style="position:absolute;top:22px;left:50%;transform:translateX(-50%);opacity:0;transition:opacity .15s;background:var(--surface-2);border:0.5px solid var(--border);border-radius:var(--radius);padding:6px 10px;font-size:12px;color:var(--text-secondary);width:210px;pointer-events:none;z-index:2;">14 &micro;g/L after source removal &mdash; marginally below the MCL.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="row" data-peak="12.0" data-current="0.8" style="position:relative;">
+    <p style="font-size:13px;font-weight:500;color:var(--text-primary);margin:0 0 22px;">Total PAHs &mdash; soil <span style="font-weight:400;color:var(--text-secondary);">(mg/kg vs. 1.0 mg/kg limit)</span></p>
+    <div class="track" style="position:relative;height:16px;">
+      <div class="connector" style="position:absolute;top:7px;height:2px;background:#B4B2A9;"></div>
+      <div class="dot-wrap peak" style="position:absolute;top:0;">
+        <div style="position:absolute;bottom:22px;left:50%;transform:translateX(-50%);font-size:11px;color:var(--text-muted);white-space:nowrap;">2012</div>
+        <div style="width:16px;height:16px;border-radius:50%;background:#85B7EB;border:2px solid var(--surface-2);"></div>
+        <div class="tip" style="position:absolute;top:22px;left:50%;transform:translateX(-50%);opacity:0;transition:opacity .15s;background:var(--surface-2);border:0.5px solid var(--border);border-radius:var(--radius);padding:6px 10px;font-size:12px;color:var(--text-secondary);width:210px;pointer-events:none;z-index:2;">Includes benzo(a)pyrene, a known human carcinogen.</div>
+      </div>
+      <div class="dot-wrap current" style="position:absolute;top:0;">
+        <div style="position:absolute;bottom:22px;left:50%;transform:translateX(-50%);font-size:11px;color:var(--text-muted);white-space:nowrap;">2014</div>
+        <div style="width:16px;height:16px;border-radius:50%;background:#0C447C;border:2px solid var(--surface-2);"></div>
+        <div class="tip" style="position:absolute;top:22px;left:50%;transform:translateX(-50%);opacity:0;transition:opacity .15s;background:var(--surface-2);border:0.5px solid var(--border);border-radius:var(--radius);padding:6px 10px;font-size:12px;color:var(--text-secondary);width:210px;pointer-events:none;z-index:2;">0.8 mg/kg or less after 2013&ndash;2014 segregation sent about 2,000 tons to landfill.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="limit-line" style="position:absolute;top:0;bottom:0;border-left:2px dashed #898781;"></div>
+</div>
+
+<script>
+(function(){
+  var min = 0.3, max = 15;
+  function pos(v){ return (Math.log10(v) - Math.log10(min)) / (Math.log10(max) - Math.log10(min)) * 100; }
+
+  document.querySelectorAll('#dumbbellChart .row').forEach(function(row){
+    var peak = parseFloat(row.dataset.peak);
+    var current = parseFloat(row.dataset.current);
+    var pPeak = pos(peak);
+    var pCurrent = pos(current);
+    var peakDot = row.querySelector('.dot-wrap.peak');
+    var currentDot = row.querySelector('.dot-wrap.current');
+    var connector = row.querySelector('.connector');
+    peakDot.style.left = pPeak + '%';
+    peakDot.style.transform = 'translateX(-50%)';
+    currentDot.style.left = pCurrent + '%';
+    currentDot.style.transform = 'translateX(-50%)';
+    var left = Math.min(pPeak, pCurrent);
+    var width = Math.abs(pPeak - pCurrent);
+    connector.style.left = left + '%';
+    connector.style.width = width + '%';
+  });
+
+  document.querySelector('#dumbbellChart .limit-line').style.left = pos(1) + '%';
+
+  document.querySelectorAll('.dot-wrap').forEach(function(dw){
+    var tip = dw.querySelector('.tip');
+    dw.addEventListener('mouseenter', function(){ if (tip) tip.style.opacity = '1'; });
+    dw.addEventListener('mouseleave', function(){ if (tip) tip.style.opacity = '0'; });
+  });
+})();
+</script>

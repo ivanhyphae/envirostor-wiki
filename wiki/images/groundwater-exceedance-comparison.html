@@ -1,0 +1,71 @@
+<h2 style="position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">A horizontal bar chart comparing the highest detected concentration of eight groundwater constituents to their regulatory limit, showing that only nitrate and manganese exceeded their limits across 2012-2019 monitoring, while barium, lead, chromium, beryllium, arsenic, and strontium stayed well below theirs.</h2>
+
+<div style="display:flex;gap:16px;flex-wrap:wrap;align-items:center;margin-bottom:1.25rem;font-size:12px;color:var(--text-secondary);">
+  <span style="display:flex;align-items:center;gap:4px;"><span style="width:10px;height:10px;border-radius:2px;background:#C0392B;display:inline-block;"></span>Exceeds limit</span>
+  <span style="display:flex;align-items:center;gap:4px;"><span style="width:10px;height:10px;border-radius:2px;background:#2E86C1;display:inline-block;"></span>Below limit</span>
+  <span style="display:flex;align-items:center;gap:4px;"><span style="width:12px;height:0;border-top:2px dashed #898781;display:inline-block;"></span>1.0&times; = the limit</span>
+</div>
+
+<div id="cmpChart"></div>
+
+<script>
+(function(){
+  var data = [
+    { label: 'Manganese', sub: 'secondary MCL 50 µg/L — taste/odor, not health-based', ratio: 5.2, detail: '260 µg/L max (MW-1 & MW-7, Mar 2013) vs. 50 µg/L. Aesthetic standard only — no established health effect at these levels; occupational neurological effects occur at far higher inhaled doses.', exceeds: true },
+    { label: 'Nitrate (as N)', sub: 'MCL 10 mg/L', ratio: 3.0, detail: '30 mg/L max (MW-5, Mar 2013) vs. 10 mg/L. Set to prevent methemoglobinemia (“blue baby syndrome”) in infants. Upgradient well MW-1 also exceeds — likely regional agricultural background.', exceeds: true },
+    { label: 'Arsenic', sub: 'MCL 10 µg/L', ratio: 0.66, detail: '6.6 µg/L max (MW-4, Jul 2012) vs. 10 µg/L. IARC Group 1 carcinogen, but never approached the MCL in any well/event reviewed.', exceeds: false },
+    { label: 'Lead', sub: 'MCL 15 µg/L', ratio: 0.55, detail: '8.3 µg/L max (MW-4, Apr 2019) vs. 15 µg/L. No safe blood lead level exists, but groundwater at this site never exceeded the MCL in any well/event reviewed.', exceeds: false },
+    { label: 'Strontium', sub: 'EPA lifetime health advisory 4,000 µg/L (no formal MCL)', ratio: 0.35, detail: '1,400 µg/L max (MW-1, Apr 2018) vs. 4,000 µg/L advisory. This is the analyte a wiki compilation error once mislabeled as barium and mercury — it is real, but not a health concern at these levels.', exceeds: false },
+    { label: 'Barium', sub: 'MCL 1,000 µg/L', ratio: 0.37, detail: '370 µg/L max (MW-5, Apr 2019) vs. 1,000 µg/L. The dominant soil contaminant at this site was never a groundwater MCL exceedance in any well/event reviewed.', exceeds: false },
+    { label: 'Chromium (total)', sub: 'MCL 50 µg/L', ratio: 0.28, detail: '14 µg/L max (MW-6, Jul 2012) vs. 50 µg/L. Reported as total chromium only; hexavalent/trivalent split not available.', exceeds: false },
+    { label: 'Beryllium', sub: 'MCL 4 µg/L', ratio: 0.02, detail: 'Non-detect in every well, every event reviewed (2012–2019). Reporting limits as low as 0.08 µg/L.', exceeds: false }
+  ];
+
+  var maxRatio = 6;
+  var container = document.getElementById('cmpChart');
+  var tooltip = document.createElement('div');
+  tooltip.style.cssText = 'position:fixed;opacity:0;transition:opacity .15s;background:var(--surface-2);border:0.5px solid var(--border);border-radius:var(--radius);padding:8px 11px;font-size:12px;line-height:1.4;color:var(--text-secondary);width:250px;pointer-events:none;z-index:5;';
+  document.body.appendChild(tooltip);
+
+  data.forEach(function(row){
+    var wrap = document.createElement('div');
+    wrap.style.cssText = 'margin-bottom:14px;';
+
+    var labelRow = document.createElement('div');
+    labelRow.style.cssText = 'display:flex;justify-content:space-between;align-items:baseline;margin-bottom:4px;';
+    labelRow.innerHTML = '<span style="font-size:13px;font-weight:500;color:var(--text-primary);">' + row.label +
+      ' <span style="font-weight:400;color:var(--text-muted);font-size:11px;">(' + row.sub + ')</span></span>' +
+      '<span style="font-size:12px;font-weight:500;color:' + (row.exceeds ? '#C0392B' : 'var(--text-secondary)') + ';">' + row.ratio.toFixed(2) + '×</span>';
+    wrap.appendChild(labelRow);
+
+    var track = document.createElement('div');
+    track.style.cssText = 'position:relative;height:14px;background:var(--surface-2);border-radius:3px;overflow:visible;cursor:pointer;';
+
+    var bar = document.createElement('div');
+    var pct = Math.min(row.ratio / maxRatio * 100, 100);
+    bar.style.cssText = 'position:absolute;left:0;top:0;height:100%;border-radius:3px;width:' + pct + '%;background:' + (row.exceeds ? '#C0392B' : '#2E86C1') + ';';
+    track.appendChild(bar);
+
+    var limitLine = document.createElement('div');
+    var limitPct = 1 / maxRatio * 100;
+    limitLine.style.cssText = 'position:absolute;top:-3px;bottom:-3px;left:' + limitPct + '%;border-left:2px dashed #898781;';
+    track.appendChild(limitLine);
+
+    track.addEventListener('mouseenter', function(e){
+      tooltip.innerHTML = row.detail;
+      var r = track.getBoundingClientRect();
+      tooltip.style.left = Math.min(r.left, window.innerWidth - 270) + 'px';
+      tooltip.style.top = (r.top - 74) + 'px';
+      tooltip.style.opacity = '1';
+    });
+    track.addEventListener('mouseleave', function(){ tooltip.style.opacity = '0'; });
+
+    wrap.appendChild(track);
+    container.appendChild(wrap);
+  });
+})();
+</script>
+
+<p style="font-size:12px;color:var(--text-muted);margin:6px 0 0;line-height:1.5;">
+  Ratios are each constituent's highest detected concentration across all monitoring wells and events reviewed (2012&ndash;2019) divided by its regulatory limit. Most wells went dry and were decommissioned between 2019 and 2023; by February 2023 remaining wells were dry and monitoring discontinuation was recommended.
+</p>

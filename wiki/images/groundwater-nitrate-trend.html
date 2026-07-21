@@ -1,0 +1,98 @@
+<h2 style="position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">A line chart showing nitrate-as-nitrogen concentrations in groundwater monitoring wells MW-1 (upgradient) and MW-5 (downgradient of the stockpiles) across five 2012-2013 sampling events, compared to the drinking water MCL, with a health annotation on infant methemoglobinemia risk.</h2>
+
+<div style="display:flex;gap:16px;flex-wrap:wrap;align-items:center;margin-bottom:1.25rem;font-size:12px;color:var(--text-secondary);">
+  <span style="display:flex;align-items:center;gap:4px;"><span style="width:10px;height:10px;border-radius:50%;background:#0C447C;display:inline-block;"></span>MW-5 (downgradient, nearest stockpiles)</span>
+  <span style="display:flex;align-items:center;gap:4px;"><span style="width:10px;height:10px;border-radius:50%;background:#85B7EB;display:inline-block;"></span>MW-1 (upgradient / background)</span>
+  <span style="display:flex;align-items:center;gap:4px;"><span style="width:12px;height:0;border-top:2px dashed #898781;display:inline-block;"></span>MCL &mdash; 10 mg/L as N</span>
+</div>
+
+<div style="position:relative;padding-left:34px;padding-bottom:26px;">
+  <svg id="noChart" viewBox="0 0 640 280" style="width:100%;height:auto;overflow:visible;font-family:inherit;">
+    <g id="gridLayerN"></g>
+    <g id="refLayerN"></g>
+    <g id="seriesLayerN"></g>
+    <g id="axisLayerN"></g>
+  </svg>
+  <div id="noTooltip" style="position:absolute;opacity:0;transition:opacity .15s;background:var(--surface-2);border:0.5px solid var(--border);border-radius:var(--radius);padding:8px 11px;font-size:12px;line-height:1.4;color:var(--text-secondary);width:220px;pointer-events:none;z-index:3;"></div>
+</div>
+
+<p style="font-size:12px;color:var(--text-muted);margin:14px 0 0;line-height:1.5;">
+  <strong style="color:var(--text-secondary);">Both wells exceed the MCL throughout 2012&ndash;2013</strong> &mdash; including MW-1, which sits <em>upgradient</em> of the stockpiles. Site reports interpret this as evidence that nitrate reflects regional agricultural background levels common across California's Central Valley, not stockpile-derived contamination. Wells MW-6, MW-9, and MW-10 also recurrently exceeded the nitrate MCL in 2012&ndash;2019 monitoring, though source reports summarized those as threshold flags rather than itemized per-date values.
+</p>
+
+<div style="margin-top:14px;padding:12px 14px;border:0.5px solid var(--border);border-radius:var(--radius);background:var(--surface-2);font-size:12px;color:var(--text-secondary);line-height:1.5;">
+  <strong style="color:var(--text-primary);">Health context:</strong> nitrate itself is low-toxicity, but in the body it can convert to nitrite, which impairs the blood's oxygen-carrying capacity &mdash; causing methemoglobinemia (&ldquo;blue baby syndrome&rdquo;), a potentially fatal condition mainly affecting infants under 6 months. The 10 mg/L MCL is set specifically to protect that group. This groundwater is not used as a drinking water source at the site.
+</div>
+
+<script>
+(function(){
+  var svg = document.getElementById('noChart');
+  var W = 640, H = 280;
+  var padL = 34, padR = 24, padT = 16, padB = 34;
+  var plotW = W - padL - padR, plotH = H - padT - padB;
+
+  var yMin = 0, yMax = 35;
+  function yPos(v){ return padT + plotH - (v - yMin) / (yMax - yMin) * plotH; }
+
+  var dates = ['May 2012', 'Jul 2012', 'Sep 2012', 'Nov 2012', 'Mar 2013'];
+  var xPos = {};
+  dates.forEach(function(d, i){ xPos[d] = padL + (i) * (plotW / (dates.length - 1)); });
+
+  var series = [
+    { name: 'MW-5', color: '#0C447C', points: [
+        {date:'May 2012', v:26}, {date:'Jul 2012', v:20}, {date:'Sep 2012', v:22}, {date:'Nov 2012', v:24}, {date:'Mar 2013', v:30}
+      ] },
+    { name: 'MW-1', color: '#85B7EB', points: [
+        {date:'May 2012', v:12}, {date:'Sep 2012', v:12}, {date:'Nov 2012', v:12}, {date:'Mar 2013', v:13}
+      ] }
+  ];
+
+  var gridLayer = document.getElementById('gridLayerN');
+  var refLayer = document.getElementById('refLayerN');
+  var seriesLayer = document.getElementById('seriesLayerN');
+  var axisLayer = document.getElementById('axisLayerN');
+  var ns = 'http://www.w3.org/2000/svg';
+  function el(tag, attrs){
+    var e = document.createElementNS(ns, tag);
+    for (var k in attrs) e.setAttribute(k, attrs[k]);
+    return e;
+  }
+
+  [0, 10, 20, 30].forEach(function(v){
+    var y = yPos(v);
+    gridLayer.appendChild(el('line', {x1: padL, x2: W - padR, y1: y, y2: y, stroke: 'var(--border)', 'stroke-width': 0.5}));
+    var t = el('text', {x: padL - 8, y: y + 4, 'text-anchor': 'end', 'font-size': 10, fill: 'var(--text-muted)'});
+    t.textContent = v;
+    axisLayer.appendChild(t);
+  });
+
+  dates.forEach(function(d){
+    var t = el('text', {x: xPos[d], y: H - padB + 20, 'text-anchor': 'middle', 'font-size': 10, fill: 'var(--text-secondary)'});
+    t.textContent = d;
+    axisLayer.appendChild(t);
+  });
+
+  var mclY = yPos(10);
+  refLayer.appendChild(el('line', {x1: padL, x2: W - padR, y1: mclY, y2: mclY, stroke: '#898781', 'stroke-width': 1.25, 'stroke-dasharray': '5,4'}));
+
+  var tooltip = document.getElementById('noTooltip');
+
+  series.forEach(function(s){
+    var coords = s.points.map(function(p){ return [xPos[p.date], yPos(p.v)]; });
+    var d = coords.map(function(c, i){ return (i === 0 ? 'M' : 'L') + c[0] + ',' + c[1]; }).join(' ');
+    seriesLayer.appendChild(el('path', {d: d, fill: 'none', stroke: s.color, 'stroke-width': 2}));
+    s.points.forEach(function(p, i){
+      var cx = coords[i][0], cy = coords[i][1];
+      var dot = el('circle', {cx: cx, cy: cy, r: 5.5, fill: s.color, stroke: 'var(--surface-2)', 'stroke-width': 2, style: 'cursor:pointer;'});
+      dot.addEventListener('mouseenter', function(){
+        tooltip.innerHTML = '<strong>' + s.name + '</strong> &mdash; ' + p.date + ': ' + p.v + ' mg/L as N (MCL 10 mg/L).';
+        tooltip.style.left = Math.min(Math.max(cx - 100, 0), W - 220) + 'px';
+        tooltip.style.top = (cy - 45) + 'px';
+        tooltip.style.opacity = '1';
+      });
+      dot.addEventListener('mouseleave', function(){ tooltip.style.opacity = '0'; });
+      seriesLayer.appendChild(dot);
+    });
+  });
+})();
+</script>

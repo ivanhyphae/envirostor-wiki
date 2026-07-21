@@ -80,7 +80,7 @@
       "block_metadata": {
         "llm_request_count": 1,
         "llm_error_count": 0,
-        "llm_tokens_used": 1052,
+        "llm_tokens_used": 1095,
         "previous_text": "",
         "previous_type": "",
         "previous_order": 0
@@ -88,19 +88,19 @@
     },
     {
       "page_id": 1,
-      "text_extraction_method": "pdftext",
+      "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          100
+          "Line",
+          63
         ],
         [
-          "Line",
-          35
+          "Span",
+          26
         ],
         [
           "Text",
-          23
+          24
         ]
       ],
       "block_metadata": {
@@ -114,15 +114,15 @@
     },
     {
       "page_id": 2,
-      "text_extraction_method": "pdftext",
+      "text_extraction_method": "surya",
       "block_counts": [
         [
-          "Span",
-          71
+          "Line",
+          54
         ],
         [
-          "Line",
-          35
+          "Span",
+          18
         ],
         [
           "Text",

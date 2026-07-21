@@ -26,11 +26,11 @@ In correspondence dated May 3, 2024 (attached), the Department of Toxic Substanc
 
 ![](_page_1_Picture_1.jpeg)
 
-# SCOPE OF SERVICES
+# **SCOPE OF SERVICES**
 
 We provided the following services for the well destruction:
 
-## Pre-field Activities
+## **Pre-field Activities**
 
 To complete our pre-field activities, we:
 
@@ -40,26 +40,26 @@ To complete our pre-field activities, we:
 - notified Caltrans and the SCDER prior to well destruction activities.
 - retained PeneCore Drilling (PeneCore), a C-57-licensed (#906899) drilling contractor from Woodland, California, to destroy the wells.
 
-## Field Activities
+## **Field Activities**
 
 On March 18, 2025, PeneCore destroyed groundwater monitoring wells MW4, MW6, MW9, and MW10 by filling each casing to the surface with grout via a tremie pipe and applying approximately 20 pounds per square inch of air pressure to the column of grout for 5 minutes. This process forced grout through the well screen and into the filter pack. PeneCore then removed the well box and concrete apron and overdrilled each well to a depth of 5 feet using their hollow-stem auger drilling rig. PeneCore then filled each overdrilled annulus with cement grout and capped the surface with native soil.
 
 Well construction details are provided below:
 
-| WELL<br>ID | CASING<br>MATERIAL | COMPLETED<br>WELL<br>DEPTH<br>(feet) | CASING<br>DIAMETER<br>(inches) | SCREENED<br>INTERVAL<br>(feet) | SLOT<br>SIZE<br>(inches) | FILTER PACK<br>INTERVAL<br>(feet) | FILTER<br>PACK<br>MATERIAL |
-|------------|--------------------|--------------------------------------|--------------------------------|--------------------------------|--------------------------|-----------------------------------|----------------------------|
-| MW4        | SCH 40 PVC         | 42                                   | 2                              | 30-40                          | 0.010                    | 26-42                             | #2/12 Sand                 |
-| MW6        | SCH 40 PVC         | 46.5                                 | 2                              | 33-43                          | 0.010                    | 30-46.5                           | #2/12 Sand                 |
-| MW9        | SCH 40 PVC         | 40                                   | 2                              | 29.5-39.5                      | 0.010                    | 27.5-40                           | #2/12 Sand                 |
-| MW10       | SCH 40 PVC         | 40                                   | 2                              | 29.5-39.5                      | 0.010                    | 27.5-40                           | #2/12 Sand                 |
+| WELL<br>ID | CASING<br>MATERIAL | COMPLETED<br>WELL<br>DEPTH<br>(feet) | CASING<br>DIAMETER<br>(inches) | SCREENED<br>INTERVAL<br>(feet) | SLOT<br>SIZE<br>(inches) | FILTER<br>PACK<br>INTERVAL<br>(feet) | FILTER<br>PACK<br>MATERIAL |
+|------------|--------------------|--------------------------------------|--------------------------------|--------------------------------|--------------------------|--------------------------------------|----------------------------|
+| MW4        | SCH 40 PVC         | 42                                   | 2                              | 30-40                          | 0.010                    | 26-42                                | #2/12 Sand                 |
+| MW6        | SCH 40 PVC         | 46.5                                 | 2                              | 33-43                          | 0.010                    | 30-46.5                              | #2/12 Sand                 |
+| MW9        | SCH 40 PVC         | 40                                   | 2                              | 29.5-39.5                      | 0.010                    | 27.5-40                              | #2/12 Sand                 |
+| MW10       | SCH 40 PVC         | 40                                   | 2                              | 29.5-39.5                      | 0.010                    | 27.5-40                              | #2/12 Sand                 |
 
 ![](_page_2_Picture_1.jpeg)
 
-## Waste Materials
+## **Waste Materials**
 
 PeneCore transported the waste materials (well casings, pipes, and concrete debris) for disposal.
 
-# Well Completion Reports
+# **Well Completion Reports**
 
 We completed California Department of Water Resources (DWR) Well Completion Reports on behalf of PeneCore for each of the destroyed wells and submitted them to the DWR's Online System for Well Completion Reports.
 
@@ -114,7 +114,7 @@ Sacramento, California 95826-3200
 
 ![](_page_6_Picture_3.jpeg)
 
-# Sent Via Electronic Mail
+# **Sent Via Electronic Mail**
 
 May 3, 2024
 
@@ -154,55 +154,48 @@ Kyle Cockerham, PG Site Cleanup Unit Regional Water Quality Control Board Kyle.C
 
 Lora Jameson, PG, Chief Site Evaluation and Remediation Unit Department of Toxic Substances Control Site Evaluation and Remediation Program Lora.Jameson@dtsc.ca.gov
 
-| DEPARTMENT USE ONLY                                                                                                                                                                                                                                                                                |                                       | Stanislaus<br>Department of Environmental Resources |                         |                                                                                         |          |     |       |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-----------------------------------------------------|-------------------------|-----------------------------------------------------------------------------------------|----------|-----|-------|
-| PERMIT #:                                                                                                                                                                                                                                                                                          | MW25-13                               | 3800 Cornucopia Way, Suite C, Modesto, CA 95358     |                         |                                                                                         |          |     |       |
-| CASE #:                                                                                                                                                                                                                                                                                            | SL0609924194                          | Phone: (209) 525-6700 Fax: (209) 525-6774           |                         |                                                                                         |          |     |       |
-| FEE PAID:                                                                                                                                                                                                                                                                                          | \$318- Rec#46762                      | County                                              |                         |                                                                                         |          |     |       |
-| ISSUED BY:                                                                                                                                                                                                                                                                                         | Stephanie Freier                      | PERMIT APPLICATION                                  |                         |                                                                                         |          |     |       |
-| SIGNED:                                                                                                                                                                                                                                                                                            | S. Freier                             | GROUNDWATER MONITORING WELLS AND                    |                         |                                                                                         |          |     |       |
-| DATE ISSUED:                                                                                                                                                                                                                                                                                       | 3-12-2025                             | EXPLORATORY OR GEOTECHNICAL BORINGS                 |                         |                                                                                         |          |     |       |
-| DATE CLOSED:                                                                                                                                                                                                                                                                                       |                                       |                                                     |                         |                                                                                         |          |     |       |
-| INSPECTED BY:                                                                                                                                                                                                                                                                                      |                                       |                                                     |                         |                                                                                         |          |     |       |
-| A. ASSESSOR'S PARCEL NUMBER 10-STA-99-16.7 (CALTRANS ROW) - West side of STA-99                                                                                                                                                                                                                    |                                       |                                                     |                         |                                                                                         |          |     |       |
-| Site Name                                                                                                                                                                                                                                                                                          | Modesto Stockpile                     | City                                                | Modesto                 | Zip                                                                                     | 95351    |     |       |
-| Site Address                                                                                                                                                                                                                                                                                       | West side of STA-99 & Kansas Ave      | City                                                | Modesto                 | Zip                                                                                     | 95351    |     |       |
-| B. PROPERTY OWNER CA Dept. of Transportation (Caltrans) - Adam Inman                                                                                                                                                                                                                               |                                       |                                                     |                         |                                                                                         |          |     |       |
-| Phone                                                                                                                                                                                                                                                                                              | 559-374-1574                          | Ext.                                                | Fax                     |                                                                                         |          |     |       |
-| Mailing Address                                                                                                                                                                                                                                                                                    | 2015 E. Shields Ave #100              | City                                                | Fresno                  | State                                                                                   | CA       | Zip | 93726 |
-| C. RESPONSIBLE PARTY Geocon Consultants, Inc. Email reblando@geoconinc.com                                                                                                                                                                                                                         |                                       |                                                     |                         |                                                                                         |          |     |       |
-| (The person, persons, or company responsible for the construction, monitoring, and destruction of proposed wells and or borings.)                                                                                                                                                                  |                                       |                                                     |                         |                                                                                         |          |     |       |
-| Mailing Address                                                                                                                                                                                                                                                                                    | 3160 Gold Valley Dr #800              | City                                                | Rancho Cordova          | State                                                                                   | CA       | Zip | 95742 |
-| Contact Person                                                                                                                                                                                                                                                                                     | Gemma Reblando                        | Phone                                               | 916-396-8476            | Fax                                                                                     |          |     |       |
-| D. CONSULTING FIRM Geocon Consultants, Inc.                                                                                                                                                                                                                                                        |                                       |                                                     |                         |                                                                                         |          |     |       |
-| Mailing Address                                                                                                                                                                                                                                                                                    | 3160 Gold Valley Dr #800              | City                                                | Rancho Cordova          | State                                                                                   | CA       | Zip | 95742 |
-| Registered Professional                                                                                                                                                                                                                                                                            | John Juhrend                          | Registration #                                      | 4929                    | (RG, RCE, CEG, PG)                                                                      |          |     |       |
-| E-mail                                                                                                                                                                                                                                                                                             | juhrend@geoconinc.com                 |                                                     |                         |                                                                                         |          |     |       |
-| Contact Person                                                                                                                                                                                                                                                                                     | Gemma Reblando                        | Phone                                               | 916-396-8476            | Fax                                                                                     |          |     |       |
-| E. DRILLING COMPANY Penecore Drilling C57# 906899                                                                                                                                                                                                                                                  |                                       |                                                     |                         |                                                                                         |          |     |       |
-| Contact Person                                                                                                                                                                                                                                                                                     | Xavier Green                          | E-mail                                              | xavier@penecore.com     |                                                                                         |          |     |       |
-| Mailing Address                                                                                                                                                                                                                                                                                    | 220 N. East St.                       | City                                                | Woodland                | State                                                                                   | CA       | Zip | 95776 |
-| Phone                                                                                                                                                                                                                                                                                              | 530-661-3600                          | Fax                                                 |                         | <input checked="" type="checkbox"/> Current Certificate of Liability Insurance included |          |     |       |
-| F. A detailed/scaled site map with proposed drilling locations, well construction diagram(s), proof of underground utilities assessment, and encroachment permit or access agreement must be included.                                                                                             |                                       |                                                     |                         |                                                                                         |          |     |       |
-| G. CONSTRUCTION INFORMATION                                                                                                                                                                                                                                                                        |                                       |                                                     |                         |                                                                                         |          |     |       |
-| TYPE OF WELLS /BORINGS                                                                                                                                                                                                                                                                             | #                                     | MATERIALS TO BE USED                                | PROPOSED CONSTRUCTION   |                                                                                         |          |     |       |
-| ☐ Monitoring                                                                                                                                                                                                                                                                                       |                                       | CASING                                              | SEAL/BORING BACKFILL    | Estimated groundwater depth:                                                            | ft       |     |       |
-| ☐ Boring                                                                                                                                                                                                                                                                                           |                                       | Type                                                | ☐ Neat Cement           | Estimated depth of boring:                                                              | ft       |     |       |
-| ☐ Soil Vapor                                                                                                                                                                                                                                                                                       |                                       | Gauge                                               | ☐ Cement & Bentonite    | Concrete seal                                                                           | 0        | to  |       |
-| ☐ Other                                                                                                                                                                                                                                                                                            |                                       | Diameter                                            | ☐ Sand-Cement           | Annular seal                                                                            |          | to  |       |
-|                                                                                                                                                                                                                                                                                                    |                                       | Screen Size                                         | ☐ Bentonite             | Bentonite                                                                               |          | to  |       |
-| WELLS TO BE DESTROYED                                                                                                                                                                                                                                                                              |                                       | Filter Pack                                         | ☐ Other                 | transition seal                                                                         |          |     |       |
-| X                                                                                                                                                                                                                                                                                                  | 2                                     |                                                     | Water Source Water tank | Filter Pack                                                                             |          | to  |       |
-| (Wells MW4 and MW9)                                                                                                                                                                                                                                                                                |                                       | Drilling Method                                     |                         | Perforation                                                                             |          | to  |       |
-|                                                                                                                                                                                                                                                                                                    | ☐ Auger                               | ☐ Air Rotary                                        | Borehole diameter       |                                                                                         |          |     |       |
-|                                                                                                                                                                                                                                                                                                    | ☐ Mud Rotary                          | ☐ Other                                             |                         |                                                                                         |          |     |       |
-|                                                                                                                                                                                                                                                                                                    | ☐ Percussion                          |                                                     |                         |                                                                                         |          |     |       |
-| I hereby certify that I have prepared this application and that the work will be done in accordance with the provisions of the laws of the State of California, the ordinances of Stanislaus County, and the rules and regulations of the Stanislaus County Department of Environmental Resources. |                                       |                                                     |                         |                                                                                         |          |     |       |
-| SIGNED                                                                                                                                                                                                                                                                                             | (Owner or Authorized Representative*) | PRINT                                               | GEMMA REBLANDO          | DATE                                                                                    | 3/3/2025 |     |       |
+| <b>DEPARTMENT USE ONLY</b><br>PERMIT #: MW25-13<br>CASE #: SL0609924194<br>FEE PAID: \$318- Rec #46762<br>ISSUED BY: Stephanie Freier<br>SIGNED: Freier<br>DATE ISSUED: 3-12-2025<br>DATE CLOSED:<br>INSPECTED BY: | <b>Stanislaus County</b><br>Department of Environmental Resources<br>3800 Cornucopia Way, Suite C, Modesto, CA 95358<br>Phone: (209) 525-6700 Fax: (209) 525-6774<br><br><b>PERMIT APPLICATION</b><br>GROUNDWATER MONITORING WELLS AND EXPLORATORY OR GEOTECHNICAL BORINGS |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-| Yes | No |
-|-----|----|
-|     |    |
+**A. ASSESSOR'S PARCEL NUMBER** 10-STA-99-16.7 (CALTRANS ROW) - West side of STA-99  
+Site Name Modesto Stockpile  
+Site Address West side of STA-99 & Kansas Ave City Modesto Zip 95351
+
+**B. PROPERTY OWNER** CA Dept. of Transportation (Caltrans) - Adam Inman  
+Phone 559-374-1574 Ext. Fax:   
+Mailing Address 2015 E. Shields Ave #100 City Fresno State CA Zip 93726
+
+**C. RESPONSIBLE PARTY** Geocon Consultants, Inc. Email reblando@geoconinc.com  
+(The person, persons, or company responsible for the construction, monitoring, and destruction of proposed wells and or borings.)  
+Mailing Address 3160 Gold Valley Dr #800 City Rancho Cordova State CA Zip 95742  
+Contact Person Gemma Reblando Phone 916-396-8476 Fax:
+
+**D. CONSULTING FIRM** Geocon Consultants, Inc.  
+Mailing Address 3160 Gold Valley Dr #800 City Rancho Cordova State CA Zip 95742  
+Registered Professional John Juhrend Registration # 4929 (RG, RCE, CEG, PG)  
+E-mail juhrend@geoconinc.com  
+Contact Person Gemma Reblando Phone 916-396-8476 Fax:
+
+**E. DRILLING COMPANY** Penecore Drilling C57# 906899  
+Contact Person Xavier Green E-mail xavier@penecore.com  
+Mailing Address 220 N. East St. City Woodland State CA Zip 95776  
+Phone 530-661-3600 Fax: [x] Current Certificate of Liability Insurance included
+
+**F.** A detailed/scaled site map with proposed drilling locations, well construction diagram(s), proof of underground utilities assessment, and encroachment permit or access agreement must be included.
+
+**G. CONSTRUCTION INFORMATION**
+
+| TYPE OF WELLS /BORINGS #                                                                                                        | MATERIALS TO BE USED / CASING / SEAL/BORING BACKFILL                                                                                                                                                                                                                                                                                               | PROPOSED CONSTRUCTION                                                                                                                                                                              |
+|---------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [ ] Monitoring<br>[ ] Boring<br>[ ] Soil Vapor<br>[ ] Other<br><br><b>WELLS TO BE DESTROYED</b><br>[x] 2<br>(Wells MW4 and MW9) | <b>CASING</b><br>Type:<br>Gauge:<br>Diameter:<br>Screen Size:<br>Filter Pack:<br><br><b>SEAL/BORING BACKFILL</b><br>[x] Neat Cement<br>[ ] Cement & Bentonite<br>[ ] Sand-Cement<br>[ ] Bentonite<br>[ ] Other<br>Water Source: water tank<br><br><b>Drilling Method</b><br>[ ] Auger [ ] Air Rotary<br>[ ] Mud Rotary [ ] Other<br>[ ] Percussion | Estimated groundwater depth: ft<br>Estimated depth of boring: ft<br>Concrete seal 0 to<br>Annular seal to<br>Bentonite transition seal to<br>Filter Pack to<br>Perforation to<br>Borehole diameter |
+
+I hereby certify that I have prepared this application and that the work will be done in accordance with the provisions of the laws of the State of California, the ordinances of Stanislaus County, and the rules and regulations of the Stanislaus County Department of Environmental Resources.  
+SIGNED: (Signature) PRINT: GEMMA REBLANDO DATE: 3/3/2025
+
+| <u>Yes</u> | <u>No</u> |
+|------------|-----------|
+|------------|-----------|
 
 • You are proposing 7 borings and 1 monitoring well, therefore, the cost for the seven (7) borings would be \$583 and the cost for the one (1) monitoring well would be \$265. The total cost of the permit would be \$848.
 
@@ -246,43 +239,50 @@ To close this Monitoring Well and Exploratory or Geotechnical Boring permit, you
 - **e.** Forward the photo log to the Stanislaus County Dept. of Environmental Resources email address HMpermit@envres.org with the subject line "MW..-.. (permit number) Photo Log".
 - 3. The permit is not valid if there are any changes to the scope of work as previously approved by this department. If changes are required, please contact the office at (209)-525-6700 as soon as possible to amend the permit on record.
 
-| H. FEES                      |                                                                                       | Initial Monitoring Well         |  |
-|------------------------------|---------------------------------------------------------------------------------------|---------------------------------|--|
-| ACTIVITY                     | FEE SCHEDULE                                                                          | AMOUNT                          |  |
-| Monitoring Well Construction | Additional Wells (up to 6)<br>Additional Wells (7+)                                   | \$ 265.00<br>x \$ 53.00<br>WLR* |  |
-| Soil/Geotechnical Boring     | Initial Monitoring Borings<br>Additional Borings (up to 6)<br>Additional Borings (7+) | \$ 265.00<br>x \$ 53.00<br>WLR* |  |
-| Monitoring Well Destruction  | Initial Destruction<br>Additional Destructions (up to 6)                              | \$ 265.00<br>x \$ 53.00<br>1    |  |
+| H. FEES                      | Initial Monitoring Well............................                                                                                                                          |                                 |
+|------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|
+| ACTIVITY                     | FEE SCHEDULE                                                                                                                                                                 | AMOUNT                          |
+| Monitoring Well Construction | <br>Additional Wells (up to 6).............................<br>Additional Wells (7+).............................                                                            | \$ 265.00<br>x \$ 53.00<br>WLR* |
+| Soil/Geotechnical Boring     | Initial Monitoring Borings.............................<br>Additional Borings (up to 6).............................<br>Additional Borings (7+)............................. | \$ 265.00<br>x \$ 53.00<br>WLR* |
+| Monitoring Well Destruction  | Initial Destruction.............................<br>Additional Destructions (up to 6).............................                                                           | \$ 265.00<br>x \$ 53.00         |
 
 TOTAL COST OF PERMIT
 
 \$ 318.00
 
-I. QUESTIONNAIRE: Please answer all applicable questions completely.
+**I. QUESTIONNAIRE: Please answer all applicable questions completely.**
 
 For well destruction, complete only # 1 below and submit any required supportive documentation.
 
-| 1. What is the purpose of the well/boring investigation? |                                                                                                                                                                                                                                                                                                       |                                     |                                 |                     |                          |                |               |                                |  |  |  |
-|----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|---------------------------------|---------------------|--------------------------|----------------|---------------|--------------------------------|--|--|--|
-| a.                                                       | An ongoing site assessment case in which a government regulator is the lead agency. If yes, indicate which government regulator is the lead agency, site address, case number, and attach the associated approval letter to the permit application;                                                   |                                     |                                 |                     |                          |                |               |                                |  |  |  |
-|                                                          | <table><tbody><tr><td><input checked="" type="checkbox"/></td><td>GeoTracker Case ID / Global ID:</td><td><u>SL0609924194</u></td><td><input type="checkbox"/></td><td>EnviroStor ID:</td></tr><tr><td>Site Address:</td><td colspan="4">State Route 99 &amp; Kansas Avenue</td></tr></tbody></table> | <input checked="" type="checkbox"/> | GeoTracker Case ID / Global ID: | <u>SL0609924194</u> | <input type="checkbox"/> | EnviroStor ID: | Site Address: | State Route 99 & Kansas Avenue |  |  |  |
-| <input checked="" type="checkbox"/>                      | GeoTracker Case ID / Global ID:                                                                                                                                                                                                                                                                       | <u>SL0609924194</u>                 | <input type="checkbox"/>        | EnviroStor ID:      |                          |                |               |                                |  |  |  |
-| Site Address:                                            | State Route 99 & Kansas Avenue                                                                                                                                                                                                                                                                        |                                     |                                 |                     |                          |                |               |                                |  |  |  |
-| b.                                                       | Part of an Environmental Site Assessment for property ownership transfer; or                                                                                                                                                                                                                          |                                     |                                 |                     |                          |                |               |                                |  |  |  |
-| c.                                                       | Geotechnical investigation for proposed construction, land stabilization; or                                                                                                                                                                                                                          |                                     |                                 |                     |                          |                |               |                                |  |  |  |
-| d.                                                       | Other: Well abandonment required by DTSC and RWQCB                                                                                                                                                                                                                                                    |                                     |                                 |                     |                          |                |               |                                |  |  |  |
-| 2.                                                       | What field procedures will be utilized to determine if contamination exists? N/A                                                                                                                                                                                                                      |                                     |                                 |                     |                          |                |               |                                |  |  |  |
-| 3.                                                       | What procedures will be used to determine whether samples will be sent for laboratory testing or archiving? N/A                                                                                                                                                                                       |                                     |                                 |                     |                          |                |               |                                |  |  |  |
-| 4.                                                       | What constituents will be monitored and tested (Include laboratory analytical method)? N/A                                                                                                                                                                                                            |                                     |                                 |                     |                          |                |               |                                |  |  |  |
-| 5.                                                       | How will samples be transported and preserved? N/A                                                                                                                                                                                                                                                    |                                     |                                 |                     |                          |                |               |                                |  |  |  |
-| 6.                                                       | What is your removal plan for containerized soil cuttings and purge water? N/A                                                                                                                                                                                                                        |                                     |                                 |                     |                          |                |               |                                |  |  |  |
+1. What is the purpose of the well/boring investigation?
+
+| <u>✓</u> | a. An ongoing site assessment case in which a government regulator is the lead agency. If yes, indicate which government regulator is the lead agency, site address, case number, and attach the associated approval letter to the permit application; |
+|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+| <u>✓</u> GeoTracker Case ID / Global ID: SL0609924194 | EnviroStor ID: |
+|-------------------------------------------------------|----------------|
+| Site Address: State Route 99 & Kansas Avenue          |                |
+
+|          | b. Part of an Environmental Site Assessment for property ownership transfer; or |
+|----------|---------------------------------------------------------------------------------|
+|          | c. Geotechnical investigation for proposed construction, land stabilization; or |
+| <u>✓</u> | d. Other: Well abandonment required by DTSC and RWQCB                           |
+
+| 2. What field procedures will be utilized to determine if contamination exists?                                | N/A |
+|----------------------------------------------------------------------------------------------------------------|-----|
+| 3. What procedures will be used to determine whether samples will be sent for laboratory testing or archiving? | N/A |
+| 4. What constituents will be monitored and tested (Include laboratory analytical method)?                      | N/A |
+| 5. How will samples be transported and preserved?                                                              | N/A |
+| 6. What is your removal plan for containerized soil cuttings and purge water?                                  | N/A |
 
 ## J. Well Completion Report:
 
 California Water Code Section 13751 requires that anyone who constructs, alters, or destroys a water well, cathodic protection well, groundwater monitoring well, or geothermal heat exchange well must file with the Department of Water Resources a report completion within 60 days of the completion of the work. Drillers submit their well completion reports with the Online System of Well Completion Reports (OSWCR, say "Oscar"). OSWCR users create an account based on their C-57 license that DWR will validate. Upon approval users will be able to submit Well Completion Reports.
 
-| Postal Mail                                                                                  | E-Mail                                       | Notice                                                                                                                                                                                    |
-|----------------------------------------------------------------------------------------------|----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| SC DER<br>Attn: Monitoring Well Permits<br>3800 Cornucopia Way, Suite C<br>Modesto, CA 95358 | HMpermit@envres.org<br>Fax<br>(209) 525-6774 | **Once permitted, SCDER must be notified a<br>minimum of 48 hours in advance of the<br>construction/destruction activities.<br>SCDER reserves the right to inspect field<br>activities.** |
+| <b>Postal Mail</b><br>SCDER<br>Attn: Monitoring Well Permits<br>3800 Cornucopia Way, Suite C<br>Modesto, CA 95358 | <b>E-Mail</b><br>HMpermit@envres.org<br><b>Fax</b><br>(209) 525-6774 | <b>**Once permitted, SCDER must be notified a<br/>minimum of 48 hours in advance of the<br/>construction/destruction activities.<br/>SCDER reserves the right to inspect field<br/>activities.**</b> |
+|-------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|-------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ![](_page_11_Picture_0.jpeg)
 
@@ -296,7 +296,7 @@ Stanislaus County Department of Environmental Resources (DER) oversees the const
 
 Please submit a <u>completed Checklist</u> (pages 3-6) for all Monitoring Well or Soil Boring Permit Applications (pages 7-8) submitted in Stanislaus County limits, <u>with the exception of the City of Modesto</u> (see Important Note #1 below). The checklist is not exhaustive nor inclusive of all requirements for the permit application, but rather its intent is to help applicants catch common mistakes before submitting permits to this department and ensure all provided information is correct and required documents are included. NOTE: Incomplete or inaccurate information will extend the application review process. Permit Application will not be accepted without a completed Checklist (pages 3-6).
 
-## Important Notes:
+## **Important Notes:**
 
 - 1. All proposed work within City of Modesto limits has its own separate permitting requirement, in addition to those of DER, for activities performed within the incorporated area where they have jurisdiction. Please consult with the City of Modesto if you intend to place any wells and/or borings within their jurisdiction. If you're unsure if the proposed project is within City of Modesto limits, check the City of Modesto GIS at <a href="https://gis.modestogov.com/gis/">https://gis.modestogov.com/gis/</a>.
   - If the project is within City of Modesto limits, then contact the City of Modesto-Groundwater Application (Monitoring Wells) team at 209-342-4712, <a href="https://www.modestogov.com/1509/Groundwater-Application-Monitoring-Wells">https://www.modestogov.com/1509/Groundwater-Application-Monitoring-Wells</a> regarding the City of Modesto application.
@@ -329,46 +329,61 @@ Please submit a <u>completed Checklist</u> (pages 3-6) for all Monitoring Well o
 
 For additional information on boring/monitoring well construction and/or destruction, please contact the Environmental Resources Department at (209) 525-6700 or via email (<a href="https://email.org/lenviros.org">HMpermit@envres.org</a>).
 
-## Permit Application Checklist
+## **Permit Application Checklist**
 
 Check Yes or No boxes below. Permit Application will not be accepted without a completed Checklist (pages 3-6). Yes No Section A - Assessor's Parcel Number: 1. a. Does the APN match the Counties APN? Check Assessor Map Book Viewer (arcgis.com) at https://experience.arcgis.com/experience/29a526aa3639499f96b63f17c2b14cc5. b. Does the property owner access agreement match the listed property owner? c. If your project involves multiple parcel numbers and/or addresses, a separate application is required for each. d. If the property owner is the same, but the project involves multiple parcel numbers, a separate application is required for each parcel. e. If there are multiple property owners for a single project, then an application must be submitted for each property owner. f. If a project involves multiple drillers, then page 1 of the application must be submitted for each additional driller and a certificate of liability must be submitted for each one. 2. Are there any Mitigation cases with in ½ mile of the site? Check drilling location address in both public access databases listed below. a. https://geotracker.waterboards.ca.gov b. https://www.envirostor.dtsc.ca.gov/public If so, delays may occur in the permitting process while reaching out to State Case Worker for consent for drilling project to proceed. Section B - Property Owner: 1. This must be the property owner, which is listed through the Assessor's office website https://www.stancounty.com/assessor/. Do not use the resident or business owner information, unless they are the property owner. Sections C - E: Please check the box to reflect the entity completing this application. Section C - Responsible Party: 1. Complete? This will be the entity responsible for the proposed work and ensuring all standards and regulations are followed. Section D - Consulting Firm: 1. Complete? a. Is the Registered professional number listed on the permit application? b. Active? c. Match the name provided? d. Have you indicated the type of registration? e. Validate here: Search - DCA at <a href="https://search.dca.ca.gov/?BD=31">https://search.dca.ca.gov/?BD=31</a> If they are also the responsible party, the information for the Registered Professional is only needed within this section. Section E - Drilling Company: 1. Complete? a. Is the C57 listed? b. Does C57 match the listed company? c. Is Drillers Certificate Of Insurance included? i. At a minimum, they should have active general liability and workers' compensation.
 
-| Yes                   | <u>No</u> |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-|-----------------------|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <b>√</b>              |           | ii. The only time workers' compensation is not required, is if the owner of the business is the only one performing the work. If the employees utilized have been subcontracted, then their employer must provide proof of workers' compensation.                                                                                                                                                                                                                                        |
-|                       |           | d. Did you check insurance included box on permit application?                                                                                                                                                                                                                                                                                                                                                                                                                           |
-|                       |           | e. Validate here: Check A License - CSLB (ca.gov) at <a href="https://cslb.ca.gov/OnlineServices/CheckLicenseII/CheckLicense.aspx">https://cslb.ca.gov/OnlineServices/CheckLicenseII/CheckLicense.aspx</a>                                                                                                                                                                                                                                                                               |
-|                       |           | When applicable, proof of workers compensation must be indicated on the Certificate of Liability form. If the company has one or more employees conducting the work, workers compensation is required. The responsible party must ensure the drilling company has workers compensation or exempt from this requirement.                                                                                                                                                                  |
-|                       |           | Section F - Attachments:                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-|                       |           | 1. Have you included the following attachments with the permit application?                                                                                                                                                                                                                                                                                                                                                                                                              |
-|                       |           | a. Detailed Site map with all borings keyed out with unique number/name identifiers.                                                                                                                                                                                                                                                                                                                                                                                                     |
-|                       |           | b. Proposed well construction diagram(s) (when installing monitoring wells)                                                                                                                                                                                                                                                                                                                                                                                                              |
-|                       |           | c. USA dig ticket (Proof of underground utilities assessment, i.e. receipt)                                                                                                                                                                                                                                                                                                                                                                                                              |
-|                       |           | d. Access agreement from private property owner on record. It may be in the form of an email.                                                                                                                                                                                                                                                                                                                                                                                            |
-|                       |           | e. Well construction diagrams (if appropriate)                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-|                       |           | f. List of all borings proposed on each APN.                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-|                       |           | g. Encroachment permit if right of way access is required. Apply here: Applications & Forms - Public Works - Stanislaus County (stancounty.com) at <a href="https://www.stancounty.com/publicworks/forms.shtm">https://www.stancounty.com/publicworks/forms.shtm</a>                                                                                                                                                                                                                     |
-| ✓<br>✓<br>✓<br>✓<br>✓ |           | Section G - Construction Information:                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-|                       |           | 1. Complete all applicable areas pertaining to your proposed work.                                                                                                                                                                                                                                                                                                                                                                                                                       |
-|                       |           | a. Do the number of items being constructed match what is reflected on the map?                                                                                                                                                                                                                                                                                                                                                                                                          |
-|                       |           | b. Backfill material listed?                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-|                       |           | c. Water source listed? Water to be brought by drillers from Woodland, CA                                                                                                                                                                                                                                                                                                                                                                                                                |
-|                       |           | d. Drilling method listed?                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-|                       |           | e. Ground water depth listed?                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-|                       |           | f. Depth of Boring listed?                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-|                       |           | g. Seal material and depth listed?                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-|                       |           | h. Is the permit application signed by owner or agent?                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-|                       |           | There will be no additional fee for backfilling the exploratory borings covered under the permit, therefore, do not include these in the fee section under well destruction.                                                                                                                                                                                                                                                                                                             |
-| <b>√</b>              |           | Section H - Fees: Complete all applicable sections pertaining to the proposed work.                                                                                                                                                                                                                                                                                                                                                                                                      |
-|                       |           | 1. Fees section filled out appropriately for the number of wells/borings?                                                                                                                                                                                                                                                                                                                                                                                                                |
-|                       |           | a. Monitoring wells, exploratory borings, and destructions have their own separate categories. For monitoring wells installed in the unincorporated areas of the County, the DER permit fee is: \$265.00 for the first boring/well included in the permit, and \$53.00 for each additional boring/well. Contact us at 209-525-6700 for the current fees. Utilize the drop-down function to apply the appropriate fee for the amount and check to ensure it is correct before submitting. |
-|                       |           | Examples:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-|                       |           | The first construction, drilling and destruction is \$265, then \$53 for each one after.                                                                                                                                                                                                                                                                                                                                                                                                 |
-|                       |           | You are proposing three (3) monitoring wells would be \$265,00+\$53.00+\$53.00 = \$371.00.                                                                                                                                                                                                                                                                                                                                                                                               |
+**Yes** | **No**
+
+|   |  | ii. The only time workers' compensation is not required, is if the owner of the business is the only one performing the work. If the employees utilized have been subcontracted, then their employer must provide proof of workers' compensation.                                                                       |
+|---|--|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ✓ |  | d. Did you check insurance included box on permit application?                                                                                                                                                                                                                                                          |
+|   |  | e. Validate here: Check A License - CSLB (ca.gov) at https://cslb.ca.gov/OnlineServices/CheckLicenseII/CheckLicense.aspx                                                                                                                                                                                                |
+|   |  | When applicable, proof of workers compensation must be indicated on the Certificate of Liability form. If the company has one or more employees conducting the work, workers compensation is required. The responsible party must ensure the drilling company has workers compensation or exempt from this requirement. |
+
+**Section F - Attachments:**
+
+| ✓ |   | 1. Have you included the following attachments with the permit application?                                                                                                                          |
+|---|---|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ✓ |   | a. Detailed Site map with all borings keyed out with unique number/name identifiers.                                                                                                                 |
+|   |   | b. Proposed well construction diagram(s) (when installing monitoring wells)                                                                                                                          |
+|   | ✓ | c. USA dig ticket (Proof of underground utilities assessment, i.e. receipt)                                                                                                                          |
+|   |   | d. Access agreement from private property owner on record. It may be in the form of an email.                                                                                                        |
+|   |   | e. Well construction diagrams (if appropriate)                                                                                                                                                       |
+|   |   | f. List of all borings proposed on each APN.                                                                                                                                                         |
+|   |   | g. Encroachment permit if right of way access is required. Apply here: Applications & Forms - Public Works - Stanislaus County (stancounty.com) at https://www.stancounty.com/publicworks/forms.shtm |
+
+**Section G - Construction Information:**
+
+| ✓ |  | 1. Complete all applicable areas pertaining to your proposed work.              |
+|---|--|---------------------------------------------------------------------------------|
+| ✓ |  | a. Do the number of items being constructed match what is reflected on the map? |
+| ✓ |  | b. Backfill material listed?                                                    |
+| ✓ |  | c. Water source listed? Water to be brought by drillers from Woodland, CA       |
+| ✓ |  | d. Drilling method listed?                                                      |
+| ✓ |  | e. Ground water depth listed?                                                   |
+| ✓ |  | f. Depth of Boring listed?                                                      |
+| ✓ |  | g. Seal material and depth listed?                                              |
+| ✓ |  | h. Is the permit application signed by owner or agent?                          |
+
+There will be no additional fee for backfilling the exploratory borings covered under the permit, therefore, do not include these in the fee section under well destruction.
+
+**Section H - Fees: Complete all applicable sections pertaining to the proposed work.**
+
+| ✓ |  | 1. Fees section filled out appropriately for the number of wells/borings? |
+|---|--|---------------------------------------------------------------------------|
+|---|--|---------------------------------------------------------------------------|
+
+a. Monitoring wells, exploratory borings, and destructions have their own separate categories. For monitoring wells installed in the unincorporated areas of the County, the DER permit fee is: \$265.00 for the first boring/well included in the permit, and \$53.00 for each additional boring/well. Contact us at 209-525-6700 for the current fees. Utilize the drop-down function to apply the appropriate fee for the amount and check to ensure it is correct before submitting.
+
+Examples:
+
+- The first construction, drilling and destruction is \$265, then \$53 for each one after.  
+- You are proposing three (3) monitoring wells would be \$265.00+\$53.00+\$53.00 = \$371.00.
 
 You are proposing seven (7) monitoring wells, would be \$583.
 
-## Stephanie Freier
+#### **Stephanie Freier**
 
 From:
 
@@ -386,7 +401,7 @@ To:
 
 FW: Modesto Well Destruction
 
-## Good morning,
+#### Good morning,
 
 Please see email below from Caltrans regarding access agreement for the well destruction activities at the Caltrans Modesto Stockpiles.
 
@@ -400,7 +415,7 @@ Sent: Wednesday, March 12, 2025 8:15 AM
 To: Rebecca Silva < silva@geoconinc.com >
 Subject: Re: Modesto Well Destruction
 
-## Good Morning Rebecca,
+#### Good Morning Rebecca,
 
 Caltrans grants unrestricted access to Geocon and its sub consultants to State Right of Way for the duration of the well destruction project. Geocon will be accompanied by Caltrans staff during the project.
 
@@ -428,7 +443,7 @@ Access agreement from the property owner CalTrans. It may be in the form of an e
 
 Will you please send over an email giving us access for the well destructions?
 
-## Thank you!
+#### Thank you!
 
 Please note that I will be on vacation from March 18 to March 23, returning to work on March 24, 2025.
 
@@ -442,7 +457,7 @@ GEOCON CONSULTANTS, INC.
 
 3160 Gold Valley Drive, Suite 800, Rancho Cordova, California 95742
 
-## Serving California through 9 Regional Offices:
+#### Serving California through 9 Regional Offices:
 
 | Livermore | Rancho Cordova | Fairfield | San Diego |           |
 |-----------|----------------|-----------|-----------|-----------|
@@ -522,7 +537,7 @@ Meredith Williams, Ph.D., Director 8800 Cal Center Drive Sacramento, California 
 
 ![](_page_21_Picture_4.jpeg)
 
-## Sent Via Electronic Mail
+#### Sent Via Electronic Mail
 
 May 3, 2024
 
@@ -530,7 +545,7 @@ Rebecca L. Silva **Project Manager** Geocon Consultants, Inc. 3160 Gold Valley D
 
 APPROVAL OF THE UPDATED COMPARATIVE EVALUATION OF GROUNDWATER DATA, CALTRANS ENCAPSULATED SOIL STOCKPILES, STATE ROUTE 132. STANISLAUS COUNTY, CALIFORNIA (SITE CODE: 900259)
 
-## Dear Ms. Silva:
+#### Dear Ms. Silva:
 
 The Department of Toxic Substances Control (DTSC) in consultation with the Central Valley Regional Water Quality Control Board (RWQCB) has reviewed the Updated Comparative Evaluation of Groundwater Data, Caltrans Encapsulated Soil Stockpiles (Evaluation Report) dated February 26, 2024. The Evaluation Report was submitted by Geocon Consultants Inc. (Geocon) on behalf of the Department of Transportation (Caltrans) to evaluate the potential of the barium and lead impacted soil stockpiles beneath the newly constructed State Route (SR) 132 Express Way to impact groundwater.
 
@@ -560,7 +575,7 @@ Lora.Jameson@dtsc.ca.gov
 
 ![](_page_23_Picture_2.jpeg)
 
-## CERTIFICATE OF LIABILITY INSURANCE
+### CERTIFICATE OF LIABILITY INSURANCE
 
 DATE (MM/DD/YYYY) 1/9/2025
 
@@ -593,9 +608,9 @@ Geocon Consultants, Inc. and Client are named additional insured in regards to t
 
 non-contributory. Waiver of Subrogation applies to the General Liability, Auto and Work Comp. Excess Liability follows form over the General Liability, Auto Liability and Employers Liability.
 
-| <u>CERTIFICATE HOLDER</u> |
-|---------------------------|
-|---------------------------|
+| CERTI | FICA. | TE HO | LDER |
+|-------|-------|-------|------|
+|       |       |       |      |
 
 **Equipment Floater** 
 
@@ -607,7 +622,7 @@ SHOULD ANY OF THE ABOVE DESCRIBED POLICIES BE CANCELLED BEFORE THE EXPIRATION DA
 
 **AUTHORIZED REPRESENTATIVE** 
 
-AUTHORIZED REPRESENTATIVE
+**AUTHORIZED REPRESENTATIVE**
 
 8/5/2024
 
@@ -621,7 +636,7 @@ Rented Leased Borrow
 
 Policy Number: 793-01-13-35-0003
 
-## THIS ENDORSEMENT CHANGES THE POLICY, PLEASE READ IT CAREFULLY.
+### THIS ENDORSEMENT CHANGES THE POLICY, PLEASE READ IT CAREFULLY.
 
 # ADDITIONAL INSURED – OWNERS, LESSEES OR CONTRACTORS – SCHEDULED PERSON OR ORGANIZATION – FORM III
 
@@ -629,7 +644,7 @@ This endorsement modifies coverage provided under the following:
 
 COMMERCIAL GENERAL LIABILITY COVERAGE PART CONTRACTORS ENVIRONMENTAL LIABILITY COVERAGE PART
 
-## SCHEDULE
+### **SCHEDULE**
 
 | Name Of Additional Insured Person(s)<br>Or Organization(s)                                                                                                                                                                                                                                               | Location(s) Of Covered Operations                                                                                                                                                                        |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -642,7 +657,7 @@ COMMERCIAL GENERAL LIABILITY COVERAGE PART CONTRACTORS ENVIRONMENTAL LIABILITY C
 
 in the performance of your ongoing operations for the additional insured(s) at the location(s) designated above.
 
-## However:
+### However:
 
 - 1. The insurance afforded to such additional insured only applies to the extent permitted by law; and
 - 2. If coverage provided to the additional insured is required by a contract or agreement, the insurance afforded to such additional insured will not be broader than that which you are required by the contract or agreement to provide for such additional insured.
@@ -698,7 +713,7 @@ WEB
 
 Nο No
 
-## Excavator Details
+### **Excavator Details**
 
 Contact: Chris Bates
 
@@ -706,66 +721,24 @@ Phone: 925-437-5773
 
 Mobile: Not Supplied
 
-**Company:** Geo
+| <strong>Labels</strong> | <strong>Values</strong> |
+|-------------------------|-------------------------|
+| Company:                | Geg                     |
+|                         |                         |
 
 Geocon Consultants, Inc.
 
 Mobile: Not Supplied
 Email: Not Supplied
 
-# Company:
+Company:
 
 Company: Geocon Consultants, Inc.
 
 Email: Bates@geoconinc.com
 
-# #
+M I
 
-**The following is a list of items:**
-
-- Item 1
-- Item 2
-- Item 3
-
-**This is a numbered list:**
-
-1. First item
-2. Second item
-3. Third item
-
-**This is a code block:**
-
-`python
-print("Hello, world!")`
-
-**This is an inline code:** `variable_name`
-
-**This is a bold text:** **bold**
-
-**This is an italic text:** *italic*
-
-**This is a link:** [Google](https://www.google.com)
-
-**This is a table:**
-
-| <strong>Header 1</strong> | <strong>Header 2</strong> |
-|---------------------------|---------------------------|
-| Row 1, Col 1              | Row 1, Col 2              |
-| Row 2, Col 1              | Row 2, Col 2              |
-
-**This is a form:**
-
-| Labels | Values   |
-|--------|----------|
-| Name   | John Doe |
-| Age    | 30       |
-| City   | New York |
-
-**This is a math expression:**  $E = mc^2$ 
-
-**This is a display math expression:**
-
-$$\int_0^\infty e^{-x^2} dx = \frac{\sqrt{\pi}}{2}$$
 **Excavator Type:** Contractor (or other professional excavator)
 
 Language: Not Supplied
@@ -790,7 +763,7 @@ Modesto
 
 CA
 
-Address
+**Address:**
 
 160 Gold Valley
 
@@ -802,27 +775,16 @@ California 95742 Excavator ID: 36039
 
 Drive, Suite 800
 
-10 Gold Valley
-Suite 800
-California 9574
+0 Gold Valley California 957
+re, Suite 800
 
 # Dig Site and Ticket Details
 
-| Dig Site and Ticket Details |                                     |               |
-|-----------------------------|-------------------------------------|---------------|
-| 132                         |                                     |               |
-| Google                      | Map data ©2025 Imagery ©2025 Airbus |               |
-| Delineated Method           | White Paint                         |               |
-| Work Type                   | Environmental                       |               |
-| Work Activity               | Monitoring Wells Work               |               |
-| Excavation Method           | Auger - truck mounted               |               |
-| Anticipated Depth           | >84 inches                          |               |
-| Boring                      | No                                  | Explosive     |
-| Street/Sidewalk             | No                                  | Pavement Only |
-| Vacuum Excavation           | No                                  |               |
-| Project Owner               | Caltrans                            |               |
-| Permit                      |                                     |               |
-| Job #/Name                  | S2350-01-02                         |               |
+| Dig Site and Ticket Details                        |
+|----------------------------------------------------|
+| Image: Aerial view with red triangular marked area |
+| 132                                                |
+| Google Map data ©2025 Imagery ©2025 Airbus         |
 
 Open Map
 
@@ -834,19 +796,32 @@ GIS coordinate system:
 
 WGS84 (WKID 4326)
 
-## Ticket Action Reason:
+### **Ticket Action Reason:**
+
+| Delineated Method | White Paint           |               |
+|-------------------|-----------------------|---------------|
+| Work Type         | Environmental         |               |
+| Work Activity     | Monitoring Wells Work |               |
+| Excavation Method | Auger - truck mounted |               |
+| Anticipated Depth | >84 inches            |               |
+| Boring            | No                    | Explosive     |
+| Street/Sidewalk   | No                    | Pavement Only |
+| Vacuum Excavation | No                    |               |
+| Project Owner     | Caltrans              |               |
+| Permit            |                       |               |
+| Job #/Name        | S2350-01-02           |               |
 
 Chris Bates
 
 9254375773
 
-## Excavator Remarks:
+### **Excavator Remarks:**
 
 Behind locked Caltrans gate
 
 Page 1 of 2
 
-## Additional Information
+### **Additional Information**
 
 Log in to One Call Access and click Positive Response on the menu to view responses from member facility operators and confirm that all operators have responded before you begin digging. https://onecallca.undergroundservicealert.org/ngen.web/.
 
@@ -859,7 +834,7 @@ Be sure the work location is accessible to facility owners/operators and their c
   If you would like free training regarding the 811 process and state excavation laws, please visit <a href="https://www.811pro.com">www.811pro.com</a>.
 - If you need assistance, please contact us visiting www.undergroundservicealert.org, or information@usanorth811.org.
 
-## Members Operator Notified
+### **Members Operator Notified**
 
 Total members impacted: 13
 
@@ -881,7 +856,7 @@ Total members impacted: 13
 
 -----End of Member List-----
 
-## Ticket Revision History
+### **Ticket Revision History**
 
 Total revision history showing: 1
 
@@ -897,13 +872,13 @@ Total revision history showing: 1
 
 ![](_page_27_Picture_1.jpeg)
 
-# Revision: 000 Ticket #: 2025031101720
+# **Revision: 000** Ticket #: 2025031101720
 
 **Ticket Status:** Original **Transmission ID** 110
 
 Ticket Type: Normal Response Required:
 
-## Excavator Details
+### **Excavator Details**
 
 Contact: Chris Bates
 
@@ -919,7 +894,7 @@ Email: Bates@geoconinc.com
 
 **Excavator Type:** Contractor (or other professional excavator) Address: 3160 Gold Valley
 
-California 9574
+California, 9574
 
 Language: Not Supplied
 
@@ -927,7 +902,7 @@ Drive, Suite 800
 
 California 95742 Excavator ID: 36039
 
-## Dig Site and Ticket Details
+### Dig Site and Ticket Details
 
 ![](_page_27_Picture_19.jpeg)
 
@@ -941,47 +916,46 @@ GIS coordinate system:
 
 WGS84 (WKID 4326)
 
-## Ticket Action Reason:
+### **Ticket Action Reason:**
 
 | V |
 |---|
 | F |
 | F |
 | J |
-| ( |
-| ( |
+| C |
+| C |
 
-# Excavator Remarks:
+# **Excavator Remarks:**
 
 On the other side of the chain-linked fence near overpass
 
-|                      |                       |               |  | Rev.#  |  |       |
-|----------------------|-----------------------|---------------|--|--------|--|-------|
-|                      | Previous Ticket #     |               |  | Medium |  | WEB   |
-| Submitted            | 03/11/2025 13:05      |               |  |        |  |       |
-| Work Begin Date      | 03/14/2025 07:01      |               |  |        |  |       |
-| Legal Start Date     | 03/14/2025 07:01      |               |  |        |  |       |
-| Ticket Expiration    | 04/08/2025 23:59      |               |  |        |  |       |
-| Work Duration        | 1 day or less         |               |  |        |  |       |
-| Address/Location     | 722 Kansas Ave        |               |  |        |  |       |
-| City/Town/Place      | Modesto               |               |  |        |  |       |
-| County               | Stanislaus County     |               |  |        |  |       |
-| State                | CA                    | Zip Code      |  |        |  | 95351 |
-| Nearby Cross Street  | Graphics Drive        |               |  |        |  |       |
-| Subdivision/Lot      |                       |               |  |        |  |       |
-| Delineated Method    | White Paint           |               |  |        |  |       |
-| Work Type            | Environmental         |               |  |        |  |       |
-| Work Activity        | Monitoring Wells Work |               |  |        |  |       |
-| Excavation Method    | Auger - truck mounted |               |  |        |  |       |
-| Anticipated Depth    | >84 inches            |               |  |        |  |       |
-| Boring               | No                    | Explosive     |  | No     |  |       |
-| Street/Sidewalk      | No                    | Pavement Only |  | No     |  |       |
-| Vacuum Excavation    | No                    |               |  |        |  |       |
-| Project Owner        | Caltrans              |               |  |        |  |       |
-| Permit               |                       |               |  |        |  |       |
-| Job #/Name           | S2350-01-02           |               |  |        |  |       |
-| Onsite Contact Name  | Chris Bates           |               |  |        |  |       |
-| Onsite Contact Phone | 9254375773            |               |  |        |  |       |
+| <b>Previous Ticket #</b>    |                       | <b>Rev.#</b>         |       |
+|-----------------------------|-----------------------|----------------------|-------|
+| <b>Submitted</b>            | 03/11/2025 13:05      | <b>Medium</b>        | WEB   |
+| <b>Work Begin Date</b>      | 03/14/2025 07:01      |                      |       |
+| <b>Legal Start Date</b>     | 03/14/2025 07:01      |                      |       |
+| <b>Ticket Expiration</b>    | 04/08/2025 23:59      |                      |       |
+| <b>Work Duration</b>        | 1 day or less         |                      |       |
+| <b>Address/Location</b>     | 722 Kansas Ave        |                      |       |
+| <b>City/Town/Place</b>      | Modesto               |                      |       |
+| <b>County</b>               | Stanislaus County     |                      |       |
+| <b>State</b>                | CA                    | <b>Zip Code</b>      | 95351 |
+| <b>Nearby Cross Street</b>  | Graphics Drive        |                      |       |
+| <b>Subdivision/Lot</b>      |                       |                      |       |
+| <b>Delineated Method</b>    | White Paint           |                      |       |
+| <b>Work Type</b>            | Environmental         |                      |       |
+| <b>Work Activity</b>        | Monitoring Wells Work |                      |       |
+| <b>Excavation Method</b>    | Auger - truck mounted |                      |       |
+| <b>Anticipated Depth</b>    | >84 inches            |                      |       |
+| <b>Boring</b>               | No                    | <b>Explosive</b>     | No    |
+| <b>Street/Sidewalk</b>      | No                    | <b>Pavement Only</b> | No    |
+| <b>Vacuum Excavation</b>    | No                    |                      |       |
+| <b>Project Owner</b>        | Caltrans              |                      |       |
+| <b>Permit</b>               |                       |                      |       |
+| <b>Job #/Name</b>           | S2350-01-02           |                      |       |
+| <b>Onsite Contact Name</b>  | Chris Bates           |                      |       |
+| <b>Onsite Contact Phone</b> | 9254375773            |                      |       |
 
 Page 1 of 2
 
@@ -989,171 +963,106 @@ Page 1 of 2
 
 # ENVIRONMENTAL RESOURCES Permit #1 MW25-13; MW25-14 Receipt #
 
-# 1
+t #1
 
-## 1
+MW25-13;
 
-### 1
-
-#### 1
-
-##### 1
-
-###### 1
-
-1. 1
-2. 1
-3. 1
-
-- 1
-- 1
-- 1
-
-**1**
-
-*1*
-
-`1`
-
-<1>
-
-`1`
-
- $1$ 
-
-$$1$$
-
-| <strong>Labels</strong> | <strong>Values</strong> |
-|-------------------------|-------------------------|
-| 1                       | 1                       |
-| 1                       | 1                       |
+MW25-14
 
 Receipt #
 
-4676.
+4676:
 
 46762
+
+-
+
+o
+-
 
 Date:
 
 3/12/2025
 
-4679
+4676
 
-The following is a list of items:
+70
 
-- Item 1
-- Item 2
-- Item 3
-
-This is a numbered list:
-
-1. First item
-2. Second item
-3. Third item
-
-This is a bolded text: **Bold Text**
-
-This is an italicized text: *Italic Text*
-
-This is a code snippet: `code snippet`
-
-This is a header:
-
-# Header 1
-
-## Header 2
-
-### Header 3
-
-This is a link: [Google](https://www.google.com)
-
-This is a table:
-
-| <strong>Header 1</strong> | <strong>Header 2</strong> |
-|---------------------------|---------------------------|
-| Row 1, Col 1              | Row 1, Col 2              |
-| Row 2, Col 1              | Row 2, Col 2              |
-
-This is a form:
-
-| Labels | Values   |
-|--------|----------|
-| Name   | John Doe |
-| Age    | 30       |
-| City   | New York |
-
-This is a code block:
-`function greet(name) {
- console.log('Hello, ' + name + '!');
-}`
-
-This is inline math:  $x + y = z$ 
-
-This is display math:
-
-$$\int_{a}^{b} f(x) dx$$
-
-|             | Signature | Description                                                                                            |               |                  | Received From               |                     |             |                | Amt Paid | 3.5% CC Fee | Credit Amt             | Check Amt              | Check # | Card Appr # |
-|-------------|-----------|--------------------------------------------------------------------------------------------------------|---------------|------------------|-----------------------------|---------------------|-------------|----------------|----------|-------------|------------------------|------------------------|---------|-------------|
-|             |           | HW- PAYMENTS FOR TWO WELL DESTRUCTION FOR CAL TRANS MODESTO STOCKPILES LOCATED WEST & EAST SIDE STA-99 |               | GEMMA G REBLANDO | 3260 VIRA GRANDE SACRAMENTO |                     |             |                | \$658.26 | \$22.26     | \$636.00               |                        |         | 02137C      |
-|             |           |                                                                                                        |               |                  |                             |                     |             | Received By nl |          |             |                        |                        |         |             |
-|             |           | INVOICE                                                                                                | Batch #:      | SEQ #:           | Card #:                     | VISA SALE           | CREDIT CARD |                | 12:22:29 | 03/12/2025  | 3800 CORNUCOPIA WAY ST | ENVIRONMENTAL RESOURCE |         |             |
-| SALE AMOUNT |           |                                                                                                        |               |                  |                             |                     |             |                | \$658.26 |             |                        |                        |         |             |
-|             | Mode:     | Approval Code:                                                                                         | Entry Method: |                  |                             | XXXXXXXXXXXXXXX9071 |             |                |          |             | MODESTO, CA 95358      |                        |         |             |
-|             | Online    | 02137C                                                                                                 | Manual        |                  |                             |                     |             |                |          |             |                        |                        |         |             |
+| Check Amt     | \$636.00                                                                                                 | Check #     | 02137C     |
+|---------------|----------------------------------------------------------------------------------------------------------|-------------|------------|
+| Credit Amt    | \$636.00                                                                                                 | Card Appr # | 02137C     |
+| 3.5% CC Fee   | \$22.26                                                                                                  | Received By | nl         |
+| Amt Paid      | \$658.26                                                                                                 | Date        | 03/12/2025 |
+| Received From | GEMMA G REBLANDO<br>3260 VIRA GRANDE SACRAMENTO                                                          |             |            |
+| Description   | HW-PAYMENTS FOR TWO WELL DESTRUCTION FOR CAL TRANS MODESTO STOCKPILES LOCATED WEST & EAST SIDE<br>STA-99 |             |            |
+| Signature     | Image: [signature]                                                                                       | Sale Amount | \$658.26   |
 
 CUSTOMER COPY
 
-| DEPARTMENT USE ONLY                                                                                                                                                                                                                                                                                |                             | Stanislaus                                                                   | Department of Environmental Resources   |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|------------------------------------------------------------------------------|-----------------------------------------|
-| PERMIT #: <u>MW25-14</u>                                                                                                                                                                                                                                                                           |                             | 3800 Cornucopia Way, Suite C, Modesto, CA 95358                              |                                         |
-| CASE #: <u>SLO609924194</u>                                                                                                                                                                                                                                                                        |                             | Phone: (209) 525-6700 Fax: (209) 525-6774                                    |                                         |
-| FEE PAID: <u>\$318.50</u>                                                                                                                                                                                                                                                                          | <u>Reet#46762</u>           | County                                                                       |                                         |
-| ISSUED BY: <u>Stephanie Freier</u>                                                                                                                                                                                                                                                                 |                             |                                                                              | PERMIT APPLICATION                      |
-| SIGNED: <u>Freier</u>                                                                                                                                                                                                                                                                              |                             |                                                                              | GROUNDWATER MONITORING WELLS AND        |
-| DATE ISSUED: <u>3-12-2025</u>                                                                                                                                                                                                                                                                      |                             |                                                                              | EXPLORATORY OR GEOTECHNICAL BORINGS     |
-| DATE CLOSED:                                                                                                                                                                                                                                                                                       |                             |                                                                              |                                         |
-| INSPECTED BY:                                                                                                                                                                                                                                                                                      |                             |                                                                              |                                         |
-| A. ASSESSOR'S PARCEL NUMBER <u>10-STA-99-16.7 (CALTRANS ROW)</u>                                                                                                                                                                                                                                   | - East side of STA-99       |                                                                              |                                         |
-| Site Name <u>Modesto Stockpile</u>                                                                                                                                                                                                                                                                 |                             | Site Address <u>East side of STA-99 &amp; Kansas Ave</u> City <u>Modesto</u> | Zip <u>95351</u>                        |
-| B. PROPERTY OWNER <u>CA Dept. of Transportation (Caltrans) - Adam Inman</u>                                                                                                                                                                                                                        |                             |                                                                              |                                         |
-| Phone <u>559-374-1574</u>                                                                                                                                                                                                                                                                          | Ext.                        | Fax                                                                          |                                         |
-| Mailing Address <u>2015 E. Shields Ave #100</u>                                                                                                                                                                                                                                                    | City <u>Fresno</u>          | State <u>CA</u>                                                              | Zip <u>93726</u>                        |
-| C. RESPONSIBLE PARTY <u>Geocon Consultants, Inc.</u>                                                                                                                                                                                                                                               |                             | Email <u>reblando@geoconinc.com</u>                                          |                                         |
-| (The person, persons, or company responsible for the construction, monitoring, and destruction of proposed wells and or borings.)                                                                                                                                                                  |                             |                                                                              |                                         |
-| Mailing Address <u>3160 Gold Valley Dr #800</u>                                                                                                                                                                                                                                                    | City <u>Rancho Cordova</u>  | State <u>CA</u>                                                              | Zip <u>95742</u>                        |
-| Contact Person <u>Gemma Reblando</u>                                                                                                                                                                                                                                                               | Phone <u>916-396-8476</u>   | Fax                                                                          |                                         |
-| D. CONSULTING FIRM <u>Geocon Consultants, Inc.</u>                                                                                                                                                                                                                                                 |                             |                                                                              |                                         |
-| Mailing Address <u>3160 Gold Valley Dr #800</u>                                                                                                                                                                                                                                                    | City <u>Rancho Cordova</u>  | State <u>CA</u>                                                              | Zip <u>95742</u>                        |
-| Registered Professional <u>John Juhrend</u>                                                                                                                                                                                                                                                        | Registration # <u>4929</u>  | <u>(RG, RCE, CEG, PG)</u>                                                    |                                         |
-| E-mail <u>juhrend@geoconinc.com</u>                                                                                                                                                                                                                                                                |                             |                                                                              |                                         |
-| Contact Person <u>Gemma Reblando</u>                                                                                                                                                                                                                                                               | Phone <u>916-396-8476</u>   | Fax                                                                          |                                         |
-| E. DRILLING COMPANY <u>Penecore Drilling</u>                                                                                                                                                                                                                                                       |                             | C57# <u>906899</u>                                                           |                                         |
-| Contact Person <u>Xavier Green</u>                                                                                                                                                                                                                                                                 |                             | E-mail <u>xavier@penecore.com</u>                                            |                                         |
-| Mailing Address <u>220 N. East St.</u>                                                                                                                                                                                                                                                             | City <u>Woodland</u>        | State <u>CA</u>                                                              | Zip <u>95776</u>                        |
-| Phone <u>530-661-3600</u>                                                                                                                                                                                                                                                                          | Fax                         | <u>✓ Current Certificate of Liability Insurance included</u>                 |                                         |
-| F. A detailed/scaled site map with proposed drilling locations, well construction diagram(s), proof of underground utilities assessment, and encroachment permit or access agreement must be included.                                                                                             |                             |                                                                              |                                         |
-| G. CONSTRUCTION INFORMATION                                                                                                                                                                                                                                                                        |                             |                                                                              |                                         |
-| TYPE OF WELLS /BORINGS                                                                                                                                                                                                                                                                             | #                           | MATERIALS TO BE USED<br>CASING<br>SEAL/BORING<br>BACKFILL                    | PROPOSED CONSTRUCTION                   |
-| ☐ Monitoring                                                                                                                                                                                                                                                                                       | Type                        | ☐ Neat Cement                                                                | Estimated groundwater depth: <u></u> ft |
-| ☐ Boring                                                                                                                                                                                                                                                                                           | Gauge                       | ☐ Cement & Bentonite                                                         | Estimated depth of boring: <u></u> ft   |
-| ☐ Soil Vapor                                                                                                                                                                                                                                                                                       | Diameter                    | ☐ Sand-Cement                                                                | Concrete seal <u>0</u> to <u></u>       |
-| ☐ Other                                                                                                                                                                                                                                                                                            | Screen Size                 | ☐ Bentonite                                                                  | Annular seal <u></u> to <u></u>         |
-|                                                                                                                                                                                                                                                                                                    | Filter Pack                 | ☐ Other <u>City of Woodland</u>                                              | transition seal <u></u> to <u></u>      |
-| WELLS TO BE DESTROYED                                                                                                                                                                                                                                                                              |                             | Water Source water tank                                                      | Filter Pack <u></u> to <u></u>          |
-| <u>X</u> <u>2</u>                                                                                                                                                                                                                                                                                  | ☐ Auger                     | Drilling Method                                                              | Perforation <u></u> to <u></u>          |
-| (Wells MW6 and MW10)                                                                                                                                                                                                                                                                               | ☐ Mud Rotary                | ☐ Air Rotary                                                                 | Borehole diameter <u></u>               |
-|                                                                                                                                                                                                                                                                                                    | ☐ Percussion                | ☐ Other                                                                      |                                         |
-| I hereby certify that I have prepared this application and that the work will be done in accordance with the provisions of the laws of the State of California, the ordinances of Stanislaus County, and the rules and regulations of the Stanislaus County Department of Environmental Resources. |                             |                                                                              |                                         |
-| SIGNED <u>Luu S. Freier</u>                                                                                                                                                                                                                                                                        | PRINT <u>GEMMA REBLANDO</u> | DATE <u>3/3/2025</u>                                                         |                                         |
-| (Owner or Authorized Representative*)                                                                                                                                                                                                                                                              |                             |                                                                              |                                         |
+**DEPARTMENT USE ONLY**
+
+| PERMIT #:     | MW25-14            |
+|---------------|--------------------|
+| CASE #:       | SLO609924194       |
+| FEE PAID:     | \$318.00 Rec#46762 |
+| ISSUED BY:    | Stephanie Freier   |
+| SIGNED:       | Freier             |
+| DATE ISSUED:  | 3-12-2025          |
+| DATE CLOSED:  |                    |
+| INSPECTED BY: |                    |
+
+**A. ASSESSOR'S PARCEL NUMBER** 10-STA-99-16.7 (CALTRANS ROW) - East side of STA-99
+
+| Site Name    | Modesto Stockpile                                       |
+|--------------|---------------------------------------------------------|
+| Site Address | East side of STA-99 & Kansas Ave City Modesto Zip 95351 |
+
+**B. PROPERTY OWNER** CA Dept. of Transportation (Caltrans) - Adam Inman
+
+| Phone           | 559-374-1574 Ext. Fax                                   |
+|-----------------|---------------------------------------------------------|
+| Mailing Address | 2015 E. Shields Ave #100 City Fresno State CA Zip 93726 |
+
+**C. RESPONSIBLE PARTY** Geocon Consultants, Inc. Email reblando@geoconinc.com
+
+*(The person, persons, or company responsible for the construction, monitoring, and destruction of proposed wells and or borings.)*
+
+| Mailing Address | 3160 Gold Valley Dr #800 City Rancho Cordova State CA Zip 95742 |
+|-----------------|-----------------------------------------------------------------|
+| Contact Person  | Gemma Reblando Phone 916-396-8476 Fax                           |
+
+**D. CONSULTING FIRM** Geocon Consultants, Inc.
+
+| Mailing Address         | 3160 Gold Valley Dr #800 City Rancho Cordova State CA Zip 95742 |
+|-------------------------|-----------------------------------------------------------------|
+| Registered Professional | John Juhrend Registration # 4929 (RG, RCE, CEG, PG)             |
+| E-mail                  | juhrend@geoconinc.com                                           |
+| Contact Person          | Gemma Reblando Phone 916-396-8476 Fax                           |
+
+**E. DRILLING COMPANY** Penecore Drilling C57# 906899
+
+| Contact Person  | Xavier Green E-mail xavier@penecore.com                                  |
+|-----------------|--------------------------------------------------------------------------|
+| Mailing Address | 220 N. East St. City Woodland State CA Zip 95776                         |
+| Phone           | 530-661-3600 Fax [x] Current Certificate of Liability Insurance included |
+
+**F.** A detailed/scaled site map with proposed drilling locations, well construction diagram(s), proof of underground utilities assessment, and encroachment permit or access agreement must be included.
+
+**G. CONSTRUCTION INFORMATION**
+
+| TYPE OF WELLS /BORINGS                                                                                                         | MATERIALS TO BE USED (CASING / SEAL/BORING BACKFILL)                                                                                                                                                                                                                                           | PROPOSED CONSTRUCTION                                                                                                                                                                                                                                        |
+|--------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [ ] Monitoring #<br>[ ] Boring #<br>[ ] Soil Vapor #<br>[ ] Other #<br>[x] <b>WELLS TO BE DESTROYED</b> 2 (Wells MW6 and MW10) | Type: ____ Gauge: ____ Diameter: ____ Screen Size: ____ Filter Pack: ____<br><br>[x] Neat Cement<br>[ ] Cement & Bentonite<br>[ ] Sand-Cement<br>[ ] Bentonite<br>[ ] Other (City of Woodland Water Source water tank)<br><br>[ ] Auger [ ] Air Rotary [ ] Mud Rotary [ ] Other [ ] Percussion | Estimated groundwater depth: ____ft<br>Estimated depth of boring: ____ft<br>Concrete seal 0 to ____<br>Annular seal ____ to ____<br>Bentonite transition seal ____ to ____<br>Filter Pack ____ to ____<br>Perforation ____ to ____<br>Borehole diameter ____ |
+
+I hereby certify that I have prepared this application and that the work will be done in accordance with the provisions of the laws of the State of California, the ordinances of Stanislaus County, and the rules and regulations of the Stanislaus County Department of Environmental Resources.
+
+SIGNED (Owner or Authorized Representative\*) GEMMA REBLANDO DATE 3/3/2025
 
 | Yes | No |
 |-----|----|
-|-----|----|
+|     |    |
 
-- You are proposing 7 borings and 1 monitoring well, therefore, the cost for the seven (7) borings would be \$583 and the cost for the one (1) monitoring well would be \$265. The total cost of the permit would be \$848.
+You are proposing 7 borings and 1 monitoring well, therefore, the cost for the seven (7) borings would be \$583 and the cost for the one (1) monitoring well would be \$265. The total cost of the permit would be \$848.
 
 Section I - Questionnaire:
 
@@ -1198,37 +1107,44 @@ To close this Monitoring Well and Exploratory or Geotechnical Boring permit, you
 - **e.** Forward the photo log to the Stanislaus County Dept. of Environmental Resources email address HMpermit@envres.org with the subject line "MW..-.. (permit number) Photo Log".
 - 3. The permit is not valid if there are any changes to the scope of work as previously approved by this department. If changes are required, please contact the office at (209)-525-6700 as soon as possible to amend the permit on record.
 
-| ACTIVITY                     | FEE SCHEDULE                                                                                                                                                        |                                 | AMOUNT |
-|------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|--------|
-| Monitoring Well Construction | Initial Monitoring Well..........................                                                                                                                   | \$ 265.00<br>x \$ 53.00<br>WLR* |        |
-| Soil/Geotechnical Boring     | Initial Monitoring Borings..........................<br>Additional Borings (up to 6)..........................<br>Additional Borings (7+).......................... | \$ 265.00<br>x \$ 53.00<br>WLR* |        |
-| Monitoring Well Destruction  | Initial Destruction..........................<br>Additional Destructions (up to 6)..........................                                                        | \$ 265.00<br>x \$ 53.00<br>1    |        |
+| H. FEES                      | Initial Monitoring Well..........................                                                                                                          |                                 |
+|------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|
+| ACTIVITY                     | FEE SCHEDULE                                                                                                                                               | AMOUNT                          |
+| Monitoring Well Construction | Initial Monitoring Well<br>Additional Wells (up to 6)<br>Additional Wells (7+)..........................                                                   | \$ 265.00<br>x \$ 53.00<br>WLR* |
+| Soil/Geotechnical Boring     | Initial Monitoring Borings..........................<br>Additional Borings (up to 6).................<br>Additional Borings (7+).......................... | \$ 265.00<br>x \$ 53.00<br>WLR* |
+| Monitoring Well Destruction  | Initial Destruction....................................<br>Additional Destructions (up to 6)..........                                                     | \$ 265.00<br>1<br>x \$ 53.00    |
 
 For well destruction, complete only # 1 below and submit any required supportive documentation.
 
-| 1. What is the purpose of the well/boring investigation?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                            |                                                         |                                                     |                                         |                                                         |  |  |                          |                                                                                 |                          |                                                                                 |                                     |                                                              |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|-----------------------------------------------------|-----------------------------------------|---------------------------------------------------------|--|--|--------------------------|---------------------------------------------------------------------------------|--------------------------|---------------------------------------------------------------------------------|-------------------------------------|--------------------------------------------------------------|
-| <table><tbody><tr><td><input checked="" type="checkbox"/></td><td>a. An ongoing site assessment case in which a government regulator is the lead agency. If yes, indicate which government regulator is the lead agency, site address, case number, and attach the associated approval letter to the permit application;</td></tr><tr><td> <table><tbody><tr><td><input checked="" type="checkbox"/></td><td>GeoTracker Case ID / Global ID: <u>SL0609924194</u></td><td><input type="checkbox"/> EnviroStor ID:</td></tr><tr><td>Site Address: <u>State Route 99 &amp; Kansas Avenue</u></td><td></td><td></td></tr></tbody></table></td></tr><tr><td> <input type="checkbox"/></td><td>b. Part of an Environmental Site Assessment for property ownership transfer; or</td></tr><tr><td> <input type="checkbox"/></td><td>c. Geotechnical investigation for proposed construction, land stabilization; or</td></tr><tr><td> <input checked="" type="checkbox"/></td><td>d. Other: <u>Well abandonment required by DTSC and RWQCB</u></td></tr></tbody></table> | <input checked="" type="checkbox"/>                                                                                                                                                                                                                    | a. An ongoing site assessment case in which a government regulator is the lead agency. If yes, indicate which government regulator is the lead agency, site address, case number, and attach the associated approval letter to the permit application; | <table><tbody><tr><td><input checked="" type="checkbox"/></td><td>GeoTracker Case ID / Global ID: <u>SL0609924194</u></td><td><input type="checkbox"/> EnviroStor ID:</td></tr><tr><td>Site Address: <u>State Route 99 &amp; Kansas Avenue</u></td><td></td><td></td></tr></tbody></table> | <input checked="" type="checkbox"/>                     | GeoTracker Case ID / Global ID: <u>SL0609924194</u> | <input type="checkbox"/> EnviroStor ID: | Site Address: <u>State Route 99 &amp; Kansas Avenue</u> |  |  | <input type="checkbox"/> | b. Part of an Environmental Site Assessment for property ownership transfer; or | <input type="checkbox"/> | c. Geotechnical investigation for proposed construction, land stabilization; or | <input checked="" type="checkbox"/> | d. Other: <u>Well abandonment required by DTSC and RWQCB</u> |
-| <input checked="" type="checkbox"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | a. An ongoing site assessment case in which a government regulator is the lead agency. If yes, indicate which government regulator is the lead agency, site address, case number, and attach the associated approval letter to the permit application; |                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                            |                                                         |                                                     |                                         |                                                         |  |  |                          |                                                                                 |                          |                                                                                 |                                     |                                                              |
-| <table><tbody><tr><td><input checked="" type="checkbox"/></td><td>GeoTracker Case ID / Global ID: <u>SL0609924194</u></td><td><input type="checkbox"/> EnviroStor ID:</td></tr><tr><td>Site Address: <u>State Route 99 &amp; Kansas Avenue</u></td><td></td><td></td></tr></tbody></table>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | <input checked="" type="checkbox"/>                                                                                                                                                                                                                    | GeoTracker Case ID / Global ID: <u>SL0609924194</u>                                                                                                                                                                                                    | <input type="checkbox"/> EnviroStor ID:                                                                                                                                                                                                                                                    | Site Address: <u>State Route 99 &amp; Kansas Avenue</u> |                                                     |                                         |                                                         |  |  |                          |                                                                                 |                          |                                                                                 |                                     |                                                              |
-| <input checked="" type="checkbox"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | GeoTracker Case ID / Global ID: <u>SL0609924194</u>                                                                                                                                                                                                    | <input type="checkbox"/> EnviroStor ID:                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                            |                                                         |                                                     |                                         |                                                         |  |  |                          |                                                                                 |                          |                                                                                 |                                     |                                                              |
-| Site Address: <u>State Route 99 &amp; Kansas Avenue</u>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                            |                                                         |                                                     |                                         |                                                         |  |  |                          |                                                                                 |                          |                                                                                 |                                     |                                                              |
-| <input type="checkbox"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | b. Part of an Environmental Site Assessment for property ownership transfer; or                                                                                                                                                                        |                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                            |                                                         |                                                     |                                         |                                                         |  |  |                          |                                                                                 |                          |                                                                                 |                                     |                                                              |
-| <input type="checkbox"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | c. Geotechnical investigation for proposed construction, land stabilization; or                                                                                                                                                                        |                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                            |                                                         |                                                     |                                         |                                                         |  |  |                          |                                                                                 |                          |                                                                                 |                                     |                                                              |
-| <input checked="" type="checkbox"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | d. Other: <u>Well abandonment required by DTSC and RWQCB</u>                                                                                                                                                                                           |                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                            |                                                         |                                                     |                                         |                                                         |  |  |                          |                                                                                 |                          |                                                                                 |                                     |                                                              |
-| 2. What field procedures will be utilized to determine if contamination exists?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | N/A                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                            |                                                         |                                                     |                                         |                                                         |  |  |                          |                                                                                 |                          |                                                                                 |                                     |                                                              |
-| 3. What procedures will be used to determine whether samples will be sent for laboratory testing or archiving?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | N/A                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                            |                                                         |                                                     |                                         |                                                         |  |  |                          |                                                                                 |                          |                                                                                 |                                     |                                                              |
-| 4. What constituents will be monitored and tested (Include laboratory analytical method)?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | N/A                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                            |                                                         |                                                     |                                         |                                                         |  |  |                          |                                                                                 |                          |                                                                                 |                                     |                                                              |
-| 5. How will samples be transported and preserved?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | N/A                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                            |                                                         |                                                     |                                         |                                                         |  |  |                          |                                                                                 |                          |                                                                                 |                                     |                                                              |
-| 6. <span style="background-color: yellow;">What is your removal plan for containerized soil cuttings and purge water?</span>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | <span style="background-color: yellow;">N/A</span>                                                                                                                                                                                                     |                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                            |                                                         |                                                     |                                         |                                                         |  |  |                          |                                                                                 |                          |                                                                                 |                                     |                                                              |
+1. What is the purpose of the well/boring investigation?
+
+✓ a. An ongoing site assessment case in which a government regulator is the lead agency. If yes, indicate which government regulator is the lead agency, site address, case number, and attach the associated approval letter to the permit application;
+
+| <span>✓</span> GeoTracker Case ID / Global ID: | <u>SL0609924194</u> | EnviroStor ID: |  |
+|------------------------------------------------|---------------------|----------------|--|
+|------------------------------------------------|---------------------|----------------|--|
+
+| Site Address: | State Route 99 & Kansas Avenue |
+|---------------|--------------------------------|
+|---------------|--------------------------------|
+
+  b. Part of an Environmental Site Assessment for property ownership transfer; or  c. Geotechnical investigation for proposed construction, land stabilization; or✓ d. Other: Well abandonment required by DTSC and RWQCB2. What field procedures will be utilized to determine if contamination exists? N/A
+
+3. What procedures will be used to determine whether samples will be sent for laboratory testing or archiving? N/A
+
+4. What constituents will be monitored and tested (Include laboratory analytical method)? N/A
+
+5. How will samples be transported and preserved? N/A
+
+6. What is your removal plan for containerized soil cuttings and purge water? N/A
 
 ## J. Well Completion Report:
 
 California Water Code Section 13751 requires that anyone who constructs, alters, or destroys a water well, cathodic protection well, groundwater monitoring well, or geothermal heat exchange well must file with the Department of Water Resources a report completion within 60 days of the completion of the work. Drillers submit their well completion reports with the Online System of Well Completion Reports (OSWCR, say "Oscar"). OSWCR users create an account based on their C-57 license that DWR will validate. Upon approval users will be able to submit Well Completion Reports.
 
-| Postal Mail                                                                                 | E-Mail                                       | Notice                                                                                                                                                                                    |
-|---------------------------------------------------------------------------------------------|----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| SCDER<br>Attn: Monitoring Well Permits<br>3800 Cornucopia Way, Suite C<br>Modesto, CA 95358 | HMpermit@envres.org<br>Fax<br>(209) 525-6774 | **Once permitted, SCDER must be notified a<br>minimum of 48 hours in advance of the<br>construction/destruction activities.<br>SCDER reserves the right to inspect field<br>activities.** |
+| Postal Mail                                                                                 | E-Mail<br>Fax                             |                                                                                                                                                                                                  |
+|---------------------------------------------------------------------------------------------|-------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| SCDER<br>Attn: Monitoring Well Permits<br>3800 Cornucopia Way, Suite C<br>Modesto, CA 95358 | HMpermit@envres.org<br><br>(209) 525-6774 | <b>Once permitted, SCDER must be notified a<br/>minimum of 48 hours in advance of the<br/>construction/destruction activities.<br/>SCDER reserves the right to inspect field<br/>activities.</b> |
 
 ![](_page_32_Picture_0.jpeg)
 
@@ -1236,13 +1152,13 @@ California Water Code Section 13751 requires that anyone who constructs, alters,
 
 3800 Cornucopia Way, Suite C, Modesto, CA 95358-9492 Phone: 209.525.6700. Fax: 209.525.6774
 
-## Monitoring Wells and Geotechnical Borings Within Stanislaus County
+### Monitoring Wells and Geotechnical Borings Within Stanislaus County
 
 Stanislaus County Department of Environmental Resources (DER) oversees the constructing and destructing of soil borings for including those for installing vadose zone, groundwater (monitoring and/or extraction) and cathodic protection wells in all areas of Stanislaus County. The above types of wells include both permanent and temporary wells and those that are made with cone penetration technology or so called "Hydropunch type" sampling devices.
 
 Please submit a <u>completed Checklist</u> (pages 3-6) for all Monitoring Well or Soil Boring Permit Applications (pages 7-8) submitted in Stanislaus County limits, <u>with the exception of the City of Modesto</u> (see Important Note #1 below). The checklist is not exhaustive nor inclusive of all requirements for the permit application, but rather its intent is to help applicants catch common mistakes before submitting permits to this department and ensure all provided information is correct and required documents are included. NOTE: Incomplete or inaccurate information will extend the application review process. Permit Application will not be accepted without a completed Checklist (pages 3-6).
 
-## Important Notes:
+## **Important Notes:**
 
 - 1. All proposed work within City of Modesto limits has its own separate permitting requirement, in addition to those of DER, for activities performed within the incorporated area where they have jurisdiction. Please consult with the City of Modesto if you intend to place any wells and/or borings within their jurisdiction. If you're unsure if the proposed project is within City of Modesto limits, check the City of Modesto GIS at https://gis.modestogov.com/gis/.
   - If the project is within City of Modesto limits, then contact the City of Modesto-Groundwater
@@ -1286,17 +1202,58 @@ c. Is Drillers Certificate Of Insurance included?
 
 i. At a minimum, they should have active general liability and workers' compensation.
 
-| Yes                        | No |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-|----------------------------|----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <b>√</b>                   |    | <ul><li>ii. The only time workers' compensation is not required, is if the owner of the business is the only one performing the work. If the employees utilized have been subcontracted, then their employer must provide proof of workers' compensation.</li><li>d. Did you check insurance included box on permit application?</li><li>e. Validate here: Check A License - CSLB (ca.gov) at <a href="https://cslb.ca.gov/OnlineServices/CheckLicensell/CheckLicense.aspx">https://cslb.ca.gov/OnlineServices/CheckLicensell/CheckLicense.aspx</a></li><li>When applicable, proof of workers compensation must be indicated on the Certificate of Liability form. If the company has one or more employees conducting the work, workers compensation is required. The responsible party must ensure the drilling company has workers compensation or exempt from this requirement.</li></ul>          |
-|                            |    | <ul><li>Section F - Attachments:</li><li>1. Have you included the following attachments with the permit application?</li><li>a. Detailed Site map with all borings keyed out with unique number/name identifiers.</li><li>b. Proposed well construction diagram(s) (when installing monitoring wells)</li><li>c. USA dig ticket (Proof of underground utilities assessment, i.e. receipt)</li><li>d. Access agreement from private property owner on record. It may be in the form of an email.</li><li>e. Well construction diagrams (if appropriate)</li><li>f. List of all borings proposed on each APN.</li><li>g. Encroachment permit if right of way access is required. Apply here: Applications &amp; Forms - Public Works - Stanislaus County (stancounty.com) at <a href="https://www.stancounty.com/publicworks/forms.shtm">https://www.stancounty.com/publicworks/forms.shtm</a></li></ul> |
-| ✓<br>✓<br>✓<br>✓<br>✓<br>✓ |    | <ul><li>Section G - Construction Information:</li><li>1. Complete all applicable areas pertaining to your proposed work.<ul><li>a. Do the number of items being constructed match what is reflected on the map?</li><li>b. Backfill material listed?</li><li>c. Water source listed? Water to be brought by drillers from Woodland, CA</li><li>d. Drilling method listed?</li><li>e. Ground water depth listed?</li><li>f. Depth of Boring listed?</li><li>g. Seal material and depth listed?</li><li>h. Is the permit application signed by owner or agent?</li><li>There will be no additional fee for backfilling the exploratory borings covered under the permit, therefore, do not include these in the fee section under well destruction.</li></ul></li></ul>                                                                                                                                  |
-| <b>√</b>                   |    | <ul><li>Section H - Fees: Complete all applicable sections pertaining to the proposed work.</li><li>1. Fees section filled out appropriately for the number of wells/borings?</li><li>a. Monitoring wells, exploratory borings, and destructions have their own separate categories. For monitoring wells installed in the unincorporated areas of the County, the DER permit fee is: \$265.00 for the first boring/well included in the permit, and \$53.00 for each additional boring/well. Contact us at 209-525-6700 for the current fees. Utilize the drop-down function to apply the appropriate fee for the amount and check to ensure it is correct before submitting.</li><li>Examples:</li></ul>                                                                                                                                                                                             |
-|                            |    | <ul><li>The first construction, drilling and destruction is \$265, then \$53 for each one after.</li><li>You are proposing three (3) monitoring wells would be \$265,00+\$53,00+\$53,00 = \$371,00</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+ii. The only time workers' compensation is not required, is if the owner of the business is the only one performing the work. If the employees utilized have been subcontracted, then their employer must provide proof of workers' compensation.
+
+| <b>Yes</b> | <b>No</b> |                                                                |
+|------------|-----------|----------------------------------------------------------------|
+| <b>√</b>   | <br>      | d. Did you check insurance included box on permit application? |
+
+e. Validate here: Check A License - CSLB (ca.gov) at <https://cslb.ca.gov/OnlineServices/CheckLicensell/CheckLicense.aspx>  
+When applicable, proof of workers compensation must be indicated on the Certificate of Liability form. If the company has one or more employees conducting the work, workers compensation is required. The responsible party must ensure the drilling company has workers compensation or exempt from this requirement.
+
+**Section F - Attachments:**  
+1. Have you included the following attachments with the permit application?
+
+| <b>Yes</b> | <b>No</b> |                                                                                                                                                                                                                                                                      |
+|------------|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <b>√</b>   | <br>      | a. Detailed Site map with all borings keyed out with unique number/name identifiers.                                                                                                                                                                                 |
+| <b>√</b>   | <br>      | b. Proposed well construction diagram(s) (when installing monitoring wells)                                                                                                                                                                                          |
+| <br>       | <b>√</b>  | c. USA dig ticket (Proof of underground utilities assessment, i.e. receipt)                                                                                                                                                                                          |
+| <br>       | <br>      | d. Access agreement from private property owner on record. It may be in the form of an email.                                                                                                                                                                        |
+| <br>       | <br>      | e. Well construction diagrams (if appropriate)                                                                                                                                                                                                                       |
+| <br>       | <br>      | f. List of all borings proposed on each APN.                                                                                                                                                                                                                         |
+| <br>       | <br>      | g. Encroachment permit if right of way access is required. Apply here: Applications & Forms - Public Works - Stanislaus County (stancounty.com) at <a href="https://www.stancounty.com/publicworks/forms.shtm">https://www.stancounty.com/publicworks/forms.shtm</a> |
+
+**Section G - Construction Information:**  
+1. Complete all applicable areas pertaining to your proposed work.
+
+| <b>Yes</b> | <b>No</b> |                                                                                 |
+|------------|-----------|---------------------------------------------------------------------------------|
+| <b>√</b>   | <br>      | a. Do the number of items being constructed match what is reflected on the map? |
+| <b>√</b>   | <br>      | b. Backfill material listed?                                                    |
+| <b>√</b>   | <br>      | c. Water source listed? Water to be brought by drillers from Woodland, CA       |
+| <b>√</b>   | <br>      | d. Drilling method listed?                                                      |
+| <b>√</b>   | <br>      | e. Ground water depth listed?                                                   |
+| <b>√</b>   | <br>      | f. Depth of Boring listed?                                                      |
+| <b>√</b>   | <br>      | g. Seal material and depth listed?                                              |
+| <b>√</b>   | <br>      | h. Is the permit application signed by owner or agent?                          |
+
+There will be no additional fee for backfilling the exploratory borings covered under the permit, therefore, do not include these in the fee section under well destruction.
+
+**Section H - Fees:** Complete all applicable sections pertaining to the proposed work.
+
+| <b>Yes</b> | <b>No</b> |                                                                           |
+|------------|-----------|---------------------------------------------------------------------------|
+| <b>√</b>   | <br>      | 1. Fees section filled out appropriately for the number of wells/borings? |
+
+a. Monitoring wells, exploratory borings, and destructions have their own separate categories. For monitoring wells installed in the unincorporated areas of the County, the DER permit fee is: \$265.00 for the first boring/well included in the permit, and \$53.00 for each additional boring/well. Contact us at 209-525-6700 for the current fees. Utilize the drop-down function to apply the appropriate fee for the amount and check to ensure it is correct before submitting.  
+Examples:  
+- The first construction, drilling and destruction is \$265, then \$53 for each one after.  
+- You are proposing three (3) monitoring wells would be \$265.00+\$53.00+\$53.00 = \$371.00
 
 You are proposing seven (7) monitoring wells, would be \$583.
 
-## Stephanie Freier
+#### **Stephanie Freier**
 
 From:
 
@@ -1314,7 +1271,7 @@ Subject:
 
 FW: Modesto Well Destruction
 
-## Good morning,
+#### Good morning,
 
 Please see email below from Caltrans regarding access agreement for the well destruction activities at the Caltrans Modesto Stockpiles.
 
@@ -1329,7 +1286,7 @@ Sent: Wednesday, March 12, 2025 8:15 AM
 To: Rebecca Silva < silva@geoconinc.com >
 Subject: Re: Modesto Well Destruction
 
-## Good Morning Rebecca,
+#### Good Morning Rebecca,
 
 Caltrans grants unrestricted access to Geocon and its sub consultants to State Right of Way for the duration of the well destruction project. Geocon will be accompanied by Caltrans staff during the project.
 
@@ -1356,7 +1313,7 @@ Access agreement from the property owner CalTrans. It may be in the form of an e
 
 Will you please send over an email giving us access for the well destructions?
 
-## Thank you!
+#### Thank you!
 
 Please note that I will be on vacation from March 18 to March 23, returning to work on March 24, 2025.
 
@@ -1370,7 +1327,7 @@ GEOCON CONSULTANTS, INC.
 
 3160 Gold Valley Drive, Suite 800, Rancho Cordova, California 95742
 
-## Serving California through 9 Regional Offices:
+#### Serving California through 9 Regional Offices:
 
 LivermoreRancho CordovaFairfieldSan DiegoBurbankIrvineMurrietaRedlandsLa Quinta
 
@@ -1401,12 +1358,12 @@ Geocon Consultants, Inc. (Geocon) has prepared a permit application for the dest
 
 We will abandon monitoring wells MW4, MW6, MW9, and MW10 per Department of Toxic Substances Control (DTSC) directive letter dated May 3, 2024 (see attached) in concurrence with the Central Valley Regional Water Quality Control Board (CRWQCB). Wells MW4, MW6, MW9, and MW10 will be properly abandoned by pressure-grouting in general accordance with the requirements of California Well Standards Bulletin 74-90, Monitoring Well Standards, Part III. Well construction details are provided below:
 
-| WELL<br>ID | CASING<br>MATERIAL | COMPLETED<br>WELL<br>DEPTH<br>(feet) | CASING<br>DIAMETER<br>(inches) | SCREENED<br>INTERVAL<br>(feet) | SLOT<br>SIZE<br>(inches) | FILTER<br>PACK<br>INTERVAL<br>(feet) | FILTER<br>PACK<br>MATERIAL |
-|------------|--------------------|--------------------------------------|--------------------------------|--------------------------------|--------------------------|--------------------------------------|----------------------------|
-| MW4        | SCH 40 PVC         | 42                                   | 2                              | 30-40                          | 0.010                    | 26-42                                | #2/12 Sand                 |
-| MW6        | SCH 40 PVC         | 46.5                                 | 2                              | 33-43                          | 0.010                    | 30-46.5                              | #2/12 Sand                 |
-| MW9        | SCH 40 PVC         | 40                                   | 2                              | 29.5-39.5                      | 0.010                    | 27.5-40                              | #2/12 Sand                 |
-| MW10       | SCH 40 PVC         | 40                                   | 2                              | 29.5-39.5                      | 0.010                    | 27.5-40                              | #2/12 Sand                 |
+| WELL<br>ID | CASING<br>MATERIAL | COMPLETED<br>WELL<br>DEPTH<br>(feet) | CASING<br>DIAMETER<br>(inches) | SCREENED<br>INTERVAL<br>(feet) | SLOT<br>SIZE<br>(inches) | FILTER PACK INTERVAL (feet) | FILTER<br>PACK<br>MATERIAL |
+|------------|--------------------|--------------------------------------|--------------------------------|--------------------------------|--------------------------|-----------------------------|----------------------------|
+| MW4        | SCH 40 PVC         | 42                                   | 2                              | 30-40                          | 0.010                    | 26-42                       | #2/12 Sand                 |
+| MW6        | SCH 40 PVC         | 46.5                                 | 2                              | 33-43                          | 0.010                    | 30-46.5                     | #2/12 Sand                 |
+| MW9        | SCH 40 PVC         | 40                                   | 2                              | 29.5-39.5                      | 0.010                    | 27.5-40                     | #2/12 Sand                 |
+| MW10       | SCH 40 PVC         | 40                                   | 2                              | 29.5-39.5                      | 0.010                    | 27.5-40                     | #2/12 Sand                 |
 
 To pressure grout, PeneCore will initially fill each well with neat Portland cement. The well seal material will be placed via a tremie pipe from the bottom of the well under sufficient pressure and length of time to penetrate the annular filter pack. Additional volume of seal material will be pumped into the well as needed after air pressure is administered.
 
@@ -1447,7 +1404,7 @@ Governor
 
 Meredith Williams, Ph.D., Director 8800 Cal Center Drive Sacramento, California 95826-3200
 
-## Sent Via Electronic Mail
+#### **Sent Via Electronic Mail**
 
 May 3, 2024
 
@@ -1460,7 +1417,7 @@ Silva@geoconinc.com
 
 APPROVAL OF THE UPDATED COMPARATIVE EVALUATION OF GROUNDWATER DATA, CALTRANS ENCAPSULATED SOIL STOCKPILES, STATE ROUTE 132, STANISLAUS COUNTY, CALIFORNIA (SITE CODE: 900259)
 
-## Dear Ms. Silva:
+#### Dear Ms. Silva:
 
 The Department of Toxic Substances Control (DTSC) in consultation with the Central Valley Regional Water Quality Control Board (RWQCB) has reviewed the Updated Comparative Evaluation of Groundwater Data, Caltrans Encapsulated Soil Stockpiles (Evaluation Report) dated February 26, 2024. The Evaluation Report was submitted by Geocon Consultants Inc. (Geocon) on behalf of the Department of Transportation (Caltrans) to evaluate the potential of the barium and lead impacted soil stockpiles beneath the newly constructed State Route (SR) 132 Express Way to impact groundwater.
 
@@ -1489,7 +1446,7 @@ Lora Jameson, PG, Chief Site Evaluation and Remediation Unit Department of Toxic
 
 # ACORD
 
-## CERTIFICATE OF LIABILITY INSURANCE
+### CERTIFICATE OF LIABILITY INSURANCE
 
 DATE (MM/DD/YYYY) 1/9/2025
 
@@ -1497,61 +1454,41 @@ THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS
 
 IMPORTANT: If the certificate holder is an ADDITIONAL INSURED, the policy(ies) must have ADDITIONAL INSURED provisions or be endorsed. If SUBROGATION IS WAIVED, subject to the terms and conditions of the policy, certain policies may require an endorsement. A statement on this certificate does not confer rights to the certificate holder in lieu of such endorsement(s).
 
-| PRODUCER                                  |  | License # 0B50501  |  | CONTACT |  | Teresa Galart                                             |  |                                   |  |        |  |                           |  |
-|-------------------------------------------|--|--------------------|--|---------|--|-----------------------------------------------------------|--|-----------------------------------|--|--------|--|---------------------------|--|
-| Armstrong & Associates Insurance Services |  |                    |  |         |  | PHONE                                                     |  | (A/C, No, Ext): (530) 406-2742    |  | FAX    |  | (A/C, No): (530) 668-2779 |  |
-| 239 W Court St, Bldg A                    |  |                    |  |         |  | E-MAIL ADDRESS:                                           |  | tgalart@armstrongprofessional.com |  |        |  |                           |  |
-| INSURED                                   |  |                    |  |         |  | INSURER(S) AFFORDING COVERAGE                             |  |                                   |  | NAIC # |  |                           |  |
-| TSA Drilling Inc.                         |  | PeneCore Drilling  |  |         |  | INSURER A: Homeland Insurance Company of New York         |  |                                   |  | 34452  |  |                           |  |
-| 220 North East St                         |  | Woodland, CA 95776 |  |         |  | INSURER B: West American Insurance Company                |  |                                   |  | 44393  |  |                           |  |
-|                                           |  |                    |  |         |  | INSURER C: Carolina Casualty Insurance Company            |  |                                   |  | 10510  |  |                           |  |
-|                                           |  |                    |  |         |  | INSURER D : Ohio Security Insurance Company               |  |                                   |  | 24082  |  |                           |  |
-|                                           |  |                    |  |         |  | INSURER E: Travelers Property Casualty Company of America |  |                                   |  | 25674  |  |                           |  |
-|                                           |  |                    |  |         |  | INSURER F:                                                |  |                                   |  |        |  |                           |  |
+| <p><b>PRODUCER</b> License # 0B50501<br/>Armstrong &amp; Associates Insurance Services<br/>239 W Court St, Bldg A<br/>Woodland, CA 95695</p> | <table><tr><td><b>CONTACT NAME:</b></td><td>Teresa Galart</td></tr><tr><td><b>PHONE (A/C, No, Ext):</b></td><td>(530) 406-2742</td></tr><tr><td><b>FAX (A/C, No):</b></td><td>(530) 668-2779</td></tr><tr><td><b>E-MAIL ADDRESS:</b></td><td>tgalart@armstrongprofessional.com</td></tr></table>                                                                                                                                                                                                                                                   | <b>CONTACT NAME:</b>                 | Teresa Galart | <b>PHONE (A/C, No, Ext):</b>                       | (530) 406-2742 | <b>FAX (A/C, No):</b>                       | (530) 668-2779 | <b>E-MAIL ADDRESS:</b>                          | tgalart@armstrongprofessional.com |                                             |       |                                                            |       |             |  |
+|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|---------------|----------------------------------------------------|----------------|---------------------------------------------|----------------|-------------------------------------------------|-----------------------------------|---------------------------------------------|-------|------------------------------------------------------------|-------|-------------|--|
+| <b>CONTACT NAME:</b>                                                                                                                         | Teresa Galart                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                      |               |                                                    |                |                                             |                |                                                 |                                   |                                             |       |                                                            |       |             |  |
+| <b>PHONE (A/C, No, Ext):</b>                                                                                                                 | (530) 406-2742                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                      |               |                                                    |                |                                             |                |                                                 |                                   |                                             |       |                                                            |       |             |  |
+| <b>FAX (A/C, No):</b>                                                                                                                        | (530) 668-2779                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                      |               |                                                    |                |                                             |                |                                                 |                                   |                                             |       |                                                            |       |             |  |
+| <b>E-MAIL ADDRESS:</b>                                                                                                                       | tgalart@armstrongprofessional.com                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                      |               |                                                    |                |                                             |                |                                                 |                                   |                                             |       |                                                            |       |             |  |
+| <p><b>INSURED</b><br/>TSA Drilling Inc.<br/>PeneCore Drilling<br/>220 North East St<br/>Woodland, CA 95776</p>                               | <table><tr><td><b>INSURER(S) AFFORDING COVERAGE</b></td><td><b>NAIC #</b></td></tr><tr><td>INSURER A : Homeland Insurance Company of New York</td><td>34452</td></tr><tr><td>INSURER B : West American Insurance Company</td><td>44393</td></tr><tr><td>INSURER C : Carolina Casualty Insurance Company</td><td>10510</td></tr><tr><td>INSURER D : Ohio Security Insurance Company</td><td>24082</td></tr><tr><td>INSURER E : Travelers Property Casualty Company of America</td><td>25674</td></tr><tr><td>INSURER F :</td><td></td></tr></table> | <b>INSURER(S) AFFORDING COVERAGE</b> | <b>NAIC #</b> | INSURER A : Homeland Insurance Company of New York | 34452          | INSURER B : West American Insurance Company | 44393          | INSURER C : Carolina Casualty Insurance Company | 10510                             | INSURER D : Ohio Security Insurance Company | 24082 | INSURER E : Travelers Property Casualty Company of America | 25674 | INSURER F : |  |
+| <b>INSURER(S) AFFORDING COVERAGE</b>                                                                                                         | <b>NAIC #</b>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                      |               |                                                    |                |                                             |                |                                                 |                                   |                                             |       |                                                            |       |             |  |
+| INSURER A : Homeland Insurance Company of New York                                                                                           | 34452                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |                                      |               |                                                    |                |                                             |                |                                                 |                                   |                                             |       |                                                            |       |             |  |
+| INSURER B : West American Insurance Company                                                                                                  | 44393                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |                                      |               |                                                    |                |                                             |                |                                                 |                                   |                                             |       |                                                            |       |             |  |
+| INSURER C : Carolina Casualty Insurance Company                                                                                              | 10510                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |                                      |               |                                                    |                |                                             |                |                                                 |                                   |                                             |       |                                                            |       |             |  |
+| INSURER D : Ohio Security Insurance Company                                                                                                  | 24082                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |                                      |               |                                                    |                |                                             |                |                                                 |                                   |                                             |       |                                                            |       |             |  |
+| INSURER E : Travelers Property Casualty Company of America                                                                                   | 25674                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |                                      |               |                                                    |                |                                             |                |                                                 |                                   |                                             |       |                                                            |       |             |  |
+| INSURER F :                                                                                                                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |                                      |               |                                                    |                |                                             |                |                                                 |                                   |                                             |       |                                                            |       |             |  |
 
 **REVISION NUMBER: COVERAGES CERTIFICATE NUMBER:** THIS IS TO CERTIFY THAT THE POLICIES OF INSURANCE LISTED BELOW HAVE BEEN ISSUED TO THE INSURED NAMED ABOVE FOR THE POLICY PERIOD INDICATED. NOTWITHSTANDING ANY REQUIREMENT, TERM OR CONDITION OF ANY CONTRACT OR OTHER DOCUMENT WITH RESPECT TO WHICH THIS CERTIFICATE MAY BE ISSUED OR MAY PERIAIN, THE INSURANCE AFFORDED BY THE POLICIES DESCRIBED HEREIN IS SUBJECT TO ALL THE TERMS, EVALUATION OF ANY CONDITIONS OF SUICE BUILDING AND CONDITIONS OF SUICE BUILDING AND CONDITIONS OF SUICE BUILDING AND CONDITIONS OF SUICE BUILDING AND CONDITIONS OF SUICE BUILDING AND CONDITIONS OF SUICE BUILDING AND CONDITIONS OF SUICE BUILDING AND CONDITIONS OF SUICE BUILDING AND CONDITIONS OF SUICE BUILDING AND CONDITIONS OF SUICE BUILDING AND CONDITIONS OF SUICE BUILDING AND CONDITIONS OF SUICE BUILDING AND CONDITIONS OF SUICE BUILDING AND CONDITIONS OF SUICE BUILDING AND CONDITIONS OF SUICE BUILDING AND CONDITIONS OF SUICE BUILDING AND CONDITIONS OF SUICE BUILDING AND CONDITIONS OF SUICE BUILDING AND CONDITIONS OF SUICE BUILDING AND CONDITIONS OF SUICE BUILDING AND CONDITIONS OF SUICE BUILDING AND CONDITIONS OF SUICE BUILDING AND CONDITIONS OF SUICE BUILDING AND CONDITIONS OF SUICE BUILDING AND CONDITIONS OF SUICE BUILDING AND CONDITIONS OF SUICE BUILDING AND CONDITIONS OF SUICE BUILDING AND CONDITIONS OF SUICE BUILDING AND CONDITIONS OF SUICE BUILDING AND CONDITIONS OF SUICE BUILDING AND CONDITIONS OF SUICE BUILDING AND CONDITIONS OF SUICE BUILDING AND CONDITIONS OF SUICE BUILDING AND CONDITIONS OF SUICE BUILDING AND CONDITIONS OF SUICE BUILDING AND CONDITIONS OF SUICE BUILDING AND CONDITIONS OF SUICE BUILDING AND CONDITIONS OF SUICE BUILDING AND CONDITIONS OF SUICE BUILDING AND CONDITIONS OF SUICE BUILDING AND CONDITIONS OF SUICE BUILDING AND CONDITIONS OF SUICE BUILDING AND CONDITIONS OF SUICE BUILDING AND CONDITIONS OF SUICE BUILDING AND CONDITIONS OF SUICE BUILDING AND CONDITIONS OF SUICE BUILDING AND CONDITIONS OF SUICE BUILDING AND CONDITIONS OF SUICE BUILDING AND CONDITIONS OF SUICE BUILDING AND CONDITIONS OF SUICE BUILDING AND
 
-| E           | EXCLUSIONS AND CONDITIONS OF SUCH POLICIES. LIMITS SHOWN MAY HAVE BEEN REDUCED BY PAID CLAIMS. |              |      |               |                            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                 |  |  |  |
-|-------------|------------------------------------------------------------------------------------------------|--------------|------|---------------|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|--|--|--|
-| INSR<br>LTR | TYPE OF INSURANCE                                                                              | ADDL<br>INSD | SUBR | POLICY NUMBER | POLICY EFF<br>(MM/DD/YYYY) | POLICY EXP<br>(MM/DD/YYYY)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | LIMITS                                          |  |  |  |
-| Α           | X COMMERCIAL GENERAL LIABILITY                                                                 |              |      | E             |                            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | EACH OCCURRENCE \$ 1,000,00                     |  |  |  |
-|             | CLAIMS-MADE X OCCUR                                                                            | Х            |      | 7930113350003 | 8/5/2024                   | 8/5/2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | DAMAGE TO RENTED \$ 100,00                      |  |  |  |
-| ١,          | χ Pollution                                                                                    |              |      |               |                            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | MED EXP (Any one person) \$ 5,00                |  |  |  |
-| 1           | χ Professional                                                                                 |              |      |               |                            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | PERSONAL & ADV INJURY \$ 1,000,00               |  |  |  |
-|             | GEN'L AGGREGATE LIMIT APPLIES PER:                                                             |              |      |               |                            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | GENERAL AGGREGATE \$ 2,000,00                   |  |  |  |
-|             | X POLICY X PRO-                                                                                |              |      |               |                            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | PRODUCTS - COMP/OP AGG \$ 2,000,00              |  |  |  |
-|             | OTHER:                                                                                         |              |      |               |                            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Poll/Prof   s 1,000,00                          |  |  |  |
-| В           | AUTOMOBILE LIABILITY                                                                           |              |      |               |                            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | COMBINED SINGLE LIMIT (Ea accident) \$ 1,000,00 |  |  |  |
-|             | X ANY AUTO                                                                                     | X            |      | BAW56829954   | 8/5/2024                   | 8/5/2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | BODILY INJURY (Per person) \$                   |  |  |  |
-|             | OWNED SCHEDULED AUTOS                                                                          |              |      | 4 4 4         |                            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | BODILY INJURY (Per accident) \$                 |  |  |  |
-|             | HIRED NON-OWNED AUTOS ONLY                                                                     |              |      |               |                            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | PROPERTY DAMAGE (Per accident) \$               |  |  |  |
-|             |                                                                                                |              |      |               | 1                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | \$                                              |  |  |  |
-| Α           | UMBRELLA LIAB X OCCUR                                                                          |              |      | 40 1          |                            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | EACH OCCURRENCE \$ 9,000,00                     |  |  |  |
-|             | X EXCESS LIAB CLAIMS-MADE                                                                      |              |      | 7930113360003 | 8/5/2024                   | 8/5/2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | AGGREGATE \$                                    |  |  |  |
-|             | DED RETENTION\$                                                                                |              |      |               |                            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | \$ 9,000,00                                     |  |  |  |
-| С           | WORKERS COMPENSATION<br>AND EMPLOYERS' LIABILITY                                               |              |      |               |                            | A CONTRACTOR OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF THE PARTY OF TH | X PER OTH-ER                                    |  |  |  |
-|             | ANY PROPRIETOR/DAPTNER/EYECUTIVE                                                               | N/A          | Χ    | BNUWC0163424  | 8/1/2024                   | 8/1/2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | E.L. EACH ACCIDENT \$ 1,000,00                  |  |  |  |
-|             | (Mandatory in NH)                                                                              | N/A          |      |               |                            | Participation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | E.L. DISEASE - EA EMPLOYEE \$ 1,000,00          |  |  |  |
-|             | If yes, describe under<br>DESCRIPTION OF OPERATIONS below                                      |              |      |               |                            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | E.L. DISEASE - POLICY LIMIT \$ 1,000,00         |  |  |  |
-| D           | Property                                                                                       |              |      | BKS56829954   | 8/5/2024                   | 8/5/2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Building 713,16                                 |  |  |  |
-| E           | Equipment Floater                                                                              |              |      | 6605Y31714024 | 8/5/2024                   | 8/5/2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Rented Leased Borrow 150,00                     |  |  |  |
-|             |                                                                                                |              |      |               |                            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                 |  |  |  |
+| INSR LTR | TYPE OF INSURANCE                                                                                                                                                                      | ADDL INSD | SUBR WVD | POLICY NUMBER | POLICY EFF (MM/DD/YYYY) | POLICY EXP (MM/DD/YYYY) | LIMITS                                                                                                                                                                                                                                                             |
+|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|----------|---------------|-------------------------|-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| A        | COMMERCIAL GENERAL LIABILITY<br>CLAIMS-MADE X OCCUR<br>X Pollution<br>X Professional<br>GEN'L AGGREGATE LIMIT APPLIES PER:<br>X POLICY X PRO-JECT                                      | X         |          | 7930113350003 | 8/5/2024                | 8/5/2025                | EACH OCCURRENCE \$ 1,000,000<br>DAMAGE TO RENTED PREMISES (Ea occurrence) \$ 100,000<br>MED EXP (Any one person) \$ 5,000<br>PERSONAL & ADV INJURY \$ 1,000,000<br>GENERAL AGGREGATE \$ 2,000,000<br>PRODUCTS - COMP/OP AGG \$ 2,000,000<br>Poll/Prof \$ 1,000,000 |
+| B        | AUTOMOBILE LIABILITY<br>X ANY AUTO<br>OWNED AUTOS ONLY<br>HIRED AUTOS ONLY<br>SCHEDULED AUTOS<br>NON-OWNED AUTOS ONLY                                                                  | X         |          | BAW56829954   | 8/5/2024                | 8/5/2025                | COMBINED SINGLE LIMIT (Ea accident) \$ 1,000,000<br>BODILY INJURY (Per person) \$<br>BODILY INJURY (Per accident) \$<br>PROPERTY DAMAGE (Per accident) \$<br>\$                                                                                                    |
+| A        | UMBRELLA LIAB X OCCUR<br>X EXCESS LIAB CLAIMS-MADE<br>DED RETENTION \$                                                                                                                 |           |          | 7930113360003 | 8/5/2024                | 8/5/2025                | EACH OCCURRENCE \$ 9,000,000<br>AGGREGATE \$ 9,000,000                                                                                                                                                                                                             |
+| C        | WORKERS COMPENSATION AND EMPLOYERS' LIABILITY<br>ANY PROPRIETOR/PARTNER/EXECUTIVE OFFICER/MEMBER EXCLUDED? (Mandatory in NH)<br>If yes, describe under DESCRIPTION OF OPERATIONS below |           | X        | BNUWC0163424  | 8/1/2024                | 8/1/2025                | X PER STATUTE<br>E.L. EACH ACCIDENT \$ 1,000,000<br>E.L. DISEASE - EA EMPLOYEE \$ 1,000,000<br>E.L. DISEASE - POLICY LIMIT \$ 1,000,000                                                                                                                            |
+| D        | Property                                                                                                                                                                               |           |          | BKS56829954   | 8/5/2024                | 8/5/2025                | Building 713,167                                                                                                                                                                                                                                                   |
+| E        | Equipment Floater                                                                                                                                                                      |           |          | 6605Y31714024 | 8/5/2024                | 8/5/2025                | Rented Leased Borrow 150,000                                                                                                                                                                                                                                       |
 
 DESCRIPTION OF OPERATIONS / LOCATIONS / VEHICLES (ACORD 101, Additional Remarks Schedule, may be attached if more space is required) RE: All Operations
 
-RE: All Operations
+**RE: All Operations**
 
 Geocon Consultants, Inc. and Client are named additional insured in regards to the General Liability and Auto Liability. Insurance is primary and non-contributory. Waiver of Subrogation applies to the General Liability, Auto and Work Comp. Excess Liability follows form over the General Liability, Auto Liability and Employers Liability.
 
-| CERTIFICATE HOLDER                                                                       |  |
-|------------------------------------------------------------------------------------------|--|
-| Geocon Consultants, Inc.<br>3160 Gold Valley Drive Suite 800<br>Rancho Cordova, CA 95742 |  |
-
-CANCELLATION
-
-SHOULD ANY OF THE ABOVE DESCRIBED POLICIES BE CANCELLED BEFORE THE EXPIRATION DATE THEREOF, NOTICE WILL BE DELIVERED IN ACCORDANCE WITH THE POLICY PROVISIONS.
-
-AUTHORIZED REPRESENTATIVE
+| <b>CERTIFICATE HOLDER</b> <p>Geocon Consultants, Inc.<br/>3160 Gold Valley Drive Suite 800<br/>Rancho Cordova, CA 95742</p> | <b>CANCELLATION</b> <p>SHOULD ANY OF THE ABOVE DESCRIBED POLICIES BE CANCELLED BEFORE THE EXPIRATION DATE THEREOF, NOTICE WILL BE DELIVERED IN ACCORDANCE WITH THE POLICY PROVISIONS.</p><br><b>AUTHORIZED REPRESENTATIVE</b> <p>[Signature]</p> |
+|-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ACORD 25 (2016/03)
 
@@ -1559,7 +1496,7 @@ ACORD 25 (2016/03)
 
 Policy Number: 793-01-13-35-0003
 
-## THIS ENDORSEMENT CHANGES THE POLICY, PLEASE READ IT CAREFULLY.
+### THIS ENDORSEMENT CHANGES THE POLICY, PLEASE READ IT CAREFULLY.
 
 # ADDITIONAL INSURED – OWNERS, LESSEES OR CONTRACTORS – SCHEDULED PERSON OR ORGANIZATION – FORM III
 
@@ -1567,12 +1504,12 @@ This endorsement modifies coverage provided under the following:
 
 COMMERCIAL GENERAL LIABILITY COVERAGE PART CONTRACTORS ENVIRONMENTAL LIABILITY COVERAGE PART
 
-## SCHEDULE
+### **SCHEDULE**
 
-| Name Of Additional Insured Person(s)<br>Or Organization(s)                                                                                                                                                                                                                                               | Location(s) Of Covered Operations                                                                                                                                                                        |  |  |  |  |  |  |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|--|--|--|--|
-| Any person or organization that the Named Insured agreed to add as an additional insured in a written contract or written agreement that was fully executed by the Named Insured prior to the performance of the Named Insured's work that is the subject of such written contract or written agreement. | Any location where required by the written contract or written agreement in which the Named Insured agreed to add the person or organization qualifying as an additional insured under this endorsement. |  |  |  |  |  |  |
-| Information required to complete this Schedule, if not shown above, will be shown in the Declarations.                                                                                                                                                                                                   |                                                                                                                                                                                                          |  |  |  |  |  |  |
+| Name Of Additional Insured Person(s)<br>Or Organization(s)                                                                                                                                                                                                                                               | Location(s) Of Covered Operations                                                                                                                                                                        |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Any person or organization that the Named Insured agreed to add as an additional insured in a written contract or written agreement that was fully executed by the Named Insured prior to the performance of the Named Insured's work that is the subject of such written contract or written agreement. | Any location where required by the written contract or written agreement in which the Named Insured agreed to add the person or organization qualifying as an additional insured under this endorsement. |
+| Information required to complete this Schedule, if not shown above, will be shown in the Declarations.                                                                                                                                                                                                   |                                                                                                                                                                                                          |
 
 - A. SECTION II WHO IS AN INSURED is amended to include as an additional insured the person(s) or organization(s) shown in the Schedule, but only with respect to liability for **bodily injury**, **property damage**, **environmental damage** or **personal and advertising injury** caused, in whole or in part, by:
   - 1. Your acts or omissions: or
@@ -1580,7 +1517,7 @@ COMMERCIAL GENERAL LIABILITY COVERAGE PART CONTRACTORS ENVIRONMENTAL LIABILITY C
 
 in the performance of your ongoing operations for the additional insured(s) at the location(s) designated above.
 
-## However:
+### However:
 
 - 1. The insurance afforded to such additional insured only applies to the extent permitted by law; and
 - 2. If coverage provided to the additional insured is required by a contract or agreement, the insurance afforded to such additional insured will not be broader than that which you are required by the contract or agreement to provide for such additional insured.
@@ -1638,64 +1575,20 @@ WEB
 
 No No
 
-## Excavator Details
+### **Excavator Details**
 
 Contact: Chris Bates
 
 Phone: 925-437-5773
 
-The following table shows the results of the experiment:
+Your browser does not support JavaScript.
 
-| <strong>Parameter</strong> | <strong>Value</strong> |
-|----------------------------|------------------------|
-| Temperature                | 25°C                   |
-| Pressure                   | 1 atm                  |
-| Time                       | 60 minutes             |
+| <strong>Labels</strong> | <strong>Values</strong> |
+|-------------------------|-------------------------|
+| Contact:                | Chris Bates             |
+| Company:                | Caesar Consu            |
 
-This is an example of inline code: `print("Hello, world!")`.
-
-This is an example of a block of code:
-
-`python
-def greet(name):
- print(f"Hello, {name}!")`
-
-This is an example of a mathematical expression: \$E=mc^2\$.
-
-This is an example of a displayed mathematical expression:
-
-$$\int_{0}^{\infty} e^{-x^2} dx = \frac{\sqrt{\pi}}{2}$$
-This is an example of a link: [Google](https://www.google.com).
-
-This is an example of a bold text: **bold text**.
-
-This is an example of an italic text: *italic text*.
-
-This is an example of a header:
-
-# Header 1
-
-## Header 2
-
-### Header 3
-
-This is an example of an unordered list:
-
-- Item 1
-- Item 2
-- Item 3
-
-This is an example of an ordered list:
-
-1. First item
-2. Second item
-3. Third item
-
-**Contact:** Chris Bates
-
-**Company:** Caesar Cons
-
-Phone: 925-437-5773
+**Phone:** 925-437-5773
 
 Mobile: Not Supplied
 
@@ -1741,7 +1634,7 @@ Address: 3160 Gold Valley
 
 California 95742
 
-Excavator ID: 36039
+**Excavator ID: 36039**
 
 Drive, Suite 800
 
@@ -1761,7 +1654,7 @@ GIS coordinate system:
 
 WGS84 (WKID 4326)
 
-## Ticket Action Reason:
+### **Ticket Action Reason:**
 
 | Excavation Method   | Auger - truck mounted |               |
 |---------------------|-----------------------|---------------|
@@ -1776,7 +1669,7 @@ WGS84 (WKID 4326)
 
 9254375773
 
-## Excavator Remarks:
+### **Excavator Remarks:**
 
 Behind chain-link fencing between Floor Outlet and Hilton. Well location marked with a white square.
 
@@ -1796,7 +1689,7 @@ Transmission ID 111
 
 Ticket Type: Normal Response Required:
 
-## Excavator Details
+### **Excavator Details**
 
 Contact: Chris Bates
 
@@ -1810,9 +1703,8 @@ Company: Geocon Consultants, Inc.
 
 Email: Bates@geoconinc.com
 
-**Company**
-
-**Excavator T**
+Company
+Excavator T
 
 **Excavator Type:** Contractor (or other professional excavator)
 
@@ -1822,13 +1714,16 @@ Language: Not Supplied
 
 Address: 3160 Gold Valley
 
+Ed
+Ex
+
 Excavator ID: 36039
 
 Drive, Suite 800
 
 California 95742
 
-# Dig Site and Ticket Details
+# **Dig Site and Ticket Details**
 
 ![](_page_47_Picture_24.jpeg)
 
@@ -1842,101 +1737,106 @@ GIS coordinate system:
 
 WGS84 (WKID 4326)
 
-| Ticket Action Reason: |  |
-|-----------------------|--|
-|-----------------------|--|
+| <b>Ticket Action Reason:</b> |
+|------------------------------|
+|                              |
 
-## Excavator Remarks:
+### **Excavator Remarks:**
 
 Well location near cement pad and has a cone on it
 
-| Previous Ticket #    |                       |               | Rev.#  |       |     |
-|----------------------|-----------------------|---------------|--------|-------|-----|
-| Submitted            | 03/11/2025 13:08      |               | Medium |       | WEB |
-| Work Begin Date      | 03/14/2025 07:01      |               |        |       |     |
-| Legal Start Date     | 03/14/2025 07:01      |               |        |       |     |
-| Ticket Expiration    | 04/08/2025 23:59      |               |        |       |     |
-| Work Duration        | 1 day or less         |               |        |       |     |
-| Address/Location     | 700 Kansas Ave        |               |        |       |     |
-| City/Town/Place      | Modesto               |               |        |       |     |
-| County               | Stanislaus County     |               |        |       |     |
-| State                | CA                    | Zip Code      |        | 95351 |     |
-| Nearby Cross Street  | Graphics Drive        |               |        |       |     |
-| Subdivision/Lot      |                       |               |        |       |     |
-| Delineated Method    | White Paint           |               |        |       |     |
-| Work Type            | Environmental         |               |        |       |     |
-| Work Activity        | Monitoring Wells Work |               |        |       |     |
-| Excavation Method    | Auger - truck mounted |               |        |       |     |
-| Anticipated Depth    | >84 inches            |               |        |       |     |
-| Boring               | No                    | Explosive     |        | No    |     |
-| Street/Sidewalk      | No                    | Pavement Only |        | No    |     |
-| Vacuum Excavation    | No                    |               |        |       |     |
-| Project Owner        | Caltrans              |               |        |       |     |
-| Permit               |                       |               |        |       |     |
-| Job #/Name           | S2350-01-02           |               |        |       |     |
-| Onsite Contact Name  | Chris Bates           |               |        |       |     |
-| Onsite Contact Phone | 9254375773            |               |        |       |     |
+| Previous Ticket #    |                       | Rev.#         |       |
+|----------------------|-----------------------|---------------|-------|
+| Submitted            | 03/11/2025 13:08      | Medium        | WEB   |
+| Work Begin Date      | 03/14/2025 07:01      |               |       |
+| Legal Start Date     | 03/14/2025 07:01      |               |       |
+| Ticket Expiration    | 04/08/2025 23:59      |               |       |
+| Work Duration        | 1 day or less         |               |       |
+| Address/Location     | 700 Kansas Ave        |               |       |
+| City/Town/Place      | Modesto               |               |       |
+| County               | Stanislaus County     |               |       |
+| State                | CA                    | Zip Code      | 95351 |
+| Nearby Cross Street  | Graphics Drive        |               |       |
+| Subdivision/Lot      |                       |               |       |
+| Delineated Method    | White Paint           |               |       |
+| Work Type            | Environmental         |               |       |
+| Work Activity        | Monitoring Wells Work |               |       |
+| Excavation Method    | Auger - truck mounted |               |       |
+| Anticipated Depth    | >84 inches            |               |       |
+| Boring               | No                    | Explosive     | No    |
+| Street/Sidewalk      | No                    | Pavement Only | No    |
+| Vacuum Excavation    | No                    |               |       |
+| Project Owner        | Caltrans              |               |       |
+| Permit               |                       |               |       |
+| Job #/Name           | S2350-01-02           |               |       |
+| Onsite Contact Name  | Chris Bates           |               |       |
+| Onsite Contact Phone | 9254375773            |               |       |
 
 ![](_page_48_Picture_0.jpeg)
 
 # ENVIRONMENTAL RESOURCES Permit #1 MW25-13; MW25-14 Receipt #
 
-# 1
+it #1
 
-## 13.5-14
+MW25-13;
 
-### 13.5-15
+MW25-14
 
-#### 14-15
+Receipt#
 
-Receipt
-#
-
-46
-96
-6
-26
+46764
 
 46762
 
 Date: 3/12/2025
 
-The following table lists the parameters for the `fit_model` function:
+### **General Information**
 
-| <strong>Parameter</strong>   | <strong>Type</strong>         | <strong>Description</strong>                                                    |
-|------------------------------|-------------------------------|---------------------------------------------------------------------------------|
-| <code>data</code>            | <code>pandas.DataFrame</code> | The input data for training.                                                    |
-| <code>target_column</code>   | <code>str</code>              | The name of the column to predict.                                              |
-| <code>model_type</code>      | <code>str</code>              | The type of model to use (e.g., 'linear <em>regression', 'random</em> forest'). |
-| <code>hyperparameters</code> | <code>dict</code>             | A dictionary of hyperparameters for the chosen model.                           |
+| Labels                       | Values                                               |
+|------------------------------|------------------------------------------------------|
+| <strong>Institution</strong> | <strong>University of North Carolina</strong>        |
+| <strong>Course</strong>      | <strong>Introduction to Physics</strong>             |
+| <strong>Term</strong>        | <strong>Fall 2023</strong>                           |
+| <strong>Course Code</strong> | <strong>PHYS 101</strong>                            |
+| <strong>Instructor</strong>  | <strong>Dr. Elena Rodriguez</strong>                 |
+| <strong>Department</strong>  | <strong>Department of Physics and Astronomy</strong> |
 
-Example usage:
+---
 
-```python
-import pandas as pd
-from sklearn.model*selection import train*test\_split
+### **Course Description**
 
-# Load your data
+This course introduces fundamental concepts of physical science, including mechanics, thermodynamics, and wave motion. Students will explore theoretical principles and apply them through problem-solving and laboratory experiments. 
 
-data = pd.read*csv('your*data.csv')
+### **Required Materials**
 
-# Define target column and hyperparameters
+- Textbook: *Fundamentals of Physics*, 11th Edition (Halliday, Resnick, Walker)
+- Laboratory Manual (Provided in Canvas)
+- Scientific Calculator
 
-target = 'your*target*column'
-hyperparams = {'n*estimators': 100, 'max*depth': 5}
+### **Grading Scale**
 
-# Fit the model
+| Grade              | Percentage Range             |
+|--------------------|------------------------------|
+| <strong>A</strong> | <strong>90% - 100%</strong>  |
+| <strong>B</strong> | <strong>80% - 89.9%</strong> |
+| <strong>C</strong> | <strong>70% - 79.9%</strong> |
+| <strong>D</strong> | <strong>60% - 69.9%</strong> |
+| <strong>F</strong> | <strong>Below 60%</strong>   |
 
-model = fit*model(data=data, target*column=target, model*type='random*forest', hyperparameters=hyperparams)
-```
+> *Note: Late assignments will incur a penalty of 10% per day.*
 
-This function returns a trained model object that can be used for making predictions.
-
-| Cigilacai   | Signature STA-99                                                                               | Description HW- PA<br>TRANS       |                | 3260 V                      | GEMMA            | Received From      |           |             |            | Amt Paid          | 3.5% CC Fee            | Credit Amt            | Striving to be the Best Check Amt | COUNTY |
-|-------------|------------------------------------------------------------------------------------------------|-----------------------------------|----------------|-----------------------------|------------------|--------------------|-----------|-------------|------------|-------------------|------------------------|-----------------------|-----------------------------------|--------|
-|             |                                                                                                | YMENTS FOR TWO WI                 |                | 3260 VIRA GRANDE SACRAMENTO | GEMMA G REBLANDO | ٠                  |           |             |            | \$658.26          | Fee \$22.26            | mt \$636.00           | mt                                |        |
-|             | HW-PAYMENTS FOR TWO WELL DESTRUCTION FOR CAL TRANS MODESTO STOCKPILES LOCATED WEST & EAST SIDE |                                   | ENTO           |                             |                  |                    |           |             |            | Received By nl    | Card Appr# 02137C      | Check #               |                                   |        |
-| SALE AMOUNT | Mode:                                                                                          | ્રધ્proval Code:<br>Entry Method: | INVOICE        | Ealtch #:                   | <b>5</b>         | Card # XX          | VISA SALE | CREDIT CARD | (3/12/2025 | MODESTO, CA 95358 | 3800 CORNUCOPIA WAY ST | ENNTRONVALIA RESOLIRO |                                   |        |
-| \$658,26    | Online                                                                                         | 02137C<br>Manual                  | <sub>(,)</sub> | 2311                        | 6.3              | XXXXXXXXXXXXXX9071 |           | J           | 12:22:29   | 5358              | WAY ST                 | SOLIBOR               |                                   |        |
+| Striving to be the Best                                                                                                         | Check #                                                       |
+|---------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
+| <b>Amt Paid:</b> \$658.26                                                                                                       | <b>Card Appr #:</b> 02137C                                    |
+| <b>Credit Amt:</b> \$636.00                                                                                                     | <b>Received By:</b> nl                                        |
+| <b>3.5% CC Fee:</b> \$22.26                                                                                                     | <b>Date:</b> 3/12/2025                                        |
+| <b>Received From:</b><br>GEMMA G REBLANDO<br>3260 VIRA GRANDE SACRAMENTO                                                        |                                                               |
+| <b>Description:</b><br>HW-PAYMENTS FOR TWO WELL DESTRUCTION FOR CAL TRANS MODESTO STOCKPILES LOCATED WEST & EAST SIDE<br>STA-99 |                                                               |
+| <b>Signature:</b><br>Image: [signature]                                                                                         |                                                               |
+|                                                                                                                                 |                                                               |
+| <b>ENVIRONMENTAL RESOURCE</b><br>3800 CORNUCOPIA WAY ST<br>MODESTO, CA 95358                                                    | 12:22:29                                                      |
+| <b>CREDIT CARD</b><br>VISA SALE                                                                                                 |                                                               |
+| Card #: XXXXXXXXXXXXXX9071<br>SEQ #: 3<br>Batch #: 2311<br>INVOICE                                                              | Approval Code: 02137C<br>Entry Method: Manual<br>Mode: Online |
+| <b>SALE AMOUNT</b>                                                                                                              | <b>\$658.26</b>                                               |
 
 CUSTOMER COPY

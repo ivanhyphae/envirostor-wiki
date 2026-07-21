@@ -80,7 +80,7 @@
       "block_metadata": {
         "llm_request_count": 1,
         "llm_error_count": 0,
-        "llm_tokens_used": 1065,
+        "llm_tokens_used": 1143,
         "previous_text": "",
         "previous_type": "",
         "previous_order": 0

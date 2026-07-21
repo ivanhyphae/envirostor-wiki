@@ -1234,7 +1234,7 @@
       "block_metadata": {
         "llm_request_count": 1,
         "llm_error_count": 0,
-        "llm_tokens_used": 10662,
+        "llm_tokens_used": 9032,
         "previous_text": "",
         "previous_type": "",
         "previous_order": 0
@@ -1477,12 +1477,12 @@
           10
         ],
         [
-          "TableCell",
-          6
-        ],
-        [
           "Span",
           4
+        ],
+        [
+          "TableCell",
+          3
         ],
         [
           "Text",
@@ -1515,8 +1515,8 @@
       ],
       "block_metadata": {
         "llm_request_count": 1,
-        "llm_error_count": 0,
-        "llm_tokens_used": 1114,
+        "llm_error_count": 1,
+        "llm_tokens_used": 1815,
         "previous_text": "",
         "previous_type": "",
         "previous_order": 0
@@ -1528,7 +1528,7 @@
       "block_counts": [
         [
           "TableCell",
-          110
+          102
         ],
         [
           "Line",
@@ -1558,7 +1558,7 @@
       "block_metadata": {
         "llm_request_count": 1,
         "llm_error_count": 0,
-        "llm_tokens_used": 1883,
+        "llm_tokens_used": 2419,
         "previous_text": "",
         "previous_type": "",
         "previous_order": 0
@@ -1570,7 +1570,7 @@
       "block_counts": [
         [
           "TableCell",
-          280
+          560
         ],
         [
           "Line",
@@ -1598,9 +1598,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 0,
-        "llm_error_count": 1,
-        "llm_tokens_used": 0,
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 5358,
         "previous_text": "",
         "previous_type": "",
         "previous_order": 0
@@ -1706,7 +1706,7 @@
       "block_metadata": {
         "llm_request_count": 1,
         "llm_error_count": 0,
-        "llm_tokens_used": 1903,
+        "llm_tokens_used": 2760,
         "previous_text": "",
         "previous_type": "",
         "previous_order": 0
@@ -1718,7 +1718,7 @@
       "block_counts": [
         [
           "TableCell",
-          342
+          561
         ],
         [
           "Line",
@@ -1758,9 +1758,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
-        "llm_error_count": 1,
-        "llm_tokens_used": 3685,
+        "llm_request_count": 2,
+        "llm_error_count": 0,
+        "llm_tokens_used": 10508,
         "previous_text": "",
         "previous_type": "",
         "previous_order": 0
@@ -1772,7 +1772,7 @@
       "block_counts": [
         [
           "TableCell",
-          269
+          521
         ],
         [
           "Line",
@@ -1812,9 +1812,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 1,
-        "llm_error_count": 1,
-        "llm_tokens_used": 5283,
+        "llm_request_count": 2,
+        "llm_error_count": 0,
+        "llm_tokens_used": 11640,
         "previous_text": "",
         "previous_type": "",
         "previous_order": 0
@@ -1826,7 +1826,7 @@
       "block_counts": [
         [
           "TableCell",
-          132
+          113
         ],
         [
           "Span",
@@ -1864,7 +1864,7 @@
       "block_metadata": {
         "llm_request_count": 2,
         "llm_error_count": 0,
-        "llm_tokens_used": 6908,
+        "llm_tokens_used": 7948,
         "previous_text": "",
         "previous_type": "",
         "previous_order": 0
@@ -1876,7 +1876,7 @@
       "block_counts": [
         [
           "TableCell",
-          297
+          272
         ],
         [
           "Span",
@@ -1914,7 +1914,7 @@
       "block_metadata": {
         "llm_request_count": 3,
         "llm_error_count": 0,
-        "llm_tokens_used": 4522,
+        "llm_tokens_used": 7059,
         "previous_text": "",
         "previous_type": "",
         "previous_order": 0
@@ -1926,7 +1926,7 @@
       "block_counts": [
         [
           "TableCell",
-          732
+          729
         ],
         [
           "Line",
@@ -1968,7 +1968,7 @@
       "block_metadata": {
         "llm_request_count": 3,
         "llm_error_count": 0,
-        "llm_tokens_used": 8485,
+        "llm_tokens_used": 11460,
         "previous_text": "",
         "previous_type": "",
         "previous_order": 0
@@ -2018,7 +2018,7 @@
       "block_metadata": {
         "llm_request_count": 2,
         "llm_error_count": 0,
-        "llm_tokens_used": 9672,
+        "llm_tokens_used": 10941,
         "previous_text": "",
         "previous_type": "",
         "previous_order": 0
@@ -2030,7 +2030,7 @@
       "block_counts": [
         [
           "TableCell",
-          700
+          694
         ],
         [
           "Line",
@@ -2072,7 +2072,7 @@
       "block_metadata": {
         "llm_request_count": 2,
         "llm_error_count": 0,
-        "llm_tokens_used": 12067,
+        "llm_tokens_used": 13155,
         "previous_text": "",
         "previous_type": "",
         "previous_order": 0
@@ -2084,7 +2084,7 @@
       "block_counts": [
         [
           "TableCell",
-          232
+          227
         ],
         [
           "Span",
@@ -2122,7 +2122,7 @@
       "block_metadata": {
         "llm_request_count": 3,
         "llm_error_count": 0,
-        "llm_tokens_used": 10244,
+        "llm_tokens_used": 12443,
         "previous_text": "",
         "previous_type": "",
         "previous_order": 0
@@ -2134,7 +2134,7 @@
       "block_counts": [
         [
           "TableCell",
-          215
+          207
         ],
         [
           "Span",
@@ -2172,7 +2172,7 @@
       "block_metadata": {
         "llm_request_count": 3,
         "llm_error_count": 0,
-        "llm_tokens_used": 14563,
+        "llm_tokens_used": 6506,
         "previous_text": "",
         "previous_type": "",
         "previous_order": 0
@@ -2184,7 +2184,7 @@
       "block_counts": [
         [
           "TableCell",
-          230
+          206
         ],
         [
           "Span",
@@ -2222,7 +2222,7 @@
       "block_metadata": {
         "llm_request_count": 3,
         "llm_error_count": 0,
-        "llm_tokens_used": 4516,
+        "llm_tokens_used": 6552,
         "previous_text": "",
         "previous_type": "",
         "previous_order": 0
@@ -2258,9 +2258,9 @@
         ]
       ],
       "block_metadata": {
-        "llm_request_count": 0,
+        "llm_request_count": 2,
         "llm_error_count": 2,
-        "llm_tokens_used": 0,
+        "llm_tokens_used": 9227,
         "previous_text": "",
         "previous_type": "",
         "previous_order": 0
@@ -2298,7 +2298,7 @@
       "block_metadata": {
         "llm_request_count": 1,
         "llm_error_count": 0,
-        "llm_tokens_used": 2760,
+        "llm_tokens_used": 3374,
         "previous_text": "",
         "previous_type": "",
         "previous_order": 0
@@ -2340,7 +2340,7 @@
       "block_metadata": {
         "llm_request_count": 1,
         "llm_error_count": 0,
-        "llm_tokens_used": 3109,
+        "llm_tokens_used": 3671,
         "previous_text": "",
         "previous_type": "",
         "previous_order": 0
@@ -2378,7 +2378,7 @@
       "block_metadata": {
         "llm_request_count": 1,
         "llm_error_count": 0,
-        "llm_tokens_used": 4164,
+        "llm_tokens_used": 5381,
         "previous_text": "",
         "previous_type": "",
         "previous_order": 0

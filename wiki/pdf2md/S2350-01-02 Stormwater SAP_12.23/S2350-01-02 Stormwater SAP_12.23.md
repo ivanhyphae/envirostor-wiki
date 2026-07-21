@@ -1,5 +1,7 @@
 ![](_page_0_Picture_0.jpeg)
 
+# GEOTECHNICAL . ENVIRONMENTAL . MATERIALS
+
 ![](_page_0_Picture_2.jpeg)
 
 Project No. S2350-01-02 December 13, 2023
@@ -16,23 +18,23 @@ STANISLAUS COUNTY, CALIFORNIA
 
 CONTRACT NO. 06A2767, TASK ORDER NO. 2, EA NO. 10-1E7003
 
-References: *Final Surface Water Sampling and Analysis Plan, Shaw Environmental, Inc.,* 
+References: Final Surface Water Sampling and Analysis Plan, Shaw Environmental, Inc.,
 
-*January 25, 2006;* 
+January 25, 2006;
 
-*Addendum to Surface Water Sampling and Analysis Plan, Geocon Consultants, Inc.,* 
+Addendum to Surface Water Sampling and Analysis Plan, Geocon Consultants, Inc.,
 
-*February 20, 2013; and* 
+February 20, 2013; and
 
-*Surface Water Report, Modesto Soil Stockpile Encapsulation Project, Stantec,* 
+Surface Water Report, Modesto Soil Stockpile Encapsulation Project, Stantec,
 
-*March 10, 2023.* 
+March 10, 2023.
 
-## Mr. Stewart:
+#### Mr. Stewart:
 
 In accordance with California Department of Transportation (Caltrans) Contract No. 06A2767, Task Order (TO) No. 2, Geocon prepared this *Storm Water Sampling and Analysis Plan* (SAP) to outline the proposed storm water sampling activities associated with the former Caltrans Modesto Soil Stockpiles (site) located south of the intersection of State Route (SR) 99 and Kansas Avenue in Stanislaus County, California. The approximate site location is depicted on the attached Site Location Map, Figure 1. The approximate locations of Stockpiles 1 and 2, which were encapsulated beneath SR 132, and proposed storm water sampling locations, are shown on the Site Plan, Figure 2.
 
-The purpose of the sampling described in this SAP is to evaluate the integrity of the stockpile containment system that was approved by the Department of Toxic Substances Control (DTSC) and incorporated within the design and construction of the SR 132 West Expressway project. The containment system isolated and encapsulated barium and lead-contaminated soil behind retaining walls and bridge abutments and beneath roadway pavements and clean soil between SR 99 and Carpenter Avenue. Analysis of storm water samples will help gauge the effectiveness of the containment system and determine if storm water has been impacted by chemicals of potential concern from the encapsulated stockpiles. The storm water sampling will be performed in accordance with protocols approved by the DTSC as established in the *Final Surface Water Sampling and Analysis Plan,*  prepared by Shaw Environmental, Inc. (Shaw) and dated January 2006, and the *Addendum to Surface Water Sampling and Analysis Plan (SAP Addendum),* prepared by Geocon Consultants, Inc. (Geocon), dated February 20, 2013. The proposed scope of services includes storm water sampling, analysis of the water samples by a California-certified laboratory, and preparation of a summary report detailing the sampling activities.
+The purpose of the sampling described in this SAP is to evaluate the integrity of the stockpile containment system that was approved by the Department of Toxic Substances Control (DTSC) and incorporated within the design and construction of the SR 132 West Expressway project. The containment system isolated and encapsulated barium and lead-contaminated soil behind retaining walls and bridge abutments and beneath roadway pavements and clean soil between SR 99 and Carpenter Avenue. Analysis of storm water samples will help gauge the effectiveness of the containment system and determine if storm water has been impacted by chemicals of potential concern from the encapsulated stockpiles. The storm water sampling will be performed in accordance with protocols approved by the DTSC as established in the *Final Surface Water Sampling and Analysis Plan*, prepared by Shaw Environmental, Inc. (Shaw) and dated January 2006, and the *Addendum to Surface Water Sampling and Analysis Plan (SAP Addendum)*, prepared by Geocon Consultants, Inc. (Geocon), dated February 20, 2013. The proposed scope of services includes storm water sampling, analysis of the water samples by a California-certified laboratory, and preparation of a summary report detailing the sampling activities.
 
 ## **BACKGROUND**
 
@@ -45,12 +47,13 @@ In 1943, Barium Products Ltd. was purchased by Westvaco Chlorine Products Corpor
 In 1961, a 4.3-acre parcel at the southwestern corner of the FMC facility was purchased by Caltrans for highway ROW needed to construct SR 99. An aerial photograph from 1957 shows that a portion of the southernmost evaporation/disposal pond on the FMC property was within the area purchased for the SR 99 ROW. Soil in and around the pond was excavated during construction of SR 99 and stockpiled within the current Caltrans ROW at the location of the SR 132 West Freeway/Expressway project. Three distinct stockpiles were constructed at the site:
 
 - Stockpile 1, located south of Kansas Avenue and west of North Emerald Avenue,
-- Stockpile 2, located south of Kansas Avenue, between North Emerald Avenue and SR 99, and
+- Stockpile 2, located south of Kansas Avenue, between North Emerald Avenue and SR 99,
+  and
 - Stockpile 3, located south of Kansas Avenue and east of SR 99.
 
 The earthwork on Phase I of the SR 99/132 expressway began in January 2020. Soil from Stockpile 3 was excavated, transported, and placed on top of Stockpiles 1 and 2. In October 2021, the majority of Stockpiles 1 and 2 were completely encapsulated beneath the structural section of SR 132 and with clean soil and vegetation on the northern side slopes. SR 132 was opened to traffic in November 2022.
 
-### **Surface Water Sampling Activities – Prior to Stockpile Encapsulation**
+## **Surface Water Sampling Activities – Prior to Stockpile Encapsulation**
 
 The original surface water sampling event at the former stockpiles was conducted by Shaw in March 2006 in general accordance with the January 2006 SAP. A total of seven runoff samples were collected from constructed impoundments during a qualifying rain event (i.e., visible runoff and 72 hours of prior dry weather). Shaw constructed shallow depressions within the Caltrans ROW in order to collect runoff from the stockpiles as there was no surface water migration observed beyond the ROW. The samples were analyzed for dissolved metals, polycyclic aromatic hydrocarbons (PAHs), nitrate, sulfate, and sulfide.
 
@@ -60,11 +63,11 @@ Road construction on SR 99/132 eliminated the need for the previously designated
 
 During the most recent sampling event conducted by Stantec in March 2023, which was the first sampling event since construction of SR 132 was completed, they collected four water samples from two storm water discharge locations and from two background locations. Reported metal concentrations in the surface water samples were below their Primary and Secondary Maximum Contaminant Levels (MCLs).
 
-## **PROJECT SCOPE**
+### PROJECT SCOPE
 
 Outlined below is a summary of the scope of services requested by Caltrans.
 
-# **Field Activities**
+### **Field Activities**
 
 Field activities will include the collection of up to two samples of storm water runoff. The samples will be collected from the drainage system that captures runoff from the segment of SR 132 where the stockpile containment system was constructed. If necessary, we will collect samples during up to four separate rainfall events per year. Sample location SW-East is located at a storm water discharge point on the north side of SR 132 west of SR 99 and location SW-West is located along the north side of SR 132 at a discharge pipe adjacent and east of Ponding Basin 5.
 
@@ -76,7 +79,7 @@ Samples will be collected during qualifying rain events using a pre-cleaned or d
 
 Quality Assurance/Quality Control (QA/QC) procedures will be followed during the field sampling activities including using pre-cleaned or disposable sampling scoops and providing chain-of-custody documentation for each water sample transferred to the laboratory.
 
-# **Laboratory Analyses**
+### **Laboratory Analyses**
 
 Asset Laboratories will analyze the storm water samples collected at the site for the following analyses under standard turnaround-time:
 
@@ -110,11 +113,11 @@ We appreciate the opportunity to provide our services on this project. Please co
 
 Sincerely,
 
-**GEOCON CONSULTANTS, INC.**
+GEOCON CONSULTANTS, INC.
 
-Rebecca L. Silva Josh Ewert, PG
+Rebecca L. Silva Project Manager
 
-Project Manager Senior Geologist
+Josh Ewert, PG Senior Geologist
 
 (1) Addressee
 

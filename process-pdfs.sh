@@ -6,7 +6,7 @@
 # Usage:
 #   ./process-pdfs.sh              # process all unprocessed PDFs
 #   ./process-pdfs.sh --force-ocr  # reprocess with --force_ocr (for scanned/image-only PDFs)
-#   ./process-pdfs.sh --reprocess  # wipe and reprocess everything
+#   ./process-pdfs.sh --reprocess  # reprocess everything (overwrites existing output)
 #
 # Requires:
 #   - GOOGLE_API_KEY in environment (already in ~/.bashrc)
@@ -69,12 +69,6 @@ fi
 
 mkdir -p "$OUT_DIR"
 
-if [ "$REPROCESS" = true ]; then
-  echo "Wiping existing output in $OUT_DIR..."
-  rm -rf "$OUT_DIR"/*
-fi
-
-# Find unprocessed PDFs (no non-empty output dir yet)
 TMP_DIR=$(mktemp -d)
 trap 'rm -rf "$TMP_DIR"' EXIT
 
@@ -84,12 +78,15 @@ for f in "$RAW_DIR"/*.pdf; do
   name=$(basename "$f" .pdf)
   out_subdir="$OUT_DIR/$name"
 
-  # Skip if output dir exists and has content
-  if [ -d "$out_subdir" ] && [ -n "$(ls -A "$out_subdir" 2>/dev/null)" ]; then
+  # Skip if output dir exists and has content (normal mode only)
+  if [ "$REPROCESS" = false ] && [ -d "$out_subdir" ] && [ -n "$(ls -A "$out_subdir" 2>/dev/null)" ]; then
     continue
   fi
 
-  cp "$f" "$TMP_DIR/"
+  # Only copy to temp dir in normal mode -- reprocess reads from raw/ directly
+  if [ "$REPROCESS" = false ]; then
+    cp "$f" "$TMP_DIR/"
+  fi
   count=$((count + 1))
 done
 
@@ -98,17 +95,24 @@ if [ "$count" -eq 0 ]; then
   exit 0
 fi
 
-echo "Processing $count PDF(s) with $WORKERS workers..."
+if [ "$REPROCESS" = true ]; then
+  echo "Reprocessing $count PDF(s) with $WORKERS workers (overwriting existing output)..."
+  TARGET_DIR="$RAW_DIR"
+else
+  echo "Processing $count PDF(s) with $WORKERS workers..."
+  TARGET_DIR="$TMP_DIR"
+fi
+
 [ -n "$FORCE_OCR" ] && echo "  (--force_ocr enabled)"
 
 # marker batch command
-"$MARKER_BIN" "$TMP_DIR" \
-  --output_dir "$OUT_DIR" \
-  --use_llm \
-  --llm_service "marker.services.openai.OpenAIService" \
-  --config_json "$MARKER_CONFIG" \
-  --workers "$WORKERS" \
-  $FORCE_OCR
+"$MARKER_BIN" "$TARGET_DIR" \
+    --output_dir "$OUT_DIR" \
+    --use_llm \
+    --llm_service "marker.services.openai.OpenAIService" \
+    --config_json "$MARKER_CONFIG" \
+    --workers "$WORKERS" \
+    $FORCE_OCR
 
 echo ""
 echo "Done. Checking results..."
