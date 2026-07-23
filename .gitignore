@@ -1,3 +1,11 @@
 .sage/
+.obsidian/
+logs/
+.claude/
 config.yaml
 marker-config.json
+marker-config-no-tables.json
+.manifest.json
+.mcp.json
+envirostor-wiki.code-workspace
+markdown_table_metrics.json

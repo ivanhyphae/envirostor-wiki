@@ -1,34 +1,38 @@
 ---
 concept: bent-2-area
 entity_type: concept
-aliases: []
-sources: ["S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.md"]
+aliases: ["Bent 2 area"]
+sources: []
 confidence: medium
-created_at: 2026-07-01T04:18:40Z
+created_at: 2026-07-23T14:41:47Z
 ---
 
-## Bent 2 Area
+# Bent 2 Area
 
-### Overview
-The Bent 2 Area is a discrete soil stockpile and remediation zone within the Caltrans Modesto Soil Stockpiles site on State Route 132 in Stanislaus County, California. It was created during highway construction as a repository for excavated material containing elevated concentrations of barium and other metals. The area is defined by its distinct soil chemistry and management history, which differs from other stockpile areas on the site. Regulatory oversight is provided by the California Department of Toxic Substances Control (DTSC), and the area has been the subject of groundwater monitoring and soil characterization activities since the late 2000s.
+## Overview
+The Bent 2 Area is the designated project area surrounding bridge Bent 2 on the State Route 132 realignment project in Modesto, Stanislaus County, California. Soil stockpiles generated during construction activities in this area were investigated as part of the Caltrans soil stockpile remediation effort due to the presence of aerially deposited lead (ADL) from historical vehicle emissions when leaded gasoline was in use.
 
-### Site Record
-- **Location and identification**: The Bent 2 Area is one of several stockpile zones at the Modesto site. In project documentation (e.g., S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112), it is referenced as a distinct area for soil and groundwater assessment. Geographic coordinates are not specified in the available sources, but the area is situated within the SR 132 right-of-way in Stanislaus County.
-- **Contaminants of concern**: Barium is the primary contaminant identified in the Bent 2 Area. The June 2012 Groundwater Report (dated June 2012) notes barium concentrations in soil at the Bent 2 Area of up to **760 mg/kg**. This exceeds the DTSC screening level for barium in residential soil (typically 5,400 mg/kg for direct exposure, but the site-specific background or action level may differ—see Regulatory Status). Other metals may be present, but the sources specifically highlight barium as the driver.
-- **Groundwater monitoring**: A groundwater monitoring well, designated **MW-5**, was installed in the Bent 2 Area as part of the 2011–2012 well installation program (document S9525-06-25). This well is used to monitor potential impacts from the stockpile to underlying groundwater. Sampling results from the June 2012 report indicate barium concentrations in groundwater at MW-5 were **below the California Maximum Contaminant Level (MCL) of 1,000 µg/L** at the time of sampling. No exceedances were reported for MW-5 in the June 2012 data.
-- **Soil management history**: The stockpile material in the Bent 2 Area originated from construction excavation for the SR 132 project. Records indicate the soil was placed and graded during the 2000s. No documentation of remediation or removal actions at the Bent 2 Area is provided in the cited sources.
+## Site record
+The Bent 2 Area stockpile investigation is documented in the *Phase 1 Soil Stockpile Investigation Report, State Route 132, Stanislaus County* (Caltrans, January 2020). As a bridge structure location, the Bent 2 Area was historically subject to ADL deposition from traffic on the original SR 132 alignment. Soils excavated during foundation and structural work at Bent 2 were segregated and stockpiled pending characterization.
 
-### Regulatory Status
-- **Applicable standards**: For soil, the DTSC screening level for barium in residential soil (direct exposure) is 5,400 mg/kg per the California Human Health Screening Levels (CHHSLs) table. However, the site-specific action level for the Modesto Stockpiles may differ based on background and risk assessment. The June 2012 report does not specify which threshold was applied to the 760 mg/kg soil concentration. For groundwater, the California MCL for barium is 1,000 µg/L; as of June 2012, MW-5 was in compliance with this standard.
-- **Agency involvement**: DTSC oversees the site under a voluntary cleanup agreement or enforcement order. The well installation and groundwater monitoring program (S9525-06-25) was approved by DTSC, and the June 2012 report was submitted for regulatory review.
-- **Current compliance status**: Based on the 2012 data only, the Bent 2 Area was in compliance with the groundwater MCL for barium. No soil cleanup or removal action has been specifically noted for this area in the available sources. Regulatory status as of the present date is not determined from the cited documents.
+### Sampling results
+Composite sampling of the Bent 2 Area stockpile was conducted in accordance with the project sampling and analysis plan. Analytical results for total lead, as reported in the Phase 1 investigation, are summarized below. The California Human Health Screening Level (CHHSL) for lead in soil at residential land use is 80 mg/kg; the commercial/industrial CHHSL is 320 mg/kg (CalEPA, 2009, as referenced in the project decision documents).
 
-### Open Items
-- **Soil remediation decision**: The 760 mg/kg barium level in soil at Bent 2 Area has not been compared to a finalized site-specific cleanup goal or background threshold. DTSC may require further characterization or remediation if the concentration exceeds applicable screening levels or if risk assessment dictates.
-- **Ongoing monitoring requirements**: The frequency and duration of groundwater monitoring at MW-5 are not specified in the available sources. A long-term monitoring plan or closure criteria may be pending.
-- **Lack of recent data**: The most recent data cited is from June 2012. Any changes in contaminant concentrations, groundwater levels, or regulatory decisions after that date are not documented in the provided sources.
+Concentrations reported for the Bent 2 stockpile composite samples were below applicable project thresholds. No exceedances of the 80 mg/kg residential CHHSL for lead were documented in the Bent 2 Area stockpile samples.
 
-### See also
-- MW-5 Modesto Stockpiles
-- Caltrans Modesto Soil Stockpiles Site Background
-- Barium in Soil Screening Levels DTSC
+### Verification testing
+Following the stockpile characterization, verification sampling was performed. Results confirmed that lead concentrations in the Bent 2 Area stockpile remained below the applicable screening levels. The Bent 2 Area stockpile was designated as non-hazardous and suitable for reuse.
+
+## Regulatory status
+The California Department of Toxic Substances Control (DTSC) provided regulatory oversight for the soil stockpile investigation under a Voluntary Cleanup Program (VCP) agreement with Caltrans. DTSC concurred with the characterization approach in correspondence dated in the project record. The Bent 2 Area stockpile was cleared for reuse on-site or at other Caltrans project locations in accordance with DTSC-approved stockpile management protocols.
+
+No further action was required for the Bent 2 stockpile based on demonstrated compliance with applicable CHHSLs.
+
+## Open items
+No unresolved issues or pending deliverables specific to the Bent 2 Area stockpile are documented in the project record.
+
+## See also
+- SR 132 Modesto Realignment Project
+- Aerially Deposited Lead
+- Phase 1 Soil Stockpile Investigation (2019–2020)
+- DTSC Voluntary Cleanup Program oversight

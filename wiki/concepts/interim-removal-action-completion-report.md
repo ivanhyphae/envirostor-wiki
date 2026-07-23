@@ -1,0 +1,99 @@
+---
+concept: interim-removal-action-completion-report
+entity_type: concept
+aliases: ["Interim RACR", "Removal Action Completion Report"]
+sources: ["wiki/sources/S1908-01-01 Caltrans Modesto Stockpile Interim RACR_12.22 (1)/S1908-01-01 Caltrans Modesto Stockpile Interim RACR_12.22 (1).md", "wiki/sources/Draft Interim RACR_Text_Figures_Tables_ App A-C/Draft Interim RACR_Text_Figures_Tables_ App A-C.md"]
+confidence: high
+created_at: 2026-07-23T15:07:55Z
+---
+
+# Interim Removal Action Completion Report
+
+## Overview
+
+The **Interim Removal Action Completion Report** (Interim RACR) is the document that records the completed consolidation and clean fill capping of [[barium-containing-soil]] (BCS) Stockpiles 1 through 3 during [[interim-phase-1]] construction of the State Route (SR) 132 West Project in Modesto, Stanislaus County, California. Prepared by Geocon Consultants, Inc. on behalf of Caltrans and the City of Modesto, the Interim RACR was submitted to the California Department of Toxic Substances Control (DTSC) under the Caltrans Interagency Agreement. It demonstrates that containment activities were completed in accordance with the 2019 [[remedial-design-implementation-plan]] (RDIP) and Caltrans-approved design plans. The document serves as an interim milestone; a Final RACR is scheduled for submittal following interim-phase-1|Ultimate Phase 2 construction, projected for completion in 2028.
+
+The report's purpose is threefold: to document the physical completion of BCS containment as highway embankment fill, to summarize verification testing and confirm achievement of removal thresholds, and to describe post-construction monitoring and maintenance obligations. It was accepted by DTSC via letter dated February 24, 2022 as a sufficient technical status report, though certification of the overarching remedial-design-implementation-plan|Remedial Action Plan is deferred until Ultimate Phase 2 build-out.
+
+## Site record
+
+### Submission and acceptance history
+
+Geocon submitted a Draft Interim RACR to DTSC on December 23, 2021, transmitting it under a technical memorandum from John E. Juhrend, PE, CEG. The draft summarized the status of BCS grading and clean fill capping, noting that remaining work at the time included placement of structural pavement section, erosion control, drainage, median barrier, and signage.
+
+DTSC reviewed the document in consultation with the Central Valley Regional Water Quality Control Board (CVRWQCB) and issued an acceptance letter on February 24, 2022, signed by Dean Wright, PG. The letter confirmed that work completed to date was accomplished per the approved RDIP and two variance requests approved on April 17, 2020 and September 21, 2020. DTSC accepted the document "as a technical status report with no comments."
+
+A site survey was conducted on June 28, 2022 by DTSC, Caltrans, City, and other project personnel, confirming completed clean capping of the Stockpile 1 and 2 BCS Containment Zones. SR 132 opened to traffic on November 3, 2022.
+
+### Scope of activities documented
+
+The Interim RACR documents the following completed activities:
+
+- **Stockpile 3 removal and relocation**: BCS material was entirely removed from the east side of SR 99 and placed within the Stockpile 1 Containment Zone. Verification sampling at Stockpile 3 consisted of 24 soil samples (S3 1-0 through S3 24-0) collected between February 28 and March 12, 2020. Excavation depths ranged to elevations between 82.5 and 84 feet above mean sea level (MSL). Three sample locations (S3 9-0 through S3 11-0) initially exceeded the barium verification threshold; those areas were deepened approximately one foot and resampled. Final barium concentrations in the Stockpile 3 excavation ranged from 46 to 970 mg/kg, and lead from 1.6 to 40 mg/kg—both below RDIP verification thresholds (barium 1,000 mg/kg for groundwater protection; lead 80 mg/kg residential screening level).
+
+- **Stockpile 2 removal verification**: The west end of Stockpile 2 was excavated to approximately 82 feet MSL, with 8 initial samples (S2W 1-0 through 8-0). Two locations (S2W 1-0, S2W 3-0) exceeded the barium threshold, prompting deepening to 81 feet MSL and two additional samples. The east end was excavated to approximately 83 feet MSL initially, then deepened in steps to 82 and 81 feet MSL in areas where S2E 3-0 and S2E 8-0 exceeded the threshold. Final barium concentrations ranged from 54 to 760 mg/kg, lead from 1.5 to 35 mg/kg.
+
+- **Stockpile 1 and 2 MSE wall footing characterization**: Testing documented in separate technical memoranda confirmed that Stockpile 1 MSE wall footing material (trenches STK1-1 through STK1-3) contained barium at 42–420 mg/kg (above site-specific background of 120 mg/kg but below the 1,000 mg/kg removal threshold) with lead at 1.1–6.7 mg/kg. Stockpile 2 MSE wall footing characterization (trenches STK2-1 through STK2-7) found barium at 53–930 mg/kg, with 14 of 29 samples exceeding the 120 mg/kg background threshold, predominantly in the upper 3 feet.
+
+- **Clean cap borrow area characterization**: Testing at the Carpenter Road borrow area (borings B1 through B12, February 21, 2020) and Basin 5 borrow area (trenches BASIN5 1 through 6, June 16, 2020) confirmed that fill from these sources met clean cap criteria, with metal concentrations consistent with naturally occurring background.
+
+- **Additional fill source testing**: The Carpenter Road Shoofly (24 discrete samples, composited into 8 samples, April 2021) yielded barium at 28–96 mg/kg and lead at 1.4–3.8 mg/kg, meeting the DTSC-approved clean cap threshold (upper-bound background barium of 120 mg/kg). In contrast, Bent 2 excavation soil stockpiles (October 30, 2020) did not meet clean cap criteria; 4 of 10 samples exceeded the 120 mg/kg barium background threshold.
+
+- **Air monitoring**: Air monitoring performed during BCS grading activities showed total dust, barium, and lead levels below designated project action and risk levels, confirming effective dust control measures.
+
+### Report structure and appendices
+
+The Interim RACR is organized into six sections:
+
+1. **Introduction** – site description, history, prior removal actions, report purpose
+2. **Project Organization** – team roles and responsibilities
+3. **RDIP Activities and BCS Containment Implementation** – detailed account of completed work
+4. **RDIP Monitoring** – environmental and health/safety monitoring
+5. **Post Construction Monitoring/Maintenance** – ongoing effectiveness measures
+6. **Project Websites and References**
+
+Eight appendices support the report:
+
+- Appendix A: Variances to RDIP (April and September 2020)
+- Appendix B: Stockpiles 2 and 3 BCS Removal Verification Testing Technical Memorandums
+- Appendix C: Stockpiles 1 and 2 MSE Wall Footing Characterization Testing Technical Memorandums
+- Appendix D: Clean Cap Characterization Testing Technical Memorandums
+- Appendix E: Stockpile 1 and 2 BCS Containment Zone Legal Description and Boundary Survey
+- Appendix F: Draft Interim RACR Transmittal and DTSC Acceptance
+- Appendix G: Air Monitoring Technical Memorandum
+- Appendix H: operations-and-maintenance-plan|Operations and Maintenance Plan
+
+## Regulatory status
+
+The Interim RACR was accepted by DTSC on February 24, 2022 as a technical status report. This acceptance confirms that Phase 1 containment activities complied with the RDIP and associated variances. However, DTSC's acceptance letter explicitly states that **certification of the RAP will not occur until after Ultimate Phase 2** construction, which includes adding additional lanes and completing final build-out of the SR 132 project. Ultimate Phase 2 will require a supplemental RDIP for DTSC review and approval, field oversight, an Ultimate Phase 2 RACR, and potential revisions to the O&M Plan and O&M Agreement.
+
+Key conditions tied to the Interim RACR acceptance include:
+
+- Submittal of a final operations-and-maintenance-plan|Operations and Maintenance Plan (O&M Plan) for DTSC review, to be incorporated into the Final Phase 1 RACR (anticipated for submittal in July or August 2022)
+- The O&M Plan must include a soil management plan, annual pavement and containment feature inspections, and groundwater monitoring
+- Following approval of the Final Phase 1 RACR, DTSC will enter into an O&M Agreement with Caltrans and complete a fmc-corporation|land use covenant for the containment areas
+- Ultimate Phase 2 will be conducted under a separate agreement between DTSC and Caltrans
+
+Verification thresholds in effect for soil removal at the time of the Interim RACR were:
+- Barium: 1,000 mg/kg (groundwater protection basis)
+- Lead: 80 mg/kg (residential screening level)
+
+All final excavation samples at Stockpiles 2 and 3 were below these thresholds.
+
+## Open items
+
+- **Final Phase 1 RACR**: Required to include as-built plans, cross-section figures, final survey data, and the DTSC-approved O&M Plan
+- **O&M Plan submittal and approval**: DTSC required the plan to be submitted for review so an approved version could be incorporated into the Final Phase 1 RACR
+- **O&M Agreement and Land Use Covenant**: To be executed between DTSC and Caltrans following approval of the Final Phase 1 RACR
+- **Ultimate Phase 2 RACR**: Will require a supplemental RDIP, new field oversight, and potential revisions to the O&M Plan and O&M Agreement
+- **RAP certification**: Deferred until completion of Ultimate Phase 2 build-out (projected 2028)
+
+## See also
+
+- [[aerially-deposited-lead]]
+- [[barium-containing-soil]]
+- [[interim-phase-1]]
+- [[remedial-design-implementation-plan]]
+- [[fmc-corporation]]
+- [[operations-and-maintenance-plan]]
+- [[stockpile-1]]

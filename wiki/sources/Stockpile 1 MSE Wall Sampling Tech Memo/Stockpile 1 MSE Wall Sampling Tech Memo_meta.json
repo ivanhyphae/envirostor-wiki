@@ -1,0 +1,1988 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Technical Memorandum",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          218.14453125,
+          92.0390625
+        ],
+        [
+          388.39971923828125,
+          92.0390625
+        ],
+        [
+          388.39971923828125,
+          109.02239990234375
+        ],
+        [
+          218.14453125,
+          109.02239990234375
+        ]
+      ]
+    },
+    {
+      "title": "Notes:",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          87.9990234375,
+          478.97509765625
+        ],
+        [
+          110.1377067565918,
+          478.97509765625
+        ],
+        [
+          110.1377067565918,
+          489.29391384124756
+        ],
+        [
+          87.9990234375,
+          489.29391384124756
+        ]
+      ]
+    },
+    {
+      "title": "Certificate of Analysis",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          235.177734375,
+          62.26171875
+        ],
+        [
+          351.8467712402344,
+          62.26171875
+        ],
+        [
+          351.8467712402344,
+          75.07672119140625
+        ],
+        [
+          235.177734375,
+          75.07672119140625
+        ]
+      ]
+    },
+    {
+      "title": "SUMMARY OF SAMPLES",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          246.234375,
+          143.859375
+        ],
+        [
+          362.55279541015625,
+          143.859375
+        ],
+        [
+          362.55279541015625,
+          154.95001220703125
+        ],
+        [
+          246.234375,
+          154.95001220703125
+        ]
+      ]
+    },
+    {
+      "title": "Certificate of Analysis",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          234.580078125,
+          62.26171875
+        ],
+        [
+          351.8467712402344,
+          62.26171875
+        ],
+        [
+          351.8467712402344,
+          75.07672119140625
+        ],
+        [
+          234.580078125,
+          75.07672119140625
+        ]
+      ]
+    },
+    {
+      "title": "Total Metals by ICP-AES EPA 6010B Analyst: TA",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          20.299942016601562,
+          211.1484375
+        ],
+        [
+          575.9324951171875,
+          211.1484375
+        ],
+        [
+          575.9324951171875,
+          222.29998779296875
+        ],
+        [
+          20.299942016601562,
+          222.29998779296875
+        ]
+      ]
+    },
+    {
+      "title": "Certificate of Analysis",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          234.580078125,
+          62.26171875
+        ],
+        [
+          351.8467712402344,
+          62.26171875
+        ],
+        [
+          351.8467712402344,
+          75.07672119140625
+        ],
+        [
+          234.580078125,
+          75.07672119140625
+        ]
+      ]
+    },
+    {
+      "title": "Total Metals by ICP-AES EPA 6010B Analyst: TA",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          20.299942016601562,
+          211.1484375
+        ],
+        [
+          575.9324951171875,
+          211.1484375
+        ],
+        [
+          575.9324951171875,
+          222.050048828125
+        ],
+        [
+          20.299942016601562,
+          222.050048828125
+        ]
+      ]
+    },
+    {
+      "title": "Certificate of Analysis",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          234.580078125,
+          62.26171875
+        ],
+        [
+          351.8467712402344,
+          62.26171875
+        ],
+        [
+          351.8467712402344,
+          75.07672119140625
+        ],
+        [
+          234.580078125,
+          75.07672119140625
+        ]
+      ]
+    },
+    {
+      "title": "Total Metals by ICP-AES EPA 6010B Analyst: TA",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          20.299942016601562,
+          211.1484375
+        ],
+        [
+          575.9324951171875,
+          211.1484375
+        ],
+        [
+          575.9324951171875,
+          222.050048828125
+        ],
+        [
+          20.299942016601562,
+          222.050048828125
+        ]
+      ]
+    },
+    {
+      "title": "Certificate of Analysis",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          234.580078125,
+          61.875
+        ],
+        [
+          351.8467712402344,
+          61.875
+        ],
+        [
+          351.8467712402344,
+          75.07672119140625
+        ],
+        [
+          234.580078125,
+          75.07672119140625
+        ]
+      ]
+    },
+    {
+      "title": "Total Metals by ICP-AES EPA 6010B Analyst: TA",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          20.299942016601562,
+          211.1484375
+        ],
+        [
+          575.9324951171875,
+          211.1484375
+        ],
+        [
+          575.9324951171875,
+          222.050048828125
+        ],
+        [
+          20.299942016601562,
+          222.050048828125
+        ]
+      ]
+    },
+    {
+      "title": "Certificate of Analysis",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          234.580078125,
+          61.875
+        ],
+        [
+          351.8467712402344,
+          61.875
+        ],
+        [
+          351.8467712402344,
+          75.07672119140625
+        ],
+        [
+          234.580078125,
+          75.07672119140625
+        ]
+      ]
+    },
+    {
+      "title": "Total Metals by ICP-AES EPA 6010B Analyst: TA",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          20.299942016601562,
+          211.1484375
+        ],
+        [
+          575.9324951171875,
+          211.1484375
+        ],
+        [
+          575.9324951171875,
+          222.050048828125
+        ],
+        [
+          20.299942016601562,
+          222.050048828125
+        ]
+      ]
+    },
+    {
+      "title": "Certificate of Analysis",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          234.580078125,
+          61.875
+        ],
+        [
+          351.8467712402344,
+          61.875
+        ],
+        [
+          351.8467712402344,
+          75.07672119140625
+        ],
+        [
+          234.580078125,
+          75.07672119140625
+        ]
+      ]
+    },
+    {
+      "title": "Total Metals by ICP-AES EPA 6010B Analyst: TA",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          20.299942016601562,
+          211.1484375
+        ],
+        [
+          575.9324951171875,
+          211.1484375
+        ],
+        [
+          575.9324951171875,
+          222.050048828125
+        ],
+        [
+          20.299942016601562,
+          222.050048828125
+        ]
+      ]
+    },
+    {
+      "title": "Certificate of Analysis",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          234.580078125,
+          62.26171875
+        ],
+        [
+          351.8467712402344,
+          62.26171875
+        ],
+        [
+          351.8467712402344,
+          75.07672119140625
+        ],
+        [
+          234.580078125,
+          75.07672119140625
+        ]
+      ]
+    },
+    {
+      "title": "Total Metals by ICP-AES EPA 6010B Analyst: TA",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          20.299942016601562,
+          211.1484375
+        ],
+        [
+          575.9324951171875,
+          211.1484375
+        ],
+        [
+          575.9324951171875,
+          222.050048828125
+        ],
+        [
+          20.299942016601562,
+          222.050048828125
+        ]
+      ]
+    },
+    {
+      "title": "Certificate of Analysis",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          234.580078125,
+          62.26171875
+        ],
+        [
+          351.8467712402344,
+          62.26171875
+        ],
+        [
+          351.8467712402344,
+          75.07672119140625
+        ],
+        [
+          234.580078125,
+          75.07672119140625
+        ]
+      ]
+    },
+    {
+      "title": "Total Metals by ICP-AES EPA 6010B Analyst: TA",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          20.299942016601562,
+          211.1484375
+        ],
+        [
+          575.9324951171875,
+          211.1484375
+        ],
+        [
+          575.9324951171875,
+          222.050048828125
+        ],
+        [
+          20.299942016601562,
+          222.050048828125
+        ]
+      ]
+    },
+    {
+      "title": "Certificate of Analysis",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          234.580078125,
+          61.875
+        ],
+        [
+          351.8467712402344,
+          61.875
+        ],
+        [
+          351.8467712402344,
+          75.07672119140625
+        ],
+        [
+          234.580078125,
+          75.07672119140625
+        ]
+      ]
+    },
+    {
+      "title": "Total Metals by ICP-AES EPA 6010B Analyst: TA",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          20.299942016601562,
+          211.1484375
+        ],
+        [
+          575.9324951171875,
+          211.1484375
+        ],
+        [
+          575.9324951171875,
+          222.050048828125
+        ],
+        [
+          20.299942016601562,
+          222.050048828125
+        ]
+      ]
+    },
+    {
+      "title": "Certificate of Analysis",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          234.580078125,
+          61.875
+        ],
+        [
+          351.8467712402344,
+          61.875
+        ],
+        [
+          351.8467712402344,
+          75.07672119140625
+        ],
+        [
+          234.580078125,
+          75.07672119140625
+        ]
+      ]
+    },
+    {
+      "title": "Total Metals by ICP-AES EPA 6010B Analyst: TA",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          20.299942016601562,
+          211.1484375
+        ],
+        [
+          575.9324951171875,
+          211.1484375
+        ],
+        [
+          575.9324951171875,
+          222.050048828125
+        ],
+        [
+          20.299942016601562,
+          222.050048828125
+        ]
+      ]
+    },
+    {
+      "title": "Certificate of Analysis",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          234.580078125,
+          61.875
+        ],
+        [
+          351.8467712402344,
+          61.875
+        ],
+        [
+          351.8467712402344,
+          75.07672119140625
+        ],
+        [
+          234.580078125,
+          75.07672119140625
+        ]
+      ]
+    },
+    {
+      "title": "Total Metals by ICP-AES EPA 6010B Analyst: TA",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          20.299758911132812,
+          211.1484375
+        ],
+        [
+          575.9323120117188,
+          211.1484375
+        ],
+        [
+          575.9323120117188,
+          222.050048828125
+        ],
+        [
+          20.299758911132812,
+          222.050048828125
+        ]
+      ]
+    },
+    {
+      "title": "Certificate of Analysis",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          234.580078125,
+          61.875
+        ],
+        [
+          351.8467712402344,
+          61.875
+        ],
+        [
+          351.8467712402344,
+          75.07672119140625
+        ],
+        [
+          234.580078125,
+          75.07672119140625
+        ]
+      ]
+    },
+    {
+      "title": "Total Metals by ICP-AES EPA 6010B Analyst: TA",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          20.299942016601562,
+          211.1484375
+        ],
+        [
+          575.9324951171875,
+          211.1484375
+        ],
+        [
+          575.9324951171875,
+          222.050048828125
+        ],
+        [
+          20.299942016601562,
+          222.050048828125
+        ]
+      ]
+    },
+    {
+      "title": "Certificate of Analysis",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          234.580078125,
+          61.875
+        ],
+        [
+          351.8467712402344,
+          61.875
+        ],
+        [
+          351.8467712402344,
+          75.07672119140625
+        ],
+        [
+          234.580078125,
+          75.07672119140625
+        ]
+      ]
+    },
+    {
+      "title": "Total Metals by ICP-AES EPA 6010B Analyst: TA",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          20.299942016601562,
+          211.1484375
+        ],
+        [
+          575.9324951171875,
+          211.1484375
+        ],
+        [
+          575.9324951171875,
+          222.050048828125
+        ],
+        [
+          20.299942016601562,
+          222.050048828125
+        ]
+      ]
+    },
+    {
+      "title": "Certificate of Analysis",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          234.580078125,
+          61.875
+        ],
+        [
+          351.8467712402344,
+          61.875
+        ],
+        [
+          351.8467712402344,
+          75.07672119140625
+        ],
+        [
+          234.580078125,
+          75.07672119140625
+        ]
+      ]
+    },
+    {
+      "title": "Total Metals by ICP-AES EPA 6010B Analyst: TA",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          20.299942016601562,
+          211.1484375
+        ],
+        [
+          575.9324951171875,
+          211.1484375
+        ],
+        [
+          575.9324951171875,
+          222.050048828125
+        ],
+        [
+          20.299942016601562,
+          222.050048828125
+        ]
+      ]
+    },
+    {
+      "title": "Certificate of Analysis",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          234.580078125,
+          61.875
+        ],
+        [
+          351.8467712402344,
+          61.875
+        ],
+        [
+          351.8467712402344,
+          75.07672119140625
+        ],
+        [
+          234.580078125,
+          75.07672119140625
+        ]
+      ]
+    },
+    {
+      "title": "Total Metals by ICP-AES EPA 6010B Analyst: TA",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          20.299942016601562,
+          211.1484375
+        ],
+        [
+          575.9324951171875,
+          211.1484375
+        ],
+        [
+          575.9324951171875,
+          222.050048828125
+        ],
+        [
+          20.299942016601562,
+          222.050048828125
+        ]
+      ]
+    },
+    {
+      "title": "Certificate of Analysis",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          232.5,
+          60.0
+        ],
+        [
+          353.25,
+          60.0
+        ],
+        [
+          353.25,
+          75.0
+        ],
+        [
+          232.5,
+          75.0
+        ]
+      ]
+    },
+    {
+      "title": "QUALITY CONTROL SECTION",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          216.75,
+          144.75
+        ],
+        [
+          376.5,
+          144.75
+        ],
+        [
+          376.5,
+          156.75
+        ],
+        [
+          216.75,
+          156.75
+        ]
+      ]
+    },
+    {
+      "title": "Total Metals by ICP-AES EPA 6010B - Quality Control",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          180.0,
+          196.5
+        ],
+        [
+          414.0,
+          196.5
+        ],
+        [
+          414.0,
+          207.75
+        ],
+        [
+          180.0,
+          207.75
+        ]
+      ]
+    },
+    {
+      "title": "Certificate of Analysis",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          234.580078125,
+          61.48828125
+        ],
+        [
+          351.8467712402344,
+          61.48828125
+        ],
+        [
+          351.8467712402344,
+          75.07672119140625
+        ],
+        [
+          234.580078125,
+          75.07672119140625
+        ]
+      ]
+    },
+    {
+      "title": "Notes and Definitions",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          252.509765625,
+          146.1796875
+        ],
+        [
+          342.5271911621094,
+          146.1796875
+        ],
+        [
+          342.5271911621094,
+          156.85003662109375
+        ],
+        [
+          252.509765625,
+          156.85003662109375
+        ]
+      ]
+    },
+    {
+      "title": "Notes:",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          24.205078125,
+          332.96484375
+        ],
+        [
+          45.63908386230469,
+          332.96484375
+        ],
+        [
+          45.63908386230469,
+          342.3421936035156
+        ],
+        [
+          24.205078125,
+          342.3421936035156
+        ]
+      ]
+    },
+    {
+      "title": "CHAIN OF CUSTODY RECORD",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          31.376953125,
+          287.25
+        ],
+        [
+          60.0,
+          287.25
+        ],
+        [
+          60.0,
+          499.5
+        ],
+        [
+          31.376953125,
+          499.5
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          201
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 3,
+        "llm_error_count": 0,
+        "llm_tokens_used": 9626,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          5
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1513,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          11
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1578,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          141
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          78
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1448,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          200
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1471,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          98
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 2,
+        "llm_error_count": 0,
+        "llm_tokens_used": 2802,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          98
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 2,
+        "llm_error_count": 0,
+        "llm_tokens_used": 2806,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          98
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 2,
+        "llm_error_count": 0,
+        "llm_tokens_used": 2815,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          98
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 2,
+        "llm_error_count": 0,
+        "llm_tokens_used": 2925,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          98
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 2,
+        "llm_error_count": 0,
+        "llm_tokens_used": 2861,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          98
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 2,
+        "llm_error_count": 0,
+        "llm_tokens_used": 2902,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          98
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 2,
+        "llm_error_count": 0,
+        "llm_tokens_used": 2806,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          98
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 2,
+        "llm_error_count": 0,
+        "llm_tokens_used": 2868,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          98
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 2,
+        "llm_error_count": 0,
+        "llm_tokens_used": 2950,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          98
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 2,
+        "llm_error_count": 0,
+        "llm_tokens_used": 2833,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          98
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 2,
+        "llm_error_count": 0,
+        "llm_tokens_used": 2912,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          98
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 2,
+        "llm_error_count": 0,
+        "llm_tokens_used": 2887,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          98
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 2,
+        "llm_error_count": 0,
+        "llm_tokens_used": 2880,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          98
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 2,
+        "llm_error_count": 0,
+        "llm_tokens_used": 2850,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          98
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 2,
+        "llm_error_count": 0,
+        "llm_tokens_used": 2860,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          16
+        ],
+        [
+          "Span",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1381,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          82
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1435,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          30
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Span",
+          23
+        ],
+        [
+          "Form",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 13,
+        "llm_error_count": 0,
+        "llm_tokens_used": 19025,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Form",
+          1
+        ],
+        [
+          "Line",
+          1
+        ],
+        [
+          "Span",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          239
+        ],
+        [
+          "Line",
+          91
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 26,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          179
+        ],
+        [
+          "Line",
+          73
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Stockpile 1 MSE Wall Sampling Tech Memo"
+}

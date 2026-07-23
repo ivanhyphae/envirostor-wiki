@@ -1,0 +1,5383 @@
+{
+  "table_of_contents": [
+    {
+      "title": "PREPARED FOR:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          45.720703125,
+          492.0327453613281
+        ],
+        [
+          140.76748657226562,
+          492.0327453613281
+        ],
+        [
+          140.76748657226562,
+          504.0327453613281
+        ],
+        [
+          45.720703125,
+          504.0327453613281
+        ]
+      ]
+    },
+    {
+      "title": "PREPARED BY:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          45.421875,
+          610.0407409667969
+        ],
+        [
+          132.3195037841797,
+          610.0407409667969
+        ],
+        [
+          132.3195037841797,
+          622.0407409667969
+        ],
+        [
+          45.421875,
+          622.0407409667969
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          71.419921875,
+          73.08984375
+        ],
+        [
+          474.837890625,
+          73.08984375
+        ],
+        [
+          474.837890625,
+          81.59765625
+        ],
+        [
+          71.419921875,
+          81.59765625
+        ]
+      ]
+    },
+    {
+      "title": "BACKGROUND",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          261.17578125,
+          489.19921875
+        ],
+        [
+          345.7502746582031,
+          489.19921875
+        ],
+        [
+          345.7502746582031,
+          501.0606384277344
+        ],
+        [
+          261.17578125,
+          501.0606384277344
+        ]
+      ]
+    },
+    {
+      "title": "Project Description and History",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          73.212890625,
+          514.3359375
+        ],
+        [
+          241.68296813964844,
+          514.3359375
+        ],
+        [
+          241.68296813964844,
+          525.7217102050781
+        ],
+        [
+          73.212890625,
+          525.7217102050781
+        ]
+      ]
+    },
+    {
+      "title": "Hydrogeologic Characterization",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          72.9140625,
+          97.83984375
+        ],
+        [
+          243.4363555908203,
+          97.83984375
+        ],
+        [
+          243.4363555908203,
+          109.44140625
+        ],
+        [
+          72.9140625,
+          109.44140625
+        ]
+      ]
+    },
+    {
+      "title": "OCTOBER 2015 FIELD ACTIVITIES",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          210.076171875,
+          463.50909423828125
+        ],
+        [
+          395.82672119140625,
+          463.50909423828125
+        ],
+        [
+          395.82672119140625,
+          474.48907470703125
+        ],
+        [
+          210.076171875,
+          474.48907470703125
+        ]
+      ]
+    },
+    {
+      "title": "Depth to Groundwater Measurements",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          73.212890625,
+          488.1701354980469
+        ],
+        [
+          273.3997497558594,
+          488.1701354980469
+        ],
+        [
+          273.3997497558594,
+          499.1501159667969
+        ],
+        [
+          73.212890625,
+          499.1501159667969
+        ]
+      ]
+    },
+    {
+      "title": "MAY 2016 FIELD ACTIVITIES",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          226.51171875,
+          73.08984375
+        ],
+        [
+          380.67755126953125,
+          73.08984375
+        ],
+        [
+          380.67755126953125,
+          84.33599853515625
+        ],
+        [
+          226.51171875,
+          84.33599853515625
+        ]
+      ]
+    },
+    {
+      "title": "Depth to Groundwater Measurements",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          73.212890625,
+          98.01702880859375
+        ],
+        [
+          273.4095458984375,
+          98.01702880859375
+        ],
+        [
+          273.4095458984375,
+          109.0546875
+        ],
+        [
+          73.212890625,
+          109.0546875
+        ]
+      ]
+    },
+    {
+      "title": "Well Purging and Sampling",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          72.9140625,
+          361.96875
+        ],
+        [
+          219.64056396484375,
+          361.96875
+        ],
+        [
+          219.64056396484375,
+          373.2746276855469
+        ],
+        [
+          72.9140625,
+          373.2746276855469
+        ]
+      ]
+    },
+    {
+      "title": "ANALYTICAL METHODS AND RESULTS",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          195.732421875,
+          588.19921875
+        ],
+        [
+          410.2126770019531,
+          588.19921875
+        ],
+        [
+          410.2126770019531,
+          599.6382904052734
+        ],
+        [
+          195.732421875,
+          599.6382904052734
+        ]
+      ]
+    },
+    {
+      "title": "Laboratory Analysis",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          72.615234375,
+          613.3193511962891
+        ],
+        [
+          182.9299774169922,
+          613.3193511962891
+        ],
+        [
+          182.9299774169922,
+          624.2993621826172
+        ],
+        [
+          72.615234375,
+          624.2993621826172
+        ]
+      ]
+    },
+    {
+      "title": "Analytical Results",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          72.31640625,
+          214.2421875
+        ],
+        [
+          168.8827362060547,
+          214.2421875
+        ],
+        [
+          168.8827362060547,
+          225.43017578125
+        ],
+        [
+          72.31640625,
+          225.43017578125
+        ]
+      ]
+    },
+    {
+      "title": "Dissolved Metals",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          73.212890625,
+          238.9921875
+        ],
+        [
+          163.458984375,
+          238.9921875
+        ],
+        [
+          163.458984375,
+          250.09124755859375
+        ],
+        [
+          73.212890625,
+          250.09124755859375
+        ]
+      ]
+    },
+    {
+      "title": "General Minerals/Stiff Diagrams",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          72.615234375,
+          515.109375
+        ],
+        [
+          243.0,
+          515.109375
+        ],
+        [
+          243.0,
+          525.0
+        ],
+        [
+          72.615234375,
+          525.0
+        ]
+      ]
+    },
+    {
+      "title": "TDS",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          90.24609375,
+          73.904541015625
+        ],
+        [
+          133.66549682617188,
+          73.904541015625
+        ],
+        [
+          133.66549682617188,
+          85.06243896484375
+        ],
+        [
+          90.24609375,
+          85.06243896484375
+        ]
+      ]
+    },
+    {
+      "title": "Laboratory Quality Assurance/Quality Control",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          73.51171875,
+          503.5078125
+        ],
+        [
+          313.7534484863281,
+          503.5078125
+        ],
+        [
+          313.7534484863281,
+          514.5130310058594
+        ],
+        [
+          73.51171875,
+          514.5130310058594
+        ]
+      ]
+    },
+    {
+      "title": "GeoTracker Submittal",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          73.212890625,
+          639.6328125
+        ],
+        [
+          191.52528381347656,
+          639.6328125
+        ],
+        [
+          191.52528381347656,
+          651.3677520751953
+        ],
+        [
+          73.212890625,
+          651.3677520751953
+        ]
+      ]
+    },
+    {
+      "title": "CONCLUSIONS AND RECOMMENDATIONS",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          189.158203125,
+          73.08984375
+        ],
+        [
+          418.42706298828125,
+          73.08984375
+        ],
+        [
+          418.42706298828125,
+          84.39190673828125
+        ],
+        [
+          189.158203125,
+          84.39190673828125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          931.1484375,
+          636.15234375
+        ],
+        [
+          1072.1953125,
+          636.15234375
+        ],
+        [
+          1072.1953125,
+          666.31640625
+        ],
+        [
+          931.1484375,
+          666.31640625
+        ]
+      ]
+    },
+    {
+      "title": "Caltrans Modesto Soil Stockpiles",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          984.4556274414062,
+          691.3443298339844
+        ],
+        [
+          1137.9375,
+          691.3443298339844
+        ],
+        [
+          1137.9375,
+          701.3443298339844
+        ],
+        [
+          984.4556274414062,
+          701.3443298339844
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 1\nGROUNDWATER ELEVATION DATA\nCALTRANS MODESTO SOIL STOCKPILES\nSTANISLAUS COUNTY, CALIFORNIA",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          228.0,
+          81.59765625
+        ],
+        [
+          386.25,
+          81.59765625
+        ],
+        [
+          386.25,
+          137.25
+        ],
+        [
+          228.0,
+          137.25
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 1\nGROUNDWATER ELEVATION DATA\nCALTRANS MODESTO SOIL STOCKPILES\nSTANISLAUS COUNTY, CALIFORNIA",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          228.0,
+          81.59765625
+        ],
+        [
+          386.25,
+          81.59765625
+        ],
+        [
+          386.25,
+          137.25
+        ],
+        [
+          228.0,
+          137.25
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 1\nGROUNDWATER ELEVATION DATA\nCALTRANS MODESTO SOIL STOCKPILES\nSTANISLAUS COUNTY, CALIFORNIA",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          228.0,
+          81.59765625
+        ],
+        [
+          386.25,
+          81.59765625
+        ],
+        [
+          386.25,
+          137.25
+        ],
+        [
+          228.0,
+          137.25
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 1\nGROUNDWATER ELEVATION DATA\nCALTRANS MODESTO SOIL STOCKPILES\nSTANISLAUS COUNTY, CALIFORNIA",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          228.0,
+          81.59765625
+        ],
+        [
+          385.5,
+          81.59765625
+        ],
+        [
+          385.5,
+          137.25
+        ],
+        [
+          228.0,
+          137.25
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 1\nGROUNDWATER ELEVATION DATA\nCALTRANS MODESTO SOIL STOCKPILES\nSTANISLAUS COUNTY, CALIFORNIA",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          228.75,
+          81.2109375
+        ],
+        [
+          384.75,
+          81.2109375
+        ],
+        [
+          384.75,
+          136.5
+        ],
+        [
+          228.75,
+          136.5
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 2",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          373.5,
+          73.5
+        ],
+        [
+          412.5,
+          73.5
+        ],
+        [
+          412.5,
+          82.5
+        ],
+        [
+          373.5,
+          82.5
+        ]
+      ]
+    },
+    {
+      "title": "SUMMARY OF GROUNDWATER ANALYTICAL RESULTS - TITLE 22 METALS (DISSOLVED)\n\nCALTRANS MODESTO SOIL STOCKPILES\n\nSTANISLAUS COUNTY, CALIFORNIA",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          223.5,
+          84.75
+        ],
+        [
+          565.5,
+          84.75
+        ],
+        [
+          565.5,
+          116.25
+        ],
+        [
+          223.5,
+          116.25
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 2",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          373.5,
+          73.5
+        ],
+        [
+          412.5,
+          73.5
+        ],
+        [
+          412.5,
+          82.5
+        ],
+        [
+          373.5,
+          82.5
+        ]
+      ]
+    },
+    {
+      "title": "SUMMARY OF GROUNDWATER ANALYTICAL RESULTS - TITLE 22 METALS (DISSOLVED)\n\nCALTRANS MODESTO SOIL STOCKPILES\n\nSTANISLAUS COUNTY, CALIFORNIA",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          223.5,
+          84.75
+        ],
+        [
+          565.5,
+          84.75
+        ],
+        [
+          565.5,
+          116.25
+        ],
+        [
+          223.5,
+          116.25
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 2",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          373.5,
+          73.5
+        ],
+        [
+          412.5,
+          73.5
+        ],
+        [
+          412.5,
+          82.5
+        ],
+        [
+          373.5,
+          82.5
+        ]
+      ]
+    },
+    {
+      "title": "SUMMARY OF GROUNDWATER ANALYTICAL RESULTS - TITLE 22 METALS (DISSOLVED)\n\nCALTRANS MODESTO SOIL STOCKPILES\n\nSTANISLAUS COUNTY, CALIFORNIA",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          223.5,
+          84.75
+        ],
+        [
+          564.75,
+          84.75
+        ],
+        [
+          564.75,
+          116.25
+        ],
+        [
+          223.5,
+          116.25
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 2",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          373.5,
+          73.5
+        ],
+        [
+          411.0,
+          73.5
+        ],
+        [
+          411.0,
+          82.5
+        ],
+        [
+          373.5,
+          82.5
+        ]
+      ]
+    },
+    {
+      "title": "SUMMARY OF GROUNDWATER ANALYTICAL RESULTS - TITLE 22 METALS (DISSOLVED)\n\nCALTRANS MODESTO SOIL STOCKPILES\n\nSTANISLAUS COUNTY, CALIFORNIA",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          224.25,
+          85.166015625
+        ],
+        [
+          564.0,
+          85.166015625
+        ],
+        [
+          564.0,
+          116.25
+        ],
+        [
+          224.25,
+          116.25
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 2",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          373.5,
+          73.5
+        ],
+        [
+          412.5,
+          73.5
+        ],
+        [
+          412.5,
+          82.5
+        ],
+        [
+          373.5,
+          82.5
+        ]
+      ]
+    },
+    {
+      "title": "SUMMARY OF GROUNDWATER ANALYTICAL RESULTS - TITLE 22 METALS (DISSOLVED)\n\nCALTRANS MODESTO SOIL STOCKPILES\n\nSTANISLAUS COUNTY, CALIFORNIA",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          222.75,
+          84.75
+        ],
+        [
+          564.75,
+          84.75
+        ],
+        [
+          564.75,
+          116.25
+        ],
+        [
+          222.75,
+          116.25
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 2",
+      "heading_level": null,
+      "page_id": 27,
+      "polygon": [
+        [
+          373.5,
+          73.5
+        ],
+        [
+          411.75,
+          73.5
+        ],
+        [
+          411.75,
+          82.5
+        ],
+        [
+          373.5,
+          82.5
+        ]
+      ]
+    },
+    {
+      "title": "SUMMARY OF GROUNDWATER ANALYTICAL RESULTS - TITLE 22 METALS (DISSOLVED) CALTRANS MODESTO SOIL STOCKPILES",
+      "heading_level": null,
+      "page_id": 27,
+      "polygon": [
+        [
+          223.5,
+          85.5
+        ],
+        [
+          564.75,
+          85.5
+        ],
+        [
+          564.75,
+          106.3828125
+        ],
+        [
+          223.5,
+          106.3828125
+        ]
+      ]
+    },
+    {
+      "title": "STANISLAUS COUNTY, CALIFORNIA",
+      "heading_level": null,
+      "page_id": 27,
+      "polygon": [
+        [
+          320.203125,
+          105.75
+        ],
+        [
+          464.25,
+          105.75
+        ],
+        [
+          464.25,
+          114.75
+        ],
+        [
+          320.203125,
+          114.75
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 2",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          376.27734375,
+          75.90234375
+        ],
+        [
+          408.17431640625,
+          75.90234375
+        ],
+        [
+          408.17431640625,
+          81.96018981933594
+        ],
+        [
+          376.27734375,
+          81.96018981933594
+        ]
+      ]
+    },
+    {
+      "title": "SUMMARY OF GROUNDWATER ANALYTICAL RESULTS - TITLE 22 METALS (DISSOLVED)\nCALTRANS MODESTO SOIL STOCKPILES",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          227.37799072265625,
+          86.66015625
+        ],
+        [
+          561.3997802734375,
+          86.66015625
+        ],
+        [
+          561.3997802734375,
+          105.78515625
+        ],
+        [
+          227.37799072265625,
+          105.78515625
+        ]
+      ]
+    },
+    {
+      "title": "STANISLAUS COUNTY, CALIFORNIA",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          322.13671875,
+          107.578125
+        ],
+        [
+          462.0511474609375,
+          107.578125
+        ],
+        [
+          462.0511474609375,
+          116.20576477050781
+        ],
+        [
+          322.13671875,
+          116.20576477050781
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 3\n\nSUMMARY OF GROUNDWATER ANALYTICAL RESULTS - GENERAL MINERALS AND PAHS\n\nCALTRANS MODESTO SOIL STOCKPILES\n\nSTANISLAUS COUNTY, CALIFORNIA",
+      "heading_level": null,
+      "page_id": 29,
+      "polygon": [
+        [
+          227.25,
+          81.0
+        ],
+        [
+          566.25,
+          81.0
+        ],
+        [
+          566.25,
+          132.75
+        ],
+        [
+          227.25,
+          132.75
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 3\n\nSUMMARY OF GROUNDWATER ANALYTICAL RESULTS - GENERAL MINERALS AND PAHS\n\nCALTRANS MODESTO SOIL STOCKPILES\n\nSTANISLAUS COUNTY, CALIFORNIA",
+      "heading_level": null,
+      "page_id": 30,
+      "polygon": [
+        [
+          227.25,
+          80.384765625
+        ],
+        [
+          566.25,
+          80.384765625
+        ],
+        [
+          566.25,
+          133.5
+        ],
+        [
+          227.25,
+          132.75
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 3\n\nSUMMARY OF GROUNDWATER ANALYTICAL RESULTS - GENERAL MINERALS AND PAHS\n\nCALTRANS MODESTO SOIL STOCKPILES\n\nSTANISLAUS COUNTY, CALIFORNIA",
+      "heading_level": null,
+      "page_id": 31,
+      "polygon": [
+        [
+          227.25,
+          80.384765625
+        ],
+        [
+          566.25,
+          80.384765625
+        ],
+        [
+          566.25,
+          133.5
+        ],
+        [
+          227.25,
+          132.75
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 3 {\\tt SUMMARY\\ OF\\ GROUNDWATER\\ ANALYTICAL\\ RESULTS\\ -\\ GENERAL\\ MINERALS\\ AND\\ PAHs} {\\tt CALTRANS\\ MODESTO\\ SOIL\\ STOCKPILES} {\\tt STANISLAUS\\ COUNTY\\ ,\\ CALIFORNIA}",
+      "heading_level": null,
+      "page_id": 32,
+      "polygon": [
+        [
+          227.25,
+          80.0859375
+        ],
+        [
+          566.25,
+          80.0859375
+        ],
+        [
+          566.25,
+          133.5
+        ],
+        [
+          227.25,
+          132.75
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 3\n\nSUMMARY OF GROUNDWATER ANALYTICAL RESULTS - GENERAL MINERALS AND PAHS\n\nCALTRANS MODESTO SOIL STOCKPILES\n\nSTANISLAUS COUNTY, CALIFORNIA",
+      "heading_level": null,
+      "page_id": 33,
+      "polygon": [
+        [
+          227.25,
+          80.384765625
+        ],
+        [
+          566.25,
+          80.384765625
+        ],
+        [
+          566.25,
+          133.5
+        ],
+        [
+          227.25,
+          132.75
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 3 {\\tt SUMMARY\\ OF\\ GROUNDWATER\\ ANALYTICAL\\ RESULTS\\ -\\ GENERAL\\ MINERALS\\ AND\\ PAHs} {\\tt CALTRANS\\ MODESTO\\ SOIL\\ STOCKPILES} {\\tt STANISLAUS\\ COUNTY\\ ,\\ CALIFORNIA}",
+      "heading_level": null,
+      "page_id": 34,
+      "polygon": [
+        [
+          228.0,
+          80.0859375
+        ],
+        [
+          566.25,
+          80.0859375
+        ],
+        [
+          566.25,
+          132.75
+        ],
+        [
+          228.0,
+          132.75
+        ]
+      ]
+    },
+    {
+      "title": "Notes:",
+      "heading_level": null,
+      "page_id": 35,
+      "polygon": [
+        [
+          93.0,
+          405.75
+        ],
+        [
+          118.5,
+          405.75
+        ],
+        [
+          118.5,
+          414.0
+        ],
+        [
+          93.0,
+          414.0
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 4\nWELL CONSTRUCTION DETAILS\nCALTRANS MODESTO SOIL STOCKPILES\nSTANISLAUS COUNTY, CALIFORNIA",
+      "heading_level": null,
+      "page_id": 36,
+      "polygon": [
+        [
+          317.109375,
+          71.25
+        ],
+        [
+          476.25,
+          71.25
+        ],
+        [
+          476.25,
+          112.5
+        ],
+        [
+          317.109375,
+          112.5
+        ]
+      ]
+    },
+    {
+      "title": "APPENDIX A",
+      "heading_level": null,
+      "page_id": 37,
+      "polygon": [
+        [
+          338.572265625,
+          30.1640625
+        ],
+        [
+          600.943359375,
+          30.1640625
+        ],
+        [
+          600.943359375,
+          127.6171875
+        ],
+        [
+          338.572265625,
+          127.6171875
+        ]
+      ]
+    },
+    {
+      "title": "MONITORING WELL SAMPLING DATA",
+      "heading_level": null,
+      "page_id": 38,
+      "polygon": [
+        [
+          184.376953125,
+          73.6405029296875
+        ],
+        [
+          435.4180603027344,
+          73.6405029296875
+        ],
+        [
+          435.4180603027344,
+          86.66046142578125
+        ],
+        [
+          184.376953125,
+          86.66046142578125
+        ]
+      ]
+    },
+    {
+      "title": "MONITORING WELL SAMPLING DATA",
+      "heading_level": null,
+      "page_id": 39,
+      "polygon": [
+        [
+          184.974609375,
+          73.6405029296875
+        ],
+        [
+          435.4180603027344,
+          73.6405029296875
+        ],
+        [
+          435.4180603027344,
+          86.66046142578125
+        ],
+        [
+          184.974609375,
+          86.66046142578125
+        ]
+      ]
+    },
+    {
+      "title": "MONITORING WELL SAMPLING DATA",
+      "heading_level": null,
+      "page_id": 40,
+      "polygon": [
+        [
+          185.2734375,
+          73.6405029296875
+        ],
+        [
+          435.4180603027344,
+          73.6405029296875
+        ],
+        [
+          435.4180603027344,
+          86.66046142578125
+        ],
+        [
+          185.2734375,
+          86.66046142578125
+        ]
+      ]
+    },
+    {
+      "title": "MONITORING WELL SAMPLING DATA",
+      "heading_level": null,
+      "page_id": 41,
+      "polygon": [
+        [
+          184.376953125,
+          73.6405029296875
+        ],
+        [
+          435.4180603027344,
+          73.6405029296875
+        ],
+        [
+          435.4180603027344,
+          86.66046142578125
+        ],
+        [
+          184.376953125,
+          86.66046142578125
+        ]
+      ]
+    },
+    {
+      "title": "MONITORING WELL SAMPLING DATA",
+      "heading_level": null,
+      "page_id": 42,
+      "polygon": [
+        [
+          185.2734375,
+          73.6405029296875
+        ],
+        [
+          435.4180603027344,
+          73.6405029296875
+        ],
+        [
+          435.4180603027344,
+          86.66046142578125
+        ],
+        [
+          185.2734375,
+          86.66046142578125
+        ]
+      ]
+    },
+    {
+      "title": "MONITORING WELL SAMPLING DATA",
+      "heading_level": null,
+      "page_id": 43,
+      "polygon": [
+        [
+          185.2734375,
+          73.6405029296875
+        ],
+        [
+          435.4180603027344,
+          73.6405029296875
+        ],
+        [
+          435.4180603027344,
+          86.66046142578125
+        ],
+        [
+          185.2734375,
+          86.66046142578125
+        ]
+      ]
+    },
+    {
+      "title": "MONITORING WELL SAMPLING DATA",
+      "heading_level": null,
+      "page_id": 44,
+      "polygon": [
+        [
+          184.376953125,
+          73.6405029296875
+        ],
+        [
+          435.4180603027344,
+          73.6405029296875
+        ],
+        [
+          435.4180603027344,
+          86.66046142578125
+        ],
+        [
+          184.376953125,
+          86.66046142578125
+        ]
+      ]
+    },
+    {
+      "title": "MONITORING WELL SAMPLING DATA",
+      "heading_level": null,
+      "page_id": 45,
+      "polygon": [
+        [
+          185.2734375,
+          73.6405029296875
+        ],
+        [
+          435.4180603027344,
+          73.6405029296875
+        ],
+        [
+          435.4180603027344,
+          86.66046142578125
+        ],
+        [
+          185.2734375,
+          86.66046142578125
+        ]
+      ]
+    },
+    {
+      "title": "MONITORING WELL SAMPLING DATA",
+      "heading_level": null,
+      "page_id": 46,
+      "polygon": [
+        [
+          184.974609375,
+          73.6405029296875
+        ],
+        [
+          435.4180603027344,
+          73.6405029296875
+        ],
+        [
+          435.4180603027344,
+          86.66046142578125
+        ],
+        [
+          184.974609375,
+          86.66046142578125
+        ]
+      ]
+    },
+    {
+      "title": "MONITORING WELL SAMPLING DATA",
+      "heading_level": null,
+      "page_id": 47,
+      "polygon": [
+        [
+          185.2734375,
+          73.6405029296875
+        ],
+        [
+          435.4180603027344,
+          73.6405029296875
+        ],
+        [
+          435.4180603027344,
+          86.66046142578125
+        ],
+        [
+          185.2734375,
+          86.66046142578125
+        ]
+      ]
+    },
+    {
+      "title": "APPENDIX B",
+      "heading_level": null,
+      "page_id": 48,
+      "polygon": [
+        [
+          338.2734375,
+          124.91015625
+        ],
+        [
+          601.2421875,
+          124.91015625
+        ],
+        [
+          601.2421875,
+          230.87109375
+        ],
+        [
+          338.2734375,
+          230.87109375
+        ]
+      ]
+    },
+    {
+      "title": "Certificate of Analysis",
+      "heading_level": null,
+      "page_id": 50,
+      "polygon": [
+        [
+          228.005859375,
+          56.07421875
+        ],
+        [
+          345.74676513671875,
+          56.07421875
+        ],
+        [
+          345.74676513671875,
+          68.97674560546875
+        ],
+        [
+          228.005859375,
+          68.97674560546875
+        ]
+      ]
+    },
+    {
+      "title": "SUMMARY OF SAMPLES",
+      "heading_level": null,
+      "page_id": 50,
+      "polygon": [
+        [
+          240.2578125,
+          138.4453125
+        ],
+        [
+          356.4527893066406,
+          138.4453125
+        ],
+        [
+          356.4527893066406,
+          148.85003662109375
+        ],
+        [
+          240.2578125,
+          148.85003662109375
+        ]
+      ]
+    },
+    {
+      "title": "Certificate of Analysis",
+      "heading_level": null,
+      "page_id": 51,
+      "polygon": [
+        [
+          228.90234375,
+          55.30078125
+        ],
+        [
+          345.74676513671875,
+          55.30078125
+        ],
+        [
+          345.74676513671875,
+          68.97674560546875
+        ],
+        [
+          228.90234375,
+          68.97674560546875
+        ]
+      ]
+    },
+    {
+      "title": "Alkalinity, Speciated by SM 2320B Analyst: GO",
+      "heading_level": null,
+      "page_id": 51,
+      "polygon": [
+        [
+          12.849609375,
+          313.6500549316406
+        ],
+        [
+          569.81787109375,
+          313.6500549316406
+        ],
+        [
+          569.81787109375,
+          324.4000549316406
+        ],
+        [
+          12.849609375,
+          324.4000549316406
+        ]
+      ]
+    },
+    {
+      "title": "Total Dissolved Solids (Residue, Filterable) by SM 2540C Analyst: PT",
+      "heading_level": null,
+      "page_id": 51,
+      "polygon": [
+        [
+          14.200042724609375,
+          434.28515625
+        ],
+        [
+          569.8557739257812,
+          434.28515625
+        ],
+        [
+          569.8557739257812,
+          445.6000671386719
+        ],
+        [
+          14.200042724609375,
+          445.6000671386719
+        ]
+      ]
+    },
+    {
+      "title": "Sulfide, Total by SM 4500-S=D Analyst: LA",
+      "heading_level": null,
+      "page_id": 51,
+      "polygon": [
+        [
+          13.74609375,
+          514.3359375
+        ],
+        [
+          569.83447265625,
+          514.3359375
+        ],
+        [
+          569.83447265625,
+          526.800048828125
+        ],
+        [
+          13.74609375,
+          526.800048828125
+        ]
+      ]
+    },
+    {
+      "title": "Cation-Anion Balance Analyst: Various",
+      "heading_level": null,
+      "page_id": 51,
+      "polygon": [
+        [
+          14.19964599609375,
+          595.546875
+        ],
+        [
+          569.78759765625,
+          595.546875
+        ],
+        [
+          569.78759765625,
+          608.0000610351562
+        ],
+        [
+          14.19964599609375,
+          608.0000610351562
+        ]
+      ]
+    },
+    {
+      "title": "Dissolved Metals by ICP-MS EPA 6020 Analyst: SB",
+      "heading_level": null,
+      "page_id": 51,
+      "polygon": [
+        [
+          13.447265625,
+          691.453125
+        ],
+        [
+          569.8652954101562,
+          691.453125
+        ],
+        [
+          569.8652954101562,
+          702.700065612793
+        ],
+        [
+          13.447265625,
+          702.700065612793
+        ]
+      ]
+    },
+    {
+      "title": "Certificate of Analysis",
+      "heading_level": null,
+      "page_id": 52,
+      "polygon": [
+        [
+          228.90234375,
+          55.30078125
+        ],
+        [
+          345.74676513671875,
+          55.30078125
+        ],
+        [
+          345.74676513671875,
+          68.97674560546875
+        ],
+        [
+          228.90234375,
+          68.97674560546875
+        ]
+      ]
+    },
+    {
+      "title": "Dissolved Metals by ICP-MS EPA 6020 Analyst: SB",
+      "heading_level": null,
+      "page_id": 52,
+      "polygon": [
+        [
+          14.199569702148438,
+          204.1875
+        ],
+        [
+          569.8651123046875,
+          204.1875
+        ],
+        [
+          569.8651123046875,
+          215.95001220703125
+        ],
+        [
+          14.199569702148438,
+          215.95001220703125
+        ]
+      ]
+    },
+    {
+      "title": "Dissolved Mercury by AA (Cold Vapor) by EPA 7470A Analyst: SB",
+      "heading_level": null,
+      "page_id": 52,
+      "polygon": [
+        [
+          14.044921875,
+          553.78125
+        ],
+        [
+          569.8659057617188,
+          553.78125
+        ],
+        [
+          569.8659057617188,
+          565.4000549316406
+        ],
+        [
+          14.044921875,
+          565.4000549316406
+        ]
+      ]
+    },
+    {
+      "title": "Certificate of Analysis",
+      "heading_level": null,
+      "page_id": 53,
+      "polygon": [
+        [
+          228.90234375,
+          55.30078125
+        ],
+        [
+          345.74676513671875,
+          55.30078125
+        ],
+        [
+          345.74676513671875,
+          68.97674560546875
+        ],
+        [
+          228.90234375,
+          68.97674560546875
+        ]
+      ]
+    },
+    {
+      "title": "Alkalinity, Speciated by SM 2320B Analyst: GO",
+      "heading_level": null,
+      "page_id": 53,
+      "polygon": [
+        [
+          12.55078125,
+          313.4000549316406
+        ],
+        [
+          569.81787109375,
+          313.4000549316406
+        ],
+        [
+          569.81787109375,
+          324.1500549316406
+        ],
+        [
+          12.55078125,
+          324.1500549316406
+        ]
+      ]
+    },
+    {
+      "title": "Total Dissolved Solids (Residue, Filterable) by SM 2540C Analyst: PT",
+      "heading_level": null,
+      "page_id": 53,
+      "polygon": [
+        [
+          13.447265625,
+          433.51171875
+        ],
+        [
+          569.8557739257812,
+          433.51171875
+        ],
+        [
+          569.8557739257812,
+          445.3500671386719
+        ],
+        [
+          13.447265625,
+          445.3500671386719
+        ]
+      ]
+    },
+    {
+      "title": "Sulfide, Total by SM 4500-S=D Analyst: LA",
+      "heading_level": null,
+      "page_id": 53,
+      "polygon": [
+        [
+          14.199981689453125,
+          514.3359375
+        ],
+        [
+          569.83447265625,
+          514.3359375
+        ],
+        [
+          569.83447265625,
+          526.5500793457031
+        ],
+        [
+          14.199981689453125,
+          526.5500793457031
+        ]
+      ]
+    },
+    {
+      "title": "Cation-Anion Balance Analyst: Various",
+      "heading_level": null,
+      "page_id": 53,
+      "polygon": [
+        [
+          14.19964599609375,
+          595.546875
+        ],
+        [
+          569.78759765625,
+          595.546875
+        ],
+        [
+          569.78759765625,
+          607.7500457763672
+        ],
+        [
+          14.19964599609375,
+          607.7500457763672
+        ]
+      ]
+    },
+    {
+      "title": "Dissolved Metals by ICP-MS EPA 6020 Analyst: SB",
+      "heading_level": null,
+      "page_id": 53,
+      "polygon": [
+        [
+          14.044921875,
+          691.453125
+        ],
+        [
+          569.8652954101562,
+          691.453125
+        ],
+        [
+          569.8652954101562,
+          702.4500503540039
+        ],
+        [
+          14.044921875,
+          702.4500503540039
+        ]
+      ]
+    },
+    {
+      "title": "Certificate of Analysis",
+      "heading_level": null,
+      "page_id": 54,
+      "polygon": [
+        [
+          228.90234375,
+          55.30078125
+        ],
+        [
+          345.74676513671875,
+          55.30078125
+        ],
+        [
+          345.74676513671875,
+          68.97674560546875
+        ],
+        [
+          228.90234375,
+          68.97674560546875
+        ]
+      ]
+    },
+    {
+      "title": "Dissolved Metals by ICP-MS EPA 6020 Analyst: SB",
+      "heading_level": null,
+      "page_id": 54,
+      "polygon": [
+        [
+          14.199569702148438,
+          204.9609375
+        ],
+        [
+          569.8651123046875,
+          204.9609375
+        ],
+        [
+          569.8651123046875,
+          215.95001220703125
+        ],
+        [
+          14.199569702148438,
+          215.95001220703125
+        ]
+      ]
+    },
+    {
+      "title": "Dissolved Mercury by AA (Cold Vapor) by EPA 7470A Analyst: SB",
+      "heading_level": null,
+      "page_id": 54,
+      "polygon": [
+        [
+          14.044921875,
+          553.0078125
+        ],
+        [
+          569.8659057617188,
+          553.0078125
+        ],
+        [
+          569.8659057617188,
+          564.6500549316406
+        ],
+        [
+          14.044921875,
+          564.6500549316406
+        ]
+      ]
+    },
+    {
+      "title": "Certificate of Analysis",
+      "heading_level": null,
+      "page_id": 55,
+      "polygon": [
+        [
+          228.90234375,
+          55.30078125
+        ],
+        [
+          345.74676513671875,
+          55.30078125
+        ],
+        [
+          345.74676513671875,
+          68.97674560546875
+        ],
+        [
+          228.90234375,
+          68.97674560546875
+        ]
+      ]
+    },
+    {
+      "title": "Alkalinity, Speciated by SM 2320B Analyst: GO",
+      "heading_level": null,
+      "page_id": 55,
+      "polygon": [
+        [
+          12.55078125,
+          313.4000549316406
+        ],
+        [
+          569.81787109375,
+          313.4000549316406
+        ],
+        [
+          569.81787109375,
+          324.1500549316406
+        ],
+        [
+          12.55078125,
+          324.1500549316406
+        ]
+      ]
+    },
+    {
+      "title": "Total Dissolved Solids (Residue, Filterable) by SM 2540C Analyst: PT",
+      "heading_level": null,
+      "page_id": 55,
+      "polygon": [
+        [
+          13.447265625,
+          433.51171875
+        ],
+        [
+          569.8557739257812,
+          433.51171875
+        ],
+        [
+          569.8557739257812,
+          445.3500671386719
+        ],
+        [
+          13.447265625,
+          445.3500671386719
+        ]
+      ]
+    },
+    {
+      "title": "Sulfide, Total by SM 4500-S=D Analyst: LA",
+      "heading_level": null,
+      "page_id": 55,
+      "polygon": [
+        [
+          14.199981689453125,
+          514.3359375
+        ],
+        [
+          569.83447265625,
+          514.3359375
+        ],
+        [
+          569.83447265625,
+          526.5500793457031
+        ],
+        [
+          14.199981689453125,
+          526.5500793457031
+        ]
+      ]
+    },
+    {
+      "title": "Cation-Anion Balance Analyst: Various",
+      "heading_level": null,
+      "page_id": 55,
+      "polygon": [
+        [
+          14.19964599609375,
+          595.546875
+        ],
+        [
+          569.78759765625,
+          595.546875
+        ],
+        [
+          569.78759765625,
+          607.7500457763672
+        ],
+        [
+          14.19964599609375,
+          607.7500457763672
+        ]
+      ]
+    },
+    {
+      "title": "Dissolved Metals by ICP-MS EPA 6020 Analyst: SB",
+      "heading_level": null,
+      "page_id": 55,
+      "polygon": [
+        [
+          14.044921875,
+          691.453125
+        ],
+        [
+          569.8652954101562,
+          691.453125
+        ],
+        [
+          569.8652954101562,
+          702.4500503540039
+        ],
+        [
+          14.044921875,
+          702.4500503540039
+        ]
+      ]
+    },
+    {
+      "title": "Certificate of Analysis",
+      "heading_level": null,
+      "page_id": 56,
+      "polygon": [
+        [
+          228.90234375,
+          55.30078125
+        ],
+        [
+          345.74676513671875,
+          55.30078125
+        ],
+        [
+          345.74676513671875,
+          68.97674560546875
+        ],
+        [
+          228.90234375,
+          68.97674560546875
+        ]
+      ]
+    },
+    {
+      "title": "Dissolved Metals by ICP-MS EPA 6020 Analyst: SB",
+      "heading_level": null,
+      "page_id": 56,
+      "polygon": [
+        [
+          14.200057983398438,
+          204.1875
+        ],
+        [
+          569.8656005859375,
+          204.1875
+        ],
+        [
+          569.8656005859375,
+          215.95001220703125
+        ],
+        [
+          14.200057983398438,
+          215.95001220703125
+        ]
+      ]
+    },
+    {
+      "title": "Dissolved Mercury by AA (Cold Vapor) by EPA 7470A Analyst: SB",
+      "heading_level": null,
+      "page_id": 56,
+      "polygon": [
+        [
+          14.199920654296875,
+          553.0078125
+        ],
+        [
+          569.8659057617188,
+          553.0078125
+        ],
+        [
+          569.8659057617188,
+          564.6500549316406
+        ],
+        [
+          14.199920654296875,
+          564.6500549316406
+        ]
+      ]
+    },
+    {
+      "title": "Certificate of Analysis",
+      "heading_level": null,
+      "page_id": 57,
+      "polygon": [
+        [
+          226.5,
+          54.0
+        ],
+        [
+          347.25,
+          54.0
+        ],
+        [
+          347.25,
+          69.0
+        ],
+        [
+          226.5,
+          69.0
+        ]
+      ]
+    },
+    {
+      "title": "QUALITY CONTROL SECTION",
+      "heading_level": null,
+      "page_id": 57,
+      "polygon": [
+        [
+          210.75,
+          138.75
+        ],
+        [
+          369.75,
+          138.75
+        ],
+        [
+          369.75,
+          150.75
+        ],
+        [
+          210.75,
+          150.75
+        ]
+      ]
+    },
+    {
+      "title": "Alkalinity, Speciated by SM 2320B - Quality Control",
+      "heading_level": null,
+      "page_id": 57,
+      "polygon": [
+        [
+          180.0,
+          189.75
+        ],
+        [
+          402.75,
+          189.75
+        ],
+        [
+          402.75,
+          201.0
+        ],
+        [
+          180.0,
+          201.0
+        ]
+      ]
+    },
+    {
+      "title": "Certificate of Analysis",
+      "heading_level": null,
+      "page_id": 58,
+      "polygon": [
+        [
+          226.5,
+          54.0
+        ],
+        [
+          347.25,
+          54.0
+        ],
+        [
+          347.25,
+          69.0
+        ],
+        [
+          226.5,
+          69.0
+        ]
+      ]
+    },
+    {
+      "title": "Total Dissolved Solids (Residue, Filterable) by SM 2540C - Quality Control",
+      "heading_level": null,
+      "page_id": 58,
+      "polygon": [
+        [
+          133.5,
+          164.25
+        ],
+        [
+          447.75,
+          164.25
+        ],
+        [
+          447.75,
+          176.25
+        ],
+        [
+          133.5,
+          176.25
+        ]
+      ]
+    },
+    {
+      "title": "Certificate of Analysis",
+      "heading_level": null,
+      "page_id": 59,
+      "polygon": [
+        [
+          226.5,
+          54.0
+        ],
+        [
+          347.25,
+          54.0
+        ],
+        [
+          347.25,
+          69.0
+        ],
+        [
+          226.5,
+          69.0
+        ]
+      ]
+    },
+    {
+      "title": "Anions Scan by Ion Chromatography EPA 300.0 - Quality Control",
+      "heading_level": null,
+      "page_id": 59,
+      "polygon": [
+        [
+          150.0,
+          164.25
+        ],
+        [
+          431.25,
+          164.25
+        ],
+        [
+          431.25,
+          175.5
+        ],
+        [
+          150.0,
+          175.5
+        ]
+      ]
+    },
+    {
+      "title": "Certificate of Analysis",
+      "heading_level": null,
+      "page_id": 60,
+      "polygon": [
+        [
+          226.5,
+          54.0
+        ],
+        [
+          347.25,
+          54.0
+        ],
+        [
+          347.25,
+          69.0
+        ],
+        [
+          226.5,
+          69.0
+        ]
+      ]
+    },
+    {
+      "title": "Sulfide, Total by SM 4500-S=D - Quality Control",
+      "heading_level": null,
+      "page_id": 60,
+      "polygon": [
+        [
+          187.5,
+          164.25
+        ],
+        [
+          394.5,
+          164.25
+        ],
+        [
+          394.5,
+          176.25
+        ],
+        [
+          187.5,
+          176.25
+        ]
+      ]
+    },
+    {
+      "title": "Certificate of Analysis",
+      "heading_level": null,
+      "page_id": 61,
+      "polygon": [
+        [
+          226.5,
+          54.0
+        ],
+        [
+          347.25,
+          54.0
+        ],
+        [
+          347.25,
+          69.0
+        ],
+        [
+          226.5,
+          69.0
+        ]
+      ]
+    },
+    {
+      "title": "Dissolved Metals by ICP-MS EPA 6020 - Quality Control",
+      "heading_level": null,
+      "page_id": 61,
+      "polygon": [
+        [
+          170.25,
+          164.25
+        ],
+        [
+          411.0,
+          164.25
+        ],
+        [
+          411.0,
+          176.25
+        ],
+        [
+          170.25,
+          176.25
+        ]
+      ]
+    },
+    {
+      "title": "Certificate of Analysis",
+      "heading_level": null,
+      "page_id": 62,
+      "polygon": [
+        [
+          226.5,
+          54.0
+        ],
+        [
+          347.25,
+          54.0
+        ],
+        [
+          347.25,
+          69.0
+        ],
+        [
+          226.5,
+          69.0
+        ]
+      ]
+    },
+    {
+      "title": "Dissolved Metals by ICP-MS EPA 6020 - Quality Control (cont'd)",
+      "heading_level": null,
+      "page_id": 62,
+      "polygon": [
+        [
+          153.0,
+          164.25
+        ],
+        [
+          428.25,
+          164.25
+        ],
+        [
+          428.25,
+          176.25
+        ],
+        [
+          153.0,
+          176.25
+        ]
+      ]
+    },
+    {
+      "title": "Certificate of Analysis",
+      "heading_level": null,
+      "page_id": 63,
+      "polygon": [
+        [
+          226.5,
+          54.0
+        ],
+        [
+          347.25,
+          54.0
+        ],
+        [
+          347.25,
+          69.0
+        ],
+        [
+          226.5,
+          69.0
+        ]
+      ]
+    },
+    {
+      "title": "Dissolved Metals by ICP-MS EPA 6020 - Quality Control (cont'd)",
+      "heading_level": null,
+      "page_id": 63,
+      "polygon": [
+        [
+          153.0,
+          164.25
+        ],
+        [
+          428.25,
+          164.25
+        ],
+        [
+          428.25,
+          176.25
+        ],
+        [
+          153.0,
+          176.25
+        ]
+      ]
+    },
+    {
+      "title": "Certificate of Analysis",
+      "heading_level": null,
+      "page_id": 64,
+      "polygon": [
+        [
+          227.25,
+          55.30078125
+        ],
+        [
+          347.25,
+          55.30078125
+        ],
+        [
+          347.25,
+          67.5
+        ],
+        [
+          227.25,
+          67.5
+        ]
+      ]
+    },
+    {
+      "title": "Dissolved Metals by ICP-MS EPA 6020 - Quality Control (cont'd)",
+      "heading_level": null,
+      "page_id": 64,
+      "polygon": [
+        [
+          153.0,
+          165.0
+        ],
+        [
+          428.25,
+          165.0
+        ],
+        [
+          428.25,
+          175.5
+        ],
+        [
+          153.0,
+          175.5
+        ]
+      ]
+    },
+    {
+      "title": "Certificate of Analysis",
+      "heading_level": null,
+      "page_id": 65,
+      "polygon": [
+        [
+          226.5,
+          54.0
+        ],
+        [
+          347.25,
+          54.0
+        ],
+        [
+          347.25,
+          68.25
+        ],
+        [
+          226.5,
+          68.25
+        ]
+      ]
+    },
+    {
+      "title": "Dissolved Metals by ICP-MS EPA 6020 - Quality Control (cont'd)",
+      "heading_level": null,
+      "page_id": 65,
+      "polygon": [
+        [
+          153.0,
+          164.25
+        ],
+        [
+          428.25,
+          164.25
+        ],
+        [
+          428.25,
+          176.25
+        ],
+        [
+          153.0,
+          176.25
+        ]
+      ]
+    },
+    {
+      "title": "Certificate of Analysis",
+      "heading_level": null,
+      "page_id": 66,
+      "polygon": [
+        [
+          226.5,
+          54.0
+        ],
+        [
+          347.25,
+          54.0
+        ],
+        [
+          347.25,
+          68.25
+        ],
+        [
+          226.5,
+          68.25
+        ]
+      ]
+    },
+    {
+      "title": "Dissolved Metals by ICP-MS EPA 6020 - Quality Control (cont'd)",
+      "heading_level": null,
+      "page_id": 66,
+      "polygon": [
+        [
+          152.25,
+          164.25
+        ],
+        [
+          429.0,
+          164.25
+        ],
+        [
+          429.0,
+          176.25
+        ],
+        [
+          152.25,
+          176.25
+        ]
+      ]
+    },
+    {
+      "title": "Certificate of Analysis",
+      "heading_level": null,
+      "page_id": 67,
+      "polygon": [
+        [
+          226.5,
+          54.0
+        ],
+        [
+          347.25,
+          54.0
+        ],
+        [
+          347.25,
+          68.25
+        ],
+        [
+          226.5,
+          68.25
+        ]
+      ]
+    },
+    {
+      "title": "Dissolved Mercury by AA (Cold Vapor) by EPA 7470A - Quality Control",
+      "heading_level": null,
+      "page_id": 67,
+      "polygon": [
+        [
+          138.75,
+          164.25
+        ],
+        [
+          442.5,
+          164.25
+        ],
+        [
+          442.5,
+          175.5
+        ],
+        [
+          138.75,
+          175.5
+        ]
+      ]
+    },
+    {
+      "title": "Certificate of Analysis",
+      "heading_level": null,
+      "page_id": 68,
+      "polygon": [
+        [
+          229.1500244140625,
+          55.6875
+        ],
+        [
+          345.74676513671875,
+          55.6875
+        ],
+        [
+          345.74676513671875,
+          68.97674560546875
+        ],
+        [
+          229.1500244140625,
+          68.97674560546875
+        ]
+      ]
+    },
+    {
+      "title": "Notes and Definitions",
+      "heading_level": null,
+      "page_id": 68,
+      "polygon": [
+        [
+          246.234375,
+          140.765625
+        ],
+        [
+          336.4272155761719,
+          140.765625
+        ],
+        [
+          336.4272155761719,
+          150.75006103515625
+        ],
+        [
+          246.234375,
+          150.75006103515625
+        ]
+      ]
+    },
+    {
+      "title": "Notes:",
+      "heading_level": null,
+      "page_id": 68,
+      "polygon": [
+        [
+          17.630859375,
+          388.65234375
+        ],
+        [
+          39.53923034667969,
+          388.65234375
+        ],
+        [
+          39.53923034667969,
+          398.94219970703125
+        ],
+        [
+          17.630859375,
+          398.94219970703125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 69,
+      "polygon": [
+        [
+          30.181640625,
+          301.25390625
+        ],
+        [
+          40.341796875,
+          301.25390625
+        ],
+        [
+          40.341796875,
+          486.10546875
+        ],
+        [
+          30.181640625,
+          486.10546875
+        ]
+      ]
+    },
+    {
+      "title": "APPENDIX C",
+      "heading_level": null,
+      "page_id": 70,
+      "polygon": [
+        [
+          338.87109375,
+          232.03125
+        ],
+        [
+          600.64453125,
+          232.03125
+        ],
+        [
+          600.64453125,
+          334.125
+        ],
+        [
+          338.87109375,
+          334.125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          33
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 4,
+        "llm_error_count": 0,
+        "llm_tokens_used": 24320,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 2,
+        "llm_error_count": 0,
+        "llm_tokens_used": 2879,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          88
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "PageFooter",
+          4
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          78
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageFooter",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          80
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageFooter",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          81
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Footnote",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          32
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Footnote",
+          7
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          4
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "TableGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          92
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          81
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          18
+        ],
+        [
+          "PageFooter",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1385,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "PageFooter",
+          4
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          106
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1574,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 5,
+        "llm_error_count": 0,
+        "llm_tokens_used": 7256,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          47
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1570,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          38
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1566,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          44
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1553,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          32
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Span",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 2,
+        "llm_error_count": 0,
+        "llm_tokens_used": 3045,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          29
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 2,
+        "llm_error_count": 0,
+        "llm_tokens_used": 3091,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          8
+        ],
+        [
+          "Span",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          8
+        ],
+        [
+          "Span",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          8
+        ],
+        [
+          "Span",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          8
+        ],
+        [
+          "Span",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          19
+        ],
+        [
+          "Span",
+          9
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          9
+        ],
+        [
+          "Span",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          9
+        ],
+        [
+          "Span",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          9
+        ],
+        [
+          "Span",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          9
+        ],
+        [
+          "Span",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 26,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          9
+        ],
+        [
+          "Span",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 27,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          10
+        ],
+        [
+          "Span",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 28,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Footnote",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 29,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          8
+        ],
+        [
+          "Span",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 30,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          8
+        ],
+        [
+          "Span",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 31,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          8
+        ],
+        [
+          "Span",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 32,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 33,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          8
+        ],
+        [
+          "Span",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 34,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 35,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          27
+        ],
+        [
+          "Span",
+          16
+        ],
+        [
+          "Footnote",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 36,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          19
+        ],
+        [
+          "Span",
+          9
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 37,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Line",
+          1
+        ],
+        [
+          "Span",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 38,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          57
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Form",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 39,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          49
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Form",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 40,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          49
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Form",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 41,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          49
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Form",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 42,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          51
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Form",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 43,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          51
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Form",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 44,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          59
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Table",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 45,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          49
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Form",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 46,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          49
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Form",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 47,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          49
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Form",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 48,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Line",
+          1
+        ],
+        [
+          "Span",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 49,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          76
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1454,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 50,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          77
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1463,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 51,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          359
+        ],
+        [
+          "Line",
+          66
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Table",
+          7
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 7,
+        "llm_error_count": 0,
+        "llm_tokens_used": 9860,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 52,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          411
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 3,
+        "llm_error_count": 0,
+        "llm_tokens_used": 4215,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 53,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          359
+        ],
+        [
+          "Line",
+          66
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Table",
+          7
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 7,
+        "llm_error_count": 0,
+        "llm_tokens_used": 9730,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 54,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          413
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 3,
+        "llm_error_count": 0,
+        "llm_tokens_used": 4321,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 55,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          359
+        ],
+        [
+          "Line",
+          66
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Table",
+          7
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 7,
+        "llm_error_count": 0,
+        "llm_tokens_used": 9728,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 56,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          413
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 3,
+        "llm_error_count": 0,
+        "llm_tokens_used": 4351,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 57,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          17
+        ],
+        [
+          "Span",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1395,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 58,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          15
+        ],
+        [
+          "Span",
+          7
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1447,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 59,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          18
+        ],
+        [
+          "Span",
+          7
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1459,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 60,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          15
+        ],
+        [
+          "Span",
+          7
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1457,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 61,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          26
+        ],
+        [
+          "Span",
+          12
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1450,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 62,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          26
+        ],
+        [
+          "Span",
+          12
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1447,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 63,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          26
+        ],
+        [
+          "Span",
+          12
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1445,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 64,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          231
+        ],
+        [
+          "Span",
+          114
+        ],
+        [
+          "Text",
+          110
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1412,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 65,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          44
+        ],
+        [
+          "Span",
+          21
+        ],
+        [
+          "Text",
+          17
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1448,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 66,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          15
+        ],
+        [
+          "Span",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1393,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 67,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          15
+        ],
+        [
+          "Span",
+          7
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1396,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 68,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          103
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "Text",
+          20
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1444,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 69,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Text",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "Line",
+          1
+        ],
+        [
+          "Span",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1418,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 70,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Line",
+          1
+        ],
+        [
+          "Span",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 71,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          47
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 1611,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/S9800-01-17A Caltrans Modesto Stockpiles GW_06 16"
+}

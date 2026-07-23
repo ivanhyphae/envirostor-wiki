@@ -2,34 +2,41 @@
 concept: dean-wright
 entity_type: concept
 aliases: ["Dean Wright"]
-sources: ["Interagency Agreement Task Order Contract 43A0404-04", "Borrow Area Sampling Plan Approval E-Mail"]
-confidence: low
-created_at: 2026-07-01T15:40:30Z
+sources: ["wiki/sources/Borrow Area Sampling Plan Approval E-Mail/Borrow Area Sampling Plan Approval E-Mail.md"]
+confidence: high
+created_at: 2026-07-23T14:42:39Z
 ---
+
+# Dean Wright
 
 ## Overview
 
-Dean Wright is an individual identified in the project record for the Caltrans Modesto Soil Stockpiles remediation (SR 132, Stanislaus County, CA). The provided sources—Interagency Agreement Task Order Contract 43A0404-04 and a Borrow Area Sampling Plan Approval E‑Mail—reference Dean Wright, but the specific role (e.g., agency representative, project manager, contractor) is not detailed in the source titles alone. Based on the nature of the documents, Dean Wright likely served as an approving official or point of contact for the Borrow Area Sampling Plan and is named in the Task Order Contract as a responsible party. No further biographical or professional background is available from the sources.
+Dean Wright is a project manager at the California Department of Toxic Substances Control (DTSC) overseeing regulatory aspects of the Caltrans Modesto Soil Stockpiles remediation under SR 132 in Stanislaus County. In the project record, Wright serves as DTSC's primary point of contact for field decisions, sampling plan approvals, and interagency coordination with Caltrans staff — specifically [[richard-stewart]] and [[jennifer-lugo]].
 
 ## Site record
 
-- **Document involvement**: Dean Wright is the named signatory of the Borrow Area Sampling Plan Approval E‑Mail (document name as stated in source list). The email approves the Sampling Plan under Task Order Contract 43A0404-04. The date and specific approval conditions are not included in the provided source titles.
-- **Contract reference**: Dean Wright appears in Interagency Agreement Task Order Contract 43A0404-04. The exact capacity (e.g., contract officer, agency liaison) is not specified in the available information.
+Wright's documented involvement during the February 2020 period centered on review and approval of the [[borrow-area-sampling-plan]] for clean backfill material. On February 12, 2020, Wright forwarded a work notice mailing list from his PPS to [[richard-stewart]], initiating coordination on community notification procedures related to the soil stockpile remediation work.
 
-No other site-record facts (e.g., concentrations, dates of field work, sampling locations) are attributable to Dean Wright from the cited sources.
+On February 13, 2020, Wright conveyed DTSC's sole condition for approval of the backfill sampling plan: composite 3 samples instead of 4. This direction was provided directly to [[richard-stewart]] and [[jennifer-lugo]], with Perry Myers (also of DTSC) having reviewed the plan and raised no additional comments. Wright noted: "Perry didn't have any additional comments on the backfill sampling plan so our only request remains what I mentioned yesterday."
+
+Wright also participated in scheduling for a February 13, 2020 conference call with Caltrans and Bay Cities (the contractor), where the sampling plan status and work notification status were expected agenda items. Conference details were: (877) 829-8910, Passcode 8536140.
+
+In the same February 12–13, 2020 email chain, Wright searched DTSC's EnviroStor database and electronic files left by predecessor Randy for a burial location report that Stewart had mentioned, but was unable to locate it. Wright requested a copy from Stewart for both DTSC's records and forwarding to Bay Cities as an example document.
 
 ## Regulatory status
 
-Dean Wright’s approval of the Borrow Area Sampling Plan may establish a regulatory milestone, but no applicable standards, thresholds, or compliance decisions are documented in the source titles alone. The regulatory status of the plan or of Dean Wright’s actions cannot be determined from the provided information.
+Wright's February 13, 2020 approval of the backfill sampling plan — conditioned solely on compositing 3 samples rather than 4 — constitutes DTSC's regulatory authorization for the sampling methodology. No additional conditions, exceedances, or compliance issues were documented in the record reviewed.
 
 ## Open items
 
-The sources do not indicate any unresolved issues, pending deliverables, or contested claims related to Dean Wright. The absence of a date or conditions in the approval email suggests that the plan status (e.g., implemented, pending revision) is not documented here.
+The burial location report referenced by [[richard-stewart]] remained unlocated in DTSC's records as of February 13, 2020. Wright requested a copy from Caltrans; whether it was received is not documented in the available source material.
 
 ## See also
 
-- Interagency Agreement Task Order Contract 43A0404-04
 - [[borrow-area-sampling-plan]]
-- Caltrans Modesto Soil Stockpiles – SR 132
-
----
+- [[caltrans]]
+- [[dtsc]]
+- [[jennifer-lugo]]
+- [[marcus-simpson]]
+- [[richard-stewart]]
+- [[susie-flowers-williams]]

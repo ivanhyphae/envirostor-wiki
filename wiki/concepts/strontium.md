@@ -1,50 +1,44 @@
 ---
 concept: strontium
 entity_type: concept
-aliases: []
-sources: ["GND Water Monitoring Rpt March 2102.md", "S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.md"]
-confidence: medium
-created_at: 2026-07-01T04:14:43Z
+aliases: ["strontium"]
+sources: ["wiki/sources/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814.md"]
+confidence: high
+created_at: 2026-07-23T14:39:03Z
 ---
+
+# Strontium
 
 ## Overview
-
-Strontium is an alkaline earth metal that occurs naturally in soils and groundwater. In the Caltrans Modesto Soil Stockpiles remediation case (SR 132, Stanislaus County), strontium is tracked as a potential indicator of leachate influence from stockpiled excavation materials. Monitoring was conducted as part of compliance under DTSC oversight. The two primary source documents for strontium data are the **GND Water Monitoring Report (March 2012)** and the **S9525‑06‑25 Modesto Stockpiles Well Installation and June 2012 Groundwater Report (1112)**. Because the full text of these reports is not included in the current prompt, specific concentration values, well identifiers, and exceedance determinations cannot be reproduced here; all assertions below are based on the document titles and the project context they imply.
+Strontium is one of three primary chemicals of concern (COCs) in groundwater at the Caltrans Modesto Soil Stockpiles site, as identified by the Department of Toxic Substances Control (DTSC). Its presence is linked to the historical operations of Barium Products Ltd., which processed celestite (strontium sulfate) at the adjacent FMC property along with barite (barium sulfate) during the 1930s. Soil excavated from the FMC evaporation pond area during SR 99 construction around 1961 became the stockpiles that are the subject of ongoing groundwater monitoring. Strontium is analyzed as a dissolved metal by EPA Method 6020 in all semiannual and quarterly groundwater sampling events.
 
 ## Site record
+Strontium has been reported in every groundwater sample collected from the ten monitoring wells (MW-1 through MW-10) during the June 2014 monitoring event. Concentrations remain below regulatory thresholds.
 
-The two cited reports cover monitoring events from early 2012 and mid‑2012. No numerical strontium results (e.g., µg/L or mg/L) are available in the provided source abstracts. The document naming suggests that:
+Per the June 2014 groundwater monitoring report prepared by Geocon Consultants, Inc. (Project No. S9800-01-17, Task Order No. 17, dated August 2014), strontium and barium were reported for each of the ten groundwater samples. The report states that strontium concentrations in the June 2014 samples were "similar to historical levels and remained significantly less than their numeric water quality thresholds."
 
-- **GND Water Monitoring Rpt March 2102** (likely a typographical error for 2012) would contain spring 2012 groundwater data from the GND (Grasslands – North Drain?) network.
-- **S9525‑06‑25 Modesto Stockpiles Well Install and June 2012 GW Report** would include results from newly installed monitoring wells (likely designated as MW series) and the June 2012 synoptic sampling round.
+A time-series plot of strontium concentrations (Figure 6, "Strontium Concentrations vs. Time") displays data from February 25, 2012 through June 14, 2014, for all ten monitoring wells. The y-axis extends to 4,500 µg/L, with a red horizontal line marking the Water Quality Threshold at 4,000 µg/L. All plotted data points fall below this threshold.
 
-Based on standard Caltrans practice, strontium concentrations would have been compared to either the California Maximum Contaminant Level (MCL) if regulated, or to DTSC’s human health screening levels. At sites with calcareous soils, strontium often correlates with total dissolved solids.
+The historical groundwater sampling record includes the following events: March, May, June, July, September, and November 2012; January, March, June, September, and December 2013; February 2014; and the subject June 2014 event. DTSC representatives observed the March 2012 sampling and collected split samples; no notable differences in reported concentrations were found between the primary and split samples.
 
-**No values, exceedances, or trend observations can be cited from the provided source text.** The article should be updated once the actual data are retrieved.
+Strontium is analyzed as part of the Title 22 dissolved metals suite by Advanced Technology Laboratories (ATL) using EPA Method 6020, under chain-of-custody protocol.
+
+The spatial distribution of strontium is not separately tabulated in the excerpted material, but the Stiff diagram analysis distinguishes two groundwater types: calcium-dominant water in wells MW-1, MW-2, MW-4, MW-7, MW-9, and MW-10, and sodium-dominant water in wells MW-3, MW-5, MW-6, and MW-8. Well MW-5 switched from calcium-dominant to sodium-dominant in 2013, suggesting mixing of water types at that location.
 
 ## Regulatory status
+The applicable numeric water quality threshold for strontium cited in the report is the California Department of Public Health (CDPH) Notification Level for Drinking Water, set at 4,000 µg/L. No exceedances of this threshold have been reported for any monitoring well through the June 2014 sampling event. The report concludes that "none of the reported dissolved metals concentrations for the groundwater samples collected in June 2014 exceeded their respective numeric water quality threshold values."
 
-For drinking water, strontium has:
-
-- **No federal MCL** (EPA has a health advisory level of 4 mg/L for stable strontium).
-- **California Notification Level (NL)** of **15 mg/L** (effective 2007). Monitoring results exceeding the NL require notification but not a formal violation.
-- **DTSC residential screening level** (typically 0.5 mg/L for strontium in soil‑to‑groundwater pathways, though this may be site‑specific).
-
-Whether the Modesto stockpiles groundwater met these thresholds in 2012 is not documented in the two source titles alone. DTSC’s acceptance of the monitoring reports would indicate that any exceedances were either addressed or deemed not actionable at that time.
+Strontium is not subject to a promulgated Primary Maximum Contaminant Level (MCL) under CDPH regulations; the Notification Level serves as the benchmark for regulatory evaluation.
 
 ## Open items
-
-- **Complete data retrieval:** The numerical strontium results from the March 2012 and June 2012 rounds must be extracted from the original reports to evaluate compliance.
-- **Trend analysis:** No post‑2012 data are referenced in the provided sources. Current strontium concentrations relative to the NL are unknown.
-- **Correlation with stockpile age:** It is not documented whether strontium levels increased after stockpile reshaping or after wet‑season infiltration.
-- **Verification of well network:** The new wells installed per the S9525‑06‑25 report should be checked for consistent long‑term sampling (e.g., MW‑5, if part of that network).
+Groundwater monitoring continued on a quarterly basis following the June 2014 event, with the next sampling event scheduled for September 2014. No specific open items related to strontium are identified in the source material.
 
 ## See also
-
-Caltrans Modesto Soil Stockpiles
-Groundwater monitoring network
-Strontium notification level
-DTSC oversight site conditions
-SR 132 Stanislaus County
-
----
+- [[arsenic]]
+- [[barium]]
+- [[barium-below-mcl]]
+- [[caltrans]]
+- [[chromium]]
+- geocon-consultants
+- [[geotracker]]
+- [[june-2014-groundwater-monitoring-report]]

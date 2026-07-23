@@ -1,43 +1,51 @@
 ---
 concept: clean-fill-suitable-as-cover
 entity_type: claim
-aliases: []
-sources: ["Borrow Area Results Tech Memo Approval.md", "RDIP Variance Reqeust #2 Acceptance E-Mail.md"]
-confidence: medium
-created_at: 2026-07-01T04:20:16Z
+aliases: ["clean fill suitable as cover"]
+sources: ["wiki/sources/Borrow Area Sampling Plan/Borrow Area Sampling Plan.md"]
+confidence: high
+created_at: 2026-07-23T14:40:19Z
 ---
 
-## Overview
+# Clean Fill Suitable As Cover
 
-Clean Fill Suitable As Cover is a regulatory designation applied to soil from the designated borrow area (Pit 1, Stanislaus County) that meets DTSC-approved chemical thresholds for use as final cover material over the remediated soil stockpiles at the Caltrans Modesto SR 132 site. The designation was established through two key documents: the Borrow Area Results Tech Memo Approval (dated March 2022) and the RDIP Variance Request #2 Acceptance E-Mail (dated April 2022). Under this classification, the borrow soil does not require further treatment and can be placed directly as the vegetated cover layer over the consolidated stockpile footprint.
+## Overview
+Clean fill suitable as cover is soil material proposed for use as capping material over the BCS stockpile along the State Route 132 corridor in Stanislaus County, California. The material is planned to be sourced from the upper five feet of native soil along the Highway 132 alignment, extending eastward from the Carpenter Road area. The source parcel has been in State right-of-way since the 1960s, with prior agricultural use.
+
+The concept was formalized in correspondence between Caltrans and DTSC in February 2020, when Geocon Consultants, acting as Caltrans's consultant, submitted a sampling plan to characterize the proposed borrow area and demonstrate the material's suitability for use as clean fill cover.
 
 ## Site record
+On February 4, 2020, Caltrans Engineering Geologist Richard C. Stewart forwarded Geocon's proposed clean fill source sampling plan to DTSC's Dean Wright and Perry Myers, and to Steven Meeks of the Waterboards. The transmittal included an exhibit showing proposed boring locations and test boring logs from geotechnical work performed at the Carpenter Road overcrossing in 2017.
 
-- **Approval document**: Borrow Area Results Tech Memo Approval, March 15, 2022, issued by DTSC (California Department of Toxic Substances Control).
-- **Variance documentation**: RDIP Variance Request #2 Acceptance E-Mail, April 10, 2022, confirming DTSC acceptance of the use of clean fill as cover material.
-- **Borrow area location**: Pit 1, located approximately 1.5 miles east of the main stockpile site (MW-5 area). Total borrow volume approved: 12,500 cubic yards.
-- **Analytical results**: Composite sampling of 10 sample points across Pit 1. Key constituents and maximum detected concentrations (mg/kg):
-  - Barium: 760 mg/kg
-  - Chromium (total): 210 mg/kg
-  - Lead: 45 mg/kg
-  - Arsenic: 18 mg/kg
-- **Applicable thresholds**: DTSC soil screening levels for residential land use (EPA RSLs, 2021). All constituents below the respective thresholds. Barium at 760 mg/kg is below the DTSC ESL of 1,500 mg/kg. Chromium at 210 mg/kg below the threshold of 500 mg/kg for total chromium. No exceedances.
-- **Verification sampling**: After borrow soil placement (Phase 2, Q4 2022), six verification samples of the cover layer (0–1 ft depth) showed concentrations consistent with borrow area baseline – no statistically significant increase in metal levels. Results submitted in the Cover Verification Report, January 2023.
-- **Volume used**: Actual cover placement used 11,800 cubic yards of clean fill, covering an area of 2.3 acres (stockpile footprint).
+According to Geocon's John Juhrend, PE, CEG, the contractor plans to excavate the upper five feet of soil along the Highway 132 alignment from Carpenter Road extending eastward. This material is intended specifically as clean fill cover for the BCS stockpile.
+
+Geocon reviewed the Blackburn 2014 ISA (Initial Site Assessment) and the Rincon 2018 Phase II ESA (Environmental Site Assessment) for information on potential contaminant sources in the vicinity. They reported that no high-risk documented contamination releases were found in the immediate vicinity of the proposed clean fill source area. Testing of residential backyards by Rincon adjacent to and west of Carpenter Road indicated pesticides and metals at concentrations less than applicable regulatory screening levels. However, these backyard results are from a separate location — not the proposed borrow area itself.
+
+The sampling plan proposed 12 five-foot-deep borings in the clean import fill source area, with six depth-discrete four-point composite samples to be analyzed as follows:
+
+- **0–2 feet depth**: organochlorine pesticides (OCPs) and heavy metals (3 composite samples)
+- **3–5 feet depth**: heavy metals only (3 composite samples)
+
+Geocon tentatively scheduled drilling for February 11, 2020, with a 48-hour analytical turnaround available if needed. The test boring logs from 2017 at the Carpenter Road overcrossing were included to document that material at that location is composed of native soil.
+
+No analytical results from the 2020 sampling are documented in the available source material. The sampling plan remained subject to DTSC approval at the time of the February 4, 2020 correspondence, with Geocon noting they would proceed with field work pending contract authorization, USA utility notification, and DTSC sampling plan approval.
 
 ## Regulatory status
+The proposed use of this material as clean fill cover requires DTSC approval of the sampling plan. As of February 4, 2020, Caltrans was requesting "quick review and acceptance" from DTSC. The Waterboards (Central Valley Regional Water Quality Control Board) were also copied on the submittal.
 
-- **Applicable standard**: Clean fill designation under DTSC’s Remedial Design Implementation Plan (RDIP) for the Modesto Soil Stockpiles project. The acceptance e-mail confirmed that the borrow soil meets the “suitable for unrestricted use” criteria defined in the RDIP (Table 4‑2).
-- **Agencies**: DTSC (lead oversight), Caltrans (responsible party), with concurrence from the Central Valley Regional Water Quality Control Board (via the March 2022 tech memo).
-- **Compliance**: The project is currently in compliance with the cover placement conditions. No further soil characterization or treatment is required for the cover layer. The final cover system has been certified as complete per the April 2023 construction completion report.
+No screening levels, action levels, or acceptance criteria specific to the clean fill cover material are stated in the available source documents. The reference point for acceptability appears to be the negative findings from the Blackburn 2014 ISA and Rincon 2018 Phase II ESA reviews — specifically, the absence of high-risk documented contamination releases in the immediate vicinity and pesticide/metals concentrations below regulatory screening levels in adjacent residential backyards.
 
 ## Open items
-
-No unresolved issues identified in the sources. The RDIP variance acceptance e-mail contained no conditions beyond standard documentation (submission of verification results). The verification report was accepted by DTSC in January 2023. Future monitoring of cover integrity (e.g., subsidence, erosion) is part of the long-term O&M plan, but no regulatory open items remain for the clean fill designation itself.
+- DTSC approval of the clean fill source sampling plan was pending as of February 4, 2020; no approval or conditional acceptance is documented in the available sources.
+- Analytical results from the proposed 12 borings and 6 composite samples have not been documented.
+- Contract authorization for field work was pending (with Dokken or City, per Geocon's note).
+- Geocon's John Juhrend noted he would be out of office February 5–15, 2020, which may have affected timing of field execution.
 
 ## See also
-
-- Soil Stockpile Remediation – Modesto SR 132
-- Cover Design and Placement
-- Borrow Area Pit 1 Characterization
-- RDIP Variance Request #2
+- [[barium-containing-soil]]
+- [[borrow-area-sampling-plan]]
+- [[caltrans]]
+- [[carpenter-road-area]]
+- [[clean-fill-capping]]
+- geocon-consultants
+- [[sr-132-corridor]]

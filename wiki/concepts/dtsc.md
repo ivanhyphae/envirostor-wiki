@@ -1,45 +1,73 @@
 ---
 concept: dtsc
 entity_type: concept
-aliases: ["Department of Toxic Substances Control"]
-sources: ["All documents"]
-confidence: medium
-created_at: 2026-07-01T04:19:50Z
+aliases: ["Department of Toxic Substances Control", "DTSC"]
+sources: ["wiki/sources/11 29 2012 Caltrans GND Water Monitoring Rpts/11 29 2012 Caltrans GND Water Monitoring Rpts.md", "wiki/sources/Borrow Area Sampling Plan Approval E-Mail/Borrow Area Sampling Plan Approval E-Mail.md", "wiki/sources/Caltrans Ramp Clarification Letter dated 8.24.12 /Caltrans Ramp Clarification Letter dated 8.24.12 .md"]
+confidence: high
+created_at: 2026-07-23T14:36:17Z
 ---
+
+# DTSC
 
 ## Overview
 
-The California Department of Toxic Substances Control (DTSC) is the lead regulatory agency overseeing the remediation of the Caltrans Modesto Soil Stockpiles site along State Route 132 in Stanislaus County. In this project, DTSC serves as the implementing agency under the California Environmental Quality Act (CEQA) and the authority establishing cleanup standards, approval conditions, and compliance milestones for the removal and disposal of impacted soil stockpiles generated during highway construction.
+The Department of Toxic Substances Control (DTSC) is the lead state regulatory agency providing oversight for assessment and cleanup activities at the Caltrans Modesto Soil Stockpiles site, located along State Route (SR) 99 and SR 132 in Stanislaus County, California. DTSC acts in consultation with the central-valley-rwqcb|Regional Water Quality Control Board, Central Valley Region. The agency's involvement in the project is documented through at least three distinct phases: review and concurrence on groundwater monitoring reports (2012), concurrence that an interim-remedial-action-workplan-unnecessary|Interim Remedial Action Workplan was unnecessary for the Kansas Avenue off-ramp project (2012), and approval of a borrow-area-sampling-plan|borrow area sampling plan for backfill material (2020).
 
-DTSC’s role includes reviewing and approving the Remedial Action Plan (RAP), issuing a Remedial Action Order or Consent Order, evaluating site characterization data (soil and groundwater), setting risk-based screening levels, and certifying final remedy completion. The agency also coordinates with the Central Valley Regional Water Quality Control Board (RWQCB) where groundwater impacts intersect with state drinking water standards.
+Key DTSC personnel appearing in the project record include Randy S. Adams, C.E.G., Senior Engineering Geologist in the Brownfields and Environmental Restoration Program; Dean Wright ([[dean-wright]]); and Perry Myers. DTSC's Sacramento office at 8800 Cal Center Drive is the address of record for correspondence.
 
-## Site record (from project documents; specific values, dates, and document names are illustrative – see actual case file)
+## Site record
 
-- **Document: Remedial Investigation Report (RIR), dated March 202 rent? 2020?** – Identified arsenic and barium exceedances in stockpiles (e.g., barium 760 mg/kg, arsenic 45 mg/kg) relative to DTSC's California Human Health Screening Levels (CHHSLs) for industrial/commercial land use.
-- **Document: Risk Assessment (RA), July 2021** – DTSC approved a site-specific cleanup goal for barium of 650 mg/kg (industrial) and for arsenic of 30 mg/kg (industrial), based on a 1E-5 cancer risk and noncancer hazard index of 1.0.
-- **Document: Remedial Action Plan (RAP), March 2022** – DTSC issued a conditional approval for off-site disposal of ~15,000 cubic yards of impacted soil to a Class II landfill. DTSC required confirmation sampling at 1 sample per 500 cubic yards with results below CHHSLs.
-- **Verification results (October 2022)** – Post-excavation composite samples showed barium concentrations of 410–580 mg/kg (below 650 mg/kg) and arsenic 22–28 mg/kg (below 30 mg/kg). DTSC accepted these results in a letter dated November 15, 2022 (DTSC File Letter 2022-145).
-- **Groundwater monitoring** – Two monitoring wells (MW1, MW2) downgradient of stockpile areas detected arsenic at 12 µg/L (exceeds MCL of 10 µg/L) and barium at 450 µg/L (below MCL of 1,000 µg/L). DTSC required quarterly monitoring after stockpile removal; two rounds (Q1 2023, Q2 2023) show arsenic declining to 8 µg/L.
-- **Volume removed** – 14,320 cubic yards shipped to Waste Management’s Kettleman Hills Landfill between May and September 2022.
+### Groundwater monitoring oversight (2012)
+
+On November 29, 2012, DTSC issued a letter to Richard Stewart, P.G. of caltrans|Caltrans documenting the agency's review of three groundwater monitoring reports prepared by Geocon Consultants for the Modesto Soil Stockpiles site:
+
+- **"Groundwater Monitoring Report – May 2012, Modesto Soil Stockpiles, State Route (SR) 99 and 132, Stanislaus County, California"**
+- **"Additional Well Installation and Groundwater Monitoring Report – June 2012, Modesto Soil Stockpiles, SR 99 and 132, Stanislaus County, California"**
+- **"Groundwater Monitoring Report – July 2012, Modesto Soil Stockpiles, SR 99 and 132, Stanislaus County, California"**
+
+All three reports were dated November 2012 and presented analytical results from groundwater monitoring well sampling conducted in May, June, and July 2012, respectively.
+
+DTSC's letter confirms the agency's understanding of the site history: the soil stockpiles consist of excess native soils and pond tailings generated when Caltrans constructed a segment of SR 99 north of Kansas Avenue in the early 1960s. The excavation traversed a portion of a 4.3-acre parcel purchased from Food Machinery and Chemical Corporation (FMC), where an evaporation pond was located in the southernmost corner. DTSC identified the primary chemicals of concern as barium, lead, and strontium.
+
+The June 2012 report also addressed the installation of two monitoring wells: **MW-9**, located south of Kansas Avenue and west of SR 99, and **MW-10**, located south of Kansas Avenue and east of SR 99.
+
+DTSC formally concurred with the three groundwater monitoring reports and requested that future groundwater monitoring reports be completed as groundwater data becomes available. This request establishes an ongoing reporting obligation for caltrans|Caltrans.
+
+### Interim Removal Action Workplan determination (2012)
+
+DTSC was a recipient of Caltrans' August 24, 2012 clarification letter regarding the kansas-avenue-off-ramp|Kansas Avenue northbound off-ramp safety improvements. The letter, addressed to Steven Becker, P.G. (Chief, Site Evaluation and Remediation Unit) and Steven W. Meeks, P.E. of the central-valley-rwqcb|Regional Water Quality Control Board, was routed to Randy Adams, CEG within DTSC's Brownfields and Environmental Restoration Program.
+
+Caltrans' position, communicated to DTSC, was that additional investigation results demonstrated that completion and implementation of an Interim Removal Action Workplan was **not needed** for the ramp project. The letter detailed that approximately 2,800 cubic yards of the estimated 6,000 cubic yards total excavation would come from Stockpile No. 3, and that none of the soil samples in that area contained total metal concentrations at or above California hazardous waste Total Threshold Limit Concentration (TTLC) levels. The material was determined not to be classified as hazardous waste based on Waste Extraction Test results falling below Soluble Threshold Limit Concentration (STLC) levels. The record does not contain a separate DTSC response letter to this submittal, but the letter reflects DTSC's role as a reviewing agency for remedial action determinations at the site.
+
+### Borrow area sampling plan review (2020)
+
+On February 13, 2020, Dean Wright of DTSC provided the agency's comment on a backfill sampling plan via email to Richard Stewart and jennifer-lugo|Jennifer Lugo of Caltrans. DTSC's sole request was to **composite 3 samples instead of 4**. Wright noted that Perry Myers, also of DTSC, had no additional comments on the plan. This communication was part of a broader coordination effort involving a February 13, 2020 conference call with Bay Cities (a contractor), where DTSC's participation was requested to discuss the status of agency notifications and the clean fill sampling plan.
+
+Wright also referenced attempting to locate an electronic copy of a burial location report that could serve as an example for Bay Cities, noting that he could not find it in DTSC's EnviroStor database or in electronic files left by Randy Adams.
 
 ## Regulatory status
 
-- **Applicable standards**: 
-  - Soil: DTSC CHHSLs (industrial) for barium (650 mg/kg) and arsenic (30 mg/kg) – approved as site-specific cleanup goals.
-  - Groundwater: California MCLs for arsenic (10 µg/L) and barium (1,000 µg/L); background groundwater arsenic is 8.5 µg/L (site characterization, 2020).
-- **Agencies**: DTSC (lead), RWQCB (concurrence on groundwater), Caltrans (responsible party).
-- **Current compliance**: Soil removal completed and verified. Groundwater arsenic is marginally above MCL but trending downward. DTSC has issued a draft "No Further Action" (NFA) letter for soil only, with condition of continued groundwater monitoring for one year post-removal (through Q4 2023). As of last source document (December 2023), DTSC was awaiting final monitoring report.
+DTSC functions as the lead oversight agency under the Brownfields and Environmental Restoration Program for the Modesto Soil Stockpiles site. The agency reviews and concurs with investigation documents, remedial action determinations, and sampling plans submitted by caltrans|Caltrans. DTSC operates in consultation with the central-valley-rwqcb|Regional Water Quality Control Board, Central Valley Region on this project.
+
+As of the most recent documented action in the provided sources, DTSC had:
+- Concurred with 2012 groundwater monitoring reports
+- Received notification that hazardous waste thresholds were not exceeded in the Kansas Avenue off-ramp excavation area (2012)
+- Approved the borrow area sampling plan with a modification to composite sampling protocol (2020)
+
+No enforcement actions, orders, or notices of violation are documented in the provided sources.
 
 ## Open items
 
-- **Groundwater confirmation**: DTSC required two consecutive quarterly sampling events with arsenic below MCL to close the groundwater component. The first quarterly (Q1 2023) showed 8.9 µg/L; the second (Q2 2023) showed 8.2 µg/L. The third quarter (Q3 2023) result is pending in the case file (as of last received report). If results remain below MCL, DTSC is expected to issue an NFA letter for groundwater by Q2 2024.
-- **Off-site disposal documentation**: DTSC requested copies of landfill weight tickets and confirmation of proper classification (nonhazardous) for a portion of the stockpile (initial data suggested lead at 48 mg/kg, below U.S. EPA TCLP, but DTSC required analytical verification). That documentation was submitted in November 2022 and is under review.
-- **Final Remedial Action Completion Report**: Caltrans submitted a draft in November 2023; DTSC review comments are outstanding.
+- Future groundwater monitoring reports are required to be submitted to DTSC as data becomes available, per the November 29, 2012 concurrence letter. The sources do not indicate whether this reporting obligation has been fully satisfied.
+- The February 2020 email exchange indicates DTSC was expecting a burial location report or similar documentation; Dean Wright was unable to locate this in DTSC records at that time.
 
 ## See also
 
-- Caltrans Modesto Soil Stockpiles (SR 132)  
-- Central Valley Regional Water Quality Control Board  
-- Remedial Action Plan (RAP) – Modesto Stockpiles  
-- California Human Health Screening Levels (CHHSLs)  
-- Arsenic (groundwater – MW1/MW2)
+- [[caltrans]]
+- [[borrow-area-sampling-plan]]
+- [[central-valley-rwqcb]]
+- [[dean-wright]]
+- interim-remedial-action-workplan-unnecessary
+- [[jennifer-lugo]]
+- [[kansas-avenue-off-ramp]]
+- [[marcus-simpson]]

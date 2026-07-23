@@ -2,45 +2,50 @@
 concept: mw-5
 entity_type: concept
 aliases: ["MW-5"]
-sources: ["S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.md", "S2350-01-02 Updated Statistical Evaluation Report_2.24.md"]
-confidence: low
-created_at: 2026-07-01T04:15:29Z
+sources: ["wiki/sources/S9525-01-44C Modesto Stockpiles GW September 2013 1013/S9525-01-44C Modesto Stockpiles GW September 2013 1013.md"]
+confidence: high
+created_at: 2026-07-23T15:07:00Z
 ---
 
+# MW-5
+
 ## Overview
+MW-5 is one of ten groundwater monitoring wells installed at the Caltrans Modesto Soil Stockpiles site in Stanislaus County, California. It was installed in 2006 as part of the initial monitoring well network (MW-1 through MW-8) located adjacent to the three stockpiles, as shown on Figure 2 of the September 2013 groundwater monitoring report (Geocon Consultants, Inc., October 2013, Project No. S9525-01-44C). MW-5 is a well where nitrate and total dissolved solids (TDS) have been reported at concentrations exceeding applicable water quality thresholds.
 
-**MW-5** is a groundwater monitoring well installed as part of the Caltrans Modesto Soil Stockpiles site investigation on State Route 132 (SR 132) in Stanislaus County, California. The well is co-located with the stockpile areas and was installed to evaluate groundwater quality beneath and downgradient of soil stockpiles generated during highway construction and maintenance. MW-5 is critical for assessing whether contaminants from the stockpiles have impacted the shallow aquifer, particularly regarding metals and volatile organic compounds (VOCs).
+## Site record
+During the [[september-2013-sampling-event]], depth to groundwater at MW-5 was measured at 42.05 feet below top of casing (TOC), making it the deepest groundwater measurement among the ten monitoring wells in that event (Table 1). The groundwater elevation data from September 2013 indicated a flow direction toward the southeast at an average gradient of 0.0007.
 
-## Site Record
+Nitrate as nitrogen was reported at a concentration of **36 mg/l** in the MW-5 sample collected in September 2013, exceeding the primary Maximum Contaminant Level (MCL) of 10 mg/l. This was the highest nitrate concentration reported across the ten wells during that event.
 
-- **Installation Date:** MW-5 was installed during the "Modesto Stockpiles Well Install" phase, documented in the June 2012 Groundwater Report (Source: S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.md).
-- **Location:** The well is situated in the vicinity of the SR 132 stockpile storage area, Stanislaus County. Specific coordinates are not provided in the sources.
-- **Monitoring Depth:** Shallow groundwater zone; screened interval not specified in sources.
-- **Analytes Detected:** Groundwater samples from MW-5 have detected **barium** at concentrations up to **760 mg/kg** (in soil, per source context) and **1,000 µg/L** (in groundwater). The 1,000 µg/L value is noted as the federal Maximum Contaminant Level (MCL) for barium. Other metals (e.g., arsenic, lead, chromium) and VOCs (e.g., tetrachloroethene, trichloroethene) may be present, but specific concentrations for MW-5 are not documented in the provided sources.
-- **Exceedances:** Barium groundwater levels were reported at the MCL (1,000 µg/L) at MW-5, as per the Statistical Evaluation Report. No exceedances above MCLs for other analytes were cited in the sources.
-- **Trends Over Time:** The Updated Statistical Evaluation Report (S2350-01-02) evaluated groundwater data from 2012 to 2024. For MW-5, barium showed **stable to decreasing trends**, with no statistically significant upward trend. Other parameters were not analyzed for this well.
-- **Verification Results:** No independent verification or confirmation sampling data for MW-5 are provided in the sources.
-- **Phase Association:** MW-5 is part of the ongoing **Phase 1 (2019–2020)** investigation, which covered initial stockpile characterization and groundwater monitoring. Phase 2 activities are referenced but not detailed.
+TDS was reported at a concentration of **750 mg/l** in MW-5, exceeding the secondary MCL of 500 mg/l. This also represented the highest TDS concentration among the ten wells in September 2013.
 
-## Regulatory Status
+Sulfide was reported at a concentration of **0.012 mg/l** in the MW-5 sample, as documented in the laboratory report (Lab ID: 1302710-02, reported 09/13/2013) under total sulfide analysis.
 
-- **Applicable Standards:** Barium MCL = **1,000 µg/L** (federal Safe Drinking Water Act, enforced by DTSC and California RWQCB). Other analytes subject to California MCLs or Regional Water Board screening levels.
-- **Enforcing Agencies:** California Department of Toxic Substances Control (DTSC) has regulatory oversight for the soil stockpile cleanup. The Central Valley Regional Water Quality Control Board (RWQCB) governs groundwater protection.
-- **Compliance Status:** Based on the June 2012 groundwater data, MW-5 showed barium at the MCL threshold but not an exceedance. The Statistical Evaluation Report notes that no active remediation triggers were met for MW-5 as of the 2024 evaluation. However, the well remains in the monitoring network.
+The full dissolved metals analytical results for MW-5 from September 2013 were reported via EPA Method 6020 (ICP-MS) and EPA Method 7470A (cold vapor AA for mercury). None of the reported dissolved metals concentrations exceeded their respective numeric water quality threshold values.
 
-## Open Items
+Geocon's comparison of analytical results across nine recent groundwater sampling events (March, May, June, July, September, and November 2012; January, March, and June 2013) indicates that MW-5 has historically reported nitrate and TDS concentrations at levels of concern. Nitrate as nitrogen had been reported at concentrations exceeding the primary MCL of 10 mg/l in MW-5 across multiple events. TDS had been reported at concentrations exceeding the secondary MCL of 500 mg/l in MW-5 over the same period.
 
-- **Pending Deliverables:** A comprehensive **Site Conceptual Model (SCM)** update incorporating MW-5 data has not been finalized, per the Statistical Evaluation Report’s recommendations.
-- **Contested Claims:** No contestation of MW-5 data quality or representativeness is documented in the sources.
-- **Required Future Actions:** 
-  - Annual groundwater monitoring at MW-5 for at least two more rounds to confirm trend stability.
-  - Evaluation of potential future impacts if stockpile removal or cap maintenance activities occur.
-  - DTSC may require additional sampling for emerging contaminants (e.g., PFAS) if future regulatory thresholds change, but this is not specified in current documents.
+On the Stiff diagrams for the September 2013 event, MW-5 was classified as **sodium-dominant** (filled in yellow on the corresponding diagram, Appendix C). This classification differs from historical sampling events: MW-5 was described as **consistently calcium-dominant** during previous sampling events. The September 2013 report states that this shift "may be indicative of a mixing of different water types at this location" (Conclusions and Recommendations).
+
+## Regulatory status
+The September 2013 monitoring results for MW-5 are evaluated against the following water quality threshold values cited in the Geocon report:
+- **Primary MCLs** promulgated by the California Department of Public Health (CDPH) — nitrate as nitrogen (10 mg/l) exceeded
+- **Secondary MCLs** promulgated by the CDPH — TDS (500 mg/l) exceeded
+
+No exceedances of dissolved metals thresholds were reported for MW-5.
+
+The report notes that MW-5 is among the wells (along with MW-1, MW-4, MW-6, and MW-10) where both the primary MCL for nitrate and the secondary MCL for TDS were exceeded. The report specifically notes that MW-1 is an upgradient monitoring well, where nitrate and TDS exceedances "may be indicative of natural background nitrate and TDS concentrations for the shallow groundwater in the vicinity of the Site." MW-5 is not an upgradient well and no such background characterization was applied to it.
+
+DTSC representatives have observed sample collection procedures at the site, including during the March 2012 sampling of MW-1 through MW-8, and collected split samples submitted to an alternate laboratory, with no notable differences in reported concentrations.
+
+## Open items
+Groundwater monitoring was being performed quarterly at the time of the September 2013 report, with the next event scheduled for **December 2013**. The observed shift in MW-5 from calcium-dominant to sodium-dominant ionic composition was flagged for continued monitoring, as it may indicate mixing of different water types at this location. The September 2013 report does not document any formal regulatory action, enforcement, or remedial decision tied specifically to MW-5's exceedances.
 
 ## See also
-
-- SR 132 Modesto Soil Stockpiles (site-wide overview)
-- Barium contamination (contaminant background)
-- Phase 1 Groundwater Investigation (2019–2020)
-- Central Valley Regional Water Quality Control Board
-- DTSC oversight
+- [[mw-1]]
+- [[mw-2]]
+- [[mw-4]]
+- [[mw-6]]
+- [[mw-7]]
+- [[mw-9]]
+- [[september-2013-sampling-event]]

@@ -1,41 +1,69 @@
 ---
 concept: stockpile-3-excavation
 entity_type: concept
-aliases: ["Stockpile 3 Excavation"]
-sources: ["wiki/pdf2md/S9650-06-03 Modesto Ramp Ex Mon Plan -no appx-0612/S9650-06-03 Modesto Ramp Ex Mon Plan -no appx-0612.md"]
+aliases: ["Stockpile 3 excavation"]
+sources: ["wiki/sources/S9650-06-03 Modesto Ramp Ex Mon Plan -no appx-0612/S9650-06-03 Modesto Ramp Ex Mon Plan -no appx-0612.md", "wiki/sources/Caltrans Ramp Clarification Letter dated 8.24.12 /Caltrans Ramp Clarification Letter dated 8.24.12 .md"]
 confidence: high
-created_at: 2026-07-01T15:33:03Z
+created_at: 2026-07-23T14:42:20Z
 ---
 
-## Stockpile 3 Excavation
+# Stockpile 3 Excavation
 
-### Overview
-Stockpile 3 is one of three fill embankments (Stockpiles 1–3, totaling approximately 121,000 cubic yards) located within Caltrans right-of-way west and east of State Route 99 (SR 99), immediately south of the Kansas Avenue interchange in Modesto, Stanislaus County, California. The stockpiles were placed in the early 1960s as part of a planned future highway alignment; the fill materials were partially generated from excavations of former evaporation ponds that contained elevated metals (notably barium) and other chemicals of potential concern (COPCs).
+## Overview
+Stockpile 3 Excavation refers to the planned removal of fill material from the northern portion of Stockpile 3 during the Modesto Ramp Rehabilitation Project (State Route 99 Kansas Avenue Northbound Off-Ramp, Modesto, Stanislaus County, California). Stockpile 3 is one of three fill embankments totaling approximately 121,000 cubic yards placed within [[caltrans]] right-of-way in the early 1960s, partially sourced from excavations in evaporation ponds containing elevated metals, notably [[barium]].
 
-The **Stockpile 3 Excavation** refers specifically to removal of the northern portion of Stockpile 3 to allow construction of SR 99 Kansas Avenue northbound off-ramp traffic safety and widening improvements (Contract No. 06A1634, EA No. 10-0A671). Excavation was planned to occur during daytime off-ramp closures over approximately five working days. The excavated fill was to be disposed as non-hazardous waste at the Fink Road Sanitary Landfill in Crows Landing, Stanislaus County.
+The excavation was triggered by planned off-ramp traffic safety and widening improvements under Caltrans Contract No. 06A1634, EA No. 10-0A671. The monitoring plan was prepared by geocon-consultants and submitted June 13, 2012, with [[douglas-s-krause]] serving as Certified Industrial Hygienist. The excavation work was to be performed by Teichert.
 
-### Site Record
-The excavation and monitoring activities were guided by the **Stockpile 3 Excavation Monitoring Plan** (prepared by Geocon Consultants, Inc., June 13, 2012, Project No. S9650-06-03). Key documented facts from the plan:
+## Site record
 
-- **Volumes**: Approximately 121,000 cubic yards of fill embankment across all three stockpiles; Stockpile 3 excavation scope was the northern portion.
-- **Contaminant of primary concern**: Barium, with lead also identified as a driver for air monitoring thresholds.
-- **Air monitoring trigger level**: A Fence Line Action Level of **4 mg/m³** total airborne dust (above upwind background) was calculated using the maximum total lead concentration of **190 mg/kg** (reported in analytical testing of soil samples collected April 16, 2012) and applying a safety factor of 0.5.
-- **Monitoring equipment**: MIE pDR-1200 real-time direct-reading particulate counters with PM-10 inlets and 5-micron polyvinyl chloride (PVC) pre-weighed filters. Filters analyzed for inorganic lead, barium compounds, and total mass via NIOSH method 7300 (ICP-Mass Spectrometry) or equivalent, by Bureau Veritas North America, Inc. (AIHA IHLAP accredited).
-- **Perimeter monitoring plan**: One upwind (background) and two downwind sampling locations; monitoring over 8 hours or duration of excavation, whichever was shorter.
-- **Data collection**: Real-time instruments logged dust levels every 5 minutes; audible alarm set at upwind background total dust level. Hourly manual checks documented in daily logs.
-- **Analytical protocol**: First-day filters submitted under 24-hour turnaround. If inorganic lead remained below the ARB-OEHHA unit risk of **0.0015 mg/m³ (1.5 µg/m³)** and the total dust action level was not exceeded, all subsequent filters were held until completion of excavation and then analyzed within 5–7 business days.
-- **Oversight**: A California Professional Geologist (PG) or field geologist/engineer under direct PG supervision provided daily field logs documenting personnel, activities, visible dust observations, excavation descriptions, quantities removed, and confirmation of excavation limits (i.e., native soil conditions). Soil samples and chain-of-custody documentation were collected as needed.
-- **Completion Report**: A draft Excavation Monitoring Report was to be submitted to Caltrans within approximately 30 days of completing excavation monitoring, containing observed conditions, air monitoring results, observations/conclusions, site photographs, and disposal manifests.
+### Excavation scope and volumes
+An estimated total of 6,000 cubic yards of material would be excavated for the widened roadbed, drainage, and retaining wall. Of that total, approximately 2,800 cubic yards would come from the northwestern end of Stockpile No. 3. The remaining excavated material consisted of native soil outside the Stockpile 3 footprint.
 
-### Regulatory Status
-The California Department of Transportation (Caltrans), in cooperation with the **California Department of Toxic Substances Control (DTSC)** and with involvement from the **Central Valley Regional Water Quality Control Board (RWQCB)**, entered into an Interagency Agreement addressing the stockpile materials. The excavated Stockpile 3 fill was determined to be **non-hazardous** based on previous site investigations (barium concentrations were not classified as hazardous waste as of the plan date). Air monitoring thresholds were established to protect off-site receptors and to verify effectiveness of dust control measures (e.g., wet methods) during excavation. The Fence Line Action Level of 4 mg/m³ (total dust) was referenced to the ARB-OEHHA unit risk for lead; compliance with this action level and background comparison was required throughout excavation.
+The excavation of Stockpile 3 fill was scheduled to occur during daytime off-ramp closures over an estimated period of five working days. Excavated Stockpile 3 fill materials were designated for offsite transport and disposal as non-hazardous waste to the Fink Road Sanitary Landfill in Crows Landing, Stanislaus County, California. Native soil materials excavated from outside the Stockpile 3 footprint were deemed suitable for reuse as structural backfill or for offsite reuse/disposal as non-hazardous soil to an accepting facility.
 
-### Open Items
-- **Completion Report**: The draft report was due approximately 30 days after excavation and monitoring completion. Its status (approved, pending, or revised) is not documented in the source material. Any conditions from DTSC or RWQCB regarding verification of excavation limits or residual contamination in underlying native soil were not specified in the plan.
-- **Ongoing liability**: The plan notes that underlying native soil excavations “will not require special soil handling, excavation or air monitoring.” This determination may be subject to regulatory review if unexpected contamination is encountered.
+### Analytical results
+Based on site investigation data transmitted by Geocon on April 24, 2012 (document titled "Transmittal of Site Investigation Data, Modesto Ramp Rehabilitation Project SR 99 - Kansas Avenue Northbound Off-Ramp, Modesto California"), the following findings apply specifically to Stockpile No. 3 excavation area:
 
-### See Also
-- Stockpile 1 and Stockpile 2 (other stockpiles covered under the same Interagency Agreement)
-- [[modesto-ramp-rehabilitation-project]] (the parent construction project for the off-ramp improvements)
-- Fink Road Sanitary Landfill (disposal site for excavated materials)
-- Barium in Caltrans Stockpiles (overview of barium as a COPC across the three stockpiles)
+No soil samples in the Stockpile No. 3 excavation area contained total metal concentrations at or above the California hazardous waste Total Threshold Limit Concentration (TTLC).
+
+With the exception of arsenic, no metals were reported at concentrations at or above [[commercial-industrial-screening-level]]. Arsenic concentrations in samples ranged from less than 1.0 mg/kg to 3.2 mg/kg, which falls within the range of site-specific background levels.
+
+The 95% upper confidence limit concentrations for barium, strontium, and lead in the Stockpile No. 3 excavation area were below both residential and commercial-industrial screening levels (see [[dtsc-residential-screening-level]] and [[commercial-industrial-screening-level]]).
+
+One soil sample had a barium concentration higher than 10 times the Soluble Threshold Limit Concentration (STLC). Five soil samples had lead concentrations at or higher than 10 times the STLC. However, the calculated 95% Upper Confidence Level for both barium and lead was well below 10 times the respective STLC. These samples underwent further analysis by Advanced Technology Laboratories for solubility levels using the Waste Extraction Test (WET). All results fell below the STLC, confirming the material was not classified as hazardous waste.
+
+### Air monitoring design
+The Stockpile 3 Excavation Monitoring Plan established a Fence Line Action Level for total airborne dust of 4 mg/m³ above upwind background levels. This action level was calculated using the maximum total lead concentration of approximately 190 mg/kg reported in soil samples collected on April 16, 2012, and included a safety factor of 0.5.
+
+Perimeter air monitoring was to include one upwind (background) sampling location and two downwind (offsite) sampling locations. Air monitoring would be performed using MIE pDR-1200 real-time direct-reading particulate counters with PM-10 inlets and active sampling attachments using 37 mm filter cassettes with personal sampling pumps calibrated at 2.0 to 3.0 liters per minute. Pre-weighed 5-micron polyvinyl chloride filters were specified for analysis of inorganic lead and barium compounds, plus total mass (gravimetric).
+
+Analytical work was assigned to Bureau Veritas North America, Inc., accredited by the American Industrial Hygiene Association Industrial Hygiene Laboratory Accreditation Program, using NIOSH 7300 ICP-Mass Spectrometry or equivalent method.
+
+Pre-weighed filters collected on the first day of monitoring were to be submitted for 24-hour turnaround analysis for inorganic lead and barium. If reported inorganic lead levels remained below the ARB-OEHHA unit risk for lead of 1.5 µg/m³ (0.0015 mg/m³) and the Fence Line Action Level of 4 mg/m³ was not exceeded, all subsequent filter samples would be held until excavation operations were complete, then submitted for routine 5–7 business day turnaround.
+
+### Oversight and documentation
+A Geocon California Professional Geologist or a field geologist/engineer under direct PG supervision was to oversee all Stockpile 3 excavation activities. The field representative would determine when planned construction excavation limits within Stockpile 3 fill had been completed and confirm when native soil conditions were reached. Daily field logs were required to document personnel on site, activities performed, air monitoring locations, visible dust observations, active soil excavation descriptions, quantities of materials excavated, and confirmation of excavation limits.
+
+### Completion reporting
+A draft Excavation Monitoring Report (Completion Report) was required approximately 30 days following the completion of Stockpile 3 excavation monitoring activities. Contents were to include observed site conditions, excavation and air monitoring results, findings and conclusions, site photographs, and stockpile disposal manifests. Finalization was contingent on [[caltrans]] comments.
+
+## Regulatory status
+
+### Agency coordination
+[[caltrans]] and [[dtsc]], in cooperation with the [[central-valley-rwqcb]], entered into an Interagency Agreement to address the stockpiles. On August 24, 2012, Caltrans District 10 issued a clarification letter to [[dtsc]] (Mr. Steven Becker; attn: Mr. Randy Adams, CEG, Site Evaluation and Remediation Unit, Brownfields and Environmental Restoration Program) and the [[central-valley-rwqcb]] (Mr. Steven W. Meeks, P.E., Senior Water Resources Control Engineer) stating that an Interim Remedial (Removal) Action Workplan was not needed for the ramp project based on additional investigation results.
+
+### Waste classification
+The material in Stockpile No. 3 was classified as non-hazardous waste. No total metal concentrations reached or exceeded TTLC. WET results for the samples triggering STLC screening criteria (one for barium, five for lead) fell below STLC thresholds, confirming the material was not a hazardous waste. Disposal was directed to Fink Road Sanitary Landfill in Crows Landing, Stanislaus County.
+
+## Open items
+The sources do not contain the final Excavation Monitoring Report (Completion Report) or confirm that excavation was completed as planned. The August 24, 2012 clarification letter postdates the monitoring plan; confirmation of completed excavation results is not documented in the provided material.
+
+## See also
+- [[barium]]
+- [[caltrans]]
+- [[central-valley-rwqcb]]
+- [[commercial-industrial-screening-level]]
+- [[douglas-s-krause]]
+- [[dtsc]]
+- [[dtsc-residential-screening-level]]
+- geocon-consultants

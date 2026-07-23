@@ -1,40 +1,71 @@
 ---
 concept: nitrate
 entity_type: concept
-aliases: []
-sources: ["S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.md"]
+aliases: ["nitrate"]
+sources: ["wiki/sources/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814.md"]
 confidence: high
-created_at: 2026-07-01T04:15:08Z
+created_at: 2026-07-23T14:39:12Z
 ---
+
+# Nitrate
 
 ## Overview
 
-Nitrate (NO₃⁻) is a groundwater contaminant of concern at the Caltrans Modesto Soil Stockpiles site along SR 132 in Stanislaus County, California. Its presence in groundwater at the site is linked to legacy agricultural activities and potential mobilization from stockpiled soils. Nitrate monitoring is required to assess impacts to underlying aquifers and compliance with regulatory standards under the Remedial Action Plan (RAP) oversight.
+Nitrate (reported as nitrate as nitrogen) is a general mineral constituent monitored in shallow groundwater at the Caltrans Modesto Soil Stockpiles site in Stanislaus County, California. It is one of the few analytes that has repeatedly equaled or exceeded the California primary Maximum Contaminant Level (MCL) of 10 mg/L in multiple monitoring wells. Because elevated nitrate was detected in both upgradient and downgradient wells, the source record raises the question of whether some portion of the nitrate at the site represents natural background concentrations rather than a release from the stockpiles.
 
-## Site Record
+Nitrate is analyzed by EPA Test Method 300.0 (ion chromatography) through Advanced Technology Laboratories (ATL) under chain-of-custody protocol. It is included in the general minerals suite, along with chloride, sulfate, TDS, sulfide, total alkalinity, and the major cations, for groundwater geochemistry characterization and Stiff diagram construction.
 
-- **Documented concentrations**: The June 2012 Groundwater Report (S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112) provides baseline data. In monitoring well MW-5, nitrate levels were reported at **12 mg/L** as N during the June 2012 sampling event. Other wells (e.g., MW-3) showed nitrate at **8.5 mg/L** as N in the same period. These values exceed the California Maximum Contaminant Level (MCL) of **10 mg/L** as N for nitrate, but are below the MCL for nitrite (1 mg/L as N, not detected).
-- **Spatial distribution**: Highest concentrations were measured in downgradient wells (MW-5, MW-6) proximal to the southern stockpile areas, suggesting leaching from stockpiled soils. Upgradient wells (MW-1) had **2.1 mg/L** as N, consistent with regional background.
-- **Trends**: No repeated sampling data are available in the cited sources beyond June 2012. The absence of temporal trend analysis is noted in the project file.
-- **Verification results**: Post-remediation groundwater monitoring (if performed) is not documented in the provided sources.
+## Site record
 
-## Regulatory Status
+### Detection summary — June 2014 event
 
-- **Applicable standard**: California MCL for nitrate (as N) is **10 mg/L** under Title 22 of the California Code of Regulations, enforced by the State Water Resources Control Board and the Central Valley Regional Water Quality Control Board (CVRWQCB). At this site, DTSC (Department of Toxic Substances Control) is the lead agency under the California Environmental Quality Act (CEQA) and corrective action framework.
-- **Compliance status**: As of June 2012, monitoring well MW-5 exceeded the MCL (12 mg/L). DTSC required quarterly monitoring for nitrate until concentrations stabilize below the MCL, per the June 2012 Groundwater Report recommendations. No subsequent compliance documentation is cited in the sources.
-- **Enforcement**: CVRWQCB has issued a 13267 Order for the Modesto Stockpiles site (not detailed in sources), requiring nitrate monitoring as a condition of the RAP.
+In the June 2014 groundwater monitoring event (reported August 2014 by geocon-consultants), nitrate as nitrogen concentrations ranged from 2.6 mg/L at MW-3 to 29 mg/L at MW-5. Five of the ten monitoring wells equaled or exceeded the primary MCL of 10 mg/L:
 
-## Open Items
+- **MW-1:** 15 mg/L
+- **MW-5:** 29 mg/L
+- **MW-6:** concentration equal to or exceeding 10 mg/L (exact value not individually specified in the narrative beyond the range and exceedance statement)
+- **MW-9:** concentration equal to or exceeding 10 mg/L
+- **MW-10:** concentration equal to or exceeding 10 mg/L
 
-- **Quarterly monitoring data**: The June 2012 report recommended quarterly monitoring for nitrate, but no follow-up reports are available in the provided sources. It is unknown if DTSC approved cessation of monitoring or if exceedances continue.
-- **Source control**: The relationship between stockpile soil nitrate content (not measured in cited sources) and groundwater detections remains unquantified. A soil-nitrate correlation study was not performed.
-- **Verification of cleanup**: If soil remediation (e.g., excavation or capping) occurred, post-remediation groundwater data for nitrate have not been submitted or reviewed in this case file.
-- **MCL compliance timeline**: No date for achieving MCL compliance is set in the provided documentation.
+The analytical results for general minerals, including nitrate, are summarized on Table 3 of the [[june-2014-groundwater-monitoring-report]].
 
-## See Also
+### Upgradient detection and background question
 
-- MW-5 Modesto Stockpiles Monitoring Well
-- June 2012 Groundwater Report
-- [[remedial-action-plan]]
-- DTSC Corrective Action
-- Central Valley Regional Water Quality Control Board
+MW-1 is an upgradient monitoring well. The June 2014 report notes:
+
+> "MW-1 is an upgradient monitoring well; thus, the reported nitrate of 15 mg/l may be indicative of natural background nitrate concentrations for the shallow groundwater in the vicinity of the Site."
+
+This observation is significant because it suggests nitrate exceedances at the site may not be solely attributable to the stockpiled material, and a portion of the nitrate loading may reflect regional shallow groundwater quality.
+
+### Historical detections
+
+The report references that nitrate has been detected above the MCL in MW-1, MW-5, MW-6, and MW-10 across multiple earlier sampling events — specifically noted in the narrative summarizing the twelve groundwater sampling events from March 2012 through February 2014. The June 2014 results are consistent with this historical pattern.
+
+### General minerals context — Stiff diagrams
+
+Nitrate concentrations are used alongside the major cations and other anions to evaluate groundwater geochemistry. Stiff diagrams for June 2014 show bicarbonate-dominant water across all wells, with a split between calcium-dominant composition (MW-1, MW-2, MW-4, MW-7, MW-9, MW-10) and sodium-dominant composition (MW-3, MW-5, MW-6, MW-8). The report notes that MW-5 shifted from calcium-dominant to sodium-dominant in 2013, which may indicate mixing of different water types at that location. Nitrate as nitrogen and TDS are the two general minerals reported for each sample, alongside the constituents used to generate the Stiff diagrams.
+
+### Water quality threshold values applied
+
+The nitrate results are compared against:
+
+- Primary MCLs promulgated by the California Department of Public Health (CDPH) — nitrate MCL = 10 mg/L
+
+## Regulatory status
+
+Nitrate as nitrogen at concentrations at or above 10 mg/L in MW-1, MW-5, MW-6, MW-9, and MW-10 equaled or exceeded the California primary MCL during the June 2014 monitoring event. The [[june-2014-groundwater-monitoring-report]] notes this exceedance in its conclusions section but does not document any specific regulatory directive, enforcement action, or compliance schedule triggered by the nitrate exceedances. The site is subject to oversight by the California Department of Toxic Substances Control (DTSC) and the Central Valley Regional Water Quality Control Board (CVRWQCB), with groundwater monitoring performed quarterly.
+
+## Open items
+
+The report does not identify any open items specifically tied to nitrate, such as pending source investigations, additional delineation wells, or remedial requirements. The key unresolved question — whether upgradient nitrate at MW-1 represents natural background and, if so, how that affects the interpretation of downgradient exceedances — is flagged observationally but not formalized as a required follow-up action. Quarterly groundwater monitoring was scheduled to continue with the next event in September 2014.
+
+## See also
+
+- [[arsenic]]
+- [[barium]]
+- [[barium-below-mcl]]
+- [[caltrans]]
+- [[chromium]]
+- geocon-consultants
+- [[geotracker]]
+- [[june-2014-groundwater-monitoring-report]]

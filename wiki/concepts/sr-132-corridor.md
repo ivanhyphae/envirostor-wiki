@@ -1,30 +1,42 @@
 ---
 concept: sr-132-corridor
 entity_type: concept
-aliases: ["State Route 132", "SR 132"]
-sources: ["43A0310-04 A02 Executed Task Order-Caltrnas Modesto Soil Stockpiles.md"]
-confidence: low
-created_at: 2026-07-01T04:18:21Z
+aliases: ["SR 132", "Highway 132", "SR 132 corridor"]
+sources: ["wiki/sources/Borrow Area Sampling Plan/Borrow Area Sampling Plan.md"]
+confidence: high
+created_at: 2026-07-23T14:37:42Z
 ---
 
-## Overview
+# SR 132 Corridor
 
-The SR 132 Corridor is the geographic and administrative focus of the **Caltrans Modesto Soil Stockpiles** project, located along State Route 132 in Stanislaus County, California. This corridor contains multiple legacy soil stockpiles that were generated during prior Caltrans construction and maintenance activities. The project is documented in the executed task order **43A0310‑04 A02**, which defines the scope of investigation, remediation, or waste characterization for these stockpiles. The corridor serves as the operational boundary for all sampling, monitoring, and remedial actions under that task order.
+## Overview
+The SR 132 Corridor refers to the State Route 132 highway alignment in Stanislaus County, California, extending eastward from Carpenter Road. This portion of the corridor serves as the proposed source area for clean fill soil to be used as cover material for the [[barium-containing-soil]] stockpiles (BCS stockpiles) associated with the Caltrans Modesto Soil Stockpiles remediation project. The corridor right-of-way has been owned by the State of California since the 1960s; prior to state acquisition, the land was in agricultural use.
 
 ## Site record
+The contractor plans to excavate the upper five feet of soil along the SR 132 alignment, beginning at carpenter-road-area|Carpenter Road and extending eastward, for use as clean fill cover over the BCS stockpiles. The material at this location is comprised of native soil, as documented by geotechnical test borings completed at Carpenter Road in 2017. Geocon Consultants reviewed the Blackburn 2014 ISA and Rincon 2018 Phase II ESA for information regarding potential contaminant sources and found no high-risk documented contamination releases reported in the immediate vicinity of the proposed clean fill source area.
 
-The primary source document for the SR 132 Corridor is **43A0310‑04 A02 Executed Task Order‑Caltrans Modesto Soil Stockpiles.md**. This file is referenced as the project record but its full content was not provided in this summary. Consequently, no specific concentrations (e.g., barium, arsenic, lead, TPH), sampling dates (e.g., Phase 1 2019–2020), or spatial distribution details (e.g., stockpile locations at specific mileposts) are available here. The task order is known to have been executed (signed) and therefore represents an approved scope of work, but the individual numerical values, verification results, and volumes of stockpiled material cannot be cited from the available information.
+On February 4, 2020, Geocon Consultants, acting on behalf of Caltrans, submitted a proposed sampling plan to DTSC for characterization of the soil within the SR 132 Corridor source area. The plan, prepared by John Juhrend (PE, CEG) of Geocon, proposed 12 five-foot-deep borings with six depth-discrete four-point composite samples:
+
+- **0–2 feet**: organochlorine pesticides (OCPs) and heavy metals (3 composite samples)
+- **3–5 feet**: heavy metals (3 composite samples)
+
+Drilling was tentatively scheduled for February 11, 2020, with a 48-hour analytical turnaround planned if necessary. Field work was contingent upon contract authorization (Dokken or City), confirmation of utility mark-out (USA notice) from Bay Cities or Geocon mark-out with a 72-hour USA notice, and receipt of DTSC sampling plan approval.
 
 ## Regulatory status
+The SR 132 Corridor soil characterization is subject to review and approval by the caltrans|Department of Toxic Substances Control (DTSC). Caltrans, through Richard C. Stewart (Engineering Geologist, PG 7926, Central Region Environmental Division), requested DTSC's expedited review of the borrow-area-sampling-plan|sampling plan and acceptance of the proposed approach. As of February 4, 2020, DTSC approval was pending. Analytical results were to be provided to DTSC following completion of laboratory analyses.
 
-Because the source document content is absent, the applicable standards—such as California MCLs, DTSC screening levels, or background thresholds—and the specific agencies (e.g., DTSC, RWQCB, Caltrans Division of Environmental Analysis) involved are not documented in this summary. The executed task order likely imposes conditions for compliance, but those conditions are not extractable from the current reference.
+Testing of residential backyards adjacent to and west of Carpenter Road, conducted by Rincon as part of prior investigations, indicated pesticides and metals at concentrations less than applicable regulatory screening levels. However, these results are from areas outside the SR 132 Corridor proper and are cited as context for the immediate vicinity.
 
 ## Open items
-
-All unresolved issues, pending deliverables, or contested claims remain unknown without access to the source document. Items such as future corrective action deadlines, data gap analysis, or regulatory approvals cannot be reported.
+- DTSC approval of the February 4, 2020 sampling plan was pending as of the date of submittal.
+- Analytical results from the 12 borings had not yet been generated or submitted for regulatory review.
+- The source record does not document whether the sampling proceeded as scheduled on February 11, 2020, nor whether the soil was ultimately accepted for use as clean-fill-suitable-as-cover|clean fill cover.
 
 ## See also
-
-- Caltrans Modesto Soil Stockpiles
-- [[sr-132-corridor]]
-- 43A0310‑04 A02 Executed Task Order
+- [[barium-containing-soil]]
+- [[borrow-area-sampling-plan]]
+- [[caltrans]]
+- [[carpenter-road-area]]
+- [[clean-fill-capping]]
+- [[clean-fill-suitable-as-cover]]
+- geocon-consultants

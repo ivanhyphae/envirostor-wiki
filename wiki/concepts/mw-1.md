@@ -2,51 +2,58 @@
 concept: mw-1
 entity_type: concept
 aliases: ["MW-1"]
-sources: ["S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.md", "S2350-01-02 Updated Statistical Evaluation Report_2.24.md"]
+sources: ["wiki/sources/S9525-01-44C Modesto Stockpiles GW September 2013 1013/S9525-01-44C Modesto Stockpiles GW September 2013 1013.md"]
 confidence: high
-created_at: 2026-07-01T04:15:05Z
+created_at: 2026-07-23T15:06:45Z
 ---
 
 ## Overview
 
-**Mw 1** is a laboratory designation for the **total mercury concentration** measured in site soil and groundwater samples during the Caltrans Modesto Soil Stockpiles remediation project (SR 132, Stanislaus County, CA). Total mercury (Mw 1) is the primary contaminant of concern for this site, as distinct from methylmercury (MeHg), which is a separate analytical parameter. The distinction is significant because total mercury drives the site’s remedial action levels (RALs) and regulatory compliance thresholds, while methylmercury is tracked as a secondary indicator of potential transformation in groundwater.
+MW-1 is an upgradient groundwater monitoring well at the Caltrans Modesto Soil Stockpiles site in Stanislaus County, California. It is one of ten monitoring wells (MW-1 through MW-10) installed in the unconsolidated sand, silty sand, and silt layers within the Modesto Formation underlying the Site, completed within the shallow zone of the upper aquifer at approximately 35 feet below ground surface under unconfined to semi-confined conditions.
 
-## Site Record
+MW-1 was installed in 2006 as part of the initial monitoring well network (MW-1 through MW-8) placed adjacent to the three soil stockpiles. The well serves as an upgradient monitoring point; its data is critical for distinguishing site-related impacts from natural background conditions, particularly for nitrate and total dissolved solids (TDS).
 
-### Soil Concentrations
-- **Phase I soil sampling (2019–2020)**: Total mercury in stockpile soils ranged from **0.28 mg/kg to 760 mg/kg**, per the *S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.md* document. The maximum value of **760 mg/kg** was recorded in the **northwest stockpile** (sample location **SP-NW-02**, depth 0–1 ft).  
-- **Phase II verification sampling (2021–2022)**: Post-excavation confirmation samples showed total mercury concentrations **below the site-specific RAL of 100 mg/kg** in all but two locations, which were re-excavated and re-sampled with results **≤ 15 mg/kg** (source: *S2350-01-03 Updated Statistical Evaluation Report_2.24.md*).  
+## Site record
 
-### Groundwater Concentrations
-- **Monitoring well MW-5** (installed June 2012, downgradient of stockpiles): Total mercury in groundwater ranged from **< 0.2 µg/L to ** - **1,200 µg/L** in the initial sampling event (June 2012). The **1,200 µg/L** value was flagged as an anomalous outlier by the statistical evaluation report.  
-- **Quarterly monitoring (2020–2023)**: After removal of the highest-mercury stockpile soils, detected total mercury in MW-5 dropped to a range of **0.8–4.2 µg/L**, per the *Updated Statistical Evaluation Report_2.24.md*.  
+### September 2013 sampling event
 
-### Exceedances
-- **Soil**: The 760 mg/kg value exceeded the site’s **DTSC-approved RAL of 100 mg/kg** for total mercury in direct exposure soils (residential scenario). Remedial excavation achieved compliance after re-work.  
-- **Groundwater**: The **MCL for total mercury is 2 µg/L** (California Title 22). Historical detections in MW-5 (1,200 µg/L, 12 µg/L, 8 µg/L) exceeded this standard. Post-remediation data (2021–2023) show **concentrations below 2 µg/L** in MW-5, with an exception of **3.1 µg/L** in Q2 2022 (attributed to seasonal fluctuation).  
+During the September 4, 2013 groundwater monitoring event, depth to groundwater at MW-1 measured 33.74 feet below top of casing (TOC), the shallowest among the ten wells sampled.
 
-### Spatial Distribution
-- The highest soil concentrations (≥ 500 mg/kg) were confined to the **northwest stockpile footprint** (approximately 1.2 acres).  
-- Groundwater impacts were **limited to the immediate vicinity of MW-5** (within 50 ft of the stockpile base). No total mercury detections above the MCL were recorded in downgradient wells **MW-6** or **MW-7**.  
+**General minerals:**
+- Nitrate as nitrogen: 12 mg/L, exceeding the California primary Maximum Contaminant Level (MCL) of 10 mg/L
+- Total dissolved solids (TDS): 590 mg/L, exceeding the California secondary MCL of 500 mg/L
+- Sulfide: 0.28 mg/L (the highest concentration reported among the six wells where sulfide was detected)
 
-## Regulatory Status
+Stiff diagram analysis classified the September 2013 MW-1 sample as calcium-dominant, consistent with MW-2, MW-4, MW-7, MW-9, and MW-10. This calcium-dominant signature has been consistently observed at MW-1 since groundwater monitoring resumed in March 2012.
 
-- **Applicable standard for soil**: DTSC-approved **Remedial Action Level of 100 mg/kg** (total mercury, direct exposure) established in the *Final Remedial Action Plan (RAP)* dated March 2019.  
-- **Applicable standard for groundwater**: **State MCL of 2 µg/L** (total mercury) per California Safe Drinking Water Act, enforced by the **Regional Water Quality Control Board (RWQCB)** — Central Valley Region.  
-- **Current compliance**: As of the most recent reporting period (Q4 2023), the site is in **presumptive compliance** with both soil and groundwater standards, subject to confirmation that the post-verification soil data meet statistical limits per the *Updated Statistical Evaluation Report_2.24.md*.  
-- **Pending regulatory decisions**: The RWQCB has not yet issued a **formal closure letter** for the groundwater component; DTSC approved soil closure in November 2023 subject to permanent land use controls.  
+**Dissolved metals:**
+No dissolved metals concentrations exceeded applicable numeric water quality threshold values. Barium and strontium were reported at concentrations consistent with historical levels and remained significantly below their numeric water quality thresholds. Lead was not reported at or above the practical quantitation limit (PQL) of 1.0 µg/L.
 
-## Open Items
+### Context as upgradient well
 
-- **Statistical outlier evaluation**: The 1,200 µg/L value in MW-5 (June 2012) was excluded from trend analysis by the *Updated Statistical Evaluation Report_2.24.md* as a “possible sampling artifact,” but this exclusion has not been formally accepted by DTSC or the RWQCB. The report recommends a **supplemental groundwater sampling event** to validate whether background conditions remain below the MCL.  
-- **Institutional controls**: A **deed restriction** for the property has been drafted but not yet recorded with Stanislaus County. This is required by DTSC for the soil closure to become effective.  
-- **Final monitoring well decommissioning**: MW-5 and the three stockpile perimeter wells (MW-6, MW-7, MW-8) have not been decommissioned pending the RWQCB’s decision on whether ongoing groundwater monitoring is required.  
+The September 2013 monitoring report (Geocon, October 2013) specifically notes that because MW-1 is an upgradient monitoring well, its reported nitrate concentration of 12 mg/L and TDS concentration of 590 mg/L "may be indicative of natural background nitrate and TDS concentrations for the shallow groundwater in the vicinity of the Site." This is significant for regulatory and legal interpretation: nitrate and TDS exceedances observed at downgradient wells [[mw-5]], [[mw-6]], and [[mw-10]] may partially reflect background conditions rather than solely site-related releases.
+
+### Historical data
+
+MW-1 has been part of the monitoring network since the initial 2006 sampling events. The well was sampled during the June and October 2006 events, and monitoring resumed with the March 2012 sampling event, continuing through quarterly events in May, June, July, September, and November 2012, and January, March, June, and September 2013.
+
+## Regulatory status
+
+**Nitrate (as nitrogen):** The September 2013 MW-1 result of 12 mg/L exceeds the California Department of Public Health (CDPH) primary MCL of 10 mg/L. Geocon's report treats this as potentially representative of natural background, not necessarily a site-related exceedance requiring action.
+
+**TDS:** The September 2013 MW-1 result of 590 mg/L exceeds the CDPH secondary MCL of 500 mg/L (taste and odor threshold). As with nitrate, the upgradient location suggests possible background influence.
+
+**Dissolved metals:** All dissolved metals results from the September 2013 event were below applicable numeric water quality thresholds.
+
+## Open items
+
+None specifically documented for MW-1 in the September 2013 report. Quarterly groundwater monitoring was scheduled to continue, with the next event planned for December 2013.
 
 ## See also
-
-- Caltrans Modesto Soil Stockpiles remediation case file
-- Mercury (total) — analytical method and site-specific considerations
-- MW-5 monitoring well (Modesto Stockpiles)
-- Remedial Action Level (RAL) — total mercury
-- DTSC closure letter (November 2023)
-- RWQCB groundwater compliance
+- [[mw-2]]
+- [[mw-4]]
+- [[mw-5]]
+- [[mw-6]]
+- [[mw-7]]
+- [[mw-9]]
+- [[september-2013-sampling-event]]

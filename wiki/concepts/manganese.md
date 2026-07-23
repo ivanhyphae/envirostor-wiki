@@ -1,39 +1,37 @@
 ---
 concept: manganese
 entity_type: concept
-aliases: []
-sources: ["S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.md"]
-confidence: medium
-created_at: 2026-07-01T04:14:49Z
+aliases: ["manganese"]
+sources: ["wiki/sources/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814.md"]
+confidence: high
+created_at: 2026-07-23T14:39:14Z
 ---
+
+# Manganese
 
 ## Overview
 
-Manganese is a naturally occurring metal and a common secondary constituent of groundwater in the Central Valley alluvial aquifer system. At the Caltrans Modesto Soil Stockpiles site (SR 132, Stanislaus County), manganese has been monitored as part of the groundwater investigation program. Its presence in site groundwater is associated with the legacy soil stockpile operations and the underlying geochemistry. The project file *S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112* documents the initial well installation and groundwater sampling events, but the provided source title alone does not contain extractable concentration values, threshold comparisons, or agency decisions specific to manganese. All statements below are therefore conditional on a direct review of the cited document’s content.
+Manganese is a dissolved metal analyzed in groundwater at the Caltrans Modesto Soil Stockpiles site (SR 132, Stanislaus County, CA). It is included in the routine groundwater monitoring analyte list and was tested in samples from all ten site monitoring wells during the June 2014 sampling event. Manganese has not been identified by DTSC as a primary chemical of concern for the site.
 
 ## Site record
 
-The referenced report (June 2012 groundwater report, well installation summary for stockpile area) is the primary source for manganese data. Based on the filename alone:
-
-- Monitoring wells were installed as part of Phase 1 characterization (presumably pre-2012).
-- Groundwater samples were collected and analyzed for metals, including manganese.
-- **No specific concentrations, detection frequencies, or exceedances can be extracted from the file title alone.** A review of the full report text is required to determine whether manganese exceeded the California MCL (50 µg/L secondary standard) or other project‑specific action levels.
-
-Spatial distribution (e.g., which wells showed elevated manganese) and temporal trends are not reported in the source title. Verification sampling results from subsequent phases (if any) are also not available from this citation.
+In the [[june-2014-groundwater-monitoring-report]] prepared by geocon-consultants, manganese was among the dissolved metals analyzed in groundwater samples collected from monitoring wells MW-1 through MW-10. The report states that manganese was not reported at concentrations equal to or greater than its respective practical quantitation limit (PQL) in samples from any of the ten monitoring wells during the June 2014 event. No numerical concentration data or trends over time are presented for manganese in the report, consistent with all results falling below PQLs.
 
 ## Regulatory status
 
-- The California secondary maximum contaminant level (SMCL) for manganese in drinking water is 50 µg/L (0.05 mg/L). This is a non‑enforceable aesthetic standard.
-- Regional Water Quality Control Board (RWQCB) oversight typically uses the SMCL as a screening level for groundwater protection at cleanup sites.
-- The project file title indicates a June 2012 groundwater report was submitted, suggesting that data was reviewed by regulatory staff at that time. Whether manganese levels were found to be below or above the SMCL, or whether any action was required, is **not documented in the provided source snippet**.
+No regulatory thresholds, enforcement actions, or agency decisions specific to manganese are documented in the available project record. The report does not list manganese among the analytes with established numeric water quality threshold values in its summary tables, and no Primary or Secondary Maximum Contaminant Level (MCL) comparison is provided for this parameter.
 
 ## Open items
 
-- **Data gap**: The actual manganese concentrations, well‑by‑well results, and comparison to applicable standards are not available from the source title. The full June 2012 report and any subsequent sampling rounds (e.g., post‑remediation verification) need to be consulted.
-- **Compliance status**: No determination can be made from the given citation. Future deliverables (e.g., periodic groundwater monitoring reports) may address manganese trends.
+No open items related to manganese are identified in the source documents.
 
 ## See also
 
-- Caltrans Modesto Soil Stockpiles – Groundwater Monitoring Program
-- Secondary MCL – Manganese (California)
-- SR 132 Stockpile Remediation – Phase 1 Documentation
+- [[arsenic]]
+- [[barium]]
+- [[barium-below-mcl]]
+- [[caltrans]]
+- [[chromium]]
+- geocon-consultants
+- [[geotracker]]
+- [[june-2014-groundwater-monitoring-report]]

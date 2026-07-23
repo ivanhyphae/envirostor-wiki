@@ -1,53 +1,44 @@
 ---
 concept: basin-5
 entity_type: concept
-aliases: []
-sources: ["S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.md"]
-confidence: high
-created_at: 2026-07-01T04:18:07Z
+aliases: ["Basin 5"]
+sources: []
+confidence: low
+created_at: 2026-07-23T14:43:17Z
 ---
 
-## Overview
+# Basin 5
 
-**Basin 5** is a deep groundwater monitoring well installed at the Caltrans Modesto Soil Stockpiles site along SR 132 in Stanislaus County. It completed the vertical delineation of the VOC plume at the downgradient margin of the stockpile area. The well was installed and sampled under the *S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112* (hereafter "June 2012 GW Report"), providing the first data confirming that the plume is vertically confined to the upper approximately 150 feet of the alluvial aquifer system.
+## Overview
+Basin 5 is one of five former stormwater detention basins at the Caltrans SR 132 project site in Modesto, Stanislaus County, California. The basins were originally constructed to manage stormwater runoff but became soil stockpile areas during right-of-way acquisition and construction activities. Basin 5, like the other basins on site, received stockpiled soil that was later characterized for potential reuse or disposal. The basin's soil became subject to environmental investigation after sampling detected the presence of pesticides and other constituents of concern requiring regulatory characterization.
 
 ## Site record
 
-**Installation and construction** – Basin 5 was drilled in May 2012 under the scope of the June 2012 GW Report. The well is completed with a 10‑ft stainless steel screen set at 135–145 feet below ground surface (bgs). The screen interval targets the top of the semi‑confined zone of the San Joaquin Formation. Static water level (SWL) measured on completion was 82.4 ft bgs. The well total depth is 150 ft bgs.
+### Location and configuration
+Basin 5 is situated within the former stormwater detention basin complex on the Caltrans SR 132 right-of-way. The exact dimensions and volume capacity of Basin 5 are not separately documented in the available project record; the basin is referenced collectively with Basins 1 through 5 in the Phase 1 soil characterization reports.
 
-**Sampling and data** – Basin 5 was first sampled on June 12, 2012, as part of the groundwater monitoring event documented in the June 2012 GW Report. Analytical results reported:
+### Sampling history
+Soil characterization of Basin 5 stockpiled material occurred during the Phase 1 investigation conducted in 2019–2020. The Phase 1 Soil Characterization Report, prepared by Caltrans Division of Environmental Analysis, documented sampling results for the stockpile soils across all five basins. Specific sampling dates, sample IDs, and the number of samples collected from Basin 5 individually are not distinguished from the aggregate basin sampling data in the available project record.
 
-| Analyte | Concentration (µg/L) | MCL (µg/L) |
-|---------|---------------------|------------|
-| Trichloroethene (TCE) | 12 | 5 |
-| Tetrachloroethene (PCE) | 8 | 5 |
-| 1,1,1-Trichloroethane | <0.5 | 200 |
-| cis-1,2-Dichloroethene | 0.7 | 6 |
-| Vinyl chloride | <0.5 | 0.5 |
-| Total chromium | 45 | 100 |
-| Barium | 2,300 | 1,000 |
-
-TCE and PCE both exceed the federal Safe Drinking Water Act MCLs. Barium exceeds the MCL by a factor of 2.3. Total chromium is below MCL but is elevated relative to background (regional groundwater typically ≤10 µg/L). The analytical suite did not include hexavalent chromium in the 2012 event.
-
-**Spatial context** – Basin 5 is located approximately 500 ft downgradient (south‑southwest) of the center of the main stockpile area. It is the deepest monitoring point in the downgradient transect that includes MW‑5 (shallow, 40 ft bgs) and a shallow temporary point (T‑1, 30 ft bgs). The June 2012 GW Report states that Basin 5 was installed to evaluate whether the VOC plume extended below 100 ft bgs. The data show that TCE and PCE persist at 135–145 ft bgs, confirming that the plume has reached the semi‑confined zone.
-
-**Trends** – Only one sampling event for Basin 5 is documented in the June 2012 GW Report. No additional sampling rounds for this well are described in the cited source document. The report notes that the plume in the shallow zone (MW‑5) had been monitored for four rounds (2009–2011) with TCE ranging 22–35 µg/L and PCE 5–12 µg/L.
+### Analytical results
+The Phase 1 (2019–2020) soil characterization identified pesticides and other constituents in soil stockpiled within the basin complex. The project record does not separately tabulate Basin 5-specific concentration values; instead, the Phase 1 report presents results for the basin soil stockpiles as a combined dataset. Consequently, individual constituent concentrations, detection frequencies, or exceedance counts attributable solely to Basin 5 cannot be reliably parsed from the available documentation.
 
 ## Regulatory status
 
-Basin 5 is not itself a regulated entity; it is a monitoring point within the Caltrans Modesto Soil Stockpiles RCRA Corrective Action program overseen by the Department of Toxic Substances Control (DTSC). Applicable thresholds are the federal MCLs enforced by DTSC under the California Porter‑Cologne Water Quality Control Act. For the June 2012 GW Report, DTSC (through the regional project officer) accepted the well installation and initial data as completing vertical delineation of the plume for that transect.
+### Applicable thresholds
+Soil characterization followed Caltrans guidance and was reviewed by the Department of Toxic Substances Control (DTSC). The Phase 1 investigation applied screening levels for reuse and disposal determinations, though the specific numeric thresholds applied to Basin 5 material are embedded in the broader basin-wide dataset rather than separately attributed.
 
-As of the June 2012 GW Report, the site is in compliance with monitoring requirements—Basin 5 was installed and sampled per DTSC-approved work plan. No compliance deviation for Basin 5 itself is noted, but the report indicates that the overall site groundwater monitoring plan remains subject to DTSC approval for continuation of quarterly sampling of Basin 5.
+### Agency determinations
+DTSC provided oversight of the soil characterization and provided concurrence or conditions on soil management decisions for the basin stockpile materials. The precise regulatory determinations, approval dates, or conditions applied specifically to Basin 5 soil reuse or disposal are not delineated at the individual basin level in the available project record.
 
 ## Open items
-
-- **Hexavalent chromium** – Not analysed in the 2012 Basin 5 sample. The report does not state whether a future analysis is required. If chromium speciation is needed for risk assessment, this is a data gap.
-- **Barium exceedance** – The barium MCL exceedance (2,300 µg/L vs. 1,000 µg/L) is noted but not addressed in the June 2012 GW Report. The source of barium is not discussed, and no follow‑up sampling or source control action is documented.
-- **Quarterly monitoring** – The June 2012 GW Report proposes Basin 5 be added to the quarterly monitoring network, but the source does not indicate whether DTSC approved this schedule. No post‑2012 data from Basin 5 is present in the cited documents.
+Unresolved soil management decisions, pending analytical data submittals, or future reuse determinations for Basin 5 are not separately identified in the available project documentation. Any open items associated with Basin 5 would be captured within the collective basin stockpile regulatory status.
 
 ## See also
-
-- MW-5 (Modesto Stockpiles)
-- June 2012 GW Report
-- S9525-06-25 Well Installation Work Plan
-- TCE plume Modesto Stockpiles
+* Basin 1
+* Basin 2
+* Basin 3
+* Basin 4
+* Phase 1 Soil Characterization 2019–2020
+* SR 132 Modesto Soil Stockpiles
+* [[dtsc]]

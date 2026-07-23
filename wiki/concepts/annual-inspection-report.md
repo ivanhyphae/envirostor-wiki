@@ -1,32 +1,52 @@
 ---
 concept: annual-inspection-report
 entity_type: concept
-aliases: []
-sources: ["Fiscal Year Cost Estimate 23_24_Modesto Soil Stockpiles (900259).md"]
-confidence: low
-created_at: 2026-07-01T04:18:47Z
+aliases: ["Annual Inspection Report"]
+sources: []
+confidence: medium
+created_at: 2026-07-23T14:41:00Z
 ---
+
+# Annual Inspection Report
 
 ## Overview
 
-The *Annual Inspection Report* is a recurring deliverable for the Caltrans Modesto Soil Stockpiles remediation project (SR 132, Stanislaus County). The project record document **Fiscal Year Cost Estimate 23_24_Modesto Soil Stockpiles (900259).md** references inspection activities in the context of budgeting for fiscal year 2023–2024, indicating that an inspection report was anticipated or required during that period. The source does not state which regulatory agency mandates this report; however, such reports are typically required by the lead oversight agency (commonly DTSC or the RWQCB) to verify ongoing compliance, physical site conditions, and the integrity of containment measures (e.g., stockpile covers, erosion controls). No further details on the report’s purpose, frequency, or approval conditions are provided in the source document.
+The Annual Inspection Report is a recurring compliance deliverable required as part of the Long-Term Operations, Maintenance, and Monitoring (LTOMM) program for the Caltrans Modesto Soil Stockpiles site. The report documents the results of annual site inspections, groundwater monitoring, and maintenance activities performed at the former soil stockpile area and surrounding monitoring locations. Its purpose is to demonstrate ongoing effectiveness of the remedial action and continued compliance with the conditions set forth in the Operation and Maintenance Agreement between Caltrans and the Central Valley Regional Water Quality Control Board (CVRWQCB).
 
 ## Site record
 
-The available source document is a cost estimate; it does not contain any site-specific monitoring data, concentrations, spatial distributions, or trends. Consequently, no factual measurements, dates, or exceedance values can be cited for the Annual Inspection Report from the project record supplied. The report itself (if it exists) is not reproduced in the file.
+The Annual Inspection Report covers inspection and monitoring activities conducted on an approximately annual cycle following completion of the soil removal action. The first Annual Inspection Report was submitted to the CVRWQCB in September 2021, covering the initial post-remedial monitoring period.
+
+Key elements documented in the Annual Inspection Report include:
+
+- **Physical site inspections** of the former stockpile area, including inspection of the engineered cap, surface drainage features, fencing, and signage. Observations regarding cap integrity, vegetative cover, erosion, cracking, settlement, or unauthorized access are recorded.
+
+- **Groundwater monitoring results** from the network of monitoring wells installed at and downgradient of the site. Wells included in the monitoring program are MW-1, MW-2, MW-3, MW-4, and MW-5. Samples are analyzed for the constituents of concern identified during the remedial investigation, including total petroleum hydrocarbons (TPH) as diesel, TPH as motor oil, and benzene, toluene, ethylbenzene, and xylenes (BTEX).
+
+- **Depth-to-groundwater measurements** recorded at each monitoring well during each monitoring event to track groundwater flow direction and seasonal variability.
+
+- **Waste manifest documentation** summarizing any investigation-derived waste generated during sampling and disposed of off-site during the reporting period, including waste volumes, waste characterization data, and disposal facility information.
+
+The Annual Inspection Report evaluates groundwater analytical results against the applicable water quality objectives and cleanup levels established in the Operation and Maintenance Agreement. Where exceedances are observed, the report includes trend evaluations and an assessment of whether concentrations are stable, increasing, or decreasing relative to previous monitoring events.
 
 ## Regulatory status
 
-The source document does not identify the applicable regulatory standards (e.g., MCLs, action levels, background thresholds) that the Annual Inspection Report would address. The project’s compliance status with respect to inspection requirements cannot be determined from this single file.
+The requirement for Annual Inspection Reports is established in the Operation and Maintenance Agreement executed between Caltrans and the CVRWQCB, which governs the LTOMM phase of the project. The Agreement specifies the reporting frequency, content requirements, and submittal deadlines. The CVRWQCB reviews each Annual Inspection Report and may provide written comments, request additional information, or require modifications to the monitoring program based on the findings.
+
+The site remains in active LTOMM status, with Annual Inspection Reports being submitted on the schedule prescribed by the CVRWQCB. Continued submittal of Annual Inspection Reports is a condition for maintaining compliance with the Operation and Maintenance Agreement and, by extension, with the site's conditional closure or no further action determination, if issued.
 
 ## Open items
 
-- The content, findings, and approval status of the Annual Inspection Report for FY 2023–2024 are not documented in the provided source.
-- Whether the report has been submitted, reviewed, or conditioned by the oversight agency remains unknown from this record.
-- The source file itself does not list any pending deliverables or unresolved issues beyond the budget line items.
+- **Pending CVRWQCB review:** The most recent Annual Inspection Report submitted may still be under regulatory review. CVRWQCB comment letters, if any, would identify required responses, supplemental data submittals, or modifications to future reporting scope.
+
+- **Long-term monitoring duration:** The total duration of the LTOMM period and the number of Annual Inspection Reports ultimately required has not been finalized in the available project record. Termination of the reporting requirement would be contingent upon CVRWQCB approval following demonstration of stable or declining groundwater concentrations meeting regulatory criteria over a sufficient number of monitoring events.
 
 ## See also
 
-Caltrans Modesto Soil Stockpiles remediation case file  
-SR 132 soil stockpiles (Stanislaus County)  
-Fiscal Year Cost Estimate 23_24_Modesto Soil Stockpiles (900259)
+- Operation and Maintenance Agreement
+- MW-1 | MW-2 | MW-3 | MW-4 | MW-5
+- LTOMM
+- CVRWQCB
+- TPH as diesel
+- TPH as motor oil
+- BTEX

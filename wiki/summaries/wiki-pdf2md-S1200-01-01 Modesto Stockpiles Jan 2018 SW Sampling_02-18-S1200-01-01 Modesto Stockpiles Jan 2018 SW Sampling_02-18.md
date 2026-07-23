@@ -1,9 +1,0 @@
----
-source: wiki/pdf2md/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18.md
-source_type: monitoring_report
-source_hash: sha256:a1f4e96931e66dcff54d1f89adcf55cdabd43819e595e1d82390430696991eec
-compiled_at: 2026-07-01T15:21:16Z
-chunk_count: 65
----
-
-Geocon Consultants, Inc. conducted surface water and stormwater sampling at the Caltrans Modesto Soil Stockpiles in Stanislaus County (Project No. S1200-01-01) in January 2018, with some historical data extending back to February 2014. The January 2018 sampling, performed during a rain event and approved by DTSC and CVRWQCB, focused on locations PL1-PL4, BG1, and BG2, with PL5 remaining unsampled due to dry conditions. Samples were analyzed for a broad spectrum of analytes, including dissolved metals (e.g., arsenic, barium, chromium, copper, lead, manganese, nickel, zinc), general minerals (chloride, nitrate, sulfate), alkalinity, and solids. While most general minerals were within regulatory limits, manganese in sample BG2 exceeded its primary or secondary maximum contaminant level, and high concentrations of barium, calcium, potassium, and/or zinc required sample dilution in some instances. Quality control data generally indicated good analytical performance; however, issues were noted for Sulfate (high matrix spike recovery), Total Sulfide (low matrix spike and matrix spike duplicate recoveries), and Chromium (high relative percent difference in duplicate analysis). Observations confirmed that stormwater runoff remained within the Caltrans right-of-way, with no apparent offsite migration, and an interceptor berm at Stockpile 2 effectively retained runoff. Analytical results were largely consistent with previous sampling rounds from March 2006. Caltrans plans further surface water sampling during future qualifying rain events in 2018.

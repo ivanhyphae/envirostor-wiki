@@ -2,41 +2,33 @@
 concept: dtsc-residential-screening-level
 entity_type: concept
 aliases: ["DTSC residential screening level"]
-sources: ["Borrow Area Results Tech Memo Approval.md", "RDIP Variance Reqeust #2 Acceptance E-Mail.md"]
+sources: ["wiki/sources/S9650-06-03 Modesto Ramp Ex Mon Plan -no appx-0612/S9650-06-03 Modesto Ramp Ex Mon Plan -no appx-0612.md"]
 confidence: medium
-created_at: 2026-07-01T04:16:27Z
+created_at: 2026-07-23T14:39:25Z
 ---
 
-## Overview
+# DTSC Residential Screening Level
 
-The **DTSC Residential Screening Level** (RSL) is a risk‑based threshold for contaminants in soil that the California Department of Toxic Substances Control (DTSC) applies to sites where future residential use is anticipated. Within the Caltrans Modesto Soil Stockpiles remediation case (SR‑132, Stanislaus County), the RSL is the primary cleanup standard for borrow area soils proposed for reuse as residential fill. The relevant value for barium—the contaminant of concern in the borrow areas—was established at **760 mg/kg** in the *Borrow Area Results Tech Memo Approval* (dated July 12, 2021). This screening level originates from DTSC’s Human Health Risk Assessment (HHRA) guidance and is enforceable under the project’s RDIP (Removal Design Implementation Plan).
+## Overview
+The DTSC Residential Screening Level is a numeric risk-based threshold used by the California Department of Toxic Substances Control (DTSC) to evaluate soil contamination at sites intended for residential land use. Within the Modesto Ramp Rehabilitation Project, this screening level served as a compliance benchmark during excavation and soil management activities for Stockpile 3 at the State Route 99 / Kansas Avenue northbound off-ramp in Modesto, Stanislaus County, California. Stockpile 3 excavation monitoring was performed by geocon-consultants, with project oversight documented in the Stockpile 3 Excavation Monitoring Plan for the Modesto Ramp Rehabilitation Project.
 
 ## Site record
+The DTSC Residential Screening Level was applied as the applicable cleanup standard during the Stockpile 3 excavation monitoring conducted by geocon-consultants at the [[kansas-avenue-off-ramp]] site along [[sr-99]]. Soil sampling and analysis results from the excavation were compared against this residential screening level to determine whether soils required further management, removal, or were suitable for reuse or disposal. Stockpile 3 consisted of soil materials generated from construction activities associated with the Modesto Ramp Rehabilitation Project.
 
-- **Contaminant:** Barium (Ba)  
-- **Screening level:** 760 mg/kg (DTSC residential)  
-- **Source document:** *Borrow Area Results Tech Memo Approval* (July 12, 2021) – DTSC approved the technical memo that applied this RSL to all borrow area stockpiles.  
-- **Measured concentrations:** Sample results from the Phase 1 borrow area (2019–2020) ranged from 420 mg/kg to 1,100 mg/kg. Three of twelve stockpile composite samples exceeded the 760 mg/kg RSL.  
-- **Variance granted:** In response to these exceedances, Caltrans submitted *RDIP Variance Request #2* (accepted by DTSC via e‑mail dated November 3, 2021). The variance allowed soils with barium concentrations up to **1,000 mg/kg** to be placed as residential fill, provided the stockpile is capped with 2 ft of clean cover soil and a restrictive covenant is recorded.  
-- **Verification:** Post‑variance confirmation sampling was conducted in December 2021; all candidate stockpiles fell within the 1,000 mg/kg limit, and the cover soil source (Borrow Area B) was verified at <200 mg/kg barium.
+Specific numeric screening level values for individual analytes, including the [[barium]] residential screening level applied at this site, are not explicitly stated in the available project document. The Excavation Monitoring Plan references DTSC residential screening levels as the governing standard without enumerating threshold concentrations within the plan body itself. Analytical data and screening level comparisons were to be documented in field and laboratory reports produced during monitoring activities.
 
 ## Regulatory status
-
-- **Primary standard:** DTSC Residential Screening Level – 760 mg/kg (barium)  
-- **Secondary reference:** California MCL for barium in drinking water – 1,000 µg/L (not directly applied to soil but referenced in the variance justification).  
-- **Current compliance:** The project operates under the RDIP Variance #2 conditions. Soils previously exceeding 760 mg/kg but below 1,000 mg/kg are approved for on‑site residential use with engineered controls (cover and restrictive covenant). Soils exceeding 1,000 mg/kg are prohibited from residential reuse and must be disposed off‑site.  
-- **Agency oversight:** DTSC retains authority to modify the variance or require additional sampling if future monitoring identifies migration. No violations have been documented.
+The DTSC Residential Screening Level was the regulatory compliance threshold adopted by [[douglas-s-krause]] of DTSC and [[john-e-juhrend]] of geocon-consultants for soil management decisions at Stockpile 3. Soil concentrations exceeding the residential screening level would trigger additional characterization, removal, or off-site disposal requirements. The [[commercial-industrial-screening-level]] represented an alternative, less stringent threshold applicable to non-residential land use scenarios, but the residential standard governed Stockpile 3 due to the project's land use designation. The monitoring plan was approved by DTSC as part of the overall Modesto Ramp Rehabilitation Project regulatory framework.
 
 ## Open items
-
-- **Long‑term monitoring:** The variance requires annual groundwater monitoring for barium at downgradient wells MW‑5 and MW‑8 for five years (through 2026). Results are due to DTSC each January.  
-- **Covenant recording:** The restrictive covenant for the three stockpile placement areas must be recorded with Stanislaus County by June 30, 2022 (pending confirmation in the project file).  
-- **Final closure report:** Caltrans must submit a Remedial Action Completion Report that includes all verification data and demonstrates compliance with the variance conditions. Draft is due Q2 2022.
+Verification sampling results and final compliance determinations relative to the DTSC Residential Screening Level for Stockpile 3 are not included in the Excavation Monitoring Plan document. Post-excavation confirmation testing and final DTSC concurrence on whether residual concentrations met the residential screening level would be documented in subsequent reports not provided in the current source material.
 
 ## See also
-
-- Caltrans Modesto Soil Stockpiles remediation
-- Borrow Area Results Tech Memo  
-- RDIP Variance Request #2  
-- Barium (SR‑132)  
-- DTSC HHRA Guidance
+- [[barium]]
+- [[commercial-industrial-screening-level]]
+- [[douglas-s-krause]]
+- geocon-consultants
+- [[john-e-juhrend]]
+- [[kansas-avenue-off-ramp]]
+- [[sr-99]]
+- [[stockpile-3-excavation]]

@@ -21,13 +21,15 @@ Related concepts: {{.RelatedList}}
 
 Write a wiki article grounded in the project record. The article should be useful to someone reviewing the case file — cite specific values, dates, document names, and agency decisions where the sources support it.
 
+When source material discusses multiple analytes, wells, or entities in the same passage, attribute a value to {{.ConceptName}} only if the text explicitly names it as belonging to that concept. Never carry a number, unit, or threshold over from a different entity mentioned nearby — even one in the same sentence or a related concept's article — into this concept's claims. If you can't tell which entity a number belongs to, omit it.
+
 Adapt the article structure to what this concept actually is. Use whichever sections apply:
 
 ## Overview
-What this entity is and its role in this project. For a contaminant: what it is, why it matters here. For a monitoring location: where it is, what it monitors. For a regulatory decision: what was decided, by whom, when. For a remedial action: what was done and why. Keep this brief — the detail belongs below.
+This entity's role in this project, grounded only in what the sources establish. For a contaminant: only its role at *this* site — where it was found, at what levels, why it's being tracked here. Do not add general chemistry, toxicology, health effects, or "commonly used for..." background not present in the sources — the compound name is sufficient identification. For a monitoring location: where it is, what it monitors (per the record, not generic hydrogeology). For a regulatory decision: what was decided, by whom, when. For a remedial action: what was done and why. Keep this brief — the detail belongs below.
 
 ## Site record
-The documented facts from project sources: concentrations with units and dates, spatial distribution, exceedances relative to applicable thresholds, trends over time, verification results, approval conditions, volumes, phases. Be specific. Use the names and identifiers that appear in the record (MW-5, DTSC, barium 760 mg/kg, MCL 1,000 µg/L, Phase 1 2019–2020, etc.).
+The documented facts from project sources: concentrations with units and dates, spatial distribution, exceedances relative to applicable thresholds, trends over time, verification results, approval conditions, volumes, phases. Be specific. Use the exact names, identifiers, values, and units as they appear in the record for *this* concept (e.g. a well ID like "MW-5", an agency like "DTSC", a phase label like "Phase 1 2019–2020") — never a value borrowed from this instruction's own examples or from a different concept.
 
 ## Regulatory status
 Applicable standards (MCLs, screening levels, background thresholds, action levels), the agencies that set or enforce them, and whether the project is currently in compliance, subject to conditions, or pending further action.

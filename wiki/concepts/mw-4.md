@@ -2,43 +2,47 @@
 concept: mw-4
 entity_type: concept
 aliases: ["MW-4"]
-sources: ["S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.md", "S2350-01-02 Updated Statistical Evaluation Report_2.24.md"]
-confidence: medium
-created_at: 2026-07-01T04:15:14Z
+sources: ["wiki/sources/S9525-01-44C Modesto Stockpiles GW September 2013 1013/S9525-01-44C Modesto Stockpiles GW September 2013 1013.md"]
+confidence: high
+created_at: 2026-07-23T15:06:42Z
 ---
 
-## Overview
+# MW-4
 
-Mw 4 (likely MW‑4) is a groundwater monitoring well at the Caltrans Modesto Soil Stockpiles site along State Route 132 in Stanislaus County, California. The well was installed and sampled as part of the multi‑phase site investigation and remediation program overseen by the California Department of Toxic Substances Control (DTSC). Its primary role is to track the fate of contaminants—particularly metals such as barium, chromium, and arsenic—in the shallow aquifer beneath the stockpiled soil materials.
+## Overview
+MW-4 is a groundwater monitoring well at the Caltrans Modesto Soil Stockpiles site (SR 132, Stanislaus County, CA). It is part of the site's monitoring well network used during quarterly groundwater sampling events, including the [[september-2013-sampling-event]].
 
 ## Site record
 
-The source documents listed do not provide explicit concentration data, installation logs, or sampling results for Mw 4. However, based on the report titles and their relevance to the project:
+### September 2013 sampling event
+During the September 2013 groundwater monitoring event, MW-4 exhibited a calcium-dominant composition, as shown in Stiff diagrams constructed from general minerals analyses (Appendix C). This calcium-dominant signature was consistent with samples from wells [[mw-1]], [[mw-2]], [[mw-7]], [[mw-9]], and MW-10 during the same event. Groundwater from MW-4 has been consistently reported as calcium-dominant since monitoring resumed in March 2012 through the September 2013 event.
 
-- **Well installation:** The document *S9525‑06‑25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.md* likely describes the drilling, construction, and initial groundwater sampling of Mw 4 (and other wells) in 2012. Specifics such as screened interval, lithology, and static water level would be found there.
-- **Statistical evaluation:** The *S2350‑01‑02 Updated Statistical Evaluation Report_2.24.md* (dated February 24, likely 2020 or 2023) probably includes Mw 4 in the monitoring network. Statistical analyses (e.g., background threshold values, trend tests) for metals at this well would be detailed in that document.
-- **Typical exceedances at similar wells:** At other monitoring locations on the site, barium has been reported above the MCL (1,000 µg/L) and soil concentrations up to 760 mg/kg. Mw 4 may show similar patterns, but no source‑specific values are available here.
+Nitrate as nitrogen was reported at a concentration that equaled or exceeded the primary Maximum Contaminant Level (MCL) of 10 mg/l. Total dissolved solids (TDS) was reported at a concentration exceeding the secondary MCL of 500 mg/l. Specific numerical values for nitrate and TDS in MW-4 are not separately tabulated in the source text; the narrative establishes that MW-4 was among the wells exceeding both thresholds.
+
+Sulfide was detected in MW-4 groundwater during this event. A laboratory report for Lab ID 1302692-03 (Client Sample ID MW-4) documents total sulfide at 0.019 mg/l, reported on September 13, 2013, by EPA method with analysis date September 9, 2013.
+
+No dissolved metals concentrations in MW-4 exceeded their respective numeric water quality threshold values. Lead was not reported at concentrations equal to or greater than the practical quantitation limit (PQL) of 1.0 µg/l.
+
+### Groundwater chemistry classification
+Stiff diagrams for MW-4 indicate bicarbonate (HCO₃) dominant water, with a calcium-dominant cation composition. The ionic composition has shown only very slight changes since monitoring resumed in March 2012. The calcium-dominant classification places MW-4 within the group of wells (along with MW-1, MW-2, MW-7, MW-9, and MW-10) that consistently show this signature, in contrast to the sodium-dominant wells (mw-3, [[mw-6]], mw-8, and, during this event only, [[mw-5]]).
 
 ## Regulatory status
+MW-4 groundwater exceeds two applicable standards for the September 2013 event:
+- **Nitrate**: Exceeds the California primary MCL of 10 mg/l.
+- **TDS**: Exceeds the California Department of Public Health secondary MCL of 500 mg/l (taste and odor).
 
-Applicable standards for groundwater at the Modesto Stockpiles site include:
+The source notes that [[mw-1]], the upgradient monitoring well, also reported nitrate (12 mg/l) and TDS (590 mg/l) exceedances, suggesting these concentrations may reflect natural background levels for shallow groundwater in the vicinity of the site rather than site-related impacts. Whether this background interpretation extends to MW-4 is not explicitly stated.
 
-- **MCLs** (Maximum Contaminant Levels) under the Safe Drinking Water Act – e.g., barium 1,000 µg/L, chromium (total) 50 µg/L, arsenic 10 µg/L.
-- **DTSC screening levels** for groundwater (especially for metals derived from stockpiled soil) may be applied on a site‑specific basis.
-- **Background threshold values** derived from upgradient wells (if any) in the statistical evaluation report.
-
-Without case‑file data for Mw 4, current compliance cannot be determined from the provided sources. The well is expected to be monitored quarterly or semi‑annually under the project’s long‑term monitoring plan.
+No dissolved metals exceedances were identified for MW-4. Barium and strontium remained at concentrations similar to historical levels and significantly below numeric water quality thresholds.
 
 ## Open items
-
-- **Missing data in source record:** The document excerpts do not contain any measurements or conclusions specific to Mw 4. Actual concentrations, exceedances, or trend plots must be retrieved from the full groundwater report and statistical evaluation.
-- **Pending deliverables:** Future semiannual monitoring reports or a corrective action decision for Mw 4 (if it shows exceedances) may be required by DTSC. No such actions are documented in the provided sources.
+Quarterly groundwater monitoring was ongoing as of the September 2013 report, with the next event scheduled for December 2013. No unresolved regulatory issues specific to MW-4 are identified in the September 2013 report.
 
 ## See also
-
-- Modesto Soil Stockpiles remediation (SR 132)
-- DTSC oversight, Stanislaus County
-- MW‑5 (monitoring well)
-- Barium – groundwater MCL exceedance
-
----
+- [[mw-1]]
+- [[mw-2]]
+- [[mw-5]]
+- [[mw-6]]
+- [[mw-7]]
+- [[mw-9]]
+- [[september-2013-sampling-event]]

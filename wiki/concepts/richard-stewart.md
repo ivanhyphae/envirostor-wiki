@@ -1,35 +1,41 @@
 ---
 concept: richard-stewart
 entity_type: concept
-aliases: ["Richard C. Stewart", "Richard Stewart"]
-sources: ["Interagency Agreement Task Order Contract 43A0404-04", "Borrow Area Sampling Plan Approval E-Mail"]
-confidence: low
-created_at: 2026-07-01T15:40:40Z
+aliases: ["Richard Stewart"]
+sources: ["wiki/sources/Borrow Area Sampling Plan Approval E-Mail/Borrow Area Sampling Plan Approval E-Mail.md"]
+confidence: high
+created_at: 2026-07-23T14:42:39Z
 ---
 
-## Overview
+# Richard Stewart
 
-Richard Stewart is identified in the project record as the author of the **Borrow Area Sampling Plan Approval E‑Mail**, a regulatory communication that authorized a specific sampling plan for borrow areas used in the Caltrans Modesto Soil Stockpiles remediation (SR 132, Stanislaus County). The e‑mail is cited as a source for the Interagency Agreement Task Order Contract **43A0404‑04**, which governs the work. Stewart’s role is that of a decision‑maker or project reviewer within the responsible agency (likely DTSC or Caltrans) who granted approval for the sampling methodology. No other capacity or title is specified in the provided source references.
+## Overview
+Richard C. Stewart is an Engineering Geologist (PG 7926) with the California Department of Transportation ([[caltrans]]) Central Region Environmental Division, Hazardous Waste & Paleontology Branch. Based in Fresno, California, he serves as a [[caltrans]] point of contact for the Modesto Soil Stockpiles project (SR 132, Stanislaus County). In the February 2020 project record, Stewart coordinated with the [[dtsc]] on the [[borrow-area-sampling-plan]], work notifications, and a site meeting with the contractor (Bay Cities).
 
 ## Site record
+Stewart's documented involvement in the project record includes the following:
 
-The documented facts from project sources:
+- **February 12, 2020, 1:48 p.m.**: [[dean-wright]] (DTSC) forwarded Stewart an email from his PPS regarding the work notice mailing and a sick leave notification. The forwarded content was truncated in the available record.
 
-- **Document**: Borrow Area Sampling Plan Approval E‑Mail, authored by Richard Stewart.  
-- **Associated Contract**: Interagency Agreement Task Order Contract 43A0404‑04.  
-- **Content**: The e‑mail constitutes a formal approval of the Borrow Area Sampling Plan, which outlines the procedures for collecting and analyzing soil samples from borrow areas used in the remediation. Specific approval conditions, dates, and sample locations (e.g., borrow area identifiers) are not provided in the source citations.  
-- **Spatial context**: The borrow areas are within the SR 132 corridor in Stanislaus County, related to the Modesto Soil Stockpiles case. No concentration values, exceedances, or trends are tied to Stewart’s approval in the available sources.
+- **February 12, 2020, 2:48 p.m.**: Stewart provided [[dean-wright]] with a contact list from 2018, located in response to Wright's request.
+
+- **February 12, 2020, 3:59 p.m.**: Stewart confirmed a 10 a.m. conference call for the following day and provided the dial-in details: Conference Number (877) 829-8910, Passcode 8536140. He indicated the contractor (Bay Cities) would want the status of the work notification and the clean fill sampling plan. Stewart also stated he would request an example burial report from Kim Christmann in the [[caltrans]] Headquarters office and share it with Wright if available.
+
+- **February 13, 2020**: Stewart was among the recipients of [[dean-wright]]'s email conveying DTSC's approval of the backfill sampling plan, with the sole modification to composite 3 samples instead of 4, based on input from Perry Myers (DTSC).
+
+Stewart's email signature block identifies his office location as 855 M Street, Ste. 200, Fresno, CA 93721, with telephone number 559.445.6378.
 
 ## Regulatory status
-
-Richard Stewart’s approval represents a regulatory or contractual checkpoint in the project’s compliance framework. The Borrow Area Sampling Plan, once approved, becomes a binding protocol for characterizing borrow material prior to use. The plan likely aligns with DTSC‑approved cleanup levels or California screening standards, but specific thresholds or agency conditions are not documented in the cited sources.
+No regulatory findings, violations, or enforcement actions specific to Richard Stewart are documented in the source. His role is operational coordination between [[caltrans]] and [[dtsc]].
 
 ## Open items
-
-No unresolved issues, pending deliverables, or contested claims directly associated with Richard Stewart are noted in the provided source references.
+No open items specific to Richard Stewart are identified in the available source material. The record shows his commitment to obtain an example burial report from Kim Christmann, but the outcome of that request is not documented in this source.
 
 ## See also
-
-- [[borrow-area-sampling-plan]]  
-- Interagency Agreement Task Order Contract 43A0404‑04  
-- Caltrans Modesto Soil Stockpiles Remediation
+- [[borrow-area-sampling-plan]]
+- [[caltrans]]
+- [[dean-wright]]
+- [[dtsc]]
+- [[jennifer-lugo]]
+- [[marcus-simpson]]
+- [[susie-flowers-williams]]

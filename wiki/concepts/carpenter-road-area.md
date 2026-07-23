@@ -1,41 +1,60 @@
 ---
 concept: carpenter-road-area
 entity_type: concept
-aliases: []
-sources: ["S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.md"]
+aliases: ["Carpenter Road area"]
+sources: ["wiki/sources/Borrow Area Sampling Plan/Borrow Area Sampling Plan.md"]
 confidence: high
-created_at: 2026-07-01T04:18:02Z
+created_at: 2026-07-23T14:38:01Z
 ---
 
 ## Overview
 
-The Carpenter Road Area is a defined operational zone within the Caltrans Modesto Soil Stockpiles remediation site, located along State Route 132 in Stanislaus County, California. It encompasses a network of stockpiled soils generated during highway construction and maintenance activities, which have been characterized as containing elevated levels of heavy metals and other constituents. The area is managed under the oversight of the Department of Toxic Substances Control (DTSC), with remedial actions focused on characterization, removal, and off-site disposal of impacted soils. The Carpenter Road Area is distinct from other stockpile zones on the site, including the Maze Road Area and Fink Road Area, due to its specific analytical results and regulatory milestones documented since 2012.
+The Carpenter Road Area is a linear segment of State right-of-way along the SR-132 alignment in Stanislaus County, extending eastward from Carpenter Road. In the site remediation record, this area is identified as the proposed source of clean fill soil to be used as cover material for the [[barium-containing-soil]] stockpiles (BCS stockpiles) associated with the highway project. The area consists of native soil that had been Caltrans right-of-way since the 1960s and was previously agricultural land. A sampling plan was developed by geocon-consultants in February 2020 to characterize the upper five feet of soil in this area for suitability as clean fill cover.
 
-## Site Record
+## Site record
 
-The Carpenter Road Area is primarily documented in two project sources: *S9525-06-25 Modesto Stockpiles Well Install* and the *June 2012 GW Report 1112*. Key findings from these records include:
+### Proposed excavation and use
+The contractor for the SR-132 project planned to excavate the upper five feet of soil along the Highway 132 alignment from Carpenter Road extending eastward. This material was intended for use as clean fill cover for the BCS stockpiles ([[barium-containing-soil]]). The designation "clean fill cover" connects this soil to the [[clean-fill-capping]] and [[clean-fill-suitable-as-cover]] remedial strategy documented in the project.
 
-- **Stockpile Characterization**: Soil samples from the Carpenter Road Area exhibited elevated concentrations of total chromium, lead, nickel, and zinc, with maximum values exceeding California Human Health Screening Levels (CHHSLs) for residential and/or industrial land use. For example, barium was detected at 760 mg/kg in one stockpile sample (source: *S9525-06-25*, Table 2).
-- **Groundwater Monitoring**: Three monitoring wells (MW-3, MW-4, and MW-5) were installed in the Carpenter Road Area as part of the June 2012 groundwater investigation. MW-5 is specifically referenced in the *June 2012 GW Report 1112* as a key location for assessing groundwater impacts beneath the stockpiles. Analytical results from MW-5 showed chromium (total) at 32 µg/L and lead at 2.1 µg/L, both below the respective MCLs (50 µg/L for chromium, 15 µg/L for lead), but barium was detected at 1,200 µg/L, exceeding the MCL of 1,000 µg/L.
-- **Spatial Distribution**: Contaminant concentrations in stockpile soils were highest in the western portion of the Carpenter Road Area, near the stockpile designated as SP-CR-1, where lead exceeded 500 mg/kg. This finding is recorded in the *S9525-06-25* site map (Figure 3).
-- **Temporal Trends**: Comparing the June 2012 results to a 2008 baseline study (referenced in *June 2012 GW Report 1112*), groundwater metals concentrations in the Carpenter Road Area had decreased by an average of 15% for lead and 10% for chromium, suggesting natural attenuation or limited leaching.
+### Historical environmental review
+Geocon reviewed the Blackburn 2014 ISA (Initial Site Assessment) and Rincon 2018 Phase II ESA (Environmental Site Assessment) for information regarding potential contaminant sources near the Carpenter Road Area. No high-risk documented contamination releases were reported in the immediate vicinity of the proposed clean fill source area. Testing of residential backyards by Rincon adjacent to and west of Carpenter Road indicated pesticides and metals at concentrations less than applicable regulatory screening levels.
 
-## Regulatory Status
+### Lithology
+Geotechnical test borings completed at the Carpenter Road overcrossing in 2017 documented that the material at this location is comprised of native soil. Logs of these borings were appended to the sampling plan submittal to support the lithologic description.
 
-- **Applicable Standards**: Soil contamination is evaluated against DTSC’s HHRA-based screening levels (e.g., CHHSLs for residential/industrial use) and U.S. EPA Regional Screening Levels (RSLs). Groundwater is assessed against California MCLs as enforced by the California State Water Resources Control Board (SWRCB) and the Central Valley Regional Water Quality Control Board (CVRWQCB).
-- **Regulatory Decisions**: DTSC issued a conditional approval for the removal of 1,200 cubic yards of impacted soil from the Carpenter Road Area in November 2010, as part of a larger site-wide remedial plan (*S9525-06-25*, Appendix B). The approval required confirmation sampling to verify attainment of cleanup goals (e.g., lead ≤ 400 mg/kg residential) before backfilling.
-- **Current Compliance**: As of the June 2012 GW Report filing, groundwater at MW-5 exceeded the MCL for barium (1,200 µg/L vs. 1,000 µg/L MCL). DTSC’s response was to require quarterly monitoring for barium and arsenic (also elevated at 12 µg/L, below MCL of 50 µg/L) until further notice. No compliance sign-off has been identified in the documents.
+### Sampling plan (February 2020)
+The [[borrow-area-sampling-plan]], prepared by Geocon and transmitted to [[caltrans]] by John Juhrend on February 4, 2020, proposed the following characterization program for the Carpenter Road Area:
 
-## Open Items
+- **Number of borings:** 12 borings, each 5 feet deep
+- **Depth intervals and analytes:**
+  - **0–2 feet:** organochlorine pesticides (OCPs) and heavy metals — 3 four-point composite samples
+  - **3–5 feet:** heavy metals — 3 four-point composite samples
+- **Total composite samples:** 6 depth-discrete samples
 
-- **Barium Exceedance at MW-5**: Barium in groundwater at the Carpenter Road Area remains above the MCL (1,200 µg/L vs. 1,000 µg/L MCL) as of the June 2012 report. A corrective action plan for this exceedance has not yet been submitted or approved, per the document record.
-- **Confirmation Sampling Verification**: The DTSC conditional approval required confirmation sampling of backfilled soils from the removal action in 2010. No results of this sampling have been filed in the available documents, leaving the effectiveness of the removal unverified.
-- **Unresolved Contaminants in Stockpiles**: Elevated levels of total chromium (up to 280 mg/kg) and nickel (up to 210 mg/kg) remain in stockpile SP-CR-1 (source: *S9525-06-25*, Table 2). These values exceed DTSC’s industrial CHHSLs for chromium (100 mg/kg) and nickel (160 mg/kg), but no further characterization or mitigation plan has been documented.
+The sampling plan was submitted to DTSC (Dean Wright and Perry Myers) and the Water Board (Steven Meeks) for review and approval, with the request that DTSC provide a quick review and acceptance.
+
+### Drilling schedule
+Geocon tentatively scheduled drilling of the borings for February 11, 2020. A 48-hour analytical turnaround time was planned for if necessary.
+
+### Agency transmittal
+Richard C. Stewart, Engineering Geologist in Caltrans Central Region Environmental Division, forwarded the sampling plan to DTSC and Water Board staff on February 4, 2020, with attached exhibits titled "Hwy 132 Clean Fill Source Testing Exhibit.pdf" and "LOTB-N Carpenter OC.pdf."
+
+## Regulatory status
+
+As of February 4, 2020, the sampling plan for the Carpenter Road Area was pending DTSC review and approval. Caltrans requested DTSC acceptance prior to proceeding with field work. No approval or conditional acceptance is documented in the available source material. The proposed soil characterization was intended to determine whether the native soil from the Carpenter Road Area meets applicable regulatory standards for use as clean fill cover material over the BCS stockpiles.
+
+## Open items
+
+- DTSC approval of the sampling plan was pending as of the February 4, 2020 submittal.
+- Analytical results from the proposed 6 composite samples were to be provided to DTSC following laboratory analyses; these results are not documented in the available source material.
+- John Juhrend noted that field work scheduling was contingent on contract authorization (Dokken or City), USA notice confirmation, and DTSC sampling plan approval.
+- Juhrend indicated he would be out of the office from February 5 through 15, 2020, with Jim Brake as the point of contact during that period.
 
 ## See also
-
-- Maze Road Area
-- Fink Road Area
-- MW-5 Monitoring Well
-- DTSC Conditional Approval November 2010
-- June 2012 Groundwater Report
+- [[barium-containing-soil]]
+- [[borrow-area-sampling-plan]]
+- [[caltrans]]
+- [[clean-fill-capping]]
+- [[clean-fill-suitable-as-cover]]
+- geocon-consultants
+- [[sr-132-corridor]]
