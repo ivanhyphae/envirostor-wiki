@@ -1,0 +1,1 @@
+../../../wiki/sources/Final SMP Approval E-mail/Final SMP Approval E-mail.md

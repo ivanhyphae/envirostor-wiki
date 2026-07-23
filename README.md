@@ -10,7 +10,14 @@ Compiled knowledge base for State Route 132 environmental remediation documents.
    cd ~/hyphae/hyphae-work/sr132/envirostor-wiki/wiki
    ~/repos/sage-wiki/sage-wiki compile
    ```
-3. Rebuild site:
+3. Sync flattened sources for Quartz (`wiki/sources/` is marker's per-doc-folder
+   output; this symlinks each `<name>.md` into `site/content/sources/<name>.md`
+   so Quartz doesn't publish a folder per source):
+   ```bash
+   cd ~/hyphae/hyphae-work/sr132/envirostor-wiki
+   ./scripts/sync-quartz-sources.sh
+   ```
+4. Rebuild site:
    ```bash
    cd ~/hyphae/hyphae-work/sr132/envirostor-wiki/site
    npx quartz build

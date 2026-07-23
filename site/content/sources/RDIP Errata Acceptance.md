@@ -1,0 +1,1 @@
+../../../wiki/sources/RDIP Errata Acceptance/RDIP Errata Acceptance.md

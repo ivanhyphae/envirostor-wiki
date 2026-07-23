@@ -1,0 +1,1 @@
+../../../wiki/sources/Bent 2 Stockpiles Tech Memo/Bent 2 Stockpiles Tech Memo.md

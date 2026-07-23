@@ -1,0 +1,1 @@
+../../../wiki/sources/43A0487 _04 Modesto Stockpiles - signed/43A0487 _04 Modesto Stockpiles - signed.md

@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     locale: "en-US",
     baseUrl: "localhost:8080",
-    ignorePatterns: ["private", "templates", ".obsidian", "pdf2md", "**/*_meta.json"],
+    ignorePatterns: ["private", "templates", ".obsidian", "pdf2md"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
