@@ -30,5 +30,4 @@ The 65% submittal designation indicates that the sampling plan was not final as 
 - [[barium-containing-soil]]
 - geocon-consultants
 - [[mse-wall]]
-- [[rdip]]
 - [[stockpile-1]]

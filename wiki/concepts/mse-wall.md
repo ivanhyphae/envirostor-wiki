@@ -32,6 +32,5 @@ The sampling plan was at a 65% submittal stage as of March 2018, marked "NOT FOR
 - [[barium]]
 - [[barium-containing-soil]]
 - geocon-consultants
-- [[rdip]]
 - [[stockpile-1]]
 - [[stockpiles-1-and-2-mse-wall-sampling-plan]]

@@ -37,5 +37,4 @@ The sampling plan was prepared under the RDIP – Interim Phase 1 framework. Spe
 - [[barium-containing-soil]]
 - geocon-consultants
 - [[mse-wall]]
-- [[rdip]]
 - [[stockpiles-1-and-2-mse-wall-sampling-plan]]
