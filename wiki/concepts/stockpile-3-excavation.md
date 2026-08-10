@@ -1,13 +1,11 @@
 ---
 concept: stockpile-3-excavation
 entity_type: concept
-aliases: ["Stockpile 3 excavation"]
-sources: ["wiki/sources/S9650-06-03 Modesto Ramp Ex Mon Plan -no appx-0612/S9650-06-03 Modesto Ramp Ex Mon Plan -no appx-0612.md", "wiki/sources/Caltrans Ramp Clarification Letter dated 8.24.12 /Caltrans Ramp Clarification Letter dated 8.24.12 .md"]
+aliases: ["Stockpile No. 3 excavation area"]
+sources: ["wiki/sources/Caltrans Ramp Clarification Letter dated 8.24.12 /Caltrans Ramp Clarification Letter dated 8.24.12 .md", "wiki/sources/S9650-06-03 Modesto Ramp Ex Mon Plan -no appx-0612/S9650-06-03 Modesto Ramp Ex Mon Plan -no appx-0612.md"]
 confidence: high
-created_at: 2026-07-23T14:42:20Z
+created_at: 2026-08-10T22:38:40Z
 ---
-
-# Stockpile 3 Excavation
 
 ## Overview
 Stockpile 3 Excavation refers to the planned removal of fill material from the northern portion of Stockpile 3 during the Modesto Ramp Rehabilitation Project (State Route 99 Kansas Avenue Northbound Off-Ramp, Modesto, Stanislaus County, California). Stockpile 3 is one of three fill embankments totaling approximately 121,000 cubic yards placed within [[caltrans]] right-of-way in the early 1960s, partially sourced from excavations in evaporation ponds containing elevated metals, notably [[barium]].
@@ -66,4 +64,3 @@ The sources do not contain the final Excavation Monitoring Report (Completion Re
 - [[douglas-s-krause]]
 - [[dtsc]]
 - [[dtsc-residential-screening-level]]
-- geocon-consultants

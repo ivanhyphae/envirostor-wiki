@@ -1,5 +1,13 @@
 ---
 concept: arsenic
+entity_type: contaminant
+aliases: ["As"]
+sources: ["wiki/sources/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814.md"]
+confidence: high
+created_at: 2026-08-10T22:39:12Z
+---
+
+concept: arsenic
 entity_type: concept
 aliases: ["arsenic"]
 sources: ["wiki/sources/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814.md"]
@@ -10,27 +18,26 @@ created_at: 2026-07-23T14:38:31Z
 # Arsenic
 
 ## Overview
-Arsenic is one of the dissolved metals monitored in groundwater at the Caltrans Modesto Soil Stockpiles site (SR 132, Stanislaus County, CA). It was detected in all ten groundwater samples collected during the June 2014 monitoring event. Arsenic is tracked as part of the site's groundwater monitoring program, though it has not been identified as a primary chemical of concern by the overseeing regulatory agency.
+Arsenic is a dissolved metal that has been monitored in groundwater at the Caltrans Modesto Soil Stockpiles site. During the June 2014 groundwater monitoring event, arsenic was detected in all ten groundwater samples collected. While arsenic is part of the site's routine groundwater monitoring program, it has not been identified as a primary chemical of concern by the [[dtsc]] (DTSC).
 
 ## Site record
-During the June 2014 groundwater monitoring event conducted by geocon-consultants, dissolved arsenic was reported in each of the ten groundwater samples collected from site monitoring wells. The specific concentration range for arsenic is documented in the [[june-2014-groundwater-monitoring-report]] (Table /page/5/Table/10). The source tables present these values alongside the California Department of Public Health Primary Maximum Contaminant Level (MCL) for drinking water of 10 µg/L.
+In the [[june-2014-groundwater-monitoring-report]], prepared by [[geocon-consultants]], dissolved arsenic was reported in all ten groundwater samples collected from monitoring wells MW-1 through MW-10. The specific concentrations for arsenic, along with the California Department of Public Health Primary Maximum Contaminant Level (MCL) for drinking water (10 µg/L), are presented in Table 2 of the report.
 
-No arsenic concentration reported in the June 2014 sampling event exceeded the applicable numeric water quality threshold. The analytical results are summarized in the dissolved metals section of the monitoring report, where arsenic is grouped with chromium and vanadium as metals that were detected across all samples but remained below regulatory limits.
+The report notes that for the June 2014 sampling event, arsenic, along with chromium and vanadium, were detected in each sample but remained below their respective numeric water quality thresholds. Specifically, the concentrations of arsenic reported in the June 2014 sampling event did not exceed the applicable MCL of 10 µg/L.
 
 ## Regulatory status
-The applicable regulatory threshold for arsenic in groundwater at this site is the California Department of Public Health Primary Maximum Contaminant Level for Drinking Water, set at 10 micrograms per liter (µg/L). All June 2014 detections of arsenic were below this MCL. The [[june-2014-groundwater-monitoring-report]] confirms that although arsenic concentrations were reported in samples from each well, none of the reported concentrations exceeded their respective numeric water quality thresholds for drinking water.
+The applicable regulatory threshold for arsenic in groundwater at this site is the California Department of Public Health Primary Maximum Contaminant Level (MCL) for drinking water, which is set at 10 micrograms per liter (µg/L). The [[june-2014-groundwater-monitoring-report]] confirms that all detected concentrations of arsenic during the June 2014 sampling event were below this MCL.
 
-DTSC has identified barium, lead, and strontium — not arsenic — as the primary chemicals of concern in groundwater for the site.
-
-## Open items
-The available source documents do not identify any unresolved issues, pending deliverables, or contested claims specific to arsenic at this site. Continued groundwater monitoring across all analytes is implied by the ongoing monitoring program documented in the June 2014 report.
+The DTSC has identified barium, lead, and strontium as the primary chemicals of concern in the groundwater at this site, not arsenic.
 
 ## See also
 - [[barium]]
 - [[barium-below-mcl]]
 - [[caltrans]]
+- [[caltrans-district-6]]
 - [[chromium]]
-- geocon-consultants
+- [[geocon-consultants]]
 - [[geotracker]]
-- [[june-2014-groundwater-monitoring-report]]
+- groundwater-monitoring-report
 - [[lead]]
+- [[strontium]]

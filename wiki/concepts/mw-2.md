@@ -2,30 +2,25 @@
 concept: mw-2
 entity_type: concept
 aliases: ["MW-2"]
-sources: ["wiki/sources/S9525-01-44C Modesto Stockpiles GW September 2013 1013/S9525-01-44C Modesto Stockpiles GW September 2013 1013.md"]
+sources: ["wiki/sources/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814.md"]
 confidence: high
-created_at: 2026-07-23T15:06:40Z
+created_at: 2026-08-10T22:38:56Z
 ---
 
 # MW-2
 
 ## Overview
-MW-2 is a groundwater monitoring well at the Caltrans Modesto Soil Stockpiles site (SR 132, Stanislaus County, CA). It is one of ten monitoring wells sampled during groundwater monitoring events, including the [[september-2013-sampling-event]]. The well is part of the site's quarterly groundwater monitoring program conducted by Geocon Consultants, Inc. under project number S9525-01-44C.
+MW-2 is a groundwater monitoring well located at the Caltrans Modesto Soil Stockpiles site (SR 132, Stanislaus County, CA). It is part of the site's quarterly groundwater monitoring program.
 
 ## Site record
-During the September 2013 sampling event, groundwater from MW-2 exhibited a calcium-dominant composition, as depicted in the Stiff diagrams included in Appendix C of the September 2013 monitoring report. [[mw-1]], [[mw-4]], [[mw-7]], [[mw-9]], and MW-10 were similarly characterized as calcium-dominant during this event, in contrast to the sodium-dominant composition observed at mw-3, [[mw-5]], [[mw-6]], and MW-8.
+During the June 2014 sampling event, groundwater from MW-2 exhibited a calcium-dominant composition, as indicated by its Stiff diagram in Appendix C of the June 2014 monitoring report. This calcium-dominant classification for MW-2 has been consistent since groundwater sampling resumed at the site in March 2012, with only very slight changes in ionic content observed through June 2014. The water type for MW-2, and all other site wells, was bicarbonate (HCO₃) dominant.
 
-The Stiff diagram for MW-2 (Appendix C) shows a polygon profile reflecting the relative concentrations of major cations (Na+K, Ca, Mg) and anions (Cl, HCO₃, SO₄). The diagram is filled in orange, consistent with the "Calcium Dominant" classification per the figure legend. The water type across all site wells was bicarbonate (HCO₃) dominant.
+The Stiff diagram for MW-2 in Appendix C shows a polygon profile reflecting the relative concentrations of major cations (Na+K, Ca, Mg) and anions (Cl, HCO₃, SO₄). The diagram is filled in orange, consistent with the "CALCIUM DOMINANT" classification per the figure legend. Specifically, for MW-2 in June 2014, the cation points were approximately 2.5 meq/L for Ca, 1.4 meq/L for Mg, and 1.8 meq/L for Na+K. The anion points were approximately 4.8 meq/L for HCO₃, 1.4 meq/L for SO₄, and 0.5 meq/L for Cl.
 
-The September 2013 monitoring report (Geocon Consultants, October 2013) notes that water samples from MW-2 have consistently been reported as calcium-dominant since groundwater sampling resumed at the site in March 2012. Only very slight changes in ionic content were observed over the 2012 through September 2013 period.
-
-The laboratory report for the September 2013 event (Lab ID: 1302692-01, Client Sample ID: MW-2) includes analytical results for general minerals, dissolved metals by ICP-MS (EPA 6020), and cation-anion balance. Specific numeric concentration values for MW-2 (e.g., nitrate as nitrogen, TDS, sulfide, individual dissolved metals) are not individually broken out in the narrative text of the report and require reference to the full laboratory data tables in Appendix B.
+The June 2014 monitoring report notes that nitrate as nitrogen concentrations in MW-2 were 2.6 mg/l, and total dissolved solids (TDS) were 320 mg/l. Sulfide was reported as not detected (ND) at a detection limit of 0.020 mg/l. Analytical results for dissolved metals by ICP-MS EPA 6020 and cation-anion balance are also included in the laboratory reports for Lab ID: 1401663-01, Client Sample ID: MW-2.
 
 ## Regulatory status
-The September 2013 monitoring report states that no dissolved metals concentrations in any of the ten groundwater samples, including MW-2, exceeded their respective numeric water quality threshold values. MW-2 is not among the wells identified in the report as having nitrate concentrations equaling or exceeding the primary MCL of 10 mg/L, nor is it listed among wells where TDS exceeded the secondary MCL of 500 mg/L. The report's Conclusions and Recommendations section explicitly names [[mw-1]], [[mw-4]], [[mw-5]], [[mw-6]], and MW-10 as the wells with nitrate and TDS exceedances during this event; MW-2 is absent from that list.
-
-## Open items
-No unresolved issues, pending deliverables, or required future actions specific to MW-2 are documented in the September 2013 report. Quarterly groundwater monitoring was scheduled to continue, with the next event planned for December 2013.
+In June 2014, none of the reported dissolved metals concentrations in the groundwater samples from MW-2 exceeded their respective numeric water quality threshold values. The nitrate concentration of 2.6 mg/l in MW-2 did not equal or exceed the primary MCL of 10 mg/l. Similarly, the TDS concentration of 320 mg/l in MW-2 did not exceed the secondary MCL of 500 mg/l. The report's Conclusions and Recommendations section explicitly states that no dissolved metals concentrations exceeded water quality threshold values for any of the groundwater samples collected in June 2014.
 
 ## See also
 - [[mw-1]]
@@ -34,4 +29,5 @@ No unresolved issues, pending deliverables, or required future actions specific 
 - [[mw-6]]
 - [[mw-7]]
 - [[mw-9]]
-- [[september-2013-sampling-event]]
+- [[arsenic]]
+- [[barium]]

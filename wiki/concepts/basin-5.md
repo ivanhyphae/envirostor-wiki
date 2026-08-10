@@ -32,6 +32,8 @@ Soil characterization followed Caltrans guidance and was reviewed by the Departm
 DTSC provided oversight of the soil characterization and provided concurrence or conditions on soil management decisions for the basin stockpile materials. The precise regulatory determinations, approval dates, or conditions applied specifically to Basin 5 soil reuse or disposal are not delineated at the individual basin level in the available project record.
 
 ## Open items
+
+- **Unverified sourcing (flagged 2026-08-10)**: This article cites `sources: []` — no source document is on record for its claims. Content should be treated as unverified until the article is regenerated with proper source grounding.
 Unresolved soil management decisions, pending analytical data submittals, or future reuse determinations for Basin 5 are not separately identified in the available project documentation. Any open items associated with Basin 5 would be captured within the collective basin stockpile regulatory status.
 
 ## See also

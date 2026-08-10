@@ -3,7 +3,7 @@ concept: rap-approval
 entity_type: concept
 aliases: ["RAP approval"]
 sources: []
-confidence: high
+confidence: low
 created_at: 2026-07-23T14:41:20Z
 ---
 
@@ -32,6 +32,8 @@ Rap Approval is issued by the **CVRWQCB** as the lead regulatory agency, with DT
 A variance request for lead in Stockpile B soils exceeding the 80 mg/kg threshold but below the **320 mg/kg** industrial/commercial screening level was discussed with DTSC but not resolved. Rap Approval for lead-impacted soil reuse under a variance would require separate DTSC concurrence.
 
 ## Open items
+
+- **Unverified sourcing (flagged 2026-08-10)**: This article cites `sources: []` — no source document is on record for its claims. Content should be treated as unverified until the article is regenerated with proper source grounding.
 
 - Completion of confirmation sampling for all treated soils in Stockpile A and Stockpile B.
 - Submission of a Rap Approval request package to CVRWQCB with all confirmation analytical results.

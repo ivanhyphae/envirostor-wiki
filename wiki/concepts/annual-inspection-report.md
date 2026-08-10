@@ -3,7 +3,7 @@ concept: annual-inspection-report
 entity_type: concept
 aliases: ["Annual Inspection Report"]
 sources: []
-confidence: medium
+confidence: low
 created_at: 2026-07-23T14:41:00Z
 ---
 
@@ -36,6 +36,8 @@ The requirement for Annual Inspection Reports is established in the Operation an
 The site remains in active LTOMM status, with Annual Inspection Reports being submitted on the schedule prescribed by the CVRWQCB. Continued submittal of Annual Inspection Reports is a condition for maintaining compliance with the Operation and Maintenance Agreement and, by extension, with the site's conditional closure or no further action determination, if issued.
 
 ## Open items
+
+- **Unverified sourcing (flagged 2026-08-10)**: This article cites `sources: []` — no source document is on record for its claims. Content should be treated as unverified until the article is regenerated with proper source grounding.
 
 - **Pending CVRWQCB review:** The most recent Annual Inspection Report submitted may still be under regulatory review. CVRWQCB comment letters, if any, would identify required responses, supplemental data submittals, or modifications to future reporting scope.
 

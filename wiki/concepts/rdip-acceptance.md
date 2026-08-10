@@ -3,7 +3,7 @@ concept: rdip-acceptance
 entity_type: concept
 aliases: ["RDIP acceptance"]
 sources: []
-confidence: high
+confidence: low
 created_at: 2026-07-23T14:41:27Z
 ---
 
@@ -37,6 +37,8 @@ DTSC provided formal Rdip Acceptance via letter dated July 22, 2021 (DTSC Refere
 No further DTSC review of Phase 1 stockpile disposition is required, except in the event of material relocation to an area not previously characterized under the RAP.
 
 ## Open items
+
+- **Unverified sourcing (flagged 2026-08-10)**: This article cites `sources: []` — no source document is on record for its claims. Content should be treated as unverified until the article is regenerated with proper source grounding.
 
 Stockpiles generated during Phase 2 construction (2022–2023) remain subject to separate Rdip Acceptance review. Phase 2 stockpile characterization data has been submitted to DTSC but formal acceptance has not yet been issued as of the most recent project status report (October 2023). DTSC has requested additional documentation regarding the proposed reuse location for stockpile SP-17, which showed marginally elevated arsenic relative to the receiving area background dataset. Resolution is pending submittal of supplemental background soil data for the proposed placement area, due January 2024.
 

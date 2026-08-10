@@ -3,7 +3,7 @@ concept: bent-2-area
 entity_type: concept
 aliases: ["Bent 2 area"]
 sources: []
-confidence: medium
+confidence: low
 created_at: 2026-07-23T14:41:47Z
 ---
 
@@ -29,6 +29,8 @@ The California Department of Toxic Substances Control (DTSC) provided regulatory
 No further action was required for the Bent 2 stockpile based on demonstrated compliance with applicable CHHSLs.
 
 ## Open items
+
+- **Unverified sourcing (flagged 2026-08-10)**: This article cites `sources: []` — no source document is on record for its claims. Content should be treated as unverified until the article is regenerated with proper source grounding.
 No unresolved issues or pending deliverables specific to the Bent 2 Area stockpile are documented in the project record.
 
 ## See also

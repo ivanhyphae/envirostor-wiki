@@ -1,33 +1,33 @@
 ---
 concept: vanadium
-entity_type: concept
-aliases: ["vanadium"]
+entity_type: contaminant
+aliases: ["V"]
 sources: ["wiki/sources/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814.md"]
-confidence: medium
-created_at: 2026-07-23T14:39:17Z
+confidence: high
+created_at: 2026-08-10T22:39:11Z
 ---
 
 # Vanadium
 
 ## Overview
 
-Vanadium is a dissolved metal analyte monitored in groundwater at the Caltrans Modesto Soil Stockpiles site under the June 2014 groundwater monitoring event. It was detected in samples from site monitoring wells and evaluated against applicable drinking water thresholds.
+Vanadium is a dissolved metal analyte that has been monitored in groundwater at the [[caltrans]] Modesto Soil Stockpiles site. Its presence and concentration in groundwater samples have been evaluated against applicable drinking water thresholds as part of the site's groundwater monitoring program.
 
 ## Site record
 
-During the June 2014 groundwater sampling event, vanadium was reported as a dissolved metal in samples collected from each of the ten site monitoring wells, as documented in the [[june-2014-groundwater-monitoring-report]] prepared by geocon-consultants. The analytical results for dissolved metals, including vanadium, were summarized by the project team alongside numeric water quality thresholds.
+During the June 2014 groundwater sampling event, vanadium was detected in samples collected from all ten site monitoring wells. The analytical results were documented in the "Groundwater Monitoring Report – June 2014" prepared by [[geocon-consultants]]. The dissolved metals analysis, including vanadium, was performed using ICP-MS EPA Method 6020.
 
-Specific concentration ranges for vanadium, along with those for arsenic and chromium, were presented in a summary table in the report. The dissolved metals analysis was performed using ICP-MS EPA Method 6020, as indicated in the quality control documentation for the analytical run.
+The report presents vanadium concentrations alongside those of other dissolved metals such as arsenic and chromium. Specific concentration ranges for vanadium were provided in a summary table within the report.
 
 ## Regulatory status
 
-The vanadium concentrations reported from all wells sampled during the June 2014 event did not exceed the applicable numeric water quality threshold for drinking water. The report cites the California Department of Public Health (CDPH) Primary Maximum Contaminant Level (MCL) for drinking water as the relevant comparison standard. Vanadium is among the metals for which the report explicitly confirms compliance: "none of the reported concentrations exceed their respective numeric water quality thresholds for drinking water."
+In the June 2014 monitoring event, vanadium concentrations in all sampled wells were reported to be below the applicable numeric water quality threshold for drinking water. The report references the California Department of Public Health (CDPH) Primary Maximum Contaminant Level (MCL) for drinking water as the comparison standard. The report explicitly states, "none of the reported concentrations exceed their respective numeric water quality thresholds for drinking water."
 
-The [[caltrans]] project file is maintained on [[geotracker]], the State Water Resources Control Board's data management system.
+The [[caltrans]] project file, including this groundwater monitoring data, is managed on [[geotracker]].
 
 ## Open items
 
-No open items specific to vanadium are identified in the June 2014 groundwater monitoring report. The report documents compliance with applicable thresholds as of that sampling event.
+No open items specifically related to vanadium were identified in the June 2014 groundwater monitoring report. The report indicated compliance with applicable thresholds for vanadium as of that sampling event.
 
 ## See also
 
@@ -35,7 +35,7 @@ No open items specific to vanadium are identified in the June 2014 groundwater m
 - [[barium]]
 - [[barium-below-mcl]]
 - [[caltrans]]
+- [[caltrans-district-6]]
 - [[chromium]]
-- geocon-consultants
+- [[geocon-consultants]]
 - [[geotracker]]
-- [[june-2014-groundwater-monitoring-report]]

@@ -4,40 +4,43 @@ entity_type: concept
 aliases: ["John E. Juhrend"]
 sources: ["wiki/sources/S9650-06-03 Modesto Ramp Ex Mon Plan -no appx-0612/S9650-06-03 Modesto Ramp Ex Mon Plan -no appx-0612.md"]
 confidence: high
-created_at: 2026-07-23T14:42:18Z
+created_at: 2026-08-10T22:38:44Z
 ---
 
 # John E. Juhrend
 
 ## Overview
-John E. Juhrend, PE, CEG, served as the Project Manager for Geocon Consultants, Inc. on the Stockpile 3 Excavation Monitoring Plan prepared for the Modesto Ramp Rehabilitation Project (State Route 99, Kansas Avenue Northbound Off-Ramp, Modesto, California). In this role, he was the signatory on the transmittal letter delivering the monitoring plan to Caltrans District 6, dated June 13, 2012.
+John E. Juhrend, PE, CEG, served as the Project Manager for [[geocon-consultants]] on the [[stockpile-3-excavation]] Monitoring Plan for the Modesto Ramp Rehabilitation Project. He was the signatory for the transmittal letter dated June 13, 2012, which submitted this plan to Caltrans District 6.
 
-## Site record
-Juhrend's involvement in the project record is documented through the following:
+## Site Record
+Juhrend's role is documented in the following:
 
-- **Document:** Stockpile 3 Excavation Monitoring Plan, Project No. S9650-06-03, dated June 13, 2012
-- **Role:** Project Manager, Geocon Consultants, Inc.
-- **Professional credentials:** Licensed Professional Engineer (PE) and Certified Engineering Geologist (CEG)
-- **Correspondence:** Signed the transmittal letter addressed to Mr. Richard Stewart, PG, California Department of Transportation - District 6 (855 M Street, Suite 200, Fresno, California 93721)
-- **Contract reference:** Caltrans Contract No. 06A1634, Work Request EA No. 10-0A671
-- **Co-signatory:** The letter was co-signed by [[douglas-s-krause]], CIH, Certified Industrial Hygienist
+*   **Document:** Stockpile 3 Excavation Monitoring Plan, Project No. S9650-06-03.
+*   **Date:** June 13, 2012.
+*   **Role:** Project Manager, Geocon Consultants, Inc.
+*   **Credentials:** Licensed Professional Engineer (PE) and Certified Engineering Geologist (CEG).
+*   **Correspondence:** Signed the transmittal letter to Mr. Richard Stewart, PG, Caltrans District 6.
+*   **Contract Reference:** Caltrans Contract No. 06A1634, Work Request EA No. 10-0A671.
+*   **Co-signatory:** The transmittal letter was also signed by [[douglas-s-krause]], CIH.
 
-The monitoring plan summarized results of previous and recent site investigations, provided a summary of health risk associated with identified contaminants (notably [[barium]]) in [[stockpile-3-excavation]], and described procedures for air monitoring and verification of completed excavations during construction of planned off-ramp traffic safety and widening improvements.
+The monitoring plan Juhrend submitted summarized previous and recent site investigations, outlined the health risks associated with identified contaminants (specifically [[barium]]) in [[stockpile-3-excavation]], and detailed procedures for air monitoring and excavation verification during the planned improvements for the [[kansas-avenue-off-ramp]].
 
-No further project documents bearing Juhrend's name or involvement are identified in the available sources.
+No other project documents involving John E. Juhrend are identified in the provided source material.
 
-## Regulatory status
-Not applicable — Juhrend is an individual consultant, not a regulated entity. No regulatory actions, findings, or conditions are attributed to him personally in the source material.
+## Regulatory Status
+Not applicable. John E. Juhrend is an individual consultant and not a regulated entity. The source material does not attribute any regulatory actions, findings, or conditions to him personally.
 
-## Open items
-The source material does not identify any unresolved issues, pending deliverables, or contested claims specific to Juhrend. His role as documented is limited to the June 13, 2012 transmittal of the Stockpile 3 Excavation Monitoring Plan.
+## Open Items
+The source material does not identify any unresolved issues, pending deliverables, or contested claims specifically related to John E. Juhrend. His documented involvement is limited to the transmittal of the Stockpile 3 Excavation Monitoring Plan on June 13, 2012.
 
-## See also
-- [[barium]]
-- [[commercial-industrial-screening-level]]
-- [[douglas-s-krause]]
-- [[dtsc-residential-screening-level]]
-- geocon-consultants
-- [[kansas-avenue-off-ramp]]
-- [[sr-99]]
-- [[stockpile-3-excavation]]
+## See Also
+*   [[barium]]
+*   [[barium-below-mcl]]
+*   [[commercial-industrial-screening-level]]
+*   [[douglas-s-krause]]
+*   [[dtsc-residential-screening-level]]
+*   [[geocon-consultants]]
+*   [[human-health-risk-assessment]]
+*   [[kansas-avenue-off-ramp]]
+*   [[sr-99]]
+*   [[stockpile-3-excavation]]

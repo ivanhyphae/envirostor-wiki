@@ -3,7 +3,7 @@ concept: groundwater-statistical-evaluation
 entity_type: concept
 aliases: ["Groundwater Statistical Evaluation"]
 sources: []
-confidence: high
+confidence: low
 created_at: 2026-07-23T14:41:08Z
 ---
 
@@ -25,6 +25,8 @@ Wells that demonstrated statistically significant differences from background we
 DTSC reviewed and conditionally approved the statistical methodology and findings presented in the Post-Removal Site Characterization Report. The statistical evaluation was accepted as the basis for distinguishing site-related impacts from background conditions, consistent with DTSC guidance for closure of low-threat sites. The evaluation supported DTSC's determination that residual groundwater concentrations in the former stockpile areas do not pose a threat to human health or the environment, and no further groundwater monitoring or active remediation was required by the agency as a condition of closure.
 
 ## Open items
+
+- **Unverified sourcing (flagged 2026-08-10)**: This article cites `sources: []` — no source document is on record for its claims. Content should be treated as unverified until the article is regenerated with proper source grounding.
 No unresolved items related to the Groundwater Statistical Evaluation have been documented in the project record. The statistical evaluation was completed and accepted as part of the approved closure documentation.
 
 ## See also

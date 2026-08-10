@@ -3,7 +3,7 @@ concept: oandm-plan
 entity_type: concept
 aliases: ["O&M Plan", "Operations and Maintenance Plan"]
 sources: []
-confidence: medium
+confidence: low
 created_at: 2026-07-23T14:40:53Z
 ---
 
@@ -26,6 +26,8 @@ DTSC is the lead regulatory agency overseeing the project under the California H
 The California Regional Water Quality Control Board, Central Valley Region, may have concurrent jurisdiction over any groundwater monitoring components, though the primary oversight is through DTSC.
 
 ## Open items
+
+- **Unverified sourcing (flagged 2026-08-10)**: This article cites `sources: []` — no source document is on record for its claims. Content should be treated as unverified until the article is regenerated with proper source grounding.
 
 The specific contents, monitoring schedules, reporting frequencies, and institutional control mechanisms for the O&M Plan are pending development and DTSC approval. No draft O&M Plan is documented in the available record. Key open items include finalization of cap design specifications that will drive inspection protocols, determination of groundwater monitoring requirements if any, and identification of the responsible party for long-term implementation.
 

@@ -23,6 +23,8 @@ Consolidation activities were conducted under the oversight of the California De
 The Phase 1 Bcs Consolidation was implemented as an interim remedial measure under DTSC oversight. Characterization data for the consolidated Bcs material confirmed exceedances of applicable commercial/industrial screening levels for TPH-d and TPH-mo, necessitating either on-site treatment or off-site disposal at a permitted facility. DTSC concurrence on the final remedy for the consolidated Bcs stockpile remains a prerequisite for site closure.
 
 ## Open items
+
+- **Unverified sourcing (flagged 2026-08-10)**: This article cites `sources: []` — no source document is on record for its claims. Content should be treated as unverified until the article is regenerated with proper source grounding.
 - Final remedy selection for the consolidated Phase 1 Bcs stockpile pending DTSC approval
 - Completion of any required post-consolidation confirmation sampling or treatment verification
 - Documentation of ultimate disposal or treatment endpoint for Bcs material

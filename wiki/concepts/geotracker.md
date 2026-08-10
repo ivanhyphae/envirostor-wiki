@@ -1,10 +1,10 @@
 ---
 concept: geotracker
 entity_type: concept
-aliases: ["GeoTracker"]
+aliases: [""]
 sources: ["wiki/sources/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814.md"]
 confidence: high
-created_at: 2026-07-23T14:40:04Z
+created_at: 2026-08-10T22:38:54Z
 ---
 
 ## Overview
@@ -28,3 +28,8 @@ No unresolved GeoTracker-related issues are documented in the available sources.
 - [[june-2014-groundwater-monitoring-report]]
 - geocon-consultants
 - [[caltrans]]
+- [[caltrans-district-6]]
+- [[chromium]]
+- [[arsenic]]
+- [[barium]]
+- [[barium-below-mcl]]

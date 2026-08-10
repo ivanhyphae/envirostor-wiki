@@ -3,7 +3,7 @@ concept: caltrans-division-environmental-analysis
 entity_type: concept
 aliases: ["Caltrans Division of Environmental Analysis"]
 sources: []
-confidence: medium
+confidence: low
 created_at: 2026-07-23T14:40:21Z
 ---
 
@@ -31,6 +31,8 @@ DEA operated under the regulatory framework of the California Health and Safety 
 DEA communicated with DTSC regarding the disposal classification of the ADL-impacted soil based on analytical results from the stockpile characterization program.
 
 ## Open items
+
+- **Unverified sourcing (flagged 2026-08-10)**: This article cites `sources: []` — no source document is on record for its claims. Content should be treated as unverified until the article is regenerated with proper source grounding.
 
 The specific disposition of DTSC concurrence on the waste classification determination is not fully documented in the available source materials. Whether additional characterization, alternative disposal options, or variances were pursued is not established in the project record reviewed.
 

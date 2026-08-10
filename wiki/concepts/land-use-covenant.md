@@ -3,7 +3,7 @@ concept: land-use-covenant
 entity_type: concept
 aliases: ["land use covenant"]
 sources: []
-confidence: medium
+confidence: low
 created_at: 2026-07-23T14:41:29Z
 ---
 
@@ -37,6 +37,7 @@ The LUC remains in effect until DTSC determines that the restrictions are no lon
 
 ## Open items
 
+- **Unverified sourcing (flagged 2026-08-10)**: This article cites `sources: []` and its specifics do not match the actual recorded LUC on file (`wiki/sources/Modesto Soil Stockpiles_ Final Recorded LUC/`). That document is dated April 18, 2024 (Doc. No. 2024-0017459), covers 9.3 acres, and addresses barium-containing soil (BCS) — not the December 19, 2019 recording, Doc. No. 2019-0052341, 4.2 acres, and lead/TPH contaminants stated below. The details in this article should be treated as unverified until it is regenerated from the actual recorded source.
 - **Periodic cap inspections**: Caltrans is required to conduct inspections of the asphalt cap and submit reports to DTSC. The inspection schedule and status of the most recent inspection report are not documented in the available case file materials.
 - **Five-year review**: DTSC typically requires a five-year review of institutional controls. The status of the first five-year review (anticipated in 2024) is not yet documented in the available record.
 
