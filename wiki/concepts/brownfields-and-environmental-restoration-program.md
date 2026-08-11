@@ -2,7 +2,7 @@
 concept: brownfields-and-environmental-restoration-program
 entity_type: concept
 aliases: ["Brownfields and Environmental Restoration Program"]
-sources: ["Draft Final RAP Updated Implementation Sch/Draft Final RAP Updated Implementation Sch.md"]
+sources: ["wiki/sources/Draft Final RAP Updated Implementation Sch/Draft Final RAP Updated Implementation Sch.md"]
 confidence: high
 created_at: 2026-08-11T02:53:08Z
 ---

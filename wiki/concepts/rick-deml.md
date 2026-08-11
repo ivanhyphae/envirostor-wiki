@@ -2,7 +2,7 @@
 concept: rick-deml
 entity_type: concept
 aliases: ["Rick Deml"]
-sources: ["DTSC E-mail Approval of Carpenter Shoofly Tech Memo/DTSC E-mail Approval of Carpenter Shoofly Tech Memo.md"]
+sources: ["wiki/sources/DTSC E-mail Approval of Carpenter Shoofly Tech Memo/DTSC E-mail Approval of Carpenter Shoofly Tech Memo.md"]
 confidence: high
 created_at: 2026-08-11T02:52:58Z
 ---

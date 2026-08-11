@@ -2,7 +2,7 @@
 concept: site-mitigation-and-restoration-program
 entity_type: concept
 aliases: ["Site Mitigation and Restoration Program"]
-sources: ["DTSC Letter Response - 2025 GW Monitoring Report (900259)/DTSC Letter Response - 2025 GW Monitoring Report (900259).md", "DTSC PM Change Notice - State Route 132 - Modesto Soil Stockpiles, Modesto/DTSC PM Change Notice - State Route 132 - Modesto Soil Stockpiles, Modesto.md"]
+sources: ["wiki/sources/DTSC Letter Response - 2025 GW Monitoring Report (900259)/DTSC Letter Response - 2025 GW Monitoring Report (900259).md", "wiki/sources/DTSC PM Change Notice - State Route 132 - Modesto Soil Stockpiles, Modesto/DTSC PM Change Notice - State Route 132 - Modesto Soil Stockpiles, Modesto.md"]
 confidence: high
 created_at: 2026-08-11T02:55:35Z
 ---

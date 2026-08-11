@@ -2,7 +2,7 @@
 concept: mse-wall-footing-sampling-plan
 entity_type: technique
 aliases: ["MSE footing soils", "MSE wall footing sampling plan"]
-sources: ["E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan/E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan.md", "E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo/E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo.md", "Stockpile 1 MSE Wall Sampling Tech Memo/Stockpile 1 MSE Wall Sampling Tech Memo.md"]
+sources: ["wiki/sources/E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan/E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan.md", "wiki/sources/E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo/E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo.md", "wiki/sources/Stockpile 1 MSE Wall Sampling Tech Memo/Stockpile 1 MSE Wall Sampling Tech Memo.md"]
 confidence: high
 created_at: 2026-08-11T02:53:11Z
 ---

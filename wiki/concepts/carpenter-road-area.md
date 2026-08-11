@@ -2,7 +2,7 @@
 concept: carpenter-road-area
 entity_type: concept
 aliases: ["Carpenter Road", "Carpenter Road area"]
-sources: ["DTSC E-mail Approval of Carpenter Shoofly Tech Memo/DTSC E-mail Approval of Carpenter Shoofly Tech Memo.md", "wiki/sources/Approval E-mail_ SR 132 Basin 5 Clean Fill Sampling Plan/Approval E-mail_ SR 132 Basin 5 Clean Fill Sampling Plan.md"]
+sources: ["wiki/sources/DTSC E-mail Approval of Carpenter Shoofly Tech Memo/DTSC E-mail Approval of Carpenter Shoofly Tech Memo.md", "wiki/sources/Approval E-mail_ SR 132 Basin 5 Clean Fill Sampling Plan/Approval E-mail_ SR 132 Basin 5 Clean Fill Sampling Plan.md"]
 confidence: high
 created_at: 2026-08-11T02:51:55Z
 ---

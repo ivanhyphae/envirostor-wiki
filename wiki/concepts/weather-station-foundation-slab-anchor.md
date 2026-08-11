@@ -2,7 +2,7 @@
 concept: weather-station-foundation-slab-anchor
 entity_type: concept
 aliases: []
-sources: ["Stockpile 2 BCS Foundation Spoil Workplan Tech Memo/Stockpile 2 BCS Foundation Spoil Workplan Tech Memo.md"]
+sources: ["wiki/sources/Stockpile 2 BCS Foundation Spoil Workplan Tech Memo/Stockpile 2 BCS Foundation Spoil Workplan Tech Memo.md"]
 confidence: high
 created_at: 2026-08-11T02:54:59Z
 ---

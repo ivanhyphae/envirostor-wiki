@@ -2,7 +2,7 @@
 concept: bcs-foundation-excavations
 entity_type: concept
 aliases: ["bcs-removal-verification-testing"]
-sources: ["Stockpile 2 BCS Foundation Spoil Workplan Tech Memo/Stockpile 2 BCS Foundation Spoil Workplan Tech Memo.md", "Stockpile 2 Confirmation Sampling Tech Memo Approval/Stockpile 2 Confirmation Sampling Tech Memo Approval.md"]
+sources: ["wiki/sources/Stockpile 2 BCS Foundation Spoil Workplan Tech Memo/Stockpile 2 BCS Foundation Spoil Workplan Tech Memo.md", "wiki/sources/Stockpile 2 Confirmation Sampling Tech Memo Approval/Stockpile 2 Confirmation Sampling Tech Memo Approval.md"]
 confidence: high
 created_at: 2026-08-11T02:54:55Z
 ---

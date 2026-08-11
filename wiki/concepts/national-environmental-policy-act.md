@@ -2,7 +2,7 @@
 concept: national-environmental-policy-act
 entity_type: concept
 aliases: ["nepa"]
-sources: ["SR_132_DEIR_EA/SR_132_DEIR_EA.md", "SR_132_DEIR_EA_Append_A-F/SR_132_DEIR_EA_Append_A-F.md"]
+sources: ["wiki/sources/SR_132_DEIR_EA/SR_132_DEIR_EA.md", "wiki/sources/SR_132_DEIR_EA_Append_A-F/SR_132_DEIR_EA_Append_A-F.md"]
 confidence: high
 created_at: 2026-08-11T02:54:54Z
 ---

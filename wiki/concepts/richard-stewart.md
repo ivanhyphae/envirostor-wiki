@@ -2,7 +2,7 @@
 concept: richard-stewart
 entity_type: concept
 aliases: ["Richard C. Stewart", "Richard Stewart"]
-sources: ["DTSC E-mail Approval of Carpenter Shoofly Tech Memo/DTSC E-mail Approval of Carpenter Shoofly Tech Memo.md", "E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan/E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan.md", "wiki/sources/43A0310-04 A01 Executed/43A0310-04 A01 Executed.md", "wiki/sources/43A0404-04 Executed/43A0404-04 Executed.md", "wiki/sources/7084_S9525-06-44 Response to DTSC Workplan Comments.0912/7084_S9525-06-44 Response to DTSC Workplan Comments.0912.md", "wiki/sources/Caltrans -DTSC Agreement/Caltrans -DTSC Agreement.md", "wiki/sources/Caltrans SR 132-99 Task Order 4/Caltrans SR 132-99 Task Order 4.md", "wiki/sources/DTSC Approval E-mail for Carpenter Shoofly Clean Fill Sampling Plan/DTSC Approval E-mail for Carpenter Shoofly Clean Fill Sampling Plan.md"]
+sources: ["wiki/sources/DTSC E-mail Approval of Carpenter Shoofly Tech Memo/DTSC E-mail Approval of Carpenter Shoofly Tech Memo.md", "wiki/sources/E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan/E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan.md", "wiki/sources/43A0310-04 A01 Executed/43A0310-04 A01 Executed.md", "wiki/sources/43A0404-04 Executed/43A0404-04 Executed.md", "wiki/sources/7084_S9525-06-44 Response to DTSC Workplan Comments.0912/7084_S9525-06-44 Response to DTSC Workplan Comments.0912.md", "wiki/sources/Caltrans -DTSC Agreement/Caltrans -DTSC Agreement.md", "wiki/sources/Caltrans SR 132-99 Task Order 4/Caltrans SR 132-99 Task Order 4.md", "wiki/sources/DTSC Approval E-mail for Carpenter Shoofly Clean Fill Sampling Plan/DTSC Approval E-mail for Carpenter Shoofly Clean Fill Sampling Plan.md"]
 confidence: high
 created_at: 2026-08-11T02:50:17Z
 ---

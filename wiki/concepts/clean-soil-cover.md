@@ -2,7 +2,7 @@
 concept: clean-soil-cover
 entity_type: concept
 aliases: ["clean capping material", "clean cover", "clean cover fill material", "clean fill", "clean fill material", "clean-cover", "clean-cover-embankment-fill", "clean-cover-fill-material", "clean-fill", "clean-fill-capping", "clean-fill-suitable-as-cover"]
-sources: ["Stockpile 2 Confirmation Sampling Tech Memo Approval/Stockpile 2 Confirmation Sampling Tech Memo Approval.md", "wiki/sources/Caltrans Modesto Soil Stcokpiles RDIP Variance/Caltrans Modesto Soil Stcokpiles RDIP Variance.md", "wiki/sources/Carpenter Road Shoofly Clean Fill Tech Memo/Carpenter Road Shoofly Clean Fill Tech Memo.md", "wiki/sources/Carpenter Shoofly Area Clean Fill Sampling Plan/Carpenter Shoofly Area Clean Fill Sampling Plan.md", "wiki/sources/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19.md", "wiki/sources/Stockpile 3 Confirmation Sampling Tech Memo Approval/Stockpile 3 Confirmation Sampling Tech Memo Approval.md"]
+sources: ["wiki/sources/Stockpile 2 Confirmation Sampling Tech Memo Approval/Stockpile 2 Confirmation Sampling Tech Memo Approval.md", "wiki/sources/Caltrans Modesto Soil Stcokpiles RDIP Variance/Caltrans Modesto Soil Stcokpiles RDIP Variance.md", "wiki/sources/Carpenter Road Shoofly Clean Fill Tech Memo/Carpenter Road Shoofly Clean Fill Tech Memo.md", "wiki/sources/Carpenter Shoofly Area Clean Fill Sampling Plan/Carpenter Shoofly Area Clean Fill Sampling Plan.md", "wiki/sources/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19.md", "wiki/sources/Stockpile 3 Confirmation Sampling Tech Memo Approval/Stockpile 3 Confirmation Sampling Tech Memo Approval.md"]
 confidence: high
 created_at: 2026-08-11T02:52:34Z
 ---

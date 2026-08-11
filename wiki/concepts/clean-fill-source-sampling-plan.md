@@ -2,7 +2,7 @@
 concept: clean-fill-source-sampling-plan
 entity_type: deliverable
 aliases: ["Proposed Clean Fill Source Sampling Plan"]
-sources: ["Basin 5 Clean Fill Sampling Plan"]
+sources: ["wiki/sources/Basin 5 Clean Fill Sampling Plan/Basin 5 Clean Fill Sampling Plan.md"]
 confidence: medium
 created_at: 2026-08-11T01:03:11Z
 ---

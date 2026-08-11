@@ -2,7 +2,7 @@
 concept: appendix-a
 entity_type: deliverable
 aliases: []
-sources: ["SR_132_DEIR_EA_Append_A-F/SR_132_DEIR_EA_Append_A-F.md"]
+sources: ["wiki/sources/SR_132_DEIR_EA_Append_A-F/SR_132_DEIR_EA_Append_A-F.md"]
 confidence: high
 created_at: 2026-08-11T02:56:00Z
 ---

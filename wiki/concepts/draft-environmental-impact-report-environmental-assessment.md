@@ -2,7 +2,7 @@
 concept: draft-environmental-impact-report-environmental-assessment
 entity_type: deliverable
 aliases: ["Draft Environmental Impact Report/Environmental Assessment (Draft EIR/EA)", "EIR/EA", "draft-eir-ea", "eir-ea", "environmental-impact-report-environmental-assessment", "final-eir-ea", "final-environmental-impact-report-environmental-assessment"]
-sources: ["SR 132 West Signed NOA Public/SR 132 West Signed NOA Public.md", "SR_132_DEIR_EA/SR_132_DEIR_EA.md", "SR_132_DEIR_EA_Append_A-F/SR_132_DEIR_EA_Append_A-F.md", "SR_132_DEIR_EA_Append_G-J/SR_132_DEIR_EA_Append_G-J.md", "wiki/sources/SR 132 Public Notice English_/SR 132 Public Notice English_.md", "wiki/sources/opr25@opr.ca.gov_20180319_135531/opr25@opr.ca.gov_20180319_135531.md"]
+sources: ["wiki/sources/SR 132 West Signed NOA Public/SR 132 West Signed NOA Public.md", "wiki/sources/SR_132_DEIR_EA/SR_132_DEIR_EA.md", "wiki/sources/SR_132_DEIR_EA_Append_A-F/SR_132_DEIR_EA_Append_A-F.md", "wiki/sources/SR_132_DEIR_EA_Append_G-J/SR_132_DEIR_EA_Append_G-J.md", "wiki/sources/SR 132 Public Notice English_/SR 132 Public Notice English_.md", "wiki/sources/opr25@opr.ca.gov_20180319_135531/opr25@opr.ca.gov_20180319_135531.md"]
 confidence: high
 created_at: 2026-08-11T02:54:46Z
 ---

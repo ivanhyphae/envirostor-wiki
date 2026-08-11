@@ -2,7 +2,7 @@
 concept: conditional-approval-letter
 entity_type: concept
 aliases: ["conditional approval letter"]
-sources: ["DTSC Approval Response for final version of Well Destruction Report/DTSC Approval Response for final version of Well Destruction Report.md", "DTSC Letter Response - 2025 GW Monitoring Report (900259)/DTSC Letter Response - 2025 GW Monitoring Report (900259).md"]
+sources: ["wiki/sources/DTSC Approval Response for final version of Well Destruction Report/DTSC Approval Response for final version of Well Destruction Report.md", "wiki/sources/DTSC Letter Response - 2025 GW Monitoring Report (900259)/DTSC Letter Response - 2025 GW Monitoring Report (900259).md"]
 confidence: high
 created_at: 2026-08-11T02:55:30Z
 ---

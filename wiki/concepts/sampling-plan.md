@@ -2,7 +2,7 @@
 concept: sampling-plan
 entity_type: deliverable
 aliases: ["Sampling and Analysis Plan (SAP)"]
-sources: ["Borrow Area Sampling Plan", "wiki/sources/1. SR_132_FEIR_EA_ 20180302 FINAL Main Doc/1. SR_132_FEIR_EA_ 20180302 FINAL Main Doc.md", "wiki/sources/Caltrans -DTSC Agreement/Caltrans -DTSC Agreement.md", "wiki/sources/Caltrans Modesto Soil Stcokpiles RDIP Variance/Caltrans Modesto Soil Stcokpiles RDIP Variance.md", "wiki/sources/Carpenter Shoofly Area Clean Fill Sampling Plan/Carpenter Shoofly Area Clean Fill Sampling Plan.md"]
+sources: ["wiki/sources/Borrow Area Sampling Plan/Borrow Area Sampling Plan.md", "wiki/sources/1. SR_132_FEIR_EA_ 20180302 FINAL Main Doc/1. SR_132_FEIR_EA_ 20180302 FINAL Main Doc.md", "wiki/sources/Caltrans -DTSC Agreement/Caltrans -DTSC Agreement.md", "wiki/sources/Caltrans Modesto Soil Stcokpiles RDIP Variance/Caltrans Modesto Soil Stcokpiles RDIP Variance.md", "wiki/sources/Carpenter Shoofly Area Clean Fill Sampling Plan/Carpenter Shoofly Area Clean Fill Sampling Plan.md"]
 confidence: high
 created_at: 2026-08-11T00:58:03Z
 ---

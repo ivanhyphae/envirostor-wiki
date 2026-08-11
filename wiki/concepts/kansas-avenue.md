@@ -2,7 +2,7 @@
 concept: kansas-avenue
 entity_type: concept
 aliases: ["Kansas Avenue", "kansas-avenue-off-ramp", "sr-99-kansas-avenue-northbound-off-ramp"]
-sources: ["State Route 132 RAP Approval PN (FINAL 2-21-18)/State Route 132 RAP Approval PN (FINAL 2-21-18).md", "Stockpile 2 BCS Foundation Spoil Workplan Tech Memo/Stockpile 2 BCS Foundation Spoil Workplan Tech Memo.md", "wiki/sources/Caltrans -DTSC Agreement/Caltrans -DTSC Agreement.md", "wiki/sources/Caltrans Ramp Letter dated 5.29.12/Caltrans Ramp Letter dated 5.29.12.md", "wiki/sources/Carpenter Shoofly Area Clean Fill Sampling Plan/Carpenter Shoofly Area Clean Fill Sampling Plan.md", "wiki/sources/SR 132 Stockpile 3 BCS Removal Tech Memo/SR 132 Stockpile 3 BCS Removal Tech Memo.md"]
+sources: ["wiki/sources/State Route 132 RAP Approval PN (FINAL 2-21-18)/State Route 132 RAP Approval PN (FINAL 2-21-18).md", "wiki/sources/Stockpile 2 BCS Foundation Spoil Workplan Tech Memo/Stockpile 2 BCS Foundation Spoil Workplan Tech Memo.md", "wiki/sources/Caltrans -DTSC Agreement/Caltrans -DTSC Agreement.md", "wiki/sources/Caltrans Ramp Letter dated 5.29.12/Caltrans Ramp Letter dated 5.29.12.md", "wiki/sources/Carpenter Shoofly Area Clean Fill Sampling Plan/Carpenter Shoofly Area Clean Fill Sampling Plan.md", "wiki/sources/SR 132 Stockpile 3 BCS Removal Tech Memo/SR 132 Stockpile 3 BCS Removal Tech Memo.md"]
 confidence: high
 created_at: 2026-08-11T02:52:02Z
 ---

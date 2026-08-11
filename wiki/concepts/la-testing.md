@@ -2,7 +2,7 @@
 concept: la-testing
 entity_type: concept
 aliases: ["LA Testing"]
-sources: ["Draft Interim RACR_Text_Figures_Tables_ App A-C/Draft Interim RACR_Text_ Figures_Tables_ App A-C.md"]
+sources: ["wiki/sources/Draft Interim RACR_Text_Figures_Tables_ App A-C/Draft Interim RACR_Text_Figures_Tables_ App A-C.md"]
 confidence: high
 created_at: 2026-08-11T02:53:14Z
 ---

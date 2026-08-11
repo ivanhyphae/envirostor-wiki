@@ -2,7 +2,7 @@
 concept: surface-water-inspection-report
 entity_type: deliverable
 aliases: ["Surface water inspection report"]
-sources: ["06A2542ct_to97_SurfaceWaterLetter_final.20230309/06A2542ct_to97_SurfaceWaterLetter_final.20230309.md"]
+sources: ["wiki/sources/06A2542ct_to97_SurfaceWaterLetter_final.20230309/06A2542ct_to97_SurfaceWaterLetter_final.20230309.md"]
 confidence: high
 created_at: 2026-08-11T01:02:32Z
 ---

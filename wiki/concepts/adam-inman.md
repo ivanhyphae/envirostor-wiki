@@ -2,7 +2,7 @@
 concept: adam-inman
 entity_type: concept
 aliases: ["Adam Inman"]
-sources: ["DTSC Approval Response for final version of Well Destruction Report/DTSC Approval Response for final version of Well Destruction Report.md", "DTSC Letter Response - 2025 GW Monitoring Report (900259)/DTSC Letter Response - 2025 GW Monitoring Report (900259).md", "wiki/sources/43A0487 _04 Modesto Stockpiles - signed/43A0487 _04 Modesto Stockpiles - signed.md"]
+sources: ["wiki/sources/DTSC Approval Response for final version of Well Destruction Report/DTSC Approval Response for final version of Well Destruction Report.md", "wiki/sources/DTSC Letter Response - 2025 GW Monitoring Report (900259)/DTSC Letter Response - 2025 GW Monitoring Report (900259).md", "wiki/sources/43A0487 _04 Modesto Stockpiles - signed/43A0487 _04 Modesto Stockpiles - signed.md"]
 confidence: high
 created_at: 2026-08-11T02:50:23Z
 ---

@@ -2,7 +2,7 @@
 concept: clean-fill
 entity_type: concept
 aliases: ["clean fill/cover"]
-sources: ["Basin 5 Clean Fill Sampling Plan", "Borrow Area Sampling Plan", "wiki/sources/3.15.2018 - Caltrans Modesto SOF/3.15.2018 - Caltrans Modesto SOF.md"]
+sources: ["wiki/sources/Basin 5 Clean Fill Sampling Plan/Basin 5 Clean Fill Sampling Plan.md", "wiki/sources/Borrow Area Sampling Plan/Borrow Area Sampling Plan.md", "wiki/sources/3.15.2018 - Caltrans Modesto SOF/3.15.2018 - Caltrans Modesto SOF.md"]
 confidence: high
 created_at: 2026-08-11T00:56:56Z
 ---

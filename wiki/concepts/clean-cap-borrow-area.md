@@ -2,7 +2,7 @@
 concept: clean-cap-borrow-area
 entity_type: concept
 aliases: ["primary borrow area"]
-sources: ["Draft Interim RACR_Text_ Figures_Tables_ App A-C/Draft Interim RACR_Text_ Figures_Tables_ App A-C.md"]
+sources: ["wiki/sources/Draft Interim RACR_Text_Figures_Tables_ App A-C/Draft Interim RACR_Text_Figures_Tables_ App A-C.md"]
 confidence: high
 created_at: 2026-08-11T02:55:38Z
 ---

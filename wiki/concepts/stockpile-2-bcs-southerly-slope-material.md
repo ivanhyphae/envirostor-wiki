@@ -2,7 +2,7 @@
 concept: stockpile-2-bcs-southerly-slope-material
 entity_type: concept
 aliases: ["Stockpile 2 BCS southerly slope material"]
-sources: ["E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo/E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo.md"]
+sources: ["wiki/sources/E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo/E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo.md"]
 confidence: high
 created_at: 2026-08-11T02:55:40Z
 ---

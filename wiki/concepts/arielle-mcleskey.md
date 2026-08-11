@@ -2,7 +2,7 @@
 concept: arielle-mcleskey
 entity_type: concept
 aliases: ["Arielle Mcleskey"]
-sources: ["DTSC Approval Response for final version of Well Destruction Report/DTSC Approval Response for final version of Well Destruction Report.md", "DTSC PM Change Notice - State Route 132 - Modesto Soil Stockpiles, Modesto/DTSC PM Change Notice - State Route 132 - Modesto Soil Stockpiles, Modesto.md", "wiki/sources/43A0487 _04 Modesto Stockpiles - signed/43A0487 _04 Modesto Stockpiles - signed.md"]
+sources: ["wiki/sources/DTSC Approval Response for final version of Well Destruction Report/DTSC Approval Response for final version of Well Destruction Report.md", "wiki/sources/DTSC PM Change Notice - State Route 132 - Modesto Soil Stockpiles, Modesto/DTSC PM Change Notice - State Route 132 - Modesto Soil Stockpiles, Modesto.md", "wiki/sources/43A0487 _04 Modesto Stockpiles - signed/43A0487 _04 Modesto Stockpiles - signed.md"]
 confidence: high
 created_at: 2026-08-11T02:50:23Z
 ---

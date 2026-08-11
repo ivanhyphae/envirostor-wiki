@@ -2,7 +2,7 @@
 concept: stockpile-2-confirmation-sampling-tech-memo
 entity_type: deliverable
 aliases: []
-sources: ["Stockpile 2 Confirmation Sampling Tech Memo Approval/Stockpile 2 Confirmation Sampling Tech Memo Approval.md"]
+sources: ["wiki/sources/Stockpile 2 Confirmation Sampling Tech Memo Approval/Stockpile 2 Confirmation Sampling Tech Memo Approval.md"]
 confidence: high
 created_at: 2026-08-11T02:56:06Z
 ---

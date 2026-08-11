@@ -2,7 +2,7 @@
 concept: clean-fill-suitable-as-cover
 entity_type: claim
 aliases: []
-sources: ["Borrow Area Sampling Plan", "wiki/sources/3.15.2018 - Caltrans Modesto SOF/3.15.2018 - Caltrans Modesto SOF.md", "wiki/sources/Carpenter Shoofly Area Clean Fill Sampling Plan/Carpenter Shoofly Area Clean Fill Sampling Plan.md", "wiki/sources/S9650-06-03 MODESTO RAMP WORKPLAN.0412/S9650-06-03 MODESTO RAMP WORKPLAN.0412.md", "wiki/sources/Stockpile 1 MSE Wall Sampling Tech Memo/Stockpile 1 MSE Wall Sampling Tech Memo.md"]
+sources: ["wiki/sources/Borrow Area Sampling Plan/Borrow Area Sampling Plan.md", "wiki/sources/3.15.2018 - Caltrans Modesto SOF/3.15.2018 - Caltrans Modesto SOF.md", "wiki/sources/Carpenter Shoofly Area Clean Fill Sampling Plan/Carpenter Shoofly Area Clean Fill Sampling Plan.md", "wiki/sources/S9650-06-03 MODESTO RAMP WORKPLAN.0412/S9650-06-03 MODESTO RAMP WORKPLAN.0412.md", "wiki/sources/Stockpile 1 MSE Wall Sampling Tech Memo/Stockpile 1 MSE Wall Sampling Tech Memo.md"]
 confidence: high
 created_at: 2026-08-11T00:56:58Z
 ---

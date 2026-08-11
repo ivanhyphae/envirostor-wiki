@@ -2,7 +2,7 @@
 concept: variance-request
 entity_type: concept
 aliases: ["Variance Reque"]
-sources: ["E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo.md"]
+sources: ["wiki/sources/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo.md"]
 confidence: high
 created_at: 2026-08-11T02:55:46Z
 ---

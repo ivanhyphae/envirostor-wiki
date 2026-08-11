@@ -2,7 +2,7 @@
 concept: operation-and-maintenance-agreement
 entity_type: deliverable
 aliases: ["O&M Agreement", "Operation and Maintenance (O&M) Agreement"]
-sources: ["Final O and M Agreement with Cover Letter (900259)/Final O and M Agreement with Cover Letter (900259).md"]
+sources: ["wiki/sources/Final O and M Agreement with Cover Letter (900259)/Final O and M Agreement with Cover Letter (900259).md"]
 confidence: high
 created_at: 2026-08-11T02:53:28Z
 ---

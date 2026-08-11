@@ -2,7 +2,7 @@
 concept: stockpiles-1-and-2-mse-wall-sampling-plan
 entity_type: deliverable
 aliases: ["Stockpiles 1 & 2 MSE wall footing sampling", "Stockpiles 1 and 2 MSE wall sampling plan"]
-sources: ["E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan/E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan.md", "wiki/sources/Acceptance E-mail_Stockpiles 1 and 2 MSE Wall Sampling Plan/Acceptance E-mail_Stockpiles 1 and 2 MSE Wall Sampling Plan.md"]
+sources: ["wiki/sources/E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan/E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan.md", "wiki/sources/Acceptance E-mail_Stockpiles 1 and 2 MSE Wall Sampling Plan/Acceptance E-mail_Stockpiles 1 and 2 MSE Wall Sampling Plan.md"]
 confidence: high
 created_at: 2026-08-11T02:51:20Z
 ---

@@ -2,7 +2,7 @@
 concept: surface-water-discharge-inspection
 entity_type: concept
 aliases: ["Surface water discharge inspection"]
-sources: ["06A2542ct_to16_SurfaceWaterLetter _final.20210323/06A2542ct_to16_SurfaceWaterLetter _final.20210323.md"]
+sources: ["wiki/sources/06A2542ct_to16_SurfaceWaterLetter _final.20210323/06A2542ct_to16_SurfaceWaterLetter _final.20210323.md"]
 confidence: high
 created_at: 2026-08-11T01:02:29Z
 ---

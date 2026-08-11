@@ -2,7 +2,7 @@
 concept: caltrans-district-6
 entity_type: concept
 aliases: ["Caltrans - District 6", "Caltrans District 6"]
-sources: ["DTSC Letter Response - 2025 GW Monitoring Report (900259)/DTSC Letter Response - 2025 GW Monitoring Report (900259).md", "wiki/sources/7084_S9525-06-44 Response to DTSC Workplan Comments.0912/7084_S9525-06-44 Response to DTSC Workplan Comments.0912.md", "wiki/sources/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313.md", "wiki/sources/S9525-06-44AModesto Stockpiles GW. SEPT2012.1212/S9525-06-44AModesto Stockpiles GW. SEPT2012.1212.md", "wiki/sources/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814.md"]
+sources: ["wiki/sources/DTSC Letter Response - 2025 GW Monitoring Report (900259)/DTSC Letter Response - 2025 GW Monitoring Report (900259).md", "wiki/sources/7084_S9525-06-44 Response to DTSC Workplan Comments.0912/7084_S9525-06-44 Response to DTSC Workplan Comments.0912.md", "wiki/sources/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313.md", "wiki/sources/S9525-06-44AModesto Stockpiles GW. SEPT2012.1212/S9525-06-44AModesto Stockpiles GW. SEPT2012.1212.md", "wiki/sources/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814.md"]
 confidence: high
 created_at: 2026-08-11T02:50:45Z
 ---

@@ -2,7 +2,7 @@
 concept: stockpile-consolidation
 entity_type: concept
 aliases: ["stockpile consolidation"]
-sources: ["Draft Interim RACR_Text_Figures_Tables_ App A-C/Draft Interim RACR_Text_Figures_Tables_ App A-C.md", "wiki/sources/Caltrans Modesto Soil Stcokpiles RDIP Variance/Caltrans Modesto Soil Stcokpiles RDIP Variance.md", "wiki/sources/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19.md"]
+sources: ["wiki/sources/Draft Interim RACR_Text_Figures_Tables_ App A-C/Draft Interim RACR_Text_Figures_Tables_ App A-C.md", "wiki/sources/Caltrans Modesto Soil Stcokpiles RDIP Variance/Caltrans Modesto Soil Stcokpiles RDIP Variance.md", "wiki/sources/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19.md"]
 confidence: high
 created_at: 2026-08-11T02:52:38Z
 ---

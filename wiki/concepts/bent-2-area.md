@@ -2,7 +2,7 @@
 concept: bent-2-area
 entity_type: concept
 aliases: ["Bent 2 area", "bent 2 soils"]
-sources: ["E-mail Acceptance of Bent 2 Soils Tech Memo/E-mail Acceptance of Bent 2 Soils Tech Memo.md"]
+sources: ["wiki/sources/E-mail Acceptance of Bent 2 Soils Tech Memo/E-mail Acceptance of Bent 2 Soils Tech Memo.md"]
 confidence: high
 created_at: 2026-08-11T02:53:18Z
 ---

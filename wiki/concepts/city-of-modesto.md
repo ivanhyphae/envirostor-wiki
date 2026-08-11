@@ -2,7 +2,7 @@
 concept: city-of-modesto
 entity_type: concept
 aliases: ["City of Modesto"]
-sources: ["DTSC E-mail Approval of Carpenter Shoofly Tech Memo/DTSC E-mail Approval of Carpenter Shoofly Tech Memo.md", "wiki/sources/Carpenter Road Shoofly Clean Fill Tech Memo/Carpenter Road Shoofly Clean Fill Tech Memo.md", "wiki/sources/SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020/SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020.md", "wiki/sources/SR 132 Clean Borrow Area Technical Memo/SR 132 Clean Borrow Area Technical Memo.md"]
+sources: ["wiki/sources/DTSC E-mail Approval of Carpenter Shoofly Tech Memo/DTSC E-mail Approval of Carpenter Shoofly Tech Memo.md", "wiki/sources/Carpenter Road Shoofly Clean Fill Tech Memo/Carpenter Road Shoofly Clean Fill Tech Memo.md", "wiki/sources/SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020/SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020.md", "wiki/sources/SR 132 Clean Borrow Area Technical Memo/SR 132 Clean Borrow Area Technical Memo.md"]
 confidence: high
 created_at: 2026-08-11T02:52:25Z
 ---

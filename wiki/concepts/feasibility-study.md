@@ -2,7 +2,7 @@
 concept: feasibility-study
 entity_type: deliverable
 aliases: ["FS", "Feasibility Study"]
-sources: ["Final FS Letter/Final FS Letter.md", "SR_132_DEIR_EA_Append_G-J/SR_132_DEIR_EA_Append_G-J.md"]
+sources: ["wiki/sources/Final FS Letter/Final FS Letter.md", "wiki/sources/SR_132_DEIR_EA_Append_G-J/SR_132_DEIR_EA_Append_G-J.md"]
 confidence: high
 created_at: 2026-08-11T02:53:25Z
 ---

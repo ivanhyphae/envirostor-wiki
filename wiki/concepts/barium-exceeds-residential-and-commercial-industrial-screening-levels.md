@@ -2,7 +2,7 @@
 concept: barium-exceeds-residential-and-commercial-industrial-screening-levels
 entity_type: claim
 aliases: ["barium exceeds residential and commercial/industrial screening levels"]
-sources: ["SR_132_DEIR_EA/SR_132_DEIR_EA.md", "wiki/sources/Caltrans Ramp Letter dated 5.29.12/Caltrans Ramp Letter dated 5.29.12.md", "wiki/sources/S9650-06-03 MODESTO RAMP WORKPLAN.0412/S9650-06-03 MODESTO RAMP WORKPLAN.0412.md", "wiki/sources/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan.Revised_10.14/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan.Revised_10.14.md"]
+sources: ["wiki/sources/SR_132_DEIR_EA/SR_132_DEIR_EA.md", "wiki/sources/Caltrans Ramp Letter dated 5.29.12/Caltrans Ramp Letter dated 5.29.12.md", "wiki/sources/S9650-06-03 MODESTO RAMP WORKPLAN.0412/S9650-06-03 MODESTO RAMP WORKPLAN.0412.md", "wiki/sources/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan.Revised_10.14/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan.Revised_10.14.md"]
 confidence: high
 created_at: 2026-08-11T02:52:48Z
 ---

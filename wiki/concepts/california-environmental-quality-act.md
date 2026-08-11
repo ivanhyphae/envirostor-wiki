@@ -2,7 +2,7 @@
 concept: california-environmental-quality-act
 entity_type: concept
 aliases: ["ceqa"]
-sources: ["SR_132_DEIR_EA/SR_132_DEIR_EA.md", "SR_132_DEIR_EA_Append_A-F/SR_132_DEIR_EA_Append_A-F.md", "wiki/sources/opr25@opr.ca.gov_20180319_135531/opr25@opr.ca.gov_20180319_135531.md"]
+sources: ["wiki/sources/SR_132_DEIR_EA/SR_132_DEIR_EA.md", "wiki/sources/SR_132_DEIR_EA_Append_A-F/SR_132_DEIR_EA_Append_A-F.md", "wiki/sources/opr25@opr.ca.gov_20180319_135531/opr25@opr.ca.gov_20180319_135531.md"]
 confidence: high
 created_at: 2026-08-11T02:54:55Z
 ---

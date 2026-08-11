@@ -2,7 +2,7 @@
 concept: containment-of-stockpiles
 entity_type: concept
 aliases: ["containment strategy", "containment-strategy"]
-sources: ["State Route 132 RAP Approval PN (FINAL 2-21-18)/State Route 132 RAP Approval PN (FINAL 2-21-18).md", "wiki/sources/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19.md"]
+sources: ["wiki/sources/State Route 132 RAP Approval PN (FINAL 2-21-18)/State Route 132 RAP Approval PN (FINAL 2-21-18).md", "wiki/sources/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19.md"]
 confidence: high
 created_at: 2026-08-11T02:53:52Z
 ---

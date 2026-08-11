@@ -2,7 +2,7 @@
 concept: remedial-action-plan
 entity_type: deliverable
 aliases: ["RAP", "Remedial Action Plan (RAP)"]
-sources: ["Draft Final RAP Updated Implementation Sch/Draft Final RAP Updated Implementation Sch.md", "wiki/sources/HearingSummaryReport_SR132 6.21.17 rdcd sz/HearingSummaryReport_SR132 6.21.17 rdcd sz.md", "wiki/sources/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19.md", "wiki/sources/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18.md", "wiki/sources/opr25@opr.ca.gov_20180319_135531/opr25@opr.ca.gov_20180319_135531.md"]
+sources: ["wiki/sources/Draft Final RAP Updated Implementation Sch/Draft Final RAP Updated Implementation Sch.md", "wiki/sources/HearingSummaryReport_SR132 6.21.17 rdcd sz/HearingSummaryReport_SR132 6.21.17 rdcd sz.md", "wiki/sources/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19.md", "wiki/sources/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18.md", "wiki/sources/opr25@opr.ca.gov_20180319_135531/opr25@opr.ca.gov_20180319_135531.md"]
 confidence: high
 created_at: 2026-08-11T02:53:10Z
 ---

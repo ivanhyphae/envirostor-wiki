@@ -2,7 +2,7 @@
 concept: human-health-risk-assessment
 entity_type: deliverable
 aliases: ["HHRA", "Human Health Risk Assessment (HHRA)", "Human Health Risk Assessment (HHRA) Update"]
-sources: ["SR_132_DEIR_EA_Append_G-J/SR_132_DEIR_EA_Append_G-J.md", "wiki/sources/S9525-06-44 HHRA UPDATE Rev.0313/S9525-06-44 HHRA UPDATE Rev.0313.md", "wiki/sources/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.md", "wiki/sources/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan.Revised_10.14/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan.Revised_10.14.md"]
+sources: ["wiki/sources/SR_132_DEIR_EA_Append_G-J/SR_132_DEIR_EA_Append_G-J.md", "wiki/sources/S9525-06-44 HHRA UPDATE Rev.0313/S9525-06-44 HHRA UPDATE Rev.0313.md", "wiki/sources/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.md", "wiki/sources/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan.Revised_10.14/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan.Revised_10.14.md"]
 confidence: medium
 created_at: 2026-08-11T02:54:26Z
 ---

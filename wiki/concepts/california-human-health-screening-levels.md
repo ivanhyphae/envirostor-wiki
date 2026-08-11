@@ -2,7 +2,7 @@
 concept: california-human-health-screening-levels
 entity_type: concept
 aliases: ["CHHSL", "CHHSLs"]
-sources: ["SR_132_DEIR_EA/SR_132_DEIR_EA.md", "wiki/sources/Caltrans Ramp Letter dated 5.29.12/Caltrans Ramp Letter dated 5.29.12.md", "wiki/sources/S9650-06-03 MODESTO RAMP WORKPLAN.0412/S9650-06-03 MODESTO RAMP WORKPLAN.0412.md"]
+sources: ["wiki/sources/SR_132_DEIR_EA/SR_132_DEIR_EA.md", "wiki/sources/Caltrans Ramp Letter dated 5.29.12/Caltrans Ramp Letter dated 5.29.12.md", "wiki/sources/S9650-06-03 MODESTO RAMP WORKPLAN.0412/S9650-06-03 MODESTO RAMP WORKPLAN.0412.md"]
 confidence: high
 created_at: 2026-08-11T02:52:15Z
 ---

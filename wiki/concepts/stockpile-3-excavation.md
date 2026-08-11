@@ -2,7 +2,7 @@
 concept: stockpile-3-excavation
 entity_type: concept
 aliases: ["Stockpile 3 excavation"]
-sources: ["Stockpile 2 Confirmation Sampling Tech Memo Approval/Stockpile 2 Confirmation Sampling Tech Memo Approval.md", "wiki/sources/7083_S9525-06-44 Modesto Soil Stockpiles Fenceline Workplan.0912/7083_S9525-06-44 Modesto Soil Stockpiles Fenceline Workplan.0912.md"]
+sources: ["wiki/sources/Stockpile 2 Confirmation Sampling Tech Memo Approval/Stockpile 2 Confirmation Sampling Tech Memo Approval.md", "wiki/sources/7083_S9525-06-44 Modesto Soil Stockpiles Fenceline Workplan.0912/7083_S9525-06-44 Modesto Soil Stockpiles Fenceline Workplan.0912.md"]
 confidence: high
 created_at: 2026-08-11T02:50:46Z
 ---

@@ -2,7 +2,7 @@
 concept: draft-final-feasibility-study
 entity_type: deliverable
 aliases: ["Draft Final Feasibility Study"]
-sources: ["Final FS Letter/Final FS Letter.md"]
+sources: ["wiki/sources/Final FS Letter/Final FS Letter.md"]
 confidence: high
 created_at: 2026-08-11T02:53:25Z
 ---
