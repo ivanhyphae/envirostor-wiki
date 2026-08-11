@@ -1,4 +1,4 @@
-Image /page/0/Picture/0 description: An aerial view of a section of State Route 132 in Stanislaus County, California, showing a freeway interchange and surrounding urban and grassy areas. The image is overlaid with text that identifies the subject as the 'FINAL FEASIBILITY STUDY' for the 'Caltrans Modesto Soil Stockpiles' regarding the 'State Route 132 West Freeway/Expressway Project'.
+[]()Image /page/0/Picture/0 description: An aerial view of a section of State Route 132 in Stanislaus County, California, showing a freeway interchange and surrounding urban and grassy areas. The image is overlaid with text that identifies the subject as the 'FINAL FEASIBILITY STUDY' for the 'Caltrans Modesto Soil Stockpiles' regarding the 'State Route 132 West Freeway/Expressway Project'.
 
 # *PREPARED FOR:*
 

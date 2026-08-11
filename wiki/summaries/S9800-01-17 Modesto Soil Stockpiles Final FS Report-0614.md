@@ -1,27 +1,15 @@
 ---
 source: wiki/sources/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.md
 source_type: assessment
-source_hash: sha256:e81db142d0dba1a798c179b54f927a8170758d2f7860e4efece23b9541322ee4
-compiled_at: 2026-07-23T14:12:29Z
+source_hash: sha256:d01e7fbd7179fca9500bf76f8a8e52e5502c4b8fd769bb9d131af293a189f5bd
+compiled_at: 2026-08-11T18:48:51Z
 chunk_count: 98
 ---
 
-Based on the two section summaries provided, here is a combined, coherent final summary of the source document "S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.md".
+This Feasibility Study (FS) report, finalized in June 2014 by GEOCON CONSULTANTS, INC. for Caltrans, addresses barium contamination in three soil stockpiles near the SR-99/Kansas Avenue interchange in Modesto, California, intended for the SR-132 West Freeway/Expressway Project. The study, conducted under the oversight of the California Department of Toxic Substances Control (DTSC) and in coordination with the Central Valley Regional Water Quality Control Board (CVRWQCB), evaluated four remedial alternatives: No Action, Institutional Controls, Removal, and Containment.
 
----
+Previous assessments indicated no unacceptable human health risks under current or future scenarios, and groundwater monitoring consistently showed contaminant levels below California Maximum Contaminant Levels (MCLs), though CVRWQCB expressed concerns about potential groundwater degradation.
 
-### Combined Final Summary
+The "No Action" alternative was deemed unacceptable by regulatory agencies and the community. "Removal" was considered the most protective but prohibitively expensive and least implementable due to the need for clean fill for the SR 132 project. "Institutional Controls" were conditionally accepted by DTSC and CVRWQCB, contingent on the SR 132 construction proceeding, but required ongoing groundwater monitoring if the project did not move forward.
 
-This **Final Feasibility Study (FS)** was prepared in June 2014 by **Geocon Consultants, Inc.** for the **California Department of Transportation (Caltrans)** . It evaluates remedial alternatives for barium-contaminated soil stockpiles at the SR-132 West Freeway/Expressway Project site in Modesto, Stanislaus County, California, under oversight from the **Department of Toxic Substances Control (DTSC)** and the **Central Valley Regional Water Quality Control Board (CVRWQCB)** .
-
-**Site and Contamination:** The primary contaminant is **barium** in three stockpiles (~160,000 yd³ total) from former FMC processing tailings. Groundwater (depth 31–40 ft) is not impacted, and stormwater shows no chronic exposure pathway.
-
-**Risk Assessment:** A 2007 Human Health Risk Assessment (updated 2013 with DTSC concurrence) concluded that the stockpiles pose **no unacceptable cancer risk or non-cancer hazard** under current or future land use, provided continued proper management (fencing, signage, vegetative cover).
-
-**Recommended Remedy:** The FS recommends **Alternative 4 – Containment**, which encapsulates the stockpiles as engineered embankment within the planned **SR-132 project** (roadways, retaining walls, bridge abutments). The design has two phases:
-- **Interim Progress Phase (2018):** Clean soil cap over portions of Stockpiles 1 and 2.
-- **Ultimate Build-Out (2028):** Full integration under roadways with synthetic liners.
-
-Cleanup is performance-based (eliminating exposure pathways) rather than a specific numerical standard. **Alternative 3 (Removal)** was rejected due to prohibitive cost and lack of funding, while "No Action" was considered unmaintained.
-
-**Path Forward:** Following DTSC remedy selection, a **Remedial Action Plan (RAP)** will be developed for public comment. The selected remedy will be implemented in coordination with SR-132 construction, requiring continued site management (institutional controls, quarterly groundwater monitoring) until construction. The process includes public participation, CEQA documentation, and compliance with **San Joaquin Valley Air Pollution Control District (SJVAPCD)** air quality regulations.
+The recommended and preferred alternative is **Containment (Alternative 4)**, which involves integrating the barium-contaminated soil into the SR 132 Project construction. This will be achieved by placing the soil behind retaining walls, bridge abutments, and beneath roadway pavements. An Interim Progress Phase (by 2018) will involve initial construction and grading, followed by an Ultimate Build-out Phase (by 2028) to ensure complete containment under roadway pavements, with dust controls implemented during construction. A Remedial Action Plan (RAP) and Remedial Design Implementation Plan (RDIP) will be developed for public review and comment before the containment remedy proceeds. Caltrans is the owner/operator, with DTSC and CVRWQCB as oversight agencies.
