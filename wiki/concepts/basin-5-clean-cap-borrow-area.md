@@ -1,10 +1,10 @@
 ---
 concept: basin-5-clean-cap-borrow-area
 entity_type: concept
-aliases: ["Basin 5 borrow area", "Basin 5 clean cap borrow area"]
-sources: ["wiki/sources/Caltrans -DTSC Agreement/Caltrans -DTSC Agreement.md", "wiki/sources/SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020/SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020.md", "wiki/sources/SR 132 Clean Borrow Area Technical Memo/SR 132 Clean Borrow Area Technical Memo.md"]
+aliases: ["Basin 5 clean cap borrow area"]
+sources: ["wiki/sources/SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020/SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020.md"]
 confidence: high
-created_at: 2026-08-11T00:59:39Z
+created_at: 2026-08-11T02:54:44Z
 ---
 
 ## Basin 5 Clean Cap Borrow Area

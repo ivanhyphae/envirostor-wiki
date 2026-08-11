@@ -2,9 +2,9 @@
 concept: title-22-mcl
 entity_type: concept
 aliases: ["Title 22", "Title 22 MCL"]
-sources: ["Caltrans  Response3.24.2012", "wiki/sources/132Stockpile Fact SheetModestoDTSC117 (2-2-17).md", "wiki/sources/Caltrans Ramp Letter dated 5.29.12/Caltrans Ramp Letter dated 5.29.12.md", "wiki/sources/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17.md", "wiki/sources/S9525-01-44B Modesto Stockpiles GW June 2013.0613/S9525-01-44B Modesto Stockpiles GW June 2013.0613.md", "wiki/sources/S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112/S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.md", "wiki/sources/S9525-06-44A May 2012 GW Report 1112/S9525-06-44A May 2012 GW Report 1112.md", "wiki/sources/S9800-01-17 Caltrans Modesto Stockpiles GW_06.15/S9800-01-17 Caltrans Modesto Stockpiles GW_06.15.md", "wiki/sources/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814.md", "wiki/sources/SR_132_DEIR_EA_Append_G-J/SR_132_DEIR_EA_Append_G-J.md"]
+sources: ["wiki/sources/S9525-01-44B Modesto Stockpiles GW June 2013.0613/S9525-01-44B Modesto Stockpiles GW June 2013.0613.md", "wiki/sources/S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112/S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.md", "wiki/sources/S9525-06-44 Modesto Stockpiles GW.0612/S9525-06-44 Modesto Stockpiles GW.0612.md", "wiki/sources/S9525-06-44A May 2012 GW Report 1112/S9525-06-44A May 2012 GW Report 1112.md", "wiki/sources/S9800-01-17 Caltrans Modesto Stockpiles GW_06.15/S9800-01-17 Caltrans Modesto Stockpiles GW_06.15.md", "wiki/sources/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814.md"]
 confidence: high
-created_at: 2026-08-11T00:58:30Z
+created_at: 2026-08-11T02:54:27Z
 ---
 
 ## Title 22 MCL
@@ -21,7 +21,7 @@ In May 2012, groundwater samples were analyzed for Title 22 dissolved metals. {{
 
 Groundwater samples collected in June 2012 were analyzed for Title 22 dissolved metals. {{quote: "With the exception of manganese in the sample from well MW-10, none of the reported dissolved metals concentrations for the groundwater samples collected in June 2012 exceeded their respective numeric water quality threshold values."}}
 
-In April 2015, groundwater samples were analyzed for Title 22 dissolved metals. {{quote: "None of the reported dissolved metals concentrations for the groundwater samples collected in April 2015 exceeded their respective numeric water quality threshold values."}} Barium and strontium were reported at concentrations similar to historical levels and remained significantly less than their numeric water quality thresholds. {{quote: "Barium and strontium were reported for the April 2015 groundwater samples at concentrations similar to historical levels and remained significantly less than their numeric water quality thresholds."}} The remaining dissolved metals were also reported at concentrations similar to historical levels. {{quote: "The remaining dissolved metals were also reported at concentrations similar to historical levels."}}
+Groundwater samples collected in April 2015 were analyzed for Title 22 dissolved metals. {{quote: "None of the reported dissolved metals concentrations for the groundwater samples collected in April 2015 exceeded their respective numeric water quality threshold values."}} Barium and strontium were reported at concentrations similar to historical levels and remained significantly less than their numeric water quality thresholds. {{quote: "Barium and strontium were reported for the April 2015 groundwater samples at concentrations similar to historical levels and remained significantly less than their numeric water quality thresholds."}} The remaining dissolved metals were also reported at concentrations similar to historical levels. {{quote: "The remaining dissolved metals were also reported at concentrations similar to historical levels."}}
 
 Groundwater samples collected in June 2014 were analyzed for Title 22 dissolved metals. {{quote: "None of the reported dissolved metals concentrations for the groundwater samples collected in June 2014 exceeded their respective numeric water quality threshold values."}} Barium and strontium were reported at concentrations similar to historical levels and remained significantly less than their numeric water quality thresholds. {{quote: "Barium and strontium were reported for the June 2014 groundwater samples at concentrations similar to historical levels and remained significantly less than their numeric water quality thresholds."}} The remaining dissolved metals were also reported at concentrations similar to historical levels. {{quote: "The remaining dissolved metals were also reported at concentrations similar to historical levels."}}
 
@@ -41,16 +41,11 @@ Title 22 MCLs represent applicable regulatory standards for assessing groundwate
 
 ### See also
 
-* [[arsenic]]
 * [[barium]]
-* [[barium-below-mcl]]
 * [[caltrans]]
-* [[caltrans-district-6]]
 * [[chromium]]
 * [[department-of-toxic-substances-control]]
 * [[geocon-consultants]]
-* [[geotracker]]
-* [[june-2014-groundwater-monitoring-report]]
 * [[lead]]
 * [[strontium]]
 * [[dissolved-metals]]

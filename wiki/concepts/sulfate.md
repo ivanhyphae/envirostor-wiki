@@ -1,8 +1,16 @@
 ---
 concept: sulfate
 entity_type: contaminant
+aliases: [""]
+sources: ["wiki/sources/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17.md", "wiki/sources/S2350-01-02_2.1.2024 Stormwater Sampling Report_5.24/S2350-01-02_2.1.2024 Stormwater Sampling Report_5.24.md", "wiki/sources/S2350-01-02_2.4.2025 Stormwater Sampling Report_6.25/S2350-01-02_2.4.2025 Stormwater Sampling Report_6.25.md"]
+confidence: high
+created_at: 2026-08-11T02:54:08Z
+---
+
+concept: sulfate
+entity_type: contaminant
 aliases: ["sulfate"]
-sources: ["wiki/sources/S2350-01-02_2.1.2024 Stormwater Sampling Report_5.24/S2350-01-02_2.1.2024 Stormwater Sampling Report_5.24.md", "wiki/sources/S2350-01-02_2.4.2025 Stormwater Sampling Report_6.25/S2350-01-02_2.4.2025 Stormwater Sampling Report_6.25.md"]
+sources: ["wiki/sources/S2350-01-02_2.1.2024 Stormwater Sampling Report_5.24/S2350-01-02_2.1.2024 Stormwater Sampling Report_5.24.md", "wiki/sources/S2350-01-02_2.4.2025 Stormwater Sampling Report_6.25/S2350-01-02_2.4.2025 Stormwater Sampling Report_6.25.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17.md"]
 confidence: high
 created_at: 2026-08-11T01:01:58Z
 ---
@@ -19,6 +27,8 @@ In a stormwater sampling event on February 1, 2024, sulfate was reported for sam
 
 In a subsequent sampling event on February 4, 2025, sulfate was reported for samples SW-East and SW-West at respective concentrations of 21 and 14 mg/l {{quote: "Sulfate was reported for samples SW-East and SW-West at respective concentrations of 21 and 14 mg/l."}}. These concentrations also did not exceed the Secondary Maximum Contaminant Levels (MCL) for drinking water {{quote: "TDS and sulfate concentrations do not exceed the Secondary Maximum Contaminant Levels (MCL) for drinking water."}}.
 
+In the January 8, 2018 sampling event, sulfate was reported for sample BG2 at a concentration of 5.6 mg/l {{quote: "0.40 5.6 0.023 240 2.5 19 <5.0 19 38"}}. In the March 24, 2017 sampling event, sulfate was reported for sample BG2 at a concentration of 10 mg/l {{quote: "10 250\*\* --- --- 250\*\* --- --- --- 500\*\*"}}.
+
 ## Regulatory status
 The secondary Maximum Contaminant Levels (MCL) for drinking water are used as a benchmark for sulfate concentrations in stormwater samples. In both the February 1, 2024, and February 4, 2025, sampling events, the reported sulfate concentrations were below these MCLs {{quote: "TDS and sulfate concentrations do not exceed the secondary Maximum Contaminant Levels (MCL) for drinking water."}} and {{quote: "TDS and sulfate concentrations do not exceed the Secondary Maximum Contaminant Levels (MCL) for drinking water."}}.
 
@@ -34,3 +44,5 @@ No open items related to sulfate were identified in the provided source material
 * [[john-e-juhrend]]
 * [[no-discharge-runoff-from-caltrans-right-of-way-observed]]
 * [[rebecca-silva]]
+* [[bg1]]
+* [[bg2]]

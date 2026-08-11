@@ -1,10 +1,10 @@
 ---
 concept: overhead-sign-1-foundation-excavation
 entity_type: concept
-aliases: ["Overhead Sign #1"]
-sources: ["Approval Letter Stockpile 2 Spoils Workplan (900259)", "wiki/sources/Caltrans -DTSC Agreement/Caltrans -DTSC Agreement.md", "wiki/sources/Stockpile 2 BCS Foundation Spoil Workplan Tech Memo/Stockpile 2 BCS Foundation Spoil Workplan Tech Memo.md"]
+aliases: []
+sources: ["Stockpile 2 BCS Foundation Spoil Workplan Tech Memo/Stockpile 2 BCS Foundation Spoil Workplan Tech Memo.md"]
 confidence: high
-created_at: 2026-08-11T00:58:55Z
+created_at: 2026-08-11T02:55:00Z
 ---
 
 ## Overview

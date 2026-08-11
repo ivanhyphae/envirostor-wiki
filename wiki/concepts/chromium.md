@@ -1,15 +1,15 @@
 ---
 concept: chromium
 entity_type: contaminant
-aliases: ["Cr", "chromium"]
-sources: ["06A2542ct_to97_SurfaceWaterLetter_final.20230328/06A2542ct_to97_SurfaceWaterLetter_final.20230328.md", "Caltrans  Response3.24.2012", "wiki/sources/1. SR_132_FEIR_EA_ 20180302 FINAL Main Doc/1. SR_132_FEIR_EA_ 20180302 FINAL Main Doc.md", "wiki/sources/Caltrans -DTSC Agreement/Caltrans -DTSC Agreement.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17.md", "wiki/sources/S9525-06-44 HHRA UPDATE Rev.0313/S9525-06-44 HHRA UPDATE Rev.0313.md", "wiki/sources/S9525-06-44A Caltrans Modesto Stockpiles GW 0213/S9525-06-44A Caltrans Modesto Stockpiles GW 0213.md", "wiki/sources/S9800-01-17 Caltrans Modesto Stockpiles GW_06.15/S9800-01-17 Caltrans Modesto Stockpiles GW_06.15.md", "wiki/sources/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.md", "wiki/sources/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814.md", "wiki/sources/SR 132 Public Notice English_/SR 132 Public Notice English_.md", "wiki/sources/SR_132_DEIR_EA/SR_132_DEIR_EA.md"]
+aliases: ["", "Cr"]
+sources: ["06A2542ct_to97_SurfaceWaterLetter_final.20230328/06A2542ct_to97_SurfaceWaterLetter_final.20230328.md", "Caltrans  Response3.24.2012", "wiki/sources/06A2542ct_to97_SurfaceWaterLetter_final.20230328/06A2542ct_to97_SurfaceWaterLetter_final.20230328.md", "wiki/sources/1. SR_132_FEIR_EA_ 20180302 FINAL Main Doc/1. SR_132_FEIR_EA_ 20180302 FINAL Main Doc.md", "wiki/sources/Caltrans -DTSC Agreement/Caltrans -DTSC Agreement.md", "wiki/sources/Caltrans Ramp Letter dated 5.29.12/Caltrans Ramp Letter dated 5.29.12.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17.md", "wiki/sources/S9525-06-44 HHRA UPDATE Rev.0313/S9525-06-44 HHRA UPDATE Rev.0313.md", "wiki/sources/S9525-06-44A Caltrans Modesto Stockpiles GW 0213/S9525-06-44A Caltrans Modesto Stockpiles GW 0213.md", "wiki/sources/S9800-01-17 Caltrans Modesto Stockpiles GW_06.15/S9800-01-17 Caltrans Modesto Stockpiles GW_06.15.md", "wiki/sources/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.md", "wiki/sources/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814.md", "wiki/sources/SR 132 Public Notice English_/SR 132 Public Notice English_.md", "wiki/sources/SR_132_DEIR_EA/SR_132_DEIR_EA.md"]
 confidence: high
-created_at: 2026-08-11T00:56:21Z
+created_at: 2026-08-11T02:49:29Z
 ---
 
 ## Chromium
 
-Chromium has been detected in groundwater and soil at the [[caltrans]] Modesto Soil Stockpiles site.
+Chromium (Cr) has been detected in groundwater and soil at the [[caltrans]] Modesto Soil Stockpiles site.
 
 ## Site record
 
@@ -27,7 +27,7 @@ The applicable regulatory threshold for chromium in groundwater at this site is 
 * [[barium]]
 * [[lead]]
 * [[caltrans]]
+* [[vanadium]]
 * [[geocon-consultants]]
-* [[manganese]]
-* [[nitrate]]
 * [[arsenic]]
+* [[caltrans-modesto-soil-stockpiles]]

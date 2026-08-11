@@ -1,13 +1,13 @@
 ---
 concept: annual-operations-maintenance-site-inspection-form
 entity_type: deliverable
-aliases: ["Annual O&M Site Inspection Form"]
+aliases: ["Annual Operations & Maintenance (O&M) Site Inspection Form"]
 sources: ["wiki/sources/Annual Stockpile Inspection Form/Annual Stockpile Inspection Form.md"]
 confidence: high
-created_at: 2026-08-11T00:58:42Z
+created_at: 2026-08-11T02:51:44Z
 ---
 
-The [[annual-operations-maintenance-site-inspection-form]] is a document used by Caltrans to record observations during site inspections of the State Route 132 Modesto Soil Stockpiles. These inspections assess various site conditions relevant to the ongoing management and remediation of the stockpiles.
+The [[annual-operations-maintenance-site-inspection-form]] is a Caltrans document used to record observations during site inspections of the State Route 132 Modesto Soil Stockpiles. These inspections assess various site conditions relevant to the ongoing management and remediation of the stockpiles.
 
 ## Site record
 
@@ -17,4 +17,5 @@ The form documents observations related to several site features. For instance, 
 * [[drainage-structures]]
 * [[pavement-conditions]]
 * [[retaining-walls]]
+* [[stockpile-1]]
 * [[stockpile-cover-integrity]]

@@ -1,10 +1,10 @@
 ---
 concept: hazardous-waste
-entity_type: claim
-aliases: []
+entity_type: concept
+aliases: ["hazardous waste"]
 sources: ["wiki/sources/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18.md"]
 confidence: high
-created_at: 2026-08-11T01:01:52Z
+created_at: 2026-08-11T02:53:59Z
 ---
 
 ## Hazardous Waste
@@ -38,4 +38,3 @@ A "No action" alternative would not meet State or Federal regulations with respe
 - [[department-of-toxic-substances-control]]
 - [[fmc-chemical-processing-facility]]
 - [[fmc-corporation]]
-- [[geocon-consultants]]

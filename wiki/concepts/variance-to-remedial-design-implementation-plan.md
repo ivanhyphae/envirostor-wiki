@@ -2,9 +2,9 @@
 concept: variance-to-remedial-design-implementation-plan
 entity_type: deliverable
 aliases: ["RDIP Variance", "Variance to Remedial Design Implementation Plan"]
-sources: ["Bent 2 Stockpiles Tech Memo", "wiki/sources/1. SR_132_FEIR_EA_ 20180302 FINAL Main Doc/1. SR_132_FEIR_EA_ 20180302 FINAL Main Doc.md", "wiki/sources/Caltrans -DTSC Agreement/Caltrans -DTSC Agreement.md", "wiki/sources/Caltrans Modesto Soil Stcokpiles RDIP Variance/Caltrans Modesto Soil Stcokpiles RDIP Variance.md", "wiki/sources/Carpenter Road Shoofly Clean Fill Tech Memo/Carpenter Road Shoofly Clean Fill Tech Memo.md", "wiki/sources/Stockpile 2 MSE Wall Sampling Tech Memo/Stockpile 2 MSE Wall Sampling Tech Memo.md"]
+sources: ["wiki/sources/Caltrans Modesto Soil Stcokpiles RDIP Variance/Caltrans Modesto Soil Stcokpiles RDIP Variance.md", "wiki/sources/Carpenter Road Shoofly Clean Fill Tech Memo/Carpenter Road Shoofly Clean Fill Tech Memo.md", "wiki/sources/Stockpile 2 MSE Wall Sampling Tech Memo/Stockpile 2 MSE Wall Sampling Tech Memo.md", "wiki/sources/Stockpile 3 Confirmation Sampling Tech Memo Approval/Stockpile 3 Confirmation Sampling Tech Memo Approval.md"]
 confidence: high
-created_at: 2026-08-11T00:58:35Z
+created_at: 2026-08-11T02:52:05Z
 ---
 
 ## Variance To Remedial Design Implementation Plan

@@ -1,10 +1,10 @@
 ---
 concept: rick-deml
 entity_type: concept
-aliases: []
-sources: ["wiki/sources/DTSC Approval E-mail for Carpenter Shoofly Clean Fill Sampling Plan/DTSC Approval E-mail for Carpenter Shoofly Clean Fill Sampling Plan.md"]
+aliases: ["Rick Deml"]
+sources: ["DTSC E-mail Approval of Carpenter Shoofly Tech Memo/DTSC E-mail Approval of Carpenter Shoofly Tech Memo.md"]
 confidence: high
-created_at: 2026-08-11T00:59:22Z
+created_at: 2026-08-11T02:52:58Z
 ---
 
 ## Rick Deml
@@ -25,7 +25,7 @@ The email indicates that DTSC approval was required for the clean fill sampling 
 *   [[bay-cities-paving-and-grading]]
 *   [[caltrans]]
 *   [[central-valley-rwqcb]]
-*   [[chad-baker]]
 *   [[dean-wright]]
 *   [[department-of-toxic-substances-control]]
-*   [[inderjit-chadh]]
+*   [[richard-stewart]]
+*   [[wsp]]

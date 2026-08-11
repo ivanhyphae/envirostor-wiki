@@ -1,27 +1,27 @@
 ---
 concept: sr-132-west-project
 entity_type: concept
-aliases: ["Phase 1 Interim SR 132 West Project", "SR 132 West Project", "State Route 132 West Project"]
-sources: ["wiki/sources/Draft Interim RACR_Text_Figures_Tables_ App A-C/Draft Interim RACR_Text_Figures_Tables_ App A-C.md", "wiki/sources/Fiscal Year Cost Estimate 22_23_Modesto Soil Stockpiles (900259)/Fiscal Year Cost Estimate 22_23_Modesto Soil Stockpiles (900259).md", "wiki/sources/Fiscal Year Cost Estimate 23_24_Modesto Soil Stockpiles (900259)/Fiscal Year Cost Estimate 23_24_Modesto Soil Stockpiles (900259).md", "wiki/sources/Fiscal Year Cost Estimate 24_25_Modesto Soil Stockpiles (900259)/Fiscal Year Cost Estimate 24_25_Modesto Soil Stockpiles (900259).md", "wiki/sources/HearingSummaryReport_SR132 6.21.17 rdcd sz/HearingSummaryReport_SR132 6.21.17 rdcd sz.md", "wiki/sources/Hwy 132 Clean Fill Source Testing Exhibit/Hwy 132 Clean Fill Source Testing Exhibit.md", "wiki/sources/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19.md"]
+aliases: ["SR 132 West Project", "SR-132 West Project"]
+sources: ["Draft Interim RACR_Text_ Figures_Tables_ App A-C/Draft Interim RACR_Text_ Figures_Tables_ App A-C.md", "wiki/sources/Caltrans Modesto Soil Stcokpiles RDIP Variance/Caltrans Modesto Soil Stcokpiles RDIP Variance.md", "wiki/sources/Caltrans Ramp Letter dated 5.29.12/Caltrans Ramp Letter dated 5.29.12.md", "wiki/sources/Caltrans SR 132-99 Task Order 4/Caltrans SR 132-99 Task Order 4.md", "wiki/sources/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19.md"]
 confidence: high
-created_at: 2026-08-11T01:01:13Z
+created_at: 2026-08-11T02:52:43Z
 ---
 
 # SR 132 West Project
 
 ## Overview
 
-The SR 132 West Project, also referred to as the Modesto Soil Stockpiles project, involves the remediation and containment of barium-containing soil (BCS) and aerially deposited lead (ADL) impacted soil. The primary goal is to incorporate these soils as highway embankment fill and cap them with clean fill materials as part of the State Route 132 West Project in Modesto, Stanislaus County, California. The California Department of Toxic Substances Control (DTSC) is the lead regulatory agency overseeing the site mitigation, in cooperation with the Central Valley Regional Water Quality Control Board (CVRWQCB). The project is being managed under a Caltrans Interagency Agreement.
+The SR 132 West Project, also known as the Modesto Soil Stockpiles project, involves the remediation and containment of barium-containing soil (BCS) and aerially deposited lead (ADL) impacted soil. The primary objective is to utilize these soils as highway embankment fill and cap them with clean fill materials as part of the State Route 132 West Project in Modesto, Stanislaus County, California. The California Department of Toxic Substances Control (DTSC) is the lead regulatory agency overseeing the site mitigation, in cooperation with the Central Valley Regional Water Quality Control Board (CVRWQCB). The project is managed under a Caltrans Interagency Agreement.
 
 ## Site Record
 
-The site consists of three former barium-containing soil (BCS) stockpiles: Stockpile 1, Stockpile 2, and Stockpile 3.
+The site comprises three former barium-containing soil (BCS) stockpiles: Stockpile 1, Stockpile 2, and Stockpile 3.
 
-*   **Stockpile 1:** Located approximately 150 feet westerly of Emerald Avenue, it was roughly 600 feet long, 160 feet wide, with an estimated fill volume of 34,000 cubic yards (yd<sup>3</sup>).{{quote: "BCS Stockpile 1, located approximately 150 feet westerly of Emerald Avenue, was roughly 600 feet long in the east-west direction, 160 feet wide, and had an estimated fill volume of 34,000 cubic yards (yd³)."}}
-*   **Stockpile 2:** Situated between Emerald Avenue and SR 99, it was approximately 1,650 feet long, 160 feet wide, with an estimated fill volume of 102,000 yd<sup>3</sup>.{{quote: "BCS Stockpile 2, located between Emerald Avenue and SR 99, was roughly 1,650 feet long in the east-west direction, 160 feet wide, and had an estimated fill volume of 102,000 yd³."}}
-*   **Stockpile 3:** Formerly located on the east side of SR 99, it was approximately 1,100 feet long, 120 feet wide, with an estimated fill volume of 24,000 yd<sup>3</sup>.{{quote: "BCS Stockpile 3, formerly located on the east side of SR 99, was roughly 1,100 feet long, 120 feet wide, and had an estimated fill volume of 24,000 yd³."}}
+*   **Stockpile 1:** Located approximately 150 feet westerly of Emerald Avenue, it was roughly 600 feet long in the east-west direction, 160 feet wide, and had an estimated fill volume of 34,000 cubic yards (yd³).{{quote: "BCS Stockpile 1, located approximately 150 feet westerly of Emerald Avenue, was roughly 600 feet long in the east-west direction, 160 feet wide, and had an estimated fill volume of 34,000 cubic yards (yd³)."}}
+*   **Stockpile 2:** Situated between Emerald Avenue and SR 99, it was approximately 1,650 feet long in the east-west direction, 160 feet wide, and had an estimated fill volume of 102,000 yd³.{{quote: "BCS Stockpile 2, located between Emerald Avenue and SR 99, was roughly 1,650 feet long in the east-west direction, 160 feet wide, and had an estimated fill volume of 102,000 yd³."}}
+*   **Stockpile 3:** Formerly located on the east side of SR 99, it was approximately 1,100 feet long, 120 feet wide, with an estimated fill volume of 24,000 yd³.{{quote: "BCS Stockpile 3, formerly located on the east side of SR 99, was roughly 1,100 feet long, 120 feet wide, and had an estimated fill volume of 24,000 yd³."}}
 
-Stockpile 3 was entirely excavated and used as highway embankment fill on top of Stockpile 1 and between Stockpile 1 and Emerald Avenue.{{quote: "BCS Stockpile 3 was completely excavated and placed as highway embankment fill on top of Stockpile 1 and between Stockpile 1 and Emerald Avenue."}}
+Stockpile 3 was completely excavated and placed as highway embankment fill on top of Stockpile 1 and between Stockpile 1 and Emerald Avenue.{{quote: "BCS Stockpile 3 was completely excavated and placed as highway embankment fill on top of Stockpile 1 and between Stockpile 1 and Emerald Avenue."}}
 
 Elevated levels of barium and lead were confirmed in stockpile soil samples, exceeding regulatory health-based screening levels.{{quote: "A Preliminary Site Investigation completed in 2004 and subsequent site characterization studies performed for Caltrans confirmed the presence of elevated barium concentrations (and to a lesser extent lead) in stockpile soil samples exceeding regulatory healthbased screening levels."}}
 
@@ -62,7 +62,11 @@ A supplemental RDIP will be submitted to DTSC for approval prior to construction
 *   [[caltrans]]
 *   [[department-of-toxic-substances-control]]
 *   [[modesto-soil-stockpiles-project]]
+*   [[sr-132]]
+*   [[sr-132-west-expressway-phase-1]]
 *   [[barium]]
+*   [[caltrans-modesto-soil-stockpiles]]
+*   [[stockpile-1]]
 *   [[central-valley-rwqcb]]
 *   [[fiscal-year-cost-estimate]]
 *   [[lead]]

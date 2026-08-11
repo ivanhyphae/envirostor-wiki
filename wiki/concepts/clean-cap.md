@@ -1,0 +1,45 @@
+---
+concept: clean-cap
+entity_type: technique
+aliases: []
+sources: ["wiki/sources/Caltrans Modesto Soil Stcokpiles RDIP Variance/Caltrans Modesto Soil Stcokpiles RDIP Variance.md", "wiki/sources/Carpenter Road Shoofly Clean Fill Tech Memo/Carpenter Road Shoofly Clean Fill Tech Memo.md"]
+confidence: high
+created_at: 2026-08-11T02:52:38Z
+---
+
+## Clean Cap
+
+A clean cap is a layer of clean fill material used to cover barium-containing soil (BCS) stockpiles at the [[caltrans-modesto-soil-stockpiles]] site. This remediation strategy is part of the [[sr-132-west-project]] in Modesto, Stanislaus County, California, and was developed in coordination with the [[department-of-toxic-substances-control]] (DTSC). The purpose of the clean cap is to mitigate potential risks associated with the barium in the stockpiles.
+
+## Site Record
+
+The requirement for a clean cap is detailed in Section 4.7 of the Remedial Design Implementation Plan (RDIP) for the [[caltrans-modesto-soil-stockpiles]]. This section specifies a minimum 12-inch-thick clean fill material to cap consolidated barium-containing soil (BCS) within Stockpiles 1 and 2. The clean fill material can consist of approved imported fill and/or minimum 4-inch-thick AB materials, pending the placement of structural pavement, hardscape, and/or additional clean embankment fill {{quote: "The surface of the completed Stockpile 1 and 2 barium-containing soil and ADL consolidation zones (including east- and west-facing temporary slopes) will be capped with minimum 12-inch-thick clean fill material consisting of approved imported fill and/or minimum 4-inch-thick AB materials (pending placement of structural pavement section, hardscape and/or additional clean embankment fill)."}}.
+
+Initially, the proposed source for clean imported fill soil was vacant and agricultural land within planned excavation areas along the SR-132 Right-of-Way (ROW) between the Carpenter Road and Rosemore Avenue overcrossings {{quote: "The proposed source of clean imported fill soil consists of currently vacant and agricultural land within planned excavation areas along the SR-132 ROW between the Carpenter Road and Rosemore Avenue overcrossings as depicted on Figure 1."}}.
+
+An area adjacent and east of Carpenter Road within the SR 132 ROW was identified by the highway contractor as a potential source. Geocon evaluated this area, and it was determined that soil material from the planned highway underpass excavation area adjacent and east of Carpenter Road would be suitable for use as clean cover fill material {{quote: "Geocon, in coordination with Caltrans and DTSC, evaluated this area and determined the planned highway underpass excavation area adjacent and east of Carpenter Road would generate soil material suitable for use as clean cover fill material (Geocon February 27, 2020 Technical Memorandum)."}}. DTSC subsequently approved this planned Carpenter Road clean fill source area {{quote: "DTSC subsequently provided approval of the planned Carpenter Road clean fill source area."}}.
+
+A Technical Memorandum dated April 12, 2021, details characterization testing for soil from the Carpenter Road Shoofly. Approximately 5,000 cubic yards of native soil were excavated from this area {{quote: "Approximately 5,000 cubic yards of native soil will be excavated from the Carpenter Road Shoofly once the overcrossing structure under construction is completed."}}. Soil samples were collected and analyzed for barium and lead. Barium was detected at concentrations ranging from 28 to 96 milligrams per kilogram (mg/kg), which is less than the maximum site-specific background value for barium of 120 mg/kg {{quote: "Barium was detected in each of the 10 soil samples analyzed at concentrations ranging from 28 to 96 milligrams per kilogram (mg/kg), less than the maximum site-specific background value for barium of 120 mg/kg."}}. Lead was detected at concentrations ranging from 1.4 to 3.8 mg/kg, which is less than or equal to the maximum site-specific background concentration for lead of 3.8 mg/kg {{quote: "Lead was detected in 9 of the 10 soil samples analyzed at concentrations ranging from 1.4 to 3.8 mg/kg, less than or equal to the maximum site-specific background concentration for lead of 3.8 mg/kg."}}. Based on these results, the soil material from the Carpenter Road Shoofly met the BCS clean cap criteria as established in the referenced variance document and approved by DTSC {{quote: "Based on the barium and lead data presented herein, soil material generated from excavation of the Carpenter Road Shoofly meet the BCS clean cap criteria as established in the referenced variance document as approved by DTSC (upperbound background threshold for barium of 120 mg/kg)."}}.
+
+An additional source of clean fill material was identified at proposed mechanically stabilized earth (MSE) wall footing excavations along the southern boundaries of Stockpiles 1 and 2. Geocon evaluated this material following excavation of the southern slope BCS material. It was determined that the upper foot of planned wall footing excavation soil contained elevated barium concentrations that would not be suitable {{quote: "An additional source of clean fill material was identified by the highway contractor at the proposed mechanically stabilized earth (MSE) wall footing excavations (approximately five-foot-deep) located along the southern boundaries of Stockpiles 1 and 2. Geocon evaluated the MSE wall footing material along the southern boundary of Stockpile 1 following excavation of the southern slope BCS material (Geocon April 6, 2020 Technical Memorandum). In coordination with Caltrans and DTSC, it was determined that the upper foot of planned wall footing excavation soil contained elevated barium concentrations that would not be suit"}} (source truncated).
+
+A Variance to the Remedial Design Implementation Plan (RDIP Variance) was prepared on April 9, 2020, to address identified sources of clean cover fill materials for capping consolidated barium-containing soil (BCS) within Stockpiles 1 and 2 {{quote: "In accordance with your request on behalf of the California Department of Toxic Substances Control (DTSC), we have prepared this Variance to Remedial Design Implementation Plan (RDIP Variance) for the Caltrans Modesto Soil Stockpiles located south of the State Route (SR) 99/Kansas Avenue interchange in Modesto, Stanislaus County, California. This RDIP Variance has been prepared to address the identified sources of clean cover fill materials to properly cap consolidated bariumcontaining soil (BCS) within Stockpiles 1 and 2 during the SR 132 West Project."}}.
+
+## Regulatory Status
+
+The [[department-of-toxic-substances-control]] (DTSC) is involved in the approval of clean fill sources and the overall remediation plan. The RDIP Variance, dated April 9, 2020, was prepared in accordance with a request from DTSC {{quote: "In accordance with your request on behalf of the California Department of Toxic Substances Control (DTSC), we have prepared this Variance to Remedial Design Implementation Plan (RDIP Variance)..."}}. DTSC provided approval for the planned Carpenter Road clean fill source area {{quote: "DTSC subsequently provided approval of the planned Carpenter Road clean fill source area."}}. The clean cap criteria are established in the RDIP variance document and approved by DTSC {{quote: "Based on the barium and lead data presented herein, soil material generated from excavation of the Carpenter Road Shoofly meet the BCS clean cap criteria as established in the referenced variance document as approved by DTSC (upperbound background threshold for barium of 120 mg/kg)."}}.
+
+## Open Items
+
+The source material indicates that the evaluation of MSE wall footing material along the southern boundary of Stockpile 1 was ongoing as of April 6, 2020, with a determination that the upper foot of excavation soil was not suitable due to elevated barium concentrations {{quote: "An additional source of clean fill material was identified by the highway contractor at the proposed mechanically stabilized earth (MSE) wall footing excavations (approximately five-foot-deep) located along the southern boundaries of Stockpiles 1 and 2. Geocon evaluated the MSE wall footing material along the southern boundary of Stockpile 1 following excavation of the southern slope BCS material (Geocon April 6, 2020 Technical Memorandum). In coordination with Caltrans and DTSC, it was determined that the upper foot of planned wall footing excavation soil contained elevated barium concentrations that would not be suit"}} (source truncated). Further details on the suitability and use of this material are not fully provided in the excerpt.
+
+## See Also
+
+* [[barium]]
+* [[barium-containing-soil]]
+* [[bcs-stockpile]]
+* [[caltrans]]
+* [[caltrans-modesto-soil-stockpiles]]
+* [[clean-fill]]
+* [[clean-soil-cover]]
+* [[department-of-toxic-substances-control]]

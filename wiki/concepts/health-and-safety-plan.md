@@ -1,16 +1,16 @@
 ---
 concept: health-and-safety-plan
 entity_type: deliverable
-aliases: ["HASP"]
+aliases: ["Health and Safety Plan (HASP)"]
 sources: ["wiki/sources/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19.md"]
 confidence: high
-created_at: 2026-08-11T01:01:43Z
+created_at: 2026-08-11T02:53:47Z
 ---
 
 ## Health and Safety Plan
 
 ### Overview
-A Health and Safety Plan (HSP) was developed for the [[caltrans]] Modesto Soil Stockpiles project to address potential exposures to contaminants of potential concern (COPCs) and other site hazards for project personnel and nearby residents and businesses. The HSP outlines precautions to limit exposure, particularly to barium and lead, which are present at elevated concentrations. It also covers general occupational safety concerns such as heat illness, heavy lifting, and equipment safety. The plan is intended for use by [[geocon-consultants]] personnel and its subcontractors, with the expectation that other site workers will follow their own organization's safety procedures.
+A Health and Safety Plan (HSP) was developed for the [[caltrans]] Modesto Soil Stockpiles project to address potential exposures to contaminants of potential concern (COPCs) and other site hazards for project personnel and nearby residents and businesses. The HSP outlines precautions to limit exposure, particularly to [[barium]] and [[lead]], which are present at elevated concentrations. It also covers general occupational safety concerns such as heat illness, heavy lifting, and equipment safety. The plan is intended for use by [[geocon-consultants]] personnel and its subcontractors, with the expectation that other site workers will follow their own organization's safety procedures.
 
 ### Site Record
 The HSP was prepared by [[geocon-consultants]] for the Caltrans Modesto Soil Stockpiles, State Route 132 West Freeway Project in Stanislaus County, California. {{quote: "This Health and Safety Plan (HSP, Plan) is a compilation of health and safety guidelines, policies and/or performance protocols that, when exercised, are intended to reduce or eliminate the potential for injury and exposure during the performance of the activities at the site described below."}} The plan specifically addresses elevated concentrations of barium and lead. {{quote: "Although most of the COPCs have been demonstrated to be present in the stockpiles at concentrations generally less than residential health risk screening levels (and therefore much less than commercial/industrial or construction worker screening levels), barium and lead are present at elevated concentrations."}}

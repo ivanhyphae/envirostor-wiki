@@ -1,10 +1,10 @@
 ---
 concept: wsp
 entity_type: concept
-aliases: ["WSP/City of Modesto"]
-sources: ["Bent 2 Stockpiles Tech Memo", "wiki/sources/1. SR_132_FEIR_EA_ 20180302 FINAL Main Doc/1. SR_132_FEIR_EA_ 20180302 FINAL Main Doc.md", "wiki/sources/Carpenter Road Shoofly Clean Fill Tech Memo/Carpenter Road Shoofly Clean Fill Tech Memo.md", "wiki/sources/DTSC Approval E-mail for Carpenter Shoofly Clean Fill Sampling Plan/DTSC Approval E-mail for Carpenter Shoofly Clean Fill Sampling Plan.md", "wiki/sources/SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020/SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020.md", "wiki/sources/SR 132 Clean Borrow Area Technical Memo/SR 132 Clean Borrow Area Technical Memo.md", "wiki/sources/SR 132 Stockpile 2 BCS Removal Tech Memo/SR 132 Stockpile 2 BCS Removal Tech Memo.md", "wiki/sources/SR 132 Stockpile 3 BCS Removal Tech Memo/SR 132 Stockpile 3 BCS Removal Tech Memo.md", "wiki/sources/Stockpile 1 MSE Wall Sampling Tech Memo/Stockpile 1 MSE Wall Sampling Tech Memo.md"]
+aliases: ["wsp-city-of-modesto"]
+sources: ["DTSC E-mail Approval of Carpenter Shoofly Tech Memo/DTSC E-mail Approval of Carpenter Shoofly Tech Memo.md", "Stockpile 1 MSE Wall Sampling Tech Memo/Stockpile 1 MSE Wall Sampling Tech Memo.md", "wiki/sources/Carpenter Road Shoofly Clean Fill Tech Memo/Carpenter Road Shoofly Clean Fill Tech Memo.md", "wiki/sources/DTSC Approval E-mail for Carpenter Shoofly Clean Fill Sampling Plan/DTSC Approval E-mail for Carpenter Shoofly Clean Fill Sampling Plan.md", "wiki/sources/SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020/SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020.md", "wiki/sources/SR 132 Clean Borrow Area Technical Memo/SR 132 Clean Borrow Area Technical Memo.md", "wiki/sources/SR 132 Stockpile 2 BCS Removal Tech Memo/SR 132 Stockpile 2 BCS Removal Tech Memo.md", "wiki/sources/SR 132 Stockpile 3 BCS Removal Tech Memo/SR 132 Stockpile 3 BCS Removal Tech Memo.md"]
 confidence: high
-created_at: 2026-08-11T00:58:35Z
+created_at: 2026-08-11T02:52:24Z
 ---
 
 The [[sr-132]] project in Modesto, California, involved the management and remediation of soil stockpiles, specifically those containing [[barium]]. A key component of this effort was the identification and utilization of clean fill material to cap these stockpiles. The Carpenter Road Shoofly was one such source of clean fill material.

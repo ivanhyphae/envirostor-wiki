@@ -2,9 +2,9 @@
 concept: stockpile-3-excavation
 entity_type: concept
 aliases: ["Stockpile 3 excavation"]
-sources: ["wiki/sources/1. SR_132_FEIR_EA_ 20180302 FINAL Main Doc/1. SR_132_FEIR_EA_ 20180302 FINAL Main Doc.md", "wiki/sources/Caltrans Ramp Clarification Letter dated 8.24.12 /Caltrans Ramp Clarification Letter dated 8.24.12 .md", "wiki/sources/Draft Interim RACR_Text_Figures_Tables_ App A-C/Draft Interim RACR_Text_Figures_Tables_ App A-C.md", "wiki/sources/E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo/E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo.md", "wiki/sources/S9650-06-03 MODESTO RAMP WORKPLAN.0412/S9650-06-03 MODESTO RAMP WORKPLAN.0412.md", "wiki/sources/S9650-06-03 Modesto Ramp Ex Mon Plan -no appx-0612/S9650-06-03 Modesto Ramp Ex Mon Plan -no appx-0612.md"]
+sources: ["Stockpile 2 Confirmation Sampling Tech Memo Approval/Stockpile 2 Confirmation Sampling Tech Memo Approval.md", "wiki/sources/7083_S9525-06-44 Modesto Soil Stockpiles Fenceline Workplan.0912/7083_S9525-06-44 Modesto Soil Stockpiles Fenceline Workplan.0912.md"]
 confidence: high
-created_at: 2026-08-11T00:58:22Z
+created_at: 2026-08-11T02:50:46Z
 ---
 
 ## Overview

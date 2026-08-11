@@ -1,14 +1,13 @@
 ---
 concept: operation-and-maintenance-agreement
 entity_type: deliverable
-aliases: ["O&M Agreement"]
-sources: ["wiki/sources/2025 - RE_ Reminder - Annual Inspection Report/2025 - RE_ Reminder - Annual Inspection Report.md", "wiki/sources/Caltrans -DTSC Agreement/Caltrans -DTSC Agreement.md", "wiki/sources/Final O and M Agreement with Cover Letter (900259)/Final O and M Agreement with Cover Letter (900259).md", "wiki/sources/Modesto Soil Stockpiles_ Final Recorded LUC/Modesto Soil Stockpiles_ Final Recorded LUC.md"]
+aliases: ["O&M Agreement", "Operation and Maintenance (O&M) Agreement"]
+sources: ["Final O and M Agreement with Cover Letter (900259)/Final O and M Agreement with Cover Letter (900259).md"]
 confidence: high
-created_at: 2026-08-11T00:57:49Z
+created_at: 2026-08-11T02:53:28Z
 ---
 
-## Overview
-The Operation and Maintenance (O&M) Agreement is a formal contract between the [[department-of-toxic-substances-control]] (DTSC) and the [[caltrans]] that establishes the procedures for maintaining the integrity of the installed remedy at the [[modesto-soil-stockpiles-project]]. This agreement is a crucial component of the post-remediation phase, ensuring the long-term safety and effectiveness of the cleanup actions. The O&M Agreement is entered into pursuant to California Health and Safety Code sections 25355.5(a)(1)(C) and/or 25187.
+The Operation and Maintenance (O&M) Agreement is a formal contract between the [[department-of-toxic-substances-control]] (DTSC) and [[caltrans]] that establishes the procedures for maintaining the integrity of the installed remedy at the [[modesto-soil-stockpiles-project]]. This agreement is a crucial component of the post-remediation phase, ensuring the long-term safety and effectiveness of the cleanup actions. The O&M Agreement is entered into pursuant to California Health and Safety Code sections 25355.5(a)(1)(C) and/or 25187.
 
 ## Site Record
 
@@ -36,7 +35,7 @@ The O&M Agreement is a prerequisite for the recording of the [[land-use-covenant
 * [[sr-132-west-expressway-phase-1]]
 * [[land-use-covenant]]
 * [[oandm-plan]]
+* [[operations-and-maintenance-plan]]
 * [[caltrans]]
 * [[department-of-toxic-substances-control]]
-* [[caltrans-district-6]]
 * [[geocon-consultants]]

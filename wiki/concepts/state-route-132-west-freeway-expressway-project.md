@@ -1,0 +1,31 @@
+---
+concept: state-route-132-west-freeway-expressway-project
+entity_type: concept
+aliases: ["SR 132 West Expressway/Freeway soil stockpiles", "interim-phase-1", "interim-phase-1-state-route-132-west-project", "route-99-132-separation-and-widening", "sr-132", "sr-132-corridor", "sr-132-west-expressway-freeway-soil-stockpiles", "sr-132-west-expressway-phase-1", "sr-132-west-freeway-expressway-project", "sr-132-west-project"]
+sources: ["SR 132 West Signed NOA Public/SR 132 West Signed NOA Public.md", "SR_132_DEIR_EA/SR_132_DEIR_EA.md", "SR_132_DEIR_EA_Append_A-F/SR_132_DEIR_EA_Append_A-F.md", "SR_132_DEIR_EA_Append_G-J/SR_132_DEIR_EA_Append_G-J.md", "State Route 132 RAP Approval PN (FINAL 2-21-18)/State Route 132 RAP Approval PN (FINAL 2-21-18).md", "Stockpile 1 MSE Wall Sampling Tech Memo/Stockpile 1 MSE Wall Sampling Tech Memo.md", "Stockpile 2 BCS Foundation Spoil Workplan Tech Memo/Stockpile 2 BCS Foundation Spoil Workplan Tech Memo.md", "wiki/sources/03.01.2012 SR 132 west Expressway Followup5_srb.RA/03.01.2012 SR 132 west Expressway Followup5_srb.RA.md"]
+confidence: high
+created_at: 2026-08-11T02:48:34Z
+---
+
+The State Route 132 West Freeway Expressway Project is a Caltrans transportation improvement project in Modesto, Stanislaus County, California. A key aspect of this project involves the proposed use of soil stockpiles located on Caltrans "right-of-way" property near Kansas Avenue and State Route (SR) 99. These stockpiles, totaling approximately 120,000 cubic yards, were generated from Caltrans' construction of a segment of SR 99 in the 1960s. The soils were excavated from a parcel previously owned by FMC Inc., a chemical manufacturing company that processed barium sulfate and strontium sulfate ores. The project plans to utilize these stockpile soils for constructing the core of abutments and elevated sections of the SR 132 West Expressway/Freeway.
+
+## Site record
+
+The soil stockpiles consist of excess native soils and pond tailings. {{quote: "The stockpiles consist of excess native soils and pond tailings that were generated when Caltrans constructed a segment of SR 99 north of Kansas Avenue in the 1960's."}} The stockpiles are located on Caltrans property south of Kansas Avenue, east and west of North Emerald Avenue and SR 99. {{quote: "The soil stockpiles (Site) consist of three separate piles totaling approximately 120,000 cubic yards on Caltrans property located south of Kansas Avenue, just east and west of North Emerald Avenue and SR 99."}} The parcel from which the soils were excavated was previously occupied by a corner of FMC's southernmost percolation pond. {{quote: "Excavating the segment traversed a portion of a 4.3-acre parcel purchased from FMC Inc. The parcel was previously occupied by a corner of FMC's southernmost percolation pond."}} FMC Inc. and its predecessors processed barium sulfate and strontium sulfate ores and other minerals. {{quote: "FMC Inc. (and its predecessors) was a chemical manufacturing company that processed barium sulfate and strontium sulfate ores and other minerals."}}
+
+The Department of Toxic Substances Control (DTSC) reviewed reports related to the characterization of these soil stockpiles beginning in January 2005. {{quote: "Beginning in January 2005 the Department of Toxic Substances Control (DTSC), via Interagency Agreements and Task Orders with the California Department of Transportation (Caltrans), reviewed reports related to the characterization of soil stockpiles on Caltrans "right-of-way" property in the vicinity of Kansas Avenue and State Route (SR) 99 in Modesto, Stanislaus County."}} In a correspondence dated December 17, 2009, DTSC stated that the soil stockpiles, as managed by Caltrans on Caltrans property, did not pose a risk to human health for Caltrans workers, trespassers, or adjacent residents. {{quote: "Based on the information that Caltrans and its contractor provided, DTSC's correspondence to Caltrans dated 12/17/09 stated: "DTSC finds soil stockpiles, as currently managed by Caltrans on Caltrans property, do not pose a risk to human health for: 1) Caltrans workers who access the fenced site to conduct mowing operations, conduct fence repairs, or other routine activities; 2) trespassers; and 3) residents adjacent to the stockpiles"."}} However, these findings were predicated on specific conditions. {{quote: "However, in this same communication the above DTSC findings are predicated upon the following conditions: "Until such time that the SR 132/99 Interchange project is constructed [...]"}}
+
+## Regulatory status
+
+The DTSC, in consultation with the Regional Water Quality Control Board, Central Valley Region (RWQCB), reviewed reports concerning the soil stockpiles to determine the potential for a release of hazardous substances. {{quote: "In consultation with Regional Water Quality Control Board, Central Valley Region (RWQCB), DTSC reviewed and provided comments to Caltrans on these reports."}} DTSC's findings, as of March 1, 2012, indicated that the soil stockpiles, under current management, did not pose a risk to human health. {{quote: "DTSC finds soil stockpiles, as currently managed by Caltrans on Caltrans property, do not pose a risk to human health for: 1) Caltrans workers who access the fenced site to conduct mowing operations, conduct fence repairs, or other routine activities; 2) trespassers; and 3) residents adjacent to the stockpiles"."}} These findings were contingent upon the ongoing management and the eventual construction of the SR 132/99 Interchange project. {{quote: "However, in this same communication the above DTSC findings are predicated upon the following conditions: "Until such time that the SR 132/99 Interchange project is constructed"}}
+
+## See also
+
+* [[barium]]
+* [[caltrans-modesto-soil-stockpiles]]
+* [[draft-environmental-impact-report-environmental-assessment]]
+* [[draft-final-remedial-action-plan]]
+* [[lead]]
+* [[strontium]]
+* [[appendix-j]]
+* [[california-environmental-quality-act]]

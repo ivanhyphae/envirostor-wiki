@@ -1,13 +1,11 @@
 ---
 concept: nitrate
 entity_type: contaminant
-aliases: ["Nitrate as nitrogen", "Nitrates (as Nitrogen)"]
-sources: ["Caltrans  Response3.24.2012", "wiki/sources/1. SR_132_FEIR_EA_ 20180302 FINAL Main Doc/1. SR_132_FEIR_EA_ 20180302 FINAL Main Doc.md", "wiki/sources/Caltrans -DTSC Agreement/Caltrans -DTSC Agreement.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17.md", "wiki/sources/S9525-06-44 Modesto Stockpiles GW.0612/S9525-06-44 Modesto Stockpiles GW.0612.md", "wiki/sources/S9525-06-44A Caltrans Modesto Stockpiles GW Nov2012 0213/S9525-06-44A Caltrans Modesto Stockpiles GW Nov2012 0213.md", "wiki/sources/S9800-01-17 Modesto Stockpiles Feb2014 GW Mon 0414/S9800-01-17 Modesto Stockpiles Feb2014 GW Mon 0414.md", "wiki/sources/SR_132_DEIR_EA/SR_132_DEIR_EA.md"]
+aliases: ["Nitrates (as Nitrogen)", "nitrate as nitrogen", "nitrates"]
+sources: ["wiki/sources/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17.md", "wiki/sources/S9525-06-44 Modesto Stockpiles GW.0612/S9525-06-44 Modesto Stockpiles GW.0612.md", "wiki/sources/S9525-06-44A Caltrans Modesto Stockpiles GW Nov2012 0213/S9525-06-44A Caltrans Modesto Stockpiles GW Nov2012 0213.md", "wiki/sources/S9800-01-17 Modesto Stockpiles Feb2014 GW Mon 0414/S9800-01-17 Modesto Stockpiles Feb2014 GW Mon 0414.md"]
 confidence: high
-created_at: 2026-08-11T00:57:37Z
+created_at: 2026-08-11T02:54:08Z
 ---
-
-# Nitrate
 
 ## Overview
 

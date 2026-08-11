@@ -1,29 +1,31 @@
 ---
 concept: barium-exceeds-residential-and-commercial-industrial-screening-levels
 entity_type: claim
-aliases: ["Barium, strontium, and lead in Stockpile No. 3 are below residential and commercial/industrial screening levels, except one sample with elevated lead exceeding residential screening levels."]
-sources: ["08.30.2012 Caltrans Ramp5_srb RAdocx_srb 8_15_12_JS081612 RA4/08.30.2012 Caltrans Ramp5_srb RAdocx_srb 8_15_12_JS081612 RA4.md"]
+aliases: ["barium exceeds residential and commercial/industrial screening levels"]
+sources: ["SR_132_DEIR_EA/SR_132_DEIR_EA.md", "wiki/sources/Caltrans Ramp Letter dated 5.29.12/Caltrans Ramp Letter dated 5.29.12.md", "wiki/sources/S9650-06-03 MODESTO RAMP WORKPLAN.0412/S9650-06-03 MODESTO RAMP WORKPLAN.0412.md", "wiki/sources/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan.Revised_10.14/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan.Revised_10.14.md"]
 confidence: high
-created_at: 2026-08-11T01:02:49Z
+created_at: 2026-08-11T02:52:48Z
 ---
 
 ## Barium Exceeds Residential And Commercial Industrial Screening Levels
 
 ### Overview
-This section details instances where barium concentrations at the [[modesto-soil-stockpiles-project]] site exceeded established screening levels for residential and commercial/industrial land use. This exceedance is a key factor in the remediation and management of soil at the site, particularly in relation to the [[brownfields-and-environmental-restoration-program]].
+This section details instances where barium concentrations at the [[caltrans-modesto-soil-stockpiles]] site exceeded established screening levels for residential and commercial/industrial land use. This exceedance is a key factor in the management of soil at the site.
 
 ### Site Record
-During the [[modesto-ramp-rehabilitation-project]], specifically within the SR 132, Stanislaus County, CA site, barium was detected at concentrations exceeding screening levels. For instance, in samples collected on August 15, 2012, barium was found at {{quote: "1,100 mg/kg"}} in soil samples from the {{quote: "Ramp 5 stockpile"}} {{quote: "Ramp5_srb RAdocx_srb 8_15_12_JS081612 RA4"}}. This concentration exceeded the residential screening level of {{quote: "150 mg/kg"}} and the commercial/industrial screening level of {{quote: "550 mg/kg"}} {{quote: "Ramp5_srb RAdocx_srb 8_15_12_JS081612 RA4"}}.
+During the [[modesto-ramp-rehabilitation-project]], specifically within the SR 132, Stanislaus County, CA site, barium was detected at concentrations exceeding screening levels. In samples collected on August 15, 2012, barium was found at {{quote: "1,100 mg/kg"}} in soil samples from the {{quote: "Ramp 5 stockpile"}} {{quote: "Ramp5_srb RAdocx_srb 8_15_12_JS081612 RA4"}}. This concentration exceeded the residential screening level of {{quote: "150 mg/kg"}} and the commercial/industrial screening level of {{quote: "550 mg/kg"}} {{quote: "Ramp5_srb RAdocx_srb 8_15_12_JS081612 RA4"}}.
+
+A letter from Caltrans dated May 29, 2012, addressed to the Department of Toxic Substances Control (DTSC), stated that final analysis indicated the presence of elevated metal concentrations above site-specific background levels, but below residential and commercial/industrial [[california-human-health-screening-levels]]. This statement was made in the context of excavating material from Stockpile #3 for the ramp improvement project {{S9650-06-03 MODESTO RAMP WORKPLAN.0412}}.
 
 ### Regulatory Status
-The screening levels for barium at this site were established to guide remediation efforts. The detection of barium above these levels {{quote: "1,100 mg/kg"}} in the {{quote: "Ramp 5 stockpile"}} on {{quote: "8/15/12"}} indicated the need for further management or remediation to meet land use standards {{quote: "Ramp5_srb RAdocx_srb 8_15_12_JS081612 RA4"}}. The [[dtsc-approval-letter]] would likely address the management of such exceedances.
+The screening levels for barium at this site were established to guide remediation efforts. The detection of barium above these levels {{quote: "1,100 mg/kg"}} in the {{quote: "Ramp 5 stockpile"}} on {{quote: "8/15/12"}} indicated the need for further management or remediation to meet land use standards {{quote: "Ramp5_srb RAdocx_srb 8_15_12_JS081612 RA4"}}. The disposition of excavated material from Stockpile #3 was contingent on DTSC concurrence that the material was non-hazardous {{Caltrans Ramp Letter dated 5.29.12}}.
 
 ### See also
-- [[arsenic]]
-- [[arsenic-exceeds-residential-and-commercial-industrial-screening-levels]]
 - [[barium]]
-- [[brownfields-and-environmental-restoration-program]]
-- [[dtsc-approval-letter]]
+- [[california-human-health-screening-levels]]
+- [[caltrans-modesto-soil-stockpiles]]
+- [[commercial-industrial-screening-level]]
+- [[geocon-consultants]]
 - [[lead]]
-- [[modesto-ramp-rehabilitation-project]]
-- [[sr-99-kansas-avenue-northbound-off-ramp]]
+- [[strontium]]
+- [[caltrans]]

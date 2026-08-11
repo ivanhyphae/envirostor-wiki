@@ -2,12 +2,12 @@
 concept: steven-meeks
 entity_type: concept
 aliases: ["Steven Meeks"]
-sources: ["wiki/sources/E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan/E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan.md", "wiki/sources/E-mail Acceptance of Bent 2 Soils Tech Memo/E-mail Acceptance of Bent 2 Soils Tech Memo.md", "wiki/sources/E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo/E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo.md", "wiki/sources/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo.md", "wiki/sources/FW_ SR 132 Basin 5 Clean Fill Sampling Plan /FW_ SR 132 Basin 5 Clean Fill Sampling Plan .md"]
+sources: ["E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan/E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan.md", "E-mail Acceptance of Bent 2 Soils Tech Memo/E-mail Acceptance of Bent 2 Soils Tech Memo.md", "E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo/E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo.md", "E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo.md", "FW_ SR 132 Basin 5 Clean Fill Sampling Plan /FW_ SR 132 Basin 5 Clean Fill Sampling Plan .md"]
 confidence: high
-created_at: 2026-08-11T01:01:13Z
+created_at: 2026-08-11T02:53:18Z
 ---
 
-Steven Meeks is an individual associated with the Water Board (WB) who received communications regarding sampling plans and technical memorandums related to the SR 132 project in Stanislaus County, California. He was included in email correspondence from Richard-Stewart at [[caltrans]] to Dean-Wright at the Department-of-Toxic-Substances-Control (DTSC) and Perry-Myers at DTSC, concerning the characterization and use of soils from various project areas, including Stockpiles 1 and 2, Bent 2, and Basin 5.
+Steven Meeks is an individual associated with the Water Board (WB) who received communications regarding sampling plans and technical memorandums related to the SR 132 project in Stanislaus County, California. He was included in email correspondence from Richard-Stewart at [[caltrans]] to Dean-Wright at the [[department-of-toxic-substances-control]] (DTSC) and Perry-Myers at DTSC, concerning the characterization and use of soils from various project areas, including Stockpiles 1 and 2, Bent 2, and Basin 5.
 
 ## Site record
 
@@ -35,3 +35,4 @@ Steven Meeks, representing the Water Board (WB), was involved in the review and 
 * [[department-of-toxic-substances-control]]
 * [[geocon-consultants]]
 * [[clean-fill]]
+* [[john-e-juhrend]]

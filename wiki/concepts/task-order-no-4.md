@@ -1,15 +1,15 @@
 ---
 concept: task-order-no-4
-entity_type: concept
-aliases: ["Task Order No. 4"]
+entity_type: deliverable
+aliases: []
 sources: ["wiki/sources/Caltrans SR 132-99 Task Order 4/Caltrans SR 132-99 Task Order 4.md"]
 confidence: high
-created_at: 2026-08-11T00:59:11Z
+created_at: 2026-08-11T02:52:17Z
 ---
 
-# Task Order No. 4
+## Overview
 
-Task Order No. 4, also identified as DTSC #12-T0106, was executed under Interagency Agreement No. 43A0310 between the [[caltrans]] and the [[department-of-toxic-substances-control]] (DTSC). This task order was part of the [[caltrans-modesto-soil-stockpiles]] project, specifically addressing the SR 132/99 corridor in Stanislaus County. The agreement was executed on June 6, 2013, with DTSC's execution date of June 5, 2012.{{quote: "Caltrans/Department of Toxic Substances Control Interagency Agreement No. 43A0310 Task Order No. 4 Page 15 of 15"}} {{quote: "Date: 6 7 13"}} {{quote: "Date 6/5/2012"}}
+Task Order No. 4, also identified as DTSC #12-T0106, was an agreement executed under Interagency Agreement No. 43A0310 between [[caltrans]] and the [[department-of-toxic-substances-control]] (DTSC). This task order was part of the [[caltrans-modesto-soil-stockpiles]] project, specifically addressing the SR 132/99 corridor in Stanislaus County. The agreement was executed on June 6, 2013, with DTSC's execution date of June 5, 2012.{{quote: "Caltrans/Department of Toxic Substances Control Interagency Agreement No. 43A0310 Task Order No. 4 Page 15 of 15"}} {{quote: "Date: 6 7 13"}} {{quote: "Date 6/5/2012"}}
 
 ## Project Personnel
 
@@ -23,7 +23,11 @@ G. Scott McGowen, P.E., Chief Environmental Engineer for Caltrans' Division of E
 
 ## Cost Estimate
 
-Task Order No. 43A0310-04 was associated with cost estimates for DTSC oversight of the Caltrans Modesto Soil Stockpiles for Fiscal Years 2013/14, 2014/15, and 2015/16.{{quote: "Task Order No. 43A0310-04 Attachment 2 01"}} {{quote: "Task Order No. 43A0310-04 Attachment 2 02"}}
+Task Order No. 43A0310-04 was associated with cost estimates for DTSC oversight of the Caltrans Modesto Soil Stockpiles for Fiscal Years 2013/14, 2014/15, and 2015/16.{{quote: "Task Order No. 43A0310-04 Attachment 2 01"}} {{quote: "Task Order No. 43A0310-04 Attachment 2 02"}} The total task order amount was \$ 172,000.00.{{quote: "Total Task Order Amount: \$ 172,000.00"}} This included allocations for FY 13/14 of \$ 98,312.00, FY 14/15 of \$ 39,871.00, and FY15/16 of \$ 33,774.00.{{quote: "FY 13/I4: \$ 98,312.00 FY 14/15: \$ 39,871.00 FY15/16: \$ 33,774.00"}}
+
+## Term of Task Order
+
+The term of Task Order No. 4 was from June 1, 2013, through May 31, 2016.{{quote: "Term of Task Order: June 1, 2013 through May 31, 2016"}} The execution date was June 1, 2013.{{quote: "Execution Date: June 1, 2013"}}
 
 ## See also
 * [[caltrans]]

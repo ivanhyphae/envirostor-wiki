@@ -1,10 +1,10 @@
 ---
 concept: dean-wright
 entity_type: concept
-aliases: ["Dean Wright", "Dean Wright, P.G.", "Dean Wright, PG"]
-sources: ["wiki/sources/DTSC Approval E-mail for Carpenter Shoofly Clean Fill Sampling Plan/DTSC Approval E-mail for Carpenter Shoofly Clean Fill Sampling Plan.md", "wiki/sources/DTSC E-mail Approval of Carpenter Shoofly Tech Memo/DTSC E-mail Approval of Carpenter Shoofly Tech Memo.md", "wiki/sources/DTSC PM Change Notice - State Route 132 - Modesto Soil Stockpiles, Modesto/DTSC PM Change Notice - State Route 132 - Modesto Soil Stockpiles, Modesto.md", "wiki/sources/E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan/E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan.md", "wiki/sources/E-mail Acceptance of Bent 2 Soils Tech Memo/E-mail Acceptance of Bent 2 Soils Tech Memo.md", "wiki/sources/E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo/E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo.md", "wiki/sources/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo.md", "wiki/sources/FW_ SR 132 Basin 5 Clean Fill Sampling Plan /FW_ SR 132 Basin 5 Clean Fill Sampling Plan .md", "wiki/sources/Final SMP Approval E-mail/Final SMP Approval E-mail.md", "wiki/sources/Fiscal Year Cost Estimate 22_23_Modesto Soil Stockpiles (900259)/Fiscal Year Cost Estimate 22_23_Modesto Soil Stockpiles (900259).md", "wiki/sources/Fiscal Year Cost Estimate 23_24_Modesto Soil Stockpiles (900259)/Fiscal Year Cost Estimate 23_24_Modesto Soil Stockpiles (900259).md", "wiki/sources/SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020/SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020.md"]
+aliases: ["Dean Wright"]
+sources: ["DTSC E-mail Approval of Carpenter Shoofly Tech Memo/DTSC E-mail Approval of Carpenter Shoofly Tech Memo.md", "DTSC PM Change Notice - State Route 132 - Modesto Soil Stockpiles, Modesto/DTSC PM Change Notice - State Route 132 - Modesto Soil Stockpiles, Modesto.md", "E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan/E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan.md", "E-mail Acceptance of Bent 2 Soils Tech Memo/E-mail Acceptance of Bent 2 Soils Tech Memo.md", "E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo/E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo.md", "E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo.md", "FW_ SR 132 Basin 5 Clean Fill Sampling Plan /FW_ SR 132 Basin 5 Clean Fill Sampling Plan .md", "wiki/sources/DTSC Approval E-mail for Carpenter Shoofly Clean Fill Sampling Plan/DTSC Approval E-mail for Carpenter Shoofly Clean Fill Sampling Plan.md", "wiki/sources/SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020/SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020.md"]
 confidence: high
-created_at: 2026-08-11T00:59:21Z
+created_at: 2026-08-11T02:52:28Z
 ---
 
 ## Dean Wright
@@ -47,6 +47,5 @@ As of February 13, 2020, a burial location report referenced by [[richard-stewar
 - [[geocon-consultants]]
 - [[steven-meeks]]
 - [[john-e-juhrend]]
-- [[jennifer-lugo]]
 - [[adam-inman]]
 - [[arielle-mcleskey]]

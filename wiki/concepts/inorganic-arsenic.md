@@ -1,22 +1,22 @@
 ---
 concept: inorganic-arsenic
 entity_type: contaminant
-aliases: []
+aliases: ["inorganic arsenic"]
 sources: ["wiki/sources/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19.md"]
 confidence: high
-created_at: 2026-08-11T01:01:34Z
+created_at: 2026-08-11T02:53:48Z
 ---
 
 ## Inorganic Arsenic
 
 ### Overview
-Inorganic arsenic is a contaminant of concern at the [[caltrans-modesto-soil-stockpiles]] site. Its presence necessitates specific health and safety protocols outlined in the Health and Safety Plan (HSP), including monitoring and the use of personal protective equipment.
+Inorganic arsenic is a contaminant of concern at the [[caltrans-modesto-soil-stockpiles]] site, requiring specific health and safety protocols.
 
 ### Site Record
-The Health and Safety Plan (HSP) for the project references T22 metals, including inorganic arsenic, in its monitoring and exposure assessment requirements. Specifically, it notes that monitoring and exposure assessment records will be maintained in accordance with the provisions of T22 metals, including T8 CCR §§5214 – Inorganic Arsenic. General site employees are trained on the potential hazards of exposure to inorganic arsenic as part of their project orientation, which covers elements of the HSP and other Cal/OSHA requirements.
+Monitoring and exposure assessment records for inorganic arsenic are maintained in accordance with T8 CCR §§5214 – Inorganic Arsenic. General site employees receive project orientation that covers the potential hazards of exposure to inorganic arsenic, as well as elements of the Health and Safety Plan (HSP) and other Cal/OSHA requirements.
 
 ### Regulatory Status
-The permissible exposure limit (PEL) for inorganic arsenic is {{quote: "0.01 milligrams per cubic meter of air (same as 10 micrograms per cubic meter of air) as determined as an average over an 8-hour period."}}. There is also an action level of {{quote: "0.005 milligrams per cubic meter of air (same as 5 micrograms per cubic meter of air) determined as an average over an 8-hour period."}}. Employees are prohibited from any skin or eye contact with arsenic trichloride or contact likely to cause skin or eye irritation.
+The permissible exposure limit (PEL) for inorganic arsenic is {{quote: "0.01 milligrams per cubic meter of air (same as 10 micrograms per cubic meter of air) as determined as an average over an 8-hour period."}} An action level of {{quote: "0.005 milligrams per cubic meter of air (same as 5 micrograms per cubic meter of air) determined as an average over an 8-hour period."}} is also established. Employees are prohibited from any skin or eye contact with arsenic trichloride or contact likely to cause skin or eye irritation.
 
 ### Health Hazard Data
 The health hazard of inorganic arsenic is considered high. Exposure to airborne inorganic arsenic may cause lung cancer and can act as a skin irritant. Ingestion of inorganic arsenic can also affect the body. Arsenic trichloride is noted as particularly dangerous due to its corrosiveness and ability to be absorbed through the skin. Due to its poisonous nature, thorough handwashing before eating or smoking is advised.
@@ -36,6 +36,5 @@ Employers are responsible for providing additional information and training rega
 - [[caltrans]]
 - [[central-valley-rwqcb]]
 - [[chromium-vi]]
-- [[containment-strategy]]
-- [[department-of-toxic-substances-control]]
-- [[geocon-consultants]]
+- [[clean-fill-capping]]
+- [[clean-soil-cover]]

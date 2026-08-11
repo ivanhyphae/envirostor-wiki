@@ -1,10 +1,10 @@
 ---
 concept: advanced-technology-laboratories
 entity_type: concept
-aliases: ["ATL", "Advanced Technology Laboratories (ELAP No. 1838)"]
-sources: ["wiki/sources/S9800-01-17 Caltrans Modesto Stockpiles Dec 2013 GW Mon 0114/S9800-01-17 Caltrans Modesto Stockpiles Dec 2013 GW Mon 0114.md", "wiki/sources/S9800-01-17 Modesto Stockpiles Feb2014 GW Mon 0414/S9800-01-17 Modesto Stockpiles Feb2014 GW Mon 0414.md"]
+aliases: ["Advanced Technology Laboratories (ELAP No. 1838)"]
+sources: ["wiki/sources/S9800-01-17 Caltrans Modesto Stockpiles Dec 2013 GW Mon 0114/S9800-01-17 Caltrans Modesto Stockpiles Dec 2013 GW Mon 0114.md"]
 confidence: high
-created_at: 2026-08-11T01:02:06Z
+created_at: 2026-08-11T02:54:35Z
 ---
 
 ## Advanced Technology Laboratories (ATL)
@@ -20,7 +20,7 @@ For a subsequent monitoring event, ATL received samples on December 13, 2013, un
 In February 2014, ATL received samples on February 26, 2014, under Work Order Number 1400558, with a client reference of "Modesto Stockpiles, S9800-01-17". {{quote: "Re: ATL Work Order Number : 1400558"}} {{quote: "> Client Reference : Modesto Stockpiles, S9800-01-17"}} The laboratory reports were issued on March 5, 2014. {{quote: "Reported : 03/05/2014"}} ATL also received samples on February 27, 2014, under Work Order Number 1400577, with the same client reference "Modesto Stockpiles, S9800-01-17". {{quote: "Re: ATL Work Order Number : 1400577"}} {{quote: "> Client Reference : Modesto Stockpiles, S9800-01-17"}} The laboratory reports for this event were issued on March 7, 2014. {{quote: "Reported : 03/07/2014"}}
 
 The analyses performed by ATL included:
-*   Title 22 dissolved metals (including strontium) following EPA Test Methods 6020/7470. {{quote: "Title 22 dissolved metals (including strontium) following United States Environmental Protection Agency (EPA) Test Methods 6020/7470;"}}
+*   Title 22 dissolved metals (including strontium) following United States Environmental Protection Agency (EPA) Test Methods 6020/7470. {{quote: "Title 22 dissolved metals (including strontium) following United States Environmental Protection Agency (EPA) Test Methods 6020/7470;"}}
 *   Dissolved calcium, magnesium, potassium and sodium by EPA Test Method 6020. {{quote: "Dissolved calcium, magnesium, potassium and sodium by EPA Test Method 6020;"}}
 *   Chloride, nitrate as nitrogen and sulfate by EPA Test Method 300.0. {{quote: "Chloride, nitrate as nitrogen and sulfate by EPA Test Method 300.0;"}}
 *   Sulfide by Standard Method (SM) 4500. {{quote: "Sulfide by Standard Method (SM) 4500;"}}

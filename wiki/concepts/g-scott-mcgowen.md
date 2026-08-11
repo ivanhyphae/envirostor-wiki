@@ -1,29 +1,33 @@
 ---
 concept: g-scott-mcgowen
 entity_type: concept
-aliases: ["G. Scott McGowen"]
+aliases: []
 sources: ["wiki/sources/Caltrans -DTSC Agreement/Caltrans -DTSC Agreement.md", "wiki/sources/Caltrans SR 132-99 Task Order 4/Caltrans SR 132-99 Task Order 4.md"]
 confidence: high
-created_at: 2026-08-11T00:59:01Z
+created_at: 2026-08-11T02:51:59Z
 ---
 
-G. Scott McGowen, P.E. is identified as the Chief Environmental Engineer for the Division of Environmental Analysis within the State of California, Department of Transportation. His signature appears on Interagency Agreement No. 43A0260, Task Order No. 6, dated June 21, 2012 {{quote: "G. Scott McGowen, P.E. Chief Environmental Engineer Division of Environmental Analysis"}}. He also signed Interagency Agreement No. 43A0310, Task Order No. 4, dated June 7, 2013 {{quote: "G. Scott McGowen, P.E. Chief Environmental Engineer Division of Environmental Analysis"}}. In both instances, he certified that the work described in the respective Task Orders was included in the required services {{quote: "I certify that I have read the "Description of Services" for this Agreement and in my expert opinion: The work described in this Task Order is included in the required services."}}.
+G. Scott McGowen, P.E. served as the Chief Environmental Engineer for the Division of Environmental Analysis within the State of California, Department of Transportation (Caltrans). His role is documented through his signature on key interagency agreements with the Department of Toxic Substances Control (DTSC) related to the [[modesto-soil-stockpiles-project]].
 
 ## Site record
 
-McGowen's role is documented in the context of interagency agreements between Caltrans and the Department of Toxic Substances Control (DTSC) for the [[modesto-soil-stockpiles-project]]. He provided certification for Task Order No. 6 under Agreement No. 43A0260 {{quote: "Caltrans/Department of Toxic Substances Control Interagency Agreement No. 43A0260 Task Order No. 6 Page 13 of 13"}}, and for Task Order No. 4 under Agreement No. 43A0310 {{quote: "Caltrans/Department of Toxic Substances Control Interagency Agreement No. 43A0310 Task Order No. 4 Page 15 of 15"}}.
+G. Scott McGowen's signature appears on Interagency Agreement No. 43A0260, Task Order No. 6, dated June 21, 2012 {{quote: "G. Scott McGowen, P.E. Chief Environmental Engineer Division of Environmental Analysis"}}. This Task Order was for the "Caltrans Modesto Soil Stockpiles - State Route 132/99" and had a term from June 22, 2012, through May 31, 2013 {{quote: "Term of Task Order: June 22, 2012 through May 31, 2013"}}.
+
+He also signed Interagency Agreement No. 43A0310, Task Order No. 4, dated June 7, 2013 {{quote: "G. Scott McGowen, P.E. Chief Environmental Engineer Division of Environmental Analysis"}}. This Task Order, titled "Caltrans Modesto Soil Stockpiles – State Route 132/99," had a term from June 1, 2013, through May 31, 2016 {{quote: "Term of Task Order: June 1, 2013 through May 31, 2016"}}.
+
+In both instances, McGowen certified that the work described in the respective Task Orders was included in the required services {{quote: "I certify that I have read the "Description of Services" for this Agreement and in my expert opinion: The work described in this Task Order is included in the required services."}}.
 
 ## Regulatory status
 
-McGowen's certifications indicate his role in the approval process for work conducted under interagency agreements with the DTSC, signifying compliance with project scope and required services.
+McGowen's certifications as Chief Environmental Engineer for Caltrans' Division of Environmental Analysis indicate his involvement in the administrative and approval processes for work conducted under interagency agreements with the DTSC. His signature signifies that, in his expert opinion, the scope of work outlined in the Task Orders met the required services for the [[modesto-soil-stockpiles-project]].
 
 ## See also
 
 * [[caltrans]]
 * [[caltrans-modesto-soil-stockpiles]]
 * [[department-of-toxic-substances-control]]
+* [[interagency-agreement-43a0260]]
 * [[modesto-soil-stockpiles-project]]
 * [[paul-ruffin]]
 * [[remedial-action-plan]]
 * [[remedial-design-implementation-plan]]
-* [[richard-stewart]]

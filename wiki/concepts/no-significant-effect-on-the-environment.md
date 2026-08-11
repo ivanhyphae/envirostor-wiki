@@ -1,19 +1,19 @@
 ---
 concept: no-significant-effect-on-the-environment
 entity_type: claim
-aliases: []
-sources: ["wiki/sources/1. SR_132_FEIR_EA_ 20180302 FINAL Main Doc/1. SR_132_FEIR_EA_ 20180302 FINAL Main Doc.md", "wiki/sources/Caltrans Ramp Clarification Letter dated 8.24.12 /Caltrans Ramp Clarification Letter dated 8.24.12 .md"]
+aliases: ["will not have a significant effect on the environment"]
+sources: ["wiki/sources/opr25@opr.ca.gov_20180319_135531/opr25@opr.ca.gov_20180319_135531.md"]
 confidence: high
-created_at: 2026-08-11T00:57:42Z
+created_at: 2026-08-11T02:55:08Z
 ---
 
 ## No Significant Effect On The Environment
 
 ### Overview
-The determination of "No Significant Effect On The Environment" is a finding made in relation to the California Environmental Quality Act (CEQA) process for the Modesto Soil Stockpiles Project. This determination signifies that the project, as proposed and implemented, is not expected to have a substantial or potentially significant adverse impact on the environment. This conclusion is typically documented in an [[environmental-impact-report-environmental-assessment]] and can lead to the issuance of a [[notice-of-determination]].
+The determination of "No Significant Effect On The Environment" is a finding made in relation to the [[california-environmental-quality-act]] (CEQA) process for the [[caltrans-modesto-soil-stockpiles]] project. This determination signifies that the project, as proposed and implemented, is not expected to have a substantial or potentially significant adverse impact on the environment. This conclusion is typically documented in an [[environmental-impact-report-environmental-assessment]] and can lead to the issuance of a [[notice-of-determination]].
 
 ### Site Record
-For the ramp safety improvements located in Modesto along State Route (SR) 99 at Kansas Avenue, Caltrans initiated additional investigations in the area to be excavated at Stockpile No. 3. The results of these investigations and the proposed management of the material demonstrated that completion and implementation of an Interim Removal Action Workplan was not needed for the ramp project. {{quote: "However, the results of additional investigations and proposed management of the material discussed below demonstrate that completion and implementation of an Interim Removal Action Workplan is not needed for the ramp project."}}
+For the ramp safety improvements located in Modesto along State Route (SR) 99 at Kansas Avenue, [[caltrans]] initiated additional investigations in the area to be excavated at Stockpile No. 3. The results of these investigations and the proposed management of the material demonstrated that completion and implementation of an Interim Removal Action Workplan was not needed for the ramp project. {{quote: "However, the results of additional investigations and proposed management of the material discussed below demonstrate that completion and implementation of an Interim Removal Action Workplan is not needed for the ramp project."}}
 
 An estimated total of 6,000 cubic yards of material will be excavated for the widened roadbed, drainage, and retaining wall. Of that material, approximately 2800 cubic yards will be from the north western end of Stockpile No. 3. {{quote: "An estimated total of 6,000 cubic yards of material will be excavated for the widened roadbed, drainage and retaining wall. Of that material, approximately 2800 cubic yards will be from the north western end of Stockpile No. 3."}} Some of the excavated native material will be used as backfill as part of the ramp construction activities. The remainder of the excavated material, including all of the material excavated from Stockpile No. 3, will be transported offsite. {{quote: "Some of the excavated native material will be used as backfill as part of the ramp construction activities. The remainder of the excavated material, including all of the material excavated from Stockpile No. 3 will be transported offsite."}}
 
@@ -23,15 +23,20 @@ One soil sample had a barium concentration higher than 10 times the Soluble Thre
 
 The native soil material proposed for excavation outside the footprint of Stockpile No. 3 is suitable for reuse as structural backfill or for offsite reuse/disposal as a non-hazardous soil to an accepting facility. {{quote: "The native soil material proposed for excavation outside the footprint of Stockpile No. 3 is suitable for reuse as structural backfill or for offsite reuse/disposal as a non-hazardous soil to an accepting facility."}}
 
+The [[department-of-toxic-substances-control]] (DTSC), acting as a CEQA Responsible Agency, approved the project on March 14, 2018, and determined that the project will not have a significant effect on the environment. {{quote: "As Lead Agency a Responsible Agency under the California Environmental Quality Act (CEQA), DTSC approved the above-described project on March 14, 2018 and has made the following determinations:\n- 1. The project will not have a significant effect on the environment."}}
+
 ### Regulatory Status
 The determination of "No Significant Effect On The Environment" is a finding made as part of the CEQA process. This finding allows for the issuance of a [[notice-of-determination]], indicating that the project can proceed without the need for a full Environmental Impact Report (EIR) if an Initial Study/Negative Declaration demonstrates no significant impacts. {{quote: "This determination allows for the issuance of a [[notice-of-determination]], indicating that the project can proceed without the need for a full Environmental Impact Report (EIR) if the initial assessment (Initial Study/Negative Declaration) demonstrates no significant impacts."}}
 
+[[caltrans]], acting as the Lead Agency under CEQA, certified the [[environmental-impact-report-environmental-assessment]] (EIR/EA) on March 2, 2018. {{quote: "Caltrans, acting as the Lead Agency under the California Environmental Quality Act (CEQA), prepared an Environmental Impact Report/Environmental Assessment(EIR/EA) and Remedial Action Plan RAP). Caltrans certified the EIR/EA on March 2, 2018."}} DTSC, as a CEQA Responsible Agency, utilized the EIR/EA for the [[remedial-action-plan]] CEQA analysis. {{quote: "DTSC, as a CEQA Responsible Agency, is utilizing the EIR/EA for the RAP CEQA analysis."}} DTSC approved the project on March 14, 2018. {{quote: "As Lead Agency a Responsible Agency under the California Environmental Quality Act (CEQA), DTSC approved the above-described project on March 14, 2018"}}
+
 ### See also
 - [[caltrans]]
+- [[caltrans-modesto-soil-stockpiles]]
 - [[central-valley-rwqcb]]
 - [[department-of-toxic-substances-control]]
 - [[environmental-impact-report-environmental-assessment]]
-- [[modesto-soil-stockpiles-project]]
 - [[no-offsite-migration-observed]]
 - [[notice-of-determination]]
 - [[remedial-action-plan]]
+- [[california-environmental-quality-act]]

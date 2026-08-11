@@ -4,10 +4,11 @@ entity_type: concept
 aliases: ["Water Board"]
 sources: ["wiki/sources/WB Acceptance E-mail/WB Acceptance E-mail.md"]
 confidence: high
-created_at: 2026-08-11T01:02:15Z
+created_at: 2026-08-11T02:55:03Z
 ---
 
-The [[water-board]] is a regulatory agency involved in the [[caltrans-modesto-soil-stockpiles]] remediation case. Specifically, the [[rwqcb]] (a regional branch of the Water Board) reviewed the "Caltrans Modesto Soil Stockpile Surface Water Sampling report – December 17, 2020" and indicated no comments.
+## Overview
+The [[water-board]], specifically the [[central-valley-rwqcb]] regional office, reviewed the "Caltrans Modesto Soil Stockpile Surface Water Sampling report – December 17, 2020" and indicated no comments.
 
 ## Site Record
 
@@ -24,4 +25,5 @@ The [[water-board]], through its Central Valley Region office, reviewed the surf
 * [[central-valley-rwqcb]]
 * [[department-of-toxic-substances-control]]
 * [[geocon-consultants]]
+* [[kyle-cockerham]]
 * [[surface-water-sampling-report]]

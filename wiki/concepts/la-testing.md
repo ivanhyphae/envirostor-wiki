@@ -2,12 +2,10 @@
 concept: la-testing
 entity_type: concept
 aliases: ["LA Testing"]
-sources: ["wiki/sources/Draft Interim RACR_ App D-G/Draft Interim RACR_ App D-G.md"]
+sources: ["Draft Interim RACR_Text_Figures_Tables_ App A-C/Draft Interim RACR_Text_ Figures_Tables_ App A-C.md"]
 confidence: high
-created_at: 2026-08-11T01:01:15Z
+created_at: 2026-08-11T02:53:14Z
 ---
-
-# LA Testing
 
 LA Testing was the analytical laboratory contracted to perform expedited analysis of air monitoring samples collected during BCS stockpile grading activities at the [[caltrans-modesto-soil-stockpiles]] project (SR 132, Stanislaus County, CA). The firm's Huntington Beach, CA facility {{quote: "5431 Industrial Drive, Huntington Beach, CA 92649"}} analyzed 37-mm mixed cellulose ester (0.8µ MCE) filter cassettes submitted by Geocon Consultants, Inc. {{quote: "between February and June 2020"}} under Geocon Project No. {{quote: "S1908-01-01"}}, with samples identified under the project name {{quote: "Modesto Soil"}} {{quote: "Draft Interim RACR_ App D-G/Draft Interim RACR_ App D-G.md"}}.
 

@@ -1,10 +1,10 @@
 ---
 concept: pl1
 entity_type: concept
-aliases: ["PL1"]
-sources: ["06A2542ct_to16_SurfaceWaterLetter _final.20210323/06A2542ct_to16_SurfaceWaterLetter _final.20210323.md", "06A2542ct_to97_SurfaceWaterLetter_final.20230309/06A2542ct_to97_SurfaceWaterLetter_final.20230309.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Dec 2016 SW Sampling_01.17/S1200-01-01 Modesto Stockpiles Dec 2016 SW Sampling_01.17.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17.md"]
+aliases: [""]
+sources: ["06A2542ct_to16_SurfaceWaterLetter _final.20210323/06A2542ct_to16_SurfaceWaterLetter _final.20210323.md", "06A2542ct_to97_SurfaceWaterLetter_final.20230309/06A2542ct_to97_SurfaceWaterLetter_final.20230309.md", "wiki/sources/06A2542ct_to16_SurfaceWaterLetter _final.20210323/06A2542ct_to16_SurfaceWaterLetter _final.20210323.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Dec 2016 SW Sampling_01.17/S1200-01-01 Modesto Stockpiles Dec 2016 SW Sampling_01.17.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17.md", "wiki/sources/S9800-01-17A Modesto Stockpiles Dec 11 2015 Stormwater Sampling Report_02.16/S9800-01-17A Modesto Stockpiles Dec 11 2015 Stormwater Sampling Report_02.16.md"]
 confidence: high
-created_at: 2026-08-11T00:55:42Z
+created_at: 2026-08-11T02:49:02Z
 ---
 
 ## Overview
@@ -21,11 +21,13 @@ In January 2018, sample PL1 was collected from a puddle of water on the west sid
 
 Surface water management efforts at PL1 involve maintaining vegetative/fiber cover and straw wattles along the western slope of Stockpile 2 to intercept and redirect surface water flow within the Caltrans right-of-way. {{quote: "Surface water originating from the western slope of Stockpile 2 along North Emerald Avenue will continue to be managed by maintaining the stockpile's vegetative/fiber cover and straw wattles which have been placed to intercept and redirect surface water slope flow to areas within the Caltrans right-of-way."}} Observations during sampling events have not identified runoff migrating offsite, with stormwater appearing to be retained within the Caltrans right-of-way. {{quote: "Observations made during the sampling event and from site reconnaissance did not identify any area or location where stormwater runoff appeared to be migrating offsite. Stormwater falling on the stockpiles appeared to be retained within the Caltrans right-of-way."}}
 
+In December 2020, construction of overpass abutments along the east and west sides of Emerald Avenue resulted in the former surface water sample locations for PL1 and PL2 no longer existing. {{quote: "The concrete abutments for the overpass have been constructed along the east and west side of Emerald Avenue. The former surface water sample locations for PL1 and PL2 no longer exist."}} Straw waddles were placed at the base of the slopes and abutments to minimize potential offsite discharges of storm water. {{quote: "Construction is ongoing within this area and straw waddles have been placed at the base of the slopes and abutments to minimize potential offsite discharges of storm water."}}
+
 ## Regulatory status
 The analytical results for dissolved metals at PL1 have not exceeded primary or secondary MCLs, with the exception of manganese in other locations (PL2 and PL4 in March 2017). {{quote: "None of the other reported concentrations exceed their respective primary or secondary MCLs."}} {{quote: "None of the reported concentrations exceed their respective primary or secondary MCLs with the exception of manganese in samples PL2 and PL4."}}
 
 ## Open items
-Caltrans plans to conduct additional surface water sampling during qualifying rain events in 2017 {{quote: "Caltrans plans to conduct additional surface water sampling during qualifying rain events in 2017."}} and 2018. {{quote: "Caltrans plans to conduct additional surface water sampling during qualifying rain events in 2018."}}
+Caltrans plans to conduct additional surface water sampling during qualifying rain events in 2017 {{quote: "Caltrans plans to conduct additional surface water sampling during qualifying rain events in 2017."}} and 2018. {{quote: "Caltrans plans to conduct additional surface water sampling during qualifying rain events in 2018."}} Due to grading on the site, the ability to collect future samples at the currently established locations is unknown. {{quote: "Due to the grading on the Site, the ability to collect future samples at the currently established locations is unknown."}}
 
 ## See also
 * [[bg1]]

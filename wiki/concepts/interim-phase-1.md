@@ -2,9 +2,9 @@
 concept: interim-phase-1
 entity_type: concept
 aliases: ["Interim Phase 1"]
-sources: ["wiki/sources/Caltrans -DTSC Agreement/Caltrans -DTSC Agreement.md", "wiki/sources/Draft Interim RACR_Text_Figures_Tables_ App A-C/Draft Interim RACR_Text_Figures_Tables_ App A-C.md", "wiki/sources/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19.md"]
+sources: ["Draft Interim RACR_Text_ Figures_Tables_ App A-C/Draft Interim RACR_Text_ Figures_Tables_ App A-C.md", "wiki/sources/Acceptance Letter Draft Interim RACR (900259)/Acceptance Letter Draft Interim RACR (900259).md", "wiki/sources/Acceptance Letter_Final Removal Action Completion Report_Modesto Soil Stockpiles (900259)/Acceptance Letter_Final Removal Action Completion Report_Modesto Soil Stockpiles (900259).md", "wiki/sources/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19.md", "wiki/sources/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18.md"]
 confidence: high
-created_at: 2026-08-11T01:01:01Z
+created_at: 2026-08-11T02:51:30Z
 ---
 
 # Interim Phase 1

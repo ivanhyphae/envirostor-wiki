@@ -1,26 +1,26 @@
 ---
 concept: draft-final-remedial-action-plan
-entity_type: deliverable
-aliases: ["Draft Final RAP", "Draft Final Remedial Action Plan", "Draft RAP", "Revised Draft Final Remedial Action Plan (RAP)"]
-sources: ["wiki/sources/1. SR_132_FEIR_EA_ 20180302 FINAL Main Doc/1. SR_132_FEIR_EA_ 20180302 FINAL Main Doc.md", "wiki/sources/132Stockpile Fact SheetModestoDTSC117 (2-2-17).md", "wiki/sources/2. SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size A-G/2. SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size A-G.md", "wiki/sources/3. SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size H-K/3. SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size H-K.md", "wiki/sources/Caltrans -DTSC Agreement/Caltrans -DTSC Agreement.md", "wiki/sources/Draft Final RAP Updated Implementation Sch/Draft Final RAP Updated Implementation Sch.md", "wiki/sources/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan.Revised_10.14/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan.Revised_10.14.md", "wiki/sources/SR 132 Public Notice English_/SR 132 Public Notice English_.md", "wiki/sources/SR 132 West Signed NOA Public/SR 132 West Signed NOA Public.md", "wiki/sources/SR_132_DEIR_EA_Append_G-J/SR_132_DEIR_EA_Append_G-J.md"]
+entity_type: concept
+aliases: ["Draft Final Remedial Action Plan (Draft RAP)", "Draft Final Remedial Action Plan (RAP)", "Revised Draft Final Remedial Action Plan (RAP)", "draft-final-rap", "draft-rap", "rap", "remedial-action-plan"]
+sources: ["Draft Final RAP Updated Implementation Sch/Draft Final RAP Updated Implementation Sch.md", "SR 132 West Signed NOA Public/SR 132 West Signed NOA Public.md", "SR_132_DEIR_EA_Append_G-J/SR_132_DEIR_EA_Append_G-J.md", "State Route 132 RAP Approval PN (FINAL 2-21-18)/State Route 132 RAP Approval PN (FINAL 2-21-18).md", "wiki/sources/5.18.2015 - Final Caltrans Cover Letter Revised Administrative Record Caltrans Modesto SoilStockpiles/5.18.2015 - Final Caltrans Cover Letter Revised Administrative Record Caltrans Modesto SoilStockpiles.md", "wiki/sources/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan.Revised_10.14/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan.Revised_10.14.md", "wiki/sources/SR 132 Public Notice English_/SR 132 Public Notice English_.md"]
 confidence: high
-created_at: 2026-08-11T00:57:09Z
+created_at: 2026-08-11T02:50:34Z
 ---
 
 ## Overview
 
-The Draft Final Remedial Action Plan (RAP) is a critical document for the [[caltrans-modesto-soil-stockpiles]] site, located within the [[sr-132]] West Freeway/Expressway Project in Modesto, Stanislaus County, California. Prepared by Geocon Consultants, Inc. for [[caltrans]], the RAP details site characterization, human health risk assessments, and evaluates remedial alternatives, recommending containment as the preferred remedy. It supplements the project's [[environmental-impact-report-environmental-assessment]] (EIR/EA) under the [[california-environmental-quality-act]] (CEQA), with oversight from the [[department-of-toxic-substances-control]] (DTSC) and the Central Valley Regional Water Quality Control Board (CVRWQCB). The RAP process included public notices, meetings, and comment periods, with revisions made based on feedback.
+The Draft Final Remedial Action Plan (RAP) is a key deliverable for the [[caltrans-modesto-soil-stockpiles]] site, which is part of the [[sr-132]] West Freeway/Expressway Project in Modesto, Stanislaus County, California. Prepared by Geocon Consultants, Inc. for [[caltrans]], the RAP outlines the site characterization, human health risk assessments, and evaluates remedial alternatives, ultimately recommending containment as the preferred remedy. This document supplements the project's [[environmental-impact-report-environmental-assessment]] (EIR/EA) and is subject to oversight by the [[department-of-toxic-substances-control]] (DTSC) and the Central Valley Regional Water Quality Control Board (CVRWQCB). The RAP process involved public notices, meetings, and comment periods, with revisions made based on feedback received.
 
 ## Site record
 
-The soil stockpiles, totaling approximately 160,000 cubic yards, originated in the early 1960s from soil excavated at the former FMC facility. The FMC facility processed barium and strontium minerals from 1929 to approximately 1985. The primary contaminants of potential concern (COPCs) identified in the stockpile soil were [[barium]] and polynuclear aromatic hydrocarbons (PAHs). Metals and general minerals were identified as primary groundwater COPCs.
+The soil stockpiles, estimated at approximately 160,000 cubic yards, originated in the early 1960s from soil excavated at the former FMC facility. This facility processed barium and strontium minerals from 1929 to approximately 1985. The primary contaminants of potential concern (COPCs) identified in the stockpile soil were [[barium]] and polynuclear aromatic hydrocarbons (PAHs). Metals and general minerals were identified as primary groundwater COPCs.
 
-The RAP recommended Alternative #4, containment of the stockpile soil beneath roadway pavement, behind retaining walls, and behind bridge abutments as part of the SR 132 Project. This was one of four alternatives evaluated in the Feasibility Study (FS):
+The RAP recommended Alternative #4, which involves the containment of the stockpile soil beneath roadway pavement, behind retaining walls, and behind bridge abutments as part of the SR 132 Project. This was one of four alternatives evaluated in the Feasibility Study (FS):
 
-*   **No action:** Offered the lowest overall protection and regulatory acceptance, was least costly, and most implementable. {{quote: "No action: Offered the lowest overall protection, lowest regulatory acceptance, was least costly, and most implementable."}}
-*   **Institutional controls:** Included limiting access, inspecting and maintaining fencing, prohibiting soil-disturbing activities, maintaining vegetative cover, and continuing groundwater monitoring. This provided higher protection than no action and had DTSC regulatory acceptance but might be unacceptable to the community. {{quote: "Institutional controls: Included limiting access, inspecting and maintaining fencing, prohibiting soil-disturbing activities, maintaining vegetative cover, and continuing groundwater monitoring. This provided higher protection than no action and had DTSC regulatory acceptance but might be unacceptable to the community."}}
-*   **Removal and offsite disposal:** Provided the greatest overall protection but had the greatest short-term air quality and traffic impacts, the highest cost, and was least implementable due to funding needs and the requirement to replace excavated soil with clean fill for project construction. {{quote: "Removal and offsite disposal: Provided the greatest overall protection but had the greatest short-term air quality and traffic impacts, the highest cost, and was least implementable due to funding needs and the requirement to replace excavated soil with clean fill for project construction."}}
-*   **Containment through project construction (Alternative #4):** The recommended alternative. {{quote: "Containment through project construction (Alternative #4): The recommended alternative."}}
+*   **No action:** Described as offering the lowest overall protection and regulatory acceptance, being the least costly, and most implementable. {{quote: "No action: Offered the lowest overall protection, lowest regulatory acceptance, was least costly, and most implementable."}}
+*   **Institutional controls:** This included limiting access, inspecting and maintaining fencing, prohibiting soil-disturbing activities, maintaining vegetative cover, and continuing groundwater monitoring. It provided higher protection than no action and had DTSC regulatory acceptance but might be unacceptable to the community. {{quote: "Institutional controls: Included limiting access, inspecting and maintaining fencing, prohibiting soil-disturbing activities, maintaining vegetative cover, and continuing groundwater monitoring. This provided higher protection than no action and had DTSC regulatory acceptance but might be unacceptable to the community."}}
+*   **Removal and offsite disposal:** This alternative provided the greatest overall protection but had the greatest short-term air quality and traffic impacts, the highest cost, and was least implementable due to funding needs and the requirement to replace excavated soil with clean fill for project construction. {{quote: "Removal and offsite disposal: Provided the greatest overall protection but had the greatest short-term air quality and traffic impacts, the highest cost, and was least implementable due to funding needs and the requirement to replace excavated soil with clean fill for project construction."}}
+*   **Containment through project construction (Alternative #4):** This was the recommended alternative. {{quote: "Containment through project construction (Alternative #4): The recommended alternative."}}
 
 A land use covenant would be recorded to restrict the property's use to non-residential purposes. {{quote: "A land use covenant would be recorded to restrict the property's use to non-residential purposes (e.g., precluding residences, schools, daycare centers, and hospitals)."}}
 
@@ -44,9 +44,9 @@ At the time of submittal, the Draft Final RAP was pending public comment, and th
 
 *   [[caltrans-modesto-soil-stockpiles]]
 *   [[caltrans]]
-*   [[environmental-impact-report-environmental-assessment]]
+*   [[department-of-toxic-substances-control]]
 *   [[remedial-action-plan]]
 *   [[sr-132]]
-*   [[department-of-toxic-substances-control]]
-*   [[modesto-soil-stockpiles-project]]
+*   [[environmental-impact-report-environmental-assessment]]
 *   [[barium]]
+*   [[lead]]

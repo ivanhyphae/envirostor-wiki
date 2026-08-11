@@ -2,12 +2,12 @@
 concept: brownfields-and-environmental-restoration-program
 entity_type: concept
 aliases: ["Brownfields and Environmental Restoration Program"]
-sources: ["03.01.2012 SR 132 west Expressway Followup5_srb.RA/03.01.2012 SR 132 west Expressway Followup5_srb.RA.md", "04 04 2013 Final  SSI and HHRA 8/04 04 2013 Final  SSI and HHRA 8.md", "08.30.2012 Caltrans Ramp5_srb RAdocx_srb 8_15_12_JS081612 RA4/08.30.2012 Caltrans Ramp5_srb RAdocx_srb 8_15_12_JS081612 RA4.md", "wiki/sources/11 29 2012 Caltrans GND Water Monitoring Rpts/11 29 2012 Caltrans GND Water Monitoring Rpts.md", "wiki/sources/3.14.2018 - Approval letter for SR 132 RAP/3.14.2018 - Approval letter for SR 132 RAP.md", "wiki/sources/Caltrans -DTSC Agreement/Caltrans -DTSC Agreement.md"]
+sources: ["Draft Final RAP Updated Implementation Sch/Draft Final RAP Updated Implementation Sch.md"]
 confidence: high
-created_at: 2026-08-11T00:56:03Z
+created_at: 2026-08-11T02:53:08Z
 ---
 
-The [[brownfields-and-environmental-restoration-program]] is a program focused on addressing contaminated sites, often referred to as brownfields, with the objective of environmental restoration. Within the context of the [[modesto-soil-stockpiles-project]], this program is relevant to the remediation efforts undertaken.
+The [[brownfields-and-environmental-restoration-program]] is a program focused on the remediation of contaminated sites, often referred to as brownfields, with the objective of environmental restoration. Within the context of the [[modesto-soil-stockpiles-project]], this program is relevant to the overall environmental restoration goals for the site.
 
 ## Site record
 

@@ -4,14 +4,14 @@ entity_type: concept
 aliases: ["FY 2025-2026"]
 sources: ["wiki/sources/Annual Cost Estimate Letter - FY 25.26 - State Route 132 (900259)/Annual Cost Estimate Letter - FY 25.26 - State Route 132 (900259).md"]
 confidence: high
-created_at: 2026-08-11T00:58:41Z
+created_at: 2026-08-11T02:51:39Z
 ---
 
-The Fiscal Year (FY) 2025-2026 refers to the period from July 1, 2025, to June 30, 2026, during which the Department of Toxic Substances Control (DTSC) will provide regulatory oversight for the State Route 132 West Expressway project in Modesto, California. This oversight is mandated by {{quote: "Section 25269.5 of the California Health and Safety Code"}} {{quote: "requires the Department of Toxic Substances Control (DTSC) to provide a cost estimate for regulatory oversight activities at the State Route 132 West Expressway (AKA: State Route 132/99 Interchange) (Site), located at the intersection of State Route 132/99, Modesto, California, 95354."}}.
+The Fiscal Year (FY) 2025-2026 refers to the period from July 1, 2025, to June 30, 2026. During this time, the Department of Toxic Substances Control (DTSC) is responsible for providing regulatory oversight for the State Route 132 West Expressway project in Modesto, California. This oversight is mandated by {{quote: "Section 25269.5 of the California Health and Safety Code"}}.
 
 ## Site Record
 
-The DTSC has provided an estimate of costs for regulatory oversight activities for FY 2025-2026. This estimate is based on DTSC's contracted estimation rates under an interagency agreement. {{quote: "The cost estimate is based on DTSC's contracted estimation rates under the interagency agreement."}} The schedule and cost estimate are subject to updates as necessary to reflect changes to the project or rates. {{quote: "The schedule and cost estimate will be updated as necessary to reflect changes to the project or the rates."}}
+The DTSC has provided an estimate of costs for regulatory oversight activities for FY 2025-2026. {{quote: "The cost estimate is based on DTSC's contracted estimation rates under the interagency agreement."}} The schedule and cost estimate are subject to updates as necessary to reflect changes to the project or rates. {{quote: "The schedule and cost estimate will be updated as necessary to reflect changes to the project or the rates."}}
 
 The DTSC's estimated oversight costs for FY 2025-2026 are detailed in a table that breaks down tasks, anticipated timelines, and estimated costs. {{quote: "The following table is a breakdown of tasks, anticipated timelines, and estimated DTSC costs to complete the tasks associated with the above-referenced time period."}}
 

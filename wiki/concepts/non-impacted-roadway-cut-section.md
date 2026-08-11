@@ -1,12 +1,13 @@
 ---
 concept: non-impacted-roadway-cut-section
-entity_type: concept
-aliases: []
+entity_type: claim
+aliases: ["non-impacted roadway cut section"]
 sources: ["wiki/sources/Approval E-mail_ SR 132 Basin 5 Clean Fill Sampling Plan/Approval E-mail_ SR 132 Basin 5 Clean Fill Sampling Plan.md"]
 confidence: high
-created_at: 2026-08-11T00:58:48Z
+created_at: 2026-08-11T02:51:52Z
 ---
 
+## Overview
 The [[non-impacted-roadway-cut-section]] refers to a previously sampled area of the State Route 132 roadway cut east of Carpenter Road. This section was identified as exposing non-impacted native formation. The sampling and analysis conducted in this area served as a basis for anticipating similar conditions at the proposed [[basin-5]] clean fill mining location.
 
 ## Site record
@@ -18,3 +19,5 @@ The [[basin-5-clean-fill-sampling-plan]], which references the [[non-impacted-ro
 ## See also
 - [[basin-5]]
 - [[basin-5-clean-fill-sampling-plan]]
+- [[carpenter-road-area]]
+- [[central-valley-rwqcb]]

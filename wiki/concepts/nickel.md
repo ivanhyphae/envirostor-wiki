@@ -1,13 +1,13 @@
 ---
 concept: nickel
-entity_type: concept
+entity_type: contaminant
 aliases: []
-sources: ["wiki/sources/Caltrans -DTSC Agreement/Caltrans -DTSC Agreement.md", "wiki/sources/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313.md"]
+sources: ["wiki/sources/06A2542ct_to97_SurfaceWaterLetter_final.20230328/06A2542ct_to97_SurfaceWaterLetter_final.20230328.md", "wiki/sources/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313.md"]
 confidence: high
-created_at: 2026-08-11T01:00:50Z
+created_at: 2026-08-11T02:49:51Z
 ---
 
-{{quote: "Nickel, vanadium, and cPAHs are presumed components of petroleum coke."}}
+# Nickel
 
 ## Overview
 
@@ -22,6 +22,8 @@ A DTSC Human and Ecological Risk Office (HERO) memorandum dated February 14, 201
 The HERO evaluation, presented in the February 14, 2013 memorandum, states that the maximum detected concentration of nickel across multiple site investigation events (2004, 2006, and 2012) was less than its risk-based screening levels. {{quote: "The maximum concentrations of barium, nickel, and strontium are less than their risk-based screening levels."}} The HERO applied conservative assumptions, considering the maximum detected concentration as the exposure concentration and comparing it to the most conservative risk-based screening levels for residential land use.
 
 The 2012 SSI Fenceline Boring data (Table 2 of the revised SSI Report) also includes nickel among the Title 22 metals analyzed. The report indicates that, with the exception of barium and lead, {{quote: "the remaining Title 22 metals concentrations generally fall within the range of the site-specific naturally occurring background."}} Nickel was not specifically identified as exceeding any screening thresholds in the SSI's summary of findings.
+
+In surface water samples collected on March 10, 2023, nickel was not reported above the MDLs in the background and surface water samples. {{quote: "Antimony, beryllium, cadmium, cobalt, nickel, silver, and thallium were not reported above the MDLs in the background and surface water samples."}}
 
 ## Regulatory status
 
@@ -47,6 +49,9 @@ Additionally, the SSI Report notes that an update to the Shaw 2007 HHRA is being
 *   [[cadmium]]
 *   [[caltrans-district-6]]
 *   [[caltrans-division-environmental-analysis]]
+*   [[chromium]]
+*   [[copper]]
 *   [[department-of-toxic-substances-control]]
 *   [[fmc-corporation]]
 *   [[remedial-action-plan]]
+*   [[vanadium]]

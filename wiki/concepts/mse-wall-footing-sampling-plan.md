@@ -1,21 +1,19 @@
 ---
 concept: mse-wall-footing-sampling-plan
-entity_type: deliverable
-aliases: ["MSE wall footing sampling plan", "Stockpiles 1 and 2 MSE Wall Sampling Plan"]
-sources: ["wiki/sources/E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan/E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan.md"]
+entity_type: technique
+aliases: ["MSE footing soils", "MSE wall footing sampling plan"]
+sources: ["E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan/E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan.md", "E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo/E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo.md", "Stockpile 1 MSE Wall Sampling Tech Memo/Stockpile 1 MSE Wall Sampling Tech Memo.md"]
 confidence: high
-created_at: 2026-08-11T01:01:08Z
+created_at: 2026-08-11T02:53:11Z
 ---
 
-## MSE Wall Footing Sampling Plan
-
-### Overview
-The MSE Wall Footing Sampling Plan outlines the proposed soil sampling locations for the Mechanically Stabilized Earth (MSE) wall footing excavations for Stockpiles 1 and 2. The purpose of this sampling is to characterize the soil for classification by the [[department-of-toxic-substances-control]] (DTSC) to determine its suitability for on-site reuse. This plan was developed by [[geocon-consultants]] and submitted by [[john-e-juhrend]] to [[caltrans]] for review and approval by DTSC.
+The MSE Wall Footing Sampling Plan details the proposed soil sampling strategy for the Mechanically Stabilized Earth (MSE) wall footing excavations at [[stockpile-1]] and stockpile-2. The objective is to characterize the soil to determine its suitability for on-site reuse, as evaluated by the [[department-of-toxic-substances-control]] (DTSC). This plan was developed by [[geocon-consultants]] and submitted by [[john-e-juhrend]].
 
 ### Site Record
-The sampling plan targets ten locations spaced approximately 200 feet apart within the mid-point of the MSE wall footing excavations. Excavations are planned to a depth of approximately 4 to 5 feet. Discrete soil samples will be collected at one-foot intervals within these excavations.
 
-The collected soil samples will be analyzed for barium and lead with a 48-hour expedited turnaround time. The analytical data will be compared against specific screening levels to assess the suitability of the soil for reuse as clean capping material, abutment/embankment fill, or placement in Biologically Coverable Soil (BCS) containment zones.
+The sampling plan designates ten locations for soil sampling, spaced approximately 200 feet apart within the mid-point of the MSE wall footing excavations. Excavations are planned to a depth of 4 to 5 feet. Discrete soil samples are to be collected at one-foot intervals within these excavations.
+
+The collected soil samples will undergo analysis for barium and lead with a 48-hour expedited turnaround time. The analytical results will be compared against specific screening levels to assess the soil's suitability for reuse as clean capping material, abutment/embankment fill, or placement in Biologically Coverable Soil (BCS) containment zones.
 
 The screening levels for comparison are:
 
@@ -29,13 +27,15 @@ The screening levels for comparison are:
     *   Maximum site-specific background: {{quote: "Maximum site-specific background 3.8 mg/kg"}}
     *   DTSC residential: {{quote: "DTSC residential 80 mg/kg"}}
 
-Work on the Stockpile 1 southern slope zone BCS excavation was scheduled to begin on March 31, 2020, with [[geocon-consultants]] providing Real-time Data Interpretation and Planning (RDIP) monitoring, including air/dust perimeter sampling.
+Work on the Stockpile 1 southern slope zone BCS excavation was scheduled to commence on March 31, 2020. [[geocon-consultants]] was slated to provide Real-time Data Interpretation and Planning (RDIP) monitoring, which included air/dust perimeter sampling.
 
 ### Regulatory Status
-The sampling plan requires approval from the [[department-of-toxic-substances-control]] (DTSC) for the characterization and classification of soils for reuse. The [[central-valley-rwqcb]] is also a recipient of the information. The analytical data will be compared to RDIP and regulatory screening levels, including DTSC residential screening levels for lead and site-specific background levels for both barium and lead.
+
+The MSE Wall Footing Sampling Plan requires approval from the [[department-of-toxic-substances-control]] (DTSC) for the characterization and classification of soils intended for reuse. The [[central-valley-rwqcb]] is also a recipient of information related to this plan. The analytical data generated will be compared against RDIP and regulatory screening levels, including DTSC residential screening levels for lead and site-specific background levels for both barium and lead.
 
 ### Open Items
-Approval of the proposed sampling plan by DTSC was pending as of March 31, 2020, to allow for sampling to proceed once the BCS slope zone material was removed.
+
+As of March 31, 2020, DTSC approval of the proposed sampling plan was pending. This approval was necessary to permit sampling to proceed once the BCS slope zone material was removed.
 
 ### See Also
 *   [[caltrans]]
@@ -44,5 +44,7 @@ Approval of the proposed sampling plan by DTSC was pending as of March 31, 2020,
 *   [[department-of-toxic-substances-control]]
 *   [[geocon-consultants]]
 *   [[john-e-juhrend]]
-*   [[mechanically-stabilized-earth-wall]]
 *   [[perry-myers]]
+*   [[richard-stewart]]
+*   [[stockpile-1]]
+*   stockpile-2

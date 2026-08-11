@@ -1,10 +1,10 @@
 ---
 concept: land-use-covenant
 entity_type: concept
-aliases: ["LUC", "Land Use Covenant"]
-sources: ["wiki/sources/2025 - RE_ Reminder - Annual Inspection Report/2025 - RE_ Reminder - Annual Inspection Report.md", "wiki/sources/Caltrans -DTSC Agreement/Caltrans -DTSC Agreement.md", "wiki/sources/Final O and M Agreement with Cover Letter (900259)/Final O and M Agreement with Cover Letter (900259).md", "wiki/sources/Modesto Soil Stockpiles_ Final Recorded LUC/Modesto Soil Stockpiles_ Final Recorded LUC.md"]
+aliases: ["Land Use Covenant"]
+sources: ["Final O and M Agreement with Cover Letter (900259)/Final O and M Agreement with Cover Letter (900259).md", "wiki/sources/Annual Cost Estimate Letter - FY 25.26 - State Route 132 (900259)/Annual Cost Estimate Letter - FY 25.26 - State Route 132 (900259).md"]
 confidence: high
-created_at: 2026-08-11T00:57:22Z
+created_at: 2026-08-11T02:51:45Z
 ---
 
 ## Land Use Covenant

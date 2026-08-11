@@ -2,16 +2,16 @@
 concept: well-destruction-completion-report
 entity_type: deliverable
 aliases: ["Well Destruction Completion Report"]
-sources: ["wiki/sources/DTSC Approval Response for final version of Well Destruction Report/DTSC Approval Response for final version of Well Destruction Report.md", "wiki/sources/DTSC Letter Response - 2025 GW Monitoring Report (900259)/DTSC Letter Response - 2025 GW Monitoring Report (900259).md"]
+sources: ["DTSC Approval Response for final version of Well Destruction Report/DTSC Approval Response for final version of Well Destruction Report.md", "DTSC Letter Response - 2025 GW Monitoring Report (900259)/DTSC Letter Response - 2025 GW Monitoring Report (900259).md"]
 confidence: high
-created_at: 2026-08-11T01:00:59Z
+created_at: 2026-08-11T02:52:52Z
 ---
 
 The [[well-destruction-completion-report]] documents the procedures for decommissioning groundwater monitoring wells at the [[caltrans-modesto-soil-stockpiles]] site. This report is a deliverable for the [[department-of-toxic-substances-control]] (DTSC) as part of the remediation case file.
 
 ## Site Record
 
-The [[well-destruction-completion-report]] was prepared by [[geocon-consultants]] on behalf of [[caltrans]]. It outlines the procedures to destroy the remaining four groundwater monitoring wells that were installed in 2012. Six of the ten original wells were decommissioned in 2019 to facilitate highway construction. The DTSC conditionally approved the [[well-destruction-completion-report]] on January 30, 2026, pending the incorporation of a specific comment from their Geological Services Branch (GSB). DTSC Project Manager [[arielle-mcleskey]] followed up with [[adam-inman]] on March 16, 2026, to confirm receipt of the revised report incorporating the requested correction.
+The [[well-destruction-completion-report]] was prepared by [[geocon-consultants]] on behalf of [[caltrans]]. It outlines the procedures to destroy the remaining four groundwater monitoring wells that were installed in 2012. Six of the ten original wells were decommissioned in 2019 to facilitate highway construction.
 
 ## Regulatory Status
 
@@ -27,5 +27,7 @@ As of March 16, 2026, the revised [[well-destruction-completion-report]], incorp
 * [[caltrans]]
 * [[department-of-toxic-substances-control]]
 * [[arielle-mcleskey]]
+* [[conditional-approval-letter]]
 * [[geocon-consultants]]
-* Storm-water-and-surface-water-monitoring-report-fy24-25
+* [[storm-water-and-surface-water-monitoring-report-fy24-25]]
+* [[caltrans-district-6]]

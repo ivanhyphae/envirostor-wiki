@@ -1,10 +1,10 @@
 ---
 concept: pl4
 entity_type: concept
-aliases: ["PL4"]
-sources: ["06A2542ct_to16_SurfaceWaterLetter _final.20210323/06A2542ct_to16_SurfaceWaterLetter _final.20210323.md", "06A2542ct_to97_SurfaceWaterLetter_final.20230309/06A2542ct_to97_SurfaceWaterLetter_final.20230309.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Dec 2016 SW Sampling_01.17/S1200-01-01 Modesto Stockpiles Dec 2016 SW Sampling_01.17.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17.md"]
+aliases: [""]
+sources: ["06A2542ct_to16_SurfaceWaterLetter _final.20210323/06A2542ct_to16_SurfaceWaterLetter _final.20210323.md", "06A2542ct_to97_SurfaceWaterLetter_final.20230309/06A2542ct_to97_SurfaceWaterLetter_final.20230309.md", "wiki/sources/06A2542ct_to16_SurfaceWaterLetter _final.20210323/06A2542ct_to16_SurfaceWaterLetter _final.20210323.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Dec 2016 SW Sampling_01.17/S1200-01-01 Modesto Stockpiles Dec 2016 SW Sampling_01.17.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17.md", "wiki/sources/S9800-01-17A Modesto Stockpiles Dec 11 2015 Stormwater Sampling Report_02.16/S9800-01-17A Modesto Stockpiles Dec 11 2015 Stormwater Sampling Report_02.16.md"]
 confidence: high
-created_at: 2026-08-11T00:55:46Z
+created_at: 2026-08-11T02:49:12Z
 ---
 
 ## Overview

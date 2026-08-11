@@ -1,10 +1,10 @@
 ---
 concept: caltrans-division-environmental-analysis
 entity_type: concept
-aliases: ["Caltrans Division of Environmental Analysis"]
-sources: ["wiki/sources/1. SR_132_FEIR_EA_ 20180302 FINAL Main Doc/1. SR_132_FEIR_EA_ 20180302 FINAL Main Doc.md", "wiki/sources/Caltrans -DTSC Agreement/Caltrans -DTSC Agreement.md", "wiki/sources/S9525-06-44 HHRA UPDATE Rev.0313/S9525-06-44 HHRA UPDATE Rev.0313.md", "wiki/sources/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313.md", "wiki/sources/SR 132 Public Notice English_/SR 132 Public Notice English_.md"]
+aliases: ["Caltrans, District 6, Central Region Hazardous Waste Branch"]
+sources: ["Draft Final RAP Updated Implementation Sch/Draft Final RAP Updated Implementation Sch.md", "wiki/sources/Caltrans -DTSC Agreement/Caltrans -DTSC Agreement.md"]
 confidence: high
-created_at: 2026-08-11T00:56:38Z
+created_at: 2026-08-11T02:52:42Z
 ---
 
 The Caltrans Division of Environmental Analysis (DEA) was responsible for environmental compliance and oversight of investigation and remediation activities for the [[caltrans-modesto-soil-stockpiles]] on [[sr-132]] in Stanislaus County, California. DEA directed site characterization, managed stockpile sampling and analysis, and coordinated with regulatory agencies, including the [[department-of-toxic-substances-control]] (DTSC), on disposal characterization and waste management.
@@ -36,3 +36,6 @@ The specific disposition of DTSC concurrence on the waste classification determi
 *   [[caltrans]]
 *   [[barium]]
 *   [[central-valley-rwqcb]]
+*   [[chromium]]
+*   [[draft-final-remedial-action-plan]]
+*   [[remedial-action-plan]]

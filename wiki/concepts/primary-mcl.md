@@ -1,13 +1,11 @@
 ---
 concept: primary-mcl
 entity_type: concept
-aliases: ["primary MCL", "primary MCLs", "primary Maximum Contaminant Levels"]
-sources: ["wiki/sources/132Stockpile Fact SheetModestoDTSC117 (2-2-17).md", "wiki/sources/S1200-01-01 Modesto Stockpiles Dec 2016 SW Sampling_01.17/S1200-01-01 Modesto Stockpiles Dec 2016 SW Sampling_01.17.md", "wiki/sources/S2350-01-02_2.4.2025 Stormwater Sampling Report_6.25/S2350-01-02_2.4.2025 Stormwater Sampling Report_6.25.md", "wiki/sources/S9525-01-44B Modesto Stockpiles GW June 2013.0613/S9525-01-44B Modesto Stockpiles GW June 2013.0613.md", "wiki/sources/S9525-06-44 Modesto Stockpiles GW.0612/S9525-06-44 Modesto Stockpiles GW.0612.md", "wiki/sources/S9525-06-44A Caltrans Modesto Stockpiles GW 0213/S9525-06-44A Caltrans Modesto Stockpiles GW 0213.md", "wiki/sources/S9525-06-44A Caltrans Modesto Stockpiles GW Nov2012 0213/S9525-06-44A Caltrans Modesto Stockpiles GW Nov2012 0213.md", "wiki/sources/S9800-01-17 Modesto Soil Stockpiles June 2014 GW Mon 0814/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814.md", "wiki/sources/S9800-01-17A Caltrans Modesto Stockpiles GW_06 16/S9800-01-17A Caltrans Modesto Stockpiles GW_06 16.md", "wiki/sources/S9800-01-17A Modesto Stockpiles Dec 11 2015 Stormwater Sampling Report_02.16/S9800-01-17A Modesto Stockpiles Dec 11 2015 Stormwater Sampling Report_02.16.md", "wiki/sources/S9800-01-17A Modesto Stockpiles Jan 6 2016 Stormwater Smplng 0216/S9800-01-17A Modesto Stockpiles Jan 6 2016 Stormwater Smplng 0216.md"]
+aliases: ["Primary MCL", "primary MCL"]
+sources: ["wiki/sources/S2350-01-02_2.4.2025 Stormwater Sampling Report_6.25/S2350-01-02_2.4.2025 Stormwater Sampling Report_6.25.md", "wiki/sources/S9525-06-44 Modesto Stockpiles GW.0612/S9525-06-44 Modesto Stockpiles GW.0612.md", "wiki/sources/S9525-06-44A Caltrans Modesto Stockpiles GW 0213/S9525-06-44A Caltrans Modesto Stockpiles GW 0213.md", "wiki/sources/S9525-06-44A Caltrans Modesto Stockpiles GW Nov2012 0213/S9525-06-44A Caltrans Modesto Stockpiles GW Nov2012 0213.md", "wiki/sources/S9525-06-44A May 2012 GW Report 1112/S9525-06-44A May 2012 GW Report 1112.md", "wiki/sources/S9800-01-17 Caltrans Modesto Stockpiles GW_06.15/S9800-01-17 Caltrans Modesto Stockpiles GW_06.15.md", "wiki/sources/S9800-01-17A Caltrans Modesto Stockpiles GW_06 16/S9800-01-17A Caltrans Modesto Stockpiles GW_06 16.md"]
 confidence: high
-created_at: 2026-08-11T00:57:51Z
+created_at: 2026-08-11T02:54:31Z
 ---
-
-## Overview
 
 Primary MCLs (Maximum Contaminant Levels) are regulatory thresholds established by the California Department of Public Health (CDPH) for drinking water quality. At the Caltrans Modesto Soil Stockpiles site, these standards are used to evaluate the quality of groundwater and surface water.
 
@@ -25,6 +23,14 @@ In the November 2012 groundwater samples, {{quote: "barium and strontium were re
 
 For the May 2016 groundwater samples, {{quote: "barium and strontium were reported for each of the two groundwater samples analyzed. Lead was not reported at concentrations equal to or greater than the respective practical quantitation limit (PQL) in each of the two samples."}} {{quote: "None of the reported arsenic, chromium, molybdenum, nickel, and vanadium concentrations exceed their respective numeric water quality thresholds for drinking water."}}
 
+In the April 2015 groundwater samples, {{quote: "barium and strontium were reported for each of the four groundwater samples. Lead was not reported at concentrations equal to or greater than the respective practical quantitation limit (PQL) in each of the four samples."}} {{quote: "Although concentrations of barium, chromium, strontium and vanadium were reported for the samples collected from each well, none of the reported concentrations exceed their respective numeric water quality thresholds for drinking water."}}
+
+In the March 2012 groundwater samples, {{quote: "With the exception of manganese that was reported at greater than the secondary MCL of 50 micrograms per liter (µg/l) for the sample collected from MW-4, none of the reported dissolved metals concentrations for the groundwater samples collected in March 2012 exceeded their respective water quality threshold values."}}
+
+In the May 2012 groundwater samples, {{quote: "The DTSC has identified barium, lead and strontium as the primary chemicals of concern for the Site. For the May 2012 groundwater samples, barium and strontium were reported in all eight groundwater samples. Lead was not reported at concentrations above the PQL of 1.0 µg/l in any of the groundwater samples."}} {{quote: "Although concentrations of arsenic, barium, chromium, vanadium and strontium were reported for the samples collected from each well, none of the reported concentrations exceed their respective numeric water quality thresholds for drinking water."}}
+
+In the December 2023 stormwater sampling event, {{quote: "thallium, which exceeded the Primary MCL in storm water samples collected in December 2023."}}
+
 ## Regulatory status
 
 Primary MCLs are the drinking water standards set by the CDPH. In the December 11, 2015, stormwater sampling event, all reported dissolved metals concentrations were below their respective Primary MCLs.
@@ -36,6 +42,12 @@ In the January 2013 groundwater sampling event, {{quote: "Although concentration
 In the November 2012 groundwater sampling event, {{quote: "Although concentrations of arsenic, barium, chromium, strontium and vanadium were reported for the samples collected from each well, none of the reported concentrations exceed their respective numeric water quality thresholds for drinking water."}}
 
 In the May 2016 groundwater sampling event, {{quote: "None of the reported arsenic, chromium, molybdenum, nickel, and vanadium concentrations exceed their respective numeric water quality thresholds for drinking water."}}
+
+In the April 2015 groundwater sampling event, {{quote: "None of the reported dissolved metals concentrations for the groundwater samples collected in April 2015 exceeded their respective numeric water quality threshold values."}}
+
+In the March 2012 groundwater sampling event, {{quote: "With the exception of manganese that was reported at greater than the secondary MCL of 50 micrograms per liter (µg/l) for the sample collected from MW-4, none of the reported dissolved metals concentrations for the groundwater samples collected in March 2012 exceeded their respective water quality threshold values."}}
+
+In the May 2012 groundwater sampling event, {{quote: "Although concentrations of arsenic, barium, chromium, vanadium and strontium were reported for the samples collected from each well, none of the reported concentrations exceed their respective numeric water quality thresholds for drinking water."}}
 
 ## See also
 - [[arsenic]]

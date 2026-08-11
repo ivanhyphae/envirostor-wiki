@@ -25,7 +25,7 @@ Do NOT extract: generic analytical methods (ICP-MS, EPA 6020), general environme
 For each concept, provide:
 - name: lowercase-hyphenated identifier (e.g., "mw-5", "barium-mcl", "phase-1-consolidation")
 - aliases: alternative names used in the documents
-- sources: which source files mention this concept
+- sources: the source file path(s) that mention this concept. Each summary below is headed by a line "### Source: <path>" — copy that <path> string EXACTLY, character for character, into the sources array. Do not abbreviate it, drop the "wiki/sources/" prefix, drop the filename, or reconstruct it from memory — the path must be copied verbatim from the "### Source:" line, or downstream grounding checks cannot locate the file.
 - type: concept, technique, or claim
 
 Merge with existing concepts when appropriate (detect aliases, e.g., "barium" and "Ba").

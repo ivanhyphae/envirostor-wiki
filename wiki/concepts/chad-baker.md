@@ -4,7 +4,7 @@ entity_type: concept
 aliases: []
 sources: ["wiki/sources/DTSC Approval E-mail for Carpenter Shoofly Clean Fill Sampling Plan/DTSC Approval E-mail for Carpenter Shoofly Clean Fill Sampling Plan.md"]
 confidence: low
-created_at: 2026-08-11T00:59:22Z
+created_at: 2026-08-11T02:52:28Z
 ---
 
 ## Chad Baker
@@ -28,8 +28,8 @@ There are no open items related to Chad Baker documented in the provided source 
 *   [[adan-corrales]]
 *   [[bay-cities-paving-and-grading]]
 *   [[caltrans]]
+*   [[caltrans-modesto-soil-stockpiles]]
 *   [[central-valley-rwqcb]]
 *   [[dean-wright]]
 *   [[department-of-toxic-substances-control]]
-*   [[inderjit-chadh]]
-*   [[kyle-cockerham]]
+*   [[dtsc-approval-letter]]

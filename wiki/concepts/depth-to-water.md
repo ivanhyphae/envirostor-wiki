@@ -1,10 +1,10 @@
 ---
 concept: depth-to-water
 entity_type: technique
-aliases: []
+aliases: ["depth-to-water"]
 sources: ["wiki/sources/S1200-01-01 Modesto Stockpiles GW April 2017_07.17/S1200-01-01 Modesto Stockpiles GW April 2017_07.17.md", "wiki/sources/S1200-01-01 Modesto Stockpiles GW April 2019_06.19/S1200-01-01 Modesto Stockpiles GW April 2019_06.19.md"]
 confidence: high
-created_at: 2026-08-11T01:01:53Z
+created_at: 2026-08-11T02:54:00Z
 ---
 
 The depth to water is a critical parameter measured at the [[caltrans-modesto-soil-stockpiles]] site, providing insight into the groundwater table's position relative to the ground surface. These measurements are collected semi-annually by [[geocon-consultants]] as part of the ongoing [[groundwater-monitoring-report]] process. The data is essential for understanding groundwater flow dynamics and the potential for contaminant migration.

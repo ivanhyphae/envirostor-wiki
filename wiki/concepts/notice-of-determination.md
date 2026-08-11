@@ -1,10 +1,10 @@
 ---
 concept: notice-of-determination
-entity_type: concept
+entity_type: deliverable
 aliases: ["NOD", "Notice of Determination"]
-sources: ["wiki/sources/1. SR_132_FEIR_EA_ 20180302 FINAL Main Doc/1. SR_132_FEIR_EA_ 20180302 FINAL Main Doc.md", "wiki/sources/Caltrans -DTSC Agreement/Caltrans -DTSC Agreement.md", "wiki/sources/opr25@opr.ca.gov_20180319_135531/opr25@opr.ca.gov_20180319_135531.md"]
+sources: ["wiki/sources/opr25@opr.ca.gov_20180319_135531/opr25@opr.ca.gov_20180319_135531.md"]
 confidence: high
-created_at: 2026-08-11T00:57:44Z
+created_at: 2026-08-11T02:55:05Z
 ---
 
 ## Notice of Determination

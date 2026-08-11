@@ -1,10 +1,10 @@
 ---
 concept: containment-of-stockpiles
 entity_type: concept
-aliases: []
-sources: ["Caltrans  Response3.24.2012", "wiki/sources/1. SR_132_FEIR_EA_ 20180302 FINAL Main Doc/1. SR_132_FEIR_EA_ 20180302 FINAL Main Doc.md", "wiki/sources/3.14.2018 - Approval letter for SR 132 RAP/3.14.2018 - Approval letter for SR 132 RAP.md", "wiki/sources/3.15.2018 - Caltrans Modesto SOF/3.15.2018 - Caltrans Modesto SOF.md", "wiki/sources/Caltrans -DTSC Agreement/Caltrans -DTSC Agreement.md", "wiki/sources/State Route 132 RAP Approval PN (FINAL 2-21-18)/State Route 132 RAP Approval PN (FINAL 2-21-18).md"]
+aliases: ["containment strategy", "containment-strategy"]
+sources: ["State Route 132 RAP Approval PN (FINAL 2-21-18)/State Route 132 RAP Approval PN (FINAL 2-21-18).md", "wiki/sources/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19.md"]
 confidence: high
-created_at: 2026-08-11T00:57:00Z
+created_at: 2026-08-11T02:53:52Z
 ---
 
 ## Overview
@@ -14,6 +14,8 @@ The containment of stockpiles is the selected cleanup alternative for the [[calt
 The [[caltrans-modesto-soil-stockpiles]] consist of approximately 160,000 cubic yards of soil containing metals, primarily barium, strontium, and lead {{quote: "Three stockpiles totaling approximately 160,000 cubic yards of soil containing metals (primarily barium, strontium, and lead) occupy three areas within the state right of way located south of Kansans Avenue: between Carpenter Avenue and East Emerald Avenue, Emerald Avenue and SR 99, and east of SR 99."}}. These stockpiles are located within the state right-of-way south of [[kansas-avenue]], specifically between Carpenter Avenue and East Emerald Avenue, between Emerald Avenue and SR 99, and east of SR 99 {{quote: "The RAP addresses the segment of the project located south of Kansas Avenue between Carpenter Avenue and just east of State Route 99 in Modesto, California."}}.
 
 The containment strategy involves constructing [[retaining-walls]], [[bridge-abutments]], and roadway structures to encase the stockpiles {{quote: "The stockpiles will be contained behind retaining walls, bridge abutments, and beneath the roadway."}}. Portions of the stockpiles that will remain unpaved will be covered with clean fill {{quote: "Unpaved portions will have clean fill cover."}}. This containment is designed to provide long-term protection by preventing direct contact with the soil and reducing the amount of surface water that can infiltrate into the groundwater beneath the stockpiles {{quote: "This containment remedy provides long-term protection of people and the environment by preventing exposure and minimizing the infiltration of surface water into groundwater under the stockpiles."}}.
+
+The [[remedial-design-implementation-plan]] for the interim phase 1 of the Caltrans Modesto Soil Stockpiles project is titled "REMEDIAL DESIGN IMPLEMENTATION PLAN – INTERIM PHASE 1" and pertains to the Caltrans Modesto Soil Stockpiles State Route 132 West Freeway/Expressway Project in Stanislaus County, California {{quote: "REMEDIAL DESIGN IMPLEMENTATION PLAN – INTERIM PHASE 1 Caltrans Modesto Soil Stockpiles State Route 132 West Freeway/Expressway Project Stanislaus County, California"}}.
 
 ## Regulatory status
 The [[remedial-action-plan]] (RAP) for the Caltrans Modesto Soil Stockpiles was approved by the Department of Toxic Substances Control (DTSC) on February 21, 2018 {{quote: "The Department of Toxic Substances Control (DTSC) has approved the Remedial Action Plan (RAP) for the California Department of Transportation (Caltrans) Modesto Soil Stockpiles, State Route (SR) 132 West Freeway/Expressway Project located in Modesto, California."}}. The selected remedy, Alternative 4, Containment, is considered protective of human health and the environment {{quote: "The selected remedy Alternative 4, Containment described in the approved RAP is containment of the stockpiles by construction of the State Route 132 West Freeway/Expressway Project."}}.
@@ -36,3 +38,4 @@ Long-term protection will be ensured through annual inspections of the containme
 * [[retaining-walls]]
 * [[sr-132]]
 * [[sr-132-west-freeway-expressway-project]]
+* [[strontium]]
