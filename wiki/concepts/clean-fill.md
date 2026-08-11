@@ -1,34 +1,46 @@
 ---
 concept: clean-fill
 entity_type: concept
-aliases: ["clean fill"]
-sources: ["wiki/sources/Borrow Area Sampling Plan/Borrow Area Sampling Plan.md"]
+aliases: ["clean cap material", "clean capping material"]
+sources: ["wiki/sources/Caltrans Modesto Soil Stcokpiles RDIP Variance/Caltrans Modesto Soil Stcokpiles RDIP Variance.md", "wiki/sources/Carpenter Road Shoofly Clean Fill Tech Memo/Carpenter Road Shoofly Clean Fill Tech Memo.md", "wiki/sources/Carpenter Shoofly Area Clean Fill Sampling Plan/Carpenter Shoofly Area Clean Fill Sampling Plan.md", "wiki/sources/E-mail Acceptance of Bent 2 Soils Tech Memo/E-mail Acceptance of Bent 2 Soils Tech Memo.md", "wiki/sources/E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo/E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo.md", "wiki/sources/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo.md"]
 confidence: high
-created_at: 2026-08-10T22:38:33Z
+created_at: 2026-08-11T00:32:57Z
 ---
 
 ## Overview
-Clean fill, in the context of the SR 132 project in Stanislaus County, refers to native soil excavated from the upper five feet of the Highway 132 alignment, extending east from Carpenter Road. This material is intended for use as cover for the [[bcs-stockpile]]. The proposed source area has been State right-of-way since the 1960s and was previously agricultural property. Investigations of nearby areas, including residential backyards west of Carpenter Road, indicated the presence of pesticides and metals at concentrations below applicable regulatory screening levels.
+In the context of the [[sr-132]] project in Stanislaus County, "clean fill" refers to native soil excavated from specific areas within the State right-of-way that is suitable for use as cover material for the [[bcs-stockpile]]. This material is intended to cap consolidated barium-containing soil (BCS) within Stockpiles 1 and 2. The primary source areas identified and evaluated for clean fill include land within the SR 132 right-of-way between Carpenter Road and Rosemore Avenue, and soil generated from mechanically stabilized earth (MSE) wall footing excavations.
 
 ## Site record
-Geocon Consultants prepared a sampling plan for the characterization of soil proposed for use as clean fill. This plan involved drilling 12 borings, each 5 feet deep, within the proposed clean fill source area. Six depth-discrete 4-point composite samples were to be analyzed:
-*   Three composite samples from the 0-2 feet interval for organochlorine pesticides (OCPs) and heavy metals.
-*   Three composite samples from the 3-5 feet interval for heavy metals.
+The characterization of soil for use as clean fill has involved multiple investigations and sampling plans.
 
-Geotechnical logs of test borings completed at the [[carpenter-road-area]] in 2017 were appended to the sampling plan to document that the material at this location is comprised of native soil.
+Initially, the highway contractor identified an area adjacent and east of Carpenter Road within the SR 132 right-of-way as a source for clean fill material. [[geocon-consultants]], in coordination with [[caltrans]] and the [[dtsc]], evaluated this area. A Technical Memorandum dated February 27, 2020, determined that the planned highway underpass excavation area adjacent and east of Carpenter Road would generate soil material suitable for use as clean cover fill material. This source was subsequently approved by the [[dtsc]].
+
+Further investigations focused on soil from MSE wall footing excavations along the southern boundaries of Stockpiles 1 and 2.
+*   For Stockpile 1, [[geocon-consultants]] evaluated the MSE wall footing material following excavation of the southern slope BCS material. A Technical Memorandum dated April 6, 2020, indicated that the upper foot of planned wall footing excavation soil contained elevated barium concentrations that would not be suitable for direct use as clean cover. However, the material below this upper foot was considered suitable for use as general bridge embankment fill or within the Stockpile 1 and 2 fill containment zones. The [[dtsc]] accepted this memo on April 7, 2020, with the condition that the MSE wall footing material must be placed within the Stockpiles 1 and 2 fill containment zones or used as general bridge embankment fill, not as direct capping material, due to barium concentrations exceeding the maximum background of 120 mg/kg. {{quote: "Given that the 95% Upper Confidence Limit of the sampled soil is above the maximum background of 120 mg/kg and the fact that the MSE wall footing falls outside of the designated borrow area described in the Remedial Design Implementation Plan, this material must be placed within the Stockpiles 1 and 2 fill containment zones or used as general bridge embankment fill."}}
+
+*   For Stockpile 2, a Technical Memorandum dated June 18, 2020, described sampling along the MSE wall footing excavation area. The [[dtsc]] and the [[central-valley-rwqcb]] agreed that soil down to 3 feet below ground surface (bgs) must be placed in designated containment zones, but soil below that depth is suitable as embankment fill or capping material. {{quote: "Both agencies agree with the Memo that soil down to 3 feet below ground surface (bgs) must be placed in designated containment zones but soil below that depth is suitable as embankment fill or capping material."}} This material below 3 feet bgs along the Stockpile 2 MSE wall footing was considered part of the April 9, 2020 Variance Request (VR) to the Remedial Design Implementation Plan, thus not requiring another VR. The [[dtsc]] officially accepted this memo on June 22, 2020. {{quote: "This e-mail serves as DTSCs official acceptance of the Memo."}}
+
+Additionally, approximately 5,000 cubic yards of native soil were planned to be excavated from the Carpenter Road Shoofly for use as clean capping material. Characterization testing performed within the State Route 132 right-of-way involved collecting 24 discrete soil samples. Eight 3-part composite samples were analyzed for barium and lead. Barium was detected at concentrations ranging from 28 to 96 milligrams per kilogram (mg/kg), which were less than the maximum site-specific background value for barium of 120 mg/kg. Lead was detected in 9 of the 10 samples analyzed at concentrations ranging from 1.4 to 3.8 mg/kg, less than or equal to the maximum site-specific background concentration for lead of 3.8 mg/kg. {{quote: "Barium was detected in each of the 10 soil samples analyzed at concentrations ranging from 28 to 96 milligrams per kilogram (mg/kg), less than the maximum site-specific background value for barium of 120 mg/kg. Lead was detected in 9 of the 10 soil samples analyzed at concentrations ranging from 1.4 to 3.8 mg/kg, less than or equal to the maximum site-specific background concentration for lead of 3.8 mg/kg."}} Based on this data, the soil material from the Carpenter Road Shoofly met the BCS clean cap criteria as established in the April 9, 2020 Variance document approved by the [[dtsc]]. {{quote: "Based on the barium and lead data presented herein, soil material generated from excavation of the Carpenter Road Shoofly meet the BCS clean cap criteria as established in the referenced variance document as approved by DTSC (upperbound background threshold for barium of 120 mg/kg)."}}
+
+The "Remedial Design Implementation Plan - Caltrans Modesto Soil Stockpiles," dated January 30, 2019, stipulated that the surface of completed Stockpile 1 and 2 BCS would be capped with a minimum 12-inch-thick clean fill material. {{quote: "The surface of the completed Stockpile 1 and 2 barium-containing soil and ADL consolidation zones (including east- and west-facing temporary slopes) will be capped with minimum 12-inch-thick clean fill material consisting of approved imported fill and/or minimum 4-inch-thick AB materials (pending placement of structural pavement section, hardscape and/or additional clean embankment fill)."}}
 
 ## Regulatory status
-The sampling plan was submitted to the [[dtsc]] for review and approval. The goal of the sampling was to characterize the soil to ensure its suitability for use as clean fill.
+The suitability of soil for use as clean fill has been evaluated against site-specific background thresholds and criteria established in the Remedial Design Implementation Plan (RDIP) and subsequent variances. The [[dtsc]] and the [[central-valley-rwqcb]] have provided approvals for specific sources and uses of clean fill material.
+
+*   The [[dtsc]] approved the planned Carpenter Road clean fill source area. {{quote: "DTSC subsequently provided approval of the planned Carpenter Road clean fill source area."}}
+*   The [[dtsc]] accepted the Technical Memorandum regarding Stockpile 1 MSE wall footing sampling on April 7, 2020, with specific conditions for placement. {{quote: "With the acceptance of the above comment and it's execution in the field, this e-mail serves as DTSCs official acceptance of the Memo."}}
+*   The [[dtsc]] accepted the Technical Memorandum regarding Stockpile 2 MSE wall footing sampling on June 22, 2020, defining suitability for material below 3 feet bgs. {{quote: "This e-mail serves as DTSCs official acceptance of the Memo."}}
+*   The soil material from the Carpenter Road Shoofly met the BCS clean cap criteria as established in the April 9, 2020 Variance document approved by the [[dtsc]]. {{quote: "Based on the barium and lead data presented herein, soil material generated from excavation of the Carpenter Road Shoofly meet the BCS clean cap criteria as established in the referenced variance document as approved by DTSC (upperbound background threshold for barium of 120 mg/kg)."}}
 
 ## Open items
-The contractor planned to schedule field work for the borings pending contract authorization, confirmation of USA notice from Bay Cities (or Geocon mark-out and USA 72-hour notice), and receipt of DTSC sampling plan approval. A 48-hour analytical turnaround was planned, with results to be provided for review and acceptance.
+The contractor planned to schedule field work for borings pending contract authorization, confirmation of USA notice from Bay Cities (or Geocon mark-out and USA 72-hour notice), and receipt of [[dtsc]] sampling plan approval. A 48-hour analytical turnaround was planned, with results to be provided for review and acceptance. {{quote: "The contractor planned to schedule field work for the borings pending contract authorization, confirmation of USA notice from Bay Cities (or Geocon mark-out and USA 72-hour notice), and receipt of DTSC sampling plan approval. A 48-hour analytical turnaround was planned, with results to be provided for review and acceptance."}}
 
 ## See also
-*   [[bcs-stockpile]]
-*   [[borrow-area-sampling-plan]]
 *   [[caltrans]]
-*   [[carpenter-road-area]]
-*   [[clean-fill-capping]]
+*   [[central-valley-rwqcb]]
 *   [[clean-fill-suitable-as-cover]]
+*   [[department-of-toxic-substances-control]]
 *   [[geocon-consultants]]
-*   sampling-plan
+*   [[mechanically-stabilized-earth-wall]]
+*   [[sr-132]]
+*   [[stockpile-1]]

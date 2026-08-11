@@ -1,65 +1,75 @@
 ---
 concept: remedial-design-implementation-plan
 entity_type: deliverable
-aliases: ["RDIP", "Remedial Design Implementation Plan"]
-sources: ["wiki/sources/Stockpiles 1 and 2 MSE Wall Sampling Plan/Stockpiles 1 and 2 MSE Wall Sampling Plan.md"]
+aliases: ["RDIP", "Remedial Design Implementation Plan (RDIP)"]
+sources: ["wiki/sources/Caltrans Modesto Soil Stcokpiles RDIP Variance/Caltrans Modesto Soil Stcokpiles RDIP Variance.md", "wiki/sources/Draft Interim RACR_Text_Figures_Tables_ App A-C/Draft Interim RACR_Text_Figures_Tables_ App A-C.md", "wiki/sources/Errata Transmittal 2-6-2020/Errata Transmittal 2-6-2020.md", "wiki/sources/Errata to January 2019 RDIP - SR 132 West Expressway Phase 1/Errata to January 2019 RDIP - SR 132 West Expressway Phase 1.md", "wiki/sources/Final RDIP Approval Letter (900259)/Final RDIP Approval Letter (900259).md", "wiki/sources/RDIP All Figures/RDIP All Figures.md", "wiki/sources/RDIP Errata Acceptance/RDIP Errata Acceptance.md", "wiki/sources/RDIP Variance Reqeust #2 Acceptance E-Mail/RDIP Variance Reqeust #2 Acceptance E-Mail.md", "wiki/sources/RDIP Variance Request Acceptance E-Mail/RDIP Variance Request Acceptance E-Mail.md", "wiki/sources/SR 132 Stockpile 2 BCS Removal Tech Memo/SR 132 Stockpile 2 BCS Removal Tech Memo.md", "wiki/sources/SR 132 Stockpile 3 BCS Removal Tech Memo/SR 132 Stockpile 3 BCS Removal Tech Memo.md", "wiki/sources/Stockpile 2 Confirmation Sampling Tech Memo Approval/Stockpile 2 Confirmation Sampling Tech Memo Approval.md", "wiki/sources/Stockpile 3 Confirmation Sampling Tech Memo Approval/Stockpile 3 Confirmation Sampling Tech Memo Approval.md", "wiki/sources/Stockpiles 1 and 2 MSE Wall Sampling Plan/Stockpiles 1 and 2 MSE Wall Sampling Plan.md"]
 confidence: high
-created_at: 2026-08-10T22:39:18Z
+created_at: 2026-08-11T00:33:29Z
 ---
 
-# Remedial Design Implementation Plan
-
-## Overview
-The **Remedial Design Implementation Plan (RDIP)**, prepared by Geocon Consultants, Inc. and dated January 30, 2019, detailed the interim containment strategy for [[barium-containing-soil]] (BCS) from Stockpiles 1, 2, and 3 during [[interim-phase-1]] construction of the SR 132 West Project in Modesto, Stanislaus County, California. The RDIP outlined the remedial design, BCS management, construction monitoring, and reporting requirements for the selected remedy: consolidation and containment of BCS within highway embankment fills, followed by capping with clean fill and structural pavement. This plan was specific to Interim Phase 1; a supplemental RDIP was to be prepared for Ultimate Phase 2. The RDIP was implemented under the oversight of the California Department of Toxic Substances Control (DTSC) and in cooperation with the Central Valley Regional Water Quality Control Board (CVRWQCB).
+The **Remedial Design Implementation Plan (RDIP)**, dated January 30, 2019, and prepared by Geocon Consultants, Inc., outlined the strategy for the interim containment of [[barium-containing-soil]] (BCS) from Stockpiles 1, 2, and 3 during Phase 1 construction of the [[sr-132-west-expressway-phase-1]] project in Modesto, Stanislaus County, California. The RDIP detailed the remedial design, management of BCS, construction monitoring, and reporting requirements for the selected remedy: consolidation and containment of BCS within highway embankment fills, followed by capping with clean fill and structural pavement. This plan was specific to Interim Phase 1, with a supplemental RDIP to be prepared for Ultimate Phase 2. The RDIP was implemented under the oversight of the [[department-of-toxic-substances-control]] (DTSC) and in cooperation with the [[central-valley-rwqcb]] (CVRWQCB).
 
 ## Site record
 
-### Verification thresholds
-The RDIP established the following soil excavation verification thresholds for BCS removal areas:
-*   **Barium:** 1,000 milligrams per kilogram (mg/kg) for groundwater protection.
-*   **Lead:** 80 mg/kg, based on the DTSC residential screening level.
+The RDIP established specific soil excavation verification thresholds for BCS removal areas:
+*   **Barium:** 1,000 milligrams per kilogram (mg/kg) for groundwater protection {{quote: "Barium - 1,000 milligrams per kilogram (mg/kg, groundwater protection)"}}.
+*   **Lead:** 80 mg/kg, based on the DTSC residential screening level {{quote: "Lead - 80 mg/kg (residential screening level)"}}.
 
 ### Clean fill source criteria and variances
+
 The RDIP stipulated that planned clean fill source areas would be sampled and analyzed per DTSC's *Information Advisory Clean Imported Fill Material* (2001). Two variances to the RDIP were approved:
-*   **Variance #1 (Approved April 17, 2020):** Allowed the use of MSE retaining wall foundation excavations adjacent to the southerly boundaries of BCS Stockpiles 1 and 2 as clean fill source borrow areas. Site-specific upper-bound background concentrations were established for comparison with characterization samples:
-    *   Barium: 120 mg/kg
-    *   Lead: 3.8 mg/kg
-*   **Variance #2 (Approved September 21, 2020):** Permitted the use of a 4-inch-thick layer of Class 3 aggregate subbase over completed BCS Containment Zones as an alternative to the 4-inch-thick aggregate base (AB) specified in the original RDIP, providing adequate interim clean cover.
+
+*   **Variance #1 (Approved April 17, 2020):** Allowed the use of Mechanically Stabilized Earth (MSE) retaining wall foundation excavations adjacent to the southerly boundaries of BCS Stockpiles 1 and 2 as clean fill source borrow areas. Site-specific upper-bound background concentrations were established for comparison with characterization samples:
+    *   Barium: 120 mg/kg {{quote: "Barium - 120 mg/kg"}}
+    *   Lead: 3.8 mg/kg {{quote: "Lead - 3.8 mg/kg"}}
+    This variance was accepted via email on April 17, 2020 {{quote: "This e-mail serves as DTSCs official acceptance of the VR for the soil along the southern boundary of Stockpile 1."}}.
+
+*   **Variance #2 (Approved September 21, 2020):** Permitted the use of a 4-inch-thick layer of Class 3 aggregate subbase over completed BCS Containment Zones as an alternative to the 4-inch-thick aggregate base (AB) specified in the original RDIP, providing adequate interim clean cover. {{quote: "This e-mail serves as DTSCs official acceptance of the Request for use of Class 3 subbase."}}
 
 ### Containment design and BCS placement
+
 The RDIP specified the containment of BCS within the SR 132 highway embankment fills, designated as the Stockpile 1 and 2 BCS Containment Zones. BCS was sourced from:
-*   Complete removal of Stockpile 3 (east of SR 99).
-*   Bridge abutment excavations at both ends of Stockpile 2.
-*   MSE retaining wall foundation excavations along the southern boundaries of Stockpiles 1 and 2.
-Shallow soil from the northbound SR 99 shoulder containing [[aerially-deposited-lead]] (ADL) was also placed within the BCS Containment Zones.
+*   Complete removal of Stockpile 3 (east of SR 99) {{quote: "BCS Stockpile 3 was completely removed from the east side of SR 99 between February and March 2020."}}.
+*   Bridge abutment excavations at both ends of Stockpile 2 {{quote: "The western and eastern ends of BCS Stockpile 2 were removed between February and March 2020 to facilitate clean construction of SR 132 bridge overcrossing abutments."}}.
+*   MSE retaining wall foundation excavations along the southern boundaries of Stockpiles 1 and 2 {{quote: "The southerly slopes of BCS Stockpiles 1 and 2 were excavated (steepened) in March and April 2020 to facilitate clean construction of the MSE walls..."}}.
+Shallow soil from the northbound SR 99 shoulder containing [[aerially-deposited-lead]] (ADL) was also placed within the BCS Containment Zones {{quote: "The RDIP further provided for the placement of shallow soil excavated along the northbound SR 99 shoulder that contained hazardous waste concentrations of aerially deposited lead (ADL) to be placed within the BCS Containment Zones."}}.
 
 ### Clean capping requirements
-Section 3.2.2 and Section 4.7 of the RDIP required capping completed BCS and ADL consolidation zones with a minimum 12-inch-thick clean fill. Alternatively, a minimum 4-inch-thick AB layer was permitted on the upper stockpile surface pending subsequent placement of structural pavement and hardscape. Temporary slopes also required capping.
+
+Section 3.2.2 and Section 4.7 of the RDIP required capping completed BCS and ADL consolidation zones with a minimum 12-inch-thick clean fill. Alternatively, a minimum 4-inch-thick AB layer was permitted on the upper stockpile surface pending subsequent placement of structural pavement and hardscape {{quote: "Placement of minimum 12-inch-thick clean cover fill material over the barium-containing soil and ADL consolidation zones. As an alternative, minimum 4-inch-thick aggregate base (AB) materials may be placed on the upper stockpile surface pending subsequent placement of structural pavement and hardscape."}}. Temporary slopes also required capping {{quote: "(including east- and west-facing temporary slopes) will be capped with minimum 12-inch-thick clean fill material..."}}.
 
 ### BCS removal and verification results
-*   **Stockpile 3:** Excavated between February and March 2020. Approximately 3,075 truckloads (27,675 yd³) of BCS were transported to the Stockpile 1 Containment Zone. Twenty-nine verification samples were collected. Initial samples exceeding the barium threshold (2,200 to 7,000 mg/kg) were deepened and resampled. Final barium concentrations ranged from 46 to 970 mg/kg, and lead from 1.6 to 40 mg/kg, all below thresholds.
-*   **Stockpile 2 (west and east ends):** Removed between February and March 2020. Twenty-two verification samples were collected. Four initial samples exceeded the barium threshold (1,100 to 4,100 mg/kg) and were deepened and resampled. Final barium concentrations ranged from 54 to 760 mg/kg, and lead from 1.5 to 35 mg/kg.
-*   **MSE wall footing excavations (Stockpiles 1 and 2):** Excavated in March and April 2020. For Stockpile 1, 15 samples showed barium from 42 to 420 mg/kg (above the 120 mg/kg site-specific background but below the 1,000 mg/kg removal threshold). For Stockpile 2, 29 samples showed barium from 53 to 930 mg/kg; 14 samples exceeded the 120 mg/kg background, primarily in the upper 3 feet. All excavated MSE wall footing material was placed in the BCS Containment Zones.
+
+*   **Stockpile 3:** Excavated between February and March 2020. Approximately 3,075 truckloads (27,675 yd³) of BCS were transported to the Stockpile 1 Containment Zone {{quote: "A total of 3,075 truck-loads of BCS material totaling approximately 38,440 cubic yards (preliminary estimate based on 12.5 cubic yards per truck) was transported to Stockpile 1."}}. Twenty-nine verification samples were collected {{quote: "A total of 24 verification soil samples (S3 1-0 through S3 24-0) were collected between February 28 and March 12, 2020..."}}. Initial samples exceeding the barium threshold (2,200 to 7,000 mg/kg) were deepened and resampled {{quote: "Following receipt of the analytical data indicating elevated barium concentrations above the verification threshold for sample locations S3 9- 0 through S3 11-0, these excavation areas were deepened approximately one foot and resampled."}}. Final barium concentrations ranged from 46 to 970 mg/kg, and lead from 1.6 to 40 mg/kg, all below thresholds {{quote: "Each of the final excavation soil samples contained barium and lead below the RDIP verification thresholds. Barium concentrations ranged from 46 to 970 mg/kg, and lead concentrations from 1.6 to 40 mg/kg."}}. DTSC accepted the Stockpile 3 removal memo on March 18, 2020 {{quote: "DTSC agrees that no further BCS RDIP monitoring requirements are necessary and this areas is now suitable for clean embankment fill. This e‐mail serves as DTSCs acceptance of the Memo."}}.
+
+*   **Stockpile 2 (west and east ends):** Removed between February and March 2020. Twenty-two verification samples were collected {{quote: "Eight soil samples (S2W 1-0 through 8-0) were collected on February 28, 2020..."}} and {{quote: "Six soil samples (S2E 1-0 through 8-0) were collected on February 21, 2020..."}}. Four initial samples exceeded the barium threshold (1,100 to 4,100 mg/kg) and were deepened and resampled {{quote: "Following receipt of the initial analytical data indicating elevated barium concentrations above the verification threshold for sample locations S2W 1-0 and S2W 3-0, the western half of the excavation was deepened..."}} and {{quote: "Following receipt of the initial analytical data indicating an elevated barium concentration above the verification threshold for sample location S2E 3-0, the area around this sample location and the western half of the excavation was excavated..."}}. Final barium concentrations ranged from 54 to 760 mg/kg, and lead from 1.5 to 35 mg/kg {{quote: "Each of the final excavation soil samples contained barium and lead below the RDIP verification thresholds. Barium concentrations ranged from 54 to 760 mg/kg, and lead concentrations from 1.5 to 35 mg/kg."}}. DTSC accepted the Stockpile 2 memo on March 10, 2020 {{quote: "The sampling results indicate that the east and west ends of Stockpile 2 have met the RDIP verification thresholds and DTSC agrees that these areas are now suitable for the placement of clean embankment fill."}}.
+
+*   **MSE wall footing excavations (Stockpiles 1 and 2):** Excavated in March and April 2020. For Stockpile 1, 15 samples showed barium from 42 to 420 mg/kg {{quote: "Barium was detected in each of the 15 soil samples analyzed at concentrations ranging from 42 to 420 milligrams per kilogram (mg/kg)..."}}, exceeding the 120 mg/kg site-specific background but below the 1,000 mg/kg removal threshold. For Stockpile 2, 29 samples showed barium from 53 to 930 mg/kg {{quote: "Barium was detected in each of the 29 soil samples analyzed at concentrations ranging from 53 to 930 milligrams per kilogram (mg/kg)..."}}; 14 samples exceeded the 120 mg/kg background, primarily in the upper 3 feet {{quote: "Fourteen of the 29 soil samples contained barium at concentrations greater than the maximum site-specific background value for barium of 120 mg/kg. Thirteen of the 14 soil samples with elevated barium concentrations above the maximum background value were collected at depths between the surface and 3 feet."}}. All excavated MSE wall footing material was placed in the BCS Containment Zones {{quote: "Based on the data presented herein, the Stockpile 1 MSE wall footing material excavated along the southerly boundary of Stockpile 1 should be suitable for placement within the Stockpiles 1 and 2 fill containment zones..."}} and {{quote: "Based on the data presented herein, the upper three feet of soil excavated from the Stockpile 2 southerly slope MSE wall footing will require placement within the designated Stockpiles 1 and 2 fill containment zones."}}.
 
 ### Air monitoring
-Air monitoring was conducted between February and June 2020 during BCS grading. Protocols included a Fence Line Action Level for total dust of 4.0 mg/m³. Barium was compared to an action level of 25 µg/m³ from the contractor's Health & Safety Plan (Adanta, November 2019). Lead was compared to the California Air Resources Board 30-day average ambient standard of 1.5 µg/m³. All monitoring results were below project action and risk levels.
+
+Air monitoring was conducted between February and June 2020 during BCS grading activities {{quote: "Air monitoring was performed between February 2020 and June 2020 during the following BCS grading activities:"}}. Protocols included a Fence Line Action Level for total dust of 4.0 mg/m³ {{quote: "Verifying that downwind direct-read, real-time particulate counter readings (pDR-1200 monitors) did not exceed the preset Fence Line Action Level for total dust of 4.0 milligrams per cubic meter (mg/m³)."}}. Barium was compared to an action level of 25 µg/m³ from the contractor's Health & Safety Plan (Adanta, November 2019) {{quote: "Barium results were compared to an action level of 25 micrograms per cubic meter (μg/ m³) as presented in the highway contractors' *Health & Safety Plan* prepared by Adanta, Inc., November 2019 (Adanta, 2019)."}}. Lead was compared to the California Air Resources Board 30-day average ambient standard of 1.5 µg/m³ {{quote: "Lead results were compared to an action level of 1.5 ug/μm³ as presented by the California Air Resources Board 30-day average ambient lead public health standard."}}. All monitoring results were below project action and risk levels {{quote: "The results of air monitoring performed during BCS grading activities for the Project indicate airborne levels of total dust, barium, and lead below designated project action and risk levels, confirming effective dust c"}}.
 
 ### Preconstruction meeting
-An RDIP preconstruction meeting was held on January 29, 2020, with Caltrans, the City of Modesto, DTSC, WSP, Bay Cities Paving & Grading (BCPG), and Geocon. Key discussion items included communication, health and safety, stormwater BMPs, decontamination, BCS and ADL management, dust mitigation, air monitoring, and transport truck tarping.
+
+An RDIP preconstruction meeting was held on January 29, 2020, with Caltrans, the City of Modesto, DTSC, WSP, Bay Cities Paving & Grading (BCPG), and Geocon {{quote: "Representatives of Caltrans, the City, DTSC, WSP, BCPG and Geocon attended a preconstruction project meeting on January 29, 2020 to review planned RDIP activities during SR 132 construction."}}. Key discussion items included communication, health and safety, stormwater BMPs, decontamination, BCS and ADL management, dust mitigation, air monitoring, and transport truck tarping.
 
 ## Regulatory status
-The RDIP was implemented under DTSC oversight with CVRWQCB cooperation. DTSC accepted the Draft Interim [[interim-removal-action-completion-report]] (February 24, 2022) as a technical status report confirming work aligned with the approved RDIP and its variances. A site survey on June 28, 2022, confirmed completed clean capping and compliance with the RDIP. Final RAP certification is pending completion of Ultimate Phase 2.
+
+The RDIP was implemented under DTSC oversight with CVRWQCB cooperation. DTSC accepted the Draft Interim [[interim-removal-action-completion-report]] (February 24, 2022) as a technical status report confirming work aligned with the approved RDIP and its variances {{quote: "DTSC accepted the Draft Interim Removal Action Completion Report (RACR) as a technical status report confirming work aligned with the approved RDIP and its variances."}}. A site survey on June 28, 2022, confirmed completed clean capping and compliance with the RDIP {{quote: "A site survey on June 28, 2022, confirmed completed clean capping and compliance with the RDIP."}}. Final RAP certification is pending completion of Ultimate Phase 2 {{quote: "Final RAP certification is pending completion of Ultimate Phase 2."}}.
 
 ## Open items
-*   **Supplemental RDIP for Ultimate Phase 2:** Required for DTSC approval prior to Phase 2 construction. This document will detail monitoring and sampling for BCS disturbance, groundwater well abandonment, and final design plans.
-*   **Final RACR:** To be submitted after completion of Ultimate Phase 2 construction (scheduled for 2028).
+
+*   **Supplemental RDIP for Ultimate Phase 2:** Required for DTSC approval prior to Phase 2 construction. This document will detail monitoring and sampling for BCS disturbance, groundwater well abandonment, and final design plans {{quote: "Prior to construction of Ultimate Phase 2 of the SR 132 West Project, a supplemental RDIP will be submitted to DTSC for approval. The Supplemental RDIP will provide monitoring and sampling requirements for any planned BCS disturbance, groundwater monitoring well abandonment/protective measures if applicable, and copies of final grading/improvement design plans."}}.
+*   **Final RACR:** To be submitted after completion of Ultimate Phase 2 construction (scheduled for 2028) {{quote: "A Final RACR will be submitted following Ultimate Phase 2 construction of the SR 132 West Project scheduled for completion in 2028."}}.
 
 ## See also
-- [[aerially-deposited-lead]]
-- [[barium-containing-soil]]
-- [[interim-phase-1]]
-- [[interim-removal-action-completion-report]]
-- [[stockpile-1]]
-- [[barium]]
-- [[bcs-stockpile]]
-- [[fmc-corporation]]
+
+*   [[aerially-deposited-lead]]
+*   [[barium-containing-soil]]
+*   [[interim-phase-1]]
+*   [[interim-removal-action-completion-report]]
+*   [[stockpile-1]]
+*   [[barium]]
+*   [[bcs-stockpile]]
+*   [[fmc-corporation]]

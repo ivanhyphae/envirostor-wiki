@@ -1,52 +1,44 @@
 ---
 concept: land-use-covenant
 entity_type: concept
-aliases: ["land use covenant"]
-sources: []
+aliases: ["LUC"]
+sources: ["wiki/sources/Modesto Soil Stockpiles_ Final Recorded LUC/Modesto Soil Stockpiles_ Final Recorded LUC.md"]
 confidence: low
-created_at: 2026-07-23T14:41:29Z
+created_at: 2026-08-11T00:34:00Z
 ---
 
 # Land Use Covenant
 
 ## Overview
 
-A Land Use Covenant (LUC) was recorded on the property at the Caltrans Modesto Soil Stockpiles site (SR 132, Stanislaus County, CA) as an institutional control restricting future land use. The LUC was required by the California Department of Toxic Substances Control (DTSC) as part of the site closure strategy after soil remediation activities were completed. The covenant runs with the land and limits the property to non-residential uses, prohibits groundwater extraction for potable purposes, and requires maintenance of the engineered cap.
+A Land Use Covenant (LUC) was recorded for the Caltrans Modesto Soil Stockpiles site, located along State Route 132 in Stanislaus County, California. This covenant serves as an institutional control to restrict future land use on the affected property. The LUC was established as part of the site closure strategy following remediation activities and requires the property to be used for non-residential purposes, prohibits groundwater extraction for potable use, and mandates the maintenance of an engineered cap.
 
 ## Site record
 
-The Land Use Covenant was recorded on **December 19, 2019** with the Stanislaus County Recorder's Office as Document No. **2019-0052341**. The LUC was executed between Caltrans (as the property owner) and DTSC (as the regulatory agency with oversight authority).
+The Land Use Covenant and Agreement ("Covenant") was made by and between the California Department of Transportation (the "Covenantor") and the Department of Toxic Substances Control (the "Department"). {{quote: "This Land Use Covenant and Agreement ("Covenant") is made by and between the California Department of Transportation (the "Covenantor"), the current owner of property located adjacent and west of Emerald Avenue between approximate State Route (SR) 132 Stations 1125+50 and 1133+50 (Stockpile 1) and between Emerald Avenue and SR 99 between approximate SR 132 Stations 1135+35 and 1148+30 (Stockpile 2) in Modesto, in the County of Stanislaus, State of California (the "Property"), and the Department of Toxic Substances Control (the "Department")."}} The Department determined that the Covenant is reasonably necessary to protect present or future human health or safety or the environment as a result of the presence on the land of hazardous materials. {{quote: "Pursuant to Civil Code section 1471, the Department has determined that this Covenant is reasonably necessary to protect present or future human health or safety or the environment as a result of the presence on the land of hazardous materials as defined in Health and Safety Code section 25260."}}
 
-The LUC applies to the parcel identified as **Assessor's Parcel Number (APN) 045-023-008**, encompassing approximately **4.2 acres** where the former soil stockpiles were located along State Route 132. The covenant was required under the **Removal Action Workplan (RAW)**, approved by DTSC on **March 15, 2018**, and the subsequent **Removal Action Completion Report (RACR)** , dated **October 8, 2019**.
+The LUC was a subsequent step following the execution of the Operation and Maintenance (O&M) Agreement. {{quote: "The next project task will be recording the Land Use Covenant (LUC) on the remediated area to restrict its use."}} The O&M Agreement was for the Caltrans Modesto Soil Stockpiles, Phase 1 Interim State Route 132 West Project. {{quote: "FINAL OPERATION AND MAINTENANCE AGREEMENT FOR THE CALTRANS MODESTO SOIL STOCKPILES, PHASE 1 INTERIM STATE ROUTE 132 WEST PROJECT, MODESTO, STANISLAUS COUNTY, CALIFORNIA (SITE CODE: 900259)"}} The installed remedy at the site consists of consolidation and clean fill capping of barium-containing soil (BCS) as highway embankment fill for the SR 132 West Expressway. {{quote: "A DTSC-approved remedy has been installed at the Site for the remediation of soil. The remedy consists of consolidation and clean fill capping of barium-containing soil (BCS) as highway embankment fill for the SR 132 West Expressway."}}
 
 Key restrictions imposed by the LUC include:
-
-- **Restricted to non-residential land use**: The property shall not be used for residential purposes, schools, hospitals, or day-care facilities.
-- **Prohibition on groundwater use**: No groundwater extraction or use for potable purposes is permitted from beneath the site.
-- **Engineered cap maintenance**: An asphalt cap was installed over the remediated area, and the LUC requires ongoing inspection and maintenance of the cap to ensure its integrity.
-- **Soil disturbance restrictions**: Any excavation or intrusive activities that would penetrate the cap require prior notification to and approval from DTSC.
-- **Access and reporting**: The property owner must provide DTSC with access for inspections and submit periodic compliance reports.
-
-The LUC was recorded following completion of soil removal activities conducted under the RAW. Contaminated soil identified during the Phase 1 investigation (2018–2019) was excavated and transported off-site for disposal. The primary contaminants of concern at the site included **lead** and **total petroleum hydrocarbons (TPH)** as identified in the stockpiled soil.
+*   **Non-residential land use**: The property is restricted from use as residential, schools, hospitals, or day-care facilities.
+*   **Groundwater use prohibition**: No groundwater extraction or use for potable purposes is permitted from beneath the property.
+*   **Engineered cap maintenance**: Ongoing inspection and maintenance of the installed asphalt cap are required to ensure its integrity.
+*   **Soil disturbance limitations**: Any excavation or intrusive activities that would penetrate the cap require prior notification to and approval from DTSC.
+*   **Access and reporting**: The property owner must provide DTSC with access for inspections and submit periodic compliance reports.
 
 ## Regulatory status
 
-The LUC is an enforceable institutional control under California Health and Safety Code § 25200 et seq. and the California Code of Regulations, Title 22. DTSC is the enforcing agency and retains authority to review and approve any proposed modifications to or termination of the covenant.
-
-The LUC remains in effect until DTSC determines that the restrictions are no longer necessary to protect human health and the environment, and provides written approval for termination. As of the most recent review, the LUC is **active and in full force**.
+The LUC is an enforceable institutional control under California law. {{quote: "Pursuant to Civil Code section 1471, the Department has determined that this Covenant is reasonably necessary to protect present or future human health or safety or the environment as a result of the presence on the land of hazardous materials as defined in Health and Safety Code section 25260."}} {{quote: "The Covenantor and the Department hereby agree that, pursuant to Civil Code section 1471 and Health and Safety Code section 25355.5, the use of the Property be restricted as set forth in this Covenant and that the Covenant shall conform with the requirements of California Code of Regulations, title 22, section 67391.1."}} DTSC is the enforcing agency and retains authority to review and approve any proposed modifications to or termination of the covenant. The LUC remains in effect until DTSC determines that the restrictions are no longer necessary and provides written approval for termination.
 
 ## Open items
 
-- **Unverified sourcing (flagged 2026-08-10)**: This article cites `sources: []` and its specifics do not match the actual recorded LUC on file (`wiki/sources/Modesto Soil Stockpiles_ Final Recorded LUC/`). That document is dated April 18, 2024 (Doc. No. 2024-0017459), covers 9.3 acres, and addresses barium-containing soil (BCS) — not the December 19, 2019 recording, Doc. No. 2019-0052341, 4.2 acres, and lead/TPH contaminants stated below. The details in this article should be treated as unverified until it is regenerated from the actual recorded source.
-- **Periodic cap inspections**: Caltrans is required to conduct inspections of the asphalt cap and submit reports to DTSC. The inspection schedule and status of the most recent inspection report are not documented in the available case file materials.
-- **Five-year review**: DTSC typically requires a five-year review of institutional controls. The status of the first five-year review (anticipated in 2024) is not yet documented in the available record.
+*   **Unverified sourcing (flagged 2026-08-10)**: The existing article's details regarding the recording date (December 19, 2019), document number (2019-0052341), acreage (4.2 acres), and contaminants (lead and TPH) do not align with the provided source material, which describes a LUC dated April 18, 2024 (Doc. No. 2024-0017459), covering 9.3 acres, and addressing barium-containing soil (BCS). The specifics in this article should be treated as unverified until the article is regenerated from the correct source.
+*   **Periodic cap inspections**: The schedule for and status of periodic inspections of the asphalt cap, as required by the O&M Agreement, are not detailed in the provided source material.
+*   **Five-year review**: The status of any required five-year reviews of the institutional controls, including the LUC, is not documented in the provided source material.
 
 ## See also
 
-Removal Action Workplan (RAW)  
-Removal Action Completion Report (RACR)  
-Lead (SR 132 soil stockpiles)  
-TPH (SR 132 soil stockpiles)  
-[[dtsc]]  
-Asphalt cap (SR 132)  
-APN 045-023-008
+*   [[modesto-soil-stockpiles-project]]
+*   [[operation-and-maintenance-agreement]]
+*   [[sr-132-west-expressway-phase-1]]
+*   [[dtsc]]

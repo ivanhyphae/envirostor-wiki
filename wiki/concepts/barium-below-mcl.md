@@ -1,29 +1,34 @@
 ---
 concept: barium-below-mcl
 entity_type: claim
-aliases: ["barium level detected ... does not exceed the commercial/industrial screening level"]
-sources: ["wiki/sources/S9650-06-03 Modesto Ramp Ex Mon Plan -no appx-0612/S9650-06-03 Modesto Ramp Ex Mon Plan -no appx-0612.md"]
+aliases: []
+sources: ["wiki/sources/Stockpile 2 Confirmation Sampling Tech Memo Approval/Stockpile 2 Confirmation Sampling Tech Memo Approval.md", "wiki/sources/Stockpile 3 Confirmation Sampling Tech Memo Approval/Stockpile 3 Confirmation Sampling Tech Memo Approval.md"]
 confidence: high
-created_at: 2026-08-10T22:38:49Z
+created_at: 2026-08-11T00:34:57Z
 ---
 
 ## Overview
-Barium is a constituent monitored in groundwater at the [[modesto-soil-stockpiles-project]] site, located in Stanislaus County, California, along State Route 132. The concept "Barium Below MCL" specifically refers to findings where detected concentrations of barium in groundwater samples did not exceed the applicable Maximum Contaminant Level (MCL) during specific monitoring events.
+The concept "Barium Below MCL" refers to instances where barium concentrations detected in environmental samples at the [[modesto-soil-stockpiles-project]] were found to be below the applicable Maximum Contaminant Level (MCL). This designation is relevant to the remediation and verification processes for [[barium-containing-soil]] (BCS) at the site.
 
 ## Site record
-The June 2014 Groundwater Monitoring Report, prepared by [[geocon-consultants]] for [[caltrans]], documented groundwater sampling results from the monitoring well network at the Modesto Soil Stockpiles. During this monitoring event, barium was analyzed, and the report indicated that no concentrations of barium exceeded the MCL. The report's narrative confirms that all sampled locations met the MCL for barium. Specific concentrations, well identifications, and detection limits are detailed in the laboratory analytical data tables within the report.
+The [[department-of-toxic-substances-control]] (DTSC) has reviewed and approved technical memorandums detailing the removal of BCS from Stockpile 2 and Stockpile 3. These memorandums included confirmation soil sampling to demonstrate that cleanup levels established in the Remedial Design Implementation Plan (RDIP) were achieved.
+
+For Stockpile 2, the DTSC accepted a Technical Memorandum dated March 9, 2020, which described the removal of BCS from the east and west ends. The confirmation sampling indicated that these areas met the RDIP verification thresholds, making them suitable for the placement of [[clean-soil-cover]]. {{quote: "DTSC has reviewed the Technical Memorandum (Memo) dated March 9, 2020 describing the removal of Barium Containing Soil from the east and west ends of Stockpile 2 and the subsequent confirmation soil sampling that was completed to show these areas have achieved the cleanup levels established in the Remedial Design Implementation Plan (RDIP). The sampling results indicate that the east and west ends of Stockpile 2 have met the RDIP verification thresholds and DTSC agrees that these areas are now suitable for the placement of clean embankment fill. This e‐mail serves as DTSCs acceptance of the Memo."}}
+
+For Stockpile 3, the DTSC accepted a Technical Memorandum dated March 13, 2020, confirming the removal of BCS. The sampling results indicated that the BCS had been removed and the remaining soil met the RDIP verification thresholds. {{quote: "DTSC has reviewed the Technical Memorandum (Memo) dated March 13, 2020 describing the removal of Barium Containing Soil (BCS) Stockpile 3 and the subsequent confirmation soil sampling that was completed to show this area has achieved the cleanup levels established in the Remedial Design Implementation Plan (RDIP). The sampling results indicate that the Stockpile 3 BCS has been removed and that the remaining soil meets the RDIP verification thresholds. DTSC agrees that no further BCS RDIP monitoring requirements are necessary and this areas is now suitable for clean embankment fill. This e‐mail serves as DTSCs acceptance of the Memo."}}
+
+The [[caltrans]] Engineering Geologist, Richard C. Stewart, communicated that the removal and relocation of all BCS material from Stockpile 3 was complete, with native soil concentrations of barium and lead below established threshold values in the RDIP. {{quote: "Per the RDIP is the attached Stockpile 3 verification sampling technical memo. With the analytical verification that all Stockpile 3 BCS material has been excavated to depths with concentrations of barium and lead in native soil that is below the established threshold values in the RDIP, the removal and relocation of all BCS stockpile material is now complete."}}
 
 ## Regulatory status
-The regulatory threshold for barium in groundwater is the California Maximum Contaminant Level (MCL) established by the State Water Resources Control Board, Division of Drinking Water. The groundwater monitoring results from June 2014 demonstrated that barium concentrations were below the MCL at all sampling points. This indicated compliance with the primary drinking water standard for barium at the time of the monitoring event.
+The [[department-of-toxic-substances-control]] (DTSC) has approved the completion of BCS removal and verification testing for Stockpile 2 and Stockpile 3, deeming these areas suitable for the placement of clean embankment fill. This indicates that, for these specific areas and analytes, the project has met the established cleanup levels and RDIP verification thresholds.
 
 ## See also
-- [[arsenic]]
 - [[barium]]
+- [[barium-containing-soil]]
+- [[bcs-removal-verification-testing]]
 - [[caltrans]]
-- [[caltrans-district-6]]
-- [[chromium]]
-- [[commercial-industrial-screening-level]]
-- geocon-consultants
-- [[geotracker]]
-- [[june-2014-groundwater-monitoring-report]]
+- [[clean-soil-cover]]
+- [[department-of-toxic-substances-control]]
+- [[geocon-consultants]]
 - [[modesto-soil-stockpiles-project]]
+- [[central-valley-rwqcb]]

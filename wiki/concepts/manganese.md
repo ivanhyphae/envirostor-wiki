@@ -1,29 +1,31 @@
 ---
 concept: manganese
 entity_type: contaminant
-aliases: ["Mn"]
-sources: ["wiki/sources/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814.md"]
+aliases: []
+sources: ["wiki/sources/S9800-01-17A Modesto Stockpiles Mar 5 2016 Stormwater Samplng_04 16/S9800-01-17A Modesto Stockpiles Mar 5 2016 Stormwater Samplng_04 16.md"]
 confidence: high
-created_at: 2026-08-10T22:39:24Z
+created_at: 2026-08-11T00:34:41Z
 ---
 
 # Manganese
 
 ## Overview
 
-Manganese is a dissolved metal that has been analyzed in groundwater at the [[caltrans]] Modesto Soil Stockpiles site (SR 132, Stanislaus County, CA). It is part of the routine groundwater monitoring analyte list. Manganese has not been identified by the [[dtsc]] as a primary chemical of concern for this site.
+Manganese is a dissolved metal that has been analyzed in stormwater samples at the [[caltrans]] Modesto Soil Stockpiles site (SR 132, Stanislaus County, CA).
 
 ## Site record
 
-In the June 2014 groundwater monitoring event, manganese was among the dissolved metals analyzed in samples collected from all ten site monitoring wells (MW-1 through MW-10). According to the June 2014 Groundwater Monitoring Report prepared by [[geocon-consultants]], manganese was not reported at concentrations equal to or greater than its respective practical quantitation limit (PQL) in any of the samples collected from these ten wells. The report does not present specific numerical concentration data or trends over time for manganese, consistent with all reported results being below the PQLs.
+During the March 5, 2016 stormwater sampling event, manganese was reported for samples PL2 and PL4. {{quote: "Manganese was reported for samples PL2 and PL4."}} In sample PL2, manganese was detected at a concentration of 60 micrograms per liter (µg/l). {{quote: "Manganese was detected in sample PL2 at a concentration of 60 micrograms per liter (µg/l)"}} This concentration exceeds the secondary Maximum Contaminant Level (MCL) for manganese, which is 50 µg/l and is based on taste and odor. {{quote: "which exceeds its secondary MCL (taste and odor based) of 50 µg/l."}}
+
+Manganese was also reported for sample BG1. {{quote: "Manganese was reported for sample BG1."}} For sample BG1, none of the reported concentrations exceeded their respective primary or secondary MCLs. {{quote: "None of the reported concentrations exceed their respective primary or secondary MCLs."}}
 
 ## Regulatory status
 
-No specific regulatory thresholds, enforcement actions, or agency decisions pertaining to manganese are documented within the provided project record. The June 2014 Groundwater Monitoring Report does not list manganese among the analytes with established numeric water quality threshold values in its summary tables, nor does it provide a comparison to Primary or Secondary Maximum Contaminant Levels (MCLs) for this parameter.
+Manganese has a secondary MCL of 50 µg/l, based on taste and odor. {{quote: "which exceeds its secondary MCL (taste and odor based) of 50 µg/l."}} The concentration of manganese detected in sample PL2 (60 µg/l) exceeded this secondary MCL. {{quote: "Manganese was detected in sample PL2 at a concentration of 60 micrograms per liter (µg/l) which exceeds its secondary MCL (taste and odor based) of 50 µg/l."}}
 
 ## Open items
 
-No open items related to manganese are identified in the source documents.
+No open items related to manganese are identified in the provided source documents.
 
 ## See also
 
@@ -33,6 +35,5 @@ No open items related to manganese are identified in the source documents.
 - [[caltrans]]
 - [[caltrans-district-6]]
 - [[chromium]]
+- [[dissolved-metals]]
 - [[geocon-consultants]]
-- [[geotracker]]
-- [[june-2014-groundwater-monitoring-report]]
