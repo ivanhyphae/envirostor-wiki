@@ -1,15 +1,15 @@
 ---
 concept: remedial-action-completion-report
-entity_type: deliverable
-aliases: ["RACR"]
-sources: ["wiki/sources/OM Plan Comments (900259)/OM Plan Comments (900259).md"]
+entity_type: concept
+aliases: ["RACR", "Remedial Action Completion Report"]
+sources: ["wiki/sources/Caltrans -DTSC Agreement/Caltrans -DTSC Agreement.md", "wiki/sources/OM Plan Comments (900259)/OM Plan Comments (900259).md"]
 confidence: high
-created_at: 2026-08-11T00:34:02Z
+created_at: 2026-08-11T00:59:54Z
 ---
 
 ## Remedial Action Completion Report
 
-The Remedial Action Completion Report (RCR) for the [[modesto-soil-stockpiles-project]] will include the Operations and Maintenance (O&M) Plan as an appendix. This report documents the completion of remedial actions related to barium-containing soil (BCS) stockpiles at the [[modesto-soil-stockpiles-project]] site, specifically concerning the portion of State Route 132 (SR 132) utilized as a clean cap cover. The [[operations-and-maintenance-plan]] outlines the necessary activities for the inspection, maintenance, and repair of this cap.
+The Remedial Action Completion Report (RACR) for the [[modesto-soil-stockpiles-project]] will incorporate the [[operations-and-maintenance-plan]] as an appendix. This report serves to document the completion of remedial actions for barium-containing soil (BCS) stockpiles at the [[modesto-soil-stockpiles-project]] site, specifically addressing the portion of State Route 132 (SR 132) designated as a clean cap cover. The [[operations-and-maintenance-plan]] details the required activities for the inspection, maintenance, and repair of this cap.
 
 ## Site Record
 
@@ -37,6 +37,10 @@ The DTSC provided comments on the Draft O&M Plan that require revisions before i
 
 ## See also
 * [[modesto-soil-stockpiles-project]]
+* [[oandm-plan]]
 * [[operations-and-maintenance-plan]]
 * [[remedial-design-implementation-plan]]
 * [[sr-132-west-expressway-phase-1]]
+* [[annual-inspection-report]]
+* [[annual-o-and-m-inspection-report]]
+* [[arsenic]]

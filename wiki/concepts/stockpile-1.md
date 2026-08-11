@@ -1,10 +1,10 @@
 ---
 concept: stockpile-1
 entity_type: concept
-aliases: ["Stockpile 1", "Stockpile No. 1"]
-sources: ["wiki/sources/Caltrans Modesto Soil Stcokpiles RDIP Variance/Caltrans Modesto Soil Stcokpiles RDIP Variance.md", "wiki/sources/Carpenter Road Shoofly Clean Fill Tech Memo/Carpenter Road Shoofly Clean Fill Tech Memo.md", "wiki/sources/Draft Interim RACR_ App D-G/Draft Interim RACR_ App D-G.md", "wiki/sources/Draft Interim RACR_Text_Figures_Tables_ App A-C/Draft Interim RACR_Text_Figures_Tables_ App A-C.md", "wiki/sources/E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan/E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan.md", "wiki/sources/E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo/E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo.md", "wiki/sources/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo.md", "wiki/sources/Stockpile 1 MSE Wall Sampling Tech Memo/Stockpile 1 MSE Wall Sampling Tech Memo.md", "wiki/sources/Stockpiles 1 and 2 MSE Wall Sampling Plan/Stockpiles 1 and 2 MSE Wall Sampling Plan.md"]
+aliases: ["Stockpile 1"]
+sources: ["wiki/sources/Caltrans -DTSC Agreement/Caltrans -DTSC Agreement.md", "wiki/sources/Caltrans Modesto Soil Stcokpiles RDIP Variance/Caltrans Modesto Soil Stcokpiles RDIP Variance.md", "wiki/sources/Carpenter Road Shoofly Clean Fill Tech Memo/Carpenter Road Shoofly Clean Fill Tech Memo.md", "wiki/sources/Draft Interim RACR_ App D-G/Draft Interim RACR_ App D-G.md", "wiki/sources/Draft Interim RACR_Text_Figures_Tables_ App A-C/Draft Interim RACR_Text_Figures_Tables_ App A-C.md", "wiki/sources/E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan/E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan.md", "wiki/sources/E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo/E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo.md", "wiki/sources/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19.md", "wiki/sources/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18.md", "wiki/sources/S9525-06-44 HHRA UPDATE Rev.0313/S9525-06-44 HHRA UPDATE Rev.0313.md", "wiki/sources/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313.md", "wiki/sources/S9525-06-44A Stormwater SAP Addendum 0213/S9525-06-44A Stormwater SAP Addendum 0213.md", "wiki/sources/SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020/SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020.md", "wiki/sources/SR 132 Clean Borrow Area Technical Memo/SR 132 Clean Borrow Area Technical Memo.md", "wiki/sources/SR 132 Stockpile 2 BCS Removal Tech Memo/SR 132 Stockpile 2 BCS Removal Tech Memo.md", "wiki/sources/SR 132 Stockpile 3 BCS Removal Tech Memo/SR 132 Stockpile 3 BCS Removal Tech Memo.md", "wiki/sources/Stockpile 1 MSE Wall Sampling Tech Memo/Stockpile 1 MSE Wall Sampling Tech Memo.md", "wiki/sources/Stockpiles 1 and 2 MSE Wall Sampling Plan/Stockpiles 1 and 2 MSE Wall Sampling Plan.md"]
 confidence: high
-created_at: 2026-08-11T00:33:32Z
+created_at: 2026-08-11T00:59:07Z
 ---
 
 ## Overview
@@ -21,7 +21,7 @@ The eastern end of Stockpile 1 was also a focus for clean fill cap material. The
 
 The northern slopes of Stockpiles 1 and 2 were capped with DTSC-approved clean fill material by the Fall of 2020. {{quote: "The majority of the upper surface and northern slopes of the completed Stockpile 1 and 2 BCS Containment Zones were capped with DTSC-approved clean fill material by the Fall 2020."}} In January 2021, erosion of the clean cap fill on the exposed northerly slopes of Stockpiles 1 and 2 occurred, requiring regrading and placement of clean fill from the Carpenter Road shoofly excavation in September 2021. {{quote: "In January 2021, a record rain event caused significant erosion of the clean cap fill materials placed on the exposed (unvegetated) northerly slopes of Stockpiles 1 and 2. Plastic sheeting was placed along the slopes to minimize further erosion pending a revised plan to stabilize the slope face. The plastic sheeting was removed and the eroded areas regraded in September 2021 using clean fill deposited at the toe of slope and placement of approved clean fill material generated from excavation of the Carpenter Road shoofly."}} The vegetated slopes were then stabilized with a native plant mix, erosion control blanket, and fiber rolls. {{quote: "The cleaned capped northerly slopes of Stockpiles 1 and 2 were vegetated in October 2021 using a native plant mix hydroseed/hydromulch, and subsequent placement of an erosion control blanket (rolled erosion control product) and fiber rolls."}}
 
-Groundwater monitoring wells MW1, MW2, and MW4 were mapped in proximity to Stockpile 1. {{quote: "Groundwater monitoring wells MW1, MW2, and MW4 are mapped in proximity to Stockpile 1 and Stockpile 2."}}
+Groundwater monitoring wells MW1, MW2, and MW4 are mapped in proximity to Stockpile 1. {{quote: "Groundwater monitoring wells MW1, MW2, and MW4 are mapped in proximity to Stockpile 1 and Stockpile 2."}}
 
 ## Regulatory status
 
@@ -32,3 +32,14 @@ The Department of Toxic Substances Control (DTSC) approved the use of MSE wall f
 ## Open items
 
 *   The relationship or naming discrepancy between "STOCKPILE 61" and Stockpile 1 is not clarified in the available documentation. {{quote: "The January 2019 *Grading Plan* cover sheet (page 1) identifies a yellow-highlighted feature labeled "STOCKPILE 61" as Barium-Containing Soil. Annotations reference the BCS Removal Sampling Plan for Stockpiles 1 and 2 and the Southern Slope Retaining Wall. The relationship between "STOCKPILE 61" and Stockpile 1 is not further clarified in the available documentation."}}
+
+## See also
+
+*   [[geocon-consultants]]
+*   [[department-of-toxic-substances-control]]
+*   [[barium]]
+*   [[caltrans]]
+*   [[barium-containing-soil]]
+*   [[remedial-design-implementation-plan]]
+*   [[sr-132]]
+*   [[central-valley-rwqcb]]

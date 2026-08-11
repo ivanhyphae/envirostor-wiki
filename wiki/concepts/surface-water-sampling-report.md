@@ -1,13 +1,12 @@
 ---
 concept: surface-water-sampling-report
 entity_type: deliverable
-aliases: ["Surface Water Sampling Report"]
-sources: ["wiki/sources/S9800-01-17A Modesto Stockpiles Dec 11 2015 Stormwater Sampling Report_02.16/S9800-01-17A Modesto Stockpiles Dec 11 2015 Stormwater Sampling Report_02.16.md", "wiki/sources/S9800-01-17A Modesto Stockpiles Jan 6 2016 Stormwater Smplng 0216/S9800-01-17A Modesto Stockpiles Jan 6 2016 Stormwater Smplng 0216.md", "wiki/sources/S9800-01-17A Modesto Stockpiles Mar 5 2016 Stormwater Samplng_04 16/S9800-01-17A Modesto Stockpiles Mar 5 2016 Stormwater Samplng_04 16.md", "wiki/sources/WB Acceptance E-mail/WB Acceptance E-mail.md"]
+aliases: []
+sources: ["wiki/sources/1. SR_132_FEIR_EA_ 20180302 FINAL Main Doc/1. SR_132_FEIR_EA_ 20180302 FINAL Main Doc.md", "wiki/sources/Caltrans -DTSC Agreement/Caltrans -DTSC Agreement.md"]
 confidence: high
-created_at: 2026-08-11T00:34:21Z
+created_at: 2026-08-11T00:58:26Z
 ---
 
-## Overview
 The Surface Water Sampling Reports document the collection and analysis of surface water samples from the [[caltrans]] Modesto Soil Stockpiles site. These reports were prepared by [[geocon-consultants]] for [[caltrans]] and submitted to Mr. Richard Stewart of the Caltrans District 6 Hazardous Waste Branch. The sampling was conducted in accordance with approved protocols, including the *Final Surface Water Sampling and Analysis Plan (SAP)* and an addendum thereto. The purpose of the sampling was to analyze the surface water for various constituents.
 
 ## Site Record
@@ -28,10 +27,10 @@ No open items are documented in the provided source material.
 
 ## See Also
 *   [[geocon-consultants]]
-*   [[dissolved-metals]]
-*   [[general-minerals]]
-*   [[primary-mcl]]
 *   [[caltrans]]
 *   [[central-valley-rwqcb]]
 *   [[department-of-toxic-substances-control]]
+*   [[dissolved-metals]]
 *   [[manganese]]
+*   [[no-offsite-migration-observed]]
+*   [[primary-mcl]]

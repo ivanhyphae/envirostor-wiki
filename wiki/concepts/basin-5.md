@@ -2,45 +2,50 @@
 concept: basin-5
 entity_type: concept
 aliases: ["Basin 5"]
-sources: []
-confidence: low
-created_at: 2026-07-23T14:43:17Z
+sources: ["Basin 5 Clean Fill Sampling Plan", "wiki/sources/Approval E-mail_ SR 132 Basin 5 Clean Fill Sampling Plan/Approval E-mail_ SR 132 Basin 5 Clean Fill Sampling Plan.md", "wiki/sources/Caltrans -DTSC Agreement/Caltrans -DTSC Agreement.md", "wiki/sources/Draft Interim RACR_ App D-G/Draft Interim RACR_ App D-G.md"]
+confidence: high
+created_at: 2026-08-11T00:58:49Z
 ---
 
-# Basin 5
-
-## Overview
-Basin 5 is one of five former stormwater detention basins at the Caltrans SR 132 project site in Modesto, Stanislaus County, California. The basins were originally constructed to manage stormwater runoff but became soil stockpile areas during right-of-way acquisition and construction activities. Basin 5, like the other basins on site, received stockpiled soil that was later characterized for potential reuse or disposal. The basin's soil became subject to environmental investigation after sampling detected the presence of pesticides and other constituents of concern requiring regulatory characterization.
+{{quote: "Basin 5"}} is one of five former stormwater detention basins at the Caltrans SR 132 project site in Modesto, Stanislaus County, California. {{quote: "The basins were originally constructed to manage stormwater runoff but became soil stockpile areas during right-of-way acquisition and construction activities."}} {{quote: "Basin 5, like the other basins on site, received stockpiled soil that was later characterized for potential reuse or disposal."}} The basin's soil became subject to environmental investigation after sampling detected the presence of pesticides and other constituents of concern requiring regulatory characterization.
 
 ## Site record
 
-### Location and configuration
-Basin 5 is situated within the former stormwater detention basin complex on the Caltrans SR 132 right-of-way. The exact dimensions and volume capacity of Basin 5 are not separately documented in the available project record; the basin is referenced collectively with Basins 1 through 5 in the Phase 1 soil characterization reports.
+Basin 5 was the subject of a Clean Fill Sampling Plan {{quote: "dated June 11, 2020"}} {{quote: "that outlines the proposed sampling and analysis for the soil that will be used to cap the State Route 132 stockpiles."}} {{quote: "DTSC and the Waterboard have reviewed the Basin 5 Clean Fill Sampling Plan (Plan) dated June 11, 2020"}} and {{quote: "This e-mail serves as DTSCs approval of the Plan."}} {{quote: "June 12, 2020"}}
 
-### Sampling history
-Soil characterization of Basin 5 stockpiled material occurred during the Phase 1 investigation conducted in 2019–2020. The Phase 1 Soil Characterization Report, prepared by Caltrans Division of Environmental Analysis, documented sampling results for the stockpile soils across all five basins. Specific sampling dates, sample IDs, and the number of samples collected from Basin 5 individually are not distinguished from the aggregate basin sampling data in the available project record.
+The sampling strategy for Basin 5 was developed {{quote: "in general accordance with the California Department of Toxic Substances Control (DTSC) 2001 Information Advisory Clean Imported Fill Soil"}} and {{quote: "was approved Mr. Dean Wright with DTSC."}} {{quote: "February 27, 2020"}}
 
-### Analytical results
-The Phase 1 (2019–2020) soil characterization identified pesticides and other constituents in soil stockpiled within the basin complex. The project record does not separately tabulate Basin 5-specific concentration values; instead, the Phase 1 report presents results for the basin soil stockpiles as a combined dataset. Consequently, individual constituent concentrations, detection frequencies, or exceedance counts attributable solely to Basin 5 cannot be reliably parsed from the available documentation.
+On {{quote: "June 16, 2020"}} {{quote: "we sampled 6 exploratory trenches (BASIN5 1 through 6) on a grid pattern within the borrow area"}} {{quote: "The trenches were performed by the highway contractor to a maximum depth of 10 feet."}} Soil samples were collected from each trench at depth intervals of {{quote: "0 to 2 feet, 2 to 5 feet, and 5 to 10 feet."}} {{quote: "We field composited the samples into depth discrete 3-part composites yielding two 3-part composite samples for each sampling depth interval."}}
+
+The following presents a summary of reported concentration ranges (in milligrams per kilogram [mg/kg]) for Title 22 metals with site-specific background concentrations (see attached 2007 Shaw background data summary) in parentheses:
+
+*   Arsenic: {{quote: "<1.0 to 1.8 (1.2 mg/kg)"}}
+*   Barium: {{quote: "66 to 94 (72.8 mg/kg)"}}
+*   Chromium: {{quote: "8.5 to 11 (8.6 mg/kg¹)"}}
+*   Cobalt: {{quote: "3.3 to 3.8 (4.4 mg/kg)"}}
+*   Copper: {{quote: "7.5 to 9.3 (7.5 mg/kg)"}}
+*   Lead: {{quote: "5.8 to 11 (2.0 mg/kg)"}}
+*   Nickel: {{quote: "6.2 to 7.9 (5.3 mg/kg)"}}
+*   Vanadium: {{quote: "33 to 37 (31.3 mg/kg)"}}
+*   Zinc: {{quote: "29 to 36 (26.3 mg/kg)"}}
+
+{{quote: "Antimony, beryllium, cadmium, molybdenum, selenium, silver, thallium, mercury and OCPs were not detected in each composite soil sample analyzed above the laboratory reporting limits."}}
+
+The reported metal concentrations in the composite samples are consistent with naturally occurring background concentrations. {{quote: "Based on the data presented herein, the proposed Basin 5 clean cap borrow area appears to be suitable to generate clean cover fill materials for capping BCS Stockpiles 1 and 2."}} This information will be included in the {{link: "Interim Removal Action Completion Report"}} to be submitted following completion of the stockpile capping activities.
 
 ## Regulatory status
 
-### Applicable thresholds
-Soil characterization followed Caltrans guidance and was reviewed by the Department of Toxic Substances Control (DTSC). The Phase 1 investigation applied screening levels for reuse and disposal determinations, though the specific numeric thresholds applied to Basin 5 material are embedded in the broader basin-wide dataset rather than separately attributed.
-
-### Agency determinations
-DTSC provided oversight of the soil characterization and provided concurrence or conditions on soil management decisions for the basin stockpile materials. The precise regulatory determinations, approval dates, or conditions applied specifically to Basin 5 soil reuse or disposal are not delineated at the individual basin level in the available project record.
-
-## Open items
-
-- **Unverified sourcing (flagged 2026-08-10)**: This article cites `sources: []` — no source document is on record for its claims. Content should be treated as unverified until the article is regenerated with proper source grounding.
-Unresolved soil management decisions, pending analytical data submittals, or future reuse determinations for Basin 5 are not separately identified in the available project documentation. Any open items associated with Basin 5 would be captured within the collective basin stockpile regulatory status.
+The {{link: "Basin 5 Clean Fill Sampling Plan"}} was reviewed and approved by the {{link: "Department of Toxic Substances Control"}} (DTSC) and the Waterboard on {{quote: "June 12, 2020"}}. {{quote: "DTSC and the Waterboard have reviewed the Basin 5 Clean Fill Sampling Plan (Plan) dated June 11, 2020"}} {{quote: "This e-mail serves as DTSCs approval of the Plan."}}
 
 ## See also
-* Basin 1
-* Basin 2
-* Basin 3
-* Basin 4
-* Phase 1 Soil Characterization 2019–2020
-* SR 132 Modesto Soil Stockpiles
-* [[dtsc]]
+* basin-1
+* basin-2
+* basin-3
+* basin-4
+* [[basin-5-clean-fill-sampling-plan]]
+* [[carpenter-road-area]]
+* [[caltrans]]
+* [[department-of-toxic-substances-control]]
+* [[interim-removal-action-completion-report]]
+* [[sr-132]]
+* [[stockpile-1]]

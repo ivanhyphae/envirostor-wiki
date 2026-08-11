@@ -1,0 +1,20 @@
+---
+concept: annual-operations-maintenance-site-inspection-form
+entity_type: deliverable
+aliases: ["Annual O&M Site Inspection Form"]
+sources: ["wiki/sources/Annual Stockpile Inspection Form/Annual Stockpile Inspection Form.md"]
+confidence: high
+created_at: 2026-08-11T00:58:42Z
+---
+
+The [[annual-operations-maintenance-site-inspection-form]] is a document used by Caltrans to record observations during site inspections of the State Route 132 Modesto Soil Stockpiles. These inspections assess various site conditions relevant to the ongoing management and remediation of the stockpiles.
+
+## Site record
+
+The form documents observations related to several site features. For instance, the "North shore of Stockpile #2" was inspected, with accompanying photographic evidence. {{quote: "North shore of Stockpile #2"}} The form also captures details about [[drainage-structures]], noting "Drainage structures, north slope of Stockpile #2" with a corresponding image. {{quote: "Drainage structures, north slope of Stockpile #2"}} Retaining-walls are also a subject of inspection, as indicated by the entry "Retaining wall Stockpile #2" and its associated photograph. {{quote: "Retaining wall Stockpile #2"}} Furthermore, [[pavement-conditions]] are documented, with a specific entry for "Pave surface conditions Stock Pile #1 (looking east)". {{quote: "Pave surface conditions Stock Pile #1 (looking east)"}} The condition of the slopes of the stockpiles is also recorded, with entries such as "North slope Stockpile #1" appearing multiple times with accompanying images. {{quote: "North slope Stockpile #1"}} {{quote: "North slope Stockpile #1"}}
+
+## See also
+* [[drainage-structures]]
+* [[pavement-conditions]]
+* [[retaining-walls]]
+* [[stockpile-cover-integrity]]

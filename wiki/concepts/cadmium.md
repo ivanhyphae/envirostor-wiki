@@ -1,80 +1,118 @@
 ---
 concept: cadmium
 entity_type: concept
-aliases: ["Cd"]
-sources: ["wiki/sources/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313.md"]
+aliases: []
+sources: ["wiki/sources/Caltrans -DTSC Agreement/Caltrans -DTSC Agreement.md", "wiki/sources/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17.md", "wiki/sources/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313.md"]
 confidence: high
-created_at: 2026-07-23T15:07:36Z
+created_at: 2026-08-11T01:00:47Z
 ---
 
 # Cadmium
 
 ## Overview
 
-Cadmium is a heavy metal tracked at the Caltrans Modesto Soil Stockpiles due to early detections in the 2004 Preliminary Site Investigation (PSI) that suggested elevated concentrations at the site. The stockpile material, historically associated with former [[fmc-corporation]] evaporation pond operations, became subject to cadmium investigation as part of the overall site characterization for the SR 132 West Freeway/Expressway Project in Stanislaus County. However, subsequent investigations in 2006 and 2012 failed to reproduce the 2004 results, leading regulatory reviewers and consultants to conclude that cadmium is not a chemical of potential concern (COPC) at this site.
+Cadmium (Cd) is a heavy metal that was investigated at the Caltrans Modesto Soil Stockpiles site due to initial detections in the 2004 Preliminary Site Investigation (PSI). These early findings suggested elevated concentrations within the stockpile material, which is historically associated with former [[fmc-corporation]] evaporation pond operations. However, subsequent investigations in 2006 and 2012 did not replicate these elevated results. Based on the cumulative data, regulatory reviewers and consultants concluded that cadmium is not a chemical of potential concern (COPC) at this site.
 
 ## Site record
 
-### 2004 PSI detections
+### 2004 Preliminary Site Investigation (PSI)
 
-The 2004 PSI by Shaw Environmental, Inc. reported elevated cadmium concentrations exceeding the commercial/industrial California Human Health Screening Levels (CHHSLs) in several stockpile borings. Specifically, cadmium was detected above the industrial CHHSL of 7.5 mg/kg in soil samples from 8 of 25 borings at stockpile-1|Stockpile 2 and in 2 of 10 borings at Stockpile 3. These detections were associated with samples that also exhibited elevated barium concentrations, ranging from 25,800 to 196,000 mg/kg. The analytical laboratory for the 2004 work was Sparger Technology, Inc.
+The 2004 PSI, conducted by Shaw Environmental, Inc., reported cadmium concentrations exceeding the commercial/industrial California Human Health Screening Levels (CHHSLs) in several stockpile borings. Specifically, cadmium was detected above the industrial CHHSL of 7.5 mg/kg in soil samples from 8 of 25 borings in Stockpile 2 and in 2 of 10 borings in Stockpile 3. These detections were associated with samples that also showed elevated [[barium]] concentrations, ranging from 25,800 to 196,000 mg/kg. The analytical laboratory for this work was Sparger Technology, Inc.
 
-### 2006 investigation: no detections
+### 2006 Site Investigation
 
-The 2006 site investigation, also conducted by Shaw, did not detect cadmium at elevated concentrations. As a result, cadmium was not identified as a COPC in the 2007 Human Health Risk Assessment (HHRA). The analytical laboratory for the 2006 data was Creek Environmental Laboratories, Inc.
+A site investigation conducted by Shaw in 2006 did not detect cadmium at elevated concentrations. Consequently, cadmium was not identified as a COPC in the 2007 Human Health Risk Assessment (HHRA). The analytical laboratory for the 2006 data was Creek Environmental Laboratories, Inc.
 
-### 2012 Supplemental Site Investigation
+### 2012 Supplemental Site Investigation (SSI)
 
-The 2012 Supplemental Site Investigation (SSI), performed by Geocon Consultants, Inc. under Project No. S9525-06-44, was designed in part to address the unresolved 2004 cadmium data. The scope explicitly included:
+The 2012 SSI, performed by Geocon-Consultants under Project No. S9525-06-44, included five "Cadmium Borings" (CB1 through CB5) drilled in the vicinity of the elevated cadmium detections reported in the 2004 Shaw PSI. Borings CB1, CB2, and CB3 were located within Stockpile 2, and borings CB4 and CB5 were within Stockpile 3. These borings reached maximum depths between 11 and 22 feet. Surface samples (0.0–0.5 feet) and samples from approximate 5-foot intervals were analyzed for barium and cadmium using EPA Test Method 6010B by the laboratory ATL.
 
-- **Five Cadmium Borings** (CB1 through CB5) drilled "in the vicinity of elevated cadmium detections reported during the Shaw 2004 PSI." Borings CB1, CB2, and CB3 were placed within Stockpile 2; borings CB4 and CB5 were placed within Stockpile 3.
-- These borings reached maximum depths between 11 and 22 feet.
-- Surface samples (0.0–0.5 feet) and approximate 5-foot interval samples were analyzed for barium and cadmium using EPA Test Method 6010B by the laboratory ATL.
+In the 2012 SSI, cadmium was not detected at concentrations greater than the laboratory reporting limit (RL) of 1.0 mg/kg in any soil sample from the Cadmium Borings. This included 19 soil samples that reported elevated barium concentrations between 25,000 mg/kg and 130,000 mg/kg.
 
-**Results:** Cadmium was not detected at concentrations greater than the laboratory reporting limit (RL) of 1.0 mg/kg in any soil sample from the Cadmium Borings. This includes 19 soil samples that had reported elevated barium concentrations between 25,000 mg/kg and 130,000 mg/kg.
+### Cumulative Data and False Positive Determination
 
-### Cumulative data and false positive determination
+Across the three investigations (2004, 2006, and 2012), a total of 348 soil samples were analyzed for cadmium by three different laboratories. Only the 2004 data from Sparger Technology, Inc. reported elevated cadmium concentrations. The 2006 and 2012 results were consistently below the reporting limit of 1.0 mg/kg. The SSI report concluded:
+{{quote: "Based on the cumulative cadmium data, it appears the Shaw 2004 cadmium data is not reproducible nor reliable and represents false positives possibly as result of sample interference/dilution effects due to the associated high barium concentrations."}}
+{{source: wiki/sources/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313.md}}
 
-Across the three investigations, 348 soil samples were analyzed for cadmium by three different laboratories. Only the 2004 Sparger Technology data reported elevated cadmium. The 2006 and 2012 results were uniformly non-detect at RL ≤ 1.0 mg/kg. The SSI report states:
+### Fenceline and Perimeter Borings
 
-> "Based on the cumulative cadmium data, it appears the Shaw 2004 cadmium data is not reproducible nor reliable and represents false positives possibly as result of sample interference/dilution effects due to the associated high barium concentrations."
+Cadmium was analyzed in all Fenceline and Perimeter Boring soil samples collected in 2012. All results were below the laboratory reporting limit of 1.0 mg/kg. No cadmium exceedances of the residential CHHSL (1.7 mg/kg) were identified at any fenceline or perimeter location adjacent to residential or commercial/industrial properties.
 
-### Fenceline and perimeter borings
+### Laboratory Quality Control (2012 SSI)
 
-Cadmium was analyzed in all Fenceline and Perimeter Boring soil samples collected in 2012. All results were below the reporting limit of 1.0 mg/kg. No cadmium exceedances of the residential CHHSL (1.7 mg/kg) were identified at any fenceline or perimeter location adjacent to residential or commercial/industrial properties.
-
-### Laboratory quality control
-
-Quality control data from the 2012 SSI for EPA Method 6010B (ICP-AES) included analysis of method blanks, laboratory control samples (LCS), and matrix spikes across multiple analytical batches (B2J0068 through B2J0083). All LCS recoveries for cadmium fell within acceptance limits (80–120%). No cadmium was detected in any method blank. The reporting limit for cadmium was 1.0 mg/kg across all batches.
+Quality control data for the 2012 SSI, using EPA Method 6010B (ICP-AES), included analysis of method blanks, laboratory control samples (LCS), and matrix spikes. All LCS recoveries for cadmium fell within acceptance limits (80–120%). Cadmium was not detected in any method blank. The reporting limit for cadmium was 1.0 mg/kg across all analytical batches.
+{{quote: "Batch B2J0068 - EPA 3050B ... Blank (B2J0068-BLK1) ... ND 1.0 NR ... Cadmium ... LCS (B2J0068-BS1) ... 95.4 80 - 120 Cadmium"}}
+{{source: wiki/sources/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313.md}}
+{{quote: "Batch B2J0069 - EPA 3050B ... Blank (B2J0069-BLK1) ... ND 1.0 NR ... Cadmium ... LCS (B2J0069-BS1) ... 95.6 80 - 120 Cadmium"}}
+{{source: wiki/sources/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313.md}}
+{{quote: "Batch B2J0070 - EPA 3050B ... Blank (B2J0070-BLK1) ... ND 1.0 NR ... Cadmium ... LCS (B2J0070-BS1) ... 91.7 80 - 120 Cadmium"}}
+{{source: wiki/sources/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313.md}}
+{{quote: "Batch B2J0071 - EPA 3050B ... Blank (B2J0071-BLK1) ... ND 1.0 NR ... Cadmium ... LCS (B2J0071-BS1) ... 90.2 80 - 120 Cadmium"}}
+{{source: wiki/sources/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313.md}}
+{{quote: "Batch B2J0072 - EPA 3050B ... Blank (B2J0072-BLK1) ... ND 1.0 NR ... Cadmium ... LCS (B2J0072-BS1) ... 90.8 80 - 120 Cadmium"}}
+{{source: wiki/sources/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313.md}}
+{{quote: "Batch B2J0073 - EPA 3050B ... Blank (B2J0073-BLK1) ... ND 1.0 NR ... Cadmium ... LCS (B2J0073-BS1) ... 90.9 80 - 120 Cadmium"}}
+{{source: wiki/sources/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313.md}}
+{{quote: "Batch B2J0077 - EPA 3050B ... Blank (B2J0077-BLK1) ... ND 1.0 NR ... Cadmium ... LCS (B2J0077-BS1) ... 90.6 80 - 120 Cadmium"}}
+{{source: wiki/sources/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313.md}}
+{{quote: "Batch B2J0078 - EPA 3050B ... Blank (B2J0078-BLK1) ... ND 1.0 NR ... Cadmium ... LCS (B2J0078-BS1) ... 90.0 80 - 120 Cadmium"}}
+{{source: wiki/sources/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313.md}}
+{{quote: "Batch B2J0079 - EPA 3050B ... Blank (B2J0079-BLK1) ... ND 1.0 NR ... Cadmium ... LCS (B2J0079-BS1) ... 90.0 80 - 120 Cadmium"}}
+{{source: wiki/sources/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313.md}}
+{{quote: "Batch B2J0080 - EPA 3050B ... Blank (B2J0080-BLK1) ... ND NR ... Cadmium"}}
+{{source: wiki/sources/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313.md}}
+{{quote: "Batch B2J0081 - EPA 3050B ... Blank (B2J0081-BLK1) ... ND 1.0 NR ... Cadmium ... LCS (B2J0081-BS1) ... 87.3 80 - 120 Cadmium"}}
+{{source: wiki/sources/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313.md}}
+{{quote: "Batch B2J0082 - EPA 3050B ... Blank (B2J0082-BLK1) ... ND 1.0 NR ... Cadmium ... LCS (B2J0082-BS1) ... 88.3 80 - 120 Cadmium"}}
+{{source: wiki/sources/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313.md}}
+{{quote: "Batch B2J0083 - EPA 3050B ... Blank (B2J0083-BLK1) ... ND 1.0 NR ... Cadmium ... LCS (B2J0083-BS1) ... 88.8 80 - 120 Cadmium"}}
+{{source: wiki/sources/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313.md}}
 
 ## Regulatory status
 
-### COPC status
+### COPC Status
 
-At the November 16, 2012, regulatory project meeting attended by representatives of Caltrans, DTSC, CVRWQCB, and Geocon, the following determination was made:
+At a regulatory project meeting on November 16, 2012, representatives from Caltrans, the Department-of-Toxic-Substances-Control (DTSC), the Central Valley Regional Water Quality Control Board (CVRWQCB), and Geocon determined that cadmium is not a COPC for the project site. This decision was based on reported cadmium concentrations below the residential CHHSL of 1.7 mg/kg in all soil samples from the Fenceline and Cadmium Borings.
+{{quote: "Based on reported cadmium concentrations below the residential CHHSL of 1.7 mg/kg in all of the soil samples obtained from the Fenceline and Cadmium Borings, cadmium is not considered a COPC for the project site."}}
+{{source: wiki/sources/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313.md}}
 
-> "Based on reported cadmium concentrations below the residential CHHSL of 1.7 mg/kg in all of the soil samples obtained from the Fenceline and Cadmium Borings, cadmium is not considered a COPC for the project site."
+### DTSC Concurrence
 
-### DTSC concurrence
+The DTSC, in a review comment letter dated February 14, 2013, from Randy S. Adams, C.E.G., requested clarification on a reported cadmium detection in a 2012 surface soil sample and its relation to the Cadmium Borings. The SSI report was revised to clarify that cadmium was not detected above residential CHHSLs in the Cadmium Borings and that the cumulative data supported the interpretation of the 2004 data as false positives.
+{{quote: "Please include a discussion on this result with respect to Cadmium Borings. Refer to DTSC comments in Section 2.3, Previous Environmental Site Investigations."}}
+{{source: wiki/sources/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313.md}}
 
-The DTSC, in its review comments provided by Randy S. Adams, C.E.G., Senior Engineering Geologist, on February 14, 2013, addressed cadmium directly:
+### Human Health Risk Assessment (HHRA)
 
-> "Cadmium is referenced as being detected in one 2012 surface soil sampling location. Please include a discussion on this result with respect to Cadmium Borings. Refer to DTSC comments in Section 2.3, Previous Environmental Site Investigations."
-
-The SSI report was subsequently revised to clarify that cadmium was not detected above residential CHHSLs in the Cadmium Borings and that the cumulative evidence supports a false-positive interpretation of the 2004 data.
-
-### Human Health Risk Assessment
-
-The 2007 HHRA did not identify cadmium as a COPC. The DTSC's December 17, 2009, letter further confirmed that the soil stockpiles, as currently managed, do not pose a risk to human health for Caltrans workers, trespassers, or adjacent residents, provided site management conditions are maintained. Cadmium is not a limiting factor in this determination.
+The 2007 HHRA did not identify cadmium as a COPC. The DTSC's letter dated December 17, 2009, confirmed that the soil stockpiles, as managed, do not pose a risk to human health for Caltrans workers, trespassers, or adjacent residents, provided site management conditions are maintained. Cadmium was not a limiting factor in this determination.
+{{quote: "DTSC finds that the soil stockpiles, as currently managed by Caltrans on Caltrans property, do not pose a risk to human health for: 1) Caltrans workers who access the fenced site to conduct mowing operations, conduct fence repairs, or other routine activities; 2) trespassers; and 3) residents adjacent to the stockpiles."}}
+{{source: wiki/sources/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313.md}}
 
 ## Open items
 
-No open items specific to cadmium remain as of the 2012 SSI and subsequent regulatory review. The consensus position is that cadmium is not a COPC at the site and requires no further investigation or remedial action.
+No open items specific to cadmium remain. The consensus among project stakeholders is that cadmium is not a COPC and requires no further investigation or remedial action.
 
 ## See also
 
-- [[caltrans-district-6]]
+- [[barium]]
+- calcium
+- [[chromium]]
+- [[chromium-vi]]
+- [[department-of-toxic-substances-control]]
+- [[dissolved-metals]]
 - [[fmc-corporation]]
+- [[geocon-consultants]]
+- [[lead]]
+- [[manganese]]
+- [[nitrate]]
 - [[nickel]]
+- petroleum-hydrocarbons
+- polycyclic-aromatic-hydrocarbons
 - [[stockpile-1]]
+- stockpile-2
+- stockpile-3
 - [[supplemental-site-investigation-report]]
+- thallium
+- [[vanadium]]
+- [[zinc]]

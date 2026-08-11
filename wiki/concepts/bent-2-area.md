@@ -1,40 +1,32 @@
 ---
 concept: bent-2-area
 entity_type: concept
-aliases: ["Bent 2 area"]
-sources: []
-confidence: low
-created_at: 2026-07-23T14:41:47Z
+aliases: ["Bent 2", "Bent 2 excavation", "Bent 2 overcrossing structure"]
+sources: ["Bent 2 Stockpiles Tech Memo", "wiki/sources/Caltrans -DTSC Agreement/Caltrans -DTSC Agreement.md", "wiki/sources/E-mail Acceptance of Bent 2 Soils Tech Memo/E-mail Acceptance of Bent 2 Soils Tech Memo.md"]
+confidence: high
+created_at: 2026-08-11T00:58:54Z
 ---
 
-# Bent 2 Area
-
 ## Overview
-The Bent 2 Area is the designated project area surrounding bridge Bent 2 on the State Route 132 realignment project in Modesto, Stanislaus County, California. Soil stockpiles generated during construction activities in this area were investigated as part of the Caltrans soil stockpile remediation effort due to the presence of aerially deposited lead (ADL) from historical vehicle emissions when leaded gasoline was in use.
+The Bent 2 Area refers to soils excavated from the vicinity of bridge Bent 2 during the [[sr-132]] realignment project in Modesto, Stanislaus County, California. These soils were characterized for potential reuse as clean cap material. The [[department-of-toxic-substances-control]] (DTSC) and the Water Board (WB) reviewed the characterization data and agreed to allow the use of these soils on top of [[stockpile-1]] under specific conditions.
 
 ## Site record
-The Bent 2 Area stockpile investigation is documented in the *Phase 1 Soil Stockpile Investigation Report, State Route 132, Stanislaus County* (Caltrans, January 2020). As a bridge structure location, the Bent 2 Area was historically subject to ADL deposition from traffic on the original SR 132 alignment. Soils excavated during foundation and structural work at Bent 2 were segregated and stockpiled pending characterization.
+Soils excavated from the Bent 2 Area were characterized in a Technical Memorandum dated October 30, 2020. The analytical results indicated that these soils did not meet the clean cap criteria established in the April 9, 2020 [[variance-to-remedial-design-implementation-plan]]. However, DTSC and the WB agreed that the Bent 2 soils could be placed on top of [[stockpile-1]] at a thickness of 6 inches or less, provided they were covered with clean base material and the roadway asphalt/concrete. This decision was made to allow for the efficient use of the Bent 2 soil while maintaining the integrity of the remedy.
 
-### Sampling results
-Composite sampling of the Bent 2 Area stockpile was conducted in accordance with the project sampling and analysis plan. Analytical results for total lead, as reported in the Phase 1 investigation, are summarized below. The California Human Health Screening Level (CHHSL) for lead in soil at residential land use is 80 mg/kg; the commercial/industrial CHHSL is 320 mg/kg (CalEPA, 2009, as referenced in the project decision documents).
+Due to the project schedule, it was understood that the Bent 2 soils might be temporarily exposed to the elements during the winter months. To mitigate potential impacts, it was deemed very important that the rainy season surface water sampling effort and the erosion control measures outlined in the Revised Stormwater Prevention Plan (SWPPP) Amendment dated October 22, 2020, be followed strictly. These measures were intended to ensure contaminants remained on site and did not impact the surrounding area.
 
-Concentrations reported for the Bent 2 stockpile composite samples were below applicable project thresholds. No exceedances of the 80 mg/kg residential CHHSL for lead were documented in the Bent 2 Area stockpile samples.
-
-### Verification testing
-Following the stockpile characterization, verification sampling was performed. Results confirmed that lead concentrations in the Bent 2 Area stockpile remained below the applicable screening levels. The Bent 2 Area stockpile was designated as non-hazardous and suitable for reuse.
+The characterization of excavated Bent 2 soils for use as clean cap material was communicated via email. Richard Stewart of [[caltrans]] sent a technical memo to DTSC and the Water Board on November 2, 2020, stating that the soils exceeded the background criteria for use as clean cap cover material. {{quote: "Please see the attached technical memo for your review and comment. Based on the analytical results, the soils from the Bent 2 column excavation exceed the background criteria for use of the soil as clean cap cover material."}}
 
 ## Regulatory status
-The California Department of Toxic Substances Control (DTSC) provided regulatory oversight for the soil stockpile investigation under a Voluntary Cleanup Program (VCP) agreement with Caltrans. DTSC concurred with the characterization approach in correspondence dated in the project record. The Bent 2 Area stockpile was cleared for reuse on-site or at other Caltrans project locations in accordance with DTSC-approved stockpile management protocols.
-
-No further action was required for the Bent 2 stockpile based on demonstrated compliance with applicable CHHSLs.
+The DTSC and the Water Board officially accepted the Technical Memorandum regarding the use of Bent 2 excavation soil as clean cap material, and the Revised SWPPP Amendment, via an email dated November 6, 2020. {{quote: "This e-mail serves as DTSCs official acceptance of the Tech Memo and Revised SWPPP Amendment."}} The acceptance was contingent upon the specified conditions for placement and cover, as well as adherence to stormwater and erosion control measures.
 
 ## Open items
-
-- **Unverified sourcing (flagged 2026-08-10)**: This article cites `sources: []` — no source document is on record for its claims. Content should be treated as unverified until the article is regenerated with proper source grounding.
-No unresolved issues or pending deliverables specific to the Bent 2 Area stockpile are documented in the project record.
+No unresolved issues or pending deliverables specific to the Bent 2 Area stockpile are documented in the provided sources.
 
 ## See also
-- SR 132 Modesto Realignment Project
-- Aerially Deposited Lead
-- Phase 1 Soil Stockpile Investigation (2019–2020)
-- DTSC Voluntary Cleanup Program oversight
+- [[department-of-toxic-substances-control]]
+- [[caltrans]]
+- [[richard-stewart]]
+- [[stockpile-1]]
+- [[variance-to-remedial-design-implementation-plan]]
+- [[sr-132]]

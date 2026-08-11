@@ -1,17 +1,17 @@
 ---
 concept: lead
 entity_type: contaminant
-aliases: ["ADL", "aerially-deposited-lead"]
-sources: ["wiki/sources/Caltrans Ramp Clarification Letter dated 8.24.12 /Caltrans Ramp Clarification Letter dated 8.24.12 .md", "wiki/sources/Draft Interim RACR_Text_Figures_Tables_ App A-C/Draft Interim RACR_Text_Figures_Tables_ App A-C.md", "wiki/sources/SR 132 Public Notice English_/SR 132 Public Notice English_.md", "wiki/sources/SR 132 Stockpile 2 BCS Removal Tech Memo/SR 132 Stockpile 2 BCS Removal Tech Memo.md", "wiki/sources/SR 132 Stockpile 3 BCS Removal Tech Memo/SR 132 Stockpile 3 BCS Removal Tech Memo.md", "wiki/sources/SR_132_DEIR_EA/SR_132_DEIR_EA.md", "wiki/sources/SR_132_DEIR_EA_Append_G-J/SR_132_DEIR_EA_Append_G-J.md", "wiki/sources/State Route 132 RAP Approval PN (FINAL 2-21-18)/State Route 132 RAP Approval PN (FINAL 2-21-18).md"]
+aliases: ["ADL", "Pb", "aerially-deposited-lead", "aerial‑deposited lead (ADL)", "lead", "lead (Pb)"]
+sources: ["03.01.2012 SR 132 west Expressway Followup5_srb.RA/03.01.2012 SR 132 west Expressway Followup5_srb.RA.md", "06A2542ct_to97_SurfaceWaterLetter_final.20230328/06A2542ct_to97_SurfaceWaterLetter_final.20230328.md", "08.30.2012 Caltrans Ramp5_srb RAdocx_srb 8_15_12_JS081612 RA4/08.30.2012 Caltrans Ramp5_srb RAdocx_srb 8_15_12_JS081612 RA4.md", "Approval Letter Stockpile 2 Spoils Workplan (900259)", "Approval of GW Statistical Evaluation (900259)", "wiki/sources/132Stockpile Fact SheetModestoDTSC117 (2-2-17).md", "wiki/sources/3.15.2018 - Caltrans Modesto SOF/3.15.2018 - Caltrans Modesto SOF.md", "wiki/sources/Appendix C - 100% Design Plans/Appendix C - 100% Design Plans.md", "wiki/sources/Caltrans -DTSC Agreement/Caltrans -DTSC Agreement.md", "wiki/sources/Draft Interim RACR_Text_Figures_Tables_ App A-C/Draft Interim RACR_Text_Figures_Tables_ App A-C.md", "wiki/sources/GND Water Monitoring Rpt March 2102/GND Water Monitoring Rpt March 2102.md", "wiki/sources/HearingSummaryReport_SR132 6.21.17 rdcd sz/HearingSummaryReport_SR132 6.21.17 rdcd sz.md", "wiki/sources/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17.md", "wiki/sources/S9525-01-44B Caltrans Modesto Stockpiles GW March 2013 0513/S9525-01-44B Caltrans Modesto Stockpiles GW March 2013 0513.md", "wiki/sources/S9525-01-44B Modesto Stockpiles GW June 2013.0613/S9525-01-44B Modesto Stockpiles GW June 2013.0613.md", "wiki/sources/S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112/S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.md", "wiki/sources/S9525-06-44A Caltrans Modesto Stockpiles GW 0213/S9525-06-44A Caltrans Modesto Stockpiles GW 0213.md", "wiki/sources/S9800-01-17 Caltrans Modesto Stockpiles GW_06.15/S9800-01-17 Caltrans Modesto Stockpiles GW_06.15.md", "wiki/sources/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.md", "wiki/sources/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan.Revised_10.14/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan.Revised_10.14.md", "wiki/sources/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814.md", "wiki/sources/S9800-01-17A Caltrans Modesto Stockpiles GW_06 16/S9800-01-17A Caltrans Modesto Stockpiles GW_06 16.md", "wiki/sources/SR 132 Public Notice English_/SR 132 Public Notice English_.md", "wiki/sources/SR 132 Stockpile 2 BCS Removal Tech Memo/SR 132 Stockpile 2 BCS Removal Tech Memo.md", "wiki/sources/SR_132_DEIR_EA/SR_132_DEIR_EA.md", "wiki/sources/State Route 132 RAP Approval PN (FINAL 2-21-18)/State Route 132 RAP Approval PN (FINAL 2-21-18).md"]
 confidence: high
-created_at: 2026-08-11T00:33:10Z
+created_at: 2026-08-11T00:56:10Z
 ---
 
 # Lead
 
 ## Overview
 
-Lead (Pb) is identified as a contaminant of concern at the [[caltrans]] Modesto Soil Stockpiles site, located along [[sr-132]] (SR 132) in Stanislaus County, California. Its presence has been documented in soil stockpiles and, to a lesser extent, in groundwater. Remedial actions and monitoring efforts have addressed lead concentrations in relation to site-specific cleanup goals and regulatory standards.
+Lead (Pb) is identified as a contaminant of potential concern (COPC) at the [[caltrans]] Modesto Soil Stockpiles site, located along [[sr-132]] in Stanislaus County, California. It has been detected in soil stockpiles and, at lower concentrations, in groundwater. Remedial actions and monitoring efforts have addressed lead concentrations in relation to site-specific cleanup goals and regulatory standards.
 
 ## Site record
 
@@ -19,7 +19,7 @@ Lead has been detected in soil samples from the Modesto Soil Stockpiles. For ins
 
 During the excavation and removal of Stockpile 3 in 2012, air monitoring indicated that airborne levels of lead were well below regulatory thresholds. {{quote: "The results of air monitoring completed during the BCS Stockpile 3 remedial excavation activities indicated that airborne levels of barium and lead were well below regulatory thresholds."}}
 
-In the context of the SR 132 West Project, lead was a COPC (Chemical of Potential Concern) in the soil stockpiles. The Remedial Design Implementation Plan (RDIP) provided a soil excavation verification threshold for lead of 80 mg/kg, based on the DTSC residential screening level. {{quote: "Lead - 80 mg/kg based on DTSC residential screening level"}}
+In the context of the SR 132 West Project, lead was a COPC in the soil stockpiles. The Remedial Design Implementation Plan (RDIP) provided a soil excavation verification threshold for lead of 80 mg/kg, based on the DTSC residential screening level. {{quote: "Lead - 80 mg/kg based on DTSC residential screening level"}}
 
 During the removal and placement of Stockpile 3 BCS material between February and March 2020, verification soil samples showed lead concentrations ranging from 1.6 to 40 mg/kg, which were below the RDIP verification threshold of 80 mg/kg. {{quote: "Barium concentrations ranged from 46 to 970 mg/kg, and lead concentrations from 1.6 to 40 mg/kg."}}
 
@@ -58,3 +58,4 @@ Quarterly groundwater monitoring is ongoing, which includes monitoring for lead.
 - stockpile-2
 - stockpile-3
 - [[strontium]]
+- [[department-of-toxic-substances-control]]

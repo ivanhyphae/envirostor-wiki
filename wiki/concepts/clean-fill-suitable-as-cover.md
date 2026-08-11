@@ -1,13 +1,13 @@
 ---
 concept: clean-fill-suitable-as-cover
 entity_type: claim
-aliases: ["suitable as cover", "suitable for embankment/capping"]
-sources: ["wiki/sources/E-mail Acceptance of Bent 2 Soils Tech Memo/E-mail Acceptance of Bent 2 Soils Tech Memo.md", "wiki/sources/E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo/E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo.md", "wiki/sources/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo.md", "wiki/sources/Stockpile 1 MSE Wall Sampling Tech Memo/Stockpile 1 MSE Wall Sampling Tech Memo.md"]
+aliases: []
+sources: ["Borrow Area Sampling Plan", "wiki/sources/3.15.2018 - Caltrans Modesto SOF/3.15.2018 - Caltrans Modesto SOF.md", "wiki/sources/Carpenter Shoofly Area Clean Fill Sampling Plan/Carpenter Shoofly Area Clean Fill Sampling Plan.md", "wiki/sources/S9650-06-03 MODESTO RAMP WORKPLAN.0412/S9650-06-03 MODESTO RAMP WORKPLAN.0412.md", "wiki/sources/Stockpile 1 MSE Wall Sampling Tech Memo/Stockpile 1 MSE Wall Sampling Tech Memo.md"]
 confidence: high
-created_at: 2026-08-11T00:33:00Z
+created_at: 2026-08-11T00:56:58Z
 ---
 
-{{quote: "clean fill suitable as cover"}} is soil material proposed for use as capping material over the BCS stockpile along the State Route 132 corridor in Stanislaus County, California. The material is planned to be sourced from the upper five feet of native soil along the Highway 132 alignment, extending eastward from the Carpenter Road area. The source parcel has been in State right-of-way since the 1960s, with prior agricultural use.
+{{quote: "clean fill suitable as cover"}} refers to soil material proposed for use as capping material over the BCS stockpile along the State Route 132 corridor in Stanislaus County, California. The material is planned to be sourced from the upper five feet of native soil along the Highway 132 alignment, extending eastward from the Carpenter Road area. The source parcel has been in State right-of-way since the 1960s, with prior agricultural use.
 
 The concept was formalized in correspondence between [[caltrans]] and the [[department-of-toxic-substances-control]] (DTSC) in February 2020, when [[geocon-consultants]] submitted a sampling plan to characterize the proposed borrow area and demonstrate the material's suitability for use as clean fill cover.
 
@@ -56,6 +56,8 @@ For Stockpile 2 MSE wall footing soil, material down to 3 feet bgs was required 
 - [[central-valley-rwqcb]]
 - [[department-of-toxic-substances-control]]
 - [[mechanically-stabilized-earth-wall]]
+- [[sr-132]]
 - [[stockpile-1]]
+- [[barium]]
 - [[barium-containing-soil]]
 - stockpile-2

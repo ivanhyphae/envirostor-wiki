@@ -1,21 +1,21 @@
 ---
 concept: public-resources-code
 entity_type: concept
-aliases: ["PRC"]
-sources: ["opr25@opr.ca.gov_20180319_135531.md"]
+aliases: []
+sources: ["wiki/sources/Caltrans -DTSC Agreement/Caltrans -DTSC Agreement.md"]
 confidence: high
-created_at: 2026-08-11T00:35:15Z
+created_at: 2026-08-11T00:59:41Z
 ---
 
-The [[public-resources-code]] is a body of California state law that governs the management and protection of the state's natural resources. In the context of the [[modesto-soil-stockpiles-project]], it is relevant to the environmental review and permitting processes.
+The [[public-resources-code]] is a California state statute that governs the management and protection of the state's natural resources. Within the context of the [[modesto-soil-stockpiles-project]], it is relevant as the statutory basis for the [[california-environmental-quality-act]] (CEQA), which mandates environmental review for projects that may have a significant impact on the environment.
 
 ## Site record
 
-The [[public-resources-code]] is referenced in relation to the [[california-environmental-quality-act]] (CEQA) process for the Modesto Soil Stockpiles Project. Specifically, the project's environmental review was conducted under CEQA, which is codified within the [[public-resources-code]]. The project sought to address soil contamination at the site, which involved the excavation and off-site disposal of contaminated soil. The environmental review process, mandated by CEQA, determined that the project would not have a significant effect on the environment, leading to the filing of a Notice of Determination.
+The [[public-resources-code]] is the statutory foundation for the [[california-environmental-quality-act]] (CEQA) process undertaken for the Modesto Soil Stockpiles Project. This project involved addressing soil contamination through excavation and off-site disposal. The CEQA review, mandated by the [[public-resources-code]], determined that the project would not result in a significant effect on the environment, leading to the filing of a [[notice-of-determination]].
 
 ## Regulatory status
 
-The [[public-resources-code]] mandates the environmental review process for projects that may have a significant impact on the environment. For the Modesto Soil Stockpiles Project, this meant compliance with CEQA requirements, including the preparation of an Environmental Impact Report or an Environmental Assessment. The project's determination of No Significant Effect on the Environment allowed for a streamlined CEQA process, culminating in the filing of a Notice of Determination. The [[dtsc]] (DTSC) also played a role in overseeing the remediation activities, which are subject to various state and federal regulations, including those derived from the [[public-resources-code]].
+The [[public-resources-code]] requires that projects with the potential for significant environmental impacts undergo a formal review process, such as that established by CEQA. For the Modesto Soil Stockpiles Project, this involved compliance with CEQA, which may include the preparation of an [[environmental-impact-report-environmental-assessment]]. The project's outcome of "No Significant Effect on the Environment" allowed for a streamlined CEQA process, culminating in the filing of a [[notice-of-determination]]. The [[department-of-toxic-substances-control]] (DTSC) also played a role in overseeing the remediation activities, which are subject to various state and federal regulations, many of which are derived from or influenced by the [[public-resources-code]].
 
 ## See also
 
@@ -24,6 +24,6 @@ The [[public-resources-code]] mandates the environmental review process for proj
 * [[department-of-toxic-substances-control]]
 * [[environmental-impact-report-environmental-assessment]]
 * [[modesto-soil-stockpiles-project]]
-* [[no-significant-effect-on-the-environment]]
 * [[notice-of-determination]]
 * [[remedial-action-plan]]
+* [[annual-inspection-report]]

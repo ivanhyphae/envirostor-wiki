@@ -1,10 +1,10 @@
 ---
 concept: clean-soil-cover
 entity_type: concept
-aliases: ["clean soil cover"]
-sources: ["wiki/sources/Stockpile 2 Confirmation Sampling Tech Memo Approval/Stockpile 2 Confirmation Sampling Tech Memo Approval.md", "wiki/sources/Stockpile 3 Confirmation Sampling Tech Memo Approval/Stockpile 3 Confirmation Sampling Tech Memo Approval.md"]
+aliases: []
+sources: ["wiki/sources/Carpenter Road Shoofly Clean Fill Tech Memo/Carpenter Road Shoofly Clean Fill Tech Memo.md", "wiki/sources/Stockpile 2 Confirmation Sampling Tech Memo Approval/Stockpile 2 Confirmation Sampling Tech Memo Approval.md"]
 confidence: high
-created_at: 2026-08-11T00:34:39Z
+created_at: 2026-08-11T00:59:31Z
 ---
 
 ## Clean Soil Cover
@@ -19,6 +19,8 @@ For Stockpile 3, a technical memorandum dated March 13, 2020, documented the rem
 
 Following the approval for Stockpile 3, [[caltrans]] requested approval to begin placing a minimum 12-inch clean soil cover and/or a minimum 4-inch thick layer of aggregate base material (AB) on the surfaces of the BCS consolidation zones of Stockpiles 1 and 2. {{quote: "Awaiting your approval to begin the placement of the minimum 12‐inch clean soil cover and/or a minimum 4‐inch thick layer of aggregate base material (AB) on the surfaces of the BCS consolidation zones (including temporary slopes) of Stockpiles 1 and 2."}}
 
+Soil material excavated from the Carpenter Road Shoofly was characterized for its suitability as clean capping material. Twenty-four discrete soil samples were collected and composited into eight 3-part composite samples. Analysis for barium and lead indicated that barium concentrations ranged from 28 to 96 milligrams per kilogram (mg/kg), which are less than the maximum site-specific background value for barium of 120 mg/kg. Lead was detected at concentrations ranging from 1.4 to 3.8 mg/kg, which are less than or equal to the maximum site-specific background concentration for lead of 3.8 mg/kg. Based on these results, the soil material from the Carpenter Road Shoofly meets the BCS clean cap criteria as established in the referenced variance document approved by DTSC. {{quote: "Based on the barium and lead data presented herein, soil material generated from excavation of the Carpenter Road Shoofly meet the BCS clean cap criteria as established in the referenced variance document as approved by DTSC (upperbound background threshold for barium of 120 mg/kg)."}} This material is intended for placement over portions of [[barium-containing-soil]] (BCS) Stockpiles 1 and 2. {{quote: "The contractor plans to use the excavated soil material as clean capping material to be placed over portions of barium containing soil (BCS) Stockpiles 1 and 2 pending California Department of Toxic Substances Control (DTSC) approval."}}
+
 ### Regulatory Status
 The placement of a clean soil cover is contingent upon the successful completion of [[bcs-removal-verification-testing]] and the approval of the relevant technical memorandums by the [[department-of-toxic-substances-control]] (DTSC). The cleanup levels are established in the [[remedial-design-implementation-plan]] (RDIP).
 
@@ -31,3 +33,6 @@ The placement of a clean soil cover is contingent upon the successful completion
 * [[department-of-toxic-substances-control]]
 * [[geocon-consultants]]
 * [[remedial-design-implementation-plan]]
+* [[stockpile-1]]
+* stockpile-2
+* stockpile-3

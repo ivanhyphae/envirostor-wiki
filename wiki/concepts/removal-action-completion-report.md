@@ -1,19 +1,19 @@
 ---
 concept: removal-action-completion-report
 entity_type: deliverable
-aliases: ["Removal Action Completion Report"]
-sources: ["wiki/sources/Stockpile 2 MSE Wall Sampling Tech Memo/Stockpile 2 MSE Wall Sampling Tech Memo.md"]
+aliases: []
+sources: ["wiki/sources/1. SR_132_FEIR_EA_ 20180302 FINAL Main Doc/1. SR_132_FEIR_EA_ 20180302 FINAL Main Doc.md", "wiki/sources/Caltrans -DTSC Agreement/Caltrans -DTSC Agreement.md"]
 confidence: high
-created_at: 2026-08-11T00:34:56Z
+created_at: 2026-08-11T00:57:57Z
 ---
 
 ## Removal Action Completion Report
 
 ### Overview
-The Removal Action Completion Report is a document that will be submitted following the completion of clean fill capping activities for Stockpile 1 and Stockpile 2. It will incorporate findings from soil characterization testing performed during the excavation for a mechanically stabilized earth (MSE) wall footing at Stockpile 2.
+The Removal Action Completion Report is a deliverable documenting the completion of clean fill capping activities for Stockpile 1 and Stockpile 2. It will incorporate findings from soil characterization testing performed during the excavation for a mechanically stabilized earth (MSE) wall footing at Stockpile 2.
 
 ### Site record
-Soil samples were collected from trenches STK2-1 through STK2-7, spaced approximately 200 feet apart, within the mid-point of the planned MSE wall footing excavation. Samples were taken at one-foot intervals to a maximum planned excavation depth of 3 and 5 feet. A total of 29 soil samples were analyzed for barium and lead.
+Soil samples were collected from trenches STK2-1 through STK2-7, spaced approximately 200 feet apart, within the mid-point of the planned MSE wall footing excavation at Stockpile 2. Samples were taken at one-foot intervals to a maximum planned excavation depth of 3 and 5 feet. A total of 29 soil samples were analyzed for barium and lead.
 
 Barium was detected in all 29 samples, with concentrations ranging from 53 to 930 milligrams per kilogram (mg/kg) {{quote: "Barium was detected in each of the 29 soil samples analyzed at concentrations ranging from 53 to 930 milligrams per kilogram (mg/kg)"}}. Fourteen of these samples exceeded the maximum site-specific background value for barium of 120 mg/kg {{quote: "Fourteen of the 29 soil samples contained barium at concentrations greater than the maximum site-specific background value for barium of 120 mg/kg."}}. Thirteen of the samples with elevated barium were from depths between the surface and 3 feet {{quote: "Thirteen of the 14 soil samples with elevated barium concentrations above the maximum background value were collected at depths between the surface and 3 feet."}}. One sample, STK2-7-4, contained 140 mg/kg of barium but was collected deeper than the planned 3-foot excavation depth {{quote: "Sample STK2-7-4 contained a barium concentration of 140 mg/kg, though this sample was collected deeper than the planned footing excavation depth of 3 feet at this location."}}.
 
@@ -33,3 +33,9 @@ The Removal Action Completion Report is pending submission {{quote: "This inform
 - [[mechanically-stabilized-earth-wall]]
 - [[stockpile-1]]
 - [[variance-to-remedial-design-implementation-plan]]
+- [[caltrans]]
+- [[caltrans-district-6]]
+- [[caltrans-division-environmental-analysis]]
+- [[caltrans-modesto-soil-stockpiles]]
+- [[chromium]]
+- [[containment-of-stockpiles]]

@@ -2,12 +2,13 @@
 concept: operation-and-maintenance-agreement
 entity_type: deliverable
 aliases: ["O&M Agreement"]
-sources: ["wiki/sources/Final O and M Agreement with Cover Letter (900259)/Final O and M Agreement with Cover Letter (900259).md", "wiki/sources/Modesto Soil Stockpiles_ Final Recorded LUC/Modesto Soil Stockpiles_ Final Recorded LUC.md"]
+sources: ["wiki/sources/2025 - RE_ Reminder - Annual Inspection Report/2025 - RE_ Reminder - Annual Inspection Report.md", "wiki/sources/Caltrans -DTSC Agreement/Caltrans -DTSC Agreement.md", "wiki/sources/Final O and M Agreement with Cover Letter (900259)/Final O and M Agreement with Cover Letter (900259).md", "wiki/sources/Modesto Soil Stockpiles_ Final Recorded LUC/Modesto Soil Stockpiles_ Final Recorded LUC.md"]
 confidence: high
-created_at: 2026-08-11T00:33:48Z
+created_at: 2026-08-11T00:57:49Z
 ---
 
-The Operation and Maintenance (O&M) Agreement is a formal contract between the Department of Toxic Substances Control (DTSC) and the California Department of Transportation (Caltrans) that outlines the procedures for maintaining the integrity of the installed remedy at the [[modesto-soil-stockpiles-project]]. This agreement is a critical component of the post-remediation phase, ensuring the long-term safety and effectiveness of the cleanup actions. The O&M Agreement is entered into pursuant to California Health and Safety Code sections 25355.5(a)(1)(C) and/or 25187.
+## Overview
+The Operation and Maintenance (O&M) Agreement is a formal contract between the [[department-of-toxic-substances-control]] (DTSC) and the [[caltrans]] that establishes the procedures for maintaining the integrity of the installed remedy at the [[modesto-soil-stockpiles-project]]. This agreement is a crucial component of the post-remediation phase, ensuring the long-term safety and effectiveness of the cleanup actions. The O&M Agreement is entered into pursuant to California Health and Safety Code sections 25355.5(a)(1)(C) and/or 25187.
 
 ## Site Record
 
@@ -27,11 +28,15 @@ The O&M Agreement is entered into by DTSC and Caltrans under the authority of Ca
 
 ## Open Items
 
-The O&M Agreement is a prerequisite for the recording of the Land Use Covenant (LUC) on the remediated area. {{quote: "The next project task will be recording the Land Use Covenant (LUC) on the remediated area to restrict its use."}} DTSC indicated they would send a draft of the LUC for Caltrans' review and signature within several weeks following the O&M Agreement. {{quote: "DTSC will send a draft of the LUC for your review and signature within the next several weeks."}}
+The O&M Agreement is a prerequisite for the recording of the [[land-use-covenant]] on the remediated area. {{quote: "The next project task will be recording the Land Use Covenant (LUC) on the remediated area to restrict its use."}} DTSC indicated they would send a draft of the LUC for Caltrans' review and signature within several weeks following the O&M Agreement. {{quote: "DTSC will send a draft of the LUC for your review and signature within the next several weeks."}}
 
 ## See Also
 
 * [[modesto-soil-stockpiles-project]]
 * [[sr-132-west-expressway-phase-1]]
 * [[land-use-covenant]]
-* [[operations-and-maintenance-plan]]
+* [[oandm-plan]]
+* [[caltrans]]
+* [[department-of-toxic-substances-control]]
+* [[caltrans-district-6]]
+* [[geocon-consultants]]

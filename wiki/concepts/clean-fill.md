@@ -1,11 +1,13 @@
 ---
 concept: clean-fill
 entity_type: concept
-aliases: ["clean cap material", "clean capping material"]
-sources: ["wiki/sources/Caltrans Modesto Soil Stcokpiles RDIP Variance/Caltrans Modesto Soil Stcokpiles RDIP Variance.md", "wiki/sources/Carpenter Road Shoofly Clean Fill Tech Memo/Carpenter Road Shoofly Clean Fill Tech Memo.md", "wiki/sources/Carpenter Shoofly Area Clean Fill Sampling Plan/Carpenter Shoofly Area Clean Fill Sampling Plan.md", "wiki/sources/E-mail Acceptance of Bent 2 Soils Tech Memo/E-mail Acceptance of Bent 2 Soils Tech Memo.md", "wiki/sources/E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo/E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo.md", "wiki/sources/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo.md"]
+aliases: ["clean fill/cover"]
+sources: ["Basin 5 Clean Fill Sampling Plan", "Borrow Area Sampling Plan", "wiki/sources/3.15.2018 - Caltrans Modesto SOF/3.15.2018 - Caltrans Modesto SOF.md"]
 confidence: high
-created_at: 2026-08-11T00:32:57Z
+created_at: 2026-08-11T00:56:56Z
 ---
+
+# Clean Fill
 
 ## Overview
 In the context of the [[sr-132]] project in Stanislaus County, "clean fill" refers to native soil excavated from specific areas within the State right-of-way that is suitable for use as cover material for the [[bcs-stockpile]]. This material is intended to cap consolidated barium-containing soil (BCS) within Stockpiles 1 and 2. The primary source areas identified and evaluated for clean fill include land within the SR 132 right-of-way between Carpenter Road and Rosemore Avenue, and soil generated from mechanically stabilized earth (MSE) wall footing excavations.
@@ -44,3 +46,6 @@ The contractor planned to schedule field work for borings pending contract autho
 *   [[mechanically-stabilized-earth-wall]]
 *   [[sr-132]]
 *   [[stockpile-1]]
+*   [[barium-containing-soil]]
+*   [[carpenter-road-area]]
+*   [[sampling-plan]]

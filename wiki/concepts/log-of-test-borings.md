@@ -1,10 +1,10 @@
 ---
 concept: log-of-test-borings
-entity_type: deliverable
-aliases: ["LOTB"]
-sources: ["wiki/sources/LOTB-N Carpenter OC/LOTB-N Carpenter OC.md"]
+entity_type: concept
+aliases: ["Log of Test Borings"]
+sources: ["wiki/sources/Caltrans -DTSC Agreement/Caltrans -DTSC Agreement.md", "wiki/sources/LOTB-N Carpenter OC/LOTB-N Carpenter OC.md"]
 confidence: high
-created_at: 2026-08-11T00:33:55Z
+created_at: 2026-08-11T01:00:07Z
 ---
 
 The Log of Test Borings (LOTB) for the [[north-carpenter-road-overcrossing]] project documents subsurface soil conditions encountered during geotechnical investigations. These logs provide critical data for understanding the stratigraphy and engineering properties of the soil at the project site, which is relevant to the Caltrans Modesto Soil Stockpiles remediation case file.
@@ -15,3 +15,10 @@ The LOTB for the North Carpenter Road Overcrossing project, dated February 13, 2
 
 ## See also
 * [[north-carpenter-road-overcrossing]]
+* [[sr-132]]
+* [[sr-99]]
+* [[a-17-086]]
+* [[annual-inspection-report]]
+* [[annual-o-and-m-inspection-report]]
+* [[arsenic]]
+* [[barium]]

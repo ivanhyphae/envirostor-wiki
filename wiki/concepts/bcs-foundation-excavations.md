@@ -1,10 +1,10 @@
 ---
 concept: bcs-foundation-excavations
 entity_type: concept
-aliases: ["foundation excavations"]
-sources: ["wiki/sources/Stockpile 2 BCS Foundation Spoil Workplan Tech Memo/Stockpile 2 BCS Foundation Spoil Workplan Tech Memo.md"]
+aliases: []
+sources: ["wiki/sources/1. SR_132_FEIR_EA_ 20180302 FINAL Main Doc/1. SR_132_FEIR_EA_ 20180302 FINAL Main Doc.md", "wiki/sources/Caltrans Modesto Soil Stcokpiles RDIP Variance/Caltrans Modesto Soil Stcokpiles RDIP Variance.md"]
 confidence: high
-created_at: 2026-08-11T00:34:50Z
+created_at: 2026-08-11T00:56:25Z
 ---
 
 ## Bcs Foundation Excavations
@@ -13,7 +13,7 @@ Barium-containing soil (BCS) spoils were generated from foundation excavations f
 
 ## Site Record
 
-Excavations for the [[weather-station-foundation-slab-anchor]] were completed in July/August 2021, generating approximately 2 cubic yards of BCS material. This material was spread on the adjacent ground surface. A planned excavation for the [[overhead-sign-1-foundation-excavation]] was projected to generate approximately 18.2 cubic yards of BCS material. The combined BCS material from both foundation excavations was conservatively estimated at 40 cubic yards.
+Excavations for the [[weather-station-foundation-slab-anchor]] were completed in July/August 2021, generating approximately 2 cubic yards of BCS material. This material was spread on the adjacent ground surface. A planned excavation for the [[overhead-sign-1-foundation-excavation]] was projected to generate approximately 18.2 cubic yards of BCS material. The combined BCS material from both foundation excavations was conservatively estimated at 40 cubic yards. {{quote: "The combined BCS material from both foundation excavations was conservatively estimated at 40 cubic yards."}}
 
 This BCS material was to be stockpiled prior to offsite landfill disposal or onsite reuse. The plan involved placing the pre-moistened BCS material on and covering it with minimum 6-millimeter-thick plastic sheeting, surrounded by erosion control measures. The stockpile cover was to be secured with ropes and weights.
 
@@ -37,8 +37,12 @@ The source document does not detail the final disposition of the BCS material, w
 
 *   [[barium]]
 *   [[barium-containing-soil]]
+*   [[bcs-stockpile]]
+*   [[bcs-stockpiles-1-and-2]]
+*   [[caltrans]]
+*   [[caltrans-modesto-soil-stockpiles]]
 *   [[geocon-consultants]]
+*   [[mechanically-stabilized-earth-wall]]
 *   [[overhead-sign-1-foundation-excavation]]
 *   [[sr-132-west-freeway-expressway-project]]
-*   [[stockpile-1]]
 *   [[weather-station-foundation-slab-anchor]]
