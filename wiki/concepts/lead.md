@@ -1,81 +1,34 @@
 ---
 concept: lead
 entity_type: contaminant
-aliases: ["", "ADL", "Pb", "aerially deposited lead (ADL)", "aerially-deposited-lead", "aerial‑deposited lead", "aerial‑deposited lead (ADL)", "lead (Pb)"]
-sources: ["wiki/sources/03.01.2012 SR 132 west Expressway Followup5_srb.RA/03.01.2012 SR 132 west Expressway Followup5_srb.RA.md", "wiki/sources/06A2542ct_to97_SurfaceWaterLetter_final.20230328/06A2542ct_to97_SurfaceWaterLetter_final.20230328.md", "wiki/sources/08.30.2012 Caltrans Ramp5_srb RAdocx_srb 8_15_12_JS081612 RA4/08.30.2012 Caltrans Ramp5_srb RAdocx_srb 8_15_12_JS081612 RA4.md", "wiki/sources/Approval Letter Stockpile 2 Spoils Workplan (900259)/Approval Letter Stockpile 2 Spoils Workplan (900259).md", "wiki/sources/Approval of GW Statistical Evaluation (900259)/Approval of GW Statistical Evaluation (900259).md", "wiki/sources/Draft Interim RACR_Text_Figures_Tables_ App A-C/Draft Interim RACR_Text_Figures_Tables_ App A-C.md", "wiki/sources/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo.md", "wiki/sources/SR_132_DEIR_EA/SR_132_DEIR_EA.md", "wiki/sources/SR_132_DEIR_EA_Append_G-J/SR_132_DEIR_EA_Append_G-J.md", "wiki/sources/State Route 132 RAP Approval PN (FINAL 2-21-18)/State Route 132 RAP Approval PN (FINAL 2-21-18).md", "wiki/sources/06A2542ct_to97_SurfaceWaterLetter_final.20230328/06A2542ct_to97_SurfaceWaterLetter_final.20230328.md", "wiki/sources/08.30.2012 Caltrans Ramp5_srb RAdocx_srb 8_15_12_JS081612 RA4/08.30.2012 Caltrans Ramp5_srb RAdocx_srb 8_15_12_JS081612 RA4.md", "wiki/sources/132Stockpile Fact SheetModestoDTSC117 (2-2-17)/132Stockpile Fact SheetModestoDTSC117 (2-2-17).md", "wiki/sources/3.15.2018 - Caltrans Modesto SOF/3.15.2018 - Caltrans Modesto SOF.md", "wiki/sources/7453_S9525-06-44_Modesto_Stockpiles_July_2012_GW_Report.1112/7453_S9525-06-44_Modesto_Stockpiles_July_2012_GW_Report.1112.md", "wiki/sources/Appendix C - 100% Design Plans/Appendix C - 100% Design Plans.md", "wiki/sources/Caltrans -DTSC Agreement/Caltrans -DTSC Agreement.md", "wiki/sources/Caltrans Ramp Clarification Letter dated 8.24.12 /Caltrans Ramp Clarification Letter dated 8.24.12 .md", "wiki/sources/Draft Interim RACR_Text_Figures_Tables_ App A-C/Draft Interim RACR_Text_Figures_Tables_ App A-C.md", "wiki/sources/GND Water Monitoring Rpt March 2102/GND Water Monitoring Rpt March 2102.md", "wiki/sources/HearingSummaryReport_SR132 6.21.17 rdcd sz/HearingSummaryReport_SR132 6.21.17 rdcd sz.md", "wiki/sources/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17.md", "wiki/sources/S9525-01-44B Caltrans Modesto Stockpiles GW March 2013 0513/S9525-01-44B Caltrans Modesto Stockpiles GW March 2013 0513.md", "wiki/sources/S9525-01-44B Modesto Stockpiles GW June 2013.0613/S9525-01-44B Modesto Stockpiles GW June 2013.0613.md", "wiki/sources/S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112/S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.md", "wiki/sources/S9525-06-44A Caltrans Modesto Stockpiles GW 0213/S9525-06-44A Caltrans Modesto Stockpiles GW 0213.md", "wiki/sources/S9800-01-17 Caltrans Modesto Stockpiles GW_06.15/S9800-01-17 Caltrans Modesto Stockpiles GW_06.15.md", "wiki/sources/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.md", "wiki/sources/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan.Revised_10.14/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan.Revised_10.14.md", "wiki/sources/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814.md", "wiki/sources/S9800-01-17A Caltrans Modesto Stockpiles GW_06 16/S9800-01-17A Caltrans Modesto Stockpiles GW_06 16.md", "wiki/sources/SR 132 Public Notice English_/SR 132 Public Notice English_.md", "wiki/sources/SR 132 Stockpile 2 BCS Removal Tech Memo/SR 132 Stockpile 2 BCS Removal Tech Memo.md", "wiki/sources/SR 132 Stockpile 3 BCS Removal Tech Memo/SR 132 Stockpile 3 BCS Removal Tech Memo.md", "wiki/sources/SR_132_DEIR_EA/SR_132_DEIR_EA.md", "wiki/sources/SR_132_DEIR_EA_Append_G-J/SR_132_DEIR_EA_Append_G-J.md", "wiki/sources/State Route 132 RAP Approval PN (FINAL 2-21-18)/State Route 132 RAP Approval PN (FINAL 2-21-18).md"]
-confidence: medium
-created_at: 2026-08-11T02:49:53Z
+aliases: ["", "ADL", "Aerially Deposited Lead", "Pb", "ad", "aerially deposited lead (ADL)", "aerially-deposited-lead", "aerial‑deposited lead", "aerial‑deposited lead (ADL)", "lead (Pb)"]
+sources: ["06A2542ct_to97_SurfaceWaterLetter_final.20230328.md", "08.30.2012 Caltrans Ramp5_srb RAdocx_srb 8_15_12_JS081612 RA4.md", "132Stockpile Fact SheetModestoDTSC117 (2-2-17)/132Stockpile Fact SheetModestoDTSC117 (2-2-17).md", "3.15.2018 - Caltrans Modesto SOF/3.15.2018 - Caltrans Modesto SOF.md", "Approval Letter Stockpile 2 Spoils Workplan (900259)/Approval Letter Stockpile 2 Spoils Workplan (900259).md", "Approval of GW Statistical Evaluation (900259)/Approval of GW Statistical Evaluation (900259).md", "Draft Interim RACR_Text_Figures_Tables_ App A-C/Draft Interim RACR_Text_Figures_Tables_ App A-C.md", "RDIP Variance Reqeust #2 Acceptance E-Mail/RDIP Variance Reqeust #2 Acceptance E-Mail.md", "SR_132_DEIR_EA/SR_132_DEIR_EA.md", "State Route 132 RAP Approval PN (FINAL 2-21-18)/State Route 132 RAP Approval PN (FINAL 2-21-18).md", "wiki/sources/03.01.2012 SR 132 west Expressway Followup5_srb.RA/03.01.2012 SR 132 west Expressway Followup5_srb.RA.md", "wiki/sources/06A2542ct_to97_SurfaceWaterLetter_final.20230328/06A2542ct_to97_SurfaceWaterLetter_final.20230328.md", "wiki/sources/06A2542ct_to97_SurfaceWaterLetter_final.20230328/06A2542ct_to97_SurfaceWaterLetter_final.20230328.md", "wiki/sources/08.30.2012 Caltrans Ramp5_srb RAdocx_srb 8_15_12_JS081612 RA4/08.30.2012 Caltrans Ramp5_srb RAdocx_srb 8_15_12_JS081612 RA4.md", "wiki/sources/08.30.2012 Caltrans Ramp5_srb RAdocx_srb 8_15_12_JS081612 RA4/08.30.2012 Caltrans Ramp5_srb RAdocx_srb 8_15_12_JS081612 RA4.md", "wiki/sources/132Stockpile Fact SheetModestoDTSC117 (2-2-17)/132Stockpile Fact SheetModestoDTSC117 (2-2-17).md", "wiki/sources/3.15.2018 - Caltrans Modesto SOF/3.15.2018 - Caltrans Modesto SOF.md", "wiki/sources/7453_S9525-06-44_Modesto_Stockpiles_July_2012_GW_Report.1112/7453_S9525-06-44_Modesto_Stockpiles_July_2012_GW_Report.1112.md", "wiki/sources/Appendix C - 100% Design Plans/Appendix C - 100% Design Plans.md", "wiki/sources/Approval Letter Stockpile 2 Spoils Workplan (900259)/Approval Letter Stockpile 2 Spoils Workplan (900259).md", "wiki/sources/Approval of GW Statistical Evaluation (900259)/Approval of GW Statistical Evaluation (900259).md", "wiki/sources/Caltrans -DTSC Agreement/Caltrans -DTSC Agreement.md", "wiki/sources/Caltrans Ramp Clarification Letter dated 8.24.12 /Caltrans Ramp Clarification Letter dated 8.24.12 .md", "wiki/sources/Draft Interim RACR_Text_Figures_Tables_ App A-C/Draft Interim RACR_Text_Figures_Tables_ App A-C.md", "wiki/sources/Draft Interim RACR_Text_Figures_Tables_ App A-C/Draft Interim RACR_Text_Figures_Tables_ App A-C.md", "wiki/sources/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo.md", "wiki/sources/GND Water Monitoring Rpt March 2102/GND Water Monitoring Rpt March 2102.md", "wiki/sources/HearingSummaryReport_SR132 6.21.17 rdcd sz/HearingSummaryReport_SR132 6.21.17 rdcd sz.md", "wiki/sources/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19.md", "wiki/sources/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17.md", "wiki/sources/S1200-01-01 Modesto Stockpiles March 2018 SW Sampling_04.18/S1200-01-01 Modesto Stockpiles March 2018 SW Sampling_04.18.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Oct 2016 SW Sampling_12.16/S1200-01-01 Modesto Stockpiles Oct 2016 SW Sampling_12.16.md", "wiki/sources/S1908-01-01 Caltrans Modesto Stockpile Interim RACR_12.22 (1)/S1908-01-01 Caltrans Modesto Stockpile Interim RACR_12.22 (1).md", "wiki/sources/S1908-01-01 RDIP Variance #2/S1908-01-01 RDIP Variance #2.md", "wiki/sources/S2350-01-02 Stormwater SAP_12.23/S2350-01-02 Stormwater SAP_12.23.md", "wiki/sources/S9525-01-44B Caltrans Modesto Stockpiles GW March 2013 0513.md", "wiki/sources/S9525-01-44B Caltrans Modesto Stockpiles GW March 2013 0513/S9525-01-44B Caltrans Modesto Stockpiles GW March 2013 0513.md", "wiki/sources/S9525-01-44B Modesto Stockpiles GW June 2013.0613.md", "wiki/sources/S9525-01-44B Modesto Stockpiles GW June 2013.0613/S9525-01-44B Modesto Stockpiles GW June 2013.0613.md", "wiki/sources/S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.md", "wiki/sources/S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112/S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.md", "wiki/sources/S9525-06-44A Caltrans Modesto Stockpiles GW 0213/S9525-06-44A Caltrans Modesto Stockpiles GW 0213.md", "wiki/sources/S9650-06-03 MODESTO RAMP WORKPLAN.0412/S9650-06-03 MODESTO RAMP WORKPLAN.0412.md", "wiki/sources/S9800-01-17 Caltrans Modesto Stockpiles GW_06.15/S9800-01-17 Caltrans Modesto Stockpiles GW_06.15.md", "wiki/sources/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.md", "wiki/sources/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan.Revised_10.14/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan.Revised_10.14.md", "wiki/sources/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814.md", "wiki/sources/S9800-01-17A Caltrans Modesto Stockpiles GW_06 16/S9800-01-17A Caltrans Modesto Stockpiles GW_06 16.md", "wiki/sources/SR 132 Public Notice English_/SR 132 Public Notice English_.md", "wiki/sources/SR 132 Stockpile 2 BCS Removal Tech Memo/SR 132 Stockpile 2 BCS Removal Tech Memo.md", "wiki/sources/SR 132 Stockpile 3 BCS Removal Tech Memo/SR 132 Stockpile 3 BCS Removal Tech Memo.md", "wiki/sources/SR_132_DEIR_EA/SR_132_DEIR_EA.md", "wiki/sources/SR_132_DEIR_EA/SR_132_DEIR_EA.md", "wiki/sources/SR_132_DEIR_EA_Append_G-J/SR_132_DEIR_EA_Append_G-J.md", "wiki/sources/SR_132_DEIR_EA_Append_G-J/SR_132_DEIR_EA_Append_G-J.md", "wiki/sources/State Route 132 RAP Approval PN (FINAL 2-21-18)/State Route 132 RAP Approval PN (FINAL 2-21-18).md", "wiki/sources/State Route 132 RAP Approval PN (FINAL 2-21-18)/State Route 132 RAP Approval PN (FINAL 2-21-18).md"]
+confidence: high
+created_at: 2026-08-17T23:45:37Z
 ---
 
-json
-{
-  "concept": "lead",
-  "entity_type": "contaminant",
-  "aliases": [
-    "ADL",
-    "Pb",
-    "aerially-deposited-lead",
-    "aerial‑deposited lead (ADL)",
-    "lead",
-    "lead (Pb)"
-  ],
-  "sources": [
-    "03.01.2012 SR 132 west Expressway Followup5_srb.RA/03.01.2012 SR 132 west Expressway Followup5_srb.RA.md",
-    "06A2542ct_to97_SurfaceWaterLetter_final.20230328/06A2542ct_to97_SurfaceWaterLetter_final.20230328.md",
-    "08.30.2012 Caltrans Ramp5_srb RAdocx_srb 8_15_12_JS081612 RA4/08.30.2012 Caltrans Ramp5_srb RAdocx_srb 8_15_12_JS081612 RA4.md",
-    "Approval Letter Stockpile 2 Spoils Workplan (900259)",
-    "Approval of GW Statistical Evaluation (900259)",
-    "wiki/sources/132Stockpile Fact SheetModestoDTSC117 (2-2-17).md",
-    "wiki/sources/3.15.2018 - Caltrans Modesto SOF/3.15.2018 - Caltrans Modesto SOF.md",
-    "wiki/sources/Appendix C - 100% Design Plans/Appendix C - 100% Design Plans.md",
-    "wiki/sources/Caltrans -DTSC Agreement/Caltrans -DTSC Agreement.md",
-    "wiki/sources/Draft Interim RACR_Text_Figures_Tables_ App A-C/Draft Interim RACR_Text_Figures_Tables_ App A-C.md",
-    "wiki/sources/GND Water Monitoring Rpt March 2102/GND Water Monitoring Rpt March 2102.md",
-    "wiki/sources/HearingSummaryReport_SR132 6.21.17 rdcd sz/HearingSummaryReport_SR132 6.21.17 rdcd sz.md",
-    "wiki/sources/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19.md",
-    "wiki/sources/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18.md",
-    "wiki/sources/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17.md",
-    "wiki/sources/S9525-01-44B Caltrans Modesto Stockpiles GW March 2013 0513/S9525-01-44B Caltrans Modesto Stockpiles GW March 2013 0513.md",
-    "wiki/sources/S9525-01-44B Modesto Stockpiles GW June 2013.0613/S9525-01-44B Modesto Stockpiles GW June 2013.0613.md",
-    "wiki/sources/S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112/S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.md",
-    "wiki/sources/S9525-06-44A Caltrans Modesto Stockpiles GW 0213/S9525-06-44A Caltrans Modesto Stockpiles GW 0213.md",
-    "wiki/sources/S9800-01-17 Caltrans Modesto Stockpiles GW_06.15/S9800-01-17 Caltrans Modesto Stockpiles GW_06.15.md",
-    "wiki/sources/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.md",
-    "wiki/sources/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan.Revised_10.14/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan.Revised_10.14.md",
-    "wiki/sources/S9800-01-17A Caltrans Modesto Stockpiles GW_06 16/S9800-01-17A Caltrans Modesto Stockpiles GW_06 16.md",
-    "wiki/sources/06A2542ct_to97_SurfaceWaterLetter_final.20230328/06A2542ct_to97_SurfaceWaterLetter_final.20230328.md",
-    "wiki/sources/08.30.2012 Caltrans Ramp5_srb RAdocx_srb 8_15_12_JS081612 RA4/08.30.2012 Caltrans Ramp5_srb RAdocx_srb 8_15_12_JS081612 RA4.md",
-    "wiki/sources/SR 132 Public Notice English_/SR 132 Public Notice English_.md",
-    "wiki/sources/SR 132 Stockpile 2 BCS Removal Tech Memo/SR 132 Stockpile 2 BCS Removal Tech Memo.md",
-    "wiki/sources/SR 132 Stockpile 3 BCS Removal Tech Memo/SR 132 Stockpile 3 BCS Removal Tech Memo.md",
-    "wiki/sources/SR_132_DEIR_EA/SR_132_DEIR_EA.md",
-    "wiki/sources/SR_132_DEIR_EA_Append_G-J/SR_132_DEIR_EA_Append_G-J.md",
-    "wiki/sources/State Route 132 RAP Approval PN (FINAL 2-21-18)/State Route 132 RAP Approval PN (FINAL 2-21-18).md"
-  ],
-  "confidence": "high"
-}
-```
-```json
-{
-  "concept": "lead",
-  "entity_type": "contaminant",
-  "aliases": [
-    "ADL",
-    "Pb",
-    "aerially-deposited-lead",
-    "aerial‑deposited lead (ADL)",
-    "lead",
-    "lead (Pb)"
-  ],
-  "sources": [
-    "03.01.2012 SR 132 west Expressway Followup5_srb.RA/03.01.2012 SR 132 west Expressway Followup5_srb.RA.md",
-    "06A2542ct_to97_SurfaceWaterLetter_final.20230328/06A2542ct_to97_SurfaceWaterLetter_final.20230328.md",
-    "08.30.2012 Caltrans Ramp5_srb RAdocx_srb 8_15_12_JS081612 RA4/08.30.2012 Caltrans Ramp5_srb RAdocx_srb 8_15_12_JS081612 RA4.md",
-    "Approval Letter Stockpile 2 Spoils Workplan (900259)",
-    "Approval of GW Statistical Evaluation (900259)",
-    "wiki/sources/132Stockpile Fact SheetModestoDTSC117 (2-2-17).md",
-    "wiki/sources/3.15.2018 - Caltrans Modesto SOF/3.15.2018 - Caltrans Modesto SOF.md",
-    "wiki/sources/Appendix C - 100% Design Plans/Appendix C - 100% Design Plans.md",
-    "wiki/sources/Caltrans -DTSC Agreement/Caltrans -DTSC Agreement.md",
-    "wiki/sources/Draft Interim RACR_Text_Figures_Tables_ App A-C/Draft Interim RACR_Text_Figures_Tables_ App A-C.md",
-    "wiki/sources/GND Water Monitoring Rpt March 2102/GND Water Monitoring Rpt March 2102.md",
+## Overview
+Lead (Pb) is a contaminant of concern at the [[caltrans-modesto-soil-stockpiles]] site, primarily associated with [[lead]]. It was identified as a contaminant requiring management during the [[state-route-132-west-freeway-expressway-project]].
+
+## Site record
+Elevated lead concentrations were detected in soil samples from the Caltrans Modesto Soil Stockpiles. Specifically, aerially deposited lead (ADL)-contaminated soil excavated from the northbound shoulder of [[state-route-99]] between L Street and the Kansas Avenue off-ramp was placed in the eastern end of the [[stockpile-1]] BCS Containment Zone in June and July 2020. This ADL soil contained lead concentrations in excess of California and Federal hazardous waste criteria. The 'Soil Management Agreement for Aerially Deposited Lead-Contaminated Soils' between [[department-of-toxic-substances-control]] (DTSC) and [[caltrans]] (dated June 2016) governs the management of this material. Under this agreement, ADL-contaminated soil must be at least five feet above the highest groundwater elevation and may require covering with at least one foot of clean soil or a pavement structure, depending on lead concentrations. It must also be protected from contact with groundwater or surface water and buried in locations protected from erosion by stormwater runoff.
+
+During the removal of Stockpile 3, verification soil samples showed lead concentrations ranging from 1.6 to 40 mg/kg. For the western and eastern ends of Stockpile 2, final verification soil samples contained lead concentrations ranging from 1.5 to 35 mg/kg. Excavated soil from the MSE wall footing areas along the southern boundaries of Stockpiles 1 and 2 generally contained lead concentrations less than the [[department-of-toxic-substances-control]] (DTSC) residential screening level of 80 mg/kg.
+
+Air monitoring performed during BCS grading activities between February and June 2020 indicated that lead concentrations were below the action level of 1.5 µg/m³ presented by the California Air Resources Board (CARB) 30-day average ambient lead public health standard.
+
+## Regulatory status
+The DTSC residential screening level for lead is 80 mg/kg. The site-specific upper bound background concentration for lead is 3.8 mg/kg. The 'Soil Management Agreement for Aerially Deposited Lead-Contaminated Soils' (DTSC, 2016) specifies that ADL-contaminated soil may require covering with at least one foot of clean soil or a pavement structure if lead concentrations exceed 5.0 milligrams per liter (Waste Extraction Test).
+
+## Open items
+None documented in the provided sources.
+
+## See also
+- [[barium]]
+- [[strontium]]
+- [[geocon-consultants]]
+- [[caltrans]]
+- [[stockpile-1]]
+- [[caltrans-modesto-soil-stockpiles]]
+- [[department-of-toxic-substances-control]]
+- [[state-route-132-west-freeway-expressway-project]]

@@ -1,10 +1,10 @@
 ---
 concept: brownfields-and-environmental-restoration-program
 entity_type: concept
-aliases: ["Brownfields and Environmental Restoration Program"]
-sources: ["wiki/sources/Draft Final RAP Updated Implementation Sch/Draft Final RAP Updated Implementation Sch.md"]
+aliases: []
+sources: ["03.01.2012 SR 132 west Expressway Followup5_srb.RA.md", "04 04 2013 Final  SSI and HHRA 8/04 04 2013 Final  SSI and HHRA 8.md", "08.30.2012 Caltrans Ramp5_srb RAdocx_srb 8_15_12_JS081612 RA4.md"]
 confidence: high
-created_at: 2026-08-11T02:53:08Z
+created_at: 2026-08-17T23:47:35Z
 ---
 
 The [[brownfields-and-environmental-restoration-program]] is a program focused on the remediation of contaminated sites, often referred to as brownfields, with the objective of environmental restoration. Within the context of the [[modesto-soil-stockpiles-project]], this program is relevant to the overall environmental restoration goals for the site.
@@ -19,11 +19,11 @@ The [[brownfields-and-environmental-restoration-program]] operates within the fr
 
 ## See also
 
-* [[california-environmental-quality-act]]
+* [[caltrans]]
 * [[department-of-toxic-substances-control]]
-* [[environmental-impact-report-environmental-assessment]]
-* [[modesto-soil-stockpiles-project]]
-* [[no-significant-effect-on-the-environment]]
-* [[notice-of-determination]]
-* [[public-resources-code]]
-* [[remedial-action-plan]]
+* [[draft-final-remedial-action-plan]]
+* [[dtsc-finding-no-risk-to-human-health]]
+* [[randy-s-adams]]
+* [[arsenic]]
+* [[arsenic-exceeds-residential-and-commercial-industrial-screening-levels]]
+* [[barium]]

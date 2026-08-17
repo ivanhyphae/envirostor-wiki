@@ -1,34 +1,36 @@
 ---
 concept: project-no-s9525-06-44
 entity_type: concept
-aliases: ["Project No. S9525-06-44"]
-sources: ["wiki/sources/7083_S9525-06-44 Modesto Soil Stockpiles Fenceline Workplan.0912/7083_S9525-06-44 Modesto Soil Stockpiles Fenceline Workplan.0912.md", "wiki/sources/7084_S9525-06-44 Response to DTSC Workplan Comments.0912/7084_S9525-06-44 Response to DTSC Workplan Comments.0912.md", "wiki/sources/7453_S9525-06-44_Modesto_Stockpiles_July_2012_GW_Report.1112/7453_S9525-06-44_Modesto_Stockpiles_July_2012_GW_Report.1112.md"]
+aliases: ["Project No. S9525-06-44", "Project Number S9525-06-44"]
+sources: ["wiki/sources/7083_S9525-06-44 Modesto Soil Stockpiles Fenceline Workplan.0912/7083_S9525-06-44 Modesto Soil Stockpiles Fenceline Workplan.0912.md", "wiki/sources/7084_S9525-06-44 Response to DTSC Workplan Comments.0912/7084_S9525-06-44 Response to DTSC Workplan Comments.0912.md", "wiki/sources/7453_S9525-06-44_Modesto_Stockpiles_July_2012_GW_Report.1112/7453_S9525-06-44_Modesto_Stockpiles_July_2012_GW_Report.1112.md", "wiki/sources/S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.md", "wiki/sources/S9525-06-44 HHRA UPDATE Rev.0313.md", "wiki/sources/S9525-06-44 Modesto Stockpiles GW.0612.md"]
 confidence: high
-created_at: 2026-08-11T02:50:41Z
+created_at: 2026-08-17T23:48:26Z
 ---
 
 ## Project No. S9525-06-44
 
-This project number is associated with work performed by [[geocon-consultants]] for the [[caltrans-modesto-soil-stockpiles]] site in Stanislaus County, California. The work has involved groundwater monitoring and reporting, with specific tasks outlined in various work plans and reports.
+Project No. S9525-06-44 is associated with groundwater monitoring and reporting activities conducted by [[geocon-consultants]] for the [[caltrans-modesto-soil-stockpiles]] site in Stanislaus County, California. These activities were performed under contract with [[caltrans]].
 
 ## Site Record
 
-Geocon Consultants, Inc. prepared a Groundwater Monitoring Report for July 2012 concerning the Modesto Soil Stockpiles. This report was submitted to Mr. Richard Stewart, PG, of [[caltrans-district-6]] Hazardous Waste Branch. The site is located southerly of the intersection of State Route (SR) 99 and Kansas Avenue in Stanislaus County, California. The scope of services included depth to groundwater measurements and sampling of ten groundwater monitoring wells. {{quote: "In accordance with California Department of Transportation (Caltrans) Contract No. 06A1580, Task Order (TO) No. 44, Geocon has performed groundwater monitoring activities at the Caltrans Modesto Soil Stockpiles (Site) located southerly of the intersection of State Route (SR) 99 and Kansas Avenue in Stanislaus County, California."}} {{quote: "The purpose of TO No. 44 is to perform groundwater sampling and analysis at the Site in accordance with protocols approved by the California Environmental Protection Agency Department of Toxic Substances Control (DTSC) as established in the *Final Work Plan, Groundwater Assessment* prepared by Shaw and dated January 2006."}} {{quote: "The scope of services reported herein included depth to groundwater measurements, the sampling of ten groundwater monitoring wells, submittal of the water samples to a California-certified laboratory for analytical testing and preparation of this report."}}
+Geocon Consultants, Inc. prepared a Groundwater Monitoring Report for July 2012 concerning the Modesto Soil Stockpiles. This report was submitted to Mr. Richard Stewart, PG, of the [[caltrans-district-6]] Hazardous Waste Branch. The site is located southerly of the intersection of State Route (SR) 99 and Kansas Avenue in Stanislaus County, California. The scope of services included depth to groundwater measurements and sampling of ten groundwater monitoring wells, identified as MW-1 through MW-10. The work was conducted in accordance with protocols approved by the California Environmental Protection Agency Department of Toxic Substances Control (DTSC), as established in the *Final Work Plan, Groundwater Assessment* prepared by Shaw and dated January 2006.
 
-Groundwater chemistry data from July 2012, presented as Stiff Diagrams in Appendix C of the November 28, 2012 report, characterizes the water in monitoring wells MW-1 through MW-10. The diagrams indicate that wells MW-1, MW-4, MW-5, MW-7, MW-9, and MW-10 are calcium dominant, while wells MW-3, MW-6, and MW-8 are sodium dominant. {{quote: "Image /page/139/Figure/0 description: A figure titled 'STIFF DIAGRAMS' for 'Modesto Soil Stockpiles' dated July 2012, prepared by Geocon Consultants, Inc. The figure displays two Stiff diagrams, labeled MW-1 and MW-2, representing water chemistry data from July 2012. Both diagrams plot cations (Na+K, Ca, Mg) on the left (x-axis in milliequivalents per liter from 0 to 9.0) and anions (Cl, HCO3, SO4) on the right (x-axis similarly from 0 to 9.0). Both polygons are filled in orange, indicating they are 'Calcium Dominant'."}} {{quote: "Image /page/140/Figure/0 description: This figure displays two Stiff diagrams for monitoring wells MW-3 and MW-4, dated July 2012, to characterize groundwater chemistry in Stanislaus County, California. The Stiff diagrams plot Milliequivalents Per Liter for cations (Na+K, Ca, Mg) on the left (negative values) and anions (Cl, HCO3, SO4) on the right (positive values). The yellow diagram for MW-3 is sodium dominant, while the orange diagram for MW-4 is calcium dominant."}} {{quote: "Image /page/141/Figure/0 description: This figure displays two Stiff diagrams for monitoring well locations MW-5 and MW-6 from July 2012, both associated with a project in Stanislaus County, California by Geocon Consultants, Inc. Each diagram plots milliequivalents per liter on a horizontal axis, with cations (Na+K, Ca, Mg) on the left side and anions (Cl, HCO3, SO4) on the right side. The top diagram for MW-5 is shaded in orange, representing a calcium-dominant profile. The bottom diagram for MW-6 is shaded in yellow, representing a sodium-dominant profile."}} {{quote: "Image /page/142/Figure/0 description: This image presents a report containing two Stiff diagrams for Modesto Soil Stockpiles in Stanislaus County, California, dated July 2012 by Geocon Consultants, Inc. Each Stiff diagram represents the ion concentration in milliequivalents per liter for two wells, MW-7 and MW-8. The diagrams have cations on the left (Na+K, Ca, Mg) and anions on the right (Cl, HCO3, SO4). The MW-7 diagram is orange, representing a calcium-dominant profile, with values extending out to 2.5 on the cation side and 4.0 on the anion side. The MW-8 diagram is yellow, representing a sodium-dominant profile, with values extending out to 3.8 on the cation side and 3.2 on the anion side."}} {{quote: "Image /page/143/Figure/0 description: This figure displays two Stiff diagrams for Modesto Soil Stockpiles in Stanislaus County, California, dated July 2012, specifically for locations MW-9 and MW-10. Both diagrams are orange, indicating they are 'calcium dominant', and plot milliequivalents per liter for cations (Na+K, Ca, Mg) on the left and anions (Cl, HCO3, SO4) on the right. For MW-9, the cations extend to roughly 2.0-3.0 range and anions extend to approximately 6.0 for HCO3. For MW-10, the cations extend to closer to 3.0-4.0 and anions extend to approximately 6.5 for HCO3."}}
+Groundwater chemistry data from July 2012, presented as Stiff Diagrams in Appendix C of the November 28, 2012 report, characterizes the water in monitoring wells MW-1 through MW-10. The diagrams indicate that wells MW-1, MW-4, MW-5, MW-7, MW-9, and MW-10 are calcium dominant. Wells MW-3, MW-6, and MW-8 are sodium dominant.
 
-Geocon Consultants, Inc. is identified as the preparer of documents related to Project No. S9525-06-44. {{quote: "GEOCON CONSULTANTS, INC. 3160 GOLD VALLEY DRIVE, SUITE 800 RANCHO CORDOVA, CALIFORNIA 95742"}} {{quote: "GEOCON PROJECT NO. S9525-06-44 TASK ORDER NO. 44, EA 10-403500 CONTRACT NO 06A1580"}}
+The report also includes plots of Barium Concentrations Vs. Time and Lead Concentrations Vs. Time for the Modesto Soil Stockpiles. For barium, concentrations are plotted in micrograms per liter, with a water quality threshold indicated at 1000 micrograms per liter. For lead, concentrations are plotted in micrograms per liter, with a water quality threshold indicated at 15 micrograms per liter. Strontium concentrations are also presented for wells MW-1 through MW-10, with a water quality threshold at 4000 micrograms per liter.
+
+Geocon Consultants, Inc. is identified as the preparer of documents related to Project No. S9525-06-44, under Task Order No. 44, EA 10-403500, and Contract No. 06A1580.
 
 ## Regulatory Status
 
-The groundwater sampling and analysis at the site are conducted in accordance with protocols approved by the california-environmental-protection-agency Department of Toxic Substances Control (DTSC). {{quote: "The purpose of TO No. 44 is to perform groundwater sampling and analysis at the Site in accordance with protocols approved by the California Environmental Protection Agency Department of Toxic Substances Control (DTSC) as established in the *Final Work Plan, Groundwater Assessment* prepared by Shaw and dated January 2006."}}
+Groundwater sampling and analysis at the site are conducted in accordance with protocols approved by the California Environmental Protection Agency Department of Toxic Substances Control (DTSC).
 
 ## See also
-- [[caltrans-modesto-soil-stockpiles]]
 - [[geocon-consultants]]
-- [[supplemental-site-characterization-workplan]]
-- [[2004-psi]]
+- [[caltrans]]
+- [[caltrans-modesto-soil-stockpiles]]
 - [[barium]]
-- [[cadmium]]
-- [[caltrans-district-6]]
-- [[central-valley-rwqcb]]
+- [[groundwater-monitoring-report]]
+- [[lead]]
+- [[mw-1]]
+- [[mw-10]]

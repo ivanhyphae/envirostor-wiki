@@ -1,34 +1,40 @@
 ---
 concept: storm-water-sampling-and-analysis-plan
 entity_type: deliverable
-aliases: ["Storm Water Sampling and Analysis Plan (SAP)", "Storm Water Sampling and Analysis Plan (SAP)", "Storm Water Sampling and Analysis Plan (SAP)", "Storm Water Sampling and Analysis Plan (SAP)", "Storm Water Sampling and Analysis Plan (SAP)", "Storm Water Sampling and Analysis Plan (SAP)", "Storm Water Sampling and Analysis Plan (SAP)", "Storm Water Sampling and Analysis Plan (SAP)"]
-sources: ["wiki/sources/S2350-01-02_2.1.2024 Stormwater Sampling Report_5.24/S2350-01-02_2.1.2024 Stormwater Sampling Report_5.24.md", "wiki/sources/S2350-01-02_2.4.2025 Stormwater Sampling Report_6.25/S2350-01-02_2.4.2025 Stormwater Sampling Report_6.25.md", "wiki/sources/S9525-01-44B Caltrans Modesto Stockpiles GW March 2013 0513/S9525-01-44B Caltrans Modesto Stockpiles GW March 2013 0513.md", "wiki/sources/S9525-01-44B Modesto Stockpiles GW June 2013.0613/S9525-01-44B Modesto Stockpiles GW June 2013.0613.md", "wiki/sources/S9525-01-44C Modesto Stockpiles GW September 2013 1013/S9525-01-44C Modesto Stockpiles GW September 2013 1013.md", "wiki/sources/S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112/S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.md", "wiki/sources/S9525-06-44 HHRA UPDATE Rev.0313/S9525-06-44 HHRA UPDATE Rev.0313.md", "wiki/sources/S9525-06-44 Modesto Stockpiles GW.0612/S9525-06-44 Modesto Stockpiles GW.0612.md"]
+aliases: ["SAP", "Storm Water Sampling and Analysis Plan", "Storm Water Sampling and Analysis Plan (SAP)", "storm-water-sampling-and-analysis-plan"]
+sources: ["06A2542ct_to97_SurfaceWaterLetter_final.20230328.md", "wiki/sources/S2350-01-02 Stormwater SAP_12.23/S2350-01-02 Stormwater SAP_12.23.md", "wiki/sources/S2350-01-02_2.1.2024 Stormwater Sampling Report_5.24.md", "wiki/sources/S2350-01-02_2.4.2025 Stormwater Sampling Report_6.25.md"]
 confidence: high
-created_at: 2026-08-11T02:54:15Z
+created_at: 2026-08-17T23:47:32Z
 ---
 
-## Storm Water Sampling and Analysis Plan
-
-The [[storm-water-sampling-and-analysis-plan]] (SAP) is a document that outlines the protocols for collecting and analyzing storm water samples at the [[caltrans-modesto-soil-stockpiles]] site. It was prepared by [[geocon-consultants]] and approved by the [[department-of-toxic-substances-control]] (DTSC) and the [[central-valley-rwqcb]] (CVRWQCB).
+The [[storm-water-sampling-and-analysis-plan]] (SAP) for the [[caltrans-modesto-soil-stockpiles]] site outlines the procedures for collecting and analyzing storm water samples. Its primary purpose is to assess the effectiveness of the containment system designed to isolate [[barium]] and [[lead]]-contaminated soil. The SAP was prepared by [[geocon-consultants]] and approved by the [[department-of-toxic-substances-control]] (DTSC) and the [[central-valley-rwqcb]].
 
 ## Site record
 
-Storm water samples were collected on February 1, 2024, and February 4, 2025, in general accordance with the protocols established in the *Storm Water Sampling and Analysis Plan (SAP),* prepared by Geocon Consultants, Inc., dated December 13, 2023. The scope of services included the collection and analysis of storm water samples by a California-certified laboratory, and the preparation of summary reports detailing these activities.
+Storm water samples were collected on February 1, 2024, and February 4, 2025. These sampling events were conducted in general accordance with the protocols established in the *Storm Water Sampling and Analysis Plan (SAP)* prepared by Geocon Consultants, Inc., dated December 13, 2023. The scope of these activities included collecting and analyzing storm water samples by a California-certified laboratory and preparing summary reports.
 
-{{quote: "We collected storm water samples on February 1, 2024, in general accordance with protocols approved by the California Environmental Protection Agency, Department of Toxic Substances Control (DTSC) and Central Valley Regional Water Quality Control Board (CVRWQCB) as established in the *Storm Water Sampling and Analysis Plan (SAP),* prepared by Geocon Consultants, Inc., dated December 13, 2023."}}
-{{quote: "We collected storm water samples on February 4, 2025, in general accordance with protocols approved by the California Environmental Protection Agency, Department of Toxic Substances Control (DTSC) and Central Valley Regional Water Quality Control Board (CVRWQCB) as established in the *Storm Water Sampling and Analysis Plan (SAP),* prepared by Geocon Consultants, Inc., dated December 13, 2023."}}
+## Relevant source material:
+
+### Source: wiki/sources/S2350-01-02 Stormwater SAP_12.23/S2350-01-02 Stormwater SAP_12.23.md
+
+This document, dated December 13, 2023, is the *Storm Water Sampling and Analysis Plan* (SAP) prepared by Geocon Consultants, Inc. for the California Department of Transportation (Caltrans) concerning the former Caltrans Modesto Soil Stockpiles. The site is located south of the intersection of State Route (SR) 99 and Kansas Avenue in Stanislaus County, California. The SAP was prepared in accordance with Caltrans Contract No. 06A2767, Task Order (TO) No. 2, EA No. 10-1E7003.
+
+The purpose of the sampling outlined in this SAP is to evaluate the integrity of the stockpile containment system. This system, approved by the DTSC, was incorporated into the design and construction of the SR 132 West Expressway project. The containment system was designed to isolate and encapsulate barium and lead-contaminated soil behind retaining walls and bridge abutments, and beneath roadway pavements and clean soil between SR 99 and Carpenter Avenue. Analysis of storm water samples will help determine the effectiveness of this containment system and whether storm water has been impacted by chemicals of potential concern from the encapsulated stockpiles.
+
+The storm water sampling will be performed according to protocols approved by the DTSC, as established in the *Final Surface Water Sampling and Analysis Plan* prepared by Shaw Environmental, Inc. (Shaw) in January 2006, and the *Addendum to Surface Water Sampling and Analysis Plan (SAP Addendum)* prepared by Geocon Consultants, Inc. in February 2013. The proposed scope includes storm water sampling, laboratory analysis by a California-certified laboratory, and the preparation of a summary report.
+
+The background section of the SAP notes that during the 1930s, Barium Products Ltd. occupied property at 1200 Barium Road (now Graphics Drive) in Modesto, California. This company processed ores and minerals including barite (barium sulfate) and celestite (strontium sulfate), producing barium and strontium compounds.
 
 ## See also
 
+* [[barium]]
 * [[caltrans]]
-* [[caltrans-encapsulated-soil-stockpiles]]
+* [[caltrans-modesto-soil-stockpiles]]
 * [[central-valley-rwqcb]]
 * [[department-of-toxic-substances-control]]
 * [[geocon-consultants]]
 * [[groundwater-monitoring-report]]
-* [[groundwater-monitoring-round]]
+* [[lead]]
 * [[mw-10]]
 * [[mw-9]]
-* [[barium]]
-* [[no-discharge-runoff-from-caltrans-right-of-way-observed]]
-* [[rebecca-silva]]
+* [[strontium]]

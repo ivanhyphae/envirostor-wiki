@@ -4,7 +4,7 @@ entity_type: concept
 aliases: []
 sources: ["wiki/sources/43A0487 _04 Modesto Stockpiles - signed/43A0487 _04 Modesto Stockpiles - signed.md"]
 confidence: low
-created_at: 2026-08-11T02:50:22Z
+created_at: 2026-08-17T23:48:22Z
 ---
 
 ## Katherine Henry

@@ -1,15 +1,15 @@
 ---
 concept: conditional-approval-letter
-entity_type: concept
+entity_type: deliverable
 aliases: ["conditional approval letter"]
-sources: ["wiki/sources/DTSC Approval Response for final version of Well Destruction Report/DTSC Approval Response for final version of Well Destruction Report.md", "wiki/sources/DTSC Letter Response - 2025 GW Monitoring Report (900259)/DTSC Letter Response - 2025 GW Monitoring Report (900259).md"]
+sources: ["DTSC Approval Response for final version of Well Destruction Report/DTSC Approval Response for final version of Well Destruction Report.md"]
 confidence: high
-created_at: 2026-08-11T02:55:30Z
+created_at: 2026-08-17T23:49:39Z
 ---
 
 ## Conditional Approval Letter
 
-A conditional approval letter is a formal communication from a regulatory agency that grants approval for a submitted document or action, but with specific requirements or stipulations that must be met. In the context of the Caltrans Modesto Soil Stockpiles remediation case file, these letters signify the [[dtsc]]'s (DTSC) review and acceptance of project deliverables, often contingent upon the satisfactory completion of outlined conditions.
+A conditional approval letter is a formal communication from a regulatory agency that grants approval for a submitted document or action, but with specific requirements or stipulations that must be met. In the context of the Caltrans Modesto Soil Stockpiles remediation case file, these letters signify the [[department-of-toxic-substances-control]]'s (DTSC) review and acceptance of project deliverables, often contingent upon the satisfactory completion of outlined conditions.
 
 ## Site record
 

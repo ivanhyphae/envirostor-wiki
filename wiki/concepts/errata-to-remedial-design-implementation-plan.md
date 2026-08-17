@@ -1,10 +1,10 @@
 ---
 concept: errata-to-remedial-design-implementation-plan
-entity_type: concept
-aliases: []
-sources: ["wiki/sources/Caltrans -DTSC Agreement/Caltrans -DTSC Agreement.md"]
+entity_type: deliverable
+aliases: ["Errata to Remedial Design Implementation Plan (RDIP)"]
+sources: ["wiki/sources/Errata Transmittal 2-6-2020/Errata Transmittal 2-6-2020.md", "wiki/sources/Errata to January 2019 RDIP - SR 132 West Expressway Phase 1/Errata to January 2019 RDIP - SR 132 West Expressway Phase 1.md"]
 confidence: high
-created_at: 2026-08-11T00:59:51Z
+created_at: 2026-08-17T23:49:56Z
 ---
 
 ## Overview
@@ -44,6 +44,6 @@ None documented in the provided sources.
 *   [[caltrans]]
 *   [[department-of-toxic-substances-control]]
 *   [[central-valley-rwqcb]]
-*   [[annual-inspection-report]]
-*   [[annual-o-and-m-inspection-report]]
-*   [[arsenic]]
+*   [[post-construction-contract]]
+*   [[january-30-2019-rdip-interim-phase-1]]
+*   [[sr-132-west-freeway-expressway-project]]

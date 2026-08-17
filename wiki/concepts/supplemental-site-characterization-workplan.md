@@ -1,31 +1,29 @@
 ---
 concept: supplemental-site-characterization-workplan
 entity_type: deliverable
-aliases: ["Supplemental Site Characterization Workplan (SSCW)"]
-sources: ["wiki/sources/09.20.2012 Final Caltrans Supplemental Site Characterization Workplan 2/09.20.2012 Final Caltrans Supplemental Site Characterization Workplan 2.md"]
+aliases: []
+sources: ["09.20.2012 Final Caltrans Supplemental Site Characterization Workplan 2.md"]
 confidence: high
-created_at: 2026-08-11T02:50:08Z
+created_at: 2026-08-17T23:46:59Z
 ---
 
-The Supplemental Site Characterization Workplan was developed by Caltrans to guide further investigation at the [[caltrans-modesto-soil-stockpiles]] site, specifically addressing data gaps identified in previous assessments. This workplan was a key component in the process leading to the [[supplemental-site-investigation-report]] and [[human-health-risk-assessment]].
+## Overview
+The Final Supplemental Site Characterization Workplan (SSCW) was prepared by [[geocon-consultants]] for [[caltrans]] in September 2012. This workplan outlined the scope of additional investigation required at the [[caltrans-modesto-soil-stockpiles]] site to evaluate and finalize a remedy for the management of hazardous substances within the soil stockpiles. The SSCW was intended to address data gaps and further characterize potential contaminant migration, ultimately supporting an updated [[human-health-risk-assessment]].
 
 ## Site Record
-
-The "Final Supplemental Site Characterization Workplan, Modesto Soil Stockpiles, State Route 132 and 99, Stanislaus County, California" was prepared by [[geocon-consultants]] and dated September 2012. {{quote: "The Final Workplan provides additional characterization of soil stockpiles at the location the proposed State Route 132/99 West Expressway to evaluate and finalize a remedy for the management of hazardous substances in the soil stockpiles."}} The workplan was intended to evaluate potential lateral and vertical migration of contaminants from the soil stockpiles and to update the Human Health Risk Assessment. {{quote: "The soil stockpiles consist of excess native soils and pond tailings that were generated when Caltrans constructed a segment of SR 99 north of Kansas Avenue in the early 1960's."}} The primary Chemicals of Concern (COC) identified were barium, lead, and strontium. {{quote: "The primary Chemicals of concern (COC) are barium, lead, and strontium."}}
+The soil stockpiles at the [[caltrans-modesto-soil-stockpiles]] site consist of excess native soils and pond tailings generated during the construction of a segment of SR 99 north of Kansas Avenue by Caltrans in the early 1960s. The Final Supplemental Site Characterization Workplan, dated September 2012, identified barium, lead, and strontium as the primary Chemicals of Concern (COC) within these stockpiles. The workplan's objective was to evaluate potential lateral and vertical migration of these contaminants.
 
 ## Regulatory Status
-
-The Supplemental Site Characterization Workplan was reviewed by the Department of Toxic Substances Control (DTSC), in consultation with the Regional Water Quality Control Board, Central Valley Region (RWQCB). {{quote: "The Department of Toxic Substances Control (DTSC), in consultation with the Regional Water Quality Control Board, Central Valley Region (RWQCB) has reviewed the 'Final Supplemental Site Characterization Workplan, Modesto Soil Stockpiles, State route 99 and 132, Stanislaus County, California' (Workplan), prepared by Geocon Consultants and dated September 2012."}} DTSC concurred with the Final Workplan on September 20, 2012. {{quote: "The Final Workplan addresses DTSC's comments, dated 9/12/2012. DTSC concurs with the Final Workplan."}}
+The "Final Supplemental Site Characterization Workplan, Modesto Soil Stockpiles, State Route 132 and 99, Stanislaus County, California" was reviewed by the [[dtsc]] in consultation with the Regional Water Quality Control Board, Central Valley Region (RWQCB). DTSC issued a comment letter on September 12, 2012. DTSC concurred with the Final Workplan on September 20, 2012, noting that it addressed their comments.
 
 ## See also
-
-*   [[geocon-consultants]]
-*   [[human-health-risk-assessment]]
-*   [[supplemental-site-investigation-report]]
-*   [[caltrans-modesto-soil-stockpiles]]
-*   [[dtsc-approval-letter]]
-*   [[project-no-s9525-06-44]]
-*   [[2004-psi]]
-*   [[arsenic]]
-*   [[barium]]
-*   [[brownfields-and-environmental-restoration-program]]
+* [[geocon-consultants]]
+* [[caltrans-modesto-soil-stockpiles]]
+* [[dtsc-comment-letter-september-12-2012]]
+* [[project-no-s9525-06-44]]
+* [[2004-psi]]
+* [[cadmium]]
+* [[caltrans]]
+* [[caltrans-district-6]]
+* [[supplemental-site-investigation-report]]
+* [[human-health-risk-assessment]]

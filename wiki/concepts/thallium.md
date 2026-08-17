@@ -1,38 +1,49 @@
 ---
 concept: thallium
 entity_type: contaminant
-aliases: []
-sources: ["wiki/sources/06A2542ct_to97_SurfaceWaterLetter_final.20230328/06A2542ct_to97_SurfaceWaterLetter_final.20230328.md", "wiki/sources/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.md", "wiki/sources/S2350-01-02_2.1.2024 Stormwater Sampling Report_5.24/S2350-01-02_2.1.2024 Stormwater Sampling Report_5.24.md", "wiki/sources/S2350-01-02_2.4.2025 Stormwater Sampling Report_6.25/S2350-01-02_2.4.2025 Stormwater Sampling Report_6.25.md"]
+aliases: ["", "Tl"]
+sources: ["06A2542ct_to97_SurfaceWaterLetter_final.20230328.md", "wiki/sources/06A2542ct_to97_SurfaceWaterLetter_final.20230328/06A2542ct_to97_SurfaceWaterLetter_final.20230328.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Oct 2016 SW Sampling_12.16/S1200-01-01 Modesto Stockpiles Oct 2016 SW Sampling_12.16.md"]
 confidence: high
-created_at: 2026-08-11T02:49:56Z
+created_at: 2026-08-17T23:46:13Z
 ---
 
 ## Thallium
 
 ### Overview
-Thallium was among the metals analyzed for in groundwater, surface water, and soil samples at the Caltrans Modesto Soil Stockpiles site (SR 132, Stanislaus County, CA) from 2012 onward. Across groundwater monitoring events and surface water sampling through March 2023, thallium was consistently not detected above laboratory MDLs/PQLs. It was, however, detected at low concentrations in stockpile soil during the 2014 feasibility study, and it exceeded the Primary Maximum Contaminant Level (MCL) in a December 2023 storm water sampling event — the only reported MCL exceedance for thallium at the site.
+Thallium is a metal that has been analyzed for in soil, surface water, and groundwater samples collected at the Caltrans Modesto Soil Stockpiles site (SR 132, Stanislaus County, CA). While generally not detected above laboratory detection limits in surface water and groundwater samples, thallium was detected in stockpile soil during the 2014 feasibility study. A notable exceedance of the Primary Maximum Contaminant Level (MCL) for thallium occurred in a December 2023 storm water sampling event, which is the only reported MCL exceedance for this metal at the site.
 
 ### Site Record
-On March 10, 2023, thallium was not reported above the MDLs in the background and surface water samples collected. {{quote: "Antimony, beryllium, cadmium, cobalt, nickel, silver, and thallium were not reported above the MDLs in the background and surface water samples."}}
+During the March 24, 2017, surface water sampling event, thallium was not reported at concentrations equal to or greater than its method detection limit in samples PL1 through PL5. {{quote: "Beryllium, mercury, silver, and thallium were not reported at concentrations equal to or greater than their respective method detection limits for samples PL1 through PL5."}} (S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17)
 
-The June 2014 Final Feasibility Study Report found thallium present in stockpile soil, unlike antimony, selenium, and silver, which were non-detect in all 278 soil samples analyzed. {{quote: "Beryllium, cadmium, mercury, molybdenum and thallium were detected in the stockpile soil samples at low concentrations."}} {{quote: "Antimony, selenium and silver were not detected in any of the 278 soil samples analyzed."}}
+In the October 28, 2016, surface water sampling event, thallium was not detected in samples PL1 through PL5 or BG1 and BG2 at concentrations equal to or greater than their respective method detection limits. {{quote: "Beryllium, chromium, mercury, silver, thallium, and vanadium were not reported at concentrations equal to or greater than their respective method detection limits (MDLs) for samples PL1 through PL5."}} {{quote: "Arsenic, beryllium, cobalt, lead, mercury, selenium, silver, thallium, and vanadium were not reported at concentrations equal to or greater than their respective MDLs for samples BG1 and BG2."}} (S1200-01-01 Modesto Stockpiles Oct 2016 SW Sampling_12.16)
 
-Storm water sampling conducted by Geocon in December 2023 found thallium above the Primary MCL, the only such exceedance reported for this site; metal and TDS/sulfate concentrations in the March 2023 and December 2023 events were otherwise below their MCLs. {{quote: "Reported total dissolved solids (TDS), sulfate, and metal concentrations for the storm water samples during these two events were less than their Primary and Secondary Maximum Contaminant Levels (MCLs) except for thallium, which exceeded the primary MCL in storm water samples collected in December 2023."}} The subsequent February 2024 and February 2025 storm water sampling reports repeat this finding but do not document any resampling or follow-up investigation of the December 2023 exceedance.
+The June 2014 Final Feasibility Study Report indicated that thallium was detected in stockpile soil samples at low concentrations. {{quote: "Beryllium, cadmium, mercury, molybdenum and thallium were detected in the stockpile soil samples at low concentrations."}} (S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614)
+
+In the surface water sampling event of March 10, 2023, thallium was not reported above the method detection limits (MDLs) in the background and surface water samples collected. {{quote: "Antimony, beryllium, cadmium, cobalt, nickel, silver, and thallium were not reported above the MDLs in the background and surface water samples."}} (06A2542ct_to97_SurfaceWaterLetter_final.20230328)
+
+A storm water sampling event conducted in December 2023 reported thallium exceeding the primary MCL. {{quote: "Reported total dissolved solids (TDS), sulfate, and metal concentrations for the storm water samples during these two events were less than their Primary and Secondary Maximum Contaminant Levels (MCLs) except for thallium, which exceeded the primary MCL in storm water samples collected in December 2023."}} (S2350-01-02_2.4.2025 Stormwater Sampling Report_6.25)
 
 ### Regulatory Status
-Thallium exceeded its Primary MCL for drinking water in the December 2023 storm water sampling event. No other regulatory exceedances for thallium are documented in the source material.
+Thallium exceeded its Primary MCL for drinking water in a storm water sampling event conducted in December 2023. No other regulatory exceedances for thallium are documented in the provided source materials.
 
 ### Open Items
-No follow-up resampling or investigation of the December 2023 thallium exceedance is documented in the February 2024 or February 2025 storm water sampling reports.
+The storm water sampling reports from February 2024 and February 2025 do not document any resampling or follow-up investigation regarding the December 2023 thallium MCL exceedance.
 
 ### See also
 * [[antimony]]
 * [[arsenic]]
 * [[barium]]
 * [[beryllium]]
+* [[bg1]]
 * [[cadmium]]
 * [[chromium]]
 * [[cobalt]]
 * [[copper]]
+* [[mercury]]
+* [[molybdenum]]
+* [[nickel]]
 * [[selenium]]
 * [[silver]]
+* [[strontium]]
+* [[vanadium]]
+* [[zinc]]

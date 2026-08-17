@@ -1,13 +1,14 @@
 ---
 concept: borrow-area-sampling-plan
-entity_type: concept
-aliases: []
-sources: ["wiki/sources/Caltrans -DTSC Agreement/Caltrans -DTSC Agreement.md"]
+entity_type: deliverable
+aliases: ["Borrow Area Sampling Plan"]
+sources: ["Borrow Area Sampling Plan Approval E-Mail/Borrow Area Sampling Plan Approval E-Mail.md", "Borrow Area Sampling Plan/Borrow Area Sampling Plan.md"]
 confidence: high
-created_at: 2026-08-11T00:59:56Z
+created_at: 2026-08-17T23:49:11Z
 ---
 
-The [[borrow-area-sampling-plan]] is the department-of-toxic-substances-control|DTSC-approved protocol for characterizing native soil intended for use as [[clean-fill-suitable-as-cover]] on [[barium-containing-soil]] stockpiles at the [[caltrans]] Modesto Highway 132 (SR 132) remediation site. The plan was developed by Geocon Consultants for [[caltrans]] and covers soil from a borrow area within the SR 132 right-of-way, east of [[carpenter-road-area]]. [[department-of-toxic-substances-control]] conditionally approved the plan on February 13, 2020.
+## Overview
+The [[borrow-area-sampling-plan]] is the [[department-of-toxic-substances-control]] (DTSC)-approved protocol for characterizing native soil intended for use as [[clean-fill-suitable-as-cover]] on [[barium-containing-soil]] stockpiles at the [[caltrans]] Modesto Highway 132 (SR 132) remediation site. The plan was developed by Geocon Consultants for [[caltrans]] and covers soil from a borrow area within the SR 132 right-of-way, east of [[carpenter-road-area]]. [[department-of-toxic-substances-control]] conditionally approved the plan on February 13, 2020.
 
 ## Site record
 
@@ -43,6 +44,14 @@ On February 13, 2020, [[department-of-toxic-substances-control]], through Dean W
 
 ## See also
 
+*   [[annual-inspection-report]]
+*   [[annual-o-and-m-inspection-report]]
+*   [[arsenic]]
+*   [[barium]]
+*   [[barium-containing-soil-aerially-deposited-lead]]
+*   [[bcs-removal-verification-testing]]
+*   [[bridge-abutments]]
+*   [[caltrans-division-environmental-analysis]]
 *   [[caltrans]]
 *   [[sampling-plan]]
 *   [[carpenter-road-area]]

@@ -23,9 +23,7 @@ Write a wiki article grounded in the project record. The article should be usefu
 
 When source material discusses multiple analytes, wells, or entities in the same passage, attribute a value to {{.ConceptName}} only if the text explicitly names it as belonging to that concept. Never carry a number, unit, or threshold over from a different entity mentioned nearby — even one in the same sentence or a related concept's article — into this concept's claims. If you can't tell which entity a number belongs to, omit it.
 
-Whenever you state a specific date, document/case number, identifier (well ID, APN, site code), quantity, concentration, or other load-bearing fact drawn from the sources, immediately follow it with an inline citation in this exact form:
-{{"{{"}}quote: "exact text as it appears in the source"{{"}}"}}
-The quoted text must be a verbatim excerpt from the source material below — do not paraphrase, translate, round, or reconstruct it from memory. If you cannot find an exact supporting excerpt for a specific fact, omit the fact rather than citing a paraphrase. This is mechanically checked against the source text after you write — an unverifiable citation is worse than no citation.
+Every specific date, document/case number, identifier (well ID, APN, site code), quantity, concentration, or other load-bearing fact must be taken verbatim from the source material below — do not paraphrase a value, translate, round, or reconstruct it from memory. If the sources do not state a fact exactly, omit it rather than approximating. Do not embed inline quotations, excerpt markers, or bracketed citation tokens in the prose — write plain narrative text and refer to documents by name and date where useful.
 
 Adapt the article structure to what this concept actually is. Use whichever sections apply:
 

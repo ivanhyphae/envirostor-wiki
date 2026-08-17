@@ -4,7 +4,7 @@ entity_type: deliverable
 aliases: ["Basin 5 borrow‑area analytical data"]
 sources: ["wiki/sources/Approval E-mail_Revised Basin 5 Clean Fill Tech Memo/Approval E-mail_Revised Basin 5 Clean Fill Tech Memo.md"]
 confidence: high
-created_at: 2026-08-11T02:51:54Z
+created_at: 2026-08-17T23:49:03Z
 ---
 
 The [[basin-5-borrow-area-analytical-data]] refers to the soil characterization results for material designated as a clean cap borrow area for the State Route 132 stockpiles remediation. This data was reviewed by the Department of Toxic Substances Control (DTSC) and the Water Board to assess its suitability for capping Stockpiles 1 and 2.

@@ -1,32 +1,29 @@
 ---
 concept: site-specific-background-levels
 entity_type: concept
-aliases: []
-sources: ["wiki/sources/Caltrans Ramp Letter dated 5.29.12/Caltrans Ramp Letter dated 5.29.12.md"]
+aliases: ["site-specific background levels"]
+sources: ["09.20.2012 Final Caltrans Supplemental Site Characterization Workplan 2.md", "SR_132_DEIR_EA_Append_G-J/SR_132_DEIR_EA_Append_G-J.md", "wiki/sources/S1908-01-01 Caltrans Modesto Stockpile Interim RACR_12.22 (1)/S1908-01-01 Caltrans Modesto Stockpile Interim RACR_12.22 (1).md"]
 confidence: high
-created_at: 2026-08-11T00:59:27Z
+created_at: 2026-08-17T23:46:47Z
 ---
 
 ## Site Specific Background Levels
 
 ### Overview
-Site-specific background levels are used as a benchmark for evaluating contaminant concentrations in soil at the Caltrans Modesto Soil Stockpiles site. These levels are established to represent naturally occurring or pre-existing conditions at the site, against which excavated material is compared to determine its suitability for reuse or disposal.
+Site-specific background levels are used at the [[state-route-132-west-freeway-expressway-project]] in Modesto, Stanislaus County, California, to evaluate contaminant concentrations in soil. These levels represent naturally occurring or pre-existing conditions at the site, serving as a benchmark for determining the suitability of excavated material for reuse or disposal.
 
 ### Site Record
-The final analysis of soil from Stockpile #3 indicated the presence of elevated metal concentrations above site-specific background levels. {{quote: "The final analysis does indicate the presence of elevated metal concentrations above site-specific background levels, but below residential and commercial/industrial California Human Health Screening Levels."}} This material was deemed suitable for reuse as structural backfill or for offsite reuse/disposal as non-hazardous soil. {{quote: "Based on the current site investigation data, and the 2009 Preliminary E A, the soil material proposed for excavation is suitable for reuse as structural backfill, or for offsite reuse/disposal as a non-hazardous soil to an accepting facility following disclosure and review of the site characterization data."}}
+The [[caltrans]] Modesto Soil Stockpiles project has identified elevated metal concentrations in soil samples that exceed site-specific background levels. For instance, the final analysis of soil from Stockpile #3 indicated the presence of elevated metal concentrations above these site-specific background levels. However, these concentrations were reported to be below the [[dtsc-residential-screening-level]] and commercial/industrial California Human Health Screening Levels. This finding supported the determination that the soil material from Stockpile #3 was suitable for reuse as structural backfill or for offsite reuse/disposal as non-hazardous soil, following disclosure and review of the site characterization data.
 
 ### Regulatory Status
-Elevated metal concentrations were found to be above site-specific background levels. {{quote: "The final analysis does indicate the presence of elevated metal concentrations above site-specific background levels, but below residential and commercial/industrial California Human Health Screening Levels."}} However, these concentrations were below both residential and commercial/industrial [[california-human-health-screening-levels]]. {{quote: "The final analysis does indicate the presence of elevated metal concentrations above site-specific background levels, but below residential and commercial/industrial California Human Health Screening Levels."}} The [[department-of-toxic-substances-control]] (DTSC) was requested to concur that the excavated material from Stockpile #3 is considered non-hazardous. {{quote: "This contract is currently on hold awaiting your concurrence that the portion of material excavated from Stockpile #3 is considered non-hazardous and thus may be managed as described."}}
+The [[department-of-toxic-substances-control]] (DTSC) was requested to concur that excavated material from Stockpile #3, despite exceeding site-specific background levels for certain metals, should be managed as non-hazardous. This request was based on the understanding that the concentrations remained below applicable residential and commercial/industrial screening levels.
 
 ### Open Items
-The [[caltrans]] project is on hold pending concurrence from the DTSC regarding the management of excavated material from Stockpile #3. {{quote: "This contract is currently on hold awaiting your concurrence that the portion of material excavated from Stockpile #3 is considered non-hazardous and thus may be managed as described."}}
+The [[caltrans]] project was on hold pending concurrence from the DTSC regarding the management of excavated material from Stockpile #3 as non-hazardous.
 
 ### See Also
-* [[california-human-health-screening-levels]]
 * [[caltrans]]
-* [[chromium]]
-* [[commercial-industrial-screening-level]]
 * [[department-of-toxic-substances-control]]
 * [[dtsc-residential-screening-level]]
 * [[geocon-consultants]]
-* [[interim-removal-action-workplan]]
+* [[state-route-132-west-freeway-expressway-project]]

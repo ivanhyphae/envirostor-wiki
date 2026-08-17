@@ -1,34 +1,31 @@
 ---
 concept: modesto-ramp-rehabilitation-project
 entity_type: concept
-aliases: ["Modesto Ramp Rehabilitation Project"]
-sources: ["wiki/sources/08.30.2012 Caltrans Ramp5_srb RAdocx_srb 8_15_12_JS081612 RA4/08.30.2012 Caltrans Ramp5_srb RAdocx_srb 8_15_12_JS081612 RA4.md"]
+aliases: []
+sources: ["08.30.2012 Caltrans Ramp5_srb RAdocx_srb 8_15_12_JS081612 RA4.md", "wiki/sources/S9650-06-03 MODESTO RAMP WORKPLAN.0412/S9650-06-03 MODESTO RAMP WORKPLAN.0412.md"]
 confidence: high
-created_at: 2026-08-11T02:50:00Z
+created_at: 2026-08-17T23:47:09Z
 ---
 
-## Modesto Ramp Rehabilitation Project
-
-### Overview
 The Modesto Ramp Rehabilitation Project involved the remediation of soil stockpiles generated during the upgrade of the [[sr-99-kansas-avenue-northbound-off-ramp]] in Modesto, California. The project focused on addressing concentrations of certain metals in these stockpiles that exceeded applicable screening levels. The stockpiles originated from the early 1960s construction of SR 99, which traversed a portion of a parcel previously owned by Food Machinery and Chemical Corporation (FMC) Inc., a company that processed barium sulfate and strontium sulfate ores.
 
-### Site Record
-Soil samples from stockpiles associated with the Modesto Ramp Rehabilitation Project indicated the presence of arsenic, barium, and lead. Specifically, concentrations of arsenic and barium were found to exceed residential and commercial/industrial screening levels.
+## Site Record
 
-The primary chemicals of concern (COC) identified were barium, lead, and strontium. {{quote: "The primary chemicals of concern (COC) are barium, lead, and strontium."}}
+Soil samples from stockpiles associated with the Modesto Ramp Rehabilitation Project indicated the presence of arsenic, barium, and lead. Specifically, concentrations of arsenic and barium were found to exceed residential and commercial/industrial screening levels. The primary chemicals of concern (COC) identified were barium, lead, and strontium.
 
-The project involved the disposition of excavated material from the SR 99 Kansas Avenue Northbound Off-Ramp. {{quote: "This letter is in reply to California Department of Transportation (Caltrans) letters, dated May 29, 2012 and August 24, 2012 to the Department of Toxic Substances Control (DTSC) requesting DTSC's concurrence regarding disposition of excavated material resulting from ramp safety improvements located in Modesto along State Route (SR) 99 at Kansas Avenue."}}
+The material in question originated from [[stockpile-no-3]], which consisted of excess native soils and pond tailings. This stockpile was generated when Caltrans constructed a segment of SR 99 north of Kansas Avenue in the early 1960s. The excavation area traversed a portion of a 4.3-acre parcel purchased from Food Machinery and Chemical Corporation (FMC) Inc., where an evaporation pond was located. FMC Inc. and its predecessors processed barium sulfate and strontium sulfate ores and other minerals.
 
-The material in question originated from [[stockpile-no-3]], which consisted of excess native soils and pond tailings. {{quote: "Caltrans is proposing to upgrade the State Route (SR) 99 Kansas Avenue northbound ramp in the vicinity of Stockpile No. 3 which is one of three stockpiles consisting of excess native soils and pond tailings that were generated when Caltrans constructed a segment of SR 99 north of Kansas Avenue in the early 1960's."}} This area was previously part of a 4.3-acre parcel purchased from Food Machinery and Chemical Corporation (FMC) Inc., where an evaporation pond was located. {{quote: "Excavating the segment traversed a portion of a 4.3-acre parcel purchased from Food Machinery and Chemical Corporation (FMC) Inc. An evaporation pond was located in the southernmost corner of the parcel."}} FMC Inc. and its predecessors processed barium sulfate and strontium sulfate ores and other minerals. {{quote: "FMC Inc. (and its predecessors) was a chemical manufacturing company that processed barium sulfate and strontium sulfate ores and other minerals."}}
+A Site Investigation Workplan for the Modesto Ramp Rehabilitation Project, State Route 99 Kansas Avenue Northbound Off-Ramp, was prepared by Geocon Consultants, Inc. in April 2012. This workplan outlined procedures for a site investigation to be conducted at the SR99 Kansas Avenue Off-ramp. Nineteen soil borings were proposed in the vicinity of planned construction excavations on the northern end of Stockpile 3. These included direct-push borings and hand-auger borings. Soil samples collected were to be analyzed for Title 22 metals and strontium, and potentially for PAHs, sulfate, nitrate, sulfide, and pH. Soluble metal analysis using the Waste Extraction Test with deionized water extractant (DI-WET) was also planned for selected samples with elevated metal concentrations.
 
-### Regulatory Status
-The Department of Toxic Substances Control (DTSC), in consultation with the Regional Water Quality Control Board, Central Valley Region (RWQCB), reviewed information prepared by Caltrans' contractors, Geocon Consultants Inc. and Teichert Construction, for the Modesto Ramp Rehabilitation Project. {{quote: "DTSC, in consultation with the Regional Water Quality control Board, Central Valley Region (RWQCB) reviewed information prepared by Caltrans' contractors. Geocon Consultants Inc. (Geocon) and Teichert Construction for the Modesto Ramp Rehabilitation Project SR99 - Kansas Avenue Northbound Off-Ramp for Caltrans' proposed ramp construction activities in the vicinity of Stockpile No. 3."}}
+## Regulatory Status
 
-DTSC issued a letter on August 30, 2012, concurring with Caltrans' proposed disposition of excavated material. {{quote: "August 30, 2012 Ms. Sam Haack, P.E. Project Manger California Department of Transportation District 10 P.O. Box 2048 Stockton, California 95201 MODESTO RAMP REHABILITATION PROJECT, STATE ROUTE 99 - KANSAS AVENUE NORTHBOUND OFF-RAMP, MODESTO, CALIFORNIA Dear Ms. Haack: This letter is in reply to California Department of Transportation (Caltrans) letters, dated May 29, 2012 and August 24, 2012 to the Department of Toxic Substances Control (DTSC) requesting DTSC's concurrence regarding disposition of excavated material resulting from ramp safety improvements located in Modesto along State Route (SR) 99 at Kansas Avenue."}}
+The Department of Toxic Substances Control (DTSC), in consultation with the Regional Water Quality Control Board, Central Valley Region (RWQCB), reviewed information prepared by Caltrans' contractors, Geocon Consultants Inc. and Teichert Construction, for the Modesto Ramp Rehabilitation Project. DTSC issued a letter on August 30, 2012, concurring with Caltrans' proposed disposition of excavated material.
 
-The reviewed information included various reports such as a "Site Investigation Workplan" and "Transmittal of Site Investigation Data" by Geocon, a "Location 6 - Kansas Avenue Northbound Contaminated Material Removal Plan" by Teichert Construction, a "Dust Control Plan" by the San Joaquin Valley Air Pollution District, and a "Special Waste Profile" by Republic Services. {{quote: "Information reviewed includes: 1) \"Site Investigation Workplan, Modesto Ramp Rehabilitation Project State Route 99 - Kansas Avenue Northbound Off-Ramp, Modesto California\", (Geocon 4/13/2012); 2) \"Transmittal of Site investigation Data, Modesto Ramp Rehabilitation Project State Route 99 - Kansas Avenue Northbound Off-Ramp, Modesto California\", (Geocon, 4/24/2012); 3) \"Location 6 - Kansas Avenue Northbound Contaminated Material Removal Plan\", (Teichert Construction, 5/25/2012); 4) \"Dust Control Plan - Caltrans Project #10-0A6714, Highway 99 Off-Ramps - Tuolumne Blvd. to Kansas Avenue, DCP 826\", (San Joaquin Valley Air Pollution District, 6/16/2011) [1]; and 5) Special Waste Profile, (Republic Services, 7/30/2012)."}}
+The reviewed information included various reports such as a "Site Investigation Workplan" and "Transmittal of Site Investigation Data" by Geocon, a "Location 6 - Kansas Avenue Northbound Contaminated Material Removal Plan" by Teichert Construction, a "Dust Control Plan" by the San Joaquin Valley Air Pollution District, and a "Special Waste Profile" by Republic Services.
 
-### See also
+In prior assessments, a Preliminary Site Investigation (PSI) conducted in 2004 identified elevated barium concentrations in Stockpiles 2 and 3. A Human Health Risk Assessment (HHRA) prepared in 2007 concluded that none of the chemicals of potential concern (COPCs) posed potential health risks to construction workers, offsite residents, or trespassers. In response to a DTSC letter in August 2007 requesting additional information, a Final Preliminary Endangerment Assessment (PEA) was prepared in 2009. DTSC responded in a letter dated December 17, 2009, stating that the stockpiles, as managed by Caltrans, did not pose a risk to human health for Caltrans workers, trespassers, or adjacent residents. DTSC directed Caltrans to continue managing the stockpiles until the SR99/Highway 132 Interchange construction was complete and to maintain the existing groundwater monitoring system.
+
+## See also
 *   [[arsenic]]
 *   [[arsenic-exceeds-residential-and-commercial-industrial-screening-levels]]
 *   [[barium]]

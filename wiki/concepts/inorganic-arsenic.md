@@ -4,16 +4,16 @@ entity_type: contaminant
 aliases: ["inorganic arsenic"]
 sources: ["wiki/sources/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19.md"]
 confidence: high
-created_at: 2026-08-11T02:53:48Z
+created_at: 2026-08-17T23:50:20Z
 ---
 
 ## Inorganic Arsenic
 
 ### Overview
-Inorganic arsenic is a contaminant of concern at the [[caltrans-modesto-soil-stockpiles]] site, requiring specific health and safety protocols.
+Inorganic arsenic is a contaminant of concern at the [[caltrans-modesto-soil-stockpiles]] site. The project's Health and Safety Plan (HSP) addresses potential exposure to inorganic arsenic, with specific protocols for monitoring and employee protection.
 
 ### Site Record
-Monitoring and exposure assessment records for inorganic arsenic are maintained in accordance with T8 CCR §§5214 – Inorganic Arsenic. General site employees receive project orientation that covers the potential hazards of exposure to inorganic arsenic, as well as elements of the Health and Safety Plan (HSP) and other Cal/OSHA requirements.
+Monitoring and exposure assessment records for inorganic arsenic are maintained in accordance with T8 CCR §§5214 – Inorganic Arsenic. General site employees receive project orientation that covers the potential hazards of exposure to inorganic arsenic, as well as elements of the Health and Safety Plan (HSP) and other [[caltrans]] and Cal/OSHA requirements. The Project Manager is responsible for collecting and submitting health and safety documentation, including air monitoring records (exposure assessments) related to inorganic arsenic.
 
 ### Regulatory Status
 The permissible exposure limit (PEL) for inorganic arsenic is {{quote: "0.01 milligrams per cubic meter of air (same as 10 micrograms per cubic meter of air) as determined as an average over an 8-hour period."}} An action level of {{quote: "0.005 milligrams per cubic meter of air (same as 5 micrograms per cubic meter of air) determined as an average over an 8-hour period."}} is also established. Employees are prohibited from any skin or eye contact with arsenic trichloride or contact likely to cause skin or eye irritation.
@@ -31,6 +31,7 @@ Employees or their representatives are entitled to request and receive records o
 Employers are responsible for providing additional information and training regarding the hazards of inorganic arsenic exposure and associated engineering and work practice controls relevant to specific job tasks. If an employee is exposed above the permissible exposure limit, the employer must inform them of this fact and detail the actions being taken to reduce exposures.
 
 ### See Also
+- [[160000-cubic-yards-of-fill]]
 - [[barium]]
 - [[cadmium]]
 - [[caltrans]]

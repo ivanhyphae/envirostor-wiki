@@ -4,8 +4,15 @@ entity_type: concept
 aliases: [""]
 sources: ["wiki/sources/Caltrans -DTSC Agreement/Caltrans -DTSC Agreement.md", "wiki/sources/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814.md"]
 confidence: high
-created_at: 2026-08-11T02:54:40Z
+created_at: 2026-08-17T23:51:04Z
 ---
+
+concept: geotracker
+entity_type: concept
+aliases: [""]
+sources: ["wiki/sources/Caltrans -DTSC Agreement/Caltrans -DTSC Agreement.md", "wiki/sources/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814.md"]
+confidence: high
+created_at: 2026-08-11T02:54:40Z
 
 concept: geotracker
 entity_type: concept

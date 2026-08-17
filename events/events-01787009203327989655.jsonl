@@ -1,0 +1,2 @@
+{"id":"01a0120c7c7f-945cc27f4e77a363","time":"2026-08-17T23:26:43.32784386Z","workspace":"envirostor-wiki","type":"compile_started","data":{"job_id":"01a0120c7c61-bac5ddda489389b8","tier":3,"doc_count":0}}
+{"id":"01a0120c7c85-beabd90b0bb351a8","time":"2026-08-17T23:26:43.333363721Z","workspace":"envirostor-wiki","type":"compile_finished","data":{"job_id":"01a0120c7c61-bac5ddda489389b8","outcome":"completed","totals":{"docs":141,"compiled":0,"skipped":0,"input_tokens":0,"cached_tokens":0,"cache_write_tokens":0,"output_tokens":0,"cost":null}}}

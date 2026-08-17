@@ -4,34 +4,35 @@ entity_type: deliverable
 aliases: ["Stockpile 3 BCS Removal Verification Testing Tech Memo"]
 sources: ["wiki/sources/Stockpile 3 Confirmation Sampling Tech Memo Approval/Stockpile 3 Confirmation Sampling Tech Memo Approval.md"]
 confidence: high
-created_at: 2026-08-11T02:55:00Z
+created_at: 2026-08-17T23:51:20Z
 ---
 
 ## Stockpile 3 BCS Removal Verification Testing Tech Memo
 
-This technical memorandum documents the verification testing for the removal of Barium Containing Soil (BCS) Stockpile 3. The testing confirmed that the BCS material was excavated and that the remaining native soil met the cleanup levels established in the Remedial Design Implementation Plan (RDIP). This verification allowed for the area to be considered suitable for clean embankment fill.
+This technical memorandum documents the verification testing for the removal of Barium Containing Soil (BCS) Stockpile 3. The testing confirmed that the BCS material was excavated and that the remaining native soil met the cleanup levels established in the [[remedial-design-implementation-plan]]. This verification allowed for the area to be considered suitable for clean embankment fill.
 
 ## Site Record
 
-The Technical Memorandum dated March 13, 2020, detailed the removal of BCS Stockpile 3 and the subsequent confirmation soil sampling. {{quote: "please see appended Stockpile 3 BCS Removal Verification Testing Technical Memorandum for your submittal to DTSC for approval prior to placing clean embankment fill and constructing other State Route 132 highway‐related improvements east of State Route 99 with no further RDIP monitoring requirements."}} The sampling results indicated that the Stockpile 3 BCS had been removed and that the remaining soil met the RDIP verification thresholds. {{quote: "The sampling results indicate that the Stockpile 3 BCS has been removed and that the remaining soil meets the RDIP verification thresholds."}}
+The Technical Memorandum dated March 13, 2020, detailed the removal of BCS Stockpile 3 and the subsequent confirmation soil sampling. This memorandum was submitted by [[geocon-consultants]] for review by the [[department-of-toxic-substances-control]]. The sampling results indicated that the Stockpile 3 BCS had been removed and that the remaining soil met the [[remedial-design-implementation-plan]] verification thresholds.
 
-The removal and relocation of all BCS stockpile material was completed with analytical verification that all Stockpile 3 BCS material had been excavated to depths with concentrations of barium and lead in native soil below the established threshold values in the RDIP. {{quote: "With the analytical verification that all Stockpile 3 BCS material has been excavated to depths with concentrations of barium and lead in native soil that is below the established threshold values in the RDIP, the removal and relocation of all BCS stockpile material is now complete."}}
+The removal and relocation of all BCS stockpile material was completed with analytical verification that all Stockpile 3 BCS material had been excavated to depths with concentrations of [[barium]] and [[lead]] in native soil below the established threshold values in the [[remedial-design-implementation-plan]].
 
 ## Regulatory Status
 
-The Department of Toxic Substances Control (DTSC) accepted the Technical Memorandum dated March 13, 2020. {{quote: "DTSC has reviewed the Technical Memorandum (Memo) dated March 13, 2020 describing the removal of Barium Containing Soil (BCS) Stockpile 3 and the subsequent confirmation soil sampling that was completed to show this area has achieved the cleanup levels established in the Remedial Design Implementation Plan (RDIP). ... This e‐mail serves as DTSCs acceptance of the Memo."}} DTSC agreed that no further BCS RDIP monitoring requirements were necessary for this area and that it was suitable for clean embankment fill. {{quote: "DTSC agrees that no further BCS RDIP monitoring requirements are necessary and this areas is now suitable for clean embankment fill."}}
+The [[department-of-toxic-substances-control]] (DTSC) accepted the Technical Memorandum dated March 13, 2020. DTSC agreed that no further BCS [[remedial-design-implementation-plan]] monitoring requirements were necessary for this area and that it was suitable for clean embankment fill. This acceptance was communicated via email on March 18, 2020.
 
 ## Open Items
 
-Following the acceptance of the Stockpile 3 BCS Removal Verification Testing Technical Memorandum, Caltrans requested approval to begin the placement of a minimum 12-inch clean soil cover and/or a minimum 4-inch thick layer of aggregate base material (AB) on the surfaces of the BCS consolidation zones (including temporary slopes) of Stockpiles 1 and 2. {{quote: "Awaiting your approval to begin the placement of the minimum 12‐inch clean soil cover and/or a minimum 4‐inch thick layer of aggregate base material (AB) on the surfaces of the BCS consolidation zones (including temporary slopes) of Stockpiles 1 and 2."}}
+Following the acceptance of the Stockpile 3 BCS Removal Verification Testing Technical Memorandum, Caltrans requested approval to begin the placement of a minimum 12-inch clean soil cover and/or a minimum 4-inch thick layer of aggregate base material (AB) on the surfaces of the BCS consolidation zones (including temporary slopes) of [[stockpile-1]] and Stockpile 2.
 
 ## See also
 - [[barium]]
-- [[barium-below-mcl]]
 - [[barium-containing-soil]]
 - [[bcs-removal-verification-testing]]
 - [[caltrans]]
-- [[central-valley-rwqcb]]
-- [[clean-cover]]
-- [[clean-soil-cover]]
 - [[department-of-toxic-substances-control]]
+- [[geocon-consultants]]
+- [[john-e-juhrend]]
+- [[lead]]
+- [[remedial-design-implementation-plan]]
+- [[stockpile-1]]

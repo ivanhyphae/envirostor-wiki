@@ -4,13 +4,13 @@ entity_type: concept
 aliases: []
 sources: ["wiki/sources/43A0487 _04 Modesto Stockpiles - signed/43A0487 _04 Modesto Stockpiles - signed.md"]
 confidence: high
-created_at: 2026-08-11T02:50:21Z
+created_at: 2026-08-17T23:48:21Z
 ---
 
-Matthew Farris is identified as the Caltrans Contract Manager for Service Request 43A0487-04, related to the Modesto Soil Stockpiles project. His phone number is listed as 916-956-4415.{{quote: "Caltrans Contract Manager: Matthew Farris Phone No.: 916-956-4415"}}
+Matthew Farris is identified as the Caltrans Contract Manager for Service Request 43A0487-04, which pertains to the Modesto Soil Stockpiles project. His contact phone number is listed as 916-956-4415.
 
 ## Site record
-Matthew Farris's role is solely defined by his title and contact information within the context of the Interagency Agreement Service Request Contract Service Request -04. No specific project actions, decisions, or data are attributed to him in the provided source material.
+Matthew Farris's role is defined solely by his title and contact information within the context of the Interagency Agreement Service Request Contract Service Request -04. The provided source material does not attribute any specific project actions, decisions, or data to him.
 
 ## Regulatory status
 Not applicable based on the provided source material.

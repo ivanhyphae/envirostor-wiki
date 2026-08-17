@@ -2,32 +2,35 @@
 concept: site-mitigation-and-restoration-program
 entity_type: concept
 aliases: ["Site Mitigation and Restoration Program"]
-sources: ["wiki/sources/DTSC Letter Response - 2025 GW Monitoring Report (900259)/DTSC Letter Response - 2025 GW Monitoring Report (900259).md", "wiki/sources/DTSC PM Change Notice - State Route 132 - Modesto Soil Stockpiles, Modesto/DTSC PM Change Notice - State Route 132 - Modesto Soil Stockpiles, Modesto.md"]
+sources: ["wiki/sources/Final O and M Agreement with Cover Letter (900259)/Final O and M Agreement with Cover Letter (900259).md"]
 confidence: high
-created_at: 2026-08-11T02:55:35Z
+created_at: 2026-08-17T23:50:01Z
 ---
 
-The [[site-mitigation-and-restoration-program]] (SM&RP) is a program managed by [[caltrans]] for the remediation and restoration of sites impacted by contamination. For the [[caltrans-modesto-soil-stockpiles]] project, the SM&RP oversees the investigation and cleanup activities related to soil stockpiles generated from the State Route 132 (SR 132) widening project in Stanislaus County, California. The program works in conjunction with the [[dtsc]] (DTSC) to ensure compliance with environmental regulations.
+The [[site-mitigation-and-restoration-program]] (SM&RP) is a program managed by [[caltrans]] that oversees the remediation and restoration of impacted sites. For the [[caltrans-modesto-soil-stockpiles]] project, the SM&RP is involved in managing soil stockpiles generated from the State Route 132 (SR 132) widening project in Stanislaus County, California. This program operates under the oversight of the [[department-of-toxic-substances-control]] (DTSC).
 
 ## Site record
 
-The SM&RP is involved in the management of soil stockpiles that have been characterized for various constituents. For instance, in the 2025 Groundwater Monitoring Report, specific analytes were monitored. The report details results for constituents such as arsenic, cadmium, chromium, lead, mercury, and selenium. The SM&RP's role includes ensuring that these stockpiles are managed and disposed of in accordance with regulatory requirements.
+The SM&RP is responsible for the management of soil stockpiles characterized for various constituents. The "Final Operation and Maintenance Agreement" dated June 20, 2023, identifies the site as adjacent and west of Emerald Avenue between approximate State Route (SR) 132 Stations 1125+50 (Stockpile 1) and between Emerald Avenue and SR 99 between approximate SR 132 Stations 1135+35 and 1148+30 (Stockpile 2). These stockpiles collectively constitute the Site. The installed remedy for the soil at the Site consists of consolidation and clean fill capping of [[barium-containing-soil]] (BCS) as highway embankment fill for the SR 132 West Expressway. The Site is owned by [[caltrans]].
+
+The "Operations and Maintenance Plan" prepared by [[geocon-consultants]], Inc. for the Caltrans Modesto Soil Stockpiles Interim Phase 1 State Route 132 West Project, dated December 1, 2022, outlines reporting requirements for Stockpile 1 and 2 BCS Containment Zone disturbance activities and O&M activities. Reporting notifications and documentation are to be managed between Richard Stewart, PG, Engineering Geologist for Caltrans Central Region Environmental Division, and Dean Wright, PG, Project Manager for the DTSC Site Mitigation and Restoration Program.
 
 ## Regulatory status
 
-The SM&RP operates under the oversight of the DTSC. The DTSC provides regulatory guidance and approval for the remediation and restoration activities. For the [[caltrans-modesto-soil-stockpiles]] project, the DTSC issued a [[conditional-approval-letter]] on January 26, 2023, outlining specific requirements for the management and disposal of the soil stockpiles. This letter, referenced as DTSC PM Change Notice - State Route 132 - Modesto Soil Stockpiles, Modesto, indicates that the DTSC has conditionally approved the project's approach to managing the stockpiled soil. The SM&RP is responsible for implementing the conditions set forth in this approval.
+The SM&RP, through [[caltrans]], entered into an "Operation and Maintenance Agreement" with the DTSC, as documented in the cover letter dated June 20, 2023. This agreement is pursuant to Health and Safety Code section 25355.5(a)(1)(C) and/or section 25187, authorizing the DTSC to oversee the investigation and/or remediation of a release or threatened release of any hazardous substance or hazardous waste, and to oversee the operation and maintenance of any remedy installed at the Site. The DTSC has approved the remedy for the Site, which involves the consolidation and capping of [[barium-containing-soil]] as highway embankment fill.
 
 ## Open items
 
-The DTSC's letter response to the 2025 Groundwater Monitoring Report, dated October 27, 2025, indicates that further actions may be required. The DTSC requested additional information regarding the groundwater monitoring results, specifically concerning the presence of certain constituents. The SM&RP is expected to address these requests to ensure continued regulatory compliance and project progression.
+The "Final Operation and Maintenance Agreement" cover letter dated June 20, 2023, states that the next project task will be recording the Land Use Covenant (LUC) on the remediated area to restrict its use. The DTSC indicated they will send a draft of the LUC for review and signature within the next several weeks.
 
 ## See also
 
 * [[caltrans]]
-* [[dtsc]]
+* [[department-of-toxic-substances-control]]
+* [[caltrans-modesto-soil-stockpiles]]
+* [[geocon-consultants]]
 * [[adam-inman]]
 * [[arielle-mcleskey]]
-* [[caltrans-district-6]]
-* [[caltrans-modesto-soil-stockpiles]]
-* [[conditional-approval-letter]]
+* [[barium]]
+* [[barium-containing-soil]]
 * [[dean-wright]]

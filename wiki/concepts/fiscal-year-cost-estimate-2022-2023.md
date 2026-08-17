@@ -4,10 +4,10 @@ entity_type: deliverable
 aliases: ["FY 2022-2023"]
 sources: ["wiki/sources/Fiscal Year Cost Estimate 22_23_Modesto Soil Stockpiles (900259)/Fiscal Year Cost Estimate 22_23_Modesto Soil Stockpiles (900259).md"]
 confidence: high
-created_at: 2026-08-11T02:53:30Z
+created_at: 2026-08-17T23:50:06Z
 ---
 
-The [[fiscal-year-cost-estimate-2022-2023]] for the [[modesto-soil-stockpiles-project]] outlines the anticipated oversight costs by the [[department-of-toxic-substances-control]] (DTSC) for activities scheduled between July 1, 2022, and June 30, 2023. This estimate is provided to the [[caltrans]] (Caltrans) in accordance with Health and Safety Code Section 25269.5.
+The [[fiscal-year-cost-estimate-2022-2023]] for the [[caltrans-modesto-soil-stockpiles]] project details the anticipated oversight costs by the [[department-of-toxic-substances-control]] (DTSC) for activities scheduled between July 1, 2022, and June 30, 2023. This estimate was provided to [[caltrans]] on October 4, 2022, by Ms. Lora Jameson, P.G., Chief of the Site Evaluation and Remediation Unit at DTSC.
 
 ## Site Record
 
@@ -25,7 +25,7 @@ The DTSC emphasizes that Responsible Parties/Project Proponents remain liable fo
 
 ## Regulatory Status
 
-The DTSC is responsible for providing oversight and cost estimates for remediation activities at the [[modesto-soil-stockpiles-project]]. The estimate provided is in accordance with Health and Safety Code Section 25269.5.
+In accordance with Health and Safety Code Section 25269.5, the DTSC is responsible for providing oversight and cost estimates for remediation activities at the [[caltrans-modesto-soil-stockpiles]] project. The estimate provided is for the period of July 1, 2022, through June 30, 2023.
 
 ## Open Items
 
@@ -33,9 +33,7 @@ The DTSC's cost estimate is based on projected activities and is subject to chan
 
 ## See Also
 *   [[caltrans]]
-*   [[dean-wright]]
+*   [[caltrans-modesto-soil-stockpiles]]
 *   [[department-of-toxic-substances-control]]
-*   [[fiscal-year-cost-estimate]]
 *   [[lora-jameson]]
-*   [[modesto-soil-stockpiles-project]]
-*   [[sr-132-west-project]]
+*   [[state-route-132-west-freeway-expressway-project]]

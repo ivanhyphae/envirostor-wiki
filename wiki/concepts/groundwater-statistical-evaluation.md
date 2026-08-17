@@ -1,15 +1,12 @@
 ---
 concept: groundwater-statistical-evaluation
 entity_type: deliverable
-aliases: ["Evaluation Report", "Updated Comparative Evaluation of Groundwater Data, Caltrans Encapsulated Soil Stockpiles, State Route 132, Stanislaus County, California"]
-sources: ["wiki/sources/Approval of GW Statistical Evaluation (900259)/Approval of GW Statistical Evaluation (900259).md", "wiki/sources/1. SR_132_FEIR_EA_ 20180302 FINAL Main Doc/1. SR_132_FEIR_EA_ 20180302 FINAL Main Doc.md", "wiki/sources/Caltrans -DTSC Agreement/Caltrans -DTSC Agreement.md"]
+aliases: ["Statistical evaluation", "Updated Comparative Evaluation of Groundwater Data"]
+sources: ["SR_132_DEIR_EA_Append_G-J/SR_132_DEIR_EA_Append_G-J.md", "wiki/sources/S2350-01-02 Updated Statistical Evaluation Report_2.24/S2350-01-02 Updated Statistical Evaluation Report_2.24.md", "wiki/sources/S2350-01-02 Well Destruction Report_6.25/S2350-01-02 Well Destruction Report_6.25.md"]
 confidence: high
-created_at: 2026-08-11T00:57:14Z
+created_at: 2026-08-17T23:50:38Z
 ---
 
-# Groundwater Statistical Evaluation
-
-## Overview
 The Groundwater Statistical Evaluation is a site-specific analysis conducted to determine whether concentrations of site-related constituents in monitoring wells represent background conditions or indicate a release from the former [[caltrans-modesto-soil-stockpiles]] at the SR 132 project in Modesto, Stanislaus County. This evaluation was performed as part of the post-removal site characterization to support regulatory closure under the oversight of the [[department-of-toxic-substances-control]].
 
 ## Site record
@@ -17,8 +14,10 @@ The statistical evaluation utilized groundwater analytical data collected from m
 
 The statistical evaluation was documented in the *Post-Removal Site Characterization Report, Caltrans SR 132 Modesto Soil Stockpiles*. Results indicated that for the majority of constituents and wells, concentrations were not statistically significantly different from background. Where exceedances of comparison thresholds were evaluated, the statistical analysis informed whether the exceedance was attributable to site releases or to naturally occurring background concentrations. Wells that demonstrated statistically significant differences from background were identified, and those findings were carried forward into the risk evaluation and closure decision framework. In several cases, constituents that initially exceeded regulatory screening levels were demonstrated through the statistical evaluation to be consistent with background variability and were therefore not considered site-related releases.
 
+The *Updated Comparative Evaluation of Groundwater Data, Caltrans Encapsulated Soil Stockpiles, State Route 132, Stanislaus County, California* dated February 26, 2024, was submitted by Geocon Consultants Inc. on behalf of Caltrans. This report summarized data collected since 2014 and recommended the decommissioning of four remaining monitoring wells: [[mw-4]], [[mw-6]], [[mw-9]], and [[mw-10]].
+
 ## Regulatory status
-The [[department-of-toxic-substances-control]] reviewed and conditionally approved the statistical methodology and findings presented in the *Post-Removal Site Characterization Report*. The statistical evaluation was accepted as the basis for distinguishing site-related impacts from background conditions, consistent with [[department-of-toxic-substances-control]] guidance for closure of low-threat sites. The evaluation supported the [[department-of-toxic-substances-control]]'s determination that residual groundwater concentrations in the former stockpile areas do not pose a threat to human health or the environment, and no further groundwater monitoring or active remediation was required by the agency as a condition of closure.
+The *Updated Comparative Evaluation of Groundwater Data* dated February 26, 2024, was reviewed by the [[department-of-toxic-substances-control]] (DTSC) in consultation with the [[central-valley-rwqcb]]. DTSC and the RWQCB agreed that the data indicated the encapsulated soil was not impacting groundwater and would not impact groundwater in the future. This conclusion was supported by the consistency with an earlier 2014 evaluation and the recent encapsulation of the soil beneath the State Route (SR) 132 Express Way. DTSC and the RWQCB concurred with the recommendation to discontinue groundwater monitoring beneath the soil stockpiles and decommission the four remaining monitoring wells (MW4, MW6, MW9, and MW10) as per the approved Remedial Design and Implementation Plan. This approval was communicated via electronic mail on May 3, 2024.
 
 ## Open items
 No unresolved items related to the Groundwater Statistical Evaluation have been documented in the project record. The statistical evaluation was completed and accepted as part of the approved closure documentation.
@@ -32,3 +31,7 @@ No unresolved items related to the Groundwater Statistical Evaluation have been 
 * [[caltrans-modesto-soil-stockpiles]]
 * [[central-valley-rwqcb]]
 * [[chromium]]
+* [[mw-10]]
+* [[mw-4]]
+* [[mw-6]]
+* [[mw-9]]
