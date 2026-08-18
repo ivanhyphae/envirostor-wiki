@@ -1,8 +1,8 @@
 ---
 concept: consolidation-and-capping
 entity_type: concept
-aliases: ["consolidated barium-containing soil (BCS)", "consolidation and capping"]
-sources: ["Caltrans Modesto Soil Stcokpiles RDIP Variance/Caltrans Modesto Soil Stcokpiles RDIP Variance.md", "wiki/sources/E-mail Acceptance of Bent 2 Soils Tech Memo/E-mail Acceptance of Bent 2 Soils Tech Memo.md", "wiki/sources/Final O and M Agreement with Cover Letter (900259)/Final O and M Agreement with Cover Letter (900259).md", "wiki/sources/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313.md", "wiki/sources/SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020/SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020.md", "wiki/sources/SR 132 Clean Borrow Area Technical Memo/SR 132 Clean Borrow Area Technical Memo.md"]
+aliases: ["consolidated barium-containing soil (BCS)", "consolidation and capping", "BCS consolidation and capping", "bcs-consolidation-and-capping", "bcs consolidation and capping"]
+sources: ["Caltrans Modesto Soil Stcokpiles RDIP Variance/Caltrans Modesto Soil Stcokpiles RDIP Variance.md", "wiki/sources/E-mail Acceptance of Bent 2 Soils Tech Memo/E-mail Acceptance of Bent 2 Soils Tech Memo.md", "wiki/sources/Final O and M Agreement with Cover Letter (900259)/Final O and M Agreement with Cover Letter (900259).md", "wiki/sources/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313.md", "wiki/sources/SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020/SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020.md", "wiki/sources/SR 132 Clean Borrow Area Technical Memo/SR 132 Clean Borrow Area Technical Memo.md", "wiki/sources/S1908-01-01 Caltrans Modesto Stockpile Interim RACR_12.22 (1)/S1908-01-01 Caltrans Modesto Stockpile Interim RACR_12.22 (1).md"]
 confidence: high
 created_at: 2026-08-17T23:49:27Z
 ---

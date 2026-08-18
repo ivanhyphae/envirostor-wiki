@@ -36,5 +36,5 @@ As of February 11, 2021, the SMP did not explicitly detail the actions to be tak
 * [[central-valley-rwqcb]]
 * [[department-of-toxic-substances-control]]
 * [[rincon-consultants]]
-* [[sr-132-modesto]]
+* [[sr-132]]
 * [[tph-screening-levels]]

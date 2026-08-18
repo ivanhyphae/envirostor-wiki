@@ -1,8 +1,8 @@
 ---
 concept: clean-cover-embankment-fill
 entity_type: concept
-aliases: []
-sources: ["wiki/sources/Caltrans -DTSC Agreement/Caltrans -DTSC Agreement.md", "wiki/sources/RDIP Variance Request Acceptance E-Mail/RDIP Variance Request Acceptance E-Mail.md"]
+aliases: ["clean embankment fill", "clean-embankment-fill"]
+sources: ["wiki/sources/Caltrans -DTSC Agreement/Caltrans -DTSC Agreement.md", "wiki/sources/RDIP Variance Request Acceptance E-Mail/RDIP Variance Request Acceptance E-Mail.md", "wiki/sources/SR 132 Stockpile 2 BCS Removal Tech Memo/SR 132 Stockpile 2 BCS Removal Tech Memo.md"]
 confidence: high
 created_at: 2026-08-11T01:00:12Z
 ---

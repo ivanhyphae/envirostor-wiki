@@ -10,7 +10,7 @@ created_at: 2026-08-17T23:50:06Z
 ## TPH Screening Levels
 
 ### Overview
-Total Petroleum Hydrocarbons (TPH) screening levels are benchmarks used to evaluate the presence and extent of petroleum contamination in soil at the [[sr-132-modesto]] project. Exceedances of these levels trigger specific management and disposal protocols for affected soil.
+Total Petroleum Hydrocarbons (TPH) screening levels are benchmarks used to evaluate the presence and extent of petroleum contamination in soil at the [[sr-132]] project. Exceedances of these levels trigger specific management and disposal protocols for affected soil.
 
 ### Site Record
 The screening level for diesel range Total Petroleum Hydrocarbons (TPH-d) was revised to 500 mg/kg, aligning with the [[department-of-toxic-substances-control]] (DTSC) screening level for commercial/industrial soil. This revision was incorporated into a [[soil-management-plan]] submitted on February 8, 2021. Soil identified with TPH concentrations above these screening levels is to be segregated, covered, and labeled prior to offsite transport. Targeted excavation of TPH-d impacted soils was planned at borings RB-10 and RB-11 within Basin 6A.
@@ -27,4 +27,4 @@ The accepted [[soil-management-plan]] did not initially detail actions for scena
 - [[department-of-toxic-substances-control]]
 - [[rincon-consultants]]
 - [[soil-management-plan]]
-- [[sr-132-modesto]]
+- [[sr-132]]

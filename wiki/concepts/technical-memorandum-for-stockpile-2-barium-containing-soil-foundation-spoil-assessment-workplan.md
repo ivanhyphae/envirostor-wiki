@@ -15,13 +15,13 @@ The [[weather-station-foundation-and-overhead-sign-1-installation]] project invo
 
 ## Regulatory status
 
-The assessment of Stockpile 2 spoil material is being conducted in relation to [[site-specific-background-concentrations]] for barium. Sampling results from the [[weather-station-foundation-and-overhead-sign-1-installation]] foundation spoil indicated [[barium-and-lead-sampling-results-below-site-specific-background-concentrations]].
+The assessment of Stockpile 2 spoil material is being conducted in relation to [[site-specific-background-levels]] for barium. Sampling results from the [[weather-station-foundation-and-overhead-sign-1-installation]] foundation spoil indicated [[barium-and-lead-sampling-results-below-site-specific-background-concentrations]].
 
 ## See also
 
 *   [[barium]]
 *   [[barium-and-lead-sampling-results-below-site-specific-background-concentrations]]
 *   [[lead]]
-*   [[site-specific-background-concentrations]]
+*   [[site-specific-background-levels]]
 *   [[stockpile-1]]
 *   [[weather-station-foundation-and-overhead-sign-1-installation]]

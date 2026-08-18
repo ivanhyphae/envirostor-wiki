@@ -9,7 +9,7 @@ created_at: 2026-08-17T23:51:11Z
 
 ## Barium And Lead Verification Thresholds
 
-The Barium and Lead Verification Thresholds were established for the remediation of soil stockpiles at the SR 132 project in Stanislaus County, California. These thresholds guided the excavation and verification sampling to ensure that residual concentrations of barium and lead in the soil were below acceptable levels before the placement of [[clean-embankment-fill]].
+The Barium and Lead Verification Thresholds were established for the remediation of soil stockpiles at the SR 132 project in Stanislaus County, California. These thresholds guided the excavation and verification sampling to ensure that residual concentrations of barium and lead in the soil were below acceptable levels before the placement of [[clean-cover-embankment-fill]].
 
 ## Site Record
 
@@ -32,7 +32,7 @@ The verification thresholds for barium and lead were established to meet regulat
 
 *   [[barium]]
 *   [[barium-containing-soil]]
-*   [[clean-embankment-fill]]
+*   [[clean-cover-embankment-fill]]
 *   [[department-of-toxic-substances-control]]
 *   [[geocon-consultants]]
 *   [[john-e-juhrend]]
