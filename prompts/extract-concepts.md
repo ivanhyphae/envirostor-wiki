@@ -29,6 +29,7 @@ Prefer a smaller number of substantial pages over a large number of thin ones. A
 - **Regulatory standards**: named thresholds cited in the record (Title 22 MCL, California primary MCL, California *secondary* MCL, CHHSL, STLC/TTLC, site-specific background). Primary and secondary MCLs are different standards.
 - **Regulatory decisions**: named formal actions (RAP approval, RDIP acceptance, land use covenant, variance approvals, conditional approvals).
 - **Responsible parties**: organizations with a defined role (DTSC, Central Valley RWQCB, Caltrans and its divisions, Geocon, Stantec, WSP, FMC Corporation).
+- **People holding a named continuing role**: the small number of individuals the record assigns an ongoing responsibility, such as the DTSC and Caltrans Service Request Managers. A handful at most — see the exclusion below.
 - **Approval-chain deliverables**: the named documents that carry regulatory standing and are referenced across the record — RAP, RDIP, RACR, Feasibility Study, HHRA, SSI, O&M Plan, Soil Management Plan, and the major tech memos that received formal agency acceptance.
 - **Claims**: assertions that recur across documents and are load-bearing or contested ("no offsite groundwater migration", "clean fill suitable as cover", "groundwater not impacted").
 
@@ -55,6 +56,25 @@ For each concept:
 - `name`: lowercase-hyphenated identifier (e.g. "mw-5", "barium-mcl", "phase-1-consolidation"). Keep it short — a name longer than about five words means you are extracting a sentence.
 - `aliases`: alternative names and spellings used in the documents
 - `sources`: the source file path(s) that mention this concept. Each summary below is headed by a line "### Source: <path>" — copy that <path> string EXACTLY, character for character, into the sources array. Do not abbreviate it, drop the "wiki/sources/" prefix, drop the filename, or reconstruct it from memory — the path must be copied verbatim from the "### Source:" line, or downstream grounding checks cannot locate the file.
-- `type`: concept, technique, or claim
+- `type`: the entity type, from this list exactly:
+
+| type | use for |
+|---|---|
+| `site` | the site and its named physical areas — stockpiles, basins, borrow areas, corridor segments |
+| `contaminant` | a chemical with a documented detection at this site |
+| `monitoring_location` | a fixed sampling point — MW-n, PLn, BGn, fenceline and stormwater stations |
+| `remedial_action` | a physical remediation activity — consolidation, capping, excavation, well destruction |
+| `infrastructure` | engineered features — MSE walls, abutments, caps, drainage systems |
+| `regulatory_standard` | a threshold — MCLs (primary and secondary are distinct), CHHSL, STLC/TTLC, background levels |
+| `regulatory_decision` | a formal agency action — approval, conditional approval, acceptance, covenant, variance |
+| `responsible_party` | an organization with a role — Caltrans, DTSC, RWQCB, Geocon, Stantec, WSP, FMC |
+| `person` | a named individual holding a defined continuing role, such as a Service Request Manager |
+| `deliverable` | a named document with regulatory standing — RAP, RDIP, RACR, FS, HHRA, SSI, O&M Plan, SMP |
+| `claim` | a recurring, load-bearing or contested assertion about site conditions |
+| `risk` | an identified hazard or exposure pathway |
+| `liability` | a legal or financial exposure — cost recovery, enforcement, land use restriction |
+| `community_concern` | a concern raised by or for affected communities — dust, access, notification |
+
+Use the most specific type that fits. `concept` exists as a fallback but is a last resort — if the best you can say about an entity is that it is a generic "concept", that is usually a sign it does not deserve a page at all. Do not emit `source`, `artifact`, `technique`, `sampling_event`, or `monitoring_result`: source documents are already indexed separately, and individual sampling events and measured values belong as facts inside the contaminant, monitoring-location, or deliverable pages that concern them.
 
 Output ONLY a JSON array of objects. No markdown, no explanation.
