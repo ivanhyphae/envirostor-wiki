@@ -31,7 +31,27 @@ Two things must come through:
 
 Make comparisons mean something. "Thallium was detected at 0.00037 mg/L, 3.7 times the 0.0001 mg/L primary MCL" tells the reader what "0.00037" could not. Say whether a value is rising or falling across rounds, whether an exceedance was isolated or repeated, whether it was in a background well or a downgradient one. A number with no comparison, and an exceedance with no consequence, are both failures.
 
-Where the record leaves the chain genuinely incomplete on something a reviewer would need — an exceedance with no recorded response, a conditional approval whose condition was never shown to be met — that gap is itself significant and worth one plain sentence. Do not manufacture gaps to fill space, and do not speculate about what probably happened.
+## The record outranks the narrative
+
+This is the most important rule in this prompt, and it overrides everything above. **The demand for a story never licenses inventing one.** If the record does not record a consequence, the article has no consequence. A short article that stops where the evidence stops is correct; a complete-sounding one that supplies the missing links is a fabrication, and in a regulatory case file that is the worst thing you can produce.
+
+Never write that an agency required, requested, ordered, or responded, that a plan was submitted, developed, approved, or implemented, or that anything affected schedule, cost, or risk, unless the source material says so. Do not reason from what usually follows an exceedance. Do not conclude that a finding "prompted regulatory action" because that is what normally happens.
+
+Use the record's own precision and no more. If it says "December 2023", write December 2023 — never sharpen it to a specific day. If it says concentrations were not reported, do not supply a number. Never state a threshold value the sources do not state. Before you write any date, concentration, or threshold, confirm it appears in the source material above; if you cannot point to it, leave it out.
+
+Here is the difference, using a real case from this project. The record establishes that thallium was detected at low concentrations in stockpile soil in the June 2014 Final FS Report, that it had not been detected in groundwater or in pre-2023 surface water, that March 2023 stormwater sampling did **not** report it above MCLs, and that the December 2023 stormwater event was the first reported MCL exceedance for thallium at the site.
+
+Written as fabrication — every clause below is invented and none of it appears in the record:
+
+> "In stormwater samples collected on March 15, 2023, thallium was detected at 0.00037 mg/L, exceeding the California primary MCL of 0.0001 mg/L by a factor of 3.7. In response, Caltrans was required to submit a remediation plan… impacting project timelines and costs."
+
+Written from the record — the significance was there to be found, and needed no invention:
+
+> "Thallium was detected at low concentrations in stockpile soil in the June 2014 Final FS Report and had not appeared in groundwater or in surface water before 2023. The December 2023 stormwater event is the first reported MCL exceedance for thallium at the site; the March 2023 round did not report it above MCLs. The reports covering it are dated February 2024 and February 2025. Concentrations are not given in the available material."
+
+The second is shorter, carries real significance — a first-ever exceedance in a previously clean constituent — and every clause is traceable. Note that its closing sentence states a limit of the evidence, which is legitimate and different from padding: it qualifies a fact being reported, rather than filling a section with an absence.
+
+Where the record genuinely leaves a chain incomplete on something a reviewer would need — an exceedance with no recorded response, a conditional approval never shown to be satisfied — one plain sentence saying so is worth writing. Do not manufacture such gaps to fill space, and never speculate about what probably happened.
 
 Open with two to four sentences giving the reader the story and its significance at once — not a definition. No heading above this opening; the title is added automatically.
 
@@ -55,6 +75,10 @@ These are tendencies, not a template. Use `##` headings that name what is actual
 - "This plan outlines proposed remedial actions, which would be subject to DTSC's review and approval."
 - "The specific conditions for approval are detailed within the project's regulatory correspondence."
 - "Its presence and concentration are tracked as part of the monitoring program."
+- "This highlights the importance of proper stockpile management and the effectiveness of stormwater controls."
+- "These were critical steps in demonstrating compliance and ensuring the protection of environmental receptors."
+
+The last two are a particular trap when writing about significance: they sound like impact while asserting nothing. Real significance is specific and checkable — a first-ever exceedance, a condition still unmet, a well that must be destroyed before construction, a threshold that decides whether soil can be reused on site.
 
 Each says nothing a reader did not already know. Replace them with the actual decision, date, condition, or value — or write nothing.
 
