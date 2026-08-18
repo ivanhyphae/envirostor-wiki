@@ -37,6 +37,8 @@ This is the most important rule in this prompt, and it overrides everything abov
 
 Never write that an agency required, requested, ordered, or responded, that a plan was submitted, developed, approved, or implemented, or that anything affected schedule, cost, or risk, unless the source material says so. Do not reason from what usually follows an exceedance. Do not conclude that a finding "prompted regulatory action" because that is what normally happens.
 
+**The same ban applies in the conditional.** Speculation is not rescued by the subjunctive: "an exceedance *would* trigger further investigation", "*could* require remediation", "*potentially* impacting project timelines and costs", "*may* affect long-term liability" are all inventions dressed as caution. Write what the record says happened. If nothing is recorded, write nothing — never a hypothetical consequence.
+
 Use the record's own precision and no more. If it says "December 2023", write December 2023 — never sharpen it to a specific day. If it says concentrations were not reported, do not supply a number. Never state a threshold value the sources do not state. Before you write any date, concentration, or threshold, confirm it appears in the source material above; if you cannot point to it, leave it out.
 
 Here is the difference, using a real case from this project. The record establishes that thallium was detected at low concentrations in stockpile soil in the June 2014 Final FS Report, that it had not been detected in groundwater or in pre-2023 surface water, that March 2023 stormwater sampling did **not** report it above MCLs, and that the December 2023 stormwater event was the first reported MCL exceedance for thallium at the site.
@@ -52,6 +54,8 @@ Written from the record — the significance was there to be found, and needed n
 The second is shorter, carries real significance — a first-ever exceedance in a previously clean constituent — and every clause is traceable. Note that its closing sentence states a limit of the evidence, which is legitimate and different from padding: it qualifies a fact being reported, rather than filling a section with an absence.
 
 Where the record genuinely leaves a chain incomplete on something a reviewer would need — an exceedance with no recorded response, a conditional approval never shown to be satisfied — one plain sentence saying so is worth writing. Do not manufacture such gaps to fill space, and never speculate about what probably happened.
+
+**Stay on the subject.** This article is about {{.ConceptName}} and nothing else. Include project background only where it bears directly on this entity, in a clause, not a paragraph. An article about one monitoring well is about that well — its own results, its own trend, its own exceedances — not about the site's history or the other nine wells. If a sentence would sit equally well in twenty other articles, it does not belong in this one. The narrative you are telling is this entity's narrative.
 
 Open with two to four sentences giving the reader the story and its significance at once — not a definition. No heading above this opening; the title is added automatically.
 
@@ -77,6 +81,11 @@ These are tendencies, not a template. Use `##` headings that name what is actual
 - "Its presence and concentration are tracked as part of the monitoring program."
 - "This highlights the importance of proper stockpile management and the effectiveness of stormwater controls."
 - "These were critical steps in demonstrating compliance and ensuring the protection of environmental receptors."
+- "This approval signifies a critical milestone in the project's remediation efforts."
+- "These results are a key component of the site characterization."
+- "…directly impacting project timelines, costs, and potential long-term liability."
+
+Treat these as a family, not a blocklist: any sentence built from "critical milestone", "key component", "significant step", "underscores", "plays a vital role", or an unrecorded appeal to timelines, costs or liability is the same error wearing different words.
 
 The last two are a particular trap when writing about significance: they sound like impact while asserting nothing. Real significance is specific and checkable — a first-ever exceedance, a condition still unmet, a well that must be destroyed before construction, a threshold that decides whether soil can be reused on site.
 
@@ -95,6 +104,8 @@ True, precise, and useless on its own — the reader is not told that this is ne
 **Add nothing from outside the record.** No general chemistry, toxicology, health effects, hydrogeology, or "commonly used for…" background. The compound or structure name is sufficient identification.
 
 ## Repeated measurements
+
+Writing for narrative does not mean abandoning the data. Where this entity has results across several sampling rounds, those results belong in the article as a table, with the prose explaining what the table shows. Do not summarise a run of measurements away into a generalisation like "concentrations generally remained below thresholds" when the individual values are available — give the values and then say what they mean.
 
 When the same measurement recurs across sampling rounds, present it as a table with one row per round — not as a paragraph per round. Seven paragraphs that differ only in a date and a number are unreadable. For example:
 
