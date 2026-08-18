@@ -1,34 +1,35 @@
 ---
 concept: sam-haack
-entity_type: concept
-aliases: []
-sources: ["08.30.2012 Caltrans Ramp5_srb RAdocx_srb 8_15_12_JS081612 RA4.md"]
+entity_type: person
+aliases: ["Ms. Sam Haack, P.E."]
+sources: ["wiki/sources/Caltrans Ramp Clarification Letter dated 8-24-12 .md", "wiki/sources/Caltrans Ramp Letter dated 5-29-12.md"]
 confidence: high
-created_at: 2026-08-17T23:47:34Z
+created_at: 2026-08-18T17:35:17Z
 ---
 
-Sam Haack is identified as a Project Manager for [[caltrans]] District 10. She signed correspondence to the [[department-of-toxic-substances-control]] (DTSC) on May 29, 2012, and August 24, 2012, concerning the disposition of excavated material from the SR 99 [[kansas-avenue]] northbound off-ramp project in Modesto, Stanislaus County, California. These letters indicate her involvement in managing the project's excavation activities, including those impacting [[stockpile-no-3]], and the associated soil analysis and disposal plans.
+## Sam Haack
 
-## Site record
-In a letter dated May 29, 2012, Ms. Sam Haack, P.E., Project Manager for Caltrans District 10, requested review and concurrence from the DTSC regarding the disposition of approximately 6,000 cubic yards (cy<sup>3</sup>) of material to be excavated for ramp improvements. A portion of this excavation was to intersect [[stockpile-no-3]]. The letter stated that soil analysis results indicated elevated metal concentrations above site-specific background levels but below [[dtsc-residential-screening-level]] for residential and commercial/industrial use. Based on these findings and a 2009 Preliminary Environmental Assessment (EA), the soil was deemed suitable for reuse as structural backfill or for offsite reuse/disposal as non-hazardous soil. The contractor was slated to haul the material to Stanislaus County Fink Road Landfill. The contract was on hold pending DTSC's concurrence that the material from Stockpile #3 was non-hazardous.
+Sam Haack is identified in the project record as a point of contact for Caltrans.
 
-In a subsequent letter dated August 24, 2012, Sam Haack was listed in the routing for further clarification regarding the disposition of excavated material from the SR 99 Kansas Avenue northbound off-ramp project. This letter, directed to the DTSC and the [[central-valley-rwqcb]], clarified that an estimated total of 6,000 cubic yards of material would be excavated, with approximately 2,800 cubic yards originating from the northwestern end of Stockpile No. 3. The letter reiterated that based on site investigation data, none of the soil samples from the Stockpile No. 3 excavation area contained total metal concentrations at or higher than the California hazardous waste Total Threshold Limit Concentration (TTLC). With the exception of [[arsenic]], no metals were reported at concentrations at or above commercial/industrial screening levels. Arsenic concentrations ranged from less than 1.0 mg/kg to 3.2 mg/kg, which was within the range of site-specific background levels. The 95% upper confidence limit concentrations for [[barium]], strontium, and [[lead]] were below residential and commercial/industrial screening levels. One soil sample had a barium concentration higher than 10 times the Soluble Threshold Limit Concentration (STLC) and five soil samples had lead concentrations at or higher than 10 times the STLC. However, the calculated 95% Upper Confidence Level for barium and lead was well below 10 times the respective STLC. Waste Extraction Test (WET) results for these samples fell below the STLC, indicating the material was not classified as hazardous waste. The letter concluded that an [[interim-removal-action-workplan]] was not needed for the ramp project.
+### Site record
 
-## Regulatory status
-In her May 29, 2012 letter, Ms. Sam Haack, P.E., Project Manager, requested review and concurrence from the DTSC regarding the disposition of excavated material from Stockpile #3. The letter indicated that the soil material was suitable for reuse or disposal as non-hazardous soil, provided DTSC concurred. The contract was on hold awaiting this concurrence.
+Sam Haack is listed as the Caltrans representative on the "Ramp Clarification Letter" dated August 24, 2012, from Geocon Consultants, Inc. to the Central Valley RWQCB. He is also listed as the Caltrans representative on the "Ramp Letter" dated May 29, 2012, from Geocon Consultants, Inc. to the Central Valley RWQCB.
 
-## Open items
-There are no open items specifically attributed to Sam Haack in the provided documentation.
+### Regulatory status
 
-## See also
-- [[caltrans]]
-- [[caltrans-modesto-soil-stockpiles]]
-- [[department-of-toxic-substances-control]]
-- [[dtsc-residential-screening-level]]
-- [[interim-removal-action-workplan]]
-- [[kansas-avenue]]
-- [[stockpile-no-3]]
-- [[arsenic]]
-- [[arsenic-exceeds-residential-and-commercial-industrial-screening-levels]]
-- [[barium]]
-- [[lead]]
+Not documented in the provided source material.
+
+### Open items
+
+Not documented in the provided source material.
+
+### See also
+
+* [[caltrans]]
+* [[dtsc]]
+* [[barium]]
+* [[california-primary-mcl]]
+* [[california-secondary-mcl]]
+* [[central-valley-rwqcb]]
+* [[geocon-consultants-inc]]
+* [[lead]]

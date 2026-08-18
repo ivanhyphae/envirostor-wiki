@@ -1,48 +1,45 @@
 ---
 concept: john-e-juhrend
-entity_type: concept
-aliases: ["John E. Juhrend", "John E. Juhrend, PE, CEG", "John Juhrend"]
-sources: ["DTSC E-mail Approval of Carpenter Shoofly Tech Memo/DTSC E-mail Approval of Carpenter Shoofly Tech Memo.md", "E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan/E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan.md", "wiki/sources/7084_S9525-06-44 Response to DTSC Workplan Comments.0912/7084_S9525-06-44 Response to DTSC Workplan Comments.0912.md", "wiki/sources/S2350-01-02_2.1.2024 Stormwater Sampling Report_5.24.md", "wiki/sources/S2350-01-02_2.4.2025 Stormwater Sampling Report_6.25.md", "wiki/sources/S9525-06-44 Modesto Stockpiles GW.0612.md", "wiki/sources/S9650-06-03 Modesto Ramp Ex Mon Plan -no appx-0612/S9650-06-03 Modesto Ramp Ex Mon Plan -no appx-0612.md", "wiki/sources/S9800-01-17A Modesto Stockpiles Dec 11 2015 Stormwater Sampling Report_02.16/S9800-01-17A Modesto Stockpiles Dec 11 2015 Stormwater Sampling Report_02.16.md", "wiki/sources/S9800-01-17A Modesto Stockpiles Jan 6 2016 Stormwater Smplng 0216/S9800-01-17A Modesto Stockpiles Jan 6 2016 Stormwater Smplng 0216.md", "wiki/sources/SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020/SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020.md", "wiki/sources/SR 132 Clean Borrow Area Technical Memo/SR 132 Clean Borrow Area Technical Memo.md", "wiki/sources/SR 132 Stockpile 2 BCS Removal Tech Memo/SR 132 Stockpile 2 BCS Removal Tech Memo.md", "wiki/sources/SR 132 Stockpile 3 BCS Removal Tech Memo/SR 132 Stockpile 3 BCS Removal Tech Memo.md"]
+entity_type: person
+aliases: ["John E. Juhrend, PE, CEG", "John Juhrend"]
+sources: ["wiki/sources/Carpenter Road Shoofly Clean Fill Tech Memo/Carpenter Road Shoofly Clean Fill Tech Memo.md", "wiki/sources/E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan/E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan.md", "wiki/sources/E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo/E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo.md", "wiki/sources/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo.md"]
 confidence: high
-created_at: 2026-08-17T23:48:31Z
+created_at: 2026-08-18T17:35:24Z
 ---
 
-## John E. Juhrend
+John E. Juhrend, PE, CEG, CEM, served as Project Manager for geocon-consultants-inc. on the [[caltrans]] Modesto Soil Stockpiles remediation project. His role involved overseeing technical aspects of soil characterization and remediation efforts, particularly concerning the use of excavated soil as clean fill and capping material for [[barium]]-containing soil (BCS) Stockpiles 1 and 2. Juhrend was instrumental in preparing technical memorandums and sampling plans that were submitted to regulatory agencies, including the [[dtsc]] and the [[central-valley-rwqcb]], for approval.
 
-John E. Juhrend, PE, CEG, served as a Project Manager and Senior Engineer for [[geocon-consultants]] on various aspects of the [[modesto-soil-stockpiles-project]]. His documented involvement spans multiple technical memorandums, sampling plans, and approval processes related to the remediation and management of soil stockpiles along State Route 132 (SR 132) in Modesto, Stanislaus County, California.
+## Site record
 
-## Site Record
+Juhrend, in his capacity as Project Manager for Geocon, prepared a Technical Memorandum dated April 12, 2021, detailing the characterization testing of approximately 5,000 cubic yards of native soil from the Carpenter Road Shoofly. This soil was intended for use as clean capping material over BCS Stockpiles 1 and 2, pending [[dtsc]] approval. Twenty-four discrete soil samples were collected from the shoofly and composited into eight 3-part samples. Analysis for barium and lead using EPA Test Method 6010B indicated barium concentrations ranging from 28 to 96 milligrams per kilogram (mg/kg), all below the site-specific background value of 120 mg/kg. Lead was detected in 9 of 10 samples at concentrations from 1.4 to 3.8 mg/kg, with the maximum concentration not exceeding the site-specific background of 3.8 mg/kg. Based on these results, the shoofly soil met the BCS clean cap criteria established in a referenced variance.
 
-Juhrend's professional activities on the project are recorded in several key documents:
+Juhrend also authored a sampling plan, dated March 31, 2020, for the Mechanically Stabilized Earth (MSE) wall footing excavations for Stockpiles 1 and 2. This plan proposed sampling borings or trenches within the mid-point of the wall footing excavation at ten locations, spaced approximately 200 feet apart. Discrete soil samples were to be collected at one-foot intervals to the planned excavation depth of approximately 4 to 5 feet. These samples were to be analyzed for barium and lead with a 48-hour turn-around time. The analytical data would be compared to site-specific background, RDIP removal thresholds, and various Environmental Screening Levels (ESLs) to determine suitability for reuse as clean capping material, abutment/embankment fill, or placement within BCS containment zones. The soil analytical data would be compared to the following RDIP and regulatory screening levels to determine suitability for Stockpiles 1 and 2 reuse as clean capping material, abutment/embankment fill and/or any required placement in BCS containment zones:
 
-* **Stockpile 3 Excavation Monitoring Plan:** Juhrend was the Project Manager for Geocon Consultants, Inc. for the "Stockpile 3 Excavation Monitoring Plan" submitted on June 13, 2012. This plan addressed the excavation of Stockpile 3 for the State Route 99 Kansas Avenue Northbound Off-Ramp Project. He signed the transmittal letter to Mr. Richard Stewart, PG, at [[caltrans]] District 6, referencing Contract No. 06A1634 and Work Request EA No. 10-0A671. The plan summarized site investigations, health risks associated with [[barium]] in Stockpile 3, and procedures for air monitoring and excavation verification.
-* **Carpenter Road Shoofly Clean Fill Characterization Testing:** Juhrend served as Project Manager for Geocon on a Technical Memorandum dated April 12, 2021, regarding "Carpenter Shoofly Clean Cap Borrow Area Characterization Testing" for the State Route 132 Project. This memo detailed the analysis of approximately 5,000 cubic yards of native soil excavated from the Carpenter Road Shoofly, intended for use as clean capping material over Stockpiles 1 and 2. The testing confirmed that barium concentrations ranged from 28 to 96 mg/kg, and lead concentrations ranged from 1.4 to 3.8 mg/kg, meeting the clean cap criteria established by the [[department-of-toxic-substances-control]] (DTSC).
-* **Stockpile 1 Wall Footing Sampling Tech Memo:** Juhrend, as Senior Engineer for Geocon Consultants, Inc., submitted a technical memo on April 6, 2020, to Richard Stewart at Caltrans, requesting approval for the use of Stockpile 1 MSE wall footing excavation soil material within Stockpiles 1 and 2 as embankment fill and/or clean cover material.
-* **SR 132 Basin 5 Clean Fill Sampling Plan:** Juhrend, as Senior Engineer for Geocon Consultants, Inc., submitted a sampling plan on June 11, 2020, for Basin 5, requesting expedited approval from DTSC.
-* **SR 132 Clean Borrow Area Characterization Testing:** Juhrend, as Project Manager for Geocon Consultants, Inc., submitted a technical memorandum dated February 27, 2020, regarding characterization testing for the clean cap borrow area for BCS Stockpiles 1 and 2.
-* **SR 132 Stockpile 2 BCS Removal Verification Testing:** Juhrend, as Project Manager for Geocon Consultants, Inc., authored a technical memorandum dated March 9, 2020, summarizing BCS removal verification testing at Stockpile 2.
-* **SR 132 Stockpile 3 BCS Removal Verification Testing:** Juhrend, as Project Manager for Geocon Consultants, Inc., authored a technical memorandum dated March 13, 2020, summarizing BCS removal verification testing at Stockpile 3.
-* **Stockpile 2 MSE Wall Footing Excavation Characterization Testing:** Juhrend, as Project Manager for Geocon Consultants, Inc., authored a technical memorandum dated June 18, 2020, summarizing characterization testing for MSE wall footing excavation soil at Stockpile 2.
-* **Final O and M Agreement:** Juhrend, as Project Manager for Geocon Consultants, Inc., was a signatory on the cover letter submitting the "Final Operations and Maintenance Plan (O&M Plan) for the Caltrans Modesto Soil Stockpiles" dated August 1, 2022.
-* **Stormwater Sampling Reports:** Juhrend is listed as a Senior Engineer and Project Manager for Geocon Consultants, Inc. on the "2.1.2024 Stormwater Sampling Report" (dated May 2024) and the "2.4.2025 Stormwater Sampling Report" (dated June 2025).
-* **Modesto Stockpiles GW:** Juhrend is identified as "Project Manager" and "Principal" for Geocon Consultants, Inc. in the document "S9525-06-44 Modesto Stockpiles GW.0612".
+*   **Barium:**
+    *   Maximum site-specific background: 120 mg/kg
+    *   RDIP BCS removal threshold (groundwater protection): 1,000 mg/kg
+    *   Construction worker ESL: 3,000 mg/kg
+    *   Residential ESL: 15,000 mg/kg
+    *   Commercial ESL: 220,000 mg/kg
+*   **Lead:**
+    *   Maximum site-specific background: 3.8 mg/kg
+    *   DTSC residential ESL: 80 mg/kg
 
-## Regulatory Status
+Juhrend submitted a technical memo on April 6, 2020, to [[richard-stewart]] at [[caltrans]] for review and approval by [[dean-wright]] at [[dtsc]] and Steve Meeks at the Water Board, concerning the use of Stockpile 1 MSE wall footing excavation soil material within Stockpiles 1 and 2 as embankment fill and/or clean cover material. He also indicated that once Stockpile 2 BCS southerly slope material was removed, the wall footing excavation sampling would be completed in that area.
 
-John E. Juhrend is an individual consultant and not a regulated entity. His role was to manage and execute technical aspects of the project on behalf of Geocon Consultants, Inc., in accordance with regulatory requirements set by agencies such as the [[department-of-toxic-substances-control]] and the [[central-valley-rwqcb]].
+A subsequent technical memo from Geocon, dated June 18, 2020, revised the assessment for Stockpile 2 MSE wall footing excavation soil. This memo, reviewed by [[dean-wright]] of [[dtsc]], indicated that soil down to 3 feet below ground surface (bgs) must be placed in designated containment zones, but soil below that depth is suitable as embankment fill or capping material. This material below 3 feet bgs was considered part of the April 9, 2020 Variance Request (VR) to the Remedial Design Implementation Plan.
 
-## Open Items
+## Regulatory status
 
-The provided source material does not identify any open items, pending deliverables, or contested claims specifically attributed to John E. Juhrend. His documented involvement concludes with the submission and approval of various project plans and reports.
+Juhrend's work directly supported regulatory compliance and approvals from the [[dtsc]] and the [[central-valley-rwqcb]]. The [[dtsc]], through [[dean-wright]], provided official acceptance of technical memorandums related to soil characterization and proposed reuse, with specific conditions. For Stockpile 1 MSE wall footing soil, the [[dtsc]] accepted the memo on April 7, 2020, with the condition that the MSE wall footing soil could not be used as capping material for Stockpiles 1 and 2, as the 95% Upper Confidence Limit of the sampled soil was above the maximum background of 120 mg/kg, and the footing was outside the designated borrow area. This material was directed to be placed within the Stockpiles 1 and 2 fill containment zones or used as general bridge embankment fill. For Stockpile 2 MSE wall footing soil, the [[dtsc]] accepted the revised memo on June 22, 2020, agreeing that soil down to 3 feet bgs required placement in containment zones, while soil below 3 feet bgs was suitable for embankment fill or capping material and considered part of the April 9, 2020 Variance Request.
 
-## See Also
+## See also
 
 *   [[caltrans]]
-*   [[geocon-consultants]]
-*   [[department-of-toxic-substances-control]]
+*   [[dtsc]]
+*   [[geocon-consultants-inc]]
 *   [[central-valley-rwqcb]]
-*   [[stockpile-1]]
-*   [[barium-containing-soil]]
 *   [[dean-wright]]
+*   [[mse-wall-construction]]
+*   [[perry-myers]]
 *   [[richard-stewart]]
-*   [[modesto-soil-stockpiles-project]]

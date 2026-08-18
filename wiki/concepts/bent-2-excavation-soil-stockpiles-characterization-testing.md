@@ -1,36 +1,41 @@
 ---
 concept: bent-2-excavation-soil-stockpiles-characterization-testing
 entity_type: deliverable
-aliases: ["Bent 2 excavation soil stockpiles characterization testing"]
-sources: ["Bent 2 Stockpiles Tech Memo/Bent 2 Stockpiles Tech Memo.md"]
+aliases: ["Bent 2 Excavation Soil Stockpiles Characterization Testing"]
+sources: ["wiki/sources/Bent 2 Stockpiles Tech Memo/Bent 2 Stockpiles Tech Memo.md"]
 confidence: high
-created_at: 2026-08-17T23:49:08Z
+created_at: 2026-08-18T17:34:53Z
 ---
 
 ## Bent 2 Excavation Soil Stockpiles Characterization Testing
 
 ### Overview
-
-Characterization testing of soil stockpiles generated from excavation activities associated with the Bent 2 Overcrossing Structure (SR 132, Stanislaus County, CA) was conducted to assess the suitability of the excavated material for reuse or disposal. This testing was a critical component of the remediation process, particularly in relation to the [[clean-cap-criteria]] and the management of excavated soils.
+This section details the characterization testing performed on approximately 4,000 cubic yards of native soil excavated from the Bent 2 area, located just west of State Route 99. This soil was placed in two rows of end dumps along the southern portion of the top of [[stockpile-2]]. The testing was conducted to assess the suitability of this material for use as a clean cap, as part of the remediation efforts for the State Route 132 Project in Modesto, California. The testing was performed by [[geocon-consultants-inc]].
 
 ### Site Record
+Ten discrete soil samples, designated STK1 through STK10, were collected from the Bent 2 end dump piles. These samples were spaced approximately 80 feet apart, alternating between the two end dump rows. The samples were analyzed for barium and lead using EPA Test Method 6010B.
 
-Characterization testing of soil stockpiles from the Bent 2 excavation was performed. For example, testing of [[stockpile-1]] on January 26, 2021, indicated that barium was detected at a concentration of 1,100 mg/kg. This concentration exceeded the applicable clean cap criteria for barium, which is 590 mg/kg.
+*   **Barium:** Detected in all 10 samples at concentrations ranging from 31 to 230 milligrams per kilogram (mg/kg). Four samples exceeded the maximum site-specific background value for barium of 120 mg/kg.
+*   **Lead:** Detected in 6 of the 10 samples at concentrations ranging from 2.6 to 13 mg/kg. These concentrations were within the range of the maximum site-specific background concentration for lead of 3.8 mg/kg.
+
+The analytical data was summarized in a table and a full laboratory report was attached to the technical memorandum.
 
 ### Regulatory Status
+The Bent 2 soil stockpiles, based on the barium data, did not meet the clean cap criteria established in the *Variance to Remedial Design Implementation Plan*, dated April 9, 2020, which was approved by the California Department of Toxic Substances Control (DTSC). This variance established an upper-bound background threshold for barium of 120 mg/kg.
 
-The detection of barium at 1,100 mg/kg in [[stockpile-1]] exceeded the clean cap criteria of 590 mg/kg. This exceedance necessitated further evaluation and management of the stockpile material. A [[variance-to-remedial-design-implementation-plan]] was issued by DTSC on March 10, 2021, which addressed the management of stockpiles exceeding clean cap criteria, including those from the Bent 2 excavation. The variance allowed for the placement of these stockpiles on-site pending further characterization and management decisions.
+However, pending DTSC review and approval, the material was considered potentially suitable for use as a partial clean cap (6 inches or less) on the upper surface of [[stockpile-2]]. This was contingent on additional clean cap, consisting of the planned structural pavement section, being placed over the entire upper surface. Fill material from previously approved clean fill sources would be required for placement on the northerly slope of [[stockpile-2]].
+
+This information was intended to be included in the Removal Action Completion Report following the completion of clean fill capping activities for Stockpile 1 and 2.
 
 ### Open Items
-
-Further management and disposition of stockpiles exceeding clean cap criteria, including those from the Bent 2 excavation, remain subject to the conditions outlined in the [[variance-to-remedial-design-implementation-plan]].
+The suitability of the Bent 2 soil stockpiles for use as a partial clean cap was pending DTSC review and approval consideration as of the October 30, 2020, technical memorandum.
 
 ### See Also
-
 *   [[barium]]
-*   [[bent-2-overcrossing-structure]]
-*   [[bent-2-stockpiles]]
-*   [[clean-cap-criteria]]
-*   [[clean-cap-material]]
-*   [[stockpile-1]]
-*   [[variance-to-remedial-design-implementation-plan]]
+*   [[bent-2-area]]
+*   [[clean-fill-suitable-as-cover]]
+*   [[clean-soil-cover]]
+*   [[geocon-consultants-inc]]
+*   [[remedial-design-implementation-plan]]
+*   [[stockpile-2]]
+*   [[variance-approvals]]

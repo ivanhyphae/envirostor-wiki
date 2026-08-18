@@ -1,49 +1,45 @@
 ---
 concept: remedial-action-plan
 entity_type: deliverable
-aliases: ["RAP", "Remedial Action Plan (RAP)"]
-sources: ["wiki/sources/Draft Final RAP Updated Implementation Sch/Draft Final RAP Updated Implementation Sch.md", "wiki/sources/HearingSummaryReport_SR132 6.21.17 rdcd sz/HearingSummaryReport_SR132 6.21.17 rdcd sz.md", "wiki/sources/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19.md", "wiki/sources/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18.md", "wiki/sources/opr25@opr.ca.gov_20180319_135531/opr25@opr.ca.gov_20180319_135531.md"]
+aliases: ["RAP"]
+sources: ["wiki/sources/1- SR_132_FEIR_EA_ 20180302 FINAL Main Doc.md", "wiki/sources/132Stockpile Fact SheetModestoDTSC117 (2-2-17)/132Stockpile Fact SheetModestoDTSC117 (2-2-17).md", "wiki/sources/2. SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size A-G.md", "wiki/sources/3. SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size H-K.md", "wiki/sources/3.14.2018 - Approval letter for SR 132 RAP.md", "wiki/sources/5.18.2015 - Final Caltrans Cover Letter Revised Administrative Record Caltrans Modesto SoilStockpiles.md", "wiki/sources/Hearing SummaryReport_SR132 6-21-17 rdcd sz/HearingSummaryReport_SR132 6.21.17 rdcd sz.md"]
 confidence: high
-created_at: 2026-08-11T02:53:10Z
+created_at: 2026-08-18T17:34:07Z
 ---
 
-A [[remedial-action-plan]] (RAP) is a document that outlines the proposed actions to address contamination at a site. It summarizes site investigation findings, evaluates risks to human health and the environment, and details the selected remedial alternative. The RAP is made available for public review and comment.
+## Remedial Action Plan (RAP)
 
-## Overview
+### Overview
 
-The [[remedial-action-plan]] (RAP) for the [[caltrans-modesto-soil-stockpiles]] was prepared by Caltrans in coordination with the Stanislaus Council of Governments (StanCOG) as a supplement to the Environmental Impact Report (EIR) for the [[sr-132-west-freeway-expressway-project]]. The RAP details the characterization of contaminant impacts, risk assessments, and the proposed remedial action. The [[department-of-toxic-substances-control]] (DTSC) and the [[central-valley-rwqcb]] (CVRWQCB) served as reviewing agencies for the RAP.
+The Remedial Action Plan (RAP) for the [[caltrans]] Modesto Soil Stockpiles Site outlines the proposed strategy for addressing contamination in soil stockpiles resulting from excavation of an industrial waste pond during the construction of State Route 99 in the 1960s. The selected remedy, approved by the DTSC and the Central Valley Regional Water Quality Control Board (RWQCB), involves the containment of these stockpiles within the structural section of the proposed State Route 132 West Expressway/Freeway project.
 
-## Site Record
+### Site Record
 
-The [[remedial-action-plan]] (RAP) for the [[caltrans-modesto-soil-stockpiles]] was prepared on behalf of Caltrans for the stockpiles located south of the SR-99/Kansas Avenue interchange in Modesto, Stanislaus County, California. The stockpiles were created in the early 1960s from soil excavated from an FMC facility that processed [[barium]] and [[strontium]] minerals.
+The site comprises three distinct soil stockpiles totaling 160,000 cubic yards, located south of Kansas Avenue, east and west of the State Route 99/Kansas Avenue interchange. These stockpiles, with an average height of 20 feet, were created in the early 1960s when soil from a former industrial waste pond on Food Machinery and Chemical Corporation (FMC) property was excavated for State Route 99 construction. The FMC facility processed [[barium]], [[strontium]], and other materials, and residual liquids were discharged to unlined ponds.
 
-Site characterization identified elevated [[barium]] concentrations in stockpile soil samples exceeding commercial/industrial California Human Health Screening Levels (CHHSLs). Cadmium was also initially detected at concentrations exceeding the commercial/industrial CHHSL in Stockpiles #2 and #3 during a Preliminary Site Investigation (PSI) in 2004. However, subsequent investigations in 2006 and 2012 did not detect cadmium above the laboratory reporting limit of 1.0 mg/kg, leading to the conclusion that cadmium is not a contaminant of potential concern (COPC).
+A 2007 Human Health Risk Assessment (HHRA) concluded that, under existing management conditions (perimeter fencing, limited access to Caltrans workers, vegetative cover, prohibition of soil removal, and groundwater monitoring), the soil and groundwater do not pose an unacceptable human risk. Additional soil sampling in 2012 confirmed these findings.
 
-A Human Health Risk Assessment (HHRA) in 2007 identified metals (notably [[barium]]) and polycyclic aromatic hydrocarbons (PAHs) as primary COPCs in the soil stockpiles. The HHRA concluded that the soil stockpiles do not pose an unacceptable risk to current or future offsite residents, trespassers, construction workers, or hypothetical future shallow groundwater users.
+Caltrans' recommended remedial action, Alternative 4, is containment through the construction of the State Route 132 West project. This alternative was concurred with by DTSC and RWQCB. The containment strategy involves incorporating the stockpiles behind retaining walls, bridge abutments, and beneath roadway pavement of the State Route 132 project between Needham Street and Carpenter Avenue.
 
-The selected remedial action alternative is Containment, which involves using the stockpiles as embankment material for the [[sr-132-west-freeway-expressway-project]]. This containment will be achieved by placing the stockpiles behind retaining walls, [[bridge-abutments]], and beneath roadway pavements. Portions of Stockpiles 1 and 2 not covered by roadways or retaining walls during the interim progress phase (to be completed by 2018) will be graded for drainage and capped with a minimum 6- to 12-inch-thick vegetated, clean soil cap. Stockpile 3 is planned to be entirely contained within the interim progress phase.
+The State Route 132 West project is planned in two phases:
+*   **Initial Construction Phase:** This phase, beginning in 2018 and ending in 2020, involves building retaining walls and bridge abutments, and paving the southern half of the site. The northern half will be covered with a graded engineered soil layer.
+*   **Ultimate Build-Out Phase:** This phase is scheduled to begin in 2028.
 
-The [[department-of-toxic-substances-control]] approved the Remedial Action Plan on March 14, 2018.
+### Regulatory Status
 
-## Regulatory Status
+The draft final RAP was reviewed and approved by DTSC and the RWQCB for public notice and comment. Following the public comment period, DTSC will consider all received comments and prepare a Responsiveness Summary. DTSC may then approve the draft final RAP, potentially with modifications based on public comments on both the RAP and the draft Environmental Impact Report/Environmental Assessment (EIR/EA).
 
-The [[remedial-action-plan]] (RAP) was prepared to address contaminants of potential concern (COPCs) in the [[caltrans-modesto-soil-stockpiles]]. Key COPCs identified include [[barium]] and PAHs. The HHRA concluded that the stockpiles do not pose an unacceptable risk under current management practices.
+### Open Items
 
-The selected remedial alternative is containment, which involves incorporating the stockpiles into the [[sr-132-west-freeway-expressway-project]]. This approach is intended to provide long-term protection by preventing exposure and minimizing surface water infiltration. Land use controls and annual inspections of containment features, along with groundwater monitoring, will be conducted to ensure the remedy's ongoing effectiveness.
+Following the public comment period and the preparation of the Responsiveness Summary, DTSC may approve the draft final RAP. A Remedial Design Implementation Plan will be developed under the oversight of DTSC and RWQCB to detail the containment of the stockpiles as part of the State Route 132 project.
 
-The DTSC approved the Final RAP, finding that the selected containment remedy, with project controls and mitigation measures, will not have a significant adverse effect on the environment.
+### See Also
 
-## Open Items
-
-The RAP outlines a schedule for implementation, with the interim progress phase of the [[sr-132-west-freeway-expressway-project]] to be completed by 2018 and the ultimate build-out by 2028. Following DTSC/CVRWQCB approval of the Final RAP, details of construction will be presented in a Remedial Design Implementation Plan (RDIP).
-
-## See also
-
-- [[sr-132-west-freeway-expressway-project]]
-- [[barium]]
-- [[caltrans-modesto-soil-stockpiles]]
-- [[draft-final-remedial-action-plan]]
-- [[lead]]
-- [[strontium]]
-- [[bridge-abutments]]
-- [[brownfields-and-environmental-restoration-program]]
+*   [[caltrans]]
+*   DTSC
+*   [[barium]]
+*   [[lead]]
+*   Site-specific background levels
+*   [[strontium]]
+*   [[chromium]]
+*   [[manganese]]

@@ -1,33 +1,32 @@
 ---
 concept: bg3
-entity_type: concept
-aliases: [""]
-sources: ["06A2542ct_to97_SurfaceWaterLetter_final.20230309.md", "06A2542ct_to97_SurfaceWaterLetter_final.20230328.md", "wiki/sources/06A2542ct_to97_SurfaceWaterLetter_final.20230309/06A2542ct_to97_SurfaceWaterLetter_final.20230309.md", "wiki/sources/06A2542ct_to97_SurfaceWaterLetter_final.20230309/06A2542ct_to97_SurfaceWaterLetter_final.20230309.md", "wiki/sources/06A2542ct_to97_SurfaceWaterLetter_final.20230328/06A2542ct_to97_SurfaceWaterLetter_final.20230328.md"]
+entity_type: monitoring_location
+aliases: []
+sources: ["wiki/sources/06A2542ct_to97_SurfaceWaterLetter_final-20230309.md", "wiki/sources/06A2542ct_to97_SurfaceWaterLetter_final-20230328.md"]
 confidence: high
-created_at: 2026-08-17T23:46:44Z
+created_at: 2026-08-18T17:33:30Z
 ---
 
-## Overview
-Bg3 is a background surface water sampling location established as part of the Caltrans Modesto Soil Stockpiles remediation case file. Its purpose is to provide a reference point for surface water quality in areas not directly impacted by the stockpiles.
+## Bg3
 
-## Site record
-Background sample location BG3 was established on November 2, 2022, along the east side of North Carpenter Road, approximately 700 feet south of the southeast corner of North Carpenter Road and Kansas Avenue.
+### Overview
+Bg3 is a constituent of concern at the Caltrans Modesto Soil Stockpiles site, specifically related to surface water sampling. Its presence and concentrations are documented in surface water sampling reports.
 
-During the surface water inspection on February 28, 2023, no visible water ponding was observed in the area around background surface water location BG3.
+### Site record
+Surface water sampling conducted on March 7, 2023, detected Bg3 in the sample collected from the storm drain outfall at the SR 132 site. The concentration reported was 0.000039 mg/L. This detection is noted in the letter from Stantec Consulting Services Inc. to Caltrans dated March 9, 2023.
 
-On March 10, 2023, Stantec collected a surface water sample from BG3. Although there was no visible water flowing into the catch basin at this location, there was ponding water within the catch basin. Stantec removed the catch basin grate and collected a sample of the water from within the catch basin.
+### Regulatory status
+No specific regulatory standards or thresholds for Bg3 in surface water at this site are mentioned in the provided sources.
 
-The March 10, 2023, analytical results for sample BG3 indicated the presence of arsenic, barium, beryllium, and antimony, among other detected metals. The specific concentration for Bg3 as a constituent is not detailed in the provided sources; rather, BG3 is the identifier for the background sample location.
+### Open items
+None documented in the provided sources.
 
-## Regulatory status
-The applicable regulatory threshold for any constituents detected at BG3 is not specified in the provided source documents.
-
-## See also
+### See also
 * [[bg1]]
-* [[pl6]]
-* [[pl7]]
+* [[pl1]]
+* [[pl2]]
+* [[pl3]]
+* [[pl4]]
+* [[pl5]]
 * [[stantec-consulting-services-inc]]
-* [[antimony]]
-* [[arsenic]]
-* [[barium]]
-* [[beryllium]]
+* [[bg2]]

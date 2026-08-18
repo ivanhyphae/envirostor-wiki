@@ -1,31 +1,35 @@
 ---
 concept: fiscal-year-cost-estimate
-entity_type: concept
+entity_type: deliverable
 aliases: []
-sources: ["wiki/sources/Caltrans -DTSC Agreement/Caltrans -DTSC Agreement.md"]
+sources: ["wiki/sources/Fiscal Year Cost Estimate 22_23_Modesto Soil Stockpiles (900259)/Fiscal Year Cost Estimate 22_23_Modesto Soil Stockpiles (900259).md", "wiki/sources/Fiscal Year Cost Estimate 23_24_Modesto Soil Stockpiles (900259)/Fiscal Year Cost Estimate 23_24_Modesto Soil Stockpiles (900259).md", "wiki/sources/Fiscal Year Cost Estimate 24_25_Modesto Soil Stockpiles (900259)/Fiscal Year Cost Estimate 24_25_Modesto Soil Stockpiles (900259).md"]
 confidence: high
-created_at: 2026-08-11T01:00:04Z
+created_at: 2026-08-18T17:35:41Z
 ---
 
-## Overview
-The Fiscal Year Cost Estimate is a deliverable provided by the [[department-of-toxic-substances-control]] (DTSC) to the [[caltrans]] outlining the projected costs for DTSC's oversight activities related to the [[modesto-soil-stockpiles-project]]. These estimates are provided annually in accordance with Health and Safety Code Section 25269.5.
+The Fiscal Year Cost Estimate is a document prepared by the [[dtsc]] to inform the [[caltrans]] of the estimated costs for DTSC's oversight activities related to the [[soil-stockpiles]] at the [[sr-132-west-expressway-project]] site in Modesto, Stanislaus County, California (Site Code: 900259-00). These estimates are provided annually in accordance with Health and Safety Code Section 25269.5.
 
 ## Site Record
-The DTSC has issued annual cost estimates for its oversight of the Caltrans Modesto Soil Stockpiles, Phase 1 Interim State Route 132 West Project, Modesto, Stanislaus County, California (Site Code: 900259-00) for multiple fiscal years.
 
-* **Fiscal Year 2022-2023:** The DTSC provided an estimate for oversight costs for the period of July 1, 2022, through June 30, 2023. Tasks included reviewing the Operation and Maintenance (O&M) Plan, the Fiscal Year Cost Estimate itself, and the Interim Phase 1 Remedial Action Completion Report (RACR), completing the O&M Agreement and Land Use Covenant (LUC), and project management. The estimate was sent on October 4, 2022, by Ms. Lora Jameson, P.G., Chief, Site Evaluation and Remediation Unit. The hourly rates used were DTSC's 2021-2022 contract estimation rates.
-* **Fiscal Year 2023-2024:** An estimate for oversight costs for the period of July 1, 2023, through June 30, 2024, was provided. Scheduled tasks included the Fiscal Year Cost Estimate, completing the Land Use Covenant (LUC), reviewing and approving the [[annual-inspection-report]] (due by January 31, 2024), and project management. This estimate was sent on November 7, 2023, by Ms. Lora Jameson, P.G., Chief, Site Evaluation and Remediation Unit. The hourly rates used were DTSC's 2022-2023 contract estimation rates.
-* **Fiscal Year 2024-2025:** The DTSC issued an estimate for oversight costs for the period of July 1, 2024, through June 30, 2025. Tasks included the Fiscal Year Cost Estimate, reviewing and approving the Annual Inspection (due by January 18, 2025), and amending/reviewing the Interagency Agreement (set to expire on 6/30/2025), along with project management. This estimate was sent on November 21, 2024, by Ms. Lora Jameson, P.G., Chief, Site Evaluation and Remediation Unit.
+The DTSC has issued annual cost estimates for oversight of the Caltrans Modesto Soil Stockpiles project for the following fiscal years:
+
+*   **Fiscal Year 2022-2023:** The estimate was provided on October 4, 2022, for the period of July 1, 2022, through June 30, 2023. Tasks included review of the Operation and Maintenance (O&M) Plan, Fiscal Year Cost Estimate, review and approval of the Interim Phase 1 Remedial Action Completion Report (RACR), completion of the O&M Agreement and Land Use Covenant (LUC), and Project Management. The DTSC used its 2021-2022 contract estimation rates for this estimate.
+*   **Fiscal Year 2023-2024:** The estimate was provided on November 7, 2023, for the period of July 1, 2023, through June 30, 2024. Scheduled tasks included the Fiscal Year Cost Estimate, completion of the Land Use Covenant (LUC), review and approval of the Annual Inspection (due by January 31, 2024), and Project Management. The DTSC utilized its 2022-2023 contract estimation rates.
+*   **Fiscal Year 2024-2025:** The estimate was provided on November 21, 2024, for the period of July 1, 2024, through June 30, 2025. Tasks included the Fiscal Year Cost Estimate, review and approval of the Annual Inspection (due by January 18, 2025), and amendment/review of the Interagency Agreement (set to expire on June 30, 2025), along with Project Management.
+
+In each instance, the DTSC emphasized that these are estimates of projected costs and that the Responsible Parties/Project Proponents remain liable for all costs incurred by the DTSC.
 
 ## Regulatory Status
-The DTSC provides these cost estimates in accordance with Health and Safety Code Section 25269.5. The Responsible Parties/Project Proponents remain liable for all costs incurred by DTSC as required by law.
 
-## See also
-* [[modesto-soil-stockpiles-project]]
-* [[sr-132-west-project]]
-* [[sr-132-west-expressway-phase-1]]
-* [[caltrans]]
-* [[department-of-toxic-substances-control]]
-* [[lora-jameson]]
-* [[dean-wright]]
-* [[annual-inspection-report]]
+The DTSC provides these cost estimates in accordance with Health and Safety Code Section 25269.5.
+
+## Open Items
+
+Each fiscal year cost estimate document includes contact information for Dean Wright at the DTSC for any questions regarding the estimate.
+
+## See Also
+
+*   [[caltrans]]
+*   [[dtsc]]
+*   [[soil-stockpiles]]
+*   [[sr-132-west-expressway-project]]

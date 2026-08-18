@@ -1,44 +1,38 @@
 ---
 concept: richard-stewart
-entity_type: concept
-aliases: ["Richard C. Stewart"]
-sources: ["DTSC E-mail Approval of Carpenter Shoofly Tech Memo/DTSC E-mail Approval of Carpenter Shoofly Tech Memo.md", "E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan/E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan.md", "wiki/sources/43A0310-04 A01 Executed/43A0310-04 A01 Executed.md", "wiki/sources/43A0404-04 Executed/43A0404-04 Executed.md", "wiki/sources/7084_S9525-06-44 Response to DTSC Workplan Comments.0912/7084_S9525-06-44 Response to DTSC Workplan Comments.0912.md"]
+entity_type: person
+aliases: ["Richard C. Stewart", "Richard Stewart"]
+sources: ["wiki/sources/Caltrans -DTSC Agreement.md", "wiki/sources/Caltrans SR 132-99 Task Order 4.md", "wiki/sources/DTSC Approval E-mail for Carpenter Shoofly Clean Fill Sampling Plan.md", "wiki/sources/DTSC E-mail Approval of Carpenter Shoofly Tech Memo.md", "wiki/sources/E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan/E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan.md", "wiki/sources/E-mail Acceptance of Bent 2 Soils Tech Memo/E-mail Acceptance of Bent 2 Soils Tech Memo.md", "wiki/sources/E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo/E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo.md", "wiki/sources/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo.md"]
 confidence: high
-created_at: 2026-08-17T23:48:21Z
+created_at: 2026-08-18T17:35:18Z
 ---
 
-Richard C. Stewart, PG, is an Engineering Geologist with the [[caltrans]] Central Region Environmental Division, Hazardous Waste & Paleontology Branch, based in Fresno, California. He has served as a Caltrans Task Manager for the Modesto Soil Stockpiles project, specifically related to State Route 132/99, under multiple interagency agreements with the [[department-of-toxic-substances-control]] (DTSC). His role has involved coordinating project activities, reviewing and submitting plans, and facilitating communication between Caltrans and regulatory agencies.
+Richard C. Stewart is an Engineering Geologist with [[caltrans]] who has been involved in the remediation of soil stockpiles at the SR 132 project in Stanislaus County, California. He has communicated extensively with the DTSC and the [[central-valley-rwqcb]] regarding the characterization and reuse of excavated soils.
 
-## Site record
-Richard Stewart's documented involvement in the Modesto Soil Stockpiles project includes:
+## Site Record
 
-*   **June 22, 2012 - May 31, 2013**: Served as Caltrans' Task Manager for Task Order Number 6 under Interagency Agreement No. 43A0260, titled "Caltrans Modesto Soil Stockpiles - State Route 132/99." The DTSC Task Order Manager was Randy Adams.
-*   **June 1, 2013 - May 31, 2016**: Served as Caltrans' Task Manager for Task Order Number 4 under Interagency Agreement No. 43A0310, titled "Caltrans Modesto Soil Stockpiles – State Route 132/99." The DTSC Task Order Manager was Steven Becker.
-*   **June 7, 2013 - May 31, 2018**: Served as Caltrans' Task Manager for Task Order Number 4, Amendment 1, under Interagency Agreement No. 43A0310, titled "Caltrans Modesto Soil Stockpiles – State Route 132/99." The DTSC Task Order Manager was Steven Becker.
-*   **June 1, 2020 - June 30, 2025**: Serves as Caltrans' Task Order Manager for Task Order Number 04 under Interagency Agreement No. 43A0404, titled "Caltrans Modesto Soil Stockpiles – State Route 132/99." The DTSC Task Order Manager is [[dean-wright]]. Stewart's phone number is 559-445-6378.
-*   **September 12, 2012**: Received a letter from Randy S. Adams, C.E.G., Senior Engineering Geologist at DTSC, regarding the "RESPONSE TO DTSC 09-12-12 COMMENTS ON DRAFT SUPPLEMENTAL SITE INVESTIGATION WORKPLAN MODESTO SOIL STOCKPILES STATE ROUTES 99 AND 132, STANISLAUS COUNTY, CALIFORNIA CONTRACT NO. 06A1580, TASK ORDER NO. 44, EA NO. 10-403500." The letter was addressed to Mr. Richard Stewart, P.G., California Department of Transportation - District 6, 855 M Street, Suite 200, Fresno, California 93721.
-*   **February 12, 2020**: In an email exchange with [[dean-wright]] of DTSC, Stewart provided a contact list from 2018. His signature block identified his office as 855 M Street, Ste. 200, Fresno, CA 93721, with a telephone number of 559.445.6378.
-*   **February 12, 2020**: Confirmed a 10 a.m. conference call for the following day and provided dial-in details: Conference Number (877) 829-8910, Passcode 8536140. He anticipated the contractor, Bay Cities, would be interested in the status of the work notification and the clean fill sampling plan. Stewart also stated he would request an example burial report from Kim Christmann at [[caltrans]] Headquarters.
-*   **February 13, 2020**: Was among the recipients of an email from [[dean-wright]] conveying DTSC's approval of the backfill sampling plan, with a requested modification to composite 3 samples instead of 4, based on input from [[perry-myers]].
-*   **April 5, 2021**: Sent an email to [[dean-wright]] regarding the "Modesto 132/99 Clean Cap Test Locations," with [[perry-myers]] and Kyle Cockerham CC'd. The email originated from "Stewart, Richard C@DOT <richard.c.stewart@dot.ca.gov>" and was sent at 11:37 AM.
-*   **April 7, 2021**: [[dean-wright]] (DTSC) emailed Stewart to confirm DTSC and the Waterboard's approval of the revised Carpenter Shoofly Area Clean Fill Sampling Plan (Plan) received on April 5, 2021.
-*   **February 9, 2021**: Forwarded a revised Soil Management Plan (SMP) from the City of Modesto to [[steven-meeks]] of the Waterboards, with [[dean-wright]] CC'd. Stewart noted that the City appeared to be preparing to move forward with excavation without acceptance of the SMP by DTSC and the Regional Board, and that Caltrans had informed the City that regulatory acceptance was required first.
-*   **February 11, 2021**: Was the recipient of an email from [[dean-wright]] (DTSC) stating that DTSC and the Water Board had reviewed the revised Soil Management Plan (SMP) dated February 8, 2021, and that the email served as their official acceptance of the SMP, subject to the incorporation of two minor comments.
-*   **April 2, 2021**: Received an email from [[john-e-juhrend]] of [[geocon-consultants]] regarding "Modesto 132/99 Clean Cap Test Locations," with Scott Frenette, Gary Mohler, and Rick Deml CC'd. The email originated from "John Juhrend <juhrend@geoconinc.com>" and was sent at 3:14 PM.
+Stewart, in his role at Caltrans, has been instrumental in submitting technical memorandums and sampling plans for review and approval by regulatory agencies.
 
-## Regulatory status
-Richard Stewart's role in the project record is primarily that of a coordinator and point of contact for Caltrans. No regulatory findings, violations, or enforcement actions specific to Richard Stewart are documented in the provided source material. His activities appear to be focused on facilitating the project's progress through regulatory review and approval processes.
+*   On March 31, 2020, Stewart forwarded a sampling plan for Stockpiles 1 and 2 MSE Wall Footing excavations to [[dean-wright]] and [[perry-myers]] at DTSC, and [[steven-meeks]] at the Water Board. This plan proposed sampling for barium and lead with a 48-hour turnaround time. The analytical data was to be compared against site-specific background levels, RDIP BCS removal thresholds, and various ESLs.
+*   On April 6, 2020, Stewart submitted a technical memo regarding Stockpile 1 MSE Wall Footing Soil Characterization for classification of use at Stockpiles 1 and 2.
+*   On June 18, 2020, Stewart submitted a revised technical memo from Geocon Consultants Inc. concerning Stockpile 2 MSE Wall Footing sampling. This memo indicated that soil down to 3 feet below ground surface (bgs) from the Stockpile 2 MSE wall footing required placement in designated containment zones, while soil below 3 feet bgs was suitable for embankment fill or capping material. This material below 3 feet was considered part of the April 9, 2020 Variance Request (VR).
+*   On November 2, 2020, Stewart submitted a technical memo regarding the characterization of excavated Bent 2 soils for use as clean cap material. The analytical results indicated that these soils exceeded background criteria for clean cap cover material.
 
-## Open items
-The source material indicates Stewart's intention to obtain an example burial report from Kim Christmann at Caltrans Headquarters. However, the outcome of this request is not documented in the provided sources.
+## Regulatory Status
 
-## See also
+Stewart's communications reflect ongoing regulatory review and approval processes for soil reuse.
+
+*   On April 7, 2020, Dean Wright of DTSC approved the Stockpile 1 Wall Footing Sampling Tech Memo, with the condition that MSE wall footing soil could not be used as Stockpile 1 and 2 capping material. Instead, it was to be placed within the Stockpiles 1 and 2 fill containment zones or used as general bridge embankment fill, as the 95% Upper Confidence Limit for barium exceeded the maximum background of 120 mg/kg and the footing was outside the designated borrow area.
+*   On June 22, 2020, Dean Wright of DTSC approved the revised Stockpile 2 Wall Footing Tech Memo. This approval confirmed that soil from Stockpile 2 MSE wall footing excavation below 3 feet bgs was suitable as embankment fill or capping material and was considered part of the April 9, 2020 Variance Request.
+*   On November 6, 2020, Dean Wright of DTSC and the Water Board accepted the Technical Memorandum regarding the use of Bent 2 excavation soil as clean cap material. While the soil did not meet clean cap criteria, it was approved for placement on top of Stockpile 2 at a thickness of 6 inches or less, provided it was covered with clean base material and roadway construction. This decision acknowledged the need for efficient use of Bent 2 soil and the potential for temporary exposure during winter months, emphasizing strict adherence to the Revised Stormwater Prevention Plan (SWPPP) Amendment.
+
+## See Also
+
 *   [[caltrans]]
-*   [[department-of-toxic-substances-control]]
+*   DTSC
 *   [[central-valley-rwqcb]]
 *   [[dean-wright]]
 *   [[perry-myers]]
+*   Geocon Consultants Inc.
+*   MSE Wall Construction
 *   [[steven-meeks]]
-*   [[john-e-juhrend]]
-*   [[geocon-consultants]]
-*   [[caltrans-modesto-soil-stockpiles]]

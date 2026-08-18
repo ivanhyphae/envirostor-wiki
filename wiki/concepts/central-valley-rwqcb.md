@@ -1,50 +1,33 @@
 ---
 concept: central-valley-rwqcb
-entity_type: concept
-aliases: ["CV RWQCB", "CVRWQCB", "Central Valley RWQCB", "Central Valley Regional Water Quality Control Board", "Central Valley Regional Water Quality Control Board (RWQCB)", "RWQCB", "Water Board", "Water Boards"]
-sources: ["Caltrans Ramp Clarification Letter dated 8.24.12 /Caltrans Ramp Clarification Letter dated 8.24.12 .md", "Carpenter Shoofly Area Clean Fill Sampling Plan/Carpenter Shoofly Area Clean Fill Sampling Plan.md", "DTSC Approval E-mail for Carpenter Shoofly Clean Fill Sampling Plan/DTSC Approval E-mail for Carpenter Shoofly Clean Fill Sampling Plan.md", "DTSC E-mail Approval of Carpenter Shoofly Tech Memo/DTSC E-mail Approval of Carpenter Shoofly Tech Memo.md", "Draft Interim RACR_Text_Figures_Tables_ App A-C/Draft Interim RACR_Text_Figures_Tables_ App A-C.md", "E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan/E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan.md", "Stockpile 2 Confirmation Sampling Tech Memo Approval/Stockpile 2 Confirmation Sampling Tech Memo Approval.md", "wiki/sources/7453_S9525-06-44_Modesto_Stockpiles_July_2012_GW_Report.1112/7453_S9525-06-44_Modesto_Stockpiles_July_2012_GW_Report.1112.md", "wiki/sources/E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo/E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo.md", "wiki/sources/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo.md", "wiki/sources/Errata Transmittal 2-6-2020/Errata Transmittal 2-6-2020.md", "wiki/sources/FW_ SR 132 Basin 5 Clean Fill Sampling Plan /FW_ SR 132 Basin 5 Clean Fill Sampling Plan .md", "wiki/sources/Final FS Letter/Final FS Letter.md", "wiki/sources/Final RDIP Approval Letter (900259)/Final RDIP Approval Letter (900259).md", "wiki/sources/Final SMP Approval E-mail/Final SMP Approval E-mail.md", "wiki/sources/HearingSummaryReport_SR132 6.21.17 rdcd sz/HearingSummaryReport_SR132 6.21.17 rdcd sz.md", "wiki/sources/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19.md", "wiki/sources/S1908-01-01 Caltrans Modesto Stockpile Interim RACR_12.22 (1)/S1908-01-01 Caltrans Modesto Stockpile Interim RACR_12.22 (1).md", "wiki/sources/S2350-01-02_2.1.2024 Stormwater Sampling Report_5.24.md", "wiki/sources/S2350-01-02_2.4.2025 Stormwater Sampling Report_6.25.md", "wiki/sources/S9525-06-44 HHRA UPDATE Rev.0313.md", "wiki/sources/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313.md", "wiki/sources/S9525-06-44AModesto Stockpiles GW  SEPT2012 1212/S9525-06-44AModesto Stockpiles GW  SEPT2012 1212.md", "wiki/sources/WB Acceptance E-mail/WB Acceptance E-mail.md"]
+entity_type: responsible_party
+aliases: ["CVRWQCB", "Central Valley RWQCB", "Central Valley Regional Water Quality Control Board", "Central Valley Water Board", "Water Board", "Water Boards"]
+sources: ["wiki/sources/1- SR_132_FEIR_EA_ 20180302 FINAL Main Doc.md", "wiki/sources/2. SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size A-G.md", "wiki/sources/3- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size H-K.md", "wiki/sources/7453_S9525-06-44_Modesto_Stockpiles_July_2012_GW_Report-1112.md", "wiki/sources/Acceptance Letter Draft Interim RACR (900259)/Acceptance Letter Draft Interim RACR (900259).md", "wiki/sources/Acceptance Letter_Final Removal Action Completion Report_Modesto Soil Stockpiles (900259)/Acceptance Letter_Final Removal Action Completion Report_Modesto Soil Stockpiles (900259).md", "wiki/sources/Approval E-mail_Revised Basin 5 Clean Fill Tech Memo/Approval E-mail_Revised Basin 5 Clean Fill Tech Memo.md", "wiki/sources/Approval of GW Statistical Evaluation (900259)/Approval of GW Statistical Evaluation (900259).md", "wiki/sources/Caltrans Ramp Clarification Letter dated 8-24-12 .md", "wiki/sources/DTSC Approval E-mail for Carpenter Shoofly Clean Fill Sampling Plan.md", "wiki/sources/DTSC E-mail Approval of Carpenter Shoofly Tech Memo.md", "wiki/sources/Draft Interim RACR_Text_Figures_Tables_ App A-C/Draft Interim RACR_Text_Figures_Tables_ App A-C.md", "wiki/sources/E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan/E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan.md", "wiki/sources/E-mail Acceptance of Bent 2 Soils Tech Memo/E-mail Acceptance of Bent 2 Soils Tech Memo.md", "wiki/sources/E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo/E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo.md", "wiki/sources/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo.md", "wiki/sources/Errata Transmittal 2-6-2020.md", "wiki/sources/FW_ SR 132 Basin 5 Clean Fill Sampling Plan /FW_ SR 132 Basin 5 Clean Fill Sampling Plan .md", "wiki/sources/Final SMP Approval E-mail/Final SMP Approval E-mail.md", "wiki/sources/RDIP Variance Request Acceptance E-Mail/RDIP Variance Request Acceptance E-Mail.md", "wiki/sources/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19.md", "wiki/sources/S2350-01-02 Stormwater SAP_12.23/S2350-01-02 Stormwater SAP_12.23.md", "wiki/sources/S2350-01-02 Updated Statistical Evaluation Report_2-24/S2350-01-02 Updated Statistical Evaluation Report_2.24.md", "wiki/sources/S2350-01-02 Well Destruction Report_6-25/S2350-01-02 Well Destruction Report_6.25.md", "wiki/sources/S2350-01-02_2.1.2024 Stormwater Sampling Report_5.24/S2350-01-02_2.1.2024 Stormwater Sampling Report_5.24.md", "wiki/sources/S2350-01-02_2.4.2025 Stormwater Sampling Report_6.25/S2350-01-02_2.4.2025 Stormwater Sampling Report_6.25.md", "wiki/sources/S9525-06-44 HHRA UPDATE Rev.0313/S9525-06-44 HHRA UPDATE Rev.0313.md", "wiki/sources/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313.md", "wiki/sources/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.md", "wiki/sources/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan.Revised_10.14/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan.Revised_10.14.md", "wiki/sources/SR 132 Public Notice English_.md", "wiki/sources/SR_132_DEIR_EA_Append_G-J.md", "wiki/sources/Stockpile 3 Confirmation Sampling Tech Memo Approval/Stockpile 3 Confirmation Sampling Tech Memo Approval.md", "wiki/sources/WB Acceptance E-mail/WB Acceptance E-mail.md"]
 confidence: high
-created_at: 2026-08-17T23:48:33Z
+created_at: 2026-08-18T17:33:55Z
 ---
 
-The Central Valley Regional Water Quality Control Board (CVRWQCB), also referred to as the Water Board (WB), is a regulatory agency that shares oversight responsibilities with the [[department-of-toxic-substances-control]] (DTSC) for the [[caltrans-modesto-soil-stockpiles]] project. The CVRWQCB was involved in the review and approval of various project documents, including the [[remedial-design-implementation-plan]] (RDIP) and technical memorandums related to soil characterization and management.
+## Overview
+
+The Central Valley Regional Water Quality Control Board (CVRWQCB) is an oversight agency for the Caltrans Modesto Soil Stockpiles remediation case file, working in conjunction with the Department of Toxic Substances Control (DTSC). The CVRWQCB's primary concern regarding the stockpiles has been the potential for groundwater quality degradation.
 
 ## Site Record
 
-The CVRWQCB was a recipient of correspondence and documentation related to the remediation and management of the Caltrans Modesto Soil Stockpiles as part of the [[sr-132-west-expressway-phase-1]] project. Specifically, the CVRWQCB, along with DTSC, reviewed and approved:
+The CVRWQCB, in consultation with DTSC, reviewed and approved the Feasibility Study (FS) for the Caltrans Modesto Soil Stockpiles. The CVRWQCB also reviewed and provided comments on the Draft Final Remedial Action Plan (RAP). During the review of the RAP, the CVRWQCB indicated that the stockpiles would need to be maintained to protect groundwater quality if the SR-132 Project were not constructed.
 
-*   The **Remedial Design Implementation Plan - Interim Phase 1**, dated January 30, 2019, which was approved by DTSC in consultation with the Central Valley Regional Water Quality Control Board (RWQCB) on April 3, 2019.
-*   The **Final Feasibility Study**, dated June 24, 2014, which DTSC reviewed in consultation with the CVRWQCB.
-*   The **Carpenter Shoofly Area Clean Fill Sampling Plan** was reviewed by DTSC and the Waterboard (referring to the CVRWQCB).
-*   The **Revised Soil Management Plan (SMP)**, dated February 8, 2021, was reviewed by DTSC and the Water Board.
-*   The **Modesto Soil Stockpile Surface Water Report – December 17, 2020** was reviewed by the CVRWQCB.
-
-The CVRWQCB, along with DTSC, was also listed as an addressee on the **Interim Removal Action Completion Report (RACR)** for the Caltrans Modesto Soil Stockpiles, dated December 2021.
-
-Groundwater and stormwater monitoring activities near the BCS soil stockpiles were completed by Caltrans' subconsultant, Stantec. Reports for these activities are accessible via DTSC's EnviroStor and GeoTracker websites.
-
-The CVRWQCB, in cooperation with DTSC, is responsible for providing site mitigation oversight under a Caltrans Interagency Agreement.
+The CVRWQCB is a reviewing agency for the Environmental Impact Report (EIR) being prepared for the SR-132 Project. The CVRWQCB has been involved in the review and approval of various technical memorandums and reports related to the remediation and containment of the soil stockpiles, including those concerning clean fill material and stormwater sampling.
 
 ## Regulatory Status
 
-The CVRWQCB, in conjunction with DTSC, provides regulatory oversight for the Caltrans Modesto Soil Stockpiles. Annual groundwater sampling events will continue until the CVRWQCB determines that the clean-capped BCS material does not pose a material threat to groundwater quality.
+The CVRWQCB, along with DTSC, provides oversight for the remedial actions at the Caltrans Modesto Soil Stockpiles. They are involved in approving key project documents such as the Feasibility Study, Remedial Action Plan, and Remedial Design Implementation Plan. The CVRWQCB's focus has been on ensuring the protection of groundwater quality.
 
-## Open Items
+## See Also
 
-*   Annual groundwater sampling events will continue until the CVRWQCB determines that the clean-capped BCS material does not pose a material threat to groundwater quality.
-*   Additional stormwater sampling events will be performed in the vicinity of the BCS Stockpile 1 and 2 Containment Zones at regulatory-approved modified locations during qualifying rain events until completed construction of Ultimate Phase 2 of the SR 132 West Project.
-
-## See also
-
-*   [[caltrans]]
-*   [[department-of-toxic-substances-control]]
-*   [[barium]]
-*   [[geocon-consultants]]
-*   [[stockpile-1]]
-*   [[lead]]
-*   [[john-e-juhrend]]
-*   [[caltrans-modesto-soil-stockpiles]]
-*   [[sr-132-west-expressway-phase-1]]
-*   [[barium-containing-soil]]
-*   stockpile-2
-*   [[stockpile-1]]
+* [[dtsc]]
+* [[caltrans]]
+* [[geocon-consultants-inc]]
+* [[barium]]
+* [[lead]]
+* [[site-specific-background-levels]]
+* [[strontium]]
+* [[california-chhsl]]

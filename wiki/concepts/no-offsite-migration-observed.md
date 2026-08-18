@@ -1,30 +1,27 @@
 ---
 concept: no-offsite-migration-observed
 entity_type: claim
-aliases: ["no offsite migration observed"]
-sources: ["06A2542ct_to97_SurfaceWaterLetter_final.20230309.md", "wiki/sources/S9800-01-17A Modesto Stockpiles Jan 6 2016 Stormwater Smplng 0216/S9800-01-17A Modesto Stockpiles Jan 6 2016 Stormwater Smplng 0216.md", "wiki/sources/S9800-01-17A Modesto Stockpiles Mar 5 2016 Stormwater Samplng_04 16/S9800-01-17A Modesto Stockpiles Mar 5 2016 Stormwater Samplng_04 16.md", "wiki/sources/SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020/SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020.md", "wiki/sources/SR 132 Clean Borrow Area Technical Memo/SR 132 Clean Borrow Area Technical Memo.md", "wiki/sources/SR 132 Stockpile 2 BCS Removal Tech Memo/SR 132 Stockpile 2 BCS Removal Tech Memo.md", "wiki/sources/SR 132 Stockpile 3 BCS Removal Tech Memo/SR 132 Stockpile 3 BCS Removal Tech Memo.md"]
+aliases: []
+sources: ["wiki/sources/S9800-01-17A Modesto Stockpiles Mar 5 2016 Stormwater Samplng_04 16.md"]
 confidence: high
-created_at: 2026-08-17T23:47:21Z
+created_at: 2026-08-18T17:36:06Z
 ---
 
-## Overview
-This concept pertains to the observed absence of contaminant migration from the [[caltrans-modesto-soil-stockpiles]] to areas beyond the site boundaries, as determined through surface water sampling. The findings are based on sampling conducted in accordance with approved protocols.
+## No Offsite Migration Observed
 
-## Site Record
-Surface water sampling activities were conducted at the [[caltrans-modesto-soil-stockpiles]], located south of the intersection of State Route (SR) 99 and Kansas Avenue in Stanislaus County, California. These activities were performed on March 5, 2016, by [[geocon-consultants]]. The sampling followed protocols approved by the California Environmental Protection Agency, Department of Toxic Substances Control (DTSC), as outlined in the *Final Surface Water Sampling and Analysis Plan (SAP)* dated January 2006, and an addendum dated February 20, 2013.
+### Overview
+The concept of "No Offsite Migration Observed" at the Caltrans Modesto Soil Stockpiles site refers to the documented absence of contaminant movement beyond the defined site boundaries, particularly concerning groundwater. This is a key consideration in the ongoing remediation and monitoring efforts.
 
-## Regulatory Status
-The surface water sampling activities were conducted under protocols approved by the California Environmental Protection Agency, Department of Toxic Substances Control (DTSC).
+### Site Record
+Stormwater sampling conducted on March 5, 2016, as documented in the "Modesto Stockpiles Mar 5 2016 Stormwater Sampling" report, did not indicate offsite migration of contaminants. Specific analytes and their concentrations were evaluated in relation to site conditions and potential migration pathways.
 
-## Open Items
-No specific open items related to the observation of "No Offsite Migration Observed" are detailed in the provided source material.
+### Regulatory Status
+The absence of observed offsite migration is a critical factor in demonstrating the effectiveness of remediation efforts and compliance with regulatory requirements. Regulatory agencies review monitoring data to confirm that contaminants are contained within the site boundaries.
 
-## See also
-* [[surface-water-sampling-report]]
-* [[caltrans]]
-* [[caltrans-modesto-soil-stockpiles]]
-* [[central-valley-rwqcb]]
-* [[dissolved-metals]]
-* [[general-minerals]]
-* [[geocon-consultants]]
-* [[manganese]]
+### Open Items
+No specific open items related to the observation of no offsite migration were identified in the provided source material.
+
+### See also
+- [[caltrans]]
+- [[geocon-consultants-inc]]
+- [[no-offsite-groundwater-migration]]

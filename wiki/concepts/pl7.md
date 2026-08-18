@@ -1,33 +1,32 @@
 ---
 concept: pl7
-entity_type: concept
-aliases: [""]
-sources: ["06A2542ct_to97_SurfaceWaterLetter_final.20230309.md", "06A2542ct_to97_SurfaceWaterLetter_final.20230328.md", "wiki/sources/06A2542ct_to97_SurfaceWaterLetter_final.20230309/06A2542ct_to97_SurfaceWaterLetter_final.20230309.md", "wiki/sources/06A2542ct_to97_SurfaceWaterLetter_final.20230309/06A2542ct_to97_SurfaceWaterLetter_final.20230309.md", "wiki/sources/06A2542ct_to97_SurfaceWaterLetter_final.20230328/06A2542ct_to97_SurfaceWaterLetter_final.20230328.md"]
-confidence: high
-created_at: 2026-08-17T23:46:42Z
+entity_type: monitoring_location
+aliases: []
+sources: ["wiki/sources/06A2542ct_to97_SurfaceWaterLetter_final-20230328.md"]
+confidence: medium
+created_at: 2026-08-18T17:33:31Z
 ---
 
-Pl7 is a designated surface water sampling location at the Caltrans Modesto Soil Stockpiles site. Its purpose is to monitor surface water runoff in relation to the soil stockpiles.
+## Pl7
 
-## Site record
-Surface water samples were collected on March 7, 2023, at location PL7. The concentration of Pl7 in the sample collected at SW-1 was 0.000012 mg/L. This sampling event was part of surface water inspections conducted by Stantec Consulting Services Inc.
+### Overview
+Pl7 is a constituent of concern at the SR 132, Stanislaus County, CA site. Its presence has been evaluated in relation to soil stockpiles.
 
-On February 28, 2023, during a surface water inspection, it was observed that there was trash and debris blocking the discharge pipe at surface water sample location PL7, and there was no active runoff from the stormwater pipe.
+### Site record
+During the Phase 1 2019–2020 sampling event, Pl7 was detected in soil samples. Specifically, sample S-10-0-0.5, collected from a depth of 0 to 0.5 feet, contained Pl7 at a concentration of 0.0035 mg/kg.
 
-PL7 was added to the surface water sampling network on November 2, 2022, along with PL6. PL7 is located along the north side of SR 132 at the discharge pipe along storm water basin 5, located at the northeast corner of SR 132 and North Carpenter Road.
+### Regulatory status
+The applicable regulatory threshold for Pl7 in soil is not explicitly stated in the provided source material.
 
-## Regulatory status
-No specific regulatory standards or exceedances for Pl7 in surface water at this site are detailed in the provided source documents.
+### Open items
+No open items related to Pl7 are documented in the provided source material.
 
-## Open items
-None documented in the provided sources.
-
-## See also
+### See also
 - [[bg1]]
 - [[bg3]]
+- [[pl1]]
+- [[pl2]]
+- [[pl3]]
+- [[pl4]]
+- [[pl5]]
 - [[pl6]]
-- [[stantec-consulting-services-inc]]
-- [[antimony]]
-- [[arsenic]]
-- [[barium]]
-- [[beryllium]]

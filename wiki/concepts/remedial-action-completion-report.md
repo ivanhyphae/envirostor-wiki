@@ -1,51 +1,54 @@
 ---
 concept: remedial-action-completion-report
 entity_type: deliverable
-aliases: ["RACR", "Remedial Action Completion Report"]
-sources: ["OM Plan Comments (900259)/OM Plan Comments (900259).md"]
+aliases: ["RACR", "Removal Action Completion Report"]
+sources: ["wiki/sources/1- SR_132_FEIR_EA_ 20180302 FINAL Main Doc.md", "wiki/sources/2. SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size A-G.md", "wiki/sources/3- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size H-K.md", "wiki/sources/Acceptance Letter Draft Interim RACR (900259)/Acceptance Letter Draft Interim RACR (900259).md", "wiki/sources/Acceptance Letter_Final Removal Action Completion Report_Modesto Soil Stockpiles (900259)/Acceptance Letter_Final Removal Action Completion Report_Modesto Soil Stockpiles (900259).md"]
 confidence: high
-created_at: 2026-08-17T23:50:14Z
+created_at: 2026-08-18T17:34:09Z
 ---
 
-concept: remedial-action-completion-report
-entity_type: concept
-aliases: ["RACR", "Remedial Action Completion Report"]
-sources: ["wiki/sources/Caltrans -DTSC Agreement/Caltrans -DTSC Agreement.md", "wiki/sources/OM Plan Comments (900259)/OM Plan Comments (900259).md"]
-confidence: high
-created_at: 2026-08-11T00:59:54Z
----
+## Remedial Action Completion Report (RACR)
 
-## Remedial Action Completion Report
+### Overview
 
-The Remedial Action Completion Report (RACR) for the [[modesto-soil-stockpiles-project]] will incorporate the [[operations-and-maintenance-plan]] as an appendix. This report documents the completion of remedial actions for barium-containing soil (BCS) stockpiles at the [[modesto-soil-stockpiles-project]] site, specifically addressing the portion of State Route 132 (SR 132) designated as a clean cap cover. The [[operations-and-maintenance-plan]] details the required activities for the inspection, maintenance, and repair of this cap.
+The Remedial Action Completion Report (RACR) documents the remediation activities undertaken for the Caltrans Modesto Soil Stockpiles, specifically addressing barium-containing soils (BCS) as part of the Interim Phase 1 State Route 132 West Project in Modesto, Stanislaus County, California. The RACR was prepared by [[geocon-consultants-inc]] on behalf of Caltrans and reviewed by the [[dtsc]] in consultation with the [[central-valley-rwqcb]]. The report details the excavation, consolidation, and capping of BCS to support the construction of the new State Route 132 Expressway.
 
-## Site Record
+### Site Record
 
-The Draft Operation and Maintenance Plan, dated March 2022, was submitted by Geocon Consultants, Inc. on behalf of the Department of Transportation for the Caltrans Modesto Soil Stockpiles, Interim Phase 1 State Route 132 West Project, Stanislaus County, California (Site Code: 900259). The Department of Toxic Substances Control (DTSC), in consultation with the Central Valley Regional Water Quality Control Board (RWQCB), reviewed this Draft O&M Plan, which is intended for inclusion in the RACR as Appendix G.
+The Site initially comprised BCS Stockpiles 1 through 3 within the Caltrans State Route 132 right-of-way.
+*   **Stockpile 1:** Located approximately 150 feet west of Emerald Avenue, it was approximately 600 feet long (east-west), 160 feet wide, with an estimated volume of 34,000 cubic yards (yd³).
+*   **Stockpile 2:** Situated between Emerald Avenue and State Route 99, it was approximately 1,650 feet long (east-west), 160 feet wide, with an estimated volume of 102,000 yd³.
+*   **Stockpile 3:** Formerly east of State Route 99, it was approximately 1,100 feet long, 120 feet wide, with an estimated volume of 24,000 yd³.
 
-Specific comments were provided by DTSC on the Draft O&M Plan. These included a misspelling of "Maintenance" in the Subject line. DTSC recommended that Section 2.1 include a minimum of 10 working days advance notification to DTSC for any BCS disturbance, to ensure prior written authorization. In Section 2.4, DTSC recommended adding text to explicitly state that Health and Safety Code (HSC) 25123.3(b)(4)(A) requirements will be met, noting that the minimum thickness of 6 millimeters provided meets HSC requirements but clarification is needed due to the HSC using mils. A misspelling of "millimeter" was also noted in this section.
+Remediation activities involved excavating Stockpile 3, the western and eastern ends of Stockpile 2, and portions of the southern slopes of Stockpiles 1 and 2. Approximately 27,675 yd³ of soil from BCS Stockpile 3 were transported and used as embankment fill within the BCS Stockpile 1 containment zone.
 
-For Section 3.1, DTSC recommended that inspections occur after events such as fires, substantial rainfall (1 inch in 24 hours), significant seismic events, or traffic accidents that may damage the cap, in addition to annual inspections. This is particularly important for the north side of the freeway, which will remain a vegetated slope until the final phase of the freeway is complete. DTSC also recommended that the periodic patrols referenced in Section 2.7 should note if unauthorized access, such as a homeless encampment, has impacted the cap, especially on the north vegetated slope. Additionally, DTSC recommended expanding the O&M Site Inspection Form.
+Twenty-nine confirmation soil samples were collected from the bottom of the BCS Stockpile 3 excavation area and analyzed for [[barium]] and lead. Three samples initially showed barium concentrations above the cleanup goal of 1,000 milligrams per kilogram (mg/kg). These areas were deepened by approximately one foot and resampled. The final confirmation samples met the cleanup goals.
 
-The DTSC comments were sent via electronic mail on August 1, 2022, to Mr. John E. Juhrend, PE, CEG, Project Manager, Geocon Consultants, Inc.
+The Draft Interim Removal Action Completion Report – Caltrans Modesto Soil Stockpiles, Phase 1 Interim State Route 132 West Project was submitted by Geocon Consultants Inc. on February 24, 2022. The DTSC, in consultation with the Central Valley RWQCB, accepted this draft report.
 
-## Regulatory Status
+A subsequent Removal Action Completion Report (RACR) – Caltrans Modesto Soil Stockpiles, Interim Phase 1 State Route 132 West Project, dated December 1, 2022, was submitted by Geocon Consultants Inc. This report included As-Built Plans, cross-section figures, final survey data, and the final Operation and Maintenance (O&M) Plan. The DTSC accepted this version of the RACR as final on January 18, 2023. This acceptance was based on the completion of soil removal, consolidation, and capping efforts in accordance with the approved Remedial Action Plan (RAP), Remedial Design and Implementation Plan (RDIP), and two variance requests to the RDIP approved on April 17, 2020, and September 21, 2020.
 
-The DTSC, in consultation with the RWQCB, reviewed the Draft O&M Plan. DTSC provided comments and recommendations for revisions to the Draft O&M Plan, which will be incorporated into the Remedial Action Completion Report.
+### Regulatory Status
 
-## Open Items
+The cleanup goal for [[barium]] in the BCS Stockpile 3 excavation area was 1,000 mg/kg. The DTSC, in consultation with the Central Valley RWQCB, has reviewed and accepted the RACR documents. The acceptance of the RACR on January 18, 2023, marks the conclusion of the Interim Phase 1 effort.
 
-The DTSC provided comments on the Draft O&M Plan that require revisions before it can be finalized for inclusion in the Remedial Action Completion Report. These include addressing misspellings, clarifying notification periods for BCS disturbance, confirming compliance with HSC requirements, expanding inspection triggers, and detailing reporting of unauthorized access impacts.
+A draft O&M Agreement and a Land Use Covenant (LUC) for the remediated area are to be prepared by the DTSC for Caltrans' review and recording with the Stanislaus County Assessor's office.
 
-## See also
-* [[modesto-soil-stockpiles-project]]
-* [[draft-o-and-m-plan]]
-* [[oandm-plan]]
-* [[operations-and-maintenance-plan]]
-* [[annual-inspection-report]]
-* [[annual-o-and-m-inspection-report]]
-* [[arsenic]]
-* [[barium]]
-* [[barium-containing-soil-aerially-deposited-lead]]
-* [[sr-132-west-expressway-phase-1]]
-* [[remedial-design-implementation-plan]]
+Final certification of the RAP for this project will not occur until after the Ultimate Phase 2 State Route 132 build-out effort is completed, which is anticipated in 8 to 10 years. This future phase will involve additional lanes and final build-out of State Route 132, requiring a supplemental RDIP, field oversight, an Ultimate Phase 2 RACR, and potential revisions to the O&M Plan and Agreement.
+
+### Open Items
+
+*   Preparation and submission of a draft O&M Agreement for Caltrans review.
+*   Completion and submission of a Land Use Covenant (LUC) for the remediated area for review, signature, and recording.
+*   The ultimate Phase 2 State Route 132 build-out effort, which will include a supplemental RDIP, field oversight, an Ultimate Phase 2 RACR, and potential revisions to O&M documents.
+
+### See Also
+
+*   [[central-valley-rwqcb]]
+*   [[geocon-consultants-inc]]
+*   [[dtsc]]
+*   [[barium]]
+*   [[california-chhsl]]
+*   [[california-primary-mcl]]
+*   [[california-secondary-mcl]]
+*   [[chromium]]

@@ -1,25 +1,30 @@
 ---
 concept: site-investigation-workplan
 entity_type: deliverable
-aliases: ["SIWP"]
+aliases: ["SIWP", "Site Investigation Workplan"]
 sources: ["wiki/sources/S9650-06-03 MODESTO RAMP WORKPLAN.0412/S9650-06-03 MODESTO RAMP WORKPLAN.0412.md"]
 confidence: high
-created_at: 2026-08-17T23:50:51Z
+created_at: 2026-08-18T17:36:02Z
 ---
 
-The Site Investigation Workplan (SIWP) for the Modesto Ramp Rehabilitation Project details the procedures and methodologies for conducting a site investigation at the State Route 99 (SR99) Kansas Avenue Off-ramp in Modesto, California. This workplan was submitted by Geocon Consultants to Caltrans under Contract No. 06A1634 and Work Request EA No. 10-0A671.
+## Site Investigation Workplan
 
-## Site Record
+### Overview
+The Site Investigation Workplan is a document submitted by Geocon Consultants, Inc. to the California Department of Transportation (Caltrans) outlining the scope of services, procedures, and methods for a site investigation. This workplan was prepared in accordance with Caltrans Contract No. 06A1634 and Work Request EA No. 10-0A671 for the Modesto Ramp Rehabilitation Project, specifically concerning the State Route 99 (SR99) Kansas Avenue Northbound Off-Ramp in Modesto, California.
 
-The SIWP was submitted by Geocon Consultants to Caltrans. The document states: "In accordance with the California Department of Transportation (Caltrans) Contract No. 06A1634 and Work Request EA No. 10-0A671, we are submitting this Workplan for a site investigation to be conducted at the State Route 99 (SR99) Kansas Avenue Off-ramp (the Project) in Modesto, California." It further clarifies the purpose of the document: "This Workplan describes the scope of services requested by Caltrans and outlines the procedures and methods we will employ to complete the project."
+### Site Record
+The Site Investigation Workplan was submitted via electronic mail to Mr. Richard Stewart, PG of Caltrans - District 6. The subject of the electronic mail was "SITE INVESTIGATION WORKPLAN MODESTO RAMP REHABILITATION PROJECT STATE ROUTE 99 KANSAS AVENUE NORTHBOUND OFF-RAMP MODESTO, CALIFORNIA CONTRACT NO. 06A1634, EA NO. 10-0A671".
 
-## See also
+### Regulatory Status
+Not documented in the provided source material.
 
-*   [[barium]]
-*   [[barium-exceeds-residential-and-commercial-industrial-screening-levels]]
-*   [[california-human-health-screening-levels]]
-*   [[chemicals-of-concern]]
-*   [[clean-fill-suitable-as-cover]]
-*   [[geocon-consultants]]
-*   interim-remedial-action-workplan-unnecessary
-*   [[lead]]
+### Open Items
+Not documented in the provided source material.
+
+### See also
+* [[barium]]
+* [[caltrans]]
+* [[caltrans-modesto-soil-stockpiles]]
+* [[geocon-consultants-inc]]
+* [[stlc-ttlc]]
+* [[stockpile-3]]

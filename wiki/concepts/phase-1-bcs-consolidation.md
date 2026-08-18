@@ -1,44 +1,40 @@
 ---
 concept: phase-1-bcs-consolidation
-entity_type: concept
-aliases: []
-sources: ["wiki/sources/Caltrans Modesto Soil Stcokpiles RDIP Variance/Caltrans Modesto Soil Stcokpiles RDIP Variance.md"]
+entity_type: remedial_action
+aliases: ["Phase 1 BCS consolidation"]
+sources: ["wiki/sources/3.15.2018 - Caltrans Modesto SOF.md", "wiki/sources/Acceptance Letter Draft Interim RACR (900259)/Acceptance Letter Draft Interim RACR (900259).md", "wiki/sources/Acceptance Letter_Final Removal Action Completion Report_Modesto Soil Stockpiles (900259)/Acceptance Letter_Final Removal Action Completion Report_Modesto Soil Stockpiles (900259).md", "wiki/sources/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19.md", "wiki/sources/S1908-01-01 Caltrans Modesto Stockpile Interim RACR_12.22 (1)/S1908-01-01 Caltrans Modesto Stockpile Interim RACR_12.22 (1).md", "wiki/sources/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.md", "wiki/sources/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan.Revised_10.14/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan.Revised_10.14.md", "wiki/sources/SR_132_DEIR_EA.md"]
 confidence: high
-created_at: 2026-08-11T02:52:52Z
+created_at: 2026-08-18T17:33:35Z
 ---
 
-# Phase 1 Bcs Consolidation
+## Phase 1 BCS Consolidation
 
-## Overview
-Phase 1 Bcs Consolidation refers to the management of petroleum hydrocarbon-impacted soil, specifically identified as a "black clayey sand" (Bcs) lithologic unit, at the [[caltrans-modesto-soil-stockpiles]] site. This action was part of the soil management strategy for the [[sr-132-west-expressway-phase-1]] project in Modesto, Stanislaus County, California.
+### Overview
+Phase 1 BCS Consolidation refers to the initial remediation activities undertaken at the Caltrans Modesto Soil Stockpiles site, specifically addressing Barium Containing Soils (BCS). This phase involved the excavation, transportation, and consolidation of BCS from various stockpiles into a designated containment zone, followed by capping. The primary goal was to prepare the site for the construction of the State Route 132 Expressway.
 
-## Site record
-The Phase 1 Bcs Consolidation involved the excavation of Bcs material from various source areas. This material was characterized by the presence of petroleum hydrocarbons, specifically total petroleum hydrocarbons as diesel (TPH-d) and total petroleum hydrocarbons as motor oil (TPH-mo). The excavated Bcs soil was then consolidated into a single stockpile. This consolidation was undertaken to manage soils impacted by TPH-d and TPH-mo concentrations that exceeded applicable screening criteria. The consolidated stockpile was configured to facilitate future remedial actions, such as treatment or off-site disposal, pending regulatory approval.
+### Site Record
+Prior to remediation, the site contained BCS Stockpiles 1, 2, and 3. Stockpile 1 was approximately 600 feet long, 160 feet wide, with an estimated volume of 34,000 cubic yards (yd³). Stockpile 2 was approximately 1,650 feet long, 160 feet wide, with an estimated volume of 102,000 yd³. Stockpile 3, previously located east of State Route 99, was approximately 1,100 feet long, 120 feet wide, with an estimated volume of 24,000 yd³.
 
-The activities were conducted under the oversight of the California Department of Toxic Substances Control (DTSC). The specific location, dimensions, and containment measures for the consolidated stockpile were documented in project records, including field reports and as-built drawings, which were submitted to the DTSC.
+During Phase 1, Stockpile 3 was excavated, yielding approximately 27,675 yd³ of soil. This soil was transported and used as embankment fill within the containment zone of Stockpile 1. Excavation of the western and eastern ends of Stockpile 2, and removal of soil from the southern slopes of Stockpiles 1 and 2, also occurred to support the State Route 132 Expressway construction.
 
-A Variance to the Remedial Design Implementation Plan (RDIP) was prepared for the Caltrans Modesto Soil Stockpiles, located south of the State Route (SR) 99/Kansas Avenue interchange in Modesto, Stanislaus County, California. This variance was prepared to address identified sources of clean cover fill materials to properly cap consolidated barium-containing soil (BCS) within Stockpiles 1 and 2 during the SR 132 West Project.
+Twenty-nine confirmation soil samples were collected from the bottom of the Stockpile 3 excavation area and analyzed for barium and lead. Three samples exceeded the cleanup goal for barium of 1,000 milligrams per kilogram (mg/kg). These areas were deepened by approximately one foot and resampled. The final confirmation samples indicated that remaining soil met cleanup goals.
 
-Section 4.7 of the RDIP specified that the surface of completed Stockpile 1 and 2 barium-containing soil and ADL consolidation zones would be capped with a minimum 12-inch-thick clean fill material. The proposed source of clean imported fill soil consisted of vacant and agricultural land within planned excavation areas along the SR-132 ROW between the Carpenter Road and Rosemore Avenue overcrossings.
+The Draft Removal Action Completion Report – Caltrans Modesto Soil Stockpiles, Phase 1 Interim State Route 132 West Project (Draft Phase 1 RACR) was submitted by Geocon Consultants Inc. on behalf of Caltrans. The Department of Toxic Substances Control (DTSC), in consultation with the Central Valley Regional Water Quality Control Board (RWQCB), reviewed this report. The DTSC accepted the Draft Phase 1 RACR on February 24, 2022.
 
-The highway contractor initially identified an area adjacent and east of Carpenter Road within the SR 132 right-of-way as the clean fill material source for capping Stockpiles 1 and 2. Geocon, in coordination with Caltrans and DTSC, evaluated this area and determined the planned highway underpass excavation area adjacent and east of Carpenter Road would generate soil material suitable for use as clean cover fill material.
+A subsequent Removal Action Completion Report (RACR), dated December 1, 2022, was submitted and accepted by the DTSC on January 18, 2023. This report included As-Built Plans, cross-section figures, final survey data, and a final Operation and Maintenance (O&M) Plan. The acceptance of this report marked the conclusion of the Interim Phase 1 effort.
 
-An additional source of clean fill material was identified by the highway contractor at the proposed mechanically stabilized earth (MSE) wall footing excavations (approximately five-foot-deep) located along the southern boundaries of Stockpiles 1 and 2. Geocon evaluated the MSE wall footing material along the southern boundary of Stockpile 1 following excavation of the southern slope BCS material. In coordination with Caltrans and DTSC, it was determined that the upper foot of planned wall footing excavation soil contained elevated barium concentrations that would not be suitable for use as clean cover fill material.
+### Regulatory Status
+The DTSC, in consultation with the RWQCB, oversaw the remediation activities. The cleanup goal for barium in soil was established at 1,000 mg/kg. The DTSC accepted the Draft Phase 1 RACR on February 24, 2022, and the final RACR on January 18, 2023.
 
-## Regulatory status
-Characterization data for the consolidated Bcs material indicated exceedances of applicable commercial/industrial screening levels for TPH-d and TPH-mo. This necessitates further action, either on-site treatment or off-site disposal at a permitted facility. The DTSC's concurrence on the final remedy for the consolidated Bcs stockpile is a prerequisite for the closure of this aspect of the site remediation.
+### Open Items
+Final certification of the Remedial Action Plan (RAP) for this project is pending the completion of the Ultimate Phase 2 State Route 132 build-out effort, anticipated in 8 to 10 years. This future phase will require a supplemental Remedial Design and Implementation Plan (RDIP) for DTSC review and approval, field oversight, an Ultimate Phase 2 RACR, and potential revisions to the O&M Plan and O&M Agreement. A Land Use Covenant (LUC) for the remediated area was to be completed and sent for review, signature, and recording with the Stanislaus County Assessor's office following the acceptance of the Interim Phase 1 RACR.
 
-## Open items
-*   Final remedy selection for the consolidated Phase 1 Bcs stockpile is pending DTSC approval.
-*   Completion of any required post-consolidation confirmation sampling or treatment verification.
-*   Documentation of the ultimate disposal or treatment endpoint for the Bcs material.
-
-## See also
-*   [[caltrans]]
-*   [[caltrans-modesto-soil-stockpiles]]
-*   [[mechanically-stabilized-earth-wall]]
-*   [[modesto-soil-stockpiles-project]]
-*   [[remedial-design-implementation-plan]]
-*   [[sampling-plan]]
-*   [[sr-132]]
-*   [[sr-132-west-expressway-phase-1]]
+### See Also
+* [[barium]]
+* [[caltrans]]
+* [[dtsc]]
+* [[geocon-consultants-inc]]
+* [[central-valley-rwqcb]]
+* [[lead]]
+* [[mse-wall-construction]]
+* [[stockpile-3]]

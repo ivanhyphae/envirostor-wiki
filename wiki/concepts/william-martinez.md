@@ -1,24 +1,29 @@
 ---
 concept: william-martinez
-entity_type: concept
-aliases: ["Mr. William Martinez, PG (Chief, Site Evaluation and Remediation Unit)", "William Martinez"]
-sources: ["DTSC Letter Response - 2025 GW Monitoring Report (900259)/DTSC Letter Response - 2025 GW Monitoring Report (900259).md"]
+entity_type: person
+aliases: ["Mr. William Martinez, PG"]
+sources: ["wiki/sources/DTSC Letter Response - 2025 GW Monitoring Report (900259).md"]
 confidence: high
-created_at: 2026-08-17T23:49:43Z
+created_at: 2026-08-18T17:35:23Z
 ---
 
-William Martinez is a contact person referenced in correspondence related to the [[caltrans-modesto-soil-stockpiles]] remediation case file.
+William Martinez is a name that appears in correspondence related to the Caltrans Modesto Soil Stockpiles remediation case file.
 
 ## Site record
-William Martinez is listed as a recipient of the "DTSC Letter Response - 2025 GW Monitoring Report (900259)".
+In a letter dated January 24, 2025, from DTSC to Caltrans, William Martinez is listed as a contact person for the "2025 GW Monitoring Report."
+
+## Regulatory status
+Not documented in the provided source material.
+
+## Open items
+Not documented in the provided source material.
 
 ## See also
 * [[adam-inman]]
 * [[caltrans]]
-* [[caltrans-district-6]]
-* [[conditional-approval-letter]]
-* [[department-of-toxic-substances-control]]
-* [[geocon-consultants]]
-* [[site-mitigation-and-restoration-program]]
-* [[storm-water-and-surface-water-monitoring-report-fy24-25]]
-* [[well-destruction-completion-report]]
+* [[dtsc]]
+* [[dtsc-approval-of-storm-water-and-surface-water-monitoring-report]]
+* [[dtsc-conditional-approval-of-well-destruction-report]]
+* [[groundwater-not-impacted]]
+* [[no-offsite-groundwater-migration]]
+* [[well-destruction]]

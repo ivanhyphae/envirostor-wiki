@@ -1,49 +1,38 @@
 ---
 concept: notice-of-determination
-entity_type: concept
-aliases: ["NOD", "Notice of Determination"]
+entity_type: deliverable
+aliases: ["Notice of Determination (NOD)"]
 sources: ["wiki/sources/opr25@opr.ca.gov_20180319_135531/opr25@opr.ca.gov_20180319_135531.md"]
 confidence: high
-created_at: 2026-08-17T23:51:21Z
+created_at: 2026-08-18T17:36:18Z
 ---
 
 ## Notice of Determination
 
-A Notice of Determination (NOD) is a formal document filed by a public agency to announce its decision on a project subject to the [[california-environmental-quality-act]] (CEQA). It signifies whether the project is determined to have a significant effect on the environment and outlines the actions taken by the agency. For the [[modesto-soil-stockpiles-project]], the [[department-of-toxic-substances-control]] (DTSC) filed a NOD following its approval of the project's [[remedial-action-plan]].
+### Overview
+The Notice of Determination (NOD) is a regulatory document filed to inform the public and relevant agencies that a project has been approved and that its environmental review under the California Environmental Quality Act (CEQA) is complete. For the [[caltrans-modesto-soil-stockpiles]] remediation case, the Department of Toxic Substances Control (DTSC), acting as a CEQA Responsible Agency, filed this notice.
 
-## Overview
+### Site Record
+The DTSC filed a Notice of Determination on March 19, 2018, in compliance with Public Resources Code Section 21108 or 21152. The filing pertains to the containment of approximately 160,000 cubic yards of soil containing metals (primarily barium, strontium, and lead) during the construction of the State Route 132 West Freeway/Expressway Project.
 
-The Notice of Determination (NOD) serves as the final CEQA documentation for the DTSC's involvement in the [[modesto-soil-stockpiles-project]]. It is filed after the DTSC has approved the Remedial Action Plan (RAP) and is contingent upon Caltrans certifying the Final Environmental Impact Report (EIR). The NOD indicates the DTSC's determination regarding the project's environmental impact and its compliance with CEQA requirements.
+The project, located south of the SR-99/Kansas Avenue Interchange in Modesto, Stanislaus County, involves containing the soil stockpiles behind retaining walls, bridge abutments, and beneath the roadway. Unpaved areas will be covered with clean fill. This containment is intended to provide long-term protection by preventing exposure and minimizing surface water infiltration into groundwater. Annual inspections of the containment features and groundwater monitoring are planned.
 
-## Site Record
+Caltrans, as the Lead Agency under CEQA, prepared an Environmental Impact Report/Environmental Assessment (EIR/EA) and a Remedial Action Plan (RAP). Caltrans certified the EIR/EA on March 2, 2018. DTSC utilized this EIR/EA for its CEQA analysis of the RAP.
 
-On March 19, 2018, the [[department-of-toxic-substances-control]] (DTSC) filed a Notice of Determination for the Caltrans Modesto Soil Stockpiles State Route 132 West Freeway/Expressway Project. This filing followed the DTSC's approval of the Remedial Action Plan (RAP) for the project on March 15, 2018. The NOD stated that the project would not have a significant effect on the environment.
-
-The project described in the NOD involves the containment of approximately 160,000 cubic yards of soil containing metals, primarily barium, strontium, and lead, during the construction of the SR 132 West Freeway/Expressway Project. The DTSC, as a CEQA Responsible Agency, utilized the EIR/EA prepared by Caltrans, the Lead Agency, for its CEQA analysis. Caltrans certified the EIR/EA on March 2, 2018.
-
-The DTSC made the following determinations as a Responsible Agency under CEQA:
+DTSC, as a Responsible Agency, approved the project on March 14, 2018, and made the following determinations:
 *   The project will not have a significant effect on the environment.
-*   An Environmental Impact Report that included this project was prepared and certified by the California Department of Transportation pursuant to the provisions of CEQA.
+*   An EIR that included this project was prepared and certified by Caltrans.
 *   Mitigation measures were made a condition of project approval.
-*   Findings were made pursuant to the provisions of CEQA.
+*   A Statement of Overriding Considerations was not adopted for this project.
+*   Findings were made pursuant to CEQA provisions.
 
-The NOD also noted that a Statement of Overriding Considerations was not adopted for this project by the DTSC.
+The final environmental document, comments and responses, and the record of project approval are publicly available at the Caltrans District 10 Office, the DTSC File Room, and online via the Caltrans SR 132 West project website. The DTSC's EnviroStor database also contains information related to the site.
 
-The final environmental document, comments and responses, and the record of project approval are available to the public at the Caltrans District 10 Office, the DTSC File Room, and online via Caltrans and the DTSC EnviroStor website.
+### Regulatory Status
+The DTSC, as a CEQA Responsible Agency, approved the project and determined that it would not have a significant effect on the environment, with mitigation measures incorporated as conditions of approval.
 
-## Regulatory Status
-
-The filing of the Notice of Determination by the DTSC signifies the completion of its CEQA review process for the [[modesto-soil-stockpiles-project]]. It confirms that the project has been reviewed and approved, with the determination that it will not have a significant effect on the environment. The NOD is filed pursuant to the [[public-resources-code]].
-
-## See also
-
-* [[brownfields-and-environmental-restoration-program]]
-* [[california-environmental-quality-act]]
+### See also
 * [[caltrans]]
-* [[caltrans-division-environmental-analysis]]
-* [[department-of-toxic-substances-control]]
-* [[environmental-impact-report-environmental-assessment]]
-* [[modesto-soil-stockpiles-project]]
-* [[no-significant-effect-on-the-environment]]
-* [[public-resources-code]]
-* [[remedial-action-plan]]
+* [[ceqa]]
+* DTSC
+* [[modesto-soil-stockpiles]]

@@ -1,43 +1,36 @@
 ---
 concept: geocon-consultants
-entity_type: concept
-aliases: ["Geocon Consultants, Inc.", "geocon"]
-sources: ["09.20.2012 Final Caltrans Supplemental Site Characterization Workplan 2.md", "2. SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size A-G/2. SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size A-G.md", "Stockpile 1 MSE Wall Sampling Tech Memo/Stockpile 1 MSE Wall Sampling Tech Memo.md", "Stockpile 2 BCS Foundation Spoil Workplan Tech Memo/Stockpile 2 BCS Foundation Spoil Workplan Tech Memo.md", "Stockpile 2 Confirmation Sampling Tech Memo Approval/Stockpile 2 Confirmation Sampling Tech Memo Approval.md", "wiki/sources/7083_S9525-06-44 Modesto Soil Stockpiles Fenceline Workplan.0912/7083_S9525-06-44 Modesto Soil Stockpiles Fenceline Workplan.0912.md", "wiki/sources/7084_S9525-06-44 Response to DTSC Workplan Comments.0912/7084_S9525-06-44 Response to DTSC Workplan Comments.0912.md", "wiki/sources/7453_S9525-06-44_Modesto_Stockpiles_July_2012_GW_Report.1112/7453_S9525-06-44_Modesto_Stockpiles_July_2012_GW_Report.1112.md", "wiki/sources/E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo/E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo.md", "wiki/sources/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo.md", "wiki/sources/Errata to January 2019 RDIP - SR 132 West Expressway Phase 1/Errata to January 2019 RDIP - SR 132 West Expressway Phase 1.md", "wiki/sources/FW_ SR 132 Basin 5 Clean Fill Sampling Plan /FW_ SR 132 Basin 5 Clean Fill Sampling Plan .md", "wiki/sources/Final FS Letter/Final FS Letter.md", "wiki/sources/Final O and M Agreement with Cover Letter (900259)/Final O and M Agreement with Cover Letter (900259).md"]
+entity_type: responsible_party
+aliases: ["Geocon", "Geocon Consultants, Inc."]
+sources: ["wiki/sources/Errata to January 2019 RDIP - SR 132 West Expressway Phase 1/Errata to January 2019 RDIP - SR 132 West Expressway Phase 1.md", "wiki/sources/FW_ SR 132 Basin 5 Clean Fill Sampling Plan /FW_ SR 132 Basin 5 Clean Fill Sampling Plan .md", "wiki/sources/Final FS Letter.md", "wiki/sources/Final RDIP Approval Letter (900259)/Final RDIP Approval Letter (900259).md", "wiki/sources/GND Water Monitoring Rpt March 2102/GND Water Monitoring Rpt March 2102.md", "wiki/sources/LOTB-N Carpenter OC.md", "wiki/sources/Modesto Soil Stockpiles_ Final Recorded LUC/Modesto Soil Stockpiles_ Final Recorded LUC.md", "wiki/sources/OM Plan Comments (900259)/OM Plan Comments (900259).md", "wiki/sources/RDIP All Figures/RDIP All Figures.md"]
 confidence: high
-created_at: 2026-08-17T23:47:14Z
+created_at: 2026-08-18T17:35:27Z
 ---
 
-Geocon Consultants, Inc. (Geocon) is an environmental consulting firm that has provided services for the [[modesto-soil-stockpiles-project]] and related infrastructure improvements along [[sr-132]]. Their involvement has included the preparation of technical memorandums, sampling plans, and reports related to soil characterization, excavation verification, and clean fill sourcing. Geocon has worked under contract with the City of Modesto and Caltrans, coordinating with regulatory agencies such as the [[department-of-toxic-substances-control]] (DTSC) and the [[central-valley-rwqcb]].
+## Geocon Consultants
 
-## Site Record
+Geocon Consultants, Inc. has served as a primary technical consultant for the [[caltrans]] Modesto Soil Stockpiles remediation project, preparing key documents related to the [[remedial-design-implementation-plan]] (RDIP) and the Operations and Maintenance (O&M) Plan. Geocon was initially identified as Caltrans' agent responsible for ensuring the containment of soil stockpiles in accordance with the Remedial Action Plan (RAP) and the RDIP during Interim Phase 1 construction of the [[sr-132-west-expressway-project]].
 
-Geocon prepared a Technical Memorandum on February 27, 2020, detailing characterization testing for a proposed clean cap borrow area adjacent to Carpenter Road within the [[sr-132]] right-of-way. This testing involved 12 direct-push borings and the analysis of composite soil samples for Title 22 metals and organochlorine pesticides (OCPs). The results indicated metal concentrations consistent with naturally occurring background levels, suggesting suitability for use as clean cover fill for [[barium-containing-soil]] Stockpiles 1 and 2.
+### Site Record
 
-Geocon also prepared a Technical Memorandum on April 6, 2020, summarizing characterization testing of soil from [[stockpile-1]]'s mechanically stabilized earth (MSE) wall footing excavations. Samples were collected from one-foot intervals to a depth of 5 feet. Barium was detected at concentrations ranging from 42 to 420 mg/kg, exceeding the site-specific background value of 120 mg/kg but remaining below the [[remedial-design-implementation-plan]] (RDIP) removal threshold of 1,000 mg/kg. Lead concentrations ranged from 1.1 to 6.7 mg/kg, within the range of the site-specific background concentration of 3.8 mg/kg. Geocon concluded that the upper three feet of this material would require placement within containment zones, while material deeper than three feet could be suitable for reuse as embankment fill or capping material, pending regulatory approval.
+Geocon Consultants prepared the "Remedial Design Implementation Plan – Interim Phase 1" dated January 30, 2019, which was approved by the [[dtsc]] on April 3, 2019. This plan detailed the approach for the interim implementation of the selected remedial remedy for the Caltrans Modesto Soil Stockpiles. Geocon also prepared the "Operations and Maintenance Plan Caltrans Modesto Soil Stockpiles" dated December 2022, which addressed comments from the DTSC dated August 1, 2022, on a prior draft O&M Plan from March 2022.
 
-On June 18, 2020, Geocon issued a Technical Memorandum regarding characterization testing of Stockpile 2 MSE wall footing excavation soil. Samples were collected from depths of 3 and 5 feet. Barium concentrations ranged from 53 to 930 mg/kg, with 14 of 29 samples exceeding the site-specific background value of 120 mg/kg. Thirteen of these samples with elevated barium were from depths between the surface and 3 feet. Lead concentrations ranged from 3.5 to 22 mg/kg. Geocon concluded that the upper three feet of this soil would require placement within containment zones, while material excavated from depths greater than 3 feet was suitable for reuse as embankment fill or capping material.
+Geocon was responsible for preparing the "FW_ SR 132 Basin 5 Clean Fill Sampling Plan," submitted on June 11, 2020, which included a map with sample locations for clean cover mining at proposed Basin 5. Geocon also prepared the "Groundwater Monitoring Report, California Department of Transportation Modesto Soil Stockpiles - State Route (SR) 99 and 132, March 2012," dated May 2012.
 
-Geocon prepared a Technical Memorandum on March 13, 2020, detailing BCS removal verification testing at former Stockpile 3. A total of 38,440 cubic yards of BCS material were excavated and transported to Stockpile 1. Twenty-four verification soil samples were collected from the base of the excavation. Each of the final excavation soil samples contained barium and lead below the RDIP verification thresholds, with barium concentrations ranging from 46 to 970 mg/kg and lead concentrations from 1.6 to 40 mg/kg.
+### Regulatory Status
 
-Geocon also prepared a Technical Memorandum on April 12, 2021, summarizing characterization testing for the Carpenter Road Shoofly clean fill borrow area. Twenty-four discrete soil samples were collected and composited into eight 3-part composite samples. Barium was detected at concentrations ranging from 28 to 96 mg/kg, which were less than the maximum site-specific background value of 120 mg/kg. Lead was detected at concentrations ranging from 1.4 to 3.8 mg/kg, which were less than or equal to the maximum site-specific background concentration of 3.8 mg/kg. Geocon concluded that this material met the BCS clean cap criteria.
+The [[dtsc]], in consultation with the [[central-valley-rwqcb]], has overseen Geocon's work. Geocon's RDIP-Interim Phase 1 was conditionally approved by DTSC on August 20, 2018, and subsequently received final approval on April 3, 2019. DTSC provided comments on the Draft O&M Plan dated March 2022, which Geocon addressed in the December 2022 submittal.
 
-Geocon was responsible for performing BCS removal verification soil sampling and analysis, proposed clean soil import source sampling and analysis, and worker zone and perimeter air monitoring.
+### Open Items
 
-## Regulatory Status
+The DTSC provided comments on the Draft O&M Plan in August 2022, requesting revisions to sections concerning advance notification for BCS disturbance, compliance with Health and Safety Code requirements for cap thickness, and the inclusion of post-event inspections.
 
-Geocon's sampling plans and technical memorandums have been submitted to and reviewed by the [[department-of-toxic-substances-control]] (DTSC) and the [[central-valley-rwqcb]]. DTSC provided approval for the planned Carpenter Road clean fill source area. DTSC also accepted Geocon's Technical Memorandum regarding Stockpile 1 MSE Wall Footing Excavation Characterization Testing, with the condition that the MSE wall footing soil be placed within containment zones or used as general bridge embankment fill, rather than as capping material. DTSC also accepted Geocon's Technical Memorandum regarding Stockpile 2 BCS Removal Verification Testing, confirming that the east and west ends of Stockpile 2 met the RDIP verification thresholds and were suitable for clean embankment fill.
-
-## See Also
-
-* [[barium-containing-soil]]
+See also:
 * [[caltrans]]
-* [[central-valley-rwqcb]]
-* [[department-of-toxic-substances-control]]
-* [[mechanically-stabilized-earth-wall]]
-* [[modesto-soil-stockpiles-project]]
+* [[sr-132-west-expressway-project]]
+* [[dtsc]]
 * [[remedial-design-implementation-plan]]
-* [[sr-132]]
-* sampling-plan
-* [[stockpile-1]]
-* stockpile-2
-* stockpile-3
+* [[soil-stockpiles]]
+* [[phase-1-consolidation]]
+* [[basin-5]]
+* [[central-valley-rwqcb]]

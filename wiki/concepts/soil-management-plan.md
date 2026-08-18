@@ -1,40 +1,35 @@
 ---
 concept: soil-management-plan
 entity_type: deliverable
-aliases: ["SMP"]
-sources: ["wiki/sources/Final SMP Approval E-mail/Final SMP Approval E-mail.md"]
+aliases: ["Revised Soil Management Plan", "SMP"]
+sources: ["wiki/sources/1- SR_132_FEIR_EA_ 20180302 FINAL Main Doc.md", "wiki/sources/2. SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size A-G.md", "wiki/sources/3- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size H-K.md", "wiki/sources/Final SMP Approval E-mail/Final SMP Approval E-mail.md"]
 confidence: high
-created_at: 2026-08-17T23:50:04Z
+created_at: 2026-08-18T17:34:17Z
 ---
 
-The Soil Management Plan (SMP) for the State Route 132 (SR 132) Modesto Soil Stockpiles project outlines procedures for managing soil impacted by Total Petroleum Hydrocarbons (TPH). This plan was developed by the City of Modesto and reviewed by the Department of Toxic Substances Control (DTSC) and the Water Board (WB).
+## Soil Management Plan (SMP)
 
-## Site record
+### Overview
+The Soil Management Plan (SMP) for the State Route 132 (SR 132) Modesto project outlines procedures for the excavation, confirmation sampling, handling, and disposal of impacted soil associated with the construction of two proposed retention basins. The plan was developed by the City of Modesto and reviewed by the Department of Toxic Substances Control (DTSC) and the Water Board (WB).
 
-The revised Soil Management Plan (SMP), submitted on February 8, 2021, by the City of Modesto, detailed procedures for segregating and covering soil with Total Petroleum Hydrocarbons (TPH) above screening levels. The screening level for diesel range total petroleum hydrocarbons (TPH-d) was adjusted to 500 mg/kg to align with the DTSC screening level for commercial/industrial soil.
+### Site Record
+The revised SMP dated February 8, 2021, incorporated requests from the DTSC. A key revision was lowering the screening level for diesel-range Total Petroleum Hydrocarbons (TPH-d) to 500 mg/kg, reflecting the DTSC screening level for commercial/industrial soil.
 
-The SMP proposed two excavation activities:
-*   Targeted excavation of TPH-d impacted soils at borings RB-10 and RB-11 within Basin 6A, followed by confirmation soil sampling.
-*   Excavation of approximately 500 cubic yards from south of 611 Franklin within Basin 6B, where no known TPH-d impacted soils were present.
+The SMP addresses specific excavation activities:
+*   Targeted excavation of TPH-d impacted soils at borings RB-10 and RB-11 within Basin 6A, including confirmation soil sampling.
+*   Excavation of approximately 500 cubic yards from south of 611 Franklin within Basin 6B, where no known TPH-d impacted soils were identified.
 
-## Regulatory status
+### Regulatory Status
+The DTSC and the Water Board officially accepted the revised SMP via an e-mail dated February 11, 2021. This acceptance was contingent on the incorporation of two minor comments:
+*   Soil with Total Petroleum Hydrocarbons (TPH) above screening levels should be segregated, covered, and labeled until transported offsite.
+*   Should TPH-impacted soil remain at the maximum depth of the basins, Caltrans should be alerted, and consultation with the WB and DTSC should occur to determine next steps. These comments could be addressed in the field without requiring a further revision of the SMP.
 
-The revised SMP, dated February 8, 2021, was officially accepted by the Water Board (WB) and DTSC via email on February 11, 2021. This acceptance followed the incorporation of comments provided by DTSC and the WB on January 31, 2021.
+The Regional Water Quality Control Board (RWQCB) had not yet responded to requests for a meeting to discuss the appropriate screening level for the protection of groundwater, which would apply to soils left onsite or reused onsite at finished grade.
 
-Two minor comments were provided by DTSC and the WB on February 11, 2021, which could be addressed in the field without further revision of the SMP:
-*   Soil with TPH above screening levels should be labeled until transported offsite.
-*   A process for handling the scenario where TPH-impacted soil remains at the maximum excavation depth needs to be established, involving notification and consultation with the WB and DTSC.
+### Open Items
+As of February 11, 2021, two minor comments from DTSC and WB regarding the handling and potential residual TPH-impacted soil needed to be addressed in the field.
 
-As of February 8, 2021, the Regional Water Quality Control Board (RWQCB) had not yet responded to requests for a meeting to discuss the appropriate screening level for the protection of groundwater. The outcome of this discussion would apply to soils left onsite or reused onsite at finished grade.
-
-## Open items
-
-As of February 11, 2021, the SMP did not explicitly detail the actions to be taken if TPH-impacted soil is still present when the maximum depth of the basins is achieved. The plan requires that Caltrans be alerted and consultation with the WB and DTSC occur to determine appropriate next steps in such a scenario.
-
-## See also
-* [[caltrans]]
-* [[central-valley-rwqcb]]
-* [[department-of-toxic-substances-control]]
-* [[rincon-consultants]]
-* [[sr-132]]
-* [[tph-screening-levels]]
+### See Also
+*   [[central-valley-rwqcb]]
+*   [[caltrans]]
+*   [[dtsc]]

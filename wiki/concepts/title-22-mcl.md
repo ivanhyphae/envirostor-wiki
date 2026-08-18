@@ -1,49 +1,42 @@
 ---
 concept: title-22-mcl
-entity_type: concept
-aliases: ["Title 22 MCL"]
-sources: ["132Stockpile Fact SheetModestoDTSC117 (2-2-17)/132Stockpile Fact SheetModestoDTSC117 (2-2-17).md", "SR_132_DEIR_EA_Append_G-J/SR_132_DEIR_EA_Append_G-J.md", "wiki/sources/S1200-01-01 Modesto Stockpiles March 2018 SW Sampling_04.18/S1200-01-01 Modesto Stockpiles March 2018 SW Sampling_04.18.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Oct 2016 SW Sampling_12.16/S1200-01-01 Modesto Stockpiles Oct 2016 SW Sampling_12.16.md", "wiki/sources/S9525-01-44B Modesto Stockpiles GW June 2013.0613.md", "wiki/sources/S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.md", "wiki/sources/S9525-06-44 Modesto Stockpiles GW.0612.md", "wiki/sources/S9525-06-44A May 2012 GW Report 1112/S9525-06-44A May 2012 GW Report 1112.md"]
+entity_type: regulatory_standard
+aliases: ["Title 22", "Title 22 MCL", "Title 22 primary MCL"]
+sources: ["wiki/sources/1- SR_132_FEIR_EA_ 20180302 FINAL Main Doc.md", "wiki/sources/132Stockpile Fact SheetModestoDTSC117 (2-2-17)/132Stockpile Fact SheetModestoDTSC117 (2-2-17).md", "wiki/sources/2. SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size A-G.md", "wiki/sources/3- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size H-K.md", "wiki/sources/7453_S9525-06-44_Modesto_Stockpiles_July_2012_GW_Report-1112.md", "wiki/sources/Caltrans Ramp Letter dated 5-29-12.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Dec 2016 SW Sampling_01.17/S1200-01-01 Modesto Stockpiles Dec 2016 SW Sampling_01.17.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17.md", "wiki/sources/S1200-01-01 Modesto Stockpiles March 2018 SW Sampling_04.18/S1200-01-01 Modesto Stockpiles March 2018 SW Sampling_04.18.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Oct 2016 SW Sampling_12.16/S1200-01-01 Modesto Stockpiles Oct 2016 SW Sampling_12.16.md", "wiki/sources/S9525-01-44B Caltrans Modesto Stockpiles GW March 2013 0513/S9525-01-44B Caltrans Modesto Stockpiles GW March 2013 0513.md", "wiki/sources/S9525-01-44B Modesto Stockpiles GW June 2013-0613.md/S9525-01-44B Modesto Stockpiles GW June 2013.0613.md", "wiki/sources/S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112/S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.md", "wiki/sources/S9525-06-44 Modesto Stockpiles GW.0612/S9525-06-44 Modesto Stockpiles GW.0612.md", "wiki/sources/S9525-06-44A Caltrans Modesto Stockpiles GW 0213/S9525-06-44A Caltrans Modesto Stockpiles GW 0213.md", "wiki/sources/S9525-06-44A Caltrans Modesto Stockpiles GW Nov2012 0213/S9525-06-44A Caltrans Modesto Stockpiles GW Nov2012 0213.md", "wiki/sources/S9525-06-44A May 2012 GW Report 1112/S9525-06-44A May 2012 GW Report 1112.md", "wiki/sources/S9525-06-44AModesto Stockpiles GW  SEPT2012 1212/S9525-06-44AModesto Stockpiles GW  SEPT2012 1212.md", "wiki/sources/S9525-06-44AModesto Stockpiles GW. SEPT2012.1212/S9525-06-44AModesto Stockpiles GW. SEPT2012.1212.md", "wiki/sources/S9800-01-17 Caltrans Modesto Stockpiles Dec 2013 GW Mon 0114/S9800-01-17 Caltrans Modesto Stockpiles Dec 2013 GW Mon 0114.md", "wiki/sources/S9800-01-17 Caltrans Modesto Stockpiles GW_06.15/S9800-01-17 Caltrans Modesto Stockpiles GW_06.15.md", "wiki/sources/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.md", "wiki/sources/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan.Revised_10.14/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan.Revised_10.14.md", "wiki/sources/S9800-01-17 Modesto Stockpiles Feb2014 GW Mon 0414/S9800-01-17 Modesto Stockpiles Feb2014 GW Mon 0414.md", "wiki/sources/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814.md", "wiki/sources/S9800-01-17A Caltrans Modesto Stockpiles GW_06 16/S9800-01-17A Caltrans Modesto Stockpiles GW_06 16.md", "wiki/sources/SR_132_DEIR_EA.md"]
 confidence: high
-created_at: 2026-08-17T23:47:41Z
+created_at: 2026-08-18T17:33:43Z
 ---
 
 ## Title 22 MCL
 
-### Overview
+The California Code of Regulations (CCR) Title 22 establishes Maximum Contaminant Levels (MCLs) for various substances in drinking water. These MCLs serve as regulatory thresholds for groundwater quality at the [[caltrans-modesto-soil-stockpiles]] site.
 
-Title 22 Maximum Contaminant Levels (MCLs) are regulatory standards established under California law that serve as benchmarks for groundwater quality. For the [[caltrans]] Modesto Soil Stockpiles site, these MCLs are used to evaluate whether detected concentrations of certain constituents in groundwater and surface water samples exceed established thresholds.
+### Site Record
 
-### Site record
+Groundwater monitoring reports from [[geocon-consultants]] detail the analytical results for various metals and general minerals, comparing them against Title 22 MCLs.
 
-Groundwater samples collected in June 2013 were analyzed for Title 22 dissolved metals. None of the reported dissolved metals concentrations for these samples exceeded their respective numeric water quality threshold values. Barium and strontium were reported at concentrations similar to historical levels and remained significantly less than their numeric water quality thresholds. Lead was not reported at concentrations equal to or greater than the PQL of 1.0 µg/l in any of the groundwater samples collected in June 2013.
+*   **General Minerals:** In the June 2014 sampling event, nitrate concentrations in samples from wells MW-1, MW-5, MW-6, MW-9, and MW-10 equaled or exceeded their respective California primary MCLs. Total Dissolved Solids (TDS) exceeded the secondary MCL of 500 mg/l in samples from wells MW-1, MW-4, MW-5, MW-6, and MW-10.
+*   **General Minerals:** In the September 2012 sampling event, nitrate exceeded its respective California primary MCL in samples from wells MW-1, MW-3, MW-5, MW-6, MW-9, and MW-10. TDS exceeded the secondary MCL of 500 mg/l in samples from wells MW-5, MW-6, and MW-10.
+*   **General Minerals:** In the December 2013 sampling event, nitrate exceeded its respective California primary MCL in samples from wells MW-1, MW-5, MW-6, MW-9, and MW-10. TDS equaled or exceeded the secondary MCL of 500 mg/l in samples from wells MW-1, MW-4, MW-5, MW-6, MW-9, and MW-10.
+*   **General Minerals:** In the February 2014 sampling event, nitrate exceeded its respective California primary MCL in samples from wells MW-1, MW-5, MW-6, and MW-10. TDS exceeded the secondary MCL of 500 mg/l in samples from wells MW-5, MW-6, and MW-10.
+*   **General Minerals:** In the March 2013 sampling event, nitrate exceeded its respective California primary MCL in samples from wells MW-1, MW-5, MW-6, and MW-10. TDS met or exceeded the secondary MCL of 500 mg/l in samples from wells MW-1, MW-5, MW-6, and MW-10.
+*   **General Minerals:** In the May 2012 sampling event, nitrate exceeded its respective California primary MCL. TDS exceeded the secondary MCL of 500 mg/l in samples from wells MW-4, MW-5, and MW-6.
+*   **General Minerals:** In the June 2012 sampling event, nitrate exceeded its respective California primary MCL in the sample from MW-9. TDS exceeded the secondary MCL of 500 mg/l in samples from both MW-9 and MW-10.
+*   **General Minerals:** In the January 2013 sampling event, nitrate exceeded its respective California primary MCL. TDS exceeded the secondary MCL of 500 mg/l in samples from wells MW-5, MW-6, and MW-10.
+*   **General Minerals:** In the November 2012 sampling event, nitrate exceeded its respective California primary MCL. TDS exceeded the secondary MCL of 500 mg/l in samples from wells MW-5, MW-6, and MW-10.
+*   **General Minerals:** In the May 2016 sampling event, TDS was reported at 510 mg/l in the sample from MW-7, exceeding the secondary MCL of 500 mg/l.
 
-In May 2012, groundwater samples were analyzed for Title 22 dissolved metals. Barium, lead, and strontium were reported at concentrations similar to historical levels and remained significantly below their water quality thresholds. The remaining dissolved metals were also reported at concentrations similar to their March 2012 levels. None of the reported dissolved metals concentrations for the groundwater samples collected in March 2012 exceeded their water quality threshold values.
+### Regulatory Status
 
-Groundwater samples collected in June 2012 were analyzed for Title 22 dissolved metals. With the exception of manganese in the sample from well MW-10, none of the reported dissolved metals concentrations for the groundwater samples collected in June 2012 exceeded their respective numeric water quality threshold values.
-
-Groundwater samples collected in April 2015 were analyzed for Title 22 dissolved metals. None of the reported dissolved metals concentrations for these samples exceeded their respective numeric water quality threshold values. Barium and strontium were reported at concentrations similar to historical levels and remained significantly less than their numeric water quality thresholds. The remaining dissolved metals were also reported at concentrations similar to historical levels.
-
-Groundwater samples collected in June 2014 were analyzed for Title 22 dissolved metals. None of the reported dissolved metals concentrations for these samples exceeded their respective numeric water quality threshold values. Barium and strontium were reported at concentrations similar to historical levels and remained significantly less than their numeric water quality thresholds. The remaining dissolved metals were also reported at concentrations similar to historical levels.
-
-Surface water samples collected in March 2017 and January 2018 were analyzed for Title 22 Metals (Dissolved).
-
-A [[caltrans]] letter dated May 29, 2012, addressed to the [[department-of-toxic-substances-control]] (DTSC), discussed the disposition of excavated material from a ramp safety improvement project at SR 99 at Kansas Avenue. This excavation intersected Stockpile #3 of the soil stockpiles associated with the future State Route 132 Expressway project. The letter stated that the final analysis of this material indicated the presence of elevated metal concentrations above site-specific background levels, but below residential and commercial/industrial California Human Health Screening Levels. Based on this analysis, Caltrans proposed that the soil material was suitable for reuse as structural backfill or for offsite reuse/disposal as a non-hazardous soil.
-
-Thirty-three stockpile soil samples were analyzed for WET and DI-WET soluble barium. Soluble barium concentrations ranged from 39 to 2,300 milligrams per liter (mg/l), 28 of which exceeded the Title 22 California Code of Regulations (CCR) Soluble Threshold Limit Concentration (STLC) for barium of 100 mg/l. Soluble (DI-WET) barium concentrations ranged from 1.8 to 220 mg/l, nine of which exceeded the STLC. Shaw noted that the barium compounds present at the Site were primarily barite (barium sulfate), and as a result, the Title 22 evaluation criteria are not strictly applicable to the Site.
-
-Only two stockpile soil samples contained total lead concentrations exceeding 50 mg/kg (hazardous waste threshold for requiring WET soluble testing) at concentrations of 150 and 1,500 mg/kg. WET soluble lead was detected in these two samples at 2.9 and 5.7 mg/l, respectively, and DI-WET soluble lead at 0.07 and 0.1 mg/l, respectively.
-
-### Regulatory status
-
-Title 22 MCLs represent applicable regulatory standards for assessing groundwater quality at the Caltrans Modesto Soil Stockpiles site. The June 2014 Groundwater Monitoring Report utilized these MCLs as the primary compliance benchmark for evaluating the groundwater monitoring results. MCLs are defined as Maximum Contaminant Levels per California Environmental Protection Agency, May 2009.
+Title 22 MCLs are the applicable water quality thresholds for groundwater at the site. Exceedances of these MCLs trigger specific regulatory considerations and may inform remedial actions.
 
 ### See also
 
-* [[barium]]
-* [[caltrans]]
-* [[chromium]]
-* [[department-of-toxic-substances-control]]
-* [[geocon-consultants]]
-* [[lead]]
-* [[strontium]]
-* [[dissolved-metals]]
+*   [[barium]]
+*   [[geocon-consultants-inc]]
+*   [[lead]]
+*   [[strontium]]
+*   [[caltrans]]
+*   [[chromium]]
+*   [[manganese]]
+*   [[california-primary-mcl]]

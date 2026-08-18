@@ -1,63 +1,48 @@
 ---
 concept: clean-fill-suitable-as-cover
 entity_type: claim
-aliases: []
-sources: ["wiki/sources/Borrow Area Sampling Plan/Borrow Area Sampling Plan.md", "wiki/sources/3.15.2018 - Caltrans Modesto SOF/3.15.2018 - Caltrans Modesto SOF.md", "wiki/sources/Carpenter Shoofly Area Clean Fill Sampling Plan/Carpenter Shoofly Area Clean Fill Sampling Plan.md", "wiki/sources/S9650-06-03 MODESTO RAMP WORKPLAN.0412/S9650-06-03 MODESTO RAMP WORKPLAN.0412.md", "wiki/sources/Stockpile 1 MSE Wall Sampling Tech Memo/Stockpile 1 MSE Wall Sampling Tech Memo.md"]
+aliases: ["clean cap criteria", "clean fill suitable as cover", "soil from the proposed Basin 5 borrow area is suitable for use as clean cover fill material"]
+sources: ["wiki/sources/3.15.2018 - Caltrans Modesto SOF.md", "wiki/sources/Basin 5 Clean Fill Sampling Plan/Basin 5 Clean Fill Sampling Plan.md", "wiki/sources/Bent 2 Stockpiles Tech Memo/Bent 2 Stockpiles Tech Memo.md", "wiki/sources/Carpenter Road Shoofly Clean Fill Tech Memo/Carpenter Road Shoofly Clean Fill Tech Memo.md", "wiki/sources/DTSC E-mail Approval of Carpenter Shoofly Tech Memo.md", "wiki/sources/S1908-01-01 RDIP Variance #2/S1908-01-01 RDIP Variance #2.md", "wiki/sources/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.md", "wiki/sources/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan.Revised_10.14/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan.Revised_10.14.md", "wiki/sources/SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020/SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020.md", "wiki/sources/SR 132 Clean Borrow Area Technical Memo/SR 132 Clean Borrow Area Technical Memo.md"]
 confidence: high
-created_at: 2026-08-11T00:56:58Z
+created_at: 2026-08-18T17:34:22Z
 ---
 
- refers to soil material proposed for use as capping material over the BCS stockpile along the State Route 132 corridor in Stanislaus County, California. The material is planned to be sourced from the upper five feet of native soil along the Highway 132 alignment, extending eastward from the Carpenter Road area. The source parcel has been in State right-of-way since the 1960s, with prior agricultural use.
+## Clean Fill Suitable As Cover
 
-The concept was formalized in correspondence between [[caltrans]] and the [[department-of-toxic-substances-control]] (DTSC) in February 2020, when [[geocon-consultants]] submitted a sampling plan to characterize the proposed borrow area and demonstrate the material's suitability for use as clean fill cover.
+Clean fill suitable as cover refers to soil material that meets specific chemical criteria, allowing its use as a cap or cover over contaminated materials, particularly barium-containing soil (BCS) stockpiles at the [[caltrans]] Modesto Soil Stockpiles site. This designation is critical for the remediation strategy outlined in the [[remedial-design-implementation-plan]] (RDIP) and its subsequent variances. The primary concern for clean fill suitability at this site relates to concentrations of [[barium]] and [[lead]].
 
-## Site record
-On February 4, 2020, Caltrans Engineering Geologist Richard C. Stewart forwarded Geocon's proposed clean fill source sampling plan to DTSC's Dean Wright and Perry Myers, and to Steven Meeks of the [[central-valley-rwqcb]] (Waterboards). The transmittal included an exhibit showing proposed boring locations and test boring logs from geotechnical work performed at the Carpenter Road overcrossing in 2017.
+## Site Record
 
-According to Geocon's John Juhrend, PE, CEG, the contractor planned to excavate the upper five feet of soil along the Highway 132 alignment from Carpenter Road extending eastward. This material was intended as clean fill cover for the BCS stockpile.
+The suitability of soil for use as clean fill has been evaluated for various sources within the project area.
 
-Geocon reviewed the Blackburn 2014 ISA (Initial Site Assessment) and the Rincon 2018 Phase II ESA (Environmental Site Assessment) for information on potential contaminant sources in the vicinity. They reported that no high-risk documented contamination releases were found in the immediate vicinity of the proposed clean fill source area. Testing of residential backyards by Rincon adjacent to and west of Carpenter Road indicated pesticides and metals at concentrations less than applicable regulatory screening levels. However, these backyard results were from a separate location and not the proposed borrow area itself.
+*   **Carpenter Road Shoofly:** Approximately 5,000 cubic yards of native soil excavated from the Carpenter Road Shoofly were characterized for use as clean capping material. Samples were collected along six vertical transects at 2, 5, 10, and 15 feet from the top of the slope. Eight 3-part composite samples were analyzed for barium and lead. Barium concentrations ranged from 28 to 96 milligrams per kilogram (mg/kg), all below the maximum site-specific background value for barium of 120 mg/kg. Lead was detected in 9 of 10 samples at concentrations ranging from 1.4 to 3.8 mg/kg, with all values less than or equal to the maximum site-specific background concentration for lead of 3.8 mg/kg. Based on these results, the soil from the Carpenter Road Shoofly meets the clean cap criteria for BCS stockpiles, as approved by the DTSC in the *Variance to Remedial Design Implementation Plan* dated April 9, 2020. This material was intended for placement over portions of BCS Stockpiles 1 and 2.
 
-The sampling plan proposed 12 five-foot-deep borings in the clean import fill source area, with six depth-discrete four-point composite samples to be analyzed for:
-*   0–2 feet depth: organochlorine pesticides (OCPs) and heavy metals (3 composite samples)
-*   3–5 feet depth: heavy metals only (3 composite samples)
+*   **Bent 2 Excavation:** Approximately 4,000 cubic yards of native soil were excavated from Bent 2. Ten discrete soil samples (STK1 through STK10) were collected and analyzed for barium and lead. Barium was detected in all samples at concentrations from 31 to 230 mg/kg. Four samples exceeded the maximum site-specific background value for barium of 120 mg/kg. Lead was detected in 6 of 10 samples at concentrations from 2.6 to 13 mg/kg, with some exceeding the maximum site-specific background concentration for lead of 3.8 mg/kg. Consequently, the Bent 2 soil stockpiles did not meet the clean cap criteria established in the referenced variance document due to barium concentrations. However, pending DTSC review, a portion of this material might be suitable for use as partial clean cap (6 inches or less) on the upper surface of [[stockpile-2]], provided that additional clean cap, such as structural pavement, would be placed over it. Fill material from previously approved clean fill sources was required for the northerly slope of Stockpile 2.
 
-Geocon tentatively scheduled drilling for February 11, 2020, with a 48-hour analytical turnaround available if needed. The test boring logs from 2017 at the Carpenter Road overcrossing were included to document that material at that location is composed of native soil.
+*   **Basin 5:** A sampling plan was developed for approximately 20,000 cubic yards of soil from a 10-foot cut depth in Basin 5. The plan specified testing for pesticides and metals (using EPA Methods 8081A/6010B/7471A) in the 0-2 foot interval, and metals (6010B/7471A) in the 2-5 foot and 5-10 foot intervals. The objective was to identify suitable clean fill for use on the project.
 
-No analytical results from the 2020 sampling are documented in the available source material. The sampling plan remained subject to DTSC approval at the time of the February 4, 2020 correspondence, with Geocon noting they would proceed with field work pending contract authorization, USA utility notification, and DTSC sampling plan approval.
+*   **Aggregate Subbase:** As an alternative to soil cover, a minimum of 4 inches of Class 3 aggregate subbase material was approved as interim clean cover on the upper surface of Stockpiles 1 and 2, pending subsequent placement of structural pavement and hardscape. This material was deemed equivalent to aggregate base for purposes of cover material and met the intent of the RDIP.
 
-In a separate instance, DTSC and the Water Board reviewed a Technical Memorandum dated October 30, 2020, regarding the use of Bent 2 excavation soil as clean cap material. The soil sample results did not meet the clean cap criteria as established in the April 9, 2020 Variance Request approved by DTSC. However, both DTSC and the Water Board agreed that this soil could be placed on top of [[stockpile-1]] at a thickness of 6 inches or less, provided it was covered with clean base material and the asphalt/concrete used to construct the roadway. This email serves as DTSC's official acceptance of the Tech Memo and Revised SWPPP Amendment dated October 22, 2020.
+## Regulatory Status
 
-Regarding the [[mechanically-stabilized-earth-wall]] (MSE) wall footing excavation area for [[stockpile-1]], a Technical Memorandum dated April 6, 2020, described sampling and laboratory results. DTSC and the Water Board agreed with the memo's conclusion, with the exception of using the MSE wall footing soil as [[stockpile-1]] and [[stockpile-1]] capping material. Given that the 95% Upper Confidence Limit of the sampled soil was above the maximum background of 120 mg/kg and the fact that the MSE wall footing fell outside of the designated borrow area described in the Remedial Design Implementation Plan, this material was required to be placed within the Stockpiles 1 and 2 fill containment zones or used as general bridge embankment fill.
+The criteria for clean fill suitable as cover are established by the DTSC in conjunction with the project's [[remedial-design-implementation-plan]] and its variances. The primary threshold for suitability is adherence to site-specific background levels for contaminants of concern, particularly barium and lead.
 
-For Stockpile 2 MSE wall footing excavation, a Technical Memorandum dated June 18, 2020, described sampling and laboratory results. DTSC and the Water Board agreed that soil down to 3 feet below ground surface (bgs) must be placed in designated containment zones, but soil below that depth was suitable as embankment fill or capping material. The material below 3 feet bgs along the Stockpile 2 MSE wall footing was considered part of the April 9, 2020 Variance Request (VR) to the Remedial Design Implementation Plan, thus another VR was not necessary before utilizing this soil. The revision noted that the 120 mg/kg value was for [[barium-containing-soil]] not lead.
+*   **Barium:** The maximum site-specific background value for barium is 120 mg/kg. Soil exceeding this threshold is generally not considered suitable as clean fill for direct capping of BCS.
+*   **Lead:** The maximum site-specific background concentration for lead is 3.8 mg/kg. Soil exceeding this threshold may also be unsuitable for clean fill applications.
 
-## Regulatory status
-The proposed use of native soil from the Highway 132 alignment as clean fill cover required DTSC approval of the sampling plan. As of February 4, 2020, Caltrans was requesting "quick review and acceptance" from DTSC. The Waterboards were also copied on the submittal.
+The *Variance to Remedial Design Implementation Plan*, approved by DTSC, established these thresholds for clean cap materials. The Carpenter Road Shoofly soil met these criteria, while the Bent 2 stockpiles did not meet the barium threshold.
 
-No screening levels, action levels, or acceptance criteria specific to the clean fill cover material were stated in the available source documents for the initial proposed borrow area. The reference point for acceptability appeared to be the negative findings from the Blackburn 2014 ISA and Rincon 2018 Phase II ESA reviews—specifically, the absence of high-risk documented contamination releases in the immediate vicinity and pesticide/metals concentrations below regulatory screening levels in adjacent residential backyards.
+## Open Items
 
-For Bent 2 excavation soil, the material did not meet the clean cap criteria as established in the April 9, 2020 Variance Request approved by DTSC. However, DTSC and the Water Board agreed to its use as a cap on Stockpile 2 at a thickness of 6 inches or less, provided it was covered with clean base material and roadway construction.
+*   The suitability of the Bent 2 soil stockpiles for partial clean cap on Stockpile 2 was pending DTSC review and approval as of the October 30, 2020, Technical Memorandum.
 
-For Stockpile 1 MSE wall footing soil, the 95% Upper Confidence Limit was above the maximum background of 120 mg/kg, precluding its use as capping material outside the designated borrow area. It was to be placed within the Stockpiles 1 and 2 fill containment zones or used as general bridge embankment fill.
+## See Also
 
-For Stockpile 2 MSE wall footing soil, material down to 3 feet bgs was required to be placed in designated containment zones. Soil below 3 feet bgs was suitable as embankment fill or capping material.
-
-## Open items
-- DTSC approval of the clean fill source sampling plan for the Highway 132 alignment borrow area was pending as of February 4, 2020; no approval or conditional acceptance is documented in the available sources.
-- Analytical results from the proposed 12 borings and 6 composite samples for the Highway 132 alignment borrow area have not been documented.
-- Contract authorization for field work for the Highway 132 alignment borrow area sampling was pending.
-- Geocon's John Juhrend noted he would be out of office February 5–15, 2020, which may have affected timing of field execution for the Highway 132 alignment borrow area sampling.
-
-## See also
-- [[caltrans]]
-- [[clean-fill]]
-- [[geocon-consultants]]
-- [[central-valley-rwqcb]]
-- [[department-of-toxic-substances-control]]
-- [[mechanically-stabilized-earth-wall]]
-- [[sr-132]]
-- [[stockpile-1]]
-- [[barium]]
-- [[barium-containing-soil]]
-- stockpile-2
+*   [[clean-soil-cover]]
+*   [[barium]]
+*   [[geocon-consultants-inc]]
+*   [[caltrans]]
+*   [[dtsc]]
+*   [[stockpile-2]]
+*   [[lead]]
+*   [[site-specific-background-levels]]

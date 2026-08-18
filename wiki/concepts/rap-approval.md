@@ -1,41 +1,37 @@
 ---
 concept: rap-approval
-entity_type: concept
-aliases: ["RAP approval"]
-sources: ["State Route 132 RAP Approval PN (FINAL 2-21-18)/State Route 132 RAP Approval PN (FINAL 2-21-18).md", "wiki/sources/S1908-01-01 Caltrans Modesto Stockpile Interim RACR_12.22 (1)/S1908-01-01 Caltrans Modesto Stockpile Interim RACR_12.22 (1).md"]
+entity_type: regulatory_decision
+aliases: ["Approval letter for SR 132 RAP", "Approval of the Remedial Action Plan", "Remedial Action Plan approval"]
+sources: ["wiki/sources/1- SR_132_FEIR_EA_ 20180302 FINAL Main Doc.md", "wiki/sources/2. SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size A-G.md", "wiki/sources/3- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size H-K.md", "wiki/sources/3.14.2018 - Approval letter for SR 132 RAP.md", "wiki/sources/Response to Comments letter for SR 132 RAP with Appendix J/Response to Comments letter for SR 132 RAP with Appendix J.md", "wiki/sources/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18.md", "wiki/sources/State Route 132 RAP Approval PN (FINAL 2-21-18)/State Route 132 RAP Approval PN (FINAL 2-21-18).md", "wiki/sources/Stockpile 3 Confirmation Sampling Tech Memo Approval/Stockpile 3 Confirmation Sampling Tech Memo Approval.md"]
 confidence: high
-created_at: 2026-08-17T23:50:40Z
+created_at: 2026-08-18T17:33:49Z
 ---
 
-## Overview
+## Rap Approval
 
-Rap Approval is the formal authorization required for the reuse of treated soil as backfill material at the Caltrans Modesto Soil Stockpiles site. This approval is granted by the [[central-valley-rwqcb]] (CVRWQCB) and is contingent upon the soil meeting specific cleanup goals outlined in a [[remedial-action-plan]] (RAP). The [[department-of-toxic-substances-control]] (DTSC) provides oversight, particularly for lead-impacted soils.
+The Department of Toxic Substances Control (DTSC) approved the Remedial Action Plan (RAP) for the [[caltrans]] Modesto Soil Stockpiles associated with the State Route (SR) 132 West Freeway/Expressway Project. This approval signifies DTSC's determination that the selected remedy, containment of the stockpiles, will protect human health and the environment.
 
-## Site record
+### Site Record
 
-The Caltrans Modesto Soil Stockpiles project involves soils generated during the State Route 132 widening project in Stanislaus County. These soils were segregated into Stockpile A and Stockpile B during Phase 1 construction (2019–2020). A workplan for stockpile management was submitted to DTSC on March 12, 2020.
+The RAP addresses three soil stockpiles totaling approximately 160,000 cubic yards, located south of Kansans Avenue within the state right-of-way. These stockpiles contain metals, primarily [[barium]], strontium, and [[lead]]. The approved cleanup alternative involves containing the stockpiles behind retaining walls, bridge abutments, and beneath the roadway. Unpaved areas will be covered with clean fill. Long-term protection will be ensured through land use controls, annual inspections of containment features, and groundwater monitoring.
 
-The Remediation Action Plan (RAP), prepared by Caltrans and dated April 2020, establishes the criteria for the reuse of remediated soil. For Stockpile A, the treatment target is total petroleum hydrocarbons as diesel (TPH-d), with a cleanup goal of 100 mg/kg, to be verified using EPA Method 8015M. For Stockpile B, the target contaminants are TPH as motor oil (TPH-mo) and lead, with respective cleanup goals of 100 mg/kg and 80 mg/kg. Verification for TPH-mo uses EPA Method 8015M, and for lead uses EPA Method 6010B. The RAP specifies a minimum of one confirmation sample per 200 cubic yards of treated soil.
+On March 18, 2020, DTSC approved a Technical Memorandum from [[geocon-consultants-inc]] regarding the removal of Barium Containing Soil (BCS) Stockpile 3. This memo confirmed that Stockpile 3 BCS had been removed and the remaining soil met the cleanup levels established in the Remedial Design Implementation Plan (RDIP). DTSC's acceptance of this memo indicated that no further BCS RDIP monitoring was required for this area, and it was deemed suitable for clean embankment fill.
 
-Localized areas within Stockpile B exhibited lead concentrations exceeding the 80 mg/kg cleanup goal. These soils were segregated for off-site disposal and are not eligible for reuse under Rap Approval.
+### Regulatory Status
 
-## Regulatory status
+DTSC, as a responsible reviewing agency under the California Environmental Quality Act (CEQA), reviewed and approved the RAP. Caltrans, as the lead agency under CEQA and the National Environmental Policy Act (NEPA), prepared the associated Environmental Impact Report/Environmental Assessment (EIR/EA). DTSC independently analyzed the project and determined that the containment remedy, with the implementation of project controls (mitigation measures), would not have a significant adverse effect on the environment. DTSC found that the Final EIR/EA contained all necessary mitigation measures to maintain a less than significant impact. DTSC subsequently prepared a Statement of Findings and a Notice of Determination (NOD) in compliance with CEQA.
 
-Rap Approval is issued by the CVRWQCB, with DTSC providing oversight for lead-impacted soils. The RAP, dated April 2020, details the cleanup goals and confirmation sampling protocols. As of the available documentation, formal Rap Approval had not yet been issued, as confirmation sampling was ongoing. Treated soils require written Rap Approval demonstrating compliance with all cleanup goals before being placed as backfill.
+### Open Items
 
-A variance request for lead in Stockpile B soils exceeding 80 mg/kg but below 320 mg/kg was discussed with DTSC. Approval of reuse under such a variance would necessitate specific conditions to be met.
+The approval of the Stockpile 3 BCS Removal Verification Testing Technical Memorandum on March 18, 2020, was followed by a request from Caltrans to begin placement of clean soil cover and/or aggregate base material on the BCS consolidation zones of Stockpiles 1 and 2. This request was contingent on DTSC's approval of the Stockpile 2 BCS Removal, which was also requested.
 
-## Open items
+### See Also
 
-Formal Rap Approval for treated soils from Stockpile A and Stockpile B was pending as of the reporting period, contingent on the completion and review of confirmation sampling data.
-
-## See also
-
-* [[barium]]
-* [[lead]]
-* [[department-of-toxic-substances-control]]
-* [[draft-final-remedial-action-plan]]
-* [[operations-and-maintenance-plan]]
-* [[rdip-acceptance]]
-* [[strontium]]
-* [[aerially-deposited-lead]]
+*   [[caltrans]]
+*   [[dtsc]]
+*   [[barium]]
+*   [[geocon-consultants-inc]]
+*   [[lead]]
+*   [[site-specific-background-levels]]
+*   [[california-chhsl]]
+*   [[california-primary-mcl]]

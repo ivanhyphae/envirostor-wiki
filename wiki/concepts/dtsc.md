@@ -1,75 +1,39 @@
 ---
 concept: dtsc
-entity_type: concept
-aliases: ["", "Department of Toxic Substances Control"]
-sources: ["wiki/sources/11 29 2012 Caltrans GND Water Monitoring Rpts/11 29 2012 Caltrans GND Water Monitoring Rpts.md", "wiki/sources/Borrow Area Sampling Plan Approval E-Mail/Borrow Area Sampling Plan Approval E-Mail.md", "wiki/sources/Caltrans Ramp Clarification Letter dated 8.24.12 /Caltrans Ramp Clarification Letter dated 8.24.12 .md"]
+entity_type: responsible_party
+aliases: ["California Department of Toxic Substances Control", "DTSC Brownfields Program", "DTSC Sacramento", "DTSC Site Evaluation and Remediation Unit", "DTSC Site Mitigation and Restoration Program", "Department of Toxic Substances Control"]
+sources: ["wiki/sources/03-01-2012 SR 132 west Expressway Followup5_srb-RA.md", "wiki/sources/04 04 2013 Final  SSI and HHRA 8.md", "wiki/sources/08-30-2012 Caltrans Ramp5_srb RAdocx_srb 8_15_12_JS081612 RA4.md", "wiki/sources/09-20-2012 Final Caltrans Supplemental Site Characterization Workplan 2.md", "wiki/sources/1- SR_132_FEIR_EA_ 20180302 FINAL Main Doc.md", "wiki/sources/11 29 2012 Caltrans GND Water Monitoring Rpts.md", "wiki/sources/132Stockpile Fact SheetModestoDTSC117 (2-2-17)/132Stockpile Fact SheetModestoDTSC117 (2-2-17).md", "wiki/sources/2. SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size A-G.md", "wiki/sources/2025 - RE_ Reminder - Annual Inspection Report.md", "wiki/sources/3. SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size H-K.md", "wiki/sources/3.14.2018 - Approval letter for SR 132 RAP.md", "wiki/sources/3.15.2018 - Caltrans Modesto SOF.md", "wiki/sources/43A0310-04 A01 Executed.md", "wiki/sources/43A0310-04 A02 Executed Task Order-Caltrnas Modesto Soil Stockpiles.md", "wiki/sources/43A0404-04 Executed.md", "wiki/sources/43A0487 _04 Modesto Stockpiles - signed.md", "wiki/sources/5.18.2015 - Final Caltrans Cover Letter Revised Administrative Record Caltrans Modesto SoilStockpiles.md", "wiki/sources/7083_S9525-06-44 Modesto Soil Stockpiles Fenceline Workplan-0912.md", "wiki/sources/7084_S9525-06-44 Response to DTSC Workplan Comments-0912.md", "wiki/sources/Acceptance E-mail_Stockpiles 1 and 2 MSE Wall Sampling Plan.md", "wiki/sources/Acceptance Letter Draft Interim RACR (900259)/Acceptance Letter Draft Interim RACR (900259).md", "wiki/sources/Acceptance Letter_Final Removal Action Completion Report_Modesto Soil Stockpiles (900259)/Acceptance Letter_Final Removal Action Completion Report_Modesto Soil Stockpiles (900259).md", "wiki/sources/Annual Cost Estimate Letter - FY 25-26 - State Route 132 (900259)/Annual Cost Estimate Letter - FY 25.26 - State Route 132 (900259).md", "wiki/sources/Approval E-mail_ SR 132 Basin 5 Clean Fill Sampling Plan/Approval E-mail_ SR 132 Basin 5 Clean Fill Sampling Plan.md", "wiki/sources/Approval E-mail_Revised Basin 5 Clean Fill Tech Memo/Approval E-mail_Revised Basin 5 Clean Fill Tech Memo.md", "wiki/sources/Approval Letter Stockpile 2 Spoils Workplan (900259)/Approval Letter Stockpile 2 Spoils Workplan (900259).md", "wiki/sources/Approval of GW Statistical Evaluation (900259)/Approval of GW Statistical Evaluation (900259).md", "wiki/sources/Borrow Area Results Tech Memo Approval/Borrow Area Results Tech Memo Approval.md", "wiki/sources/Borrow Area Sampling Plan Approval E-Mail/Borrow Area Sampling Plan Approval E-Mail.md", "wiki/sources/Caltrans  Response3-24-2012.md", "wiki/sources/Caltrans -DTSC Agreement.md", "wiki/sources/Caltrans Modesto Soil Stcokpiles RDIP Variance/Caltrans Modesto Soil Stcokpiles RDIP Variance.md", "wiki/sources/Caltrans Ramp Clarification Letter dated 8-24-12 .md", "wiki/sources/Caltrans Ramp Letter dated 5-29-12.md", "wiki/sources/Caltrans SR 132-99 Task Order 4.md", "wiki/sources/Carpenter Road Shoofly Clean Fill Tech Memo/Carpenter Road Shoofly Clean Fill Tech Memo.md", "wiki/sources/Carpenter Shoofly Area Clean Fill Sampling Plan/Carpenter Shoofly Area Clean Fill Sampling Plan.md", "wiki/sources/DTSC Approval E-mail for Carpenter Shoofly Clean Fill Sampling Plan.md", "wiki/sources/DTSC Approval Response for final version of Well Destruction Report.md", "wiki/sources/DTSC E-mail Approval of Carpenter Shoofly Tech Memo.md", "wiki/sources/DTSC Letter Response - 2025 GW Monitoring Report (900259).md", "wiki/sources/DTSC PM Change Notice - State Route 132 - Modesto Soil Stockpiles, Modesto.md", "wiki/sources/Draft Final RAP Updated Implementation Sch/Draft Final RAP Updated Implementation Sch.md", "wiki/sources/Draft Interim RACR_Text_Figures_Tables_ App A-C/Draft Interim RACR_Text_Figures_Tables_ App A-C.md", "wiki/sources/E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan/E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan.md", "wiki/sources/E-mail Acceptance of Bent 2 Soils Tech Memo/E-mail Acceptance of Bent 2 Soils Tech Memo.md", "wiki/sources/E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo/E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo.md", "wiki/sources/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo.md", "wiki/sources/Errata Transmittal 2-6-2020.md", "wiki/sources/FW_ SR 132 Basin 5 Clean Fill Sampling Plan /FW_ SR 132 Basin 5 Clean Fill Sampling Plan .md", "wiki/sources/Final FS Letter.md", "wiki/sources/Final O and M Agreement with Cover Letter (900259)/Final O and M Agreement with Cover Letter (900259).md", "wiki/sources/Final RDIP Approval Letter (900259)/Final RDIP Approval Letter (900259).md", "wiki/sources/Final SMP Approval E-mail/Final SMP Approval E-mail.md", "wiki/sources/Fiscal Year Cost Estimate 22_23_Modesto Soil Stockpiles (900259)/Fiscal Year Cost Estimate 22_23_Modesto Soil Stockpiles (900259).md", "wiki/sources/Fiscal Year Cost Estimate 23_24_Modesto Soil Stockpiles (900259)/Fiscal Year Cost Estimate 23_24_Modesto Soil Stockpiles (900259).md", "wiki/sources/Fiscal Year Cost Estimate 24_25_Modesto Soil Stockpiles (900259)/Fiscal Year Cost Estimate 24_25_Modesto Soil Stockpiles (900259).md", "wiki/sources/GND Water Monitoring Rpt March 2102/GND Water Monitoring Rpt March 2102.md", "wiki/sources/Hearing SummaryReport_SR132 6-21-17 rdcd sz/HearingSummaryReport_SR132 6.21.17 rdcd sz.md", "wiki/sources/Modesto Soil Stockpiles_ Final Recorded LUC/Modesto Soil Stockpiles_ Final Recorded LUC.md", "wiki/sources/OM Plan Comments (900259)/OM Plan Comments (900259).md", "wiki/sources/RDIP Errata Acceptance/RDIP Errata Acceptance.md", "wiki/sources/RDIP Variance Reqeust #2 Acceptance E-Mail/RDIP Variance Reqeust #2 Acceptance E-Mail.md", "wiki/sources/RDIP Variance Request Acceptance E-Mail/RDIP Variance Request Acceptance E-Mail.md", "wiki/sources/RE_ Modesto Stockpile Annual Inspection 2026_DTSC Approval/RE_ Modesto Stockpile Annual Inspection 2026_DTSC Approval.md", "wiki/sources/Response to Comments letter for SR 132 RAP with Appendix J/Response to Comments letter for SR 132 RAP with Appendix J.md", "wiki/sources/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19.md", "wiki/sources/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18.md", "wiki/sources/S2350-01-02 Stormwater SAP_12.23/S2350-01-02 Stormwater SAP_12.23.md", "wiki/sources/S2350-01-02 Updated Statistical Evaluation Report_2-24/S2350-01-02 Updated Statistical Evaluation Report_2.24.md", "wiki/sources/S2350-01-02 Well Destruction Report_6-25/S2350-01-02 Well Destruction Report_6.25.md", "wiki/sources/S2350-01-02_2.1.2024 Stormwater Sampling Report_5.24/S2350-01-02_2.1.2024 Stormwater Sampling Report_5.24.md", "wiki/sources/S2350-01-02_2.4.2025 Stormwater Sampling Report_6.25/S2350-01-02_2.4.2025 Stormwater Sampling Report_6.25.md", "wiki/sources/S9525-06-44 HHRA UPDATE Rev.0313/S9525-06-44 HHRA UPDATE Rev.0313.md", "wiki/sources/S9525-06-44 Modesto Stockpiles GW.0612/S9525-06-44 Modesto Stockpiles GW.0612.md", "wiki/sources/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313.md", "wiki/sources/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.md", "wiki/sources/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan.Revised_10.14/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan.Revised_10.14.md", "wiki/sources/S9800-01-17A Modesto Stockpiles Jan 6 2016 Stormwater Smplng 0216.md", "wiki/sources/SR 132 Public Notice English_.md", "wiki/sources/SR 132 West Signed NOA Public.md", "wiki/sources/SR_132_DEIR_EA_Append_G-J.md", "wiki/sources/State Route 132 RAP Approval PN (FINAL 2-21-18)/State Route 132 RAP Approval PN (FINAL 2-21-18).md", "wiki/sources/Stockpile 2 Confirmation Sampling Tech Memo Approval/Stockpile 2 Confirmation Sampling Tech Memo Approval.md", "wiki/sources/Stockpile 3 Confirmation Sampling Tech Memo Approval/Stockpile 3 Confirmation Sampling Tech Memo Approval.md", "wiki/sources/WB Acceptance E-mail/WB Acceptance E-mail.md", "wiki/sources/opr25@opr.ca.gov_20180319_135531/opr25@opr.ca.gov_20180319_135531.md"]
 confidence: high
-created_at: 2026-08-10T22:38:18Z
+created_at: 2026-08-18T17:33:55Z
 ---
 
-# DTSC
+## Department of Toxic Substances Control (DTSC)
 
-## Overview
+The Department of Toxic Substances Control (DTSC) is a responsible and reviewing agency for the Caltrans Modesto Soil Stockpiles site, providing oversight for the Remedial Action Plan (RAP) and the associated Environmental Impact Report/Environmental Assessment (EIR/EA) for the SR-132 West Expressway Project. DTSC reviewed and commented on various project documents, including the Draft RAP and Supplemental Site Investigation reports.
 
-The Department of Toxic Substances Control (DTSC) is the lead state regulatory agency providing oversight for assessment and cleanup activities at the Caltrans Modesto Soil Stockpiles site, located along State Route (SR) 99 and SR 132 in Stanislaus County, California. DTSC acts in consultation with the central-valley-rwqcb|Regional Water Quality Control Board, Central Valley Region. The agency's involvement in the project is documented through review and concurrence on groundwater-monitoring-report|groundwater monitoring reports (2012), concurrence that an interim-remedial-action-workplan-unnecessary|Interim Remedial Action Workplan was unnecessary for the Kansas Avenue off-ramp project (2012), and approval of a borrow-area-sampling-plan|borrow area sampling plan for backfill material (2020).
+### Site Record
 
-Key DTSC personnel appearing in the project record include Randy S. Adams, C.E.G., Senior Engineering Geologist in the Brownfields and Environmental Restoration Program; dean-wright|Dean Wright; and Perry Myers. DTSC's Sacramento office at 8800 Cal Center Drive is the address of record for correspondence.
+DTSC reviewed the results of site characterization and human health risk assessments (HHRAs) for the soil stockpiles. In a letter dated December 17, 2009, DTSC concluded that the soil stockpiles, as managed by Caltrans, do not pose a risk to human health for Caltrans workers, trespassers, or adjacent residents. This conclusion was contingent on Caltrans continuing current management practices, including maintaining perimeter fencing and signage, limiting access to authorized personnel, prohibiting soil disturbance, maintaining vegetative cover, and continuing groundwater monitoring. DTSC also concurred with the findings of the HHRA Update in a letter dated April 4, 2013.
 
-## Site record
+DTSC reviewed and approved the Feasibility Study (FS) for the stockpiles. The FS evaluated four remedial alternatives: no action, institutional controls, removal, and containment. DTSC concurred with the selection of Alternative 4 – Containment as the recommended alternative in the Draft Final RAP. This alternative involves encapsulating the stockpiles within the SR-132/SR-99 interchange project by using them as embankment fill, covering them with pavement, retaining walls, bridge abutments, and clean soil caps.
 
-### Groundwater monitoring oversight (2012)
+DTSC also reviewed and commented on various work plans and reports related to site characterization, groundwater monitoring, and stormwater sampling. For instance, DTSC reviewed the *Supplemental Site Investigation Workplan* (September 18, 2012) and the *Supplemental Site Investigation* report (March 1, 2013).
 
-On November 29, 2012, DTSC issued a letter to Richard Stewart, P.G. of caltrans|Caltrans documenting the agency's review of three groundwater monitoring reports prepared by Geocon Consultants for the Modesto Soil Stockpiles site:
+### Regulatory Status
 
-*   **"Groundwater Monitoring Report – May 2012, Modesto Soil Stockpiles, State Route (SR) 99 and 132, Stanislaus County, California"**
-*   **"Additional Well Installation and Groundwater Monitoring Report – June 2012, Modesto Soil Stockpiles, SR 99 and 132, Stanislaus County, California"**
-*   **"Groundwater Monitoring Report – July 2012, Modesto Soil Stockpiles, SR 99 and 132, Stanislaus County, California"**
+DTSC is the primary state agency overseeing the remediation of the Caltrans Modesto Soil Stockpiles. They have reviewed and approved key project documents, including the Feasibility Study and the Draft Final Remedial Action Plan. DTSC's concurrence with the HHRA update was conditional on continued proper management of the stockpiles. DTSC will also evaluate the containment remedy every five years to ensure its continued effectiveness.
 
-All three reports were dated November 2012 and presented analytical results from groundwater monitoring well sampling conducted in May, June, and July 2012, respectively.
+### Open Items
 
-DTSC's letter confirms the agency's understanding of the site history: the soil stockpiles consist of excess native soils and pond tailings generated when Caltrans constructed a segment of SR 99 north of Kansas Avenue in the early 1960s. The excavation traversed a portion of a 4.3-acre parcel purchased from Food Machinery and Chemical Corporation (FMC), where an evaporation pond was located in the southernmost corner. DTSC identified the primary chemicals of concern as barium, lead, and strontium.
+DTSC's approval of the Final RAP is contingent on the implementation of the recommended remedial action, which includes containment of the stockpiles. DTSC will also review and approve the Remedial Design Implementation Plan (RDIP) and Operation and Maintenance Plan (OMP) prepared by Caltrans prior to implementation.
 
-The June 2012 report also addressed the installation of two monitoring wells: **MW-9**, located south of Kansas Avenue and west of SR 99, and **MW-10**, located south of Kansas Avenue and east of SR 99.
+### See Also
 
-DTSC formally concurred with the three groundwater monitoring reports and requested that future groundwater monitoring reports be completed as groundwater data becomes available. This request establishes an ongoing reporting obligation for Caltrans.
-
-### Interim Removal Action Workplan determination (2012)
-
-DTSC was a recipient of Caltrans' August 24, 2012 clarification letter regarding the kansas-avenue-off-ramp|Kansas Avenue northbound off-ramp safety improvements. The letter, addressed to Steven Becker, P.G. (Chief, Site Evaluation and Remediation Unit) and Steven W. Meeks, P.E. of the central-valley-rwqcb|Regional Water Quality Control Board, was routed to Randy Adams, CEG within DTSC's Brownfields and Environmental Restoration Program.
-
-Caltrans' position, communicated to DTSC, was that additional investigation results demonstrated that completion and implementation of an interim-removal-action-workplan|Interim Removal Action Workplan was **not needed** for the ramp project. The letter detailed that approximately 2,800 cubic yards of the estimated 6,000 cubic yards total excavation would come from Stockpile No. 3, and that none of the soil samples in that area contained total metal concentrations at or above California hazardous waste Total Threshold Limit Concentration (TTLC) levels. The material was determined not to be classified as a hazardous waste based on Waste Extraction Test results falling below Soluble Threshold Limit Concentration (STLC) levels. The record does not contain a separate DTSC response letter to this submittal, but the letter reflects DTSC's role as a reviewing agency for remedial action determinations at the site.
-
-### Borrow area sampling plan review (2020)
-
-On February 13, 2020, dean-wright|Dean Wright of DTSC provided the agency's comment on a backfill sampling plan via email to Richard Stewart and jennifer-lugo|Jennifer Lugo of Caltrans. DTSC's sole request was to **composite 3 samples instead of 4**. Wright noted that Perry Myers, also of DTSC, had no additional comments on the plan. This communication was part of a broader coordination effort involving a February 13, 2020 conference call with Bay Cities (a contractor), where DTSC's participation was requested to discuss the status of agency notifications and the clean fill sampling plan.
-
-Wright also referenced attempting to locate an electronic copy of a burial location report that could serve as an example for Bay Cities, noting that he could not find it in DTSC's EnviroStor database or in electronic files left by Randy Adams.
-
-## Regulatory status
-
-DTSC functions as the lead oversight agency under the Brownfields and Environmental Restoration Program for the Modesto Soil Stockpiles site. The agency reviews and concurs with investigation documents, remedial action determinations, and sampling plans submitted by caltrans|Caltrans. DTSC operates in consultation with the central-valley-rwqcb|Regional Water Quality Control Board, Central Valley Region on this project.
-
-As of the most recent documented action in the provided sources, DTSC had:
-*   Concurred with 2012 groundwater monitoring reports.
-*   Received notification that hazardous waste thresholds were not exceeded in the Kansas Avenue off-ramp excavation area (2012).
-*   Approved the borrow area sampling plan with a modification to composite sampling protocol (2020).
-
-No enforcement actions, orders, or notices of violation are documented in the provided sources.
-
-## Open items
-
-*   Future groundwater monitoring reports are required to be submitted to DTSC as data becomes available, per the November 29, 2012 concurrence letter. The sources do not indicate whether this reporting obligation has been fully satisfied.
-*   The February 2020 email exchange indicates DTSC was expecting a burial location report or similar documentation; Dean Wright was unable to locate this in DTSC records at that time.
-
-## See also
-
-*   [[caltrans]]
-*   [[borrow-area-sampling-plan]]
-*   [[central-valley-rwqcb]]
-*   [[dean-wright]]
-*   groundwater-monitoring-report
-*   interim-remedial-action-workplan-unnecessary
-*   [[interim-removal-action-workplan]]
-*   [[jennifer-lugo]]
-*   [[kansas-avenue-off-ramp]]
-*   [[marcus-simpson]]
+* [[caltrans]]
+* [[geocon-consultants-inc]]
+* [[central-valley-rwqcb]]
+* [[barium]]
+* [[lead]]
+* [[site-specific-background-levels]]
+* [[clean-soil-cover]]
+* [[sr-132-west-expressway-project]]

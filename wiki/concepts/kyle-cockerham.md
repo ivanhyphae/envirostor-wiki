@@ -1,37 +1,35 @@
 ---
 concept: kyle-cockerham
-entity_type: concept
+entity_type: person
 aliases: ["Kyle Cockerham"]
-sources: ["DTSC E-mail Approval of Carpenter Shoofly Tech Memo/DTSC E-mail Approval of Carpenter Shoofly Tech Memo.md"]
+sources: ["wiki/sources/DTSC Approval E-mail for Carpenter Shoofly Clean Fill Sampling Plan.md", "wiki/sources/DTSC E-mail Approval of Carpenter Shoofly Tech Memo.md"]
 confidence: high
-created_at: 2026-08-17T23:49:41Z
+created_at: 2026-08-18T17:35:22Z
 ---
 
 ## Kyle Cockerham
 
-Kyle Cockerham is an individual associated with the [[central-valley-rwqcb]] (Central Valley Regional Water Quality Control Board) who participated in email correspondence regarding the [[caltrans-modesto-soil-stockpiles]] remediation case file for the SR 132 project in Stanislaus County, California.
+Kyle Cockerham is identified in project correspondence as a point of contact for the [[dtsc]].
 
-## Site record
+### Site record
 
-Kyle Cockerham was copied on an email dated Wednesday, April 7, 2021, from Dean Wright of the [[department-of-toxic-substances-control]] (DTSC) to Richard Stewart of [[caltrans]]. This email conveyed DTSC's approval of the revised Carpenter Shoofly Area Clean Fill Sampling Plan, which had been received on April 5, 2021. The plan detailed the proposed sampling and analysis for soil designated for use as clean fill at the site. The email stated that the plan was consistent with prior borrow area sampling efforts and that DTSC had no comments.
+In an email dated October 26, 2017, from Perry Myers to Richard Stewart, Kyle Cockerham is listed as a recipient of the email regarding the [[carpenter-road-shoofly-area]] sampling plan.
 
-Cockerham was also copied on a preceding email sent by Richard Stewart to Dean Wright on Monday, April 5, 2021, which was a reply concerning "Modesto 132/99 Clean Cap Test Locations."
+### Regulatory status
 
-Additionally, Kyle Cockerham provided comments on the Caltrans Modesto Soil Stockpiles Surface Water Report dated December 17, 2020. In an email sent on Thursday, March 25, 2021, to Richard Stewart of [[caltrans]], Cockerham stated, "I don't have any comment on the Modesto Soil Stockpile Surface Water Sampling report." This email was in response to a forwarded surface water report by Dean Wright of DTSC, who had requested that any Water Board comments be directed to Richard Stewart and CC'd to him.
+Not documented in the provided source material.
 
-## Regulatory status
+### Open items
 
-As an employee of the [[central-valley-rwqcb]], Kyle Cockerham's involvement signifies the Water Board's regulatory oversight and participation in the review and approval processes for both the soil sampling plan and the surface water report related to the Modesto soil stockpiles. His lack of comments on the surface water report indicates acceptance of that document by the Water Board.
+Not documented in the provided source material.
 
-## See also
+### See also
 
-* [[adan-corrales]]
-* [[bay-cities-paving-and-grading]]
-* [[caltrans]]
-* [[caltrans-modesto-soil-stockpiles]]
-* [[caltrans-modesto-soil-stockpiles-surface-water-report-december-17-2020]]
-* [[central-valley-rwqcb]]
-* [[dean-wright]]
-* [[department-of-toxic-substances-control]]
-* [[richard-stewart]]
-* [[wsp]]
+*   [[caltrans]]
+*   [[carpenter-road-shoofly-area]]
+*   [[central-valley-rwqcb]]
+*   [[clean-soil-cover]]
+*   [[dean-wright]]
+*   [[dtsc]]
+*   [[perry-myers]]
+*   [[richard-stewart]]

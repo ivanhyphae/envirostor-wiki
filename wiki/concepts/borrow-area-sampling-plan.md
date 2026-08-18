@@ -1,62 +1,37 @@
 ---
 concept: borrow-area-sampling-plan
 entity_type: deliverable
-aliases: ["Borrow Area Sampling Plan"]
-sources: ["Borrow Area Sampling Plan Approval E-Mail/Borrow Area Sampling Plan Approval E-Mail.md", "Borrow Area Sampling Plan/Borrow Area Sampling Plan.md"]
+aliases: []
+sources: ["wiki/sources/Borrow Area Sampling Plan Approval E-Mail/Borrow Area Sampling Plan Approval E-Mail.md", "wiki/sources/Borrow Area Sampling Plan/Borrow Area Sampling Plan.md"]
 confidence: high
-created_at: 2026-08-17T23:49:11Z
+created_at: 2026-08-18T17:34:52Z
 ---
 
-## Overview
-The [[borrow-area-sampling-plan]] is the [[department-of-toxic-substances-control]] (DTSC)-approved protocol for characterizing native soil intended for use as [[clean-fill-suitable-as-cover]] on [[barium-containing-soil]] stockpiles at the [[caltrans]] Modesto Highway 132 (SR 132) remediation site. The plan was developed by Geocon Consultants for [[caltrans]] and covers soil from a borrow area within the SR 132 right-of-way, east of [[carpenter-road-area]]. [[department-of-toxic-substances-control]] conditionally approved the plan on February 13, 2020.
+## Borrow Area Sampling Plan
 
-## Site record
+### Overview
 
-### Borrow area location and history
+The Borrow Area Sampling Plan outlines the strategy for characterizing soil intended for use as clean fill at the SR 132 project site in Stanislaus County, California. This plan was developed by Geocon Consultants Inc. and submitted to the DTSC for approval. The sampling is designed to confirm the suitability of the soil as clean fill, particularly for use as [[clean-soil-cover]].
 
-The borrow area is located within the Highway 132 right-of-way, east of Carpenter Road. Prior to [[caltrans]] acquisition in the 1960s, the land was used for agriculture. According to Geocon's February 4, 2020 submittal, previous investigations, the Blackburn 2014 ISA and the Rincon 2018 Phase II ESA, did not identify documented contamination releases in the immediate vicinity. Residential backyard testing by Rincon west of Carpenter Road detected pesticides and metals below regulatory screening levels. Geocon's 2017 test borings at Carpenter Road confirmed the material as native soil.
+### Site Record
 
-### Proposed scope of work
+The Borrow Area Sampling Plan, as prepared by Geocon Consultants Inc., proposed 12 borings, each 5 feet deep, within the proposed clean import fill source area. The plan specified the analysis of six depth-discrete, 4-point composite samples. Three composite samples from the 0-2 foot interval were to be analyzed for organochlorine pesticides (OCPs) and heavy metals. An additional three composite samples from the 3-5 foot interval were to be analyzed for heavy metals.
 
-As submitted by Geocon on February 4, 2020:
-*   **Number of borings:** 12 borings
-*   **Depth:** 5 feet each
-*   **Sampling method:** Depth-discrete 4-point composite samples
-*   **Analytes and depth intervals:**
-    *   0–2 feet: organochlorine pesticides (OCPs) and heavy metals (3 composite samples)
-    *   3–5 feet: heavy metals only (3 composite samples)
-*   **Total samples:** 6 composite samples
-*   **Planned start date:** Tentatively February 11, 2020, pending contract authorization, utility clearance, and [[department-of-toxic-substances-control]] approval.
-*   **Laboratory turnaround:** 48-hour analytical turnaround planned.
+On February 4, 2020, [[caltrans]] Engineering Geologist Richard C. Stewart provided this sampling plan, along with Geotech logs of test borings for the Carpenter overcrossing, to DTSC representatives Dean Wright and Perry Myers. Geocon tentatively scheduled drilling for February 11, 2020, with a planned 48-hour analytical turnaround.
 
-### DTSC approval and modifications
+On February 13, 2020, Dean Wright of the DTSC communicated approval of the sampling plan, with one modification: to composite 3 samples instead of 4.
 
-On February 13, 2020, [[department-of-toxic-substances-control]], through Dean Wright, communicated a single modification request: **composite 3 samples instead of 4.** No other plan elements were modified. The approval was sent via email from Dean Wright to [[richard-stewart]] (Caltrans) and Jennifer Lugo (Caltrans), with copies to Juergen Vespermann, Kai Pavel, and Perry Myers.
+### Regulatory Status
 
-## Regulatory status
+The sampling plan was submitted to the DTSC for approval to ensure the proposed borrow material met the criteria for clean fill. The DTSC provided conditional approval on February 13, 2020, requiring the modification of sample compositing.
 
-[[department-of-toxic-substances-control]] approved the sampling plan with the condition of reducing the composite scheme from 4-point to 3-point composites. The plan was developed to demonstrate that the borrow area soil meets standards for use as clean fill cover over the barium-containing soil stockpiles. The approval emails do not specify numeric thresholds, but reference screening levels evaluated in the 2014 ISA and 2018 Phase II ESA.
+### Open Items
 
-## Open items
+As of the email correspondence on February 13, 2020, the DTSC had requested a modification to the sampling plan regarding the number of composite samples. The implementation of this modified plan and the subsequent analytical results were pending.
 
-*   Field work required contract authorization, utility mark-out, and a 72-hour USA notice prior to commencement. The completion of these items and whether drilling proceeded on the tentative February 11, 2020 date are not documented in the approval correspondence.
-*   Analytical results were to be provided to [[department-of-toxic-substances-control]] following laboratory analysis; their availability is not addressed in the approval emails.
+### See Also
 
-## See also
-
-*   [[annual-inspection-report]]
-*   [[annual-o-and-m-inspection-report]]
-*   [[arsenic]]
-*   [[barium]]
-*   [[barium-containing-soil-aerially-deposited-lead]]
-*   [[bcs-removal-verification-testing]]
-*   [[bridge-abutments]]
-*   [[caltrans-division-environmental-analysis]]
-*   [[caltrans]]
-*   [[sampling-plan]]
-*   [[carpenter-road-area]]
-*   [[clean-fill-capping]]
-*   [[department-of-toxic-substances-control]]
-*   [[richard-stewart]]
-*   [[sr-132]]
-*   [[sr-132-corridor]]
+* [[caltrans]]
+* Clean-soil-cover
+* DTSC
+* Geocon Consultants Inc.

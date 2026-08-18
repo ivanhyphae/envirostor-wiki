@@ -1,58 +1,51 @@
 ---
 concept: operations-and-maintenance-plan
 entity_type: deliverable
-aliases: ["O&M Plan", "Operations and Maintenance (O&M) Plan"]
-sources: ["wiki/sources/S1908-01-01 Caltrans Modesto Stockpile Interim RACR_12.22 (1)/S1908-01-01 Caltrans Modesto Stockpile Interim RACR_12.22 (1).md"]
+aliases: ["O&M Plan"]
+sources: ["wiki/sources/1- SR_132_FEIR_EA_ 20180302 FINAL Main Doc.md", "wiki/sources/2. SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size A-G.md", "wiki/sources/3- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size H-K.md", "wiki/sources/S1908-01-01 Caltrans Modesto Stockpile Interim RACR_12.22 (1)/S1908-01-01 Caltrans Modesto Stockpile Interim RACR_12.22 (1).md"]
 confidence: high
-created_at: 2026-08-17T23:50:38Z
+created_at: 2026-08-18T17:34:15Z
 ---
 
-# Operations and Maintenance Plan
+## Operations and Maintenance Plan
 
-## Overview
+### Overview
 
-The Operations and Maintenance (O&M) Plan is a key deliverable for the [[modesto-soil-stockpiles-project]], outlining the long-term management of [[barium-containing-soil]] (BCS) within containment zones established during [[sr-132-west-expressway-phase-1]] construction. Prepared by [[geocon-consultants]] for [[caltrans]], the plan details procedures to maintain the integrity of these containment areas, which were created by consolidating BCS, capping it with clean fill, and incorporating it into highway embankment fill. The [[department-of-toxic-substances-control]] (DTSC), in conjunction with the Central Valley Regional Water Quality Control Board (CVRWQCB), oversees site mitigation under an interagency agreement.
+The Operations and Maintenance (O&M) Plan for the Caltrans Modesto Soil Stockpiles is a key component of the remediation strategy for barium-containing soil (BCS) within Stockpiles 1 and 2 Containment Zones. This plan outlines procedures for managing and monitoring these areas to ensure the continued effectiveness of the containment remedy, which involves utilizing the BCS as highway embankment fill capped with clean material and structural pavement. The O&M Plan is a deliverable required for the Final Phase 1 Removal Action Completion Report (RACR) and is intended to guide future maintenance and oversight activities.
 
-## Site record
+### Site Record
 
-The O&M Plan was submitted to DTSC on December 1, 2022, by John E. Juhrend, PE, CEG, Project Manager at Geocon Consultants, Inc. This submission addressed comments provided by DTSC on August 1, 2022, regarding a Draft O&M Plan dated March 2022.
+The Operations and Maintenance Plan (O&M Plan) is formally documented as Appendix H of the Caltrans Modesto Soil Stockpile Interim RACR, dated December 2022. This plan was prepared by [[geocon-consultants-inc]] on behalf of [[caltrans]] for the Caltrans Modesto Soil Stockpiles located along the SR 132 West Project in Modesto, Stanislaus County, California.
 
-The O&M Plan implements requirements from the 2019 [[remedial-design-implementation-plan]] (RDIP) and the 2018 Final Remedial Action Plan (RAP). The remedial strategy involved consolidating BCS, capping it with clean fill, and using it as highway embankment fill during Interim Phase 1 and planned Ultimate Phase 2 construction.
+The O&M Plan specifically addresses barium-containing soil (BCS) within Stockpiles 1 and 2 Containment Zones. These zones were consolidated, capped with clean fill material, and incorporated as highway embankment fill during Interim Phase 1 construction of the SR 132 West Project. The plan details procedures to be implemented should BCS material within these containment zones be disturbed.
 
-Key procedures detailed within the O&M Plan include:
+Key requirements within the O&M Plan include:
 
-*   **Soil Management:** Procedures are outlined for disturbing BCS material within Stockpile 1 and 2 Containment Zones.
-*   **Notification:** Caltrans is required to provide a minimum of ten working days' advance notification to DTSC before any planned activities that may disturb BCS material or associated clean cover fill. No BCS disturbance is permitted without prior written authorization from DTSC.
-*   **Precedence of Requirements:** In instances where O&M Plan requirements conflict with standard Caltrans maintenance procedures, the O&M Plan requirements take precedence.
-*   **Reporting Contacts:** Designated contacts for Caltrans and DTSC are specified for notification and documentation of O&M activities. For Caltrans, this is Richard Stewart, PG, Engineering Geologist, Caltrans Central Region Environmental Division (559.383.5568; richard.c.stewart@dot.ca.gov). For DTSC, this is Dean Wright, PG, Project Manager (916.255.3591; Dean.Wright@dtsc.ca.gov). An addendum to the O&M Plan will be prepared if contact information changes.
-*   **Inspections:** The O&M Plan mandates an annual inspection of the pavement and other features of the containment remedy. Inspections are also recommended following events such as fires, substantial rainfall (1 inch in 24 hours), significant seismic events, or traffic accidents that could potentially damage the cap. Periodic patrols should also identify any unauthorized access, such as homeless encampments, that could impact the cap.
-*   **Groundwater Monitoring:** The O&M Plan also includes requirements for groundwater monitoring.
+*   **Notification of BCS Disturbance:** Caltrans is responsible for providing a minimum of ten working days advance notification to the california-department-of-toxic-substances-control (DTSC) of any planned activities that may disturb BCS material or associated clean cover fill. No BCS disturbance is permitted without prior written authorization from DTSC.
+*   **Soil Management Procedures:** Procedures are outlined for managing BCS material within the Stockpile 1 and 2 Containment Zones (Restricted Areas) if disturbed. These procedures take precedence over standard Caltrans general highway maintenance procedures where conflicts arise.
+*   **Reporting:** The O&M Plan specifies reporting requirements for both disturbance activities and general O&M activities. It identifies the primary contacts for Caltrans and DTSC for notification and documentation:
+    *   Richard Stewart, PG, Engineering Geologist, Caltrans Central Region Environmental Division Hazardous Waste & Paleontology Branch.
+    *   Dean Wright, PG, Project Manager, California Department of Toxic Substances Control Site Mitigation and Restoration Program.
+    An addendum to the O&M Plan will be prepared if there is a change in these contact persons.
 
-The O&M Plan references two figures: Figure 1 (Project Location Map) and Figure 2 (Preconstruction Site Plan). Appendix H of the Remedial Action Completion Report (RACR) contains the Operations and Maintenance Plan.
+The O&M Plan was submitted as part of the Draft Phase 1 RACR, with DTSC indicating in a letter dated August 1, 2022, that comments on the Draft O&M Plan (dated March 2022) had been addressed in the final version.
 
-## Regulatory status
+### Regulatory Status
 
-DTSC serves as the lead regulatory agency overseeing site mitigation, in cooperation with the CVRWQCB, under a Caltrans Interagency Agreement. The O&M Plan is a required deliverable under the RAP approval framework. Its implementation will be governed by a future [[operation-and-maintenance-agreement]] between DTSC and Caltrans, along with a [[land-use-covenant]] for the containment areas.
+The O&M Plan is a requirement for the Final Phase 1 Removal Action Completion Report (RACR). Following the approval of the Final Phase 1 RACR, DTSC will enter into an O&M Agreement with Caltrans that will incorporate the O&M Plan and complete a land use covenant for the containment areas. The certification of the Remedial Action Plan (RAP) will not occur until after the Ultimate Phase 2 State Route 132 build-out effort is completed.
 
-Certification of the RAP will not occur until after the completion of Ultimate Phase 2 construction. Ultimate Phase 2, which involves highway widening, will necessitate a supplemental RDIP, field oversight, an Ultimate Phase 2 Remedial Action Completion Report (RACR), and potential revisions to the O&M Plan and O&M Agreement.
+### Open Items
 
-## Open items
+The O&M Plan will require a soil management plan, an annual inspection of the pavement and other features of the containment remedy, and groundwater monitoring. These components are to be incorporated into the Final Phase 1 RACR, anticipated for submittal in July or August of 2022. The Ultimate Phase 2 construction effort, anticipated in 8 to 10 years, will include revisions to the O&M Plan and O&M Agreement if necessary.
 
-*   **O&M Agreement and Land Use Covenant:** DTSC's March 14, 2018 RAP approval letter stipulated that these instruments would be executed following the approval of the Final Phase 1 RACR. The current sources do not confirm their completion.
-*   **Ultimate Phase 2 O&M Plan Revisions:** DTSC has indicated that revisions to the O&M Plan and O&M Agreement may be necessary for Ultimate Phase 2 construction, which is anticipated to commence approximately 8 to 10 years after the RACR acceptance date.
-*   **As-Built Plan and Final Survey Data:** These components were identified in the DTSC acceptance letter as remaining items to be completed and included in the Final Phase 1 RACR alongside the O&M Plan.
+### See Also
 
-## See also
-
-*   [[aerially-deposited-lead]]
-*   [[annual-o-and-m-inspection-report]]
-*   [[barium-containing-soil]]
+*   [[barium]]
+*   california-department-of-toxic-substances-control
+*   california-regional-water-quality-control-board
 *   [[caltrans]]
-*   [[caltrans-modesto-soil-stockpiles]]
-*   [[department-of-toxic-substances-control]]
-*   [[geocon-consultants]]
-*   [[land-use-covenant]]
-*   [[lead]]
-*   [[operation-and-maintenance-agreement]]
-*   [[remedial-design-implementation-plan]]
-*   [[sr-132-west-expressway-phase-1]]
+*   [[geocon-consultants-inc]]
+*   [[tp-h]]
+*   [[california-chhsl]]
+*   [[california-primary-mcl]]
+*   [[california-secondary-mcl]]

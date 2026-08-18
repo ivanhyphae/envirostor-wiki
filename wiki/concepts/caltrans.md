@@ -1,156 +1,69 @@
 ---
 concept: caltrans
-entity_type: concept
-aliases: ["California Department of Transportation", "California Department of Transportation (Caltrans), District 6, Central Region Hazardous Waste Branch", "Caltrans (DOT)", "Caltrans District 6", "Caltrans District 6 Hazardous Waste Branch", "Caltrans Division of Environmental Analysis", "caltrans-division-environmental-analysis"]
-sources: ["03.01.2012 SR 132 west Expressway Followup5_srb.RA.md", "04 04 2013 Final  SSI and HHRA 8/04 04 2013 Final  SSI and HHRA 8.md", "08.30.2012 Caltrans Ramp5_srb RAdocx_srb 8_15_12_JS081612 RA4.md", "09.20.2012 Final Caltrans Supplemental Site Characterization Workplan 2.md", "1. SR_132_FEIR_EA_ 20180302 FINAL Main Doc/1. SR_132_FEIR_EA_ 20180302 FINAL Main Doc.md", "2. SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size A-G/2. SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size A-G.md", "2025 - RE_ Reminder - Annual Inspection Report/2025 - RE_ Reminder - Annual Inspection Report.md", "3.14.2018 - Approval letter for SR 132 RAP/3.14.2018 - Approval letter for SR 132 RAP.md", "3.15.2018 - Caltrans Modesto SOF/3.15.2018 - Caltrans Modesto SOF.md", "DTSC Approval Response for final version of Well Destruction Report/DTSC Approval Response for final version of Well Destruction Report.md", "DTSC E-mail Approval of Carpenter Shoofly Tech Memo/DTSC E-mail Approval of Carpenter Shoofly Tech Memo.md", "DTSC Letter Response - 2025 GW Monitoring Report (900259)/DTSC Letter Response - 2025 GW Monitoring Report (900259).md", "DTSC PM Change Notice - State Route 132 - Modesto Soil Stockpiles, Modesto/DTSC PM Change Notice - State Route 132 - Modesto Soil Stockpiles, Modesto.md", "Draft Final RAP Updated Implementation Sch/Draft Final RAP Updated Implementation Sch.md", "Draft Interim RACR_Text_Figures_Tables_ App A-C/Draft Interim RACR_Text_Figures_Tables_ App A-C.md", "E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan/E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan.md", "wiki/sources/E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo/E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo.md", "wiki/sources/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo.md", "wiki/sources/Errata Transmittal 2-6-2020/Errata Transmittal 2-6-2020.md", "wiki/sources/Errata to January 2019 RDIP - SR 132 West Expressway Phase 1/Errata to January 2019 RDIP - SR 132 West Expressway Phase 1.md", "wiki/sources/FW_ SR 132 Basin 5 Clean Fill Sampling Plan /FW_ SR 132 Basin 5 Clean Fill Sampling Plan .md", "wiki/sources/Final FS Letter/Final FS Letter.md", "wiki/sources/Final O and M Agreement with Cover Letter (900259)/Final O and M Agreement with Cover Letter (900259).md", "wiki/sources/Final RDIP Approval Letter (900259)/Final RDIP Approval Letter (900259).md", "wiki/sources/Final SMP Approval E-mail/Final SMP Approval E-mail.md", "wiki/sources/Fiscal Year Cost Estimate 22_23_Modesto Soil Stockpiles (900259)/Fiscal Year Cost Estimate 22_23_Modesto Soil Stockpiles (900259).md", "wiki/sources/Fiscal Year Cost Estimate 23_24_Modesto Soil Stockpiles (900259)/Fiscal Year Cost Estimate 23_24_Modesto Soil Stockpiles (900259).md", "wiki/sources/Fiscal Year Cost Estimate 24_25_Modesto Soil Stockpiles (900259)/Fiscal Year Cost Estimate 24_25_Modesto Soil Stockpiles (900259).md", "wiki/sources/HearingSummaryReport_SR132 6.21.17 rdcd sz/HearingSummaryReport_SR132 6.21.17 rdcd sz.md", "wiki/sources/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Well Dest Rpt_06.19/S1200-01-01 Modesto Stockpiles Well Dest Rpt_06.19.md", "wiki/sources/S1908-01-01 Caltrans Modesto Stockpile Interim RACR_12.22 (1)/S1908-01-01 Caltrans Modesto Stockpile Interim RACR_12.22 (1).md", "wiki/sources/S1908-01-01 RDIP Variance #2/S1908-01-01 RDIP Variance #2.md", "wiki/sources/S2350-01-02 Stormwater SAP_12.23/S2350-01-02 Stormwater SAP_12.23.md", "wiki/sources/S2350-01-02 Well Destruction Report_6.25/S2350-01-02 Well Destruction Report_6.25.md", "wiki/sources/S2350-01-02_2.1.2024 Stormwater Sampling Report_5.24.md", "wiki/sources/S2350-01-02_2.4.2025 Stormwater Sampling Report_6.25.md", "wiki/sources/S9525-01-44B Caltrans Modesto Stockpiles GW March 2013 0513.md", "wiki/sources/S9525-01-44B Modesto Stockpiles GW June 2013.0613.md", "wiki/sources/S9525-01-44C Modesto Stockpiles GW September 2013 1013.md", "wiki/sources/S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.md", "wiki/sources/S9525-06-44 HHRA UPDATE Rev.0313.md", "wiki/sources/S9525-06-44 Modesto Stockpiles GW.0612.md", "wiki/sources/SR 132 Public Notice English_/SR 132 Public Notice English_.md"]
-confidence: medium
-created_at: 2026-08-17T23:47:18Z
+entity_type: responsible_party
+aliases: ["California Department of Transportation", "Caltrans District 10", "Caltrans District 6", "Caltrans District 6, Central Region Hazardous Waste Branch"]
+sources: ["wiki/sources/03-01-2012 SR 132 west Expressway Followup5_srb-RA.md", "wiki/sources/04 04 2013 Final  SSI and HHRA 8.md", "wiki/sources/08-30-2012 Caltrans Ramp5_srb RAdocx_srb 8_15_12_JS081612 RA4.md", "wiki/sources/09-20-2012 Final Caltrans Supplemental Site Characterization Workplan 2.md", "wiki/sources/1- SR_132_FEIR_EA_ 20180302 FINAL Main Doc.md", "wiki/sources/11 29 2012 Caltrans GND Water Monitoring Rpts.md", "wiki/sources/132Stockpile Fact SheetModestoDTSC117 (2-2-17)/132Stockpile Fact SheetModestoDTSC117 (2-2-17).md", "wiki/sources/2. SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size A-G.md", "wiki/sources/2025 - RE_ Reminder - Annual Inspection Report.md", "wiki/sources/3. SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size H-K.md", "wiki/sources/3.14.2018 - Approval letter for SR 132 RAP.md", "wiki/sources/3.15.2018 - Caltrans Modesto SOF.md", "wiki/sources/43A0310-04 A01 Executed.md", "wiki/sources/43A0310-04 A02 Executed Task Order-Caltrnas Modesto Soil Stockpiles.md", "wiki/sources/43A0404-04 Executed.md", "wiki/sources/43A0487 _04 Modesto Stockpiles - signed.md", "wiki/sources/5.18.2015 - Final Caltrans Cover Letter Revised Administrative Record Caltrans Modesto SoilStockpiles.md", "wiki/sources/7083_S9525-06-44 Modesto Soil Stockpiles Fenceline Workplan-0912.md", "wiki/sources/7084_S9525-06-44 Response to DTSC Workplan Comments-0912.md", "wiki/sources/7453_S9525-06-44_Modesto_Stockpiles_July_2012_GW_Report-1112.md", "wiki/sources/Acceptance E-mail_Stockpiles 1 and 2 MSE Wall Sampling Plan.md", "wiki/sources/Annual Cost Estimate Letter - FY 25-26 - State Route 132 (900259).md", "wiki/sources/Annual Stockpile Inspection Form.md", "wiki/sources/Appendix C - 100% Design Plans/Appendix C - 100% Design Plans.md", "wiki/sources/Approval E-mail_ SR 132 Basin 5 Clean Fill Sampling Plan/Approval E-mail_ SR 132 Basin 5 Clean Fill Sampling Plan.md", "wiki/sources/Approval E-mail_Revised Basin 5 Clean Fill Tech Memo/Approval E-mail_Revised Basin 5 Clean Fill Tech Memo.md", "wiki/sources/Approval Letter Stockpile 2 Spoils Workplan (900259)/Approval Letter Stockpile 2 Spoils Workplan (900259).md", "wiki/sources/Approval of GW Statistical Evaluation (900259)/Approval of GW Statistical Evaluation (900259).md", "wiki/sources/Basin 5 Clean Fill Sampling Plan/Basin 5 Clean Fill Sampling Plan.md", "wiki/sources/Borrow Area Results Tech Memo Approval/Borrow Area Results Tech Memo Approval.md", "wiki/sources/Borrow Area Sampling Plan Approval E-Mail/Borrow Area Sampling Plan Approval E-Mail.md", "wiki/sources/Borrow Area Sampling Plan/Borrow Area Sampling Plan.md", "wiki/sources/Caltrans  Response3-24-2012.md", "wiki/sources/Caltrans -DTSC Agreement.md", "wiki/sources/Caltrans Modesto Soil Stcokpiles RDIP Variance/Caltrans Modesto Soil Stcokpiles RDIP Variance.md", "wiki/sources/Caltrans Ramp Clarification Letter dated 8-24-12 .md", "wiki/sources/Caltrans Ramp Letter dated 5-29-12.md", "wiki/sources/Caltrans SR 132-99 Task Order 4.md", "wiki/sources/Carpenter Road Shoofly Clean Fill Tech Memo/Carpenter Road Shoofly Clean Fill Tech Memo.md", "wiki/sources/Carpenter Shoofly Area Clean Fill Sampling Plan/Carpenter Shoofly Area Clean Fill Sampling Plan.md", "wiki/sources/DTSC Approval E-mail for Carpenter Shoofly Clean Fill Sampling Plan.md", "wiki/sources/DTSC Approval Response for final version of Well Destruction Report.md", "wiki/sources/DTSC E-mail Approval of Carpenter Shoofly Tech Memo.md", "wiki/sources/DTSC Letter Response - 2025 GW Monitoring Report (900259).md", "wiki/sources/DTSC PM Change Notice - State Route 132 - Modesto Soil Stockpiles, Modesto.md", "wiki/sources/Draft Final RAP Updated Implementation Sch/Draft Final RAP Updated Implementation Sch.md", "wiki/sources/Draft Interim RACR_Text_Figures_Tables_ App A-C/Draft Interim RACR_Text_Figures_Tables_ App A-C.md", "wiki/sources/E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan/E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan.md", "wiki/sources/E-mail Acceptance of Bent 2 Soils Tech Memo/E-mail Acceptance of Bent 2 Soils Tech Memo.md", "wiki/sources/E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo/E-mail Acceptance, Stockpile 1 Wall Footing Sampling Tech Memo.md", "wiki/sources/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo.md", "wiki/sources/Errata Transmittal 2-6-2020.md", "wiki/sources/Errata to January 2019 RDIP - SR 132 West Expressway Phase 1/Errata to January 2019 RDIP - SR 132 West Expressway Phase 1.md", "wiki/sources/FW_ SR 132 Basin 5 Clean Fill Sampling Plan /FW_ SR 132 Basin 5 Clean Fill Sampling Plan .md", "wiki/sources/Final FS Letter.md", "wiki/sources/Final O and M Agreement with Cover Letter (900259)/Final O and M Agreement with Cover Letter (900259).md", "wiki/sources/Final RDIP Approval Letter (900259)/Final RDIP Approval Letter (900259).md", "wiki/sources/Final SMP Approval E-mail/Final SMP Approval E-mail.md", "wiki/sources/Fiscal Year Cost Estimate 22_23_Modesto Soil Stockpiles (900259)/Fiscal Year Cost Estimate 22_23_Modesto Soil Stockpiles (900259).md", "wiki/sources/Fiscal Year Cost Estimate 23_24_Modesto Soil Stockpiles (900259)/Fiscal Year Cost Estimate 23_24_Modesto Soil Stockpiles (900259).md", "wiki/sources/Fiscal Year Cost Estimate 24_25_Modesto Soil Stockpiles (900259)/Fiscal Year Cost Estimate 24_25_Modesto Soil Stockpiles (900259).md", "wiki/sources/Hearing SummaryReport_SR132 6-21-17 rdcd sz/HearingSummaryReport_SR132 6.21.17 rdcd sz.md", "wiki/sources/Hwy 132 Clean Fill Source Testing Exhibit/Hwy 132 Clean Fill Source Testing Exhibit.md", "wiki/sources/LOTB-N Carpenter OC.md", "wiki/sources/Modesto Soil Stockpiles_ Final Recorded LUC/Modesto Soil Stockpiles_ Final Recorded LUC.md", "wiki/sources/OM Plan Comments (900259)/OM Plan Comments (900259).md", "wiki/sources/RDIP All Figures/RDIP All Figures.md", "wiki/sources/RDIP Errata Acceptance/RDIP Errata Acceptance.md", "wiki/sources/RDIP Variance Reqeust #2 Acceptance E-Mail/RDIP Variance Reqeust #2 Acceptance E-Mail.md", "wiki/sources/RDIP Variance Request Acceptance E-Mail/RDIP Variance Request Acceptance E-Mail.md", "wiki/sources/RE_ Modesto Stockpile Annual Inspection 2026_DTSC Approval/RE_ Modesto Stockpile Annual Inspection 2026_DTSC Approval.md", "wiki/sources/Response to Comments letter for SR 132 RAP with Appendix J/Response to Comments letter for SR 132 RAP with Appendix J.md", "wiki/sources/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19.md", "wiki/sources/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Well Dest Rpt_06-19/S1200-01-01 Modesto Stockpiles Well Dest Rpt_06.19.md", "wiki/sources/S1908-01-01 Caltrans Modesto Stockpile Interim RACR_12.22 (1)/S1908-01-01 Caltrans Modesto Stockpile Interim RACR_12.22 (1).md", "wiki/sources/S1908-01-01 RDIP Variance #2/S1908-01-01 RDIP Variance #2.md", "wiki/sources/S2350-01-02 Stormwater SAP_12.23/S2350-01-02 Stormwater SAP_12.23.md", "wiki/sources/S2350-01-02 Updated Statistical Evaluation Report_2-24/S2350-01-02 Updated Statistical Evaluation Report_2.24.md", "wiki/sources/S2350-01-02 Well Destruction Report_6-25/S2350-01-02 Well Destruction Report_6.25.md", "wiki/sources/S2350-01-02_2.1.2024 Stormwater Sampling Report_5.24/S2350-01-02_2.1.2024 Stormwater Sampling Report_5.24.md", "wiki/sources/S2350-01-02_2.4.2025 Stormwater Sampling Report_6.25/S2350-01-02_2.4.2025 Stormwater Sampling Report_6.25.md", "wiki/sources/S9525-01-44B Caltrans Modesto Stockpiles GW March 2013 0513/S9525-01-44B Caltrans Modesto Stockpiles GW March 2013 0513.md", "wiki/sources/S9525-01-44B Modesto Stockpiles GW June 2013-0613.md/S9525-01-44B Modesto Stockpiles GW June 2013.0613.md", "wiki/sources/S9525-01-44C Modesto Stockpiles GW September 2013 1013/S9525-01-44C Modesto Stockpiles GW September 2013 1013.md", "wiki/sources/S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112/S9525-06-25 Modesto Stockpiles Well Install and June 2012 GW Report 1112.md", "wiki/sources/S9525-06-44 HHRA UPDATE Rev.0313/S9525-06-44 HHRA UPDATE Rev.0313.md", "wiki/sources/S9525-06-44 Modesto Stockpiles GW.0612/S9525-06-44 Modesto Stockpiles GW.0612.md", "wiki/sources/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313.md", "wiki/sources/S9525-06-44A Caltrans Modesto Stockpiles GW 0213/S9525-06-44A Caltrans Modesto Stockpiles GW 0213.md", "wiki/sources/S9525-06-44A Caltrans Modesto Stockpiles GW Nov2012 0213/S9525-06-44A Caltrans Modesto Stockpiles GW Nov2012 0213.md", "wiki/sources/S9525-06-44A May 2012 GW Report 1112/S9525-06-44A May 2012 GW Report 1112.md", "wiki/sources/S9525-06-44A Stormwater SAP Addendum 0213/S9525-06-44A Stormwater SAP Addendum 0213.md", "wiki/sources/S9525-06-44AModesto Stockpiles GW  SEPT2012 1212/S9525-06-44AModesto Stockpiles GW  SEPT2012 1212.md", "wiki/sources/S9525-06-44AModesto Stockpiles GW. SEPT2012.1212/S9525-06-44AModesto Stockpiles GW. SEPT2012.1212.md", "wiki/sources/S9650-06-03 MODESTO RAMP WORKPLAN.0412/S9650-06-03 MODESTO RAMP WORKPLAN.0412.md", "wiki/sources/S9650-06-03 Modesto Ramp Ex Mon Plan -no appx-0612/S9650-06-03 Modesto Ramp Ex Mon Plan -no appx-0612.md", "wiki/sources/S9800-01-17 Caltrans Modesto Stockpiles Dec 2013 GW Mon 0114/S9800-01-17 Caltrans Modesto Stockpiles Dec 2013 GW Mon 0114.md", "wiki/sources/S9800-01-17 Caltrans Modesto Stockpiles GW_06.15/S9800-01-17 Caltrans Modesto Stockpiles GW_06.15.md", "wiki/sources/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.md", "wiki/sources/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan.Revised_10.14/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan.Revised_10.14.md", "wiki/sources/S9800-01-17 Modesto Stockpiles Feb2014 GW Mon 0414/S9800-01-17 Modesto Stockpiles Feb2014 GW Mon 0414.md", "wiki/sources/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814.md", "wiki/sources/S9800-01-17A Caltrans Modesto Stockpiles GW_06 16/S9800-01-17A Caltrans Modesto Stockpiles GW_06 16.md", "wiki/sources/S9800-01-17A Modesto Stockpiles Dec 11 2015 Stormwater Sampling Report_02-16.md", "wiki/sources/S9800-01-17A Modesto Stockpiles Jan 6 2016 Stormwater Smplng 0216.md", "wiki/sources/S9800-01-17A Modesto Stockpiles Mar 5 2016 Stormwater Samplng_04 16.md", "wiki/sources/SR 132 Public Notice English_.md", "wiki/sources/SR 132 West Signed NOA Public.md", "wiki/sources/SR_132_DEIR_EA.md", "wiki/sources/SR_132_DEIR_EA_Append_A-F.md", "wiki/sources/SR_132_DEIR_EA_Append_G-J.md", "wiki/sources/State Route 132 RAP Approval PN (FINAL 2-21-18)/State Route 132 RAP Approval PN (FINAL 2-21-18).md", "wiki/sources/Stockpile 2 Confirmation Sampling Tech Memo Approval/Stockpile 2 Confirmation Sampling Tech Memo Approval.md", "wiki/sources/Stockpile 3 Confirmation Sampling Tech Memo Approval/Stockpile 3 Confirmation Sampling Tech Memo Approval.md", "wiki/sources/WB Acceptance E-mail/WB Acceptance E-mail.md", "wiki/sources/opr25@opr.ca.gov_20180319_135531/opr25@opr.ca.gov_20180319_135531.md"]
+confidence: high
+created_at: 2026-08-18T17:34:01Z
 ---
-
-# Caltrans
 
 ## Overview
 
-The California Department of Transportation (Caltrans) is the owner and responsible party for the [[modesto-soil-stockpiles-project]], located southerly of the intersection of [[sr-132]] and Kansas Avenue in Stanislaus County, California. Caltrans District 6 and District 10 have directed site investigation, groundwater monitoring, stockpile characterization, and soil management decisions at this site. The agency operates through its Hazardous Waste Branch and Central Region Environmental Division, serving as the primary interface with regulatory agencies including the department-of-toxic-substances-control|DTSC and the central-valley-rwqcb|Central Valley Regional Water Quality Control Board (CVRWQCB).
-
-Caltrans entered into an Interagency Agreement with DTSC for oversight and consultative services related to the remediation of the Modesto Soil Stockpiles prior to the construction of the State Route 132 West Expressway. This agreement, Task Order No. 6 under Agreement No. 43A0260, was effective from June 22, 2012, through May 31, 2013, with a total task order amount of \$150,000.00. Caltrans' Task Manager for this agreement was Richard C. Stewart. A subsequent Task Order, No. 4 under Agreement No. 43A0310, was effective from June 1, 2013, through May 31, 2016, with a total amount of \$172,000.00.
-
-Caltrans is responsible for the implementation of the remedial-design-implementation-plan|Remedial Design Implementation Plan (RDIP) and future monitoring and maintenance of the Barium-Containing Soil (BCS) Containment Zones of the SR 132 West Project under regulatory oversight and approval by DTSC.
-
-## Site Record
-
-### Stockpile Origin and History
-
-The three stockpiles at the site were generated during construction of SR 99 through Modesto around 1961. Caltrans excavated soil from a 4.3–acre parcel purchased from Food Machinery and Chemical Corporation (FMC) at the southwestern corner of the FMC site. An aerial photograph from 1957 shows that a portion of the southernmost evaporation pond on the FMC property lay within the area Caltrans acquired for highway right-of-way. The excavated soil was stockpiled within Caltrans right-of-way at the location of the future State Route 132 West Expressway project. The three distinct stockpiles are:
-
-*   stockpile-1|Stockpile 1: south of Kansas Avenue and west of North Emerald Avenue
-*   stockpile-2|Stockpile 2: south of Kansas Avenue, between North Emerald Avenue and SR-99
-*   stockpile-1|Stockpile 3: south of Kansas Avenue and east of SR-99
-
-The site consists of three stockpiles in excess of 120,000 yd³ of contaminated soil. The stockpiles were generated during sub-grade construction of State Route 99 through Modesto, Stanislaus County. Excavation near Kansas Avenue removed tailings from a portion of a Food and Machinery Corporation (FMC) barite (BaSO₄) and celestite (SrSO₄) processing disposal pond that operated on a parcel purchased by the state. The site is impacted by hazardous substances (metals), including [[barium]], [[lead]], and strontium. The stockpiles are immediately adjacent to State Route 99 (east and west) and south of Kansas Avenue in Modesto.
-
-### Groundwater Monitoring Program
-
-Caltrans, through Contract No. 06A1895, Task Order No. 17, retained geocon-consultants|Geocon Consultants, Inc. to perform groundwater monitoring at the site. The scope of services was conducted in accordance with protocols approved by DTSC as established in the *Final Work Plan, Groundwater Assessment* prepared by Shaw Environmental, Inc., dated January 2006.
-
-In 2006, Caltrans arranged for the installation of monitoring wells MW-1 through MW-8 adjacent to the three stockpiles. In June 2012, Caltrans (through Geocon) arranged for the installation of additional monitoring wells MW-9 and MW-10 at upgradient locations adjacent to the stockpiles. Surveying of the monitoring wells was performed by Morrow Surveying on June 18, 2012.
-
-Caltrans resumed groundwater monitoring in March 2012. Sampling events with DTSC oversight occurred at the following frequencies:
-
-*   March, May, June, July, September, and November 2012
-*   January, March, June, September, and December 2013
-*   February 2014
-*   June 2014
-
-During the March 2012 sampling event, representatives from DTSC observed sample collection procedures and collected split samples submitted to an alternate laboratory. No notable differences in concentrations were evident between Caltrans and DTSC laboratory results.
-
-As of the June 2014 groundwater monitoring report, the next monitoring event was scheduled for September 2014, with quarterly monitoring ongoing.
-
-### Ramp Safety Improvements — SR 99/Kansas Avenue
-
-On August 24, 2012, Caltrans District 10 provided a clarification letter to DTSC and CVRWQCB regarding the disposition of excavated material from ramp safety improvements at the SR 99 Kansas Avenue northbound off-ramp. Caltrans determined that completion and implementation of an Interim Removal Action Workplan was not needed.
-
-The ramp project involved an estimated total excavation of 6,000 cubic yards of material for widened roadbed, drainage, and retaining wall construction. Approximately 2,800 cubic yards would be excavated from the northwestern end of Stockpile No. 3. Some excavated native material would be reused as structural backfill, with the remainder—including all Stockpile No. 3 material—transported offsite.
-
-Caltrans based its determination on site investigation data presented in *"Transmittal of Site Investigation Data, Modesto Ramp Rehabilitation Project SR 99 – Kansas Avenue Northbound Off-Ramp, Modesto California"* (Geocon, April 24, 2012). None of the soil samples in the Stockpile No. 3 excavation area contained total metal concentrations at or above the California hazardous waste Total Threshold Limit Concentration (TTLC). With the exception of [[arsenic]], no metals were reported at or above commercial/industrial screening levels. Arsenic concentrations ranged from less than 1.0 mg/kg to 3.2 mg/kg, within site-specific background levels. The 95% upper confidence limit concentrations for [[barium]], strontium, and [[lead]] in the Stockpile No. 3 excavation area were below residential and commercial/industrial screening levels.
-
-One soil sample had a [[barium]] concentration higher than 10 times the Soluble Threshold Limit Concentration (STLC), and five soil samples had [[lead]] concentrations at or higher than 10 times the STLC. However, the calculated 95% Upper Confidence Level for both barium and lead was well below 10 times the respective STLC. Caltrans submitted these samples for Waste Extraction Test (WET) analysis by Advanced Technology Laboratories; all results were below the STLC, confirming the material was not classified as hazardous waste.
-
-Caltrans determined that the native soil material proposed for excavation outside the Stockpile No. 3 footprint was suitable for reuse as structural backfill or for offsite reuse/disposal as non-hazardous soil to an accepting facility.
-
-### SR 132 Clean Fill Source — Carpenter Road Area
-
-On February 4, 2020, Caltrans (Richard C. Stewart, PG 7926, Engineering Geologist, Central Region Environmental Division) forwarded a proposed clean fill source sampling plan to DTSC for approval. The plan, prepared by Geocon, addressed characterization of soil proposed for use as clean fill cover for the bcs-stockpile|BCS stockpile. The material source was the upper five feet of soil along the Highway 132 alignment from carpenter-road-area|Carpenter Road extending east, an area that had been State right-of-way since the 1960s and was previously agricultural property.
-
-The sampling plan proposed 12 five-foot-deep borings with six depth-discrete composite samples analyzed as follows:
-
-*   0–2 feet: organochlorine pesticides and heavy metals (3 composite samples)
-*   3–5 feet: heavy metals (3 composite samples)
-
-Geocon reviewed the Blackburn 2014 ISA and Rincon 2018 Phase II ESA, finding no high-risk documented contamination releases in the immediate vicinity. Testing of residential backyards by Rincon adjacent to and west of Carpenter Road indicated pesticides and metals at concentrations less than applicable regulatory screening levels.
-
-On February 13, 2020, DTSC (Dean Wright) provided approval of the sampling plan with one modification: composite 3 samples instead of the originally planned 4. DTSC staff member Perry Myers had no additional comments.
-
-### Organizational Structure and Key Personnel
-
-Caltrans personnel identified in the project record include:
-
-*   **Richard C. Stewart, PG 7926** — Engineering Geologist, Central Region Environmental Division, Hazardous Waste & Paleontology Branch, Fresno. Primary Caltrans point of contact for DTSC on groundwater monitoring and clean fill sampling.
-*   **Juergen Vespermann** — District 10 staff, copied on clean fill source correspondence.
-*   **Jennifer Lugo** — Caltrans staff, included in DTSC correspondence regarding work notices and sampling plan approval.
-*   **Mohammad W. Waziri, Kai Pavel, Victoria Cuevas, Harminder S. Deol, Ranbir S. Bhullar, Paul Bauldry** — Caltrans staff copied on the February 4, 2020 clean fill source testing communication.
-
-## Relevant source material:
-### Source: wiki/sources/HearingSummaryReport_SR132 6.21.17 rdcd sz/HearingSummaryReport_SR132 6.21.17 rdcd sz.md > **Public Hearing Summary Report**
-
-### **Public Hearing Summary Report**
-
-*City of Modesto, Stanislaus County 10-STA-132(PM 11.0/15.0) 10-STA-99 (PM 15.7/17.5) Project ID 10-0000-0424*
-
-*June 2017*
-
-### *What should you do?*
-
-- Please read this summary report.
-- If you have any concerns about the summary report or questions about the proposed project, please contact Caltrans. Submit concerns or questions via U.S. mail to Caltrans, Attn: Juan Torres, Senior Environmental Planner, California Department of Transportation, 855 M Street, Suite 200, Fresno, CA 93721; or via email to [juan.torres@dot.ca.gov.](mailto:juan.torres@dot.ca.gov)
-- If you have any concerns about the Draft Final RAP prepared for this project, please contact Randy Adams, Project Manager, California Department of Toxic Substances Control, 8800 Cal Center Drive, Sacramento, CA 95826; or via email to randy.adams@dtsc.ca.gov.
-
-### 1.1. A Public Hearing was Held
-
-The California Department of Transportation (Caltrans), the Department of Toxic Substances Control (DTSC), and the Central Valley Regional Water Quality Control Board (RWQCB), in conjunction with the Stanislaus Council of Governments (StanCOG), held a public hearing with an informal open house format to review design concepts, share information, present displays, and accept written and oral comments on the Draft EIR/EA and the Draft Final RAP prepared for the State Route 132 West Freeway/Expressway Project.
-
-The public hearing was held on Wednesday, February 22, 2017 from 6:00 p.m. to 8:00 p.m. at Mark Twain Junior High School at 707 South Emerald Avenue in Modesto, California.
-
-### 1.2. Announcement of the Public Meeting and the Public Comment Period
-
-To announce the public hearing and public comment period, a public notice was published by StanCOG in *The Modesto Bee* (English version) and the *Vida en el Valle* (Spanish version) on January 18, 2017. The public comment period ran from January 18, 2017 to March 17, 2017. On January 30, 2017, the public hearing venue was changed from the Red Event Center to Mark Twain Junior High School. An English and Spanish postcard advertising this change was mailed on February 8, 2017 to about 2,500 residents, tenants and business owners within the project area. DTSC also sent out a Community Update for the Draft Final RAP in English and Spanish to the project mailing list on February 6, 2017. A revised public notice with the new location was published by StanCOG in *The Modesto Bee* and the *Vida en el Valle* on February 8, 2017. The public notice was published one last time in the same newspapers above on February 15, 2017. The notices were also posted on the Caltrans, StanCOG, and DTSC websites.
-
-The Notice of Availability for the Draft EIR/EA and the Community Update for the Draft Final RAP were also mailed to federal, state, and local officials, as well as residents and other interested groups on January 13, 2017.
-
-See Appendix B for copies of the announcements.
-
-### 1.4. Format of the Public Meeting
-
-The public hearing was conducted in an informal open house format to facilitate communication and the exchange of information between the project team and the public. When the attendees arrived, they were asked to sign in and were handed a project information sheet and a Community Update (see Appendix A for the project information sheet and Appendix B for the Community Update). Staff invited each attendee to view the displays throughout the room, ask questions, place their written comments in the drop box or mail/email them to Caltrans, or give their oral comments to the court reporter onsite. A Spanish translator was provided for Spanish-speaking attendees.
-
-Stations with display boards were set up around the room for the public to review. Each station was manned by staff to provide information as needed. The stations are described in Chapter 2. The display boards are shown in Appendix A. Maps of the project layout were also set up in the middle of the room. See Appendix C for photographs of the public hearing activities.
-
-### 2.2.1. Welcome Board and Sign-In Table
-
-A welcome board greeted attendees as they entered the meeting room. Attendees were asked to sign in so that Caltrans, StanCOG, DTSC, and RWCQB staff could maintain an attendance record and ensure that all interested parties were added to the project mailing list. The list of attendees is provided in Appendix E. Staff gave each attendee information sheets stating the project description, purpose, cost, funding source, timeline, and a contact name for those interested in obtaining more information. An information sheet also contained a map showing the project locations. The project information sheet is provided in Appendix A. Attendees were also provided with comment cards to record their feedback on the information presented. All handouts were provided in English and Spanish. Staff explained the format of the meeting, and attendees were encouraged to ask questions of the project team in attendance.
-
-### 2.2.4. Project Description
-
-This board provided an overview of the project: the proposed construction of a fourlane freeway/expressway south of Kansas to east of State Route 132 at the Needham Street Bridge Overcrossing. It also described the proposed encapsulation of the caltrans-modesto-soil-stockpiles|Caltrans Modesto Soil Stockpiles as described in the Draft Final RAP.
-
-### 2.2.13. Right-of-Way
-
-The Right-of-Way board and table provided information on acquisitions and right-ofway concerns. The board listed right-of-way tasks associated with the project: appraisal, acquisition, relocation assistance, utility relocation, clearance, and demolition. The board also included a website address for more information from Caltrans Right-of-Way.
-
-### 2.2.14. Public Comment
-
-The public comment board explained that attendees could orally give comments to a court reporter at the meeting, or they could submit comments in writing by placing comment cards in the onsite comment box or mailing them to Caltrans, Attn: Philip Vallejo, Acting Senior Environmental Planner, California Department of Transportation, 855 M Street, Suite 200, Fresno, CA 93721. Chapter 3 of this report summarizes the public input received at the meeting. Copies of the written submissions are included in Appendix D.
-
-### 2.2.15. What's Next
-
-This board explained that Caltrans would prepare a final environmental document (Final EIR/EA), DTSC would prepare a Final RAP, and that all public comments would be reviewed and responded to in the Final EIR/EA. In addition, the board noted the steps that would follow—from final design to construction of Phase 1.
-
-### 2.2.17. Caltrans Modesto Soil Stockpiles, Location and History
-
-This board provided a brief summary of the location and history of the Caltrans Modesto Soil Stockpiles in the project area.
-
-### 2.2.18. Caltrans Modesto Soil Stockpiles, Recommended Alternative— Containment
-
-This board illustrated the proposed Remedial Action Design Implementation Plan to contain the Caltrans Modesto Soil Stockpiles.
-
-### 2.2.19. Caltrans Modesto Soil Stockpiles, Proposed Containment
-
-The two boards showed cross-sections of the proposed Recommended Stockpile Alternative (Containment).
-
-### 2.2.20. Caltrans Modesto Soil Stockpiles, Major Technical Studies
-
-The two boards listed the technical studies conducted under the oversight of DTSC and RWQCB to determine the recommended solution for containment.
-
-### 2.2.21. Caltrans Modesto Soil Stockpiles, Remediation Process
-
-This board provided an overview of the process undertaken by DTSC to develop its proposed
+The Caltrans Modesto Soil Stockpiles are a collection of three stockpiles, totaling approximately 160,000 cubic yards, located south of Kansas Avenue in Modesto, California. These stockpiles originated from soil excavated during the construction of the State Route 99 Modesto bypass in the early 1960s. The soil was sourced from the Food Machinery and Chemical Corporation (FMC) Modesto Processing Plant property, specifically from unlined ponds where residual liquids from chemical processing were discharged. The primary contaminants of concern identified in the stockpiles are barium, strontium, and lead.
+
+The stockpiles were managed by Caltrans and were subject to oversight by the Department of Toxic Substances Control (DTSC) and the Central Valley Regional Water Quality Control Board (RWQCB). The Remedial Action Plan (RAP) for the stockpiles, approved by DTSC, designated containment as the selected remedy. This involved incorporating the stockpiles into the SR 132 West Freeway/Expressway project as highway embankment fill, with subsequent capping.
+
+## Site record
+
+*   **Stockpile 1:** Approximately 2.5 acres, located south of Kansas Avenue between Carpenter and North Emerald Avenue. Estimated fill volume of 34,000 cubic yards.
+*   **Stockpile 2:** Approximately 7.6 acres, located south of Kansas Avenue between North Emerald Avenue and State Route 99. Estimated fill volume of 102,000 cubic yards.
+*   **Stockpile 3:** Approximately 2.5 acres, located south of Kansas Avenue and east of State Route 99. Estimated fill volume of 24,000 cubic yards. Stockpile 3 was completely excavated and placed as highway embankment fill on top of Stockpile 1 and between Stockpile 1 and Emerald Avenue during Interim Phase 1 construction.
+*   **Contaminants:** Primary contaminants of concern are barium, strontium, and lead. Elevated barium concentrations were confirmed in stockpile soil samples exceeding regulatory health-based screening levels.
+*   **Barium Concentrations:**
+    *   Stockpile 1: Ranges from 37 to 1,700 parts per million (ppm), with an average of 82 ppm. Higher concentrations found deeper than 6 feet below ground surface.
+    *   Stockpile 2: Ranges from 49 to 64,000 ppm, with an average of 5,440 ppm. Higher concentrations found deeper than 6 feet below ground surface.
+    *   Stockpile 3: Ranges from 35 to 126,000 ppm, with an average of 4,310 ppm. Higher concentrations found deeper than 6 feet below ground surface.
+    *   State action levels for Barium: 5,200 ppm for residential uses and 63,000 ppm for commercial uses.
+    *   Modesto ambient environment barium: 17 to 120 ppm.
+*   **Lead Concentrations:** Elevated lead concentrations were also identified. Aerially Deposited Lead (ADL)-contaminated soil, with lead concentrations exceeding regulatory criteria, was excavated from SR 99 shoulder areas and placed in the eastern end of the Stockpile 1 BCS Containment Zone in June and July 2020, in accordance with a DTSC-Caltrans Soil Management Agreement.
+*   **Remedial Action:** The selected remedial alternative was consolidation and containment by incorporating the stockpiles as highway embankment fill and covering with clean fill and structural pavement.
+    *   **Interim Phase 1 (2019-2022):** Stockpiles 1 and 2 were consolidated and capped as highway embankment fill during the construction of the SR 132 West Project. SR 132 was opened to traffic on November 3, 2022.
+    *   **Ultimate Phase 2 (Scheduled for completion in 2028):** Will involve highway widening to four traffic lanes, completing the final containment of BCS.
+*   **Containment Measures:**
+    *   Stockpiles are incorporated behind retaining walls, bridge abutments, and beneath highway pavement.
+    *   Unpaved portions are covered with clean fill, vegetated ground cover, or erosion control blankets.
+    *   Perimeter fencing is maintained to restrict access.
+*   **Groundwater Monitoring:** Ten groundwater monitoring wells (MW-1 through MW-10) were historically present. Six wells (MW-1, MW-2, MW-3, MW-5, MW-7, MW-8) were destroyed in April 2019 due to construction conflicts. The remaining four wells (MW-4, MW-6, MW-9, MW-10) were protected in place. Groundwater monitoring continued through March 2022, with reported concentrations of target analytes below regulatory thresholds. Stormwater sampling events were conducted between December 2019 and December 2020, with results consistent with historical data and no observed offsite migration.
+*   **Land Use Covenant (LUC):** A LUC will be recorded to restrict land use to transportation purposes and prohibit unrestricted uses (residential, schools, etc.) on the contained stockpiles. Future disturbance activities will require notification to DTSC.
+*   **Operation and Maintenance (O&M):** Caltrans will enter into an O&M Agreement with DTSC, requiring annual inspections of containment measures and periodic five-year reviews by DTSC to assess effectiveness.
+
+## Regulatory status
+
+*   **DTSC Oversight:** The Department of Toxic Substances Control (DTSC) provided site mitigation oversight under an Interagency Agreement with Caltrans.
+*   **CVRWQCB Oversight:** The Central Valley Regional Water Quality Control Board (CVRWQCB) cooperated with DTSC.
+*   **Health-Based Screening Levels:** Elevated barium concentrations exceeded regulatory health-based screening levels.
+*   **Human Health Risk Assessment (HHRA):** A 2007 HHRA and a 2013 HHRA Update indicated that the soil stockpiles did not pose an unacceptable risk to current or future offsite residents, trespassers, construction workers, or hypothetical future shallow groundwater users.
+*   **DTSC Letter (December 17, 2009):** DTSC stated that the stockpiles, as currently managed, do not pose a risk to human health for Caltrans workers, trespassers, or adjacent residents. Caltrans was directed to continue managing the stockpiles by limiting access, maintaining fencing, prohibiting excavation/removal, and maintaining vegetative cover and grade. Groundwater monitoring was also to be maintained.
+*   **Final Remedial Action Plan (RAP):** Approved by DTSC, designating containment as the selected remedy.
+*   **Remedial Design Implementation Plan (RDIP):** Provided the technical approach for interim implementation of the selected remedy.
+*   **Interim Removal Action Completion Report (RACR):** Submitted by Geocon Consultants, Inc. in December 2022, documenting completed consolidation and clean fill capping. Accepted by DTSC on February 24, 2022.
+*   **Five-Year Reviews:** Caltrans will perform five-year reviews to assess the effectiveness of containment measures.
+
+## Open items
+
+*   A Final RACR will be submitted following Ultimate Phase 2 construction of the SR 132 West Project, scheduled for completion in 2028.
+*   Groundwater monitoring will continue until CVRWQCB determines the clean-capped material does not pose a material threat to groundwater quality, after which the remaining monitoring wells may be destroyed.
+*   Additional stormwater sampling events will be performed by Caltrans until Ultimate Phase 2 construction is complete.
+*   Caltrans will enter into an Operation and Maintenance Agreement with DTSC for the OMP.
+*   A LUC will be finalized and recorded with the Stanislaus County Clerk-Recorder Office.
+
+## See also
+
+*   [[dtsc]]
+*   [[geocon-consultants-inc]]
+*   [[barium]]
+*   [[central-valley-rwqcb]]
+*   [[lead]]
+*   [[site-specific-background-levels]]
+*   [[strontium]]
+*   [[title-22-mcl]]

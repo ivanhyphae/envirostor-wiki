@@ -1,46 +1,30 @@
 ---
 concept: manganese
 entity_type: contaminant
-aliases: ["", "Mn"]
-sources: ["06A2542ct_to97_SurfaceWaterLetter_final.20230328.md", "132Stockpile Fact SheetModestoDTSC117 (2-2-17)/132Stockpile Fact SheetModestoDTSC117 (2-2-17).md", "wiki/sources/S1200-01-01 Modesto Stockpiles Dec 2016 SW Sampling_01.17/S1200-01-01 Modesto Stockpiles Dec 2016 SW Sampling_01.17.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17.md", "wiki/sources/S1200-01-01 Modesto Stockpiles March 2018 SW Sampling_04.18/S1200-01-01 Modesto Stockpiles March 2018 SW Sampling_04.18.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Oct 2016 SW Sampling_12.16/S1200-01-01 Modesto Stockpiles Oct 2016 SW Sampling_12.16.md", "wiki/sources/S9525-06-44 Modesto Stockpiles GW.0612.md", "wiki/sources/S9525-06-44 Modesto Stockpiles GW.0612/S9525-06-44 Modesto Stockpiles GW.0612.md", "wiki/sources/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313.md", "wiki/sources/S9800-01-17 Caltrans Modesto Stockpiles GW_06.15/S9800-01-17 Caltrans Modesto Stockpiles GW_06.15.md", "wiki/sources/S9800-01-17A Modesto Stockpiles Mar 5 2016 Stormwater Samplng_04 16/S9800-01-17A Modesto Stockpiles Mar 5 2016 Stormwater Samplng_04 16.md", "wiki/sources/SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020/SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020.md", "wiki/sources/SR 132 Clean Borrow Area Technical Memo/SR 132 Clean Borrow Area Technical Memo.md", "wiki/sources/SR 132 Stockpile 2 BCS Removal Tech Memo/SR 132 Stockpile 2 BCS Removal Tech Memo.md", "wiki/sources/SR 132 Stockpile 3 BCS Removal Tech Memo/SR 132 Stockpile 3 BCS Removal Tech Memo.md"]
+aliases: []
+sources: ["wiki/sources/1- SR_132_FEIR_EA_ 20180302 FINAL Main Doc.md", "wiki/sources/2. SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size A-G.md", "wiki/sources/3- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size H-K.md", "wiki/sources/7453_S9525-06-44_Modesto_Stockpiles_July_2012_GW_Report-1112.md", "wiki/sources/Draft Interim RACR_ App D-G/Draft Interim RACR_ App D-G.md", "wiki/sources/Hearing SummaryReport_SR132 6-21-17 rdcd sz/HearingSummaryReport_SR132 6.21.17 rdcd sz.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17.md", "wiki/sources/S1200-01-01 Modesto Stockpiles March 2018 SW Sampling_04.18/S1200-01-01 Modesto Stockpiles March 2018 SW Sampling_04.18.md", "wiki/sources/S9525-06-44 Modesto Stockpiles GW.0612/S9525-06-44 Modesto Stockpiles GW.0612.md", "wiki/sources/S9525-06-44A Caltrans Modesto Stockpiles GW 0213/S9525-06-44A Caltrans Modesto Stockpiles GW 0213.md", "wiki/sources/S9525-06-44A Caltrans Modesto Stockpiles GW Nov2012 0213/S9525-06-44A Caltrans Modesto Stockpiles GW Nov2012 0213.md", "wiki/sources/S9525-06-44A May 2012 GW Report 1112/S9525-06-44A May 2012 GW Report 1112.md", "wiki/sources/S9525-06-44AModesto Stockpiles GW  SEPT2012 1212/S9525-06-44AModesto Stockpiles GW  SEPT2012 1212.md", "wiki/sources/S9525-06-44AModesto Stockpiles GW. SEPT2012.1212/S9525-06-44AModesto Stockpiles GW. SEPT2012.1212.md", "wiki/sources/S9800-01-17 Caltrans Modesto Stockpiles Dec 2013 GW Mon 0114/S9800-01-17 Caltrans Modesto Stockpiles Dec 2013 GW Mon 0114.md", "wiki/sources/S9800-01-17 Caltrans Modesto Stockpiles GW_06.15/S9800-01-17 Caltrans Modesto Stockpiles GW_06.15.md", "wiki/sources/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.md", "wiki/sources/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan.Revised_10.14/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan.Revised_10.14.md", "wiki/sources/S9800-01-17 Modesto Stockpiles Feb2014 GW Mon 0414/S9800-01-17 Modesto Stockpiles Feb2014 GW Mon 0414.md", "wiki/sources/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814.md", "wiki/sources/S9800-01-17A Caltrans Modesto Stockpiles GW_06 16/S9800-01-17A Caltrans Modesto Stockpiles GW_06 16.md", "wiki/sources/SR_132_DEIR_EA.md"]
 confidence: high
-created_at: 2026-08-17T23:47:50Z
+created_at: 2026-08-18T17:32:54Z
 ---
 
 ## Manganese
 
-### Overview
+### Site Record
 
-Manganese is a dissolved metal that has been analyzed in stormwater and groundwater samples collected at the [[caltrans]] Modesto Soil Stockpiles site (SR 132, Stanislaus County, CA). Its presence and concentration have been evaluated against regulatory thresholds.
+Manganese has been detected in groundwater samples from the Caltrans Modesto Soil Stockpiles site. In March 2012, manganese was reported in the sample from monitoring well MW-4 at a concentration of 2.9 µg/l, which exceeded the secondary MCL for taste and odor. In February 2014, manganese was reported in one sample with a concentration of 0.78 µg/l, which did not exceed its numeric water quality threshold. In December 2013, manganese was reported in the sample from MW-6 at a concentration of 1.3 µg/l, which did not exceed its numeric water quality threshold. In November 2012, manganese was detected in three samples, with the highest concentration reported in MW-8 at 2.1 µg/l. In September 2012, manganese was reported in samples from MW-3, MW-9, and MW-10, with the highest concentration in MW-3 at 3.9 µg/l. In May 2012, manganese was reported in the sample from MW-1 at a concentration of 0.50 µg/l.
 
-### Site record
+In March 2017, manganese was reported in samples PL2 and PL4, exceeding the primary or secondary MCLs. In January 2018, manganese was reported in some or all samples, with one sample (BG2) exceeding its primary or secondary MCL. In March 2018, manganese was detected in samples PL2 through PL4 and BG1 at concentrations ranging from 54 to 370 µg/l, exceeding the secondary MCL for drinking water of 50 µg/l.
 
-During the March 5, 2016 stormwater sampling event, manganese was reported for samples PL2 and PL4. In sample PL2, manganese was detected at a concentration of 60 micrograms per liter (µg/l), which exceeds the secondary Maximum Contaminant Level (MCL) for manganese, set at 50 µg/l based on taste and odor.
+### Regulatory Status
 
-Manganese was also reported for sample BG1. In the December 2016 surface water sampling event, manganese concentrations reported for samples PL3 and PL4 exceeded the secondary MCL of 50 µg/l. Manganese was also reported for samples BG1 and BG2, with the concentration in BG1 exceeding its secondary MCL.
-
-During the March 2017 surface water sampling, manganese was reported for samples PL2 and PL4, and these concentrations exceeded their respective primary or secondary MCLs.
-
-In groundwater samples collected in March 2012, manganese was reported for MW-4 at a concentration of 88 µg/l, which exceeded the secondary MCL of 50 µg/l for taste and odor. In groundwater samples collected in February 2014, manganese was reported for one sample, MW-10, at a concentration that exceeded its numeric water quality threshold for drinking water.
-
-In January 2018, manganese was reported for sample BG2, and this concentration exceeded its secondary MCL.
-
-### Regulatory status
-
-Manganese has a secondary MCL of 50 µg/l, based on taste and odor. The concentration of manganese detected in sample PL2 during the March 5, 2016 stormwater sampling event (60 µg/l) exceeded this secondary MCL. Similarly, manganese concentrations in samples PL3 and PL4 from the December 2016 sampling event, and in sample BG1, exceeded the secondary MCL. In March 2017, manganese in samples PL2 and PL4 also exceeded the secondary MCL. In January 2018, manganese in sample BG2 exceeded its secondary MCL.
-
-In groundwater, the concentration of manganese in MW-4 (88 µg/l) in March 2012 exceeded the secondary MCL for taste and odor. In February 2014, manganese in MW-10 also exceeded its numeric water quality threshold.
-
-### Open items
-
-No open items related to manganese are identified in the provided source documents.
+The secondary MCL for manganese for drinking water is 50 µg/l, which is associated with taste and odor or welfare-based concerns. Exceedances of this threshold have been noted in samples from MW-4 (March 2012), PL2 and PL4 (March 2017), BG2 (January 2018), and PL2 through PL4 and BG1 (March 2018).
 
 ### See also
-
-- [[barium]]
-- [[caltrans]]
-- [[chromium]]
-- [[geocon-consultants]]
-- [[lead]]
-- [[nitrate]]
-- [[strontium]]
+* [[chromium]]
+* [[strontium]]
+* [[barium]]
+* [[lead]]
+* [[title-22-mcl]]
+* [[geocon-consultants-inc]]
+* [[tp-h]]
+* [[california-primary-mcl]]

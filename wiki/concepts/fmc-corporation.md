@@ -1,49 +1,29 @@
 ---
 concept: fmc-corporation
-entity_type: concept
-aliases: ["FMC Corporation"]
-sources: ["wiki/sources/HearingSummaryReport_SR132 6.21.17 rdcd sz/HearingSummaryReport_SR132 6.21.17 rdcd sz.md", "wiki/sources/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313.md"]
+entity_type: responsible_party
+aliases: ["FMC", "FMC Corporation"]
+sources: ["wiki/sources/1- SR_132_FEIR_EA_ 20180302 FINAL Main Doc.md", "wiki/sources/2. SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size A-G.md", "wiki/sources/3- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size H-K.md", "wiki/sources/7453_S9525-06-44_Modesto_Stockpiles_July_2012_GW_Report-1112.md", "wiki/sources/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18.md", "wiki/sources/S1908-01-01 Caltrans Modesto Stockpile Interim RACR_12.22 (1)/S1908-01-01 Caltrans Modesto Stockpile Interim RACR_12.22 (1).md", "wiki/sources/SR_132_DEIR_EA.md"]
 confidence: high
-created_at: 2026-08-17T23:50:09Z
+created_at: 2026-08-18T17:34:02Z
 ---
 
-# FMC Corporation
+## FMC Corporation
 
-## Overview
+### Overview
 
-FMC Corporation, along with its predecessors Barium Products LTD. and Westvaco Chlorine Products Corporation, operated chemical processing facilities in Modesto, Stanislaus County, California, from the 1930s to the 1970s. These facilities processed barite and celestite ores and generated sodium sulfide as a by-product. FMC is identified as the industrial source responsible for contamination found in the [[caltrans-modesto-soil-stockpiles]].
+FMC Corporation, formerly Food Machinery and Chemical Corporation, operated a chemical processing facility from 1929 to approximately 1985 on property located less than 500 feet north of the Caltrans Modesto Soil Stockpiles site. This facility processed barium and strontium minerals, such as barite and celestite, to produce industrial chemicals. Liquid wastes from this operation were discharged to unlined ponds at the FMC facility from the 1950s to the 1970s. Soil excavated from around one of these former FMC ponds during the construction of SR-99 was used to create the stockpiles.
 
-## Site Record
+### Site Record
 
-From the 1950s to the 1970s, FMC discharged liquid residue, referred to as "tailings," to unlined evaporation ponds on its property. In 1961, the State of California acquired a 4.3-acre parcel of the FMC facility, including a portion of these ponds, for the construction of SR 99. During this construction, tailings and underlying soils from the FMC property, along with native soils, were used to form bridge abutments and embankment fills, creating three soil stockpiles totaling approximately [[160000-cubic-yards-of-fill]]. The FMC facility is located approximately 1,100 feet north of the stockpile site.
+The stockpiles were created in the early 1960s by importing soil from an FMC facility. This soil included pond tailings and underlying soils from the FMC property, along with native soils excavated south of the SR-99/Kansas Avenue interchange. The FMC facility processed barite (barium sulfate) and celestite (strontium sulfate). From the 1950s to the 1970s, liquid residue ("tailings") from FMC was discharged to unlined evaporation ponds.
 
-Aerial photographs document the FMC facility and the stockpiles. A June 1963 photograph shows the facility, "Former Disposal Pond" areas, and the active placement of Stockpiles 2 and 3. A 1967 aerial photograph shows the facility and stockpiles in their "essentially present-day configuration."
+### Regulatory Status
 
-The [[department-of-toxic-substances-control]] (DTSC) considers arsenic, [[barium]], and petroleum coke as materials with toxic properties among those used and produced at the FMC facility. PAHs, vanadium, and nickel are commonly found components of petroleum coke. Sulfate, nitrate, and sulfide were salts used and produced by FMC.
+The presence of contaminants associated with the former FMC facility in the soil stockpiles has been a focus of regulatory review. Initial site assessments identified barium as a contaminant of potential concern (COPC) in the stockpile soil at concentrations exceeding commercial/industrial [[california-chhsl]]s. Cadmium was also detected at concentrations exceeding the commercial/industrial CHHSL in Stockpiles #2 and #3 during a Preliminary Site Investigation in 2004. A Human Health Risk Assessment (HHRA) in 2007 identified metals, notably [[barium]], and polycyclic aromatic hydrocarbons (PAHs) as primary COPCs in the soil stockpiles.
 
-A February 14, 2013 memorandum from the DTSC Human and Ecological Risk Office (HERO) concluded that the investigation of the soil stockpiles "appears to include all the chemicals used at and produced by the FMC facility and considered toxic by the DTSC." This memorandum lists chemicals detected in the stockpiles that were "used at FMC," including arsenic, barium, nickel, vanadium, and cPAHs. [[barium]] is identified as the primary contaminant of concern, associated with [[barium-containing-soil]].
+### See also
 
-The hydrogeology of the FMC facility was characterized in GeoTrans, Inc.'s January 2005 *Addendum to Comprehensive Remedial Investigations Report*. This report described first-encountered groundwater at approximately 30 feet below ground surface under confined to semi-confined conditions, a deeper aquifer at 165 feet separated by a blue clay aquitard, and groundwater flow toward the southeast with a gradient of 0.002 ft/ft.
-
-## Regulatory Status
-
-The 2018 *Final Remedial Action Plan* identifies the FMC facility as the source of contamination requiring management. The DTSC-approved remedial alternative for the stockpiles is containment by incorporating them into the highway embankment fill for the [[sr-132]] West Freeway/Expressway Project, followed by covering with a structural pavement section and imported clean fill. A deed restriction will be recorded to prohibit the use of the property for residential, school, daycare, or hospital purposes.
-
-## Open Items
-
-No open items specific to FMC Corporation are documented in the project sources. The facility's hydrogeologic characterization and materials inventory from the 2005 GeoTrans addendum are treated as complete historical reference documents.
-
-## See Also
-
-* [[160000-cubic-yards-of-fill]]
 * [[barium]]
-* [[central-valley-rwqcb]]
-* [[department-of-toxic-substances-control]]
-* [[arsenic]]
-* [[barium-containing-soil]]
-* [[cadmium]]
-* [[cadmium-exceeds-residential-and-commercial-industrial-screening-levels]]
-* [[sr-132]]
-* [[stockpile-1]]
-* stockpile-2
-* stockpile-3
+* [[california-chhsl]]
+* [[caltrans]]
+* [[chromium]]

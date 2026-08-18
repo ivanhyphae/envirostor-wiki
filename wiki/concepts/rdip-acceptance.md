@@ -1,24 +1,29 @@
 ---
 concept: rdip-acceptance
-entity_type: concept
-aliases: ["RDIP acceptance"]
-sources: ["wiki/sources/S1908-01-01 Caltrans Modesto Stockpile Interim RACR_12.22 (1)/S1908-01-01 Caltrans Modesto Stockpile Interim RACR_12.22 (1).md"]
-confidence: low
-created_at: 2026-08-17T23:50:41Z
+entity_type: regulatory_decision
+aliases: ["Remedial Design Implementation Plan acceptance", "Remedial Design and Implementation Plan acceptance"]
+sources: ["wiki/sources/03-01-2012 SR 132 west Expressway Followup5_srb-RA.md", "wiki/sources/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19.md"]
+confidence: high
+created_at: 2026-08-18T17:33:49Z
 ---
 
-The term "Rdip Acceptance" is not explicitly defined or used within the provided source material. Therefore, its specific role, site record, regulatory status, or any open items related to this concept cannot be determined from the given text.
+The Remedial Design Implementation Plan (RDIP) for the Caltrans Modesto Soil Stockpiles project, specifically addressing the State Route 132 West Freeway/Expressway Project in Stanislaus County, California, outlines the strategy for remediation. The RDIP was developed by Geocon Consultants, Inc. and submitted to Caltrans.
+
+## Site Record
+
+The RDIP, titled "REMEDIAL DESIGN IMPLEMENTATION PLAN – INTERIM PHASE 1," was prepared for the Caltrans Modesto Soil Stockpiles, State Route 132 West Freeway/Expressway Project, Stanislaus County, California.
+
+## Regulatory Status
+
+The RDIP is a component of the overall remediation process, which involves regulatory oversight from agencies such as the Department of Toxic Substances Control (DTSC) and the Central Valley Regional Water Quality Control Board (Central Valley RWQCB). The project aims to address contamination, including barium, found in soil stockpiles.
 
 ## See also
-- [[annual-inspection-report]]
-- [[annual-o-and-m-inspection-report]]
-- [[arsenic]]
-- [[barium]]
-- [[barium-containing-soil-aerially-deposited-lead]]
-- [[basin-5]]
-- [[basin-5-clean-cap-borrow-area]]
-- [[basin-5-clean-fill-sampling-plan]]
-- [[lead]]
-- [[operations-and-maintenance-plan]]
-- [[rap-approval]]
-- [[aerially-deposited-lead]]
+
+*   [[caltrans]]
+*   [[dtsc]]
+*   [[barium]]
+*   [[central-valley-rwqcb]]
+*   [[conditional-approvals]]
+*   [[final-remedial-action-plan]]
+*   [[geocon-consultants-inc]]
+*   [[health-and-safety-plan]]

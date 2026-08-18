@@ -1,73 +1,42 @@
 ---
 concept: stockpile-3-excavation
-entity_type: concept
-aliases: ["Stockpile 3 excavation"]
-sources: ["08.30.2012 Caltrans Ramp5_srb RAdocx_srb 8_15_12_JS081612 RA4.md", "Stockpile 2 Confirmation Sampling Tech Memo Approval/Stockpile 2 Confirmation Sampling Tech Memo Approval.md", "wiki/sources/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo.md", "wiki/sources/S1908-01-01 Caltrans Modesto Stockpile Interim RACR_12.22 (1)/S1908-01-01 Caltrans Modesto Stockpile Interim RACR_12.22 (1).md"]
+entity_type: remedial_action
+aliases: ["Stockpile 3 BCS Removal Verification Testing", "Stockpile 3 excavation"]
+sources: ["wiki/sources/3.15.2018 - Caltrans Modesto SOF.md", "wiki/sources/Annual Stockpile Inspection Form/Annual Stockpile Inspection Form.md", "wiki/sources/Caltrans Ramp Letter dated 5-29-12.md", "wiki/sources/S1908-01-01 Caltrans Modesto Stockpile Interim RACR_12.22 (1)/S1908-01-01 Caltrans Modesto Stockpile Interim RACR_12.22 (1).md", "wiki/sources/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.md", "wiki/sources/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan.Revised_10.14/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan.Revised_10.14.md", "wiki/sources/SR 132 Stockpile 3 BCS Removal Tech Memo/SR 132 Stockpile 3 BCS Removal Tech Memo.md", "wiki/sources/Stockpile 3 Confirmation Sampling Tech Memo Approval/Stockpile 3 Confirmation Sampling Tech Memo Approval.md"]
 confidence: high
-created_at: 2026-08-17T23:46:53Z
----
-
-concept: stockpile-3-excavation
-entity_type: concept
-aliases: ["Stockpile 3 excavation"]
-sources: ["wiki/sources/Stockpile 2 Confirmation Sampling Tech Memo Approval/Stockpile 2 Confirmation Sampling Tech Memo Approval.md", "wiki/sources/7083_S9525-06-44 Modesto Soil Stockpiles Fenceline Workplan.0912/7083_S9525-06-44 Modesto Soil Stockpiles Fenceline Workplan.0912.md", "wiki/sources/S1908-01-01 Caltrans Modesto Stockpile Interim RACR_12.22 (1)/S1908-01-01 Caltrans Modesto Stockpile Interim RACR_12.22 (1).md", "wiki/sources/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo/E-mail Acceptance, Stockpile 2 Wall Footing Tech Memo.md"]
-confidence: high
-created_at: 2026-08-11T02:50:46Z
+created_at: 2026-08-18T17:33:37Z
 ---
 
 ## Overview
-The Stockpile 3 Excavation refers to the removal of barium-containing soil (BCS) from the northwestern portion of Stockpile No. 3, one of three fill embankments within [[caltrans]] right-of-way. This excavation was part of the Modesto Ramp Rehabilitation Project (State Route 99 Kansas Avenue Northbound Off-Ramp, Modesto, Stanislaus County, California). The material from Stockpile 3 was sourced, in part, from excavations in evaporation ponds containing elevated metals, including [[barium]].
+Stockpile 3 was a source of barium-containing soil (BCS) that was excavated and relocated as part of the State Route 132 (SR 132) project in Modesto, Stanislaus County, California. The excavation and removal of BCS from Stockpile 3 were conducted to support highway improvements and to manage the BCS in accordance with the Remedial Design Implementation Plan (RDIP).
 
 ## Site record
+Between February and March 2020, Stockpile 3 BCS was completely removed from the east side of SR 99. Approximately 3,075 truckloads, totaling approximately 27,675 yd³ of BCS material, were transported for placement as embankment fill within the designated Stockpile 1 BCS Containment Zone. Transport trucks were decontaminated and covered with tarps prior to leaving the Stockpile 3 Exclusion Zone.
 
-### Excavation scope and volumes
-An estimated total of 6,000 cubic yards of material was to be excavated for the widened roadbed, drainage, and retaining wall. Of this total, approximately 2,800 cubic yards were designated for excavation from the northwestern end of Stockpile No. 3. The remaining excavated material consisted of native soil outside the Stockpile 3 footprint.
+Twenty-nine verification soil samples (S3-1 through S3-26) were collected from 26 locations within the Stockpile 3 removal area. Samples S3 1-0 through S3 24-0 were collected from native soil at approximate elevations ranging between 82.5 and 84 feet above mean sea level (MSL). Sample S3 16-0 was collected from storm drain trench backfill material. Samples S3 SE Berm and S3 SW Berm were collected from the top of the berm at the southern end of the excavation adjacent to the Modesto Irrigation District (MID) water canal.
 
-The excavation of Stockpile 3 fill was scheduled to occur during daytime off-ramp closures over an estimated period of five working days. Excavated Stockpile 3 fill materials were designated for offsite transport and disposal as non-hazardous waste to the Fink Road Sanitary Landfill in Crows Landing, Stanislaus County, California. Native soil materials excavated from outside the Stockpile 3 footprint were deemed suitable for reuse as structural backfill or for offsite reuse/disposal as non-hazardous soil to an accepting facility.
+Initial analysis of these samples by Advanced Technology Laboratories (ATL) for barium and lead using EPA Test Method 6010B indicated elevated barium concentrations at three locations (S3 9-0 through S3 11-0), ranging from 2,200 to 7,000 mg/kg, which exceeded the verification threshold. These areas were subsequently deepened by approximately one foot and resampled.
 
-In a later phase of the project, Stockpile 3 BCS material was excavated and transported as embankment fill within the designated Stockpile 1 Containment Zone. This removal required excavation and transport of approximately 3,075 truckloads totaling approximately 27,675 yd<sup>3</sup> of BCS material. A preliminary estimate based on 12.5 cubic yards per truck indicated 38,440 cubic yards were transported.
+The final verification soil samples from the deepened areas contained barium concentrations ranging from 46 to 970 mg/kg and lead concentrations ranging from 1.6 to 40 mg/kg. These final concentrations were below the RDIP verification thresholds of 1,000 mg/kg for barium and 80 mg/kg for lead. Based on this data, the Stockpile 3 BCS removal area was deemed suitable for placement of clean embankment fill and other highway improvements without further BCS RDIP monitoring requirements.
 
-### Analytical results
-Site investigation data transmitted by Geocon on April 24, 2012, indicated that no soil samples in the Stockpile No. 3 excavation area contained total metal concentrations at or above the California hazardous waste Total Threshold Limit Concentration (TTLC). With the exception of arsenic, no metals were reported at concentrations at or above [[commercial-industrial-screening-level]]. Arsenic concentrations in samples ranged from less than 1.0 mg/kg to 3.2 mg/kg, which falls within the range of site-specific background levels.
+A Technical Memorandum dated March 13, 2020, prepared by Geocon Consultants, Inc., documented the Stockpile 3 BCS Removal Verification Testing. This memo was submitted to Caltrans and subsequently reviewed by the Department of Toxic Substances Control (DTSC).
 
-The 95% upper confidence limit concentrations for barium, strontium, and lead in the Stockpile No. 3 excavation area were below both residential and commercial-industrial screening levels. One soil sample had a barium concentration higher than 10 times the Soluble Threshold Limit Concentration (STLC), and five soil samples had lead concentrations at or higher than 10 times the STLC. However, the calculated 95% Upper Confidence Level for both barium and lead was well below 10 times the respective STLC. These samples underwent further analysis by Advanced Technology Laboratories for solubility levels using the Waste Extraction Test (WET). All WET results fell below the STLC, confirming the material was not classified as hazardous waste.
-
-Twenty-nine verification soil samples were collected from 26 locations (S3-1 through S3-26) within the BCS Stockpile 3 removal area. Verification soil samples S3 1-0 through S3 24-0 were collected from native soil exposed at the base of the BCS Stockpile 3 excavation at approximate elevations ranging between 82.5 and 84 feet above mean sea level (MSL).
-
-Following receipt of analytical data indicating elevated barium concentrations ranging from 2,200 to 7,000 mg/kg above the verification threshold for sample locations S3 9-0 through S3 11-0, these excavation areas were deepened approximately one foot and resampled. Each of the final verification soil samples contained barium and lead below the RDIP verification thresholds. Barium concentrations ranged from 46 to 970 mg/kg, and lead concentrations from 1.6 to 40 mg/kg.
-
-### Air monitoring design
-The Stockpile 3 Excavation Monitoring Plan established a Fence Line Action Level for total airborne dust of 4 mg/m³ above upwind background levels. This action level was calculated using the maximum total lead concentration of approximately 190 mg/kg reported in soil samples collected on April 16, 2012, and included a safety factor of 0.5.
-
-Perimeter air monitoring was to include one upwind (background) sampling location and two downwind (offsite) sampling locations. Air monitoring would be performed using MIE pDR-1200 real-time direct-reading particulate counters with PM-10 inlets and active sampling attachments using 37 mm filter cassettes with personal sampling pumps calibrated at 2.0 to 3.0 liters per minute. Pre-weighed 5-micron polyvinyl chloride filters were specified for analysis of inorganic lead and barium compounds, plus total mass (gravimetric).
-
-Analytical work was assigned to Bureau Veritas North America, Inc. Pre-weighed filters collected on the first day of monitoring were to be submitted for 24-hour turnaround analysis for inorganic lead and barium. If reported inorganic lead levels remained below the ARB-OEHHA unit risk for lead of 1.5 µg/m³ (0.0015 mg/m³) and the Fence Line Action Level of 4 mg/m³ was not exceeded, all subsequent filter samples would be held until excavation operations were complete, then submitted for routine 5–7 business day turnaround.
-
-### Oversight and documentation
-A Geocon California Professional Geologist or a field geologist/engineer under direct PG supervision was to oversee all Stockpile 3 excavation activities. The field representative would determine when planned construction excavation limits within Stockpile 3 fill had been completed and confirm when native soil conditions were reached. Daily field logs were required to document personnel on site, activities performed, air monitoring locations, visible dust observations, active soil excavation descriptions, quantities of materials excavated, and confirmation of excavation limits.
-
-### Completion reporting
-A draft Excavation Monitoring Report (Completion Report) was required approximately 30 days following the completion of Stockpile 3 excavation monitoring activities. Contents were to include observed site conditions, excavation and air monitoring results, findings and conclusions, site photographs, and stockpile disposal manifests. Finalization was contingent on [[caltrans]] comments.
+In a separate, earlier action related to the Kansas Avenue Ramp Project, approximately 2,800 yd³ of Stockpile 3 soil were excavated between September 7 and 26, 2012, and transported to the Forward Class II landfill facility in Manteca, California, under non-hazardous waste manifests. This earlier excavation was part of Caltrans' rehabilitation of the off-ramp to Kansas Avenue. During this period, air monitoring was conducted to assess dust control measures, and results indicated airborne levels of lead and barium were well below levels of concern.
 
 ## Regulatory status
+The RDIP established verification thresholds for Stockpile 3 excavation: 1,000 mg/kg for barium (for groundwater protection) and 80 mg/kg for lead (residential screening level).
 
-### Agency coordination
-[[caltrans]] and [[dtsc]], in cooperation with the [[central-valley-rwqcb]], entered into an Interagency Agreement to address the stockpiles. On August 24, 2012, Caltrans District 10 issued a clarification letter to [[dtsc]] and the [[central-valley-rwqcb]] stating that an Interim Remedial (Removal) Action Workplan was not needed for the ramp project based on additional investigation results.
-
-### Waste classification
-The material in Stockpile No. 3 was classified as non-hazardous waste. No total metal concentrations reached or exceeded TTLC. WET results for the samples triggering STLC screening criteria (one for barium, five for lead) fell below STLC thresholds, confirming the material was not a hazardous waste. Disposal was directed to Fink Road Sanitary Landfill in Crows Landing, Stanislaus County.
+On March 18, 2020, DTSC, through Dean Wright, Project Manager, Site Evaluation and Remediation Unit, provided acceptance of the March 13, 2020, Technical Memorandum. DTSC agreed that the Stockpile 3 BCS had been removed to meet cleanup levels and that the remaining soil met the RDIP verification thresholds, making the area suitable for clean embankment fill with no further BCS RDIP monitoring requirements.
 
 ## Open items
-The provided sources do not contain the final Excavation Monitoring Report (Completion Report) or confirm that excavation was completed as planned. The August 24, 2012 clarification letter postdates the monitoring plan; confirmation of completed excavation results is not documented in the provided material.
+None documented in the provided source material.
 
 ## See also
+- [[stockpile-3]]
 - [[barium]]
 - [[caltrans]]
-- [[central-valley-rwqcb]]
-- [[commercial-industrial-screening-level]]
-- [[department-of-toxic-substances-control]]
-- [[geocon-consultants]]
+- [[geocon-consultants-inc]]
+- [[dtsc]]
 - [[lead]]
-- [[lead-exceeds-residential-screening-levels]]
-- [[modesto-soil-stockpiles-project]]
-- [[stockpile-1]]
+- [[site-specific-background-levels]]
+- [[phase-1-bcs-consolidation]]

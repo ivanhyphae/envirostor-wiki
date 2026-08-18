@@ -4,37 +4,44 @@ entity_type: deliverable
 aliases: ["HASP"]
 sources: ["wiki/sources/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19.md"]
 confidence: high
-created_at: 2026-08-17T23:50:20Z
+created_at: 2026-08-18T17:35:45Z
 ---
 
 ## Health and Safety Plan
 
 ### Overview
-A Health and Safety Plan (HSP) was developed for the [[caltrans]] Modesto Soil Stockpiles project to address potential exposures to contaminants of potential concern (COPCs) and other site hazards for project personnel and nearby residents and businesses. The HSP outlines precautions to limit exposure, particularly to [[barium]] and [[lead]], which are present at elevated concentrations. It also covers general occupational safety concerns such as heat illness, heavy lifting, and equipment safety. The plan is intended for use by [[geocon-consultants]] personnel and its subcontractors, with the expectation that other site workers will follow their own organization's safety procedures.
+
+A Health and Safety Plan (HSP) was developed for the Caltrans Modesto Soil Stockpiles project to address potential exposures to contaminants of potential concern (COPCs) and other occupational hazards. The plan specifically addresses elevated concentrations of barium and lead found in the stockpiles. It outlines precautions for onsite workers and measures to protect nearby residents and businesses, primarily through dust control and air monitoring. The HSP also covers general workplace safety concerns such as heat illness, heavy lifting, and equipment safety.
 
 ### Site Record
-The HSP was prepared by [[geocon-consultants]] for the Caltrans Modesto Soil Stockpiles, State Route 132 West Freeway Project in Stanislaus County, California. The plan specifically addresses elevated concentrations of barium and lead, noting that while most COPCs are below residential health risk screening levels, barium and lead are present at higher concentrations.
 
-The HSP includes a summary of site information, project representatives, scope of work, hazard summary, and control summary. The scope of work includes highway construction grading monitoring, shallow soil sampling in excavations, and perimeter air monitoring. Hazards identified include mechanical risks (heavy equipment, traffic, slip/trip, struck-by injuries), occupational noise, biological hazards (bites or stings), thermal extremes (heat stress/strain), and chemical hazards (T22 (CAM 17) Metals - Barium and Inorganic Lead). Control measures include site control (isolation & PPE, traffic control, vests, hard hats, safety glasses), hearing protection, site inspection, awareness, repellent, appropriate dress, shaded rest breaks, fluids, and engineering controls/PPE such as wet methods, work practices, and protective gloves.
+The Health and Safety Plan (HSP) was prepared by Geocon Consultants, Inc. (Geocon) for the Caltrans Modesto Soil Stockpiles, State Route 132 West Freeway Project in Stanislaus County, California. The plan was approved by John E. Juhrend, PE, CEG, Geocon Project Manager, and Douglas S. Krause, CIH, with certification number 2123 CP expiring June 1, 2020.
 
-The HSP, found in Appendix F of the project documentation, serves as a guide for other site workers and covers general worker hazards unrelated to COPCs, such as heat illness, lifting heavy objects, slip/trip/fall hazards, and equipment safety. It also provides emergency contacts and routes to the nearest hospital.
+The HSP addresses COPCs, specifically noting that barium and lead are present at elevated concentrations, though generally less than residential health risk screening levels. It details control measures including wet methods, work practices, and personal protective equipment (PPE). Engineering controls and PPE are specified for chemical hazards, including barium and inorganic lead.
 
-Work at the site, including grading and other soil-related construction activities within the soil stockpiles, does not require OSHA 40-hour health and safety training or Class A-HAZ licenses. However, health and safety awareness training is provided through an initial site meeting and daily tailgate safety meetings.
+The scope of work covered by the HSP includes highway construction grading monitoring, shallow soil sampling in excavations, and perimeter air monitoring.
 
-The HSP is considered a "working document" and may be modified to address changing conditions or unrecognized exposure hazards. Regarding potential exposure to inorganic lead and compliance with T8 CCR §1532.1(e)(2)(E) Lead, the Plan expires six months from the date of Project CIH approval unless updated or amended.
+The HSP is a "working document" and may be modified if conditions change. It expires six months from the date of Project CIH approval unless updated or amended, specifically regarding compliance with T8 CCR §1532.1(e)(2)(E) Lead.
 
-The HSP was approved by John E. Juhrend, PE, CEG, [[geocon-consultants]] Project Manager.
+The HSP includes contact information for project representatives, Caltrans, and emergency services, as well as directions to the nearest hospital, Doctor's Medical Center.
 
 ### Regulatory Status
-The HSP is prepared in accordance with applicable State and Federal Occupational Health and Safety Standards, including 29 Code of Federal Regulations, Sections 1910 and 1926, and California Health and Safety Regulations in Title 8, California Code of Regulations. Guidance from the [[department-of-toxic-substances-control]] (DTSC) is also incorporated. Contractors and other site workers/visitors are expected to follow health and safety procedures specific to their work activities, in accordance with project specifications that address required contractor-prepared HSP and Lead Compliance Plans.
 
-### See also
-* [[barium]]
-* [[cadmium]]
-* [[caltrans]]
-* [[central-valley-rwqcb]]
-* [[chromium-vi]]
-* [[clean-fill-capping]]
-* [[clean-soil-cover]]
-* [[department-of-toxic-substances-control]]
-* [[geocon-consultants]]
+Work at the site is to be performed in accordance with applicable State and Federal Occupational Health and Safety Standards, including 29 Code of Federal Regulations, Sections 1910 and 1926, and Title 8 of the California Code of Regulations. Guidance from the Department of Toxic Substances Control (DTSC) is also to be followed.
+
+Grading and soil-related construction activities within the stockpiles are not required to be performed by OSHA 40-hour health and safety trained personnel or contractors with Class A-HAZ licenses. However, health and safety awareness training is provided through an initial site meeting and daily tailgate safety meetings.
+
+### Open Items
+
+The HSP is a working document and is subject to modification if conditions change or previously unrecognized exposure hazards are encountered. The plan expires six months from the date of Project CIH approval unless updated or amended.
+
+### See Also
+
+*   [[barium]]
+*   [[caltrans]]
+*   [[central-valley-rwqcb]]
+*   [[dtsc]]
+*   [[final-remedial-action-plan]]
+*   [[geocon-consultants-inc]]
+*   [[mse-wall-construction]]
+*   [[phase-1-bcs-consolidation]]
