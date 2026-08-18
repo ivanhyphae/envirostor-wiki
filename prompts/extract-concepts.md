@@ -42,6 +42,16 @@ Prefer a smaller number of substantial pages over a large number of thin ones. A
 - **Sentences.** A finding is not a concept. "Barium and lead sampling results below site-specific background concentrations" is a claim *about* barium, lead, and the background standard — record it as one of those pages' facts, or as a single recurring claim, never as its own long-named page.
 - **Anything read from OCR image captions.** Source text contains lines beginning "Image /page/..." describing photographs. A "silver sedan" in a site photo is not a contaminant. Never extract from these.
 
+## One page per document, one page per agency
+
+These three rules matter more than any other, because violating them is what makes the wiki unreadable.
+
+**A document is one concept, no matter how the record spells it.** Fold every spelling variant, acronym form, word-order variant, and version into a single concept and record the rest as aliases. "Remedial Action Plan", "RAP", "Remedial Action Plan (RAP)", "Rem Action Plan", a misspelled "Remdial Action Plan", the draft, and the final are **one** concept — `remedial-action-plan` — whose article describes the version history and dates. The same holds for the RDIP, the RACR, the O&M Plan, the Feasibility Study, and the SSI. Never emit a separate concept for a draft, an interim, a revised, or a final version of a document you have already named.
+
+**Do not create a concept for every approval.** The record is full of agency e-mails accepting individual technical memoranda. Those acceptances are facts belonging on the page of the document approved and on the agency's page — not pages of their own. Emit a `regulatory_decision` only for a formal, named decision that the record returns to repeatedly and that changed the project's status: approval of the RAP, acceptance of the RDIP, the land use covenant, the CEQA determination, a granted variance. A one-off "DTSC accepted the Stockpile 2 wall footing tech memo" is a sentence in the tech memo's article.
+
+**Never emit generic or umbrella concepts.** "DTSC approval", "conditional approvals", "variance approvals", "central valley RWQCB approval" are categories, not entities — everything they could say belongs on the agency page or on the specific decision. Likewise a job title is not a person: "DTSC Service Request Manager" and "Caltrans Service Request Manager" are roles, and the page belongs to the named individual holding the role, if anyone does.
+
 ## Fold rather than mint
 
 Check the existing-concepts list before emitting. If the corpus says the same thing in different words, add the wording as an **alias** of the existing concept instead of creating a second one:
