@@ -12,10 +12,10 @@ Scott Frenette is an individual associated with WSP, involved in the remediation
 ## Site Record
 
 On March 1, 2021, Scott Frenette communicated with Adan Corrales of [[bay-cities-paving-and-grading]] regarding material from Retaining Wall No. 1110 and material under the Carpenter Shoo-fly. Frenette stated that the material from Retaining Wall No. 1110 had already been approved for use as clean cap material. However, he noted that the remaining material under the Carpenter Shoo-fly would require testing and approval prior to its use as clean cap material. Frenette requested specific information from Corrales to facilitate the submission of a sample plan to the [[department-of-toxic-substances-control]] (DTSC) for approval. The requested information included:
-*   Depth of excavation {{quote: "Depth of excavation"}}
-*   Total fill volume {{quote: "Total fill volume"}}
-*   Verification of USA clearance or the need to mark USA/any known utility conflicts {{quote: "Verify USA cleared or need to mark USA/any known utility conflicts"}}
-*   The planned excavation date for the material by BCPG {{quote: "When BCPG plans on excavating the material"}}
+* Depth of excavation
+* Total fill volume
+* Verification of USA clearance or the need to mark USA/any known utility conflicts
+* The planned excavation date for the material by BCPG
 
 Frenette's email was sent on March 1, 2021, at 5:29 PM. His email address is [<Scott.Frenette@wsp.com](mailto:Scott.Frenette@wsp.com)>.
 

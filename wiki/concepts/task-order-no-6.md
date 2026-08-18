@@ -9,13 +9,13 @@ created_at: 2026-08-11T02:51:56Z
 
 ## Task Order No 6
 
-Task Order No 6 (TO6) was established under Caltrans Consultant Agreement 43A0260 with the Department of Toxic Substances Control (DTSC) {{quote: "43A0260 Caltrans/Department of Toxic Substances Control (DTSC); DTSC #08-T3616"}}. This Task Order, titled "Caltrans Modesto Soil Stockpiles - State Route 132/99" {{quote: "Task Order Title: Caltrans Modesto Soil Stockpiles - State Route 132/99"}}, was executed on June 22, 2012 {{quote: "Execution Date: June 22, 2012"}}, with a term extending through May 31, 2013 {{quote: "Term of Task Order: June 22, 2012 through May 31, 2013"}}. The total amount allocated for this Task Order was \$150,000.00 {{quote: "Total Task Order Amount: \$ 150,000.00"}}.
+Task Order No 6 (TO6) was established under Caltrans Consultant Agreement 43A0260 with the Department of Toxic Substances Control (DTSC). This Task Order, titled "Caltrans Modesto Soil Stockpiles - State Route 132/99", was executed on June 22, 2012, with a term extending through May 31, 2013. The total amount allocated for this Task Order was \$150,000.00.
 
-The purpose of TO6 was to incorporate all terms, conditions, duties, and obligations from State Agreement 43A0260 {{quote: "The execution of this Task Order shall incorporate by this reference all terms, conditions, duties and obligations attendant upon the parties as set forth in State Agreement 43A0260."}}. In cases of conflict between TO6 and Agreement 43A0260, TO6 prevails, except for administrative and financial matters, where Agreement 43A0260 takes precedence {{quote: "If any conflicts exist between that of Agreement 43A0260 and this Task Order, the Task Order will prevail except with respect to administrative and financial matters, in that case, Agreement 43A0260 will prevail."}}.
+The purpose of TO6 was to incorporate all terms, conditions, duties, and obligations from State Agreement 43A0260. In cases of conflict between TO6 and Agreement 43A0260, TO6 prevails, except for administrative and financial matters, where Agreement 43A0260 takes precedence.
 
 ### Site Record
 
-Task Order No 6 was associated with Caltrans District 10 {{quote: "District: 10"}}.
+Task Order No 6 was associated with Caltrans District 10.
 
 ### Regulatory Status
 

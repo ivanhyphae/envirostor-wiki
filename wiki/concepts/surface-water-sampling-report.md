@@ -11,16 +11,16 @@ The Surface Water Sampling Reports document the collection and analysis of surfa
 
 ## Site Record
 [[geocon-consultants]] performed surface water sampling activities at the Caltrans Modesto Soil Stockpiles on the following dates:
-*   December 11, 2015 {{quote: "The surface water sampling was performed on December 11, 2015"}}
-*   January 6, 2016 {{quote: "The surface water sampling was performed on January 6, 2016"}}
-*   March 5, 2016 {{quote: "The surface water sampling was performed on March 5, 2016"}}
+* December 11, 2015
+* January 6, 2016
+* March 5, 2016
 
-The sampling locations were at the Caltrans Modesto Soil Stockpiles, located southerly of the intersection of State Route (SR) 99 and Kansas Avenue in Stanislaus County, California. {{quote: "CALTRANS MODESTO SOIL STOCKPILES STANISLAUS COUNTY, CALIFORNIA"}} The scope of services included surface water sampling, analysis by a California-certified laboratory, and preparation of summary reports. {{quote: "The scope of services included surface water sampling, analysis of the water samples by a California-certified laboratory, and preparation of this summary report detailing the sampling activities."}}
+The sampling locations were at the Caltrans Modesto Soil Stockpiles, located southerly of the intersection of State Route (SR) 99 and Kansas Avenue in Stanislaus County, California. The scope of services included surface water sampling, analysis by a California-certified laboratory, and preparation of summary reports.
 
-A Surface Water Report dated December 17, 2020, was prepared by Stantec Consulting. {{quote: "Attached for your files is a PDF of the Caltrans Modesto Soil Stockpiles, Surface Water Report – December 17, 2020 prepared by Stantec Consulting."}} This report was reviewed by Kyle Cockerham of the [[central-valley-rwqcb]], who stated, "I don't have any comment on the Modesto Soil Stockpile Surface Water Sampling report." {{quote: "I don't have any comment on the Modesto Soil Stockpile Surface Water Sampling report."}} Dean Wright of the [[department-of-toxic-substances-control]] (DTSC) forwarded this report to Kyle Cockerham for review. {{quote: "Just forwarding the attached surface water report on the Modesto Soil Stockpiles project."}}
+A Surface Water Report dated December 17, 2020, was prepared by Stantec Consulting. This report was reviewed by Kyle Cockerham of the [[central-valley-rwqcb]], who stated, "I don't have any comment on the Modesto Soil Stockpile Surface Water Sampling report." Dean Wright of the [[department-of-toxic-substances-control]] (DTSC) forwarded this report to Kyle Cockerham for review.
 
 ## Regulatory Status
-The sampling activities were conducted in accordance with protocols approved by the [[department-of-toxic-substances-control]] (DTSC). {{quote: "in general accordance with protocols approved by the California Environmental Protection Agency, Department of Toxic Substances Control (DTSC)"}}
+The sampling activities were conducted in accordance with protocols approved by the [[department-of-toxic-substances-control]] (DTSC).
 
 ## Open Items
 No open items are documented in the provided source material.

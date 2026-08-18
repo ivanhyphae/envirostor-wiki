@@ -7,13 +7,6 @@ confidence: high
 created_at: 2026-08-17T23:51:06Z
 ---
 
-{{general-minerals}}
-entity_type: concept
-aliases: ["general minerals"]
-sources: ["wiki/sources/S9800-01-17A Modesto Stockpiles Jan 6 2016 Stormwater Smplng 0216/S9800-01-17A Modesto Stockpiles Jan 6 2016 Stormwater Smplng 0216.md", "wiki/sources/S9800-01-17A Modesto Stockpiles Mar 5 2016 Stormwater Samplng_04 16/S9800-01-17A Modesto Stockpiles Mar 5 2016 Stormwater Samplng_04 16.md"]
-confidence: high
-created_at: 2026-08-11T02:54:43Z
----
 
 ## Overview
 

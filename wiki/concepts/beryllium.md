@@ -10,13 +10,13 @@ created_at: 2026-08-17T23:45:59Z
 Beryllium was among the dissolved metals analyzed in surface water samples collected at the Caltrans Modesto Soil Stockpiles site.
 
 ### Site Record
-In surface water samples collected on October 28, 2016, beryllium was not reported at concentrations equal to or greater than its respective method detection limits (MDLs) for samples PL1 through PL5, BG1, and BG2. {{quote: "Beryllium, chromium, mercury, silver, thallium, and vanadium were not reported at concentrations equal to or greater than their respective method detection limits (MDLs) for samples PL1 through PL5."}} {{quote: "Arsenic, beryllium, cobalt, lead, mercury, selenium, thallium, and vanadium were not reported at concentrations equal to or greater than their respective MDLs for samples BG1 and BG2."}}
+In surface water samples collected on October 28, 2016, beryllium was not reported at concentrations equal to or greater than its respective method detection limits (MDLs) for samples PL1 through PL5, BG1, and BG2.
 
-In surface water samples collected on March 24, 2017, beryllium was not reported at concentrations equal to or greater than its respective method detection limits for samples PL1 through PL5. {{quote: "Beryllium, mercury, silver, and thallium were not reported at concentrations equal to or greater than their respective method detection limits for samples PL1 through PL5."}}
+In surface water samples collected on March 24, 2017, beryllium was not reported at concentrations equal to or greater than its respective method detection limits for samples PL1 through PL5.
 
-In surface water samples collected on January 8, 2018, beryllium was not detected in the samples at concentrations equal to or greater than its respective laboratory reporting limits. {{quote: "Beryllium, cadmium, mercury, selenium, silver, and thallium were not detected in the samples at concentrations equal to or greater than their respective laboratory reporting limits."}}
+In surface water samples collected on January 8, 2018, beryllium was not detected in the samples at concentrations equal to or greater than its respective laboratory reporting limits.
 
-In surface water samples collected on March 22, 2018, beryllium was not detected in the samples at concentrations equal to or greater than its respective laboratory reporting limits. {{quote: "Beryllium, cadmium, mercury, selenium, silver, and thallium were not detected in the samples at concentrations equal to or greater than their respective laboratory reporting limits."}}
+In surface water samples collected on March 22, 2018, beryllium was not detected in the samples at concentrations equal to or greater than its respective laboratory reporting limits.
 
 ### Regulatory Status
 No specific regulatory status or applicable thresholds for beryllium in surface water are mentioned in the provided source material.

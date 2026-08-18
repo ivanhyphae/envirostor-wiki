@@ -13,11 +13,11 @@ Barium is a dissolved metal that has been detected in groundwater at the Caltran
 
 ## Site record
 
-In May 2016, barium was reported in both groundwater samples analyzed. {{quote: "For the May 2016 groundwater samples, barium and strontium were reported for each of the two groundwater samples analyzed."}} The concentrations of barium and strontium detected during this sampling event were similar to historical levels. {{quote: "Barium and strontium were reported for the May 2016 groundwater samples at concentrations similar to historical levels and remained significantly less than their numeric water quality thresholds."}}
+In May 2016, barium was reported in both groundwater samples analyzed. The concentrations of barium and strontium detected during this sampling event were similar to historical levels.
 
 ## Regulatory status
 
-The California Department of Public Health Primary MCL for Drinking Water is the applicable regulatory standard for barium. {{quote: "(1) = California Department of Public Health Primary MCL for Drinking Water"}} The barium concentrations detected in May 2016 were significantly below this numeric water quality threshold. {{quote: "Barium and strontium were reported for the May 2016 groundwater samples at concentrations similar to historical levels and remained significantly less than their numeric water quality thresholds."}}
+The California Department of Public Health Primary MCL for Drinking Water is the applicable regulatory standard for barium. The barium concentrations detected in May 2016 were significantly below this numeric water quality threshold.
 
 ## See also
 

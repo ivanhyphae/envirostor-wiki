@@ -11,13 +11,13 @@ The [[clean-soil-cover]] is a component of the remediation strategy for [[barium
 
 ## Site record
 
-Following the excavation and removal of [[barium-containing-soil]] (BCS) from Stockpile 3, [[caltrans]] requested approval to place a minimum 12-inch [[clean-soil-cover]] on the surfaces of the BCS consolidation zones, including temporary slopes of Stockpiles 1 and 2. {{quote: "Awaiting your approval to begin the placement of the minimum 12‐inch clean soil cover and/or a minimum 4‐inch thick layer of aggregate base material (AB) on the surfaces of the BCS consolidation zones (including temporary slopes) of Stockpiles 1 and 2."}}
+Following the excavation and removal of [[barium-containing-soil]] (BCS) from Stockpile 3, [[caltrans]] requested approval to place a minimum 12-inch [[clean-soil-cover]] on the surfaces of the BCS consolidation zones, including temporary slopes of Stockpiles 1 and 2.
 
-The [[department-of-toxic-substances-control]] (DTSC) approved the removal of BCS from Stockpile 3 on March 18, 2020. {{quote: "The sampling results indicate that the Stockpile 3 BCS has been removed and that the remaining soil meets the RDIP verification thresholds. DTSC agrees that no further BCS RDIP monitoring requirements are necessary and this areas is now suitable for clean embankment fill. This e‐mail serves as DTSCs acceptance of the Memo."}} This approval allows for the placement of clean embankment fill, which would include the [[clean-soil-cover]].
+The [[department-of-toxic-substances-control]] (DTSC) approved the removal of BCS from Stockpile 3 on March 18, 2020. This approval allows for the placement of clean embankment fill, which would include the [[clean-soil-cover]].
 
 ## Regulatory status
 
-The placement of the [[clean-soil-cover]] is contingent upon the approval of [[bcs-removal-verification-testing]] by regulatory agencies, including the [[department-of-toxic-substances-control]] (DTSC) and the [[rwqcb]]. DTSC has indicated that upon acceptance of the verification testing memo for Stockpile 3, the area is {{quote: "now suitable for clean embankment fill."}}
+The placement of the [[clean-soil-cover]] is contingent upon the approval of [[bcs-removal-verification-testing]] by regulatory agencies, including the [[department-of-toxic-substances-control]] (DTSC) and the [[rwqcb]]. DTSC has indicated that upon acceptance of the verification testing memo for Stockpile 3, the area is
 
 ## See also
 

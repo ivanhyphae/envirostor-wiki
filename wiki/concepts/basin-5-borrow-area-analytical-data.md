@@ -15,7 +15,7 @@ The analytical data for the Basin 5 borrow area was summarized in a Revised Tech
 
 ## Regulatory status
 
-The DTSC and the Water Board reviewed the analytical data for the Basin 5 borrow area. On July 9, 2020, the DTSC issued acceptance of the Revised Technical Memorandum. The DTSC stated that the composite soil sample results are consistent with naturally occurring background concentrations and suitable as clean cover material for capping Stockpiles 1 and 2. {{quote: "The agencies agree that the composite soil sample results are consistent with naturally occurring background concentrations and suitable as clean cover material for capping Stockpiles 1 and 2. This e-mail serves as DTSCs acceptance of the Revised Memo."}}
+The DTSC and the Water Board reviewed the analytical data for the Basin 5 borrow area. On July 9, 2020, the DTSC issued acceptance of the Revised Technical Memorandum. The DTSC stated that the composite soil sample results are consistent with naturally occurring background concentrations and suitable as clean cover material for capping Stockpiles 1 and 2.
 
 ## See also
 * [[basin-5]]

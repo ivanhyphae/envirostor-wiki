@@ -13,7 +13,7 @@ The Caltrans Division of Environmental Analysis (DEA) was responsible for enviro
 
 DEA oversaw the investigation of soil stockpiles generated during construction on State Route 132. These stockpiles contained constituents of concern, including aerially deposited lead (ADL) from historical vehicle emissions. DEA managed the sampling program to determine lead concentrations in the stockpiled material. Analytical results from composite sampling were compared against regulatory thresholds to determine appropriate disposal classification. This characterization included evaluation of total lead concentrations and soluble threshold limit concentration (STLC) testing, as applicable under Title 22 of the California Code of Regulations. DEA also coordinated the preparation of technical documentation, such as the sampling and analysis plan, stockpile characterization report, and waste profile documentation for off-site disposal. The agency communicated analytical results and disposal recommendations to DTSC for concurrence on waste classification.
 
-The Caltrans Modesto Soil Stockpiles are located within state right-of-way south of Kansas Avenue, specifically between Carpenter Avenue and Emerald Avenue, between Emerald Avenue and SR 99, and east of SR 99. {{quote: "The three stockpiles total approximately 160,000 cubic yards of soil containing metals (primarily barium, lead, and strontium)."}} {{quote: "Caltrans proposes to cap the soil stockpiles as part of the SR 132 West Freeway/Expressway construction project."}}
+The Caltrans Modesto Soil Stockpiles are located within state right-of-way south of Kansas Avenue, specifically between Carpenter Avenue and Emerald Avenue, between Emerald Avenue and SR 99, and east of SR 99.
 
 ## Regulatory status
 

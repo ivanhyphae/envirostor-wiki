@@ -13,7 +13,7 @@ The pavement conditions at the Caltrans Modesto Soil Stockpiles site are documen
 
 ## Site Record
 
-The "Annual Stockpile Inspection Form" includes photographic evidence and descriptive notes regarding pavement conditions. For [[stockpile-1]], the condition of the paved surface looking east is described and pictured as a concrete highway surface adjacent to a metal guardrail. {{quote: "Pave surface conditions Stock Pile #1 (looking east)"}} Further documentation for [[stockpile-1]] shows the north lane, noting a paved shoulder that is protected by a metal guardrail. {{quote: "North lane Stockpile #1"}}
+The "Annual Stockpile Inspection Form" includes photographic evidence and descriptive notes regarding pavement conditions. For [[stockpile-1]], the condition of the paved surface looking east is described and pictured as a concrete highway surface adjacent to a metal guardrail. Further documentation for [[stockpile-1]] shows the north lane, noting a paved shoulder that is protected by a metal guardrail.
 
 ## See also
 

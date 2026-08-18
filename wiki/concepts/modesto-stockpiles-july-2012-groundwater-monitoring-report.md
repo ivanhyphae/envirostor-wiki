@@ -15,11 +15,11 @@ This document details the findings of groundwater monitoring conducted in July 2
 
 The July 2012 groundwater monitoring event included the sampling of several monitoring wells.
 
-*   **MW-1**: This well was sampled, and the report indicates results for various constituents. For example, barium was detected at a concentration of {{quote: "0.11 mg/L"}} {{quote: "in MW-1"}}.
-*   **MW-2**: This well was also sampled. The report notes barium at {{quote: "0.13 mg/L"}} {{quote: "in MW-2"}}.
-*   **MW-10**: This well was sampled, with barium detected at {{quote: "0.11 mg/L"}} {{quote: "in MW-10"}}.
+* **MW-1**: This well was sampled, and the report indicates results for various constituents. For example, barium was detected at a concentration of.
+* **MW-2**: This well was also sampled. The report notes barium at.
+* **MW-10**: This well was sampled, with barium detected at.
 
-The report also addresses lead concentrations. For instance, lead was detected in MW-1 at {{quote: "0.005 mg/L"}}.
+The report also addresses lead concentrations. For instance, lead was detected in MW-1 at.
 
 ## Regulatory Status
 

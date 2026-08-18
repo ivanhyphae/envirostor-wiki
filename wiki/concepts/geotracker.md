@@ -27,11 +27,11 @@ GeoTracker is the State Water Resources Control Board's electronic data manageme
 
 ## Site record
 
-The [[june-2014-groundwater-monitoring-report]] included laboratory-prepared electronic data files formatted for GeoTracker submittal. Geocon Consultants uploaded the electronic data to GeoTracker on June 17, 2014, under three confirmation numbers: 7793496310, 8765352368, and 2107780218.{{quote: "The electronic data was uploaded to GeoTracker on June 17, 2014. The confirmation numbers are 7793496310, 8765352368 and 2107780218."}} The database is accessible via the GeoTracker website at http://geotracker.waterboards.ca.gov.{{quote: "The GeoTracker database is accessible via the GeoTracker website at http://geotracker.waterboards.ca.gov."}}
+The [[june-2014-groundwater-monitoring-report]] included laboratory-prepared electronic data files formatted for GeoTracker submittal. Geocon Consultants uploaded the electronic data to GeoTracker on June 17, 2014, under three confirmation numbers: 7793496310, 8765352368, and 2107780218. The database is accessible via the GeoTracker website at http://geotracker.waterboards.ca.gov.
 
 ## Regulatory status
 
-Submittal of electronic data to GeoTracker is a standard regulatory requirement for groundwater monitoring performed under State Water Resources Control Board oversight. The June 2014 submittal represents completion of that requirement for the monitoring event documented in the June 2014 Groundwater Monitoring Report.{{quote: "Submittal of electronic data to GeoTracker is a standard regulatory requirement for groundwater monitoring performed under State Water Resources Control Board oversight."}}
+Submittal of electronic data to GeoTracker is a standard regulatory requirement for groundwater monitoring performed under State Water Resources Control Board oversight. The June 2014 submittal represents completion of that requirement for the monitoring event documented in the June 2014 Groundwater Monitoring Report.
 
 ## Open items
 

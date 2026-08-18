@@ -15,9 +15,9 @@ The SR 99 Kansas Avenue Northbound Off Ramp is a specific location within the [[
 ### Site Record
 Soil samples collected at the SR 99 Kansas Avenue Northbound Off Ramp on August 30, 2012, indicated the presence of contaminants at concentrations that exceeded screening levels.
 
-*   **Arsenic:** A soil sample from this location had an arsenic concentration of 15.5 mg/kg. {{quote: "SR 99 Kansas Ave NB Off Ramp 8/30/2012 15.5 15.5"}} This concentration exceeds the residential and commercial/industrial screening levels for arsenic. {{quote: "arsenic-exceeds-residential-and-commercial-industrial-screening-levels"}}
-*   **Barium:** A soil sample from this location on August 30, 2012, contained 480 mg/kg of barium. {{quote: "SR 99 Kansas Ave NB Off Ramp 8/30/2012 480 480"}} This concentration exceeds the residential and commercial/industrial screening levels for barium. {{quote: "barium-exceeds-residential-and-commercial-industrial-screening-levels"}}
-*   **Lead:** Soil samples collected at the SR 99 Kansas Avenue Northbound Off Ramp on August 30, 2012, showed lead concentrations of 11.1 mg/kg and 12.1 mg/kg. {{quote: "SR 99 Kansas Ave NB Off Ramp 8/30/2012 11.1 12.1"}}
+* **Arsenic:** A soil sample from this location had an arsenic concentration of 15.5 mg/kg. This concentration exceeds the residential and commercial/industrial screening levels for arsenic.
+* **Barium:** A soil sample from this location on August 30, 2012, contained 480 mg/kg of barium. This concentration exceeds the residential and commercial/industrial screening levels for barium.
+* **Lead:** Soil samples collected at the SR 99 Kansas Avenue Northbound Off Ramp on August 30, 2012, showed lead concentrations of 11.1 mg/kg and 12.1 mg/kg.
 
 ### Regulatory Status
 The concentrations of [[arsenic]] and [[barium]] identified at the SR 99 Kansas Avenue Northbound Off Ramp exceed the applicable residential and commercial/industrial screening levels. The [[modesto-ramp-rehabilitation-project]] is managed under the [[brownfields-and-environmental-restoration-program]], with oversight from the Department of Toxic Substances Control (DTSC).

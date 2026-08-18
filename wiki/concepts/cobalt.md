@@ -7,13 +7,6 @@ confidence: high
 created_at: 2026-08-17T23:46:07Z
 ---
 
-{{cobalt}}
-entity_type: contaminant
-aliases: []
-sources: ["wiki/sources/06A2542ct_to97_SurfaceWaterLetter_final.20230328/06A2542ct_to97_SurfaceWaterLetter_final.20230328.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17.md", "wiki/sources/S1200-01-01 Modesto Stockpiles March 2018 SW Sampling_04.18/S1200-01-01 Modesto Stockpiles March 2018 SW Sampling_04.18.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Oct 2016 SW Sampling_12.16/S1200-01-01 Modesto Stockpiles Oct 2016 SW Sampling_12.16.md"]
-confidence: high
-created_at: 2026-08-11T02:49:45Z
----
 
 ## Cobalt
 
@@ -29,7 +22,7 @@ In the March 22, 2018 surface water sampling event, cobalt was reported in sampl
 
 In the January 8, 2018 surface water sampling event, cobalt was reported in samples PL1 through PL4, BG1, and BG2. The concentrations were not specified in the report.
 
-Cobalt was not reported above the Method Detection Limits (MDLs) in the background and surface water samples collected on March 10, 2023. {{quote: "Antimony, beryllium, cadmium, cobalt, nickel, silver, and thallium were not reported above the MDLs in the background and surface water samples."}}
+Cobalt was not reported above the Method Detection Limits (MDLs) in the background and surface water samples collected on March 10, 2023.
 
 ### Regulatory Status
 

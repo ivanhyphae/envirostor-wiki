@@ -12,13 +12,10 @@ Paul Ruffin, P.E., served as the Department of Toxic Substances Control (DTSC) C
 ## Site record
 
 Paul Ruffin signed Task Order No. 6/ DTSC #08-T3616 on June 20, 2012, under Interagency Agreement No. 43A0260. At that time, his contact information was listed as:
-{{quote: "Paul Ruffin, P.E. DTSC Contract Manager Brownfields and Environmental Restoration Program Dept. of Toxic Substances Control 8800 Cal Center Drive Sacramento, CA 95826 (916) 255-6677 pruffin@dtsc.ca.gov"}}
 
 He also signed Task Order No. 4/ DTSC #12-T0106 on June 5, 2012, under Interagency Agreement No. 43A0310. The signature block for this document also lists his contact information as:
-{{quote: "Paul Ruffin, P.E. DTSC Contract Manager Brownfields and Environmental Restoration Program Dept. of Toxic Substances Control . 8800 Cal Center Drive Sacramento, CA 95826 (916) 255-6677 pruffin@dtsc.ca.gov"}}
 
 In both instances, he certified that the work described in the task orders was included in the required services.
-{{quote: "I certify that I have read the "Description of Services" for this Agreement and in my expert opinion: The work described in this Task Order is included in the required services."}}
 
 ## Regulatory status
 

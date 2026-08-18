@@ -11,43 +11,43 @@ Primary MCLs (Maximum Contaminant Levels) are regulatory thresholds established 
 
 ## Site record
 
-In the December 11, 2015, stormwater sampling report, dissolved metals were analyzed. The report states: {{quote: "Antimony, barium, calcium, chromium, cobalt, copper, manganese, magnesium, molybdenum, nickel, potassium, sodium, strontium, vanadium, and zinc were reported for samples PL1 through PL4. Arsenic was reported for sample PL3. Lead was reported for sample PL4. None of the reported concentrations exceed their respective primary Maximum Contaminant Levels (MCLs)."}} {{quote: "Manganese concentrations for samples PL2, PL3, and PL4 exceed the secondary (taste and odor and welfare based) MCLs."}} {{quote: "Beryllium, cadmium, mercury, selenium, silver, and thallium were not reported at concentrations equal to or greater than their respective practical quantitation limits (PQLs) for samples PL1 through PL4."}}
+In the December 11, 2015, stormwater sampling report, dissolved metals were analyzed. The report states:
 
 The January 6, 2016, surface water sampling report, prepared by [[geocon-consultants]] for [[caltrans]], also references the evaluation of analytical results against applicable standards. While this report details sampling activities and locations, it does not explicitly list specific Primary MCL values or compare analyte concentrations to them for the January 2016 event.
 
-In the June 2013 groundwater sampling event, DTSC identified [[barium]], lead, and [[strontium]] as primary chemicals of concern. For this sampling event, {{quote: "barium and strontium were reported for each of the ten groundwater samples. Lead was not reported at concentrations equal to or greater than the respective practical quantitation limit (PQL) in samples from each well."}} The ranges of barium and strontium concentrations reported for the June sampling event were: Barium: 0.025 to 0.11 mg/l; Strontium: 0.13 to 0.34 mg/l. {{quote: "Although concentrations of arsenic, barium, chromium, strontium and vanadium were reported for the samples collected from each well, none of the reported concentrations exceed their respective numeric water quality thresholds for drinking water."}}
+In the June 2013 groundwater sampling event, DTSC identified [[barium]], lead, and [[strontium]] as primary chemicals of concern. For this sampling event, The ranges of barium and strontium concentrations reported for the June sampling event were: Barium: 0.025 to 0.11 mg/l; Strontium: 0.13 to 0.34 mg/l.
 
-For the January 2013 groundwater samples, {{quote: "barium and strontium were reported for each of the ten groundwater samples. Lead was not reported at concentrations equal to or greater than the practical quantitation limits (PQL) of 1.0 micrograms per liter (µg/l) in each of the groundwater samples."}} {{quote: "Although concentrations of arsenic, barium, chromium, strontium and vanadium were reported for the samples collected from each well, none of the reported concentrations exceed their respective numeric water quality thresholds for drinking water."}}
+For the January 2013 groundwater samples,
 
-In the November 2012 groundwater samples, {{quote: "barium and strontium were reported for all ten groundwater samples. Lead was not reported at concentrations equal to or greater than the PQL of 1.0 µg/l in each of the groundwater samples."}} {{quote: "Although concentrations of arsenic, barium, chromium, strontium and vanadium were reported for the samples collected from each well, none of the reported concentrations exceed their respective numeric water quality thresholds for drinking water."}}
+In the November 2012 groundwater samples,
 
-For the May 2016 groundwater samples, {{quote: "barium and strontium were reported for each of the two groundwater samples analyzed. Lead was not reported at concentrations equal to or greater than the respective practical quantitation limit (PQL) in each of the two samples."}} {{quote: "None of the reported arsenic, chromium, molybdenum, nickel, and vanadium concentrations exceed their respective numeric water quality thresholds for drinking water."}}
+For the May 2016 groundwater samples,
 
-In the April 2015 groundwater samples, {{quote: "barium and strontium were reported for each of the four groundwater samples. Lead was not reported at concentrations equal to or greater than the respective practical quantitation limit (PQL) in each of the four samples."}} {{quote: "Although concentrations of barium, chromium, strontium and vanadium were reported for the samples collected from each well, none of the reported concentrations exceed their respective numeric water quality thresholds for drinking water."}}
+In the April 2015 groundwater samples,
 
-In the March 2012 groundwater samples, {{quote: "With the exception of manganese that was reported at greater than the secondary MCL of 50 micrograms per liter (µg/l) for the sample collected from MW-4, none of the reported dissolved metals concentrations for the groundwater samples collected in March 2012 exceeded their respective water quality threshold values."}}
+In the March 2012 groundwater samples,
 
-In the May 2012 groundwater samples, {{quote: "The DTSC has identified barium, lead and strontium as the primary chemicals of concern for the Site. For the May 2012 groundwater samples, barium and strontium were reported in all eight groundwater samples. Lead was not reported at concentrations above the PQL of 1.0 µg/l in any of the groundwater samples."}} {{quote: "Although concentrations of arsenic, barium, chromium, vanadium and strontium were reported for the samples collected from each well, none of the reported concentrations exceed their respective numeric water quality thresholds for drinking water."}}
+In the May 2012 groundwater samples,
 
-In the December 2023 stormwater sampling event, {{quote: "thallium, which exceeded the Primary MCL in storm water samples collected in December 2023."}}
+In the December 2023 stormwater sampling event,
 
 ## Regulatory status
 
 Primary MCLs are the drinking water standards set by the CDPH. In the December 11, 2015, stormwater sampling event, all reported dissolved metals concentrations were below their respective Primary MCLs.
 
-In the June 2013 groundwater sampling event, {{quote: "Although concentrations of arsenic, barium, chromium, strontium and vanadium were reported for the samples collected from each well, none of the reported concentrations exceed their respective numeric water quality thresholds for drinking water."}}
+In the June 2013 groundwater sampling event,
 
-In the January 2013 groundwater sampling event, {{quote: "Although concentrations of arsenic, barium, chromium, strontium and vanadium were reported for the samples collected from each well, none of the reported concentrations exceed their respective numeric water quality thresholds for drinking water."}}
+In the January 2013 groundwater sampling event,
 
-In the November 2012 groundwater sampling event, {{quote: "Although concentrations of arsenic, barium, chromium, strontium and vanadium were reported for the samples collected from each well, none of the reported concentrations exceed their respective numeric water quality thresholds for drinking water."}}
+In the November 2012 groundwater sampling event,
 
-In the May 2016 groundwater sampling event, {{quote: "None of the reported arsenic, chromium, molybdenum, nickel, and vanadium concentrations exceed their respective numeric water quality thresholds for drinking water."}}
+In the May 2016 groundwater sampling event,
 
-In the April 2015 groundwater sampling event, {{quote: "None of the reported dissolved metals concentrations for the groundwater samples collected in April 2015 exceeded their respective numeric water quality threshold values."}}
+In the April 2015 groundwater sampling event,
 
-In the March 2012 groundwater sampling event, {{quote: "With the exception of manganese that was reported at greater than the secondary MCL of 50 micrograms per liter (µg/l) for the sample collected from MW-4, none of the reported dissolved metals concentrations for the groundwater samples collected in March 2012 exceeded their respective water quality threshold values."}}
+In the March 2012 groundwater sampling event,
 
-In the May 2012 groundwater sampling event, {{quote: "Although concentrations of arsenic, barium, chromium, vanadium and strontium were reported for the samples collected from each well, none of the reported concentrations exceed their respective numeric water quality thresholds for drinking water."}}
+In the May 2012 groundwater sampling event,
 
 ## See also
 - [[arsenic]]

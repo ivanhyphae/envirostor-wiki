@@ -13,7 +13,7 @@ This concept addresses the project's objective to prevent exposure to contaminan
 
 ## Site Record
 
-The [[draft-final-remedial-action-plan]] for the [[caltrans-modesto-soil-stockpiles]] outlines strategies to manage approximately {{quote: "160,000 cubic yards of soil"}} generated from the remediation of the [[fmc-chemical-processing-facility]]. This soil is located at the SR 132 and Highway 99 interchange in Stanislaus County, California. The plan details measures to deter trespassers and to inform future construction workers about the nature of the soil and any necessary precautions. The [[containment-strategy]] is designed to isolate the soil and its constituents, such as [[barium]], from the surrounding environment and potential receptors.
+The [[draft-final-remedial-action-plan]] for the [[caltrans-modesto-soil-stockpiles]] outlines strategies to manage approximately generated from the remediation of the [[fmc-chemical-processing-facility]]. This soil is located at the SR 132 and Highway 99 interchange in Stanislaus County, California. The plan details measures to deter trespassers and to inform future construction workers about the nature of the soil and any necessary precautions. The [[containment-strategy]] is designed to isolate the soil and its constituents, such as [[barium]], from the surrounding environment and potential receptors.
 
 ## Regulatory Status
 

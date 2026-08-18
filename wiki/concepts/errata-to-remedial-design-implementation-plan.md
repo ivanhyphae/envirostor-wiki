@@ -32,7 +32,7 @@ Key entities and their roles as identified in the errata include:
 *   Communicating with and updating the Caltrans Environmental Manager and the DTSC and [[central-valley-rwqcb]] Project Managers.
 
 ## Regulatory Status
-The original RDIP was approved by the DTSC on April 3, 2019. The Errata to the RDIP was accepted by the DTSC on February 5, 2020. This acceptance was communicated via email by Dean Wright, P.G., Project Manager for the Site Evaluation and Remediation Unit at DTSC, to Juergen Vespermann of Caltrans and Perry Myers of DTSC. {{quote: "This e‐mail serves as DTSCs acceptance of the RDIP Errata sheet and transmittal letter."}}
+The original RDIP was approved by the DTSC on April 3, 2019. The Errata to the RDIP was accepted by the DTSC on February 5, 2020. This acceptance was communicated via email by Dean Wright, P.G., Project Manager for the Site Evaluation and Remediation Unit at DTSC, to Juergen Vespermann of Caltrans and Perry Myers of DTSC.
 
 ## Open Items
 None documented in the provided sources.

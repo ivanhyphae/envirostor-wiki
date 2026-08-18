@@ -7,42 +7,42 @@ confidence: high
 created_at: 2026-08-17T23:46:18Z
 ---
 
-{{quote: "MW-4"}} is a groundwater monitoring well at the Caltrans Modesto Soil Stockpiles site (SR 132, Stanislaus County, CA). It is part of the site's groundwater monitoring network, with samples collected quarterly.
+ is a groundwater monitoring well at the Caltrans Modesto Soil Stockpiles site (SR 132, Stanislaus County, CA). It is part of the site's groundwater monitoring network, with samples collected quarterly.
 
 ## Site record
 
 ### June 2014 sampling event
-In June 2014, {{quote: "MW-4"}} exhibited a calcium-dominant groundwater composition, as indicated by Stiff diagrams. This classification aligns it with wells [[mw-1]], [[mw-2]], [[mw-7]], [[mw-9]], and MW-10, which consistently display this characteristic. The groundwater from {{quote: "MW-4"}} is described as bicarbonate (HCO₃) dominant.
+In June 2014, exhibited a calcium-dominant groundwater composition, as indicated by Stiff diagrams. This classification aligns it with wells [[mw-1]], [[mw-2]], [[mw-7]], [[mw-9]], and MW-10, which consistently display this characteristic. The groundwater from is described as bicarbonate (HCO₃) dominant.
 
-Total dissolved solids (TDS) in {{quote: "MW-4"}} exceeded the secondary Maximum Contaminant Level (MCL) of 500 mg/l. The specific concentration for {{quote: "MW-4"}} was not separately tabulated but it was listed among wells exceeding this threshold.
+Total dissolved solids (TDS) in exceeded the secondary Maximum Contaminant Level (MCL) of 500 mg/l. The specific concentration for was not separately tabulated but it was listed among wells exceeding this threshold.
 
-Sulfide was detected in {{quote: "MW-4"}} groundwater during the June 2014 event. A laboratory report (Lab ID: 1401663-03) documented total sulfide as Not Detected (ND) with a reporting limit of 0.020 mg/l, analyzed on June 5, 2014.
+Sulfide was detected in groundwater during the June 2014 event. A laboratory report (Lab ID: 1401663-03) documented total sulfide as Not Detected (ND) with a reporting limit of 0.020 mg/l, analyzed on June 5, 2014.
 
-No dissolved metals concentrations in {{quote: "MW-4"}} exceeded their respective numeric water quality threshold values during the June 2014 sampling event. Barium and strontium concentrations were reported at levels similar to historical data and significantly below their numeric water quality thresholds.
+No dissolved metals concentrations in exceeded their respective numeric water quality threshold values during the June 2014 sampling event. Barium and strontium concentrations were reported at levels similar to historical data and significantly below their numeric water quality thresholds.
 
 ### September 2013 sampling event
-During the September 2013 groundwater monitoring event, {{quote: "MW-4"}} also showed a calcium-dominant composition, consistent with samples from wells [[mw-1]], [[mw-2]], [[mw-7]], and [[mw-9]]. Groundwater from {{quote: "MW-4"}} had been consistently reported as calcium-dominant from March 2012 through September 2013.
+During the September 2013 groundwater monitoring event, also showed a calcium-dominant composition, consistent with samples from wells [[mw-1]], [[mw-2]], [[mw-7]], and [[mw-9]]. Groundwater from had been consistently reported as calcium-dominant from March 2012 through September 2013.
 
-Nitrate as nitrogen was reported at a concentration equal to or exceeding the primary MCL of 10 mg/l. Total dissolved solids (TDS) also exceeded the secondary MCL of 500 mg/l. Specific numerical values for nitrate and TDS in {{quote: "MW-4"}} for this event were not separately tabulated, but the report indicated {{quote: "MW-4"}} was among the wells exceeding both thresholds.
+Nitrate as nitrogen was reported at a concentration equal to or exceeding the primary MCL of 10 mg/l. Total dissolved solids (TDS) also exceeded the secondary MCL of 500 mg/l. Specific numerical values for nitrate and TDS in for this event were not separately tabulated, but the report indicated was among the wells exceeding both thresholds.
 
-Sulfide was detected in {{quote: "MW-4"}} groundwater during this event. A laboratory report for Lab ID 1302692-03 documented total sulfide at 0.019 mg/l, reported on September 13, 2013.
+Sulfide was detected in groundwater during this event. A laboratory report for Lab ID 1302692-03 documented total sulfide at 0.019 mg/l, reported on September 13, 2013.
 
-No dissolved metals concentrations in {{quote: "MW-4"}} exceeded their respective numeric water quality threshold values. Lead was not reported at concentrations equal to or greater than the practical quantitation limit (PQL) of 1.0 µg/l.
+No dissolved metals concentrations in exceeded their respective numeric water quality threshold values. Lead was not reported at concentrations equal to or greater than the practical quantitation limit (PQL) of 1.0 µg/l.
 
 ## Groundwater chemistry classification
-Stiff diagrams for {{quote: "MW-4"}} consistently indicate bicarbonate (HCO₃) dominant water with a calcium-dominant cation composition. This ionic composition has shown minimal change since monitoring resumed in March 2012 through June 2014. This calcium-dominant classification places {{quote: "MW-4"}} with wells MW-1, MW-2, MW-7, MW-9, and MW-10, distinguishing it from the sodium-dominant wells (MW-3, [[mw-6]], MW-8, and [[mw-5]] during the 2013 event).
+Stiff diagrams for consistently indicate bicarbonate (HCO₃) dominant water with a calcium-dominant cation composition. This ionic composition has shown minimal change since monitoring resumed in March 2012 through June 2014. This calcium-dominant classification places with wells MW-1, MW-2, MW-7, MW-9, and MW-10, distinguishing it from the sodium-dominant wells (MW-3, [[mw-6]], MW-8, and [[mw-5]] during the 2013 event).
 
 ## Regulatory status
-For the June 2014 event, {{quote: "MW-4"}} groundwater exceeded one applicable standard:
+For the June 2014 event, groundwater exceeded one applicable standard:
 *   **TDS**: Exceeded the California Department of Public Health secondary MCL of 500 mg/l (taste and odor).
 
-For the September 2013 event, {{quote: "MW-4"}} groundwater exceeded two applicable standards:
+For the September 2013 event, groundwater exceeded two applicable standards:
 *   **Nitrate**: Exceeded the California primary MCL of 10 mg/l.
 *   **TDS**: Exceeded the California Department of Public Health secondary MCL of 500 mg/l (taste and odor).
 
-The report notes that [[mw-1]], the upgradient monitoring well, also reported nitrate (15 mg/l in June 2014) and TDS (590 mg/l in June 2014) exceedances, suggesting these may reflect natural background levels. It is not explicitly stated if this background interpretation applies to {{quote: "MW-4"}} in the provided text.
+The report notes that [[mw-1]], the upgradient monitoring well, also reported nitrate (15 mg/l in June 2014) and TDS (590 mg/l in June 2014) exceedances, suggesting these may reflect natural background levels. It is not explicitly stated if this background interpretation applies to in the provided text.
 
-No dissolved metals exceedances were identified for {{quote: "MW-4"}} in either the June 2014 or September 2013 sampling events.
+No dissolved metals exceedances were identified for in either the June 2014 or September 2013 sampling events.
 
 ## See also
 - [[mw-1]]
