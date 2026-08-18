@@ -1,45 +1,45 @@
 ---
 concept: basin-5
 entity_type: site
-aliases: ["Basin 5"]
-sources: ["wiki/sources/2- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size A-G.md", "wiki/sources/3- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size H-K.md", "wiki/sources/Approval E-mail_ SR 132 Basin 5 Clean Fill Sampling Plan/Approval E-mail_ SR 132 Basin 5 Clean Fill Sampling Plan.md", "wiki/sources/Approval E-mail_Revised Basin 5 Clean Fill Tech Memo/Approval E-mail_Revised Basin 5 Clean Fill Tech Memo.md", "wiki/sources/Basin 5 Clean Fill Sampling Plan/Basin 5 Clean Fill Sampling Plan.md", "wiki/sources/FW_ SR 132 Basin 5 Clean Fill Sampling Plan /FW_ SR 132 Basin 5 Clean Fill Sampling Plan .md", "wiki/sources/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18.md", "wiki/sources/S9525-06-44 Modesto Stockpiles SSI Report Rev-0313.md", "wiki/sources/SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020.md"]
+aliases: ["Basin 5", "Basin 5 clean cap borrow area"]
+sources: ["wiki/sources/Approval E-mail_ SR 132 Basin 5 Clean Fill Sampling Plan.md", "wiki/sources/Approval E-mail_Revised Basin 5 Clean Fill Tech Memo.md", "wiki/sources/Basin 5 Clean Fill Sampling Plan.md", "wiki/sources/FW_ SR 132 Basin 5 Clean Fill Sampling Plan /FW_ SR 132 Basin 5 Clean Fill Sampling Plan .md", "wiki/sources/S1200-01-01 Modesto Stockpiles Dec 2016 SW Sampling_01.17/S1200-01-01 Modesto Stockpiles Dec 2016 SW Sampling_01.17.md", "wiki/sources/S1200-01-01 Modesto Stockpiles March 2018 SW Sampling_04.18/S1200-01-01 Modesto Stockpiles March 2018 SW Sampling_04.18.md", "wiki/sources/SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020/SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020.md"]
 confidence: high
-created_at: 2026-08-18T18:00:31Z
+created_at: 2026-08-18T23:17:07Z
 ---
 
-Basin 5 is a proposed borrow area located adjacent to and east of Carpenter Road within the State Route 132 right-of-way in Modesto, California. It was designated as a source of clean cap borrow material for the consolidation of barium-containing soil (BCS) within Stockpiles 1 and 2.
+Basin 5 is a borrow area adjacent and easterly of Carpenter Road within the SR 132 right-of-way, mined for clean cap material to cover barium-containing soil (BCS) consolidated in Stockpiles 1 and 2. Geocon characterized the area in June 2020 under a sampling plan approved by DTSC, and the resulting data were used to certify the borrow soil as suitable cover fill — a determination the Removal Action Completion Report depends on.
 
-### Soil Characterization and Suitability for Clean Cover
+## Sampling plan and approval
 
-Soil characterization testing was conducted in Basin 5 on June 16, 2020, through the excavation of six exploratory trenches (BASIN5 1 through 6) on a grid pattern. Trenches were excavated to a maximum depth of 10 feet, and soil samples were collected at 0-2 ft, 2-5 ft, and 5-10 ft depth intervals. Field compositing resulted in two 3-part composite samples for each depth interval. These samples were analyzed for Title 22 metals and mercury, with samples from the 0-2 ft interval also analyzed for organochlorine pesticides (OCP).
+Geocon submitted the Basin 5 Clean Fill Sampling Plan to Caltrans on June 11, 2020, proposing a sampling frequency based on the area's proximity to a previously tested SR 132 roadway cut section east of Carpenter Road that had exposed non-impacted native formation; Geocon anticipated similar conditions at Basin 5. The submittal consisted only of a map with sample locations, and Caltrans's Richard Stewart forwarded it to DTSC (Dean Wright, Perry Myers) and the Central Valley Regional Water Quality Control Board (Steven Meeks) on June 11, 2020, noting that no separate technical memorandum with sampling methodology and background-metals tables had been included, on the assumption that the previously submitted Carpenter Road technical memo applied. Both the sampling plan and the resulting technical memorandum were approved by DTSC's Dean Wright.
 
-Native soil in the trenches was described as brown to tan, damp, clayey to fine sandy silt, with no observed field indicators of contamination. Reported concentration ranges for Title 22 metals, with site-specific background concentrations in parentheses, were:
+## Site description and field methodology
 
-*   **Arsenic:** <1.0 to 1.8 mg/kg (1.2 mg/kg)
-*   **Barium:** 66 to 94 mg/kg (72.8 mg/kg)
-*   **Chromium:** 8.5 to 11 mg/kg (8.6 mg/kg)<sup>1</sup>
-*   **Cobalt:** 3.3 to 3.8 mg/kg (4.4 mg/kg)
-*   **Copper:** 7.5 to 9.3 mg/kg (7.5 mg/kg)
-*   **Lead:** 5.8 to 11 mg/kg (2.0 mg/kg)
-*   **Nickel:** 6.2 to 7.9 mg/kg (5.3 mg/kg)
-*   **Vanadium:** 33 to 37 mg/kg (31.3 mg/kg)
-*   **Zinc:** 29 to 36 mg/kg (26.3 mg/kg)
+The borrow area is flat, previously agricultural land acquired by the State in the 1960s, approximately 750 feet long and 100 to 200 feet wide, excavated to about 10 feet deep. On June 16, 2020, six exploratory trenches (BASIN5-1 through 6) were dug on a grid pattern to a maximum depth of 10 feet by the highway contractor. Samples were collected at 0–2, 2–5, and 5–10 foot intervals and field-composited into two 3-part composites per depth interval, yielding six composite samples total. Each composite was analyzed for Title 22 metals (EPA 6010B, and 7471A for mercury); the two 0–2 foot composites were additionally analyzed for organochlorine pesticides (EPA 8081A). Native soil encountered was brown to tan, damp, clayey to fine sandy silt, with no staining, odors, or debris observed.
 
-Antimony, beryllium, cadmium, molybdenum, selenium, silver, thallium, mercury, and OCPs were not detected above laboratory reporting limits. The reported metal concentrations were determined to be consistent with naturally occurring background concentrations.
+## Analytical results
 
-<sup>1</sup> Based on 5-foot deep soil sample data.
+Reported Title 22 metals concentration ranges across the composite samples, compared with site-specific background concentrations from the 2007 Shaw background data summary:
 
-### Regulatory Approval for Clean Fill Use
+| Metal | Basin 5 range (mg/kg) | Background (mg/kg) |
+|---|---|---|
+| Arsenic | <1.0–1.8 | 1.2 |
+| Barium | 66–94 | 72.8 |
+| Chromium | 8.5–11 | 8.6 |
+| Cobalt | 3.3–3.8 | 4.4 |
+| Copper | 7.5–9.3 | 7.5 |
+| Lead | 5.8–11 | 2.0 |
+| Nickel | 6.2–7.9 | 5.3 |
+| Vanadium | 33–37 | 31.3 |
+| Zinc | 29–36 | 26.3 |
 
-On July 9, 2020, the Department of Toxic Substances Control (DTSC), through Dean Wright, approved the Revised Technical Memorandum for Basin 5, dated July 2, 2020. This approval confirmed that the composite soil sample results were consistent with naturally occurring background concentrations and therefore suitable for use as clean cover material for capping Stockpiles 1 and 2. The Water Board concurred with this determination. DTSC's approval addressed concerns regarding chromium concentrations by acknowledging the footnote in the revised memo, which explained that these values were consistent with background and not indicative of contamination impacts.
-
-The Basin 5 Clean Fill Sampling Plan, dated June 11, 2020, was previously approved by DTSC and the Water Board on June 12, 2020. This plan outlined the proposed sampling and analysis for the soil intended for capping the State Route 132 stockpiles, with sampling frequency based on its proximity to a previously tested roadway cut section east of Carpenter Road.
+Antimony, beryllium, cadmium, molybdenum, selenium, silver, thallium, and mercury were not detected above laboratory reporting limits in any composite, nor were organochlorine pesticides. Several metals (barium, chromium, copper, lead, nickel, vanadium, zinc) fell at or somewhat above the background reference values, while arsenic and cobalt fell at or below background. Geocon's technical memorandum, revised July 2, 2020, concluded that the reported concentrations are consistent with naturally occurring background levels and that the borrow area is suitable to generate clean cover fill for capping BCS Stockpiles 1 and 2. This conclusion — resting on comparison to the 2007 background dataset rather than a regulatory cleanup threshold — is the basis on which Basin 5 material was approved for use as cap material over barium-containing stockpile soil, and the memorandum states this information would be included in the Removal Action Completion Report following completion of stockpile capping.
 
 ## See also
 
-*   [[geocon-consultants-inc]]
-*   [[barium-containing-soil-consolidation]]
-*   [[caltrans]]
-*   [[carpenter-road-area]]
-*   [[clean-fill-suitable-as-cover]]
-*   [[clean-soil-cover]]
+- [[basin-5-clean-fill-sampling-plan]]
+- [[dtsc]]
+- [[caltrans]]
+- [[geocon-consultants-inc]]
+- [[barium]]
+- [[central-valley-rwqcb]]

@@ -1,28 +1,25 @@
 ---
 concept: borrow-area-sampling-plan
 entity_type: deliverable
-aliases: ["Borrow Area Sampling Plan"]
-sources: ["wiki/sources/2- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size A-G.md", "wiki/sources/Borrow Area Sampling Plan Approval E-Mail/Borrow Area Sampling Plan Approval E-Mail.md", "wiki/sources/Borrow Area Sampling Plan/Borrow Area Sampling Plan.md"]
-confidence: high
-created_at: 2026-08-18T18:00:41Z
+aliases: ["Borrow Area Sampling Plan", "Sampling and Analysis Plan (SAP)"]
+sources: ["wiki/sources/Borrow Area Sampling Plan Approval E-Mail.md", "wiki/sources/Borrow Area Sampling Plan.md"]
+confidence: medium
+created_at: 2026-08-18T23:16:50Z
 ---
 
-The Borrow Area Sampling Plan details the strategy for characterizing soil intended for use as clean fill at the SR 132 project site in Stanislaus County, California. Developed by Geocon Consultants Inc., the plan was submitted to the DTSC for approval to ensure the suitability of the soil, particularly for [[clean-soil-cover]].
+Geocon Consultants prepared a Borrow Area Sampling Plan proposing the sampling approach for the borrow areas associated with SR 132 in Stanislaus County, and DTSC approved the plan by e-mail. The plan and its approval establish the sampling methodology governing characterization of the borrow-area soils, and the approval is the recorded regulatory sign-off that the proposed approach was acceptable to DTSC.
 
-### Plan Development and Submission
+## Plan and approval
 
-Geocon Consultants Inc. prepared the Borrow Area Sampling Plan, proposing 12 borings, each 5 feet deep, within the designated clean import fill source area. The plan specified the analysis of six depth-discrete, 4-point composite samples. Three composite samples from the 0-2 foot interval were to be analyzed for organochlorine pesticides (OCPs) and heavy metals, while three composite samples from the 3-5 foot interval were to be analyzed for heavy metals.
+The Borrow Area Sampling Plan, authored by Geocon Consultants, sets out the sampling approach to be used for the borrow areas on the project. DTSC's approval was conveyed by e-mail rather than a formal letter or permit modification. The available material does not give the specific date of either the plan or the approval e-mail, nor does it describe sampling locations, analyte lists, sample counts, or any conditions attached to the approval.
 
-On February 4, 2020, [[caltrans]] Engineering Geologist Richard C. Stewart provided this sampling plan, along with Geotech logs of test borings for the Carpenter overcrossing, to DTSC representatives Dean Wright and Perry Myers. Geocon tentatively scheduled drilling for February 11, 2020, with a planned 48-hour analytical turnaround.
+## Significance
 
-### DTSC Approval and Modification
-
-On February 13, 2020, Dean Wright of the DTSC communicated approval of the sampling plan. The DTSC's approval included one modification: the request to composite 3 samples instead of the originally proposed 4.
+The approval is the recorded point at which DTSC accepted Geocon Consultants' proposed methodology for sampling the borrow areas, meaning subsequent borrow-area sampling results can be understood as having proceeded under an agency-sanctioned plan rather than an unreviewed one. The source material available does not report the sampling results themselves, so this article cannot state what the sampling found or whether any thresholds were exceeded in the borrow areas as a result of this plan.
 
 ## See also
 
-* [[borrow-area]]
-* [[caltrans]]
-* [[clean-soil-cover]]
-* [[dtsc]]
-* [[geocon-consultants]]
+- [[borrow-areas]]
+- [[geocon-consultants]]
+- [[dtsc]]
+- [[caltrans]]

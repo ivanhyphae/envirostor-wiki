@@ -1,51 +1,65 @@
 ---
 concept: human-health-risk-assessment
 entity_type: deliverable
-aliases: ["HHRA", "Human Health Risk Assessment", "human-health-risk-assessments"]
-sources: ["wiki/sources/04 04 2013 Final  SSI and HHRA 8.md", "wiki/sources/1- SR_132_FEIR_EA_ 20180302 FINAL Main Doc.md", "wiki/sources/2- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size A-G.md", "wiki/sources/3- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size H-K.md", "wiki/sources/5.18.2015 - Final Caltrans Cover Letter Revised Administrative Record Caltrans Modesto Soil Stockpiles.md", "wiki/sources/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18.md", "wiki/sources/S9525-06-44 HHRA UPDATE Rev-0313.md", "wiki/sources/S9800-01-17 Modesto Soil Stockpiles Final FS Report-0614.md", "wiki/sources/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan-Revised_10-14.md", "wiki/sources/SR_132_DEIR_EA_Append_G-J.md"]
+aliases: ["HHRA", "HHRA Update", "Human Health Risk Assessment", "Human Health Risk Assessment Update", "Human Health Risk Assessments"]
+sources: ["wiki/sources/04 04 2013 Final  SSI and HHRA 8.md", "wiki/sources/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18.md", "wiki/sources/S9525-06-44 HHRA UPDATE Rev.0313/S9525-06-44 HHRA UPDATE Rev.0313.md", "wiki/sources/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.md", "wiki/sources/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan.Revised_10.14/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan.Revised_10.14.md"]
 confidence: high
-created_at: 2026-08-18T18:01:31Z
+created_at: 2026-08-18T23:12:43Z
 ---
 
-The Human Health Risk Assessment (HHRA) is a critical deliverable for the Caltrans Modesto Soil Stockpiles case file, evaluating potential health risks from contaminants in the soil stockpiles and associated groundwater. Multiple iterations and reviews by agencies like the [[dtsc]] and [[central-valley-rwqcb]] have refined these assessments to determine acceptable risk levels for current and future land uses.
+# Human Health Risk Assessment
 
-## Site Investigations and HHRA Findings
+The Human Health Risk Assessment (HHRA) is the technical and regulatory anchor of the [[caltrans-modesto-soil-stockpiles]] case: a 2007 evaluation, prepared by Shaw Environmental for [[caltrans]], concluded that the three barium-impacted stockpiles did not pose an unacceptable cancer risk or non-cancer hazard to any evaluated receptor, and a 2013 update by [[geocon-consultants-inc]] — concurred in by [[dtsc]] — confirmed that conclusion using newer soil and groundwater data. Because no unacceptable risk was found, the site's cleanup goal was defined as performance-based rather than numerical: instead of a soil concentration that had to be achieved, the remedy needed only to maintain the conditions (fencing, vegetative cover, no grading) under which the HHRA's conclusions held. Every subsequent regulatory milestone in the RAP and FS — the choice of Alternative 4 (containment), the land use controls, the groundwater monitoring program — rests on this finding remaining valid.
 
-The initial HHRA, conducted by Shaw Environmental, Inc. in 2007, assessed three stockpiles (SP#1, SP#2, SP#3) and groundwater. It identified metals (notably [[barium]]) and polycyclic aromatic hydrocarbons (PAHs) as contaminants of potential concern (COPCs). Cadmium and strontium were excluded from COPC status due to concentrations below relevant screening levels. The 2007 HHRA concluded that COPCs in soil and groundwater did not pose unacceptable risks to offsite residents, trespassers, or construction workers.
+## The 2007 HHRA and its receptors
 
-A 2009 Final Preliminary Endangerment Assessment (PEA) by Shaw, prepared in response to [[dtsc]] comments, summarized these findings. The [[dtsc]] subsequently determined in a December 17, 2009 letter that the stockpiles, as managed by Caltrans, did not pose a human health risk to Caltrans workers, trespassers, or adjacent residents. Caltrans was directed to continue managing the stockpiles by limiting access, maintaining fencing, prohibiting excavation or removal, and preserving vegetative cover and the groundwater monitoring system.
+Shaw's 2007 HHRA (submitted May 14, 2007, under Contract No. 06A0752, Task Order 23) evaluated Stockpiles 1, 2, and 3 separately and collectively, for four receptor groups: a combined current offsite resident/trespasser, a future construction worker, a future offsite resident (during construction), and a hypothetical future shallow groundwater user. Cadmium was excluded as a COPC because 2006 SI data did not reproduce the elevated cadmium detections from the 2004 PSI; strontium was excluded because its maximum detected concentration (231 mg/kg in the 2004 PSI, later reported as 765 mg/kg in the HHRA Update background discussion) was more than two orders of magnitude below the USEPA residential RSL of 47,000 mg/kg, and no [[chhsl]] exists for strontium. Surface water was excluded as a pathway based on the limited March 2006 stormwater results and DTSC's conclusion that stormwater was not a chronic exposure issue.
 
-A 2012-2013 HHRA Update by Geocon Consultants, Inc. incorporated new soil and groundwater data. This update compared new exposure point concentrations (EPCs) with those from the 2007 HHRA.
+Results by stockpile and receptor:
 
-*   **Stockpile 1 Current Exposure:** Barium, copper, and lead showed slightly higher concentrations in 2012 surface soil compared to 2007 EPCs. Zinc exceeded background maximum detected concentration (MDC). Cadmium was detected below the residential [[california-chhsl]]. Strontium was detected. The 2007 HHRA risk and hazard calculations were deemed valid.
-*   **Stockpile 2 Current Exposure:** Barium, copper, and zinc showed higher concentrations in 2012 surface soil compared to 2007 EPCs. Cadmium was below the residential CHHSL. Strontium was detected. The 2007 HHRA risk and hazard calculations were deemed valid.
-*   **Stockpile 3 Current Exposure:** Barium and lead showed higher concentrations in 2012 surface soil compared to 2007 EPCs. Copper and zinc exceeded background MDCs. Cadmium was below the residential CHHSL. Strontium was detected. The 2007 HHRA risk and hazard calculations were deemed valid.
-*   **Stockpiles 1-3 Future Conditions (Construction Worker and Offsite Resident):** Barium, copper, and zinc showed higher concentrations in 2012 soil compared to 2007 EPCs. The 95% upper confidence limit (UCL) for 2012 barium data was significantly less than the 2007 EPC. Strontium was detected. The 2007 HHRA risk and hazard calculations for future conditions remained valid.
-*   **Onsite Shallow Groundwater:** Cobalt, copper, manganese, nickel, selenium, vanadium, and zinc showed slightly higher concentrations in 2012 groundwater samples compared to 2007 EPCs. Strontium was detected. The 2007 HHRA risk and hazard calculations for a hypothetical groundwater user remained valid.
+| Receptor/Stockpile | Cancer risk | Non-cancer HI | Notes |
+|---|---|---|---|
+| Resident/trespasser, Stockpile 1 | 8E-8 | 0.04 | Both below thresholds (1E-6; 1) |
+| Resident/trespasser, Stockpile 2 (arsenic included) | 1E-5 | 0.1 | Cancer risk exceeds 1E-6; driven by arsenic |
+| Resident/trespasser, Stockpile 2 (arsenic excluded) | 1E-7 | 0.1 | Arsenic risk (1.45E-5) nearly identical to background arsenic risk (1.15E-5); excluded from final estimate |
+| Resident/trespasser, Stockpile 3 | not calculated (no carcinogens) | 0.02 | — |
+| Construction worker, Stockpiles 1–3 | 9.2E-7 | 0.4 | — |
+| Future offsite resident, Stockpiles 1–3 | 6E-10 | 0.017 | — |
+| Hypothetical groundwater user, onsite shallow groundwater | none calculated (no carcinogens among COPCs) | 0.9 | Close to the HI threshold of 1 |
 
-## Regulatory Review and Concurrence
+The Stockpile 2 arsenic exclusion is the one place the 2007 HHRA departed from a straightforward MDC/UCL calculation: because the 95th percentile UCL of arsenic in Stockpile 2 surface soil (1.63 mg/kg) produced almost the same estimated cancer risk as background soil arsenic (1.15 mg/kg UCL), Shaw treated the Stockpile 2 arsenic contribution as attributable to background rather than to the stockpile, dropping the reported risk from 1E-5 to 1E-7. Lead was evaluated separately using DTSC's LeadSpread model rather than standard cancer/HI math; in all three stockpiles, modeled blood lead concentrations for adults and children remained below 10 µg/dL at the 95th and 99th percentiles.
 
-The [[dtsc]], in consultation with the [[central-valley-rwqcb]], reviewed the Supplemental Site Investigation (SSI) and HHRA Update reports. A Human and Ecological Risk Office (HERO) memorandum dated February 14, 2013, concluded that the soil stockpiles do not pose a cancer risk or non-cancer hazard as long as they remain in place and are properly managed. HERO agreed that risks and hazards remained virtually unchanged and insignificant, and that recent groundwater concentrations posed no cancer risk and a hazard index less than one. HERO noted that elevated concentrations at depths greater than one foot would require evaluation if grading or removal occurred.
+Caltrans' annual mowing worker was explicitly excluded from the HHRA as a receptor because the exposure (under a day per stockpile per year) was judged too short for the chronic-exposure risk assessment paradigm; the HHRA stated that mowing-related worker exposure would instead be addressed through the site Health and Safety Plan.
 
-On April 4, 2013, the [[dtsc]] issued a letter concurring with the findings of the SSI and HHRA Update reports.
+## DTSC's 2009 PEA response and management conditions
 
-## Remedial Action Objectives and Cleanup Goals
+DTSC did not immediately close the matter on the strength of the 2007 HHRA. In an August 2007 letter, DTSC requested additional toxicological and site information before making a final determination. Shaw responded with a Final Preliminary Endangerment Assessment and Response to Comments in 2009, incorporating the 2007 HHRA as Appendix A. DTSC's December 17, 2009 letter then found that the stockpiles, "as currently managed by Caltrans," posed no risk to Caltrans workers conducting mowing or fence repairs, trespassers, or adjacent residents — conditioned on Caltrans continuing to limit access to authorized personnel, inspect and maintain the perimeter fence, prohibit excavation/grading or soil removal/addition, maintain grade and vegetative cover, and maintain the groundwater monitoring system. This 2009 finding, not the 2007 HHRA alone, is what converted the risk assessment's technical conclusion into an enforceable management obligation.
 
-The Remedial Action Plan (RAP) process, including the [[feasibility-study]], aims to address COPCs and ensure protection of human health and water quality. The HHRA demonstrated that potential exposure to COPCs in surface soil does not pose an unacceptable risk or hazard under current and proposed future land use scenarios. The update to the HHRA supported these conclusions, with [[dtsc]] concurrence contingent on proper stockpile management and preventing exposure to deeper soil COPCs. The [[central-valley-rwqcb]] retains concern regarding the potential for stockpiles to impact groundwater quality.
+## The 2012–2013 HHRA Update
 
-Therefore, the Remedial Action Objectives (RAOs) for the Site are to protect the health of neighboring residents, onsite trespassers, and Caltrans-authorized personnel, and to prevent future impact to groundwater. Given that the HHRA demonstrated acceptable risk levels and the [[dtsc]] concurred with the HHRA update under proper management conditions, a numerical cleanup goal was not deemed necessary. The cleanup goal is performance-based, ensuring no route of exposure to COPCs in the stockpiles and reducing the potential threat to groundwater.
+A second Caltrans/DTSC interagency agreement in 2012 required additional characterization to close data gaps ahead of the SR-132 West Freeway/Expressway Project, executed as Geocon's September 2012 Supplemental Site Investigation (fenceline, perimeter, and cadmium borings). Geocon then updated the 2007 HHRA by comparing the original exposure-point concentrations (MDCs, or 95th percentile UCLs for the Stockpile 2 current exposure scenario) against the new 2012 soil data and groundwater data collected March 2012–March 2013.
 
-## Open Items
+| Scenario | 2007 HHRA EPC basis | 2012 comparison finding | 2007 risk/hazard result |
+|---|---|---|---|
+| Stockpile 1 current | Barium 130, copper 13, lead 12 mg/kg | Barium 240, copper 24, lead 17 mg/kg (higher, same order of magnitude) | 8E-8 / 0.04 — held valid |
+| Stockpile 2 current | Barium 1,100, copper 29, zinc 89 mg/kg (95th UCL) | Barium 4,300, copper 41, zinc 200 mg/kg | 1E-7 / 0.1 — held valid |
+| Stockpile 3 current | Barium 250, lead 12 mg/kg | Barium 1,600, lead 34 mg/kg | non-cancer HI 0.02 — held valid |
+| Stockpiles 1–3, construction worker/future resident | Barium 72,000 mg/kg (MDC) | Barium MDC 130,000 mg/kg; 95th UCL only 7,556 mg/kg | 9.2E-7 / 0.4 (worker); 6E-10 / 0.017 (resident) — held valid |
+| Hypothetical groundwater user | 2006 well data (MW-5, MW-6 maxima) | Cobalt, copper, manganese, nickel, selenium, vanadium, zinc modestly higher, mostly from upgradient well MW-10 | HI 0.9 — held valid |
 
-The [[dtsc]] noted that elevated concentrations of chemicals at depths greater than one foot below ground surface within the stockpiles would require evaluation if substantial grading or reworking of the stockpiles occurs, or if the stockpiles are removed. The [[central-valley-rwqcb]] continues to consider the potential for the stockpiles to impact groundwater from a water quality degradation standpoint.
+Although several individual metal MDCs rose between 2006 and 2012 — most notably barium at Stockpile 2 (1,100 to 4,300 mg/kg surface soil) and the site-wide barium MDC (72,000 to 130,000 mg/kg) — Geocon's update concluded these increases stayed within the same order of magnitude as the original EPCs and did not push any risk or hazard estimate past its threshold, so the 2007 conclusions were held valid rather than recalculated from scratch. Strontium, still not a COPC, was nonetheless tracked: MDCs of 61–270 mg/kg in 2012 soil samples and 1,400 µg/l in 2012 groundwater, all far below relevant screening benchmarks.
 
-## See Also
+DTSC's February 15, 2013 review letter forwarded a February 14, 2013 memorandum from the Human and Ecological Risk Office (HERO), which independently concluded that the stockpiles posed no cancer risk or non-cancer hazard "as long as the stockpiles remain in place and are properly managed," while flagging that the evaluation was based on surface soil only — elevated concentrations existed at depth, and any substantial grading, reworking, or removal of the stockpiles would require re-evaluating exposure to residents living near the stockpiles during soil-moving activities. HERO also directed that the HHRA Update's title be made consistent with the SSI report title and that the discussion of DTSC's 2009 finding be quoted in full rather than paraphrased. DTSC's April 4, 2013 letter then formally concurred with both the revised SSI (Geocon, March 1, 2013) and the HHRA Update.
 
-*   [[caltrans]]
-*   [[dtsc]]
-*   [[central-valley-rwqcb]]
-*   [[feasibility-study]]
-*   [[lead]]
-*   [[barium]]
-*   [[california-chhsl]]
-*   [[california-secondary-mcl]]
+## Effect on remedy selection and cleanup goals
+
+Because both the 2007 HHRA and the 2013 update found risks and hazards below regulatory thresholds under current conditions, the RAP and FS state that a numerical soil cleanup level was not necessary to protect human health. The Remedial Action Objectives were instead framed as protecting neighboring residents, trespassers, and Caltrans personnel and preventing future groundwater impacts "by managing the stockpiles either in-place or by removing them from the Site" — leaving the [[central-valley-rwqcb]]'s separate water-quality-degradation concern about the stockpiles as the residual driver for action beyond the HHRA's human-health findings alone. The FS's "No Action" alternative explicitly relied on the HHRA conclusions to argue that no action could be considered protective of human health, provided site access controls remained in place; the FS and RAP nonetheless selected Alternative 4 (containment beneath roadway pavement, retaining walls, and bridge abutments), consistent with DTSC's 2009 and 2013 conditioning of the no-unacceptable-risk finding on continued fencing, vegetative cover, and prohibition on grading.
+
+## See also
+
+- [[caltrans-modesto-soil-stockpiles]]
+- [[barium]]
+- [[chhsl]]
+- [[dtsc]]
+- [[geocon-consultants-inc]]
+- [[central-valley-rwqcb]]

@@ -1,25 +1,20 @@
 ---
 concept: fenceline-sampling
 entity_type: monitoring_location
-aliases: ["Fenceline Sampling"]
-sources: ["wiki/sources/2- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size A-G.md", "wiki/sources/3- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size H-K.md", "wiki/sources/7083_S9525-06-44 Modesto Soil Stockpiles Fenceline Workplan.0912/7083_S9525-06-44 Modesto Soil Stockpiles Fenceline Workplan.0912.md"]
-confidence: high
-created_at: 2026-08-18T18:01:17Z
+aliases: ["fenceline sampling", "perimeter ROW fenceline sampling"]
+sources: ["wiki/sources/7083_S9525-06-44 Modesto Soil Stockpiles Fenceline Workplan-0912.md"]
+confidence: low
+created_at: 2026-08-18T23:17:45Z
 ---
 
-Fenceline sampling is a monitoring activity conducted at the perimeter of the [[caltrans]] Modesto Soil Stockpiles site to assess potential offsite migration of contaminants. This sampling approach was detailed in a workplan prepared by [[geocon-consultants-inc]] for [[caltrans]].
+Fenceline sampling refers to the perimeter soil and/or air sampling proposed at the Modesto Soil Stockpiles site along SR 132 in Stanislaus County, developed to characterize conditions at the boundary of the stockpile area rather than within it. Geocon Consultants prepared the fenceline sampling approach as part of a supplemental site investigation workplan, dated September 2012, submitted for the site.
 
-## Fenceline Workplan
+The workplan document identified as "7083 S9525-06-44 Modesto Soil Stockpiles Fenceline Workplan-0912" sets out the proposed fenceline sampling program. It was prepared by Geocon Consultants for Caltrans in connection with the broader soil stockpiles investigation at the SR 132 site.
 
-The *Modesto Soil Stockpiles Fenceline Workplan*, dated September 12, 2007, was prepared by [[geocon-consultants-inc]] for [[caltrans]]. The workplan outlined the procedures for fenceline sampling to evaluate potential offsite migration of contaminants from the [[soil-stockpiles]]. This sampling was specifically intended to assess conditions in relation to the [[pl1]], [[pl2]], [[pl3]], and [[pl4]] areas.
+The available source material for this article consists of the workplan itself; it does not include the sampling results, laboratory data, or any subsequent regulatory correspondence confirming review, approval, or implementation of the proposed fenceline sampling. Consequently, this article cannot state what, if anything, the fenceline sampling found, whether any threshold was exceeded, or what action followed from it.
 
 ## See also
 
-* [[caltrans]]
-* [[dtsc]]
-* [[geocon-consultants-inc]]
-* [[soil-stockpiles]]
-* [[pl1]]
-* [[pl2]]
-* [[pl3]]
-* [[pl4]]
+- [[geocon-consultants]]
+- [[caltrans]]
+- [[supplemental-site-investigation-workplan]]

@@ -1,34 +1,47 @@
 ---
 concept: bg1
 entity_type: monitoring_location
-aliases: ["BG1"]
-sources: ["wiki/sources/06A2542ct_to16_SurfaceWaterLetter _final-20210323.md", "wiki/sources/06A2542ct_to97_SurfaceWaterLetter_final-20230309.md", "wiki/sources/06A2542ct_to97_SurfaceWaterLetter_final-20230328.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Dec 2016 SW Sampling_01.17/S1200-01-01 Modesto Stockpiles Dec 2016 SW Sampling_01.17.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18.md", "wiki/sources/S1200-01-01 Modesto Stockpiles March 2018 SW Sampling_04.18/S1200-01-01 Modesto Stockpiles March 2018 SW Sampling_04.18.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Oct 2016 SW Sampling_12.16/S1200-01-01 Modesto Stockpiles Oct 2016 SW Sampling_12.16.md", "wiki/sources/S9525-01-44C Modesto Stockpiles GW September 2013 1013.md", "wiki/sources/S9525-06-44A Caltrans Modesto Stockpiles GW 0213.md", "wiki/sources/S9525-06-44A Caltrans Modesto Stockpiles GW Nov2012 0213.md", "wiki/sources/S9525-06-44A May 2012 GW Report 1112.md", "wiki/sources/S9525-06-44AModesto Stockpiles GW  SEPT2012 1212.md", "wiki/sources/S9525-06-44AModesto Stockpiles GW. SEPT2012.1212.md", "wiki/sources/S9800-01-17 Caltrans Modesto Stockpiles Dec 2013 GW Mon 0114.md", "wiki/sources/S9800-01-17 Caltrans Modesto Stockpiles GW_06 15.md", "wiki/sources/S9800-01-17 Modesto Stockpiles Feb2014 GW Mon 0414.md", "wiki/sources/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814.md", "wiki/sources/S9800-01-17A Caltrans Modesto Stockpiles GW_06 16.md"]
+aliases: []
+sources: ["wiki/sources/06A2542ct_to16_SurfaceWaterLetter _final-20210323.md", "wiki/sources/06A2542ct_to97_SurfaceWaterLetter_final-20230309.md", "wiki/sources/06A2542ct_to97_SurfaceWaterLetter_final-20230328.md", "wiki/sources/DTSC Letter Response - 2025 GW Monitoring Report (900259)/DTSC Letter Response - 2025 GW Monitoring Report (900259).md", "wiki/sources/GND Water Monitoring Rpt March 2102/GND Water Monitoring Rpt March 2102.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Dec 2016 SW Sampling_01.17/S1200-01-01 Modesto Stockpiles Dec 2016 SW Sampling_01.17.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17.md", "wiki/sources/S1200-01-01 Modesto Stockpiles March 2018 SW Sampling_04.18/S1200-01-01 Modesto Stockpiles March 2018 SW Sampling_04.18.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Oct 2016 SW Sampling_12.16/S1200-01-01 Modesto Stockpiles Oct 2016 SW Sampling_12.16.md"]
 confidence: high
-created_at: 2026-08-18T18:00:38Z
+created_at: 2026-08-18T23:13:34Z
 ---
 
-Bg1 is a background surface water sampling location established for the Caltrans Modesto Soil Stockpiles project. It is situated near storm water inlets to provide baseline data for comparison with samples collected from runoff locations associated with the stockpiles.
+# Bg1
 
-### Surface Water Sampling Results
+Bg1 is one of two background surface water sampling locations (with [[bg2]]) established at the Caltrans Modesto Soil Stockpiles site to provide reference concentrations unaffected by the stockpiles, distinguishing ambient roadway/residential runoff quality from the five stockpile-adjacent points [[pl1]] through [[pl5]]. Bg1 sits at a storm drain inlet on Loletta Avenue, south of Stockpile 2, and was sampled repeatedly between April 2013 and January 2018 as part of Geocon Consultants, Inc.'s on-call surface water monitoring program. Its function in the record is comparative: results from Bg1 are used to show whether metals detected at the stockpile-adjacent locations are elevated relative to background urban runoff, or fall within the same range.
 
-Surface water samples were collected from Bg1 on multiple occasions between October 2016 and March 2018.
+## Sampling history
 
-*   **December 15, 2016:** Sample BG1 was collected from water flowing into a drop inlet south of Stockpile 2 on Loletta Avenue. Dissolved metals were analyzed. Manganese concentrations exceeded the secondary Maximum Containment Level (MCL) of 50 micrograms per liter (µg/l). Laboratory notes indicate dilution due to high concentrations of target analytes.
-*   **October 28, 2016:** Sample BG1 was collected from water flowing into a drop inlet south of Stockpile 2 on Loletta Avenue. Dissolved metals were analyzed. No reported concentrations exceeded their respective primary or secondary MCLs. Laboratory notes indicate dilution due to a failing internal standard and possible matrix interference.
-*   **March 24, 2017:** Insufficient water prevented sampling at BG1 and BG2.
-*   **January 8, 2018:** Sample BG1 was collected near a drop inlet south of Stockpile 2 on Loletta Avenue. Dissolved metals were analyzed. Laboratory notes indicate dilution for barium, calcium, potassium, and/or zinc due to high concentrations of target analytes. BG1 and BG2 were also diluted for sulfide due to possible matrix interference.
-*   **March 22, 2018:** Sample BG1 was collected near a drop inlet south of Stockpile 2 on Loletta Avenue. Insufficient water prevented sampling at BG2. Dissolved metals were analyzed. Lead was detected at 46 µg/l, exceeding its primary MCL for drinking water of 15 µg/l. Manganese was detected at concentrations ranging from 54 to 370 µg/l, exceeding its secondary MCL of 50 µg/l. Laboratory notes state samples were diluted for metals due to high concentrations of target analyte, failing internal standard, or high concentrations of non-target analyte. Samples BG1 were also diluted for sulfide due to possible matrix interference.
+Bg1 was not sampled at every event, because the location — a street drop inlet — was sometimes dry:
 
-### Regulatory Compliance
+| Date | Sampled? | Notes |
+|---|---|---|
+| Oct 28, 2016 | Yes | Collected from water flowing into drop inlet on Loletta Avenue |
+| Dec 15, 2016 | Yes | DO meter non-functional this event (site-wide) |
+| Mar 24, 2017 | No | Insufficient water at BG1 and BG2 |
+| Jan 8, 2018 | Yes | Sampled alongside BG2 |
+| Mar 22, 2018 | Yes | BG2 not sampled (insufficient water) |
 
-The project monitors for compliance with primary and secondary MCLs for drinking water. Manganese concentrations in BG1 have exceeded the secondary MCL of 50 µg/l on at least one occasion (December 15, 2016). Lead concentrations in BG1 exceeded the primary MCL of 15 µg/l on March 22, 2018.
+## Dissolved metals results
+
+Across the reported events, Bg1's dissolved metals profile was dominated by common minerals (calcium, sodium, magnesium, potassium, strontium) plus lower-level antimony, barium, chromium, copper, molybdenum, nickel, vanadium, and zinc — a profile the reports treat as consistent with typical urban/residential runoff rather than stockpile-derived contamination.
+
+Manganese is the recurring exception. In the October 2016 event, manganese was not reported as elevated at Bg1 or Bg2. In the December 2016 event, manganese at Bg1 exceeded the secondary MCL of 50 µg/l — the only background-location exceedance reported that round, and the report notes this was "with the exception of manganese in BG1" when otherwise characterizing Bg1/Bg2 results as within the same general range as prior sampling. In the March 2018 event, manganese was again detected above the secondary MCL at Bg1, in a range (54–370 µg/l) reported jointly with PL2 through PL4 rather than broken out by location.
+
+Cobalt and lead were also reported at Bg1 in the December 2016 event — the only background sample where either was detected that round — though without a stated MCL exceedance for lead at that location. Arsenic, beryllium, cadmium, mercury, selenium, silver, and thallium were consistently non-detect at Bg1 across the events where results are discussed.
+
+Because manganese's secondary MCL is welfare-based (taste and odor) rather than a health-protective primary standard, its recurrence at Bg1 is treated in the reports as consistent with background groundwater/urban runoff mineral content rather than as evidence of stockpile impact. No exceedance of a primary MCL is reported for Bg1 in the source material.
+
+## Role in the site's compliance narrative
+
+Bg1's principal significance is as a control: because concentrations at Bg1 (a location with no relationship to the stockpiles) tracked in the same general range as the stockpile-adjacent PL locations, the surface water reports repeatedly conclude that elevated readings at PL locations reflect general runoff quality rather than migration of stockpile contaminants off the Caltrans right-of-way. The sample locations, including Bg1, were approved by DTSC and the Central Valley Regional Water Quality Control Board. DTSC's January 2026 letter approving the FY24/25 Storm Water and Surface Water Monitoring Report states that results were all within reporting limits, consistent with the pattern shown at Bg1 in the earlier individual sampling reports.
 
 ## See also
 
-*   [[pl1]]
-*   [[pl2]]
-*   [[pl3]]
-*   [[pl4]]
-*   [[pl5]]
-*   [[bg2]]
-*   [[geocon-consultants]]
+- [[bg2]]
+- [[pl1]]
+- [[pl3]]
+- [[pl4]]
+- [[barium]]
+- [[geocon-consultants-inc]]

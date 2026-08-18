@@ -2,70 +2,64 @@
 concept: mw-7
 entity_type: monitoring_location
 aliases: ["MW-7"]
-sources: ["wiki/sources/11 29 2012 Caltrans GND Water Monitoring Rpts.md", "wiki/sources/7453_S9525-06-44_Modesto_Stockpiles_July_2012_GW_Report-1112.md", "wiki/sources/DTSC Letter Response - 2025 GW Monitoring Report (900259)/DTSC Letter Response - 2025 GW Monitoring Report (900259).md", "wiki/sources/GND Water Monitoring Rpt March 2102/GND Water Monitoring Rpt March 2102.md", "wiki/sources/S1200-01-01 Modesto Stockpiles GW April 2017_07.17/S1200-01-01 Modesto Stockpiles GW April 2017_07.17.md", "wiki/sources/S1200-01-01 Modesto Stockpiles GW April 2019_06.19/S1200-01-01 Modesto Stockpiles GW April 2019_06.19.md", "wiki/sources/S9525-01-44B Caltrans Modesto Stockpiles GW March 2013 0513/S9525-01-44B Caltrans Modesto Stockpiles GW March 2013 0513.md", "wiki/sources/S9525-01-44B Modesto Stockpiles GW June 2013.0613/S9525-01-44B Modesto Stockpiles GW June 2013.0613.md", "wiki/sources/S9525-01-44C Modesto Stockpiles GW September 2013 1013.md", "wiki/sources/S9525-06-44A Caltrans Modesto Stockpiles GW 0213.md", "wiki/sources/S9525-06-44A Caltrans Modesto Stockpiles GW Nov2012 0213.md", "wiki/sources/S9525-06-44A May 2012 GW Report 1112.md", "wiki/sources/S9525-06-44AModesto Stockpiles GW  SEPT2012 1212.md", "wiki/sources/S9525-06-44AModesto Stockpiles GW. SEPT2012.1212.md", "wiki/sources/S9800-01-17 Caltrans Modesto Stockpiles Dec 2013 GW Mon 0114.md", "wiki/sources/S9800-01-17 Caltrans Modesto Stockpiles GW_06 15.md", "wiki/sources/S9800-01-17 Modesto Stockpiles Feb2014 GW Mon 0414.md", "wiki/sources/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814.md", "wiki/sources/S9800-01-17A Caltrans Modesto Stockpiles GW_06 16.md", "wiki/sources/SR_132_DEIR_EA.md"]
-confidence: high
-created_at: 2026-08-18T18:01:54Z
+sources: ["wiki/sources/7453_S9525-06-44_Modesto_Stockpiles_July_2012_GW_Report-1112.md", "wiki/sources/DTSC Letter Response - 2025 GW Monitoring Report (900259)/DTSC Letter Response - 2025 GW Monitoring Report (900259).md", "wiki/sources/GND Water Monitoring Rpt March 2102/GND Water Monitoring Rpt March 2102.md", "wiki/sources/S1200-01-01 Modesto Stockpiles GW April 2017_07.17/S1200-01-01 Modesto Stockpiles GW April 2017_07.17.md", "wiki/sources/S1200-01-01 Modesto Stockpiles GW April 2019_06.19/S1200-01-01 Modesto Stockpiles GW April 2019_06.19.md", "wiki/sources/S9525-01-44B Caltrans Modesto Stockpiles GW March 2013 0513/S9525-01-44B Caltrans Modesto Stockpiles GW March 2013 0513.md", "wiki/sources/S9525-01-44B Modesto Stockpiles GW June 2013.0613/S9525-01-44B Modesto Stockpiles GW June 2013.0613.md", "wiki/sources/S9525-01-44C Modesto Stockpiles GW September 2013 1013/S9525-01-44C Modesto Stockpiles GW September 2013 1013.md", "wiki/sources/S9525-06-44 Modesto Stockpiles GW.0612/S9525-06-44 Modesto Stockpiles GW.0612.md", "wiki/sources/S9525-06-44A Caltrans Modesto Stockpiles GW 0213/S9525-06-44A Caltrans Modesto Stockpiles GW 0213.md", "wiki/sources/S9525-06-44A Caltrans Modesto Stockpiles GW Nov2012 0213/S9525-06-44A Caltrans Modesto Stockpiles GW Nov2012 0213.md", "wiki/sources/S9525-06-44A May 2012 GW Report 1112/S9525-06-44A May 2012 GW Report 1112.md", "wiki/sources/S9525-06-44AModesto Stockpiles GW  SEPT2012 1212/S9525-06-44AModesto Stockpiles GW  SEPT2012 1212.md", "wiki/sources/S9525-06-44AModesto Stockpiles GW. SEPT2012.1212/S9525-06-44AModesto Stockpiles GW. SEPT2012.1212.md", "wiki/sources/S9800-01-17 Caltrans Modesto Stockpiles Dec 2013 GW Mon 0114/S9800-01-17 Caltrans Modesto Stockpiles Dec 2013 GW Mon 0114.md", "wiki/sources/S9800-01-17 Caltrans Modesto Stockpiles GW_06.15/S9800-01-17 Caltrans Modesto Stockpiles GW_06.15.md", "wiki/sources/S9800-01-17 Modesto Stockpiles Feb2014 GW Mon 0414/S9800-01-17 Modesto Stockpiles Feb2014 GW Mon 0414.md", "wiki/sources/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814.md", "wiki/sources/S9800-01-17A Caltrans Modesto Stockpiles GW_06 16/S9800-01-17A Caltrans Modesto Stockpiles GW_06 16.md"]
+confidence: medium
+created_at: 2026-08-18T23:18:07Z
 ---
 
-MW-7 is a groundwater monitoring well at the Caltrans Modesto Soil Stockpiles site. It has been sampled and analyzed as part of ongoing groundwater monitoring efforts to assess potential impacts from the soil stockpiles.
+# Mw 7
 
-## Groundwater Monitoring Results
+MW-7 is one of the site's ten original groundwater monitoring wells and, together with [[mw-1]], has been the site's most consistently sampled and most reliably calcium-dominant well, with water in hand at nearly every monitoring event from March 2012 through at least April 2019. Its groundwater chemistry has repeatedly served as a stable, calcium-dominant benchmark against which the more variable sodium-dominant wells (MW-3, MW-6, MW-8) are contrasted, and it has never returned a dissolved-metals exceedance of a numeric water quality threshold; its only recurring flag has been manganese, intermittently above the secondary (taste-and-odor) threshold.
 
-Groundwater depth measurements at MW-7 have been recorded periodically. In October 2016, MW-7 was dry. In April 2017, the depth to groundwater was 40.73 feet below the top of the casing (TOC). By October 2018, the depth to groundwater had increased to 46.99 feet below TOC.
+## Water levels and well condition
 
-Stiff diagrams indicate that groundwater sampled from MW-7 has consistently exhibited a calcium-dominant composition from May 2012 through April 2019.
+MW-7 rarely went dry, unlike wells closer to or downgradient of the stockpiles. Depth to groundwater readings placed the well among the wells still holding sufficient water for sampling in October 2016 (38.77–47.10 feet below TOC, as part of the range for MW-1, MW-2, MW-5, MW-6, MW-7, MW-9, and MW-10), April 2017 (35.52–40.73 feet, among MW-1 through MW-4 and MW-7), May 2016 (41.94 feet, one of only two wells with water, alongside MW-1), October 2015 (44.12 feet, one of only three wells with water, alongside MW-1 and MW-2), April 2015 (41.26 feet, the deepest of four wells sampled that round), and October 2018 (within the 36.36–46.99 foot range reported for MW-1 through MW-7 and MW-9). By the mid-2010s, as MW-3, MW-5, MW-6, MW-8, MW-9, and MW-10 frequently went dry, MW-7 (with MW-1, MW-2, and MW-4) became one of the small set of wells Geocon could reliably sample.
 
-### Nitrate as Nitrogen
+## Geochemistry: consistently calcium-dominant
 
-Nitrate as nitrogen concentrations in MW-7 have been reported as follows:
+Stiff diagram analysis has classified MW-7 as calcium-dominant in every monitoring round for which it was sampled, from the October 2006 baseline through April 2019: 2006, March 2012, May 2012, September 2012, November 2012, January 2013, March 2013, June 2013, September 2013, December 2013, February 2014, June 2014, April 2015, May 2016, and April 2019. This places MW-7 alongside MW-1, MW-2, MW-4 (and, from most rounds, MW-9 and MW-10) as part of the calcium-dominant group, distinct from the sodium-dominant group (MW-3, MW-6, MW-8) that Geocon's reports associate with locations downgradient of the former FMC facility. Unlike MW-5 and MW-9, which each switched from calcium-dominant to sodium-dominant in later rounds (interpreted by Geocon as possible mixing of water types), MW-7's classification never changed across the monitored period.
 
-| Date       | Concentration (mg/L) | MCL (mg/L) | Exceedance |
-|------------|----------------------|------------|------------|
-| May 2012   | 12                   | 10         | Yes        |
-| March 2013 | 13                   | 10         | Yes        |
-| April 2015 | 7.0                  | 10         | No         |
-| May 2016   | 9.2                  | 10         | No         |
-| April 2019 | 24                   | 10         | Yes        |
+## Dissolved metals
 
-### Total Dissolved Solids (TDS)
+No dissolved metals concentration reported for MW-7 has exceeded its numeric water quality threshold. The March 2013 report specifically flags MW-7 (with MW-1) as an exception to an otherwise clean round: manganese was detected above threshold in the MW-1 and MW-7 samples, and lead was reported for MW-7 at 2.5 µg/l, below its water quality threshold. Manganese recurs in MW-7's data table at concentrations such as 78 µg/l (November 2012) and 79 µg/l (February 2014), alongside barium and strontium — the two metals present in essentially every sample from every well without threshold exceedance. Mercury results for the site generally, including early rounds, were treated as estimated and non-representative due to comparable concentrations in equipment blanks.
 
-Total Dissolved Solids (TDS) concentrations in MW-7 have been reported as follows:
+## General minerals and nitrate/TDS
 
-| Date       | Concentration (mg/L) | Secondary MCL (mg/L) | Exceedance |
-|------------|----------------------|----------------------|------------|
-| November 2012 | 340                  | 500                  | No         |
-| January 2013  | 460                  | 500                  | No         |
-| March 2013    | 500                  | 500                  | Yes        |
-| September 2013| 590                  | 500                  | Yes        |
-| April 2015    | 490                  | 500                  | No         |
-| May 2016      | 510                  | 500                  | Yes        |
+MW-7's nitrate and TDS results have stayed below or near, rather than persistently above, their respective MCLs, distinguishing it from the wells nearer the stockpiles or FMC-influenced flow paths:
 
-### Sulfide
+| Date | Nitrate as N (mg/l) | TDS (mg/l) |
+|---|---|---|
+| May 2012 | 2.5 | — |
+| Sep 2012 | — | — |
+| Nov 2012 | — | 340 (low end of site range) |
+| Mar 2013 | — | 290 (low end of site range) |
+| Apr 2015 | — | 490 |
+| Apr 2017 | within 2.6–24 range for MW-1–MW-4, MW-7 | within 230–550 range |
 
-Sulfide concentrations in MW-7 have been reported as:
+The primary MCL for nitrate as nitrogen is 10 mg/l and the secondary MCL for TDS is 500 mg/l. Across the reports that isolate MW-7's individual values, its nitrate readings (e.g., 2.5 mg/l in May 2012) have stayed well under the MCL, and its TDS readings (290–340 mg/l in the 2012–2013 rounds) stayed under the secondary MCL — in contrast to wells such as MW-5, MW-6, and MW-10, which repeatedly exceeded both. In the April 2017 round, three of the five sampled wells (MW-1 through MW-4 and MW-7) exceeded the nitrate MCL and three exceeded the TDS secondary MCL, but the reports do not isolate which three; MW-7's Stiff diagram that round showed a calcium-dominant profile with HCO3 near 6.0 meq/L, Ca near 3.6, Mg near 1.9, and Na+K near 1.5 meq/L, consistent with its historical pattern. Sulfide concentrations for MW-7 have been reported at 0.036 mg/l (April 2017 primary sample; May 2016) and were not detected above the PQL in December 2013 and February 2014.
 
-*   0.011 mg/l in September 2013
-*   0.015 mg/l in April 2015
-*   0.036 mg/l in May 2016
-*   0.18 mg/l in March 2013
-*   0.52 mg/l in January 2013
+## QA/QC: duplicate sampling as "MW-11"
 
-### Dissolved Metals
+MW-7 has twice served as the site's field duplicate location, sampled a second time and labeled as the non-existent well "MW-11" for quality control:
 
-Dissolved metals concentrations in MW-7 have generally not exceeded their respective numeric water quality threshold values. Manganese was detected in MW-7 at a concentration exceeding water quality thresholds in March 2013. Lead was reported in MW-7 at 2.5 µg/l in March 2013, which was less than the numeric water quality threshold.
+- **April 2017:** The MW-7 duplicate (MW-11) matched the primary sample for dissolved metals and most general minerals, but sulfide (0.036 mg/l primary vs. 0.26 mg/l duplicate, RPD 151%) and carbonate (8.3 mg/l primary vs. 17 mg/l duplicate, RPD 68%) exceeded the 25% RPD threshold, requiring both results to be qualified as estimated.
+- **May 2016:** The MW-7/MW-11 duplicate pair matched for dissolved metals and general minerals except sulfide (0.036 mg/l primary vs. 0.011 mg/l duplicate, RPD 106%), again requiring the sulfide result to be qualified as estimated.
 
-## Regulatory Status
+Sulfide is the one parameter that has failed duplicate QA/QC for MW-7 in both instances it was checked, meaning sulfide values reported for this well across the record should be treated with that caveat in mind.
 
-*   **Nitrate as nitrogen:** The primary MCL is 10 mg/l. Concentrations in MW-7 exceeded this threshold in May 2012 (12 mg/l), March 2013 (13 mg/l), and April 2019 (24 mg/l).
-*   **Total Dissolved Solids (TDS):** The secondary MCL is 500 mg/l. Concentrations in MW-7 exceeded this threshold in March 2013 (500 mg/l), September 2013 (590 mg/l), and May 2016 (510 mg/l).
+## Sample handling incident, March 2012
+
+During the March 12, 2012 sampling event — observed by DTSC's Randy Adams and the Central Valley Regional Water Quality Control Board's Roberto Cervantes, who collected split samples — the split sample (1-liter amber glass bottle) collected from MW-7 was broken during transport, and the associated analyses were cancelled at the client's request. This affected only the CVRWQCB's split/verification sample, not Geocon's primary sample from MW-7.
+
+## Well destruction
+
+MW-7 was not among the six wells decommissioned in 2019; per DTSC's January 30, 2026 letter, four wells (including MW-7, based on its continued sampling through 2019 while others went dry or were removed) remained in service and were addressed in a June 18, 2025 Well Destruction Report, which DTSC conditionally approved subject to one GSB comment being incorporated into the final version.
 
 ## See also
 
-*   [[mw-1]]
-*   [[mw-10]]
-*   [[mw-2]]
-*   [[mw-3]]
-*   [[mw-4]]
-*   [[mw-5]]
-*   [[mw-6]]
-*   [[mw-8]]
+- [[mw-1]]
+- [[mw-2]]
+- [[mw-4]]
+- [[mw-5]]
+- [[mw-9]]
+- [[mw-3]]

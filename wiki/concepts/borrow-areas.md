@@ -1,28 +1,34 @@
 ---
 concept: borrow-areas
 entity_type: site
-aliases: ["Borrow Area", "Borrow Areas", "borrow-area"]
-sources: ["wiki/sources/1- SR_132_FEIR_EA_ 20180302 FINAL Main Doc.md", "wiki/sources/2- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size A-G.md", "wiki/sources/3- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size H-K.md", "wiki/sources/Caltrans Modesto Soil Stcokpiles RDIP Variance/Caltrans Modesto Soil Stcokpiles RDIP Variance.md", "wiki/sources/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18.md", "wiki/sources/S9525-06-44 Modesto Stockpiles SSI Report Rev-0313.md", "wiki/sources/borrow-area-sampling-plan"]
-confidence: high
-created_at: 2026-08-18T18:00:42Z
+aliases: ["Borrow Area", "Borrow Areas", "Clean Cap Borrow Area"]
+sources: ["wiki/sources/Borrow Area Results Tech Memo Approval.md", "wiki/sources/Borrow Area Sampling Plan Approval E-Mail.md", "wiki/sources/Borrow Area Sampling Plan.md", "wiki/sources/Caltrans Modesto Soil Stcokpiles RDIP Variance/Caltrans Modesto Soil Stcokpiles RDIP Variance.md", "wiki/sources/Hwy 132 Clean Fill Source Testing Exhibit/Hwy 132 Clean Fill Source Testing Exhibit.md", "wiki/sources/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18.md"]
+confidence: medium
+created_at: 2026-08-18T23:17:08Z
 ---
 
-Borrow areas are the original sources of soil excavated for construction projects, and in the context of the Caltrans Modesto Soil Stockpiles, they are relevant as the origin of the stockpiled material that required remediation. The SR 132 West Project utilized soil from specific borrow areas for capping consolidated barium-containing soil (BCS) within Stockpiles 1 and 2.
+# Borrow Areas
 
-### Clean Fill Source Identification and Approval
+The Borrow Areas are the identified sources of clean fill soil used to cap consolidated barium-containing soil (BCS) on Stockpiles 1 and 2 during the SR 132 West Project. The [[remedial-action-plan]] required a minimum 12-inch clean fill cap over the consolidated stockpiles, and the Remedial Design Implementation Plan (RDIP) specified that the fill source would be sampled and pre-approved by [[dtsc]] before placement. Two candidate source areas were evaluated in sequence — one accepted, one rejected in part — establishing which excavated soils could be reused as cover and which could not.
 
-The Remedial Design Implementation Plan (RDIP) for the Caltrans Modesto Soil Stockpiles, dated January 30, 2019, outlines the process for identifying and approving sources of clean cover fill material. This material was intended to cap the consolidated barium-containing soil (BCS) within Stockpiles 1 and 2. The RDIP specified that the proposed source of clean imported fill soil would consist of vacant and agricultural land within planned excavation areas along the SR-132 Right-of-Way (ROW) between Carpenter Road and Rosemore Avenue. These specific clean fill source areas were to be sampled by [[geocon-consultants]] for laboratory analysis in general accordance with DTSC's *Information Advisory Clean Imported Fill Material* for pre-approval by the [[dtsc]] prior to placement.
+## RDIP requirement and initial source identification
 
-The highway contractor, Bay Cities Paving and Grading, initially identified an area adjacent and east of Carpenter Road within the SR 132 ROW as the clean fill material source. Geocon-consultants, in coordination with [[caltrans]] and [[dtsc]], evaluated this area and determined that the planned highway underpass excavation area adjacent and east of Carpenter Road would generate suitable soil material for use as clean cover fill. The [[dtsc]] subsequently approved this planned Carpenter Road clean fill source area.
+Section 4.7 of the RDIP (referenced in the April 9, 2020 Variance to Remedial Design Implementation Plan) required that the surface of the completed Stockpile 1 and 2 BCS and ADL consolidation zones, including east- and west-facing temporary slopes, be capped with a minimum 12-inch-thick layer of clean fill material or a minimum 4-inch layer of aggregate base pending pavement or additional embankment fill. The RDIP identified the proposed source as vacant and agricultural land within planned excavation areas along the SR-132 right-of-way between the Carpenter Road and Rosemore Avenue overcrossings, with the specific source areas to be defined by the highway construction contractor, sampled by [[geocon-consultants]], and analyzed in general accordance with DTSC's *Information Advisory Clean Imported Fill Material* (Appendix E) for pre-approval by DTSC prior to placement.
 
-An additional source of clean fill material was identified by the highway contractor at the proposed mechanically stabilized earth (MSE) wall footing excavations, approximately five feet deep, located along the southern boundaries of [[stockpile-1]] and [[stockpile-2]]. Geocon-consultants evaluated the MSE wall footing material along the southern boundary of [[stockpile-1]] following excavation of the southern slope BCS material. In coordination with [[caltrans]] and [[dtsc]], it was determined that the upper foot of planned wall footing excavation soil contained elevated barium concentrations, rendering it unsuitable for use as clean cover fill.
+## Carpenter Road source
 
-### See also
-* [[barium-containing-soil-consolidation]]
-* [[caltrans]]
-* [[dtsc]]
-* [[fmc-corporation]]
-* [[geocon-consultants]]
-* [[stockpile-1]]
-* [[stockpile-2]]
-* [[supplemental-site-investigation]]
+The highway contractor, Bay Cities Paving and Grading, identified an area adjacent to and east of Carpenter Road within the SR 132 right-of-way as the intended clean fill source. The Hwy 132 Clean Fill Source Testing Exhibit documents the sampling design for this area: the proposed cut was up to 5 feet deep, with 12 borings to 5 feet combined into three 4-point composites, tested for pesticides and metals in the 0–2 foot interval and metals in the 2–5 foot interval. Geocon evaluated the area and, in a February 27, 2020 technical memorandum, determined that the planned highway underpass excavation adjacent to and east of Carpenter Road would generate soil material suitable for use as clean cover fill. DTSC subsequently approved the Carpenter Road source area. This is the only source area confirmed in the record as DTSC-approved for use as cap material on Stockpiles 1 and 2.
+
+## MSE wall footing source (partial rejection)
+
+A second candidate source was identified by the contractor at the proposed mechanically stabilized earth (MSE) wall footing excavations, approximately five feet deep, along the southern boundaries of Stockpiles 1 and 2. Geocon evaluated the MSE wall footing material along the southern boundary of Stockpile 1 following excavation of the southern slope BCS material, documented in an April 6, 2020 technical memorandum. In coordination with Caltrans and DTSC, it was determined that the upper foot of the planned wall footing excavation soil contained elevated [[barium]] concentrations that would not be suitable for use as clean cap material. Unlike the Carpenter Road area, this source was not approved in full — only the material below the upper foot was implicated as excluded, based on the elevated barium found there. The record does not describe how the remaining footing excavation material below that upper foot was ultimately handled or whether any portion of it was used as cover fill.
+
+## See also
+
+- [[carpenter-road-area]]
+- [[borrow-area-sampling-plan]]
+- [[clean-soil-cover]]
+- [[stockpile-1]]
+- [[barium]]
+- [[dtsc]]
+- [[geocon-consultants]]

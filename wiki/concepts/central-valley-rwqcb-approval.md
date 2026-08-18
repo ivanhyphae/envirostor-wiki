@@ -1,22 +1,26 @@
 ---
 concept: central-valley-rwqcb-approval
 entity_type: regulatory_decision
-aliases: ["Central Valley RWQCB Approval", "central-valley-rwqcb"]
-sources: ["wiki/sources/2- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size A-G.md", "wiki/sources/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19.md", "wiki/sources/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18.md", "wiki/sources/S2350-01-02 Stormwater SAP_12.23/S2350-01-02 Stormwater SAP_12.23.md", "wiki/sources/S2350-01-02 Well Destruction Report_6.25/S2350-01-02 Well Destruction Report_6.25.md", "wiki/sources/S2350-01-02_2.1.2024 Stormwater Sampling Report_5.24/S2350-01-02_2.1.2024 Stormwater Sampling Report_5.24.md", "wiki/sources/S2350-01-02_2.4.2025 Stormwater Sampling Report_6.25/S2350-01-02_2.4.2025 Stormwater Sampling Report_6.25.md"]
+aliases: ["CVRWQCB approval", "Central Valley RWQCB approval", "Central Valley Regional Water Quality Control Board approval"]
+sources: ["wiki/sources/S9525-06-44 HHRA UPDATE Rev.0313/S9525-06-44 HHRA UPDATE Rev.0313.md", "wiki/sources/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313/S9525-06-44 Modesto Stockpiles SSI Report Rev.0313.md", "wiki/sources/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.md", "wiki/sources/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan.Revised_10.14/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan.Revised_10.14.md"]
 confidence: high
-created_at: 2026-08-18T18:00:56Z
+created_at: 2026-08-18T23:21:44Z
 ---
 
-The Central Valley Regional Water Quality Control Board (CVRWQCB) is a regulatory agency whose approvals are required for the remediation of the [[caltrans-modesto-soil-stockpiles]]. Its approval signifies agreement with proposed plans and actions related to the management and monitoring of the encapsulated stockpiles.
+Central Valley RWQCB approval refers to the concurrence of the Central Valley Regional Water Quality Control Board, alongside [[dtsc]], in the selection and implementation of the remedy for the [[caltrans-modesto-soil-stockpiles]] site. The Draft Final Remedial Action Plan identifies Alternative 4 – Containment as the recommended remedy and states that construction details will follow "DTSC/CVRWQCB approval of the Final RAP" in a Remedial Design Implementation Plan (RDIP). This makes CVRWQCB concurrence a named precondition for moving from the RAP stage into remedial design, jointly with DTSC rather than as an independent sign-off.
 
-The CVRWQCB, along with the Department of Toxic Substances Control (DTSC), approved the destruction of four groundwater monitoring wells (MW4, MW6, MW9, and MW10) in correspondence dated May 3, 2024. This approval was based on the determination that the encapsulated soil is not impacting groundwater and that further monitoring from these wells would not provide useful data.
+## Role in the remedy decision
 
-The CVRWQCB's approval of the sampling protocols is also noted. The *Storm Water Sampling and Analysis Plan (SAP)*, prepared by [[geocon-consultants-inc]] and dated December 13, 2023, was developed in accordance with protocols approved by the DTSC and the CVRWQCB. Storm water sampling activities conducted on February 1, 2024, and February 4, 2025, were performed in general accordance with these approved protocols.
+The recommended remedy — containment of Stockpiles 1, 2, and 3 beneath the SR-132/SR-99 interchange roadways, retaining walls, and bridge abutments, built out in an interim progress phase (through 2018) and an ultimate build-out phase (through 2028) — was developed as the Draft Final RAP's selected alternative following the Final FS Report screening. The RAP text ties the next procedural step explicitly to both agencies acting together: the RDIP, which would set out construction details, is to follow "DTSC/CVRWQCB approval of the Final RAP." No separate date or document recording that approval having occurred is present in the material reviewed.
+
+## Stockpile 3 disposal costing at CVRWQCB's request
+
+The RAP records one specific instance of CVRWQCB direction affecting the analysis: "At the request of the CVRWQCB, the costs were estimated to completely remove Stockpile 3, dispose of it offsite in an appropriate landfill, and import an equal volume of clean replacement fill." This full-removal-and-replacement option for Stockpile 3 was costed as an alternative to the selected approach, under which Stockpile 3 is instead consolidated into the stockpile fill consolidation zones within the eastern SR-132/SR-99 bridge abutment and within Stockpile 2, so that it is entirely contained within the interim progress phase rather than removed offsite. The record does not state whether the CVRWQCB accepted the consolidation approach over the offsite-disposal option it had asked to have costed, or whether the request itself constituted a formal condition on approval.
 
 ## See also
 
-* [[caltrans]]
-* [[dtsc]]
-* [[central-valley-rwqcb]]
-* [[geocon-consultants-inc]]
-* [[dtsc-approval]]
+- [[dtsc-approval]]
+- [[caltrans-modesto-soil-stockpiles]]
+- [[central-valley-rwqcb]]
+- [[dtsc]]
+- [[caltrans]]

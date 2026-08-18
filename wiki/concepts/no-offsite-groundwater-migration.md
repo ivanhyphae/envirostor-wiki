@@ -1,42 +1,38 @@
 ---
 concept: no-offsite-groundwater-migration
 entity_type: claim
-aliases: ["No offsite groundwater migration observed", "groundwater-not-impacted", "no offsite groundwater migration", "no-offsite-migration-observed"]
-sources: ["wiki/sources/11 29 2012 Caltrans GND Water Monitoring Rpts.md", "wiki/sources/7453_S9525-06-44_Modesto_Stockpiles_July_2012_GW_Report-1112.md", "wiki/sources/DTSC Letter Response - 2025 GW Monitoring Report (900259)/DTSC Letter Response - 2025 GW Monitoring Report (900259).md", "wiki/sources/GND Water Monitoring Rpt March 2102/GND Water Monitoring Rpt March 2102.md", "wiki/sources/S1200-01-01 Modesto Stockpiles GW April 2017_07.17/S1200-01-01 Modesto Stockpiles GW April 2017_07.17.md", "wiki/sources/S1200-01-01 Modesto Stockpiles GW April 2019_06.19/S1200-01-01 Modesto Stockpiles GW April 2019_06.19.md", "wiki/sources/S2350-01-02 Well Destruction Report_6.25/S2350-01-02 Well Destruction Report_6.25.md", "wiki/sources/S2350-01-02_2.1.2024 Stormwater Sampling Report_5.24/S2350-01-02_2.1.2024 Stormwater Sampling Report_5.24.md", "wiki/sources/S2350-01-02_2.4.2025 Stormwater Sampling Report_6.25/S2350-01-02_2.4.2025 Stormwater Sampling Report_6.25.md", "wiki/sources/S9525-01-44B Caltrans Modesto Stockpiles GW March 2013 0513/S9525-01-44B Caltrans Modesto Stockpiles GW March 2013 0513.md", "wiki/sources/S9525-01-44B Modesto Stockpiles GW June 2013.0613/S9525-01-44B Modesto Stockpiles GW June 2013.0613.md", "wiki/sources/S9525-01-44C Modesto Stockpiles GW September 2013 1013.md", "wiki/sources/S9800-01-17 Modesto Soil Stockpiles Final FS Report-0614.md", "wiki/sources/SR_132_DEIR_EA.md", "wiki/sources/captures/thallium-detected-in-stockpile-soil/thallium-detected-in-stockpile-soil.md", "wiki/sources/thallium-detected-in-stockpile-soil/thallium-detected-in-stockpile-soil.md"]
+aliases: ["no offsite groundwater migration"]
+sources: ["wiki/sources/11 29 2012 Caltrans GND Water Monitoring Rpts.md", "wiki/sources/7453_S9525-06-44_Modesto_Stockpiles_July_2012_GW_Report-1112.md", "wiki/sources/Approval of GW Statistical Evaluation (900259)/Approval of GW Statistical Evaluation (900259).md", "wiki/sources/DTSC Letter Response - 2025 GW Monitoring Report (900259)/DTSC Letter Response - 2025 GW Monitoring Report (900259).md", "wiki/sources/GND Water Monitoring Rpt March 2102/GND Water Monitoring Rpt March 2102.md", "wiki/sources/S2350-01-02 Well Destruction Report_6.25/S2350-01-02 Well Destruction Report_6.25.md", "wiki/sources/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.md", "wiki/sources/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan.Revised_10.14/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan.Revised_10.14.md"]
 confidence: high
-created_at: 2026-08-18T18:02:01Z
+created_at: 2026-08-18T23:15:23Z
 ---
 
-The requirement of no offsite groundwater migration is a critical performance standard for the Caltrans Modesto Soil Stockpiles remediation project. This standard ensures that contaminants present in the soil stockpiles do not leach into the surrounding groundwater and subsequently migrate beyond the project boundaries. Compliance with this requirement is demonstrated through ongoing groundwater monitoring and regulatory oversight.
+## No Offsite Groundwater Migration
 
-### Groundwater Monitoring and Assessment
+The central conclusion supporting closure of groundwater monitoring at the Caltrans Modesto Soil Stockpiles is that the barium- and lead-impacted encapsulated soil never impacted groundwater beneath the site and, given the completed encapsulation, will not do so in the future. This conclusion, reached jointly by [[dtsc]] and the [[central-valley-rwqcb]], is what allowed years of quarterly groundwater sampling to be discontinued and the ten original monitoring wells to be decommissioned rather than maintained indefinitely.
 
-Groundwater monitoring has been a consistent component of the project since the installation of ten monitoring wells in 2006. These wells were established to assess groundwater quality in the vicinity of three soil stockpiles, which contained soils contaminated with barium, lead, and strontium originating from Caltrans' State Route 99 construction in the early 1960s.
+### Basis for the conclusion
 
-Initial groundwater monitoring reports, such as the March 2012 report, were reviewed by the Department of Toxic Substances Control (DTSC) and the Central Valley Regional Water Quality Control Board (CVRWQCB). DTSC concurred with the findings of the May 2012 report and requested future reports include trend analysis and graphical representations of contaminant concentrations over time. [GND Water Monitoring Rpt March 2102]
+Ten groundwater monitoring wells were installed in 2006 to track water quality around the three stockpiles, which consist of native soils and pond tailings generated during 1960s construction of SR 99, contaminated with barium, lead, and strontium from the adjacent former FMC facility. DTSC's June 27, 2012 review of the March 2012 Groundwater Monitoring Report (covering the March 12, 2012, October 5, 2006, and June 14, 2006 sampling events, with RWQCB split samples collected in March 2012) concurred with the report's findings and directed that future reports track concentration trends over time, with monitoring continuing at minimum on a quarterly schedule.
 
-Subsequent groundwater monitoring reports continued to document site conditions. Reports from March 2013, June 2013, and September 2013 provided data on groundwater quality. [S9525-01-44B Caltrans Modesto Stockpiles GW March 2013 0513], [S9525-01-44B Modesto Stockpiles GW June 2013.0613], [S9525-01-44C Modesto Stockpiles GW September 2013 1013]
+That trend-tracking requirement fed into a 2014 comparative evaluation of groundwater data for the site, which was later updated. Geocon's 2024 update to the 2014 evaluation found the more recent data consistent with the earlier findings, and concluded — accounting for the declining water table and the final encapsulation of the stockpiles under SR 132 — that continued monitoring at the four remaining wells would not yield useful additional information.
 
-Monitoring efforts extended through April 2017 and April 2019, with reports detailing groundwater conditions at the site. [S1200-01-01 Modesto Stockpiles GW April 2017_07.17], [S1200-01-01 Modesto Stockpiles GW April 2019_06.19]
+### Regulatory approval of the no-migration finding
 
-### Stormwater Monitoring
+On May 3, 2024, DTSC, in consultation with the Central Valley RWQCB, approved the Updated Comparative Evaluation of Groundwater Data (dated February 26, 2024). The approval letter states that the data indicate the encapsulated soil is not impacting groundwater and will not impact groundwater in the future, and that this conclusion is supported by both the consistency with the 2014 evaluation and the recent physical encapsulation of the soil beneath the SR 132 Express Way. Based on this finding, DTSC and RWQCB concurred with decommissioning the remaining four monitoring wells (MW4, MW6, MW9, and MW10), as contemplated by the approved Remedial Design and Implementation Plan.
 
-In addition to groundwater monitoring, stormwater sampling has been conducted to evaluate the integrity of the stockpile containment system and prevent offsite migration of metals into surface water. Sampling events occurred in January 2016 and March 2016. [S9800-01-17A Modesto Stockpiles Jan 6 2016 Stormwater Smplng 0216], [S9800-01-17A Modesto Stockpiles Mar 5 2016 Stormwater Samplng_04 16] More recent stormwater sampling reports were issued for February 1, 2024, and February 4, 2025, with results indicating they were within reporting limits. [S2350-01-02_2.1.2024 Stormwater Sampling Report_5.24], [S2350-01-02_2.4.2025 Stormwater Sampling Report_6.25]
+### Well decommissioning as the operational consequence
 
-### Regulatory Approvals and Well Decommissioning
+The no-migration finding directly enabled the physical retirement of the monitoring network. Six wells (MW1, MW2, MW3, MW5, MW7, and MW8) had already been destroyed in 2019 due to conflicts with highway construction. The remaining four wells (MW4, MW6, MW9, and MW10) were destroyed by Geocon under the Well Destruction Report dated June 18, 2025, citing the May 3, 2024 DTSC/RWQCB correspondence as authorization. DTSC's subsequent letter, dated January 30, 2026, recounts that "after years of data supporting no metals were leaching into the groundwater from the stockpiles," the agencies agreed to decommissioning, and it conditionally approves the Well Destruction Report subject to a Geological Services Branch comment to be incorporated into the final version. That comment's substance is not given in the available material, so satisfaction of the condition is not yet confirmed in the record.
 
-A comprehensive evaluation of groundwater data in 2014 concluded that the encapsulated soil stockpiles did not have the potential to impact groundwater. [S9800-01-17 Modesto Soil Stockpiles Final FS Report-0614] Based on years of data supporting that no metals were leaching into the groundwater, regulatory agencies agreed to the decommissioning of the monitoring wells. Six of the ten wells were decommissioned in 2019 to facilitate highway construction. [S2350-01-02 Well Destruction Report_6.25]
+### Why it matters
 
-In correspondence dated May 3, 2024, DTSC and the CVRWQCB approved the destruction of the remaining four groundwater monitoring wells, acknowledging that the encapsulated soil was not impacting groundwater. [S2350-01-02 Well Destruction Report_6.25] A Well Destruction Report dated June 18, 2025, details the procedures for the destruction of these four wells. [S2350-01-02 Well Destruction Report_6.25]
-
-DTSC, in a letter dated January 30, 2026, conditionally approved the Well Destruction Report and approved the Storm Water and Surface Water Monitoring Report (FY24/25). This approval was based on the continued demonstration that the encapsulated soil stockpiles do not impact groundwater and that stormwater sampling results were within reporting limits. [DTSC Letter Response - 2025 GW Monitoring Report (900259)]
+The no-offsite-migration finding is the evidentiary basis for ending a groundwater monitoring obligation that had run from 2006 well installation through 2025 well destruction, and it removed groundwater as a continuing pathway of concern for the Phase II encapsulation of the stockpiles beneath the SR 132 West Freeway/Expressway, scheduled to begin construction in 2026. It also underlies the shift in monitoring focus toward storm water and surface water run-off as the remaining pathway of concern for the encapsulated soil, addressed separately in DTSC's approval of the FY24/25 Storm Water and Surface Water Monitoring Report.
 
 ## See also
 
-*   [[caltrans]]
-*   [[dtsc]]
-*   [[geocon-consultants-inc]]
-*   [[groundwater-not-impacted]]
-*   [[lead]]
-*   [[mw-1]]
-*   [[mw-10]]
+- [[dtsc]]
+- [[central-valley-rwqcb]]
+- [[caltrans]]
+- [[groundwater-not-impacted]]
+- [[site-specific-background-levels]]

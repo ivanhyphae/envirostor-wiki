@@ -1,53 +1,46 @@
 ---
 concept: remedial-design-implementation-plan
 entity_type: deliverable
-aliases: ["RDIP", "Remedial Design Implementation Plan", "Remedial Design and Implementation Plan"]
-sources: ["wiki/sources/2- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size A-G.md", "wiki/sources/Approval E-mail_Revised Basin 5 Clean Fill Tech Memo/Approval E-mail_Revised Basin 5 Clean Fill Tech Memo.md", "wiki/sources/Errata to January 2019 RDIP - SR 132 West Expressway Phase 1/Errata to January 2019 RDIP - SR 132 West Expressway Phase 1.md", "wiki/sources/Final RDIP Approval Letter (900259)/Final RDIP Approval Letter (900259).md", "wiki/sources/RDIP All Figures/RDIP All Figures.md", "wiki/sources/RDIP Errata Acceptance/RDIP Errata Acceptance.md", "wiki/sources/RDIP Variance Reqeust #2 Acceptance E-Mail/RDIP Variance Reqeust #2 Acceptance E-Mail.md", "wiki/sources/RDIP Variance Request Acceptance E-Mail/RDIP Variance Request Acceptance E-Mail.md", "wiki/sources/SR_132_DEIR_EA.md", "wiki/sources/SR_132_DEIR_EA_Append_G-J.md"]
-confidence: high
-created_at: 2026-08-18T18:02:30Z
+aliases: ["RDIP", "RDIP – Interim Phase 1", "RDIP-Interim Phase 1", "Remedial Design Implementation Plan"]
+sources: ["wiki/sources/Caltrans Modesto Soil Stcokpiles RDIP Variance/Caltrans Modesto Soil Stcokpiles RDIP Variance.md", "wiki/sources/Draft Interim RACR_Text_Figures_Tables_ App A-C/Draft Interim RACR_Text_Figures_Tables_ App A-C.md", "wiki/sources/Errata Transmittal 2-6-2020/Errata Transmittal 2-6-2020.md", "wiki/sources/Errata to January 2019 RDIP - SR 132 West Expressway Phase 1/Errata to January 2019 RDIP - SR 132 West Expressway Phase 1.md", "wiki/sources/Final RDIP Approval Letter (900259)/Final RDIP Approval Letter (900259).md", "wiki/sources/RDIP All Figures/RDIP All Figures.md", "wiki/sources/RDIP Errata Acceptance/RDIP Errata Acceptance.md", "wiki/sources/RDIP Variance Reqeust #2 Acceptance E-Mail/RDIP Variance Reqeust #2 Acceptance E-Mail.md", "wiki/sources/RDIP Variance Request Acceptance E-Mail/RDIP Variance Request Acceptance E-Mail.md", "wiki/sources/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19.md", "wiki/sources/S1908-01-01 RDIP Variance #2/S1908-01-01 RDIP Variance #2.md", "wiki/sources/Stockpiles 1 and 2 MSE Wall Sampling Plan/Stockpiles 1 and 2 MSE Wall Sampling Plan.md"]
+confidence: medium
+created_at: 2026-08-18T23:19:24Z
 ---
 
-The Remedial Design Implementation Plan (RDIP) - Interim Phase 1 is a critical deliverable that details the technical approach for implementing the Final Remedial Action Plan (RAP) for the Caltrans Modesto Soil Stockpiles. It specifically outlines the strategy for containing barium- and lead-containing soil stockpiles by integrating them into the highway embankment fill during the construction of the [[sr-132-west-expressway-project]]. The RDIP was prepared by [[geocon-consultants]] for [[caltrans]] under the oversight of the [[dtsc]] and in cooperation with the [[central-valley-rwqcb]].
+# Remedial Design Implementation Plan
 
-### RDIP Approval and Revisions
+The Remedial Design Implementation Plan (RDIP) is the governing technical document for the containment remedy at the [[caltrans]] Modesto Soil Stockpiles site, prepared by [[geocon-consultants]] and dated January 30, 2019, covering Interim Phase 1 of the [[sr-132-west-expressway-project]]. It translated the DTSC-approved Remedial Action Plan's containment alternative — encapsulating [[barium]]-containing soil (BCS) and aerially deposited lead (ADL) as highway embankment fill under clean cap and structural pavement — into excavation thresholds, verification sampling protocols, monitoring requirements, and project roles. The plan went through conditional DTSC review, final approval, a contractor-driven change in responsible parties, and two formal variances before construction closed out; a Draft Interim Removal Action Completion Report (RACR) issued in December 2021 documents substantial conformance with the RDIP as modified.
 
-The RDIP - Interim Phase 1 was submitted to the [[dtsc]] on January 30, 2019. It received conditional approval from the [[dtsc]] on October 12, 2018, pending review of the 100% design plans, and final approval on April 3, 2019.
+## Approval history
 
-The plan addresses the containment of three barium-containing soil stockpiles (Stockpiles 1 through 3) during Interim Phase 1 construction. The selected remedial alternative involves incorporating these stockpiles as highway embankment fill, covered by a structural pavement section and imported clean fill.
+DTSC, in consultation with the [[central-valley-rwqcb]], reviewed a Draft RDIP dated July 18, 2018 and issued a Conditional Approval Letter on August 10, 2018 (the letter itself references review of the "July 18, 2018" draft but is dated in the source material as August 10, 1918-typo-corrected August 1918; the letter text also references "August 9, 2018" in its signature block), requiring the title be revised to "Remedial Design Implementation Plan – Interim Phase 1" and that the Introduction clarify the RDIP's scope was limited to the SR 132 West Project area containing Stockpiles 1, 2, and 3. Geocon incorporated these revisions into a September 14, 2018 RDIP, which received a second Conditional Approval Letter dated October 12, 2018, conditioned on review of the 95% and 100% design plans. The final RDIP — dated January 30, 2019 and including excerpts of the 100% design plans and the City of Modesto's 100% Special Provisions — received DTSC's Final Approval on April 3, 2019, with the RWQCB concurring and no further comments.
 
-An Errata to the January 2019 RDIP was issued after the construction contract award. This errata updated sections concerning project organization and roles, clarifying that [[caltrans]] held direct oversight rather than Geocon acting as the state's agent. The [[dtsc]] accepted this errata on February 5, 2020.
+## Roles reassigned after contract award
 
-Two variance requests were also processed and accepted:
+The January 2019 RDIP identified Geocon as Caltrans' sole environmental agent responsible for verifying RDIP compliance, performing verification sampling, groundwater monitoring, air monitoring, and preparing the RACR. Following contract award, Geocon's on-call contract with Caltrans ended. Caltrans District 6 transmitted a "Post Construction Contract Award Errata" to DTSC on February 6, 2020, striking Geocon from the Section 2.0 role descriptions and reassigning those responsibilities to Caltrans itself, while affirming that Caltrans — not any consultant — remains the responsible party for demonstrating the containment remedy was implemented as described in the RDIP. DTSC accepted the errata by email on February 5, 2020. In practice, Geocon continued to perform verification sampling, air monitoring, and reporting work during 2020 construction and authored the subsequent RDIP variances and the Draft Interim RACR, this time under contract with the City of Modesto rather than Caltrans.
 
-*   **RDIP Variance #2**, dated September 2, 2020, addressed the use of Class 3 aggregate subbase material as clean cover. The [[dtsc]] and [[central-valley-rwqcb]] agreed to its use but stipulated a minimum cap thickness of 6 inches (instead of the proposed 4 inches) due to the material's fine-grained nature. They also requested a composite sample for barium and lead analysis from the stockpile adjacent to the Rosemore Overcrossing. This variance was accepted by the [[dtsc]] on September 21, 2020.
-*   A Variance Request for the use of Stockpile 1 MSE Wall Footing Soil as Clean Cover, dated April 9, 2020, was reviewed by the [[dtsc]] and the Water Board. They agreed that soil from 1 to 5 feet below grade in this area, with a 95% upper confidence limit (UCL) for barium of 113.1 mg/kg, could be used as clean cap soil, as this concentration was within the range of site-specific naturally occurring background. The [[dtsc]] officially accepted this variance on April 17, 2020.
+## Removal thresholds and clean fill criteria
 
-### Project Organization and Responsibilities
+The RDIP set verification thresholds for BCS removal areas of 1,000 mg/kg barium (based on groundwater protection) and 80 mg/kg lead (DTSC residential screening level), noting the regulatory residential Environmental Screening Level for barium is 3,000 mg/kg — meaning the RDIP's own removal trigger was deliberately set well below the risk-based ESL, as a groundwater-protective standard. Clean imported fill was to be sampled under DTSC's *Information Advisory Clean Imported Fill Material* (2001) for pre-approval before placement. Section 4.7 designated vacant/agricultural land along the SR-132 right-of-way between Carpenter Road and Rosemore Avenue as the intended clean fill source.
 
-The RDIP identifies [[caltrans]] as the Site Owner/Responsible Party. [[geocon-consultants]] served as Caltrans' Environmental Consultant. The [[dtsc]] and [[central-valley-rwqcb]] are the regulatory agencies. The City of Modesto (City)/Stanislaus Council of Governments is the SR-132 West Project Proponent, with Dokken Engineering as the Project Proponent's Civil Engineer. Post-construction contract award, WSP, USA was identified as the Project Proponent's Construction Manager, and Bay Cities Paving and Grading, Inc. as the Contractor.
+## Variance #1: clean fill source areas (April 9, 2020)
 
-[[caltrans]] is responsible for verifying that highway construction work associated with the soil stockpiles conforms to the RAP and RDIP. This includes supervising groundwater monitoring well abandonment, observing and documenting soil excavation and fill placement, performing soil verification sampling, conducting air and stormwater monitoring, and interacting with regulatory agencies.
+Bay Cities Paving and Grading initially proposed a source area east of Carpenter Road; Geocon's February 27, 2020 technical memorandum found the material suitable, and DTSC approved that source. The contractor separately proposed using MSE wall footing excavation soil (to roughly five feet deep) along the southern boundaries of Stockpiles 1 and 2 as clean fill. Geocon's April 6, 2020 characterization of the Stockpile 1 footing found the upper foot of soil too high in barium for clean fill use — that material was instead placed in the containment zones — but soil from one to five feet deep had a calculated 95% UCL of 113.1 mg/kg barium, within the site's upperbound background of 120 mg/kg. DTSC and the Water Board accepted this April 9, 2020 variance by email on April 17, 2020, approving the Stockpile 1 footing soil (1–5 ft) as clean cap material, and holding that Stockpile 2 footing soil could qualify on the same basis pending its own data. Geocon's subsequent June 18, 2020 characterization of the Stockpile 2 footing (trenches STK2-1 through STK2-7) found barium at 53–930 mg/kg, with the upper three feet generally exceeding the 120 mg/kg background value and requiring placement in the containment zones, while material below three feet was deemed suitable for use as containment zone fill, embankment fill, or capping material pending agency approval.
 
-The City's construction management firm and highway construction contractor are responsible for worker health and safety, site grading, construction of retaining walls/bridge structures, management of placed barium-containing fill material, dust control, stormwater best management practices, and placement of pavement and imported clean cover soil.
+## Variance #2: aggregate subbase as interim cap (September 2, 2020)
 
-### Anticipated Schedule
+The RDIP (Section 3.2.2) allowed a 4-inch layer of aggregate base (AB) as an alternative to 12 inches of clean cover fill on the upper surface of Stockpiles 1 and 2, pending final pavement placement. The contractor proposed substituting 4 inches of Class 3 aggregate subbase — used for the project's structural pavement section (10.2 inches concrete pavement, 3.0 inches hot mix asphalt, 8.4 inches Class 3 aggregate subbase) — arguing its gradation was functionally equivalent to AB for cover purposes. DTSC and the RWQCB reviewed the request and, in an email dated September 21, 2020, agreed Class 3 subbase was an acceptable clean cap alternative in principle, but a September 15, 2020 visual inspection found the stockpiled material was primarily fine sand passing a No. 4 sieve, and both agencies required a minimum cap thickness of 6 inches rather than 4 inches — with increased monitoring given that no pavement or hardscape would be in place before the coming rainy season. The agencies also required a single composite sample of the Class 3 material stockpiled near the Rosemore Overcrossing, tested for barium and lead by EPA Method 6010B, before its use as cap material over the BCS/ADL containment zones.
 
-The anticipated schedule for Interim Phase 1 construction, as outlined in the RDIP, included:
-*   RDIP Final Approval: Early 2019
-*   Project Design Approval: Early 2019
-*   Contractor Bid Award: Early to Mid 2019
-*   Start Barium-Containing Soil Containment: Mid 2019
-*   Complete Barium-Containing Soil Containment: Late 2019
-*   Complete Interim Phase 1 Construction: Late 2020
-*   Remedial Completion Report Approval: 2021
+## Implementation and reported conformance
 
-### See Also
+The RDIP's verification protocol was applied during 2020 removal of Stockpiles 2 and 3 and the MSE wall footing excavations along Stockpiles 1 and 2: soil exceeding the 1,000 mg/kg barium / 80 mg/kg lead thresholds triggered re-excavation and resampling at each of the Stockpile 3, Stockpile 2, and MSE footing locations, with all final verification samples ultimately below both thresholds. Air monitoring specified in the RDIP was carried out between February and June 2020 against a Fence Line Action Level of 4.0 mg/m³ total dust, a barium action level of 25 µg/m³, and a lead action level of 1.5 µg/m³, with reported results below all three. The Draft Interim RACR (December 2021), prepared by Geocon for the City of Modesto and Caltrans, states that BCS Stockpiles 1 through 3 and the SR 99 ADL soil were consolidated and capped with DTSC-approved clean fill in accordance with the RDIP as modified by the two 2020 variances, with remaining Interim Phase 1 work limited to pavement placement, erosion control, drainage, and signage. The RDIP's Section 4.7 obligation for a supplemental RDIP covering Ultimate Phase 2 (construction scheduled for completion in 2028) remained outstanding as of the Draft Interim RACR, and a Final RACR was to follow completion of that phase.
 
-*   [[caltrans]]
-*   [[dtsc]]
-*   [[geocon-consultants]]
-*   [[sr-132-west-expressway-project]]
-*   [[barium-containing-soil-consolidation]]
-*   [[barium]]
-*   [[variance-approvals]]
-*   [[central-valley-rwqcb]]
+## See also
+
+- [[sr-132-west-expressway-project]]
+- [[geocon-consultants]]
+- [[dtsc]]
+- [[stockpile-1]]
+- [[stockpile-2]]
+- [[barium]]
+- [[central-valley-rwqcb]]

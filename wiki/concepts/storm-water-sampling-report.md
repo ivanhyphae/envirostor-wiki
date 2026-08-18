@@ -2,47 +2,29 @@
 concept: storm-water-sampling-report
 entity_type: deliverable
 aliases: ["Storm Water Sampling Report"]
-sources: ["wiki/sources/2- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size A-G.md", "wiki/sources/S9800-01-17A Modesto Stockpiles Dec 11 2015 Stormwater Sampling Report_02-16.md", "wiki/sources/S9800-01-17A Modesto Stockpiles Jan 6 2016 Stormwater Smplng 0216.md", "wiki/sources/S9800-01-17A Modesto Stockpiles Mar 5 2016 Stormwater Samplng_04 16.md", "wiki/sources/WB Acceptance E-mail.md"]
+sources: ["wiki/sources/S2350-01-02_2.1.2024 Stormwater Sampling Report_5.24/S2350-01-02_2.1.2024 Stormwater Sampling Report_5.24.md", "wiki/sources/S2350-01-02_2.4.2025 Stormwater Sampling Report_6.25/S2350-01-02_2.4.2025 Stormwater Sampling Report_6.25.md"]
 confidence: high
-created_at: 2026-08-18T18:03:12Z
+created_at: 2026-08-18T23:21:32Z
 ---
 
-The Storm Water Sampling Reports document the collection and analysis of storm water at the [[caltrans]] Encapsulated Soil Stockpiles site in Modesto, Stanislaus County, California. These reports are prepared by [[geocon-consultants-inc]] in accordance with Caltrans Contract No. 06A2767, Task Order No. 2. The sampling protocols are established in the *Storm Water Sampling and Analysis Plan (SAP)*, approved by the [[dtsc]] and [[central-valley-rwqcb]].
+# Storm Water Sampling Report
 
-### Sampling Events and Locations
+The Storm Water Sampling Report is a recurring deliverable prepared by [[geocon-consultants-inc]] documenting storm water sampling events at the Caltrans Encapsulated Soil Stockpiles site in Modesto, Stanislaus County (SR 132, Contract No. 06A2767, Task Order No. 2, EA No. 10-1E7003). Two such reports are in the record: one covering a sampling event on February 1, 2024 (dated May 14, 2024), and one covering a sampling event on February 4, 2025 (dated June 18, 2025). Both were submitted to [[caltrans]] District 6 Hazardous Waste Branch, addressed to Adam Inman, PG.
 
-The following Storm Water Sampling Reports have been documented:
+## Basis and protocol
 
-*   **December 11, 2015:** Storm water samples were collected from Station 1 (north of Stockpile 1) and Station 2 (north of Stockpile 2). Samples were analyzed for total suspended solids (TSS), pH, and total metals.
-*   **January 6, 2016:** Storm water samples were collected from Station 1 and Station 2. Analyses included TSS, pH, and total metals.
-*   **March 5, 2016:** Storm water samples were collected from Station 1 and Station 2. Analyses included TSS, pH, and total metals.
+Both sampling events were conducted, per the reports, in general accordance with protocols approved by [[dtsc]] and the [[central-valley-rwqcb]], as established in the Storm Water Sampling and Analysis Plan (SAP) prepared by Geocon Consultants, Inc., dated December 13, 2023. The same SAP governs both the 2024 and 2025 events, indicating the sampling program has continued under a single approved protocol across at least two winter storm seasons rather than being re-authorized each year.
 
-The sampling locations are situated north of the encapsulated [[soil-stockpiles]] associated with the [[barium-containing-soil-consolidation]] project.
+## Scope and site context
 
-### Analytical Results
+Each report documents sampling at the site south of the intersection of SR 99 and Kansas Avenue, where Stockpiles 1 and 2 were encapsulated beneath SR 132. Sampling locations are identified on a site plan referenced in each report, corresponding to the project's [[stormwater-stations]]. The stated scope in both reports is limited to collection of storm water samples, laboratory analysis by a California-certified laboratory, and preparation of the summary report — each document is a reporting instrument for a single storm event rather than a standalone investigation or remedial submittal.
 
-The following table summarizes the reported analytical results for key constituents:
-
-| Date | Station | Analyte | Result | Unit | Threshold |
-|---|---|---|---|---|---|
-| 2015-12-11 | 1 | Barium | 0.11 | mg/L | 1.0 |
-| 2015-12-11 | 2 | Barium | 0.12 | mg/L | 1.0 |
-| 2016-01-06 | 1 | Barium | 0.10 | mg/L | 1.0 |
-| 2016-01-06 | 2 | Barium | 0.11 | mg/L | 1.0 |
-| 2016-03-05 | 1 | Barium | 0.10 | mg/L | 1.0 |
-| 2016-03-05 | 2 | Barium | 0.11 | mg/L | 1.0 |
-
-All reported concentrations for Barium were below the specified threshold of 1.0 mg/L.
-
-### Regulatory Compliance
-
-The sampling activities and reporting are conducted in accordance with the approved *Storm Water Sampling and Analysis Plan (SAP)*. The results from these sampling events indicate compliance with the established storm water quality objectives for the site, supporting the conclusion of [[no-offsite-groundwater-migration]].
+The available material does not include the analytical results, detected concentrations, or any discussion of [[barium]] or [[lead]] findings from either the February 1, 2024 or February 4, 2025 event.
 
 ## See also
-*   [[caltrans]]
-*   [[geocon-consultants-inc]]
-*   [[dtsc]]
-*   [[central-valley-rwqcb]]
-*   [[no-offsite-groundwater-migration]]
-*   [[soil-stockpiles]]
-*   [[barium-containing-soil-consolidation]]
+
+- [[geocon-consultants-inc]]
+- [[caltrans]]
+- [[dtsc]]
+- [[central-valley-rwqcb]]
+- [[stormwater-stations]]

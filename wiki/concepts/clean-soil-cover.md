@@ -1,49 +1,50 @@
 ---
 concept: clean-soil-cover
 entity_type: remedial_action
-aliases: ["Clean Soil Cover", "Clean cover fill material", "clean cap cover material", "clean cover fill", "clean fill cover"]
-sources: ["wiki/sources/2- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size A-G.md", "wiki/sources/3- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size H-K.md", "wiki/sources/Bent 2 Stockpiles Tech Memo/Bent 2 Stockpiles Tech Memo.md", "wiki/sources/Borrow Area Results Tech Memo Approval/Borrow Area Results Tech Memo Approval.md", "wiki/sources/Borrow Area Sampling Plan/Borrow Area Sampling Plan.md", "wiki/sources/Caltrans Modesto Soil Stcokpiles RDIP Variance/Caltrans Modesto Soil Stcokpiles RDIP Variance.md", "wiki/sources/Carpenter Road Shoofly Clean Fill Tech Memo/Carpenter Road Shoofly Clean Fill Tech Memo.md", "wiki/sources/Final O and M Agreement with Cover Letter (900259)/Final O and M Agreement with Cover Letter (900259).md", "wiki/sources/SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020.md", "wiki/sources/SR 132 Clean Borrow Area Technical Memo.md", "wiki/sources/SR 132 Stockpile 2 BCS Removal Tech Memo.md"]
+aliases: ["clean cover fill material", "clean cover fill materials", "clean embankment fill", "clean fill", "clean fill capping", "clean fill cover"]
+sources: ["wiki/sources/1- SR_132_FEIR_EA_ 20180302 FINAL Main Doc.md", "wiki/sources/3-15-2018 - Caltrans Modesto SOF.md", "wiki/sources/Caltrans Modesto Soil Stcokpiles RDIP Variance/Caltrans Modesto Soil Stcokpiles RDIP Variance.md", "wiki/sources/FW_ SR 132 Basin 5 Clean Fill Sampling Plan /FW_ SR 132 Basin 5 Clean Fill Sampling Plan .md", "wiki/sources/Hwy 132 Clean Fill Source Testing Exhibit/Hwy 132 Clean Fill Source Testing Exhibit.md", "wiki/sources/SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020/SR 132 Basin 5 Clean Fill Tech Memo revised 7-2-2020.md", "wiki/sources/SR 132 Clean Borrow Area Technical Memo/SR 132 Clean Borrow Area Technical Memo.md", "wiki/sources/SR 132 Stockpile 2 BCS Removal Tech Memo/SR 132 Stockpile 2 BCS Removal Tech Memo.md", "wiki/sources/Stockpile 1 MSE Wall Sampling Tech Memo/Stockpile 1 MSE Wall Sampling Tech Memo.md", "wiki/sources/Stockpile 2 MSE Wall Sampling Tech Memo/Stockpile 2 MSE Wall Sampling Tech Memo.md", "wiki/sources/Stockpiles 1 and 2 MSE Wall Sampling Plan/Stockpiles 1 and 2 MSE Wall Sampling Plan.md"]
 confidence: high
-created_at: 2026-08-18T18:01:05Z
+created_at: 2026-08-18T23:11:53Z
 ---
 
-Clean soil cover is a material used to cap or cover contaminated soil stockpiles, preventing direct contact and mitigating potential exposure pathways. In the context of the Caltrans Modesto Soil Stockpiles project, clean soil cover was sourced from designated borrow areas and utilized to cap Barium-Containing Soil (BCS) Stockpiles 1 and 2.
+# Clean Soil Cover
 
-### Borrow Area Characterization and Approval
+The Remedial Design Implementation Plan (RDIP) for the Caltrans Modesto Soil Stockpiles required that consolidated barium-containing soil (BCS) and ADL within [[stockpile-1]] and [[stockpile-2]] be capped with a minimum 12-inch-thick layer of clean fill material (or 4 inches of aggregate base pending pavement/hardscape). Because the RDIP's original clean fill source areas had to be identified and tested as construction proceeded, Caltrans obtained a Variance to the RDIP (Geocon, submitted to [[dtsc]] April 9, 2020) to formally establish and approve the actual borrow sources used for capping, and each candidate source was independently characterized by [[geocon-consultants-inc]] before use.
 
-The suitability of soil for use as clean cover was determined through characterization testing of various borrow areas.
+## Carpenter Road borrow area
 
-*   **Basin 5 Borrow Area:** A Technical Memorandum dated July 2, 2020, revised from an earlier version, summarized characterization testing for the Basin 5 clean cap borrow area. This memo was approved by Dean Wright of the Department of Toxic Substances Control (DTSC) via email on July 9, 2020. The composite soil sample results were found to be consistent with naturally occurring background concentrations and suitable as clean cover material for capping Stockpiles 1 and 2. Concerns regarding chromium concentrations were addressed with additional information provided on June 29, 2020. The 95% Upper Confidence Limit (UCL) for chromium in eight 5-foot deep samples was reported as 8.6 mg/kg. John Juhrend of Geocon Consultants, Inc. noted that all reported chromium values (3.5 to 11 mg/kg) were significantly below land use screening levels and representative of native soil background.
-*   **Carpenter Road Shoofly Area:** A Technical Memorandum dated April 12, 2021, presented characterization testing for soil excavated from the Carpenter Road Shoofly. Barium was detected at concentrations ranging from 28 to 96 mg/kg, which is below the site-specific background value of 120 mg/kg. Lead was detected at concentrations ranging from 1.4 to 3.8 mg/kg, which is less than or equal to the site-specific background concentration of 3.8 mg/kg. Based on this data, the material was deemed to meet the clean cap criteria as established in the *Variance to Remedial Design Implementation Plan* (RDIP Variance) dated April 9, 2020, and approved by DTSC.
-*   **SR 132 Clean Borrow Area (Carpenter Road):** A Technical Memorandum dated February 27, 2020, summarized characterization testing for a proposed clean cap borrow area adjacent to Carpenter Road. Soil samples analyzed for Title 22 metals showed concentrations consistent with naturally occurring background levels. For example, barium ranged from 60 to 110 mg/kg (site-specific background 72.8 mg/kg), and lead ranged from 1.7 to 7.0 mg/kg (site-specific background 2.0 mg/kg). DTSC accepted this memo via email on March 4, 2020.
+The highway contractor, Bay Cities Paving and Grading, first identified an area adjacent and east of Carpenter Road, within planned highway underpass excavation, as the clean fill source. Geocon sampled this area on December 21 (year given as "2020" in the technical memorandum, though the memo itself is dated February 27, 2020, indicating the sampling date in the source document may be a typographical error for 2019) via 12 direct-push borings (B1–B12) to 5 feet, composited into four 3-part composites per depth interval (0–2 ft and 2–5 ft), analyzed for Title 22 metals and, for the 0–2 ft interval, organochlorine pesticides. Reported ranges, compared against 2007 Shaw site-specific background values, included barium 60–110 mg/kg (background 72.8 mg/kg), lead 1.7–7.0 mg/kg (background 2.0 mg/kg), and beryllium and silver elevated above background (1.3–1.6 vs. 0.2 mg/kg, and 1.6–2.5 vs. 0.2 mg/kg, respectively). Antimony, cadmium, selenium, thallium, mercury, and OCPs were not detected. Geocon concluded the concentrations were consistent with naturally occurring background and that the area was suitable to generate clean cover fill for capping Stockpiles 1 and 2. DTSC subsequently approved this Carpenter Road source, per the RDIP Variance.
 
-### MSE Wall Footing Excavations
+## MSE wall footing excavations (Stockpiles 1 and 2)
 
-Material from mechanically stabilized earth (MSE) wall footing excavations was also evaluated for suitability as clean cover.
+A second candidate source was the soil generated by mechanically stabilized earth (MSE) wall footing excavations along the southern boundaries of both stockpiles, to approximately 5 feet depth.
 
-*   **Stockpile 1:** A Technical Memorandum dated April 6, 2020, evaluated MSE wall footing excavation material along the southern boundary of Stockpile 1. Barium concentrations ranged from 42 to 420 mg/kg, exceeding the site-specific background of 120 mg/kg but remaining below the RDIP removal threshold of 1,000 mg/kg. Lead concentrations ranged from 1.1 to 6.7 mg/kg, within the range of the site-specific background of 3.8 mg/kg. The material was deemed suitable for placement as capping material pending regulatory approval.
-*   **Stockpile 2:** A Technical Memorandum dated June 18, 2020, evaluated MSE wall footing excavation material along the southern slope of Stockpile 2. Barium was detected in concentrations ranging from 53 to 930 mg/kg. Thirteen of the 14 samples with barium above the site-specific background of 120 mg/kg were collected from depths between the surface and 3 feet. Lead concentrations ranged from 3.5 to 22 mg/kg. Material excavated from depths greater than 3 feet was deemed suitable for placement as capping material.
-*   **Bent 2 Excavation:** A Technical Memorandum dated October 30, 2020, summarized characterization testing of soil excavated from Bent 2. Barium was detected in concentrations ranging from 31 to 230 mg/kg, with four samples exceeding the site-specific background of 120 mg/kg. Lead was detected in 6 of 10 samples at concentrations ranging from 2.6 to 13 mg/kg. This material did not meet the clean cap criteria as established in the RDIP Variance but was considered potentially suitable for use as partial clean cap (6 inches or less) on the upper surface of Stockpile 2, pending DTSC review and approval, due to the planned structural pavement section to be placed over it.
+**Stockpile 1** footing soil was sampled April 6, 2020 in three trenches (STK1-1, STK1-2, STK1-3) at 200-foot intervals, with discrete one-foot-interval samples to 5 feet, analyzed for barium and lead. Barium was detected in all 15 samples, 42–420 mg/kg, above the site background of 120 mg/kg but below the RDIP groundwater-protection removal threshold of 1,000 mg/kg; the 95% UCL was 171.9 mg/kg and the mean 128.3 mg/kg. Lead was detected in 14 of 15 samples at 1.1–6.7 mg/kg, within the range of the background maximum of 3.8 mg/kg and below the RDIP residential threshold of 80 mg/kg. Geocon concluded this material was suitable for placement within the Stockpile 1/2 fill containment zones, as embankment fill, or as capping material pending regulatory approval.
 
-### Project Implementation and Documentation
+**Stockpile 2** footing soil was sampled June 18, 2020 in seven trenches (STK2-1 through STK2-7) at 200-foot intervals, to depths of 3 and 5 feet. Barium was detected in all 29 samples, 53–930 mg/kg; 14 of 29 exceeded the 120 mg/kg background maximum, and 13 of those 14 elevated results came from the surface-to-3-foot interval (the 14th, sample STK2-7-4 at 140 mg/kg, was collected below the planned 3-foot footing depth). Lead ranged 3.5–22 mg/kg, mostly within the same order of magnitude as the 3.8 mg/kg background maximum. Because the elevated barium was concentrated in the upper 3 feet, Geocon determined that this upper zone required placement within the Stockpile 1/2 fill containment zones rather than use as cover, while material from below 3 feet was deemed suitable for the containment zones, as general embankment fill, or as capping material pending agency approval. This finding — that the upper foot of the planned wall footing excavation soil contained elevated barium unsuitable for cap use — is also recorded in the RDIP Variance narrative.
 
-The *Final Operation and Maintenance Agreement* (June 20, 2020) states that the installed remedy consists of consolidation and clean fill capping of barium-containing soil (BCS) as highway embankment fill for the SR 132 West Expressway. The *Operations and Maintenance Plan* (O&M Plan) prepared by Geocon Consultants, Inc. for Caltrans also details the use of clean fill material to cap BCS Stockpiles 1 through 3.
+## Basin 5 borrow area
 
-### Regulatory Framework
+A further clean cap source was identified at proposed Basin 5, adjacent and north of the previously tested Carpenter Road cut section. Geocon's sampling plan for this area was forwarded by Caltrans to DTSC and the Regional Water Board on June 11, 2020 for expedited approval; Caltrans noted that, unlike the Carpenter Road submittal, Geocon's Basin 5 submittal consisted only of a sample-location map, with Geocon treating the earlier Carpenter Road technical memorandum as applicable background.
 
-The use of clean fill material as cover is governed by DTSC's *2001 Information Advisory Clean Imported Fill Material*. DTSC has approved various sources of clean fill material for the project, including the Basin 5 borrow area and the Carpenter Road Shoofly area, based on characterization data demonstrating consistency with site-specific background levels.
+Sampling occurred June 16, 2020: six exploratory trenches (BASIN5 1–6) to 10 feet, with samples composited by depth interval (0–2, 2–5, 5–10 ft) into two 3-part composites per interval, analyzed for Title 22 metals and, for the 0–2 ft interval, OCPs. Reported ranges against 2007 Shaw background values included barium 66–94 mg/kg (background 72.8 mg/kg) and lead 5.8–11 mg/kg (background 2.0 mg/kg); no field indicators of contamination were observed. Antimony, beryllium, cadmium, molybdenum, selenium, silver, thallium, mercury, and OCPs were not detected. Geocon concluded the Basin 5 area was suitable to generate clean cover fill for capping Stockpiles 1 and 2, consistent with the Carpenter Road findings.
 
-### Future Actions
+## Summary of borrow source characterization
 
-The *Final Operation and Maintenance Agreement* indicates that the next project task will be recording a Land Use Covenant (LUC) on the remediated area to restrict its use.
+| Source area | Sampled | Method | Barium range (mg/kg) | Background barium | Disposition |
+|---|---|---|---|---|---|
+| Carpenter Road | reported Feb. 27, 2020 memo | 12 borings to 5 ft, composited | 60–110 | 72.8 mg/kg | Approved by DTSC as clean fill source |
+| Stockpile 1 MSE footing | April 6, 2020 | 3 trenches to 5 ft, discrete samples | 42–420 | 120 mg/kg | Suitable for containment zones/embankment; capping use pending approval |
+| Stockpile 2 MSE footing | June 18, 2020 | 7 trenches to 3–5 ft, discrete samples | 53–930 | 120 mg/kg | Upper 3 ft required containment-zone placement (not cover); below 3 ft suitable |
+| Basin 5 | June 16, 2020 | 6 trenches to 10 ft, composited | 66–94 | 72.8 mg/kg | Found suitable as clean cover source |
 
-## See Also
+Across the four characterized sources, only the Stockpile 2 MSE wall footing material failed to qualify outright as cover: its shallow (0–3 ft) soil carried barium concentrations reaching 930 mg/kg, well above the 120 mg/kg site background, and had to be redirected into the fill containment zones with the BCS itself rather than used as clean cap. The Carpenter Road and Basin 5 sources, and the deeper Stockpile 1 and 2 footing soils, were each found consistent with background metal concentrations and suitable for the 12-inch cap called for by the RDIP. Each technical memorandum records that its findings were to be incorporated into the Removal Action Completion Report following completion of stockpile capping.
 
-*   [[caltrans]]
-*   [[geocon-consultants-inc]]
-*   [[barium]]
-*   [[dtsc]]
-*   [[clean-fill-suitable-as-cover]]
-*   [[stockpile-2]]
-*   [[wsp]]
-*   [[site-specific-background-levels]]
+## See also
+
+- [[barium]]
+- [[geocon-consultants-inc]]
+- [[dtsc]]
+- [[stockpile-1]]
+- [[stockpile-2]]
+- [[clean-fill-suitability]]

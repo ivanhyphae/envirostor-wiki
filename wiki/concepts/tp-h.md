@@ -1,28 +1,14 @@
 ---
 concept: tp-h
 entity_type: contaminant
-aliases: ["TPH"]
-sources: ["wiki/sources/2- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size A-G.md", "wiki/sources/3- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size H-K.md", "wiki/sources/7453_S9525-06-44_Modesto_Stockpiles_July_2012_GW_Report-1112.md", "wiki/sources/Draft Interim RACR_ App D-G/Draft Interim RACR_ App D-G.md", "wiki/sources/S1908-01-01 Caltrans Modesto Stockpile Interim RACR_12.22 (1)/S1908-01-01 Caltrans Modesto Stockpile Interim RACR_12.22 (1).md", "wiki/sources/S9525-06-44 Modesto Stockpiles GW.0612.md", "wiki/sources/S9525-06-44A Caltrans Modesto Stockpiles GW 0213.md", "wiki/sources/S9525-06-44A Caltrans Modesto Stockpiles GW Nov2012 0213.md", "wiki/sources/S9525-06-44A May 2012 GW Report 1112.md", "wiki/sources/S9525-06-44AModesto Stockpiles GW  SEPT2012 1212.md", "wiki/sources/S9525-06-44AModesto Stockpiles GW. SEPT2012.1212.md", "wiki/sources/S9800-01-17 Caltrans Modesto Stockpiles Dec 2013 GW Mon 0114.md", "wiki/sources/S9800-01-17 Caltrans Modesto Stockpiles GW_06 15.md", "wiki/sources/S9800-01-17 Modesto Stockpiles Feb2014 GW Mon 0414.md", "wiki/sources/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814.md", "wiki/sources/S9800-01-17A Caltrans Modesto Stockpiles GW_06 16.md", "wiki/sources/SR_132_DEIR_EA.md"]
-confidence: medium
-created_at: 2026-08-18T18:03:19Z
+aliases: ["TPH", "Total Petroleum Hydrocarbons"]
+sources: ["wiki/sources/1- SR_132_FEIR_EA_ 20180302 FINAL Main Doc.md", "wiki/sources/7453_S9525-06-44_Modesto_Stockpiles_July_2012_GW_Report-1112.md", "wiki/sources/Draft Interim RACR_ App D-G/Draft Interim RACR_ App D-G.md", "wiki/sources/Draft Interim RACR_Text_Figures_Tables_ App A-C/Draft Interim RACR_Text_Figures_Tables_ App A-C.md", "wiki/sources/Hwy 132 Clean Fill Source Testing Exhibit/Hwy 132 Clean Fill Source Testing Exhibit.md", "wiki/sources/S1908-01-01 Caltrans Modesto Stockpile Interim RACR_12.22 (1)/S1908-01-01 Caltrans Modesto Stockpile Interim RACR_12.22 (1).md", "wiki/sources/S9525-06-44 HHRA UPDATE Rev.0313/S9525-06-44 HHRA UPDATE Rev.0313.md", "wiki/sources/S9525-06-44 Modesto Stockpiles GW.0612/S9525-06-44 Modesto Stockpiles GW.0612.md", "wiki/sources/S9525-06-44A Caltrans Modesto Stockpiles GW 0213/S9525-06-44A Caltrans Modesto Stockpiles GW 0213.md", "wiki/sources/S9525-06-44A Caltrans Modesto Stockpiles GW Nov2012 0213/S9525-06-44A Caltrans Modesto Stockpiles GW Nov2012 0213.md", "wiki/sources/S9525-06-44A May 2012 GW Report 1112/S9525-06-44A May 2012 GW Report 1112.md", "wiki/sources/S9525-06-44AModesto Stockpiles GW  SEPT2012 1212/S9525-06-44AModesto Stockpiles GW  SEPT2012 1212.md", "wiki/sources/S9525-06-44AModesto Stockpiles GW. SEPT2012.1212/S9525-06-44AModesto Stockpiles GW. SEPT2012.1212.md", "wiki/sources/S9800-01-17 Caltrans Modesto Stockpiles Dec 2013 GW Mon 0114/S9800-01-17 Caltrans Modesto Stockpiles Dec 2013 GW Mon 0114.md", "wiki/sources/S9800-01-17 Caltrans Modesto Stockpiles GW_06.15/S9800-01-17 Caltrans Modesto Stockpiles GW_06.15.md", "wiki/sources/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614/S9800-01-17 Modesto Soil Stockpiles Final FS Report.0614.md", "wiki/sources/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan.Revised_10.14/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan.Revised_10.14.md", "wiki/sources/S9800-01-17 Modesto Stockpiles Feb2014 GW Mon 0414/S9800-01-17 Modesto Stockpiles Feb2014 GW Mon 0414.md", "wiki/sources/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814.md", "wiki/sources/S9800-01-17A Caltrans Modesto Stockpiles GW_06 16/S9800-01-17A Caltrans Modesto Stockpiles GW_06 16.md", "wiki/sources/SR_132_DEIR_EA.md"]
+confidence: low
+created_at: 2026-08-18T23:14:36Z
 ---
 
-Tp H, or Total Petroleum Hydrocarbons, is a constituent that has been monitored in groundwater at the [[caltrans-modesto-soil-stockpiles]] site. Its presence and concentration are relevant to the ongoing environmental assessment and remediation efforts related to the State Route 132 project in Stanislaus County, California.
+I don't have sufficient information to write this article. The concept "Tp H" does not appear as an identifiable entity in the provided source material — no monitoring well, sample location, document, or analyte designated "Tp H" (or a recognizable variant of that label) is described in the excerpts made available to me. The source excerpts I can see consist largely of cover pages, figure/image captions, and title-page metadata for a series of groundwater monitoring reports, feasibility study, RACR, and RAP documents for the Caltrans Modesto Soil Stockpiles site, none of which define or discuss "Tp H."
 
-### Groundwater Monitoring Data
+Caltrans groundwater monitoring reports for this site typically use well identifiers such as MW-series designations, and the related-concepts list (chromium, lead, barium, manganese, nitrate, strontium, california-secondary-mcl) suggests Tp H may be a monitoring well or piezometer with results for these constituents — but I cannot confirm this, cannot confirm what "Tp" stands for, and have no dates, concentrations, or narrative detail attributable specifically to it in the text provided. Writing the article without that grounding would require inventing well construction details, sample dates, and concentration values, which the instructions explicitly prohibit.
 
-Groundwater monitoring reports from various dates document the presence of Tp H. The S9525-06-44A Caltrans Modesto Stockpiles GW Nov2012 0213.md report, dated November 2012, includes data for Tp H. Similarly, the S9800-01-17 Caltrans Modesto Stockpiles Dec 2013 GW Mon 0114.md report from December 2013 also contains information on Tp H. Further monitoring data for Tp H can be found in the S9800-01-17 Modesto Stockpiles Feb2014 GW Mon 0414.md report (February 2014) and the S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814.md report (June 2014). The S9800-01-17A Caltrans Modesto Stockpiles GW_06 16.md report from May 2016 also includes data for Tp H.
-
-### Regulatory Status
-
-The provided source documents do not explicitly state the regulatory status or applicable thresholds (e.g., [[california-primary-mcl]], [[california-secondary-mcl]]) for Tp H.
-
-## See also
-* [[lead]]
-* [[caltrans]]
-* [[chromium]]
-* [[manganese]]
-* [[strontium]]
-* [[title-22-mcl]]
-* [[california-secondary-mcl]]
-* [[california-primary-mcl]]
+To write this article accurately I would need the body text (not just image captions/cover pages) of the groundwater monitoring reports or the RACR appendices, specifically the tables or boring logs that define and report results for "Tp H."

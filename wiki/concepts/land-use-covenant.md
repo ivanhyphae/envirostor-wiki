@@ -2,36 +2,34 @@
 concept: land-use-covenant
 entity_type: regulatory_decision
 aliases: ["LUC", "Land Use Covenant"]
-sources: ["wiki/sources/2- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size A-G.md", "wiki/sources/2025 - RE_ Reminder - Annual Inspection Report.md", "wiki/sources/3.15.2018 - Caltrans Modesto SOF.md", "wiki/sources/Annual Cost Estimate Letter - FY 25.26 - State Route 132 (900259)/Annual Cost Estimate Letter - FY 25.26 - State Route 132 (900259).md", "wiki/sources/Modesto Soil Stockpiles_ Final Recorded LUC/Modesto Soil Stockpiles_ Final Recorded LUC.md", "wiki/sources/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18.md", "wiki/sources/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan-Revised_10-14.md", "wiki/sources/SR_132_DEIR_EA.md"]
+sources: ["wiki/sources/2025 - RE_ Reminder - Annual Inspection Report.md", "wiki/sources/Annual Cost Estimate Letter - FY 25-26 - State Route 132 (900259)/Annual Cost Estimate Letter - FY 25.26 - State Route 132 (900259).md", "wiki/sources/Final O and M Agreement with Cover Letter (900259)/Final O and M Agreement with Cover Letter (900259).md", "wiki/sources/Modesto Soil Stockpiles_ Final Recorded LUC/Modesto Soil Stockpiles_ Final Recorded LUC.md", "wiki/sources/S1908-01-01 Caltrans Modesto Stockpile Interim RACR_12.22 (1)/S1908-01-01 Caltrans Modesto Stockpile Interim RACR_12.22 (1).md"]
 confidence: high
-created_at: 2026-08-18T18:01:31Z
+created_at: 2026-08-18T23:14:19Z
 ---
 
-A Land Use Covenant (LUC) is a legal instrument recorded on a property to restrict its use, ensuring that environmental restrictions are maintained. For the Caltrans Modesto Soil Stockpiles project, the LUC was established to protect human health and safety and the environment due to the presence of hazardous materials. The Department of Toxic Substances Control (DTSC) determined the LUC was necessary, and it was executed by the California Department of Transportation (Caltrans) as the Covenantor. The LUC is a component of the overall remediation strategy for the site, which involved the consolidation and capping of barium-containing soil (BCS) as highway embankment fill for the [[sr-132-west-expressway-project]].
+The Land Use Covenant (LUC) is the instrument by which [[dtsc]] permanently restricted land use over the Stockpile 1 and Stockpile 2 BCS Containment Zones after [[caltrans]] consolidated and clean-capped barium-containing soil (BCS) as highway embankment fill during Interim Phase 1 of the [[sr-132-west-expressway-project]]. It is the mechanism that converts the physical containment remedy — clean fill capping over BCS left in place — into an enforceable, recorded legal restriction running with the land, and it is the condition precedent to DTSC certifying the site as remediated.
 
-## Site Record and Purpose
+## Basis and legal authority
 
-The Land Use Covenant and Agreement for Environmental Restrictions was made by and between Caltrans (the "Covenantor") and the DTSC (the "Department"). It applies to the property located adjacent and west of Emerald Avenue between approximate State Route (SR) 132 Stations 1125+50 and 1133+50 (Stockpile 1) and between Emerald Avenue and SR 99 between approximate SR 132 Stations 1135+35 and 1148+30 (Stockpile 2) in Modesto, Stanislaus County, California. These stockpiles collectively constitute the Site. The Covenantor and the Department agreed that the use of the Property would be restricted as set forth in the Covenant, conforming with the requirements of California Code of Regulations, title 22, section 67391.1.
+The Covenant is made between Caltrans, as owner of the property, and DTSC, pursuant to Civil Code section 1471 and Health and Safety Code section 25355.5, and conforms to California Code of Regulations, title 22, section 67391.1. DTSC determined the Covenant "reasonably necessary to protect present or future human health or safety or the environment" given the presence of hazardous materials (as defined in Health and Safety Code section 25260) on the property. The Site subject to the Covenant is defined as the same two containment zones described in the Removal Action Completion Report (RACR) and the Operation and Maintenance (O&M) Agreement: Stockpile 1, adjacent and west of Emerald Avenue between approximate SR 132 Stations 1125+50 and 1133+50, and Stockpile 2, between Emerald Avenue and SR 99 between approximate SR 132 Stations 1135+35 and 1148+30.
 
-The LUC was required because concentrations of some contaminants of potential concern (COPCs) in soil samples collected from Stockpiles 2 and 3 exceeded residential screening levels. The LUC recognizes that the proposed transportation land use is compatible and acceptable from a health risk standpoint, while prohibiting other unrestricted land uses such as residential, schools, daycare, hospital, or senior care.
+## What the Covenant restricts
 
-The DTSC indicated in a letter dated June 20, 2023, that the next project task after the final Operation and Maintenance (O&M) Agreement would be recording the LUC on the remediated area. The annual O&M inspection reports are required to confirm that the clean cover materials over the Stockpile 1 and 2 BCS Containment Zones are effective in preventing direct exposure to contaminated soil and that the Site remains compliant with the DTSC-required Land Use Covenant.
+The LUC restricts the Property to uses compatible with the containment remedy. Per the Interim RACR, the transportation land use in place is deemed acceptable from a health risk perspective, but unrestricted land uses — residential, schools, daycare, hospital, senior care, and similar uses — are not allowed on the Site. Any future disturbance of the BCS Containment Zones (slope repair, utility maintenance, and similar activities) requires notification to DTSC so that soil management and worker protection measures are applied. The Covenant runs with the land and remains in effect as long as hazardous substances limit use of the Site, until terminated by DTSC. Under Title 22, CCR section 67391.1, Caltrans as the responsible party bears all costs of DTSC oversight of the Covenant's administration; this obligation is reflected in Caltrans's [[annual-cost-estimate]] submissions. DTSC retains authority to require modification or removal of land improvements placed in violation of the restrictions, and violation of the LUC is grounds for DTSC to pursue civil or criminal action.
 
-## Regulatory Basis and Administration
+## Sequencing: from RDIP to recorded covenant
 
-The Land Use Covenant was established pursuant to Civil Code section 1471 and Health and Safety Code section 25355.5. The DTSC determined that the Covenant is reasonably necessary to protect present or future human health or safety or the environment as a result of the presence of hazardous materials on the land.
+The Covenant was the last of a sequence of deliverables tied to closing out Interim Phase 1. DTSC's letter accepting the Draft Phase 1 RACR stated that, following approval of the Final Phase 1 RACR, DTSC would enter into an O&M Agreement with Caltrans (incorporating the O&M Plan) and then complete a land use covenant for the containment areas — establishing the LUC as contingent on the O&M Agreement being finalized first. That sequence played out as described: the boundary survey and legal description of the Stockpile 1 and 2 BCS Containment Zones were prepared by Dokken Engineering and included in the Interim RACR (Appendix E) specifically for use in recording the DTSC-required LUC with the Stanislaus County Clerk-Recorder Office. The Final O&M Agreement (Docket No. HSA-FY22/23-067) was transmitted to Caltrans on June 20, 2023, with DTSC's cover letter stating explicitly that "the next project task will be recording the Land Use Covenant (LUC) on the remediated area to restrict its use," and that DTSC would send a draft LUC for Caltrans's review and signature within the following weeks. The Covenant was subsequently finalized and recorded with the Stanislaus County Clerk-Recorder Office, consistent with DTSC policy, ahead of any DTSC certification of site remediation — certification itself is on hold pending the Ultimate Phase 2 SR 132 build-out, per the Interim RACR.
 
-The LUC will be prepared consistent with DTSC policy and finalized and recorded after physical remedial measures are implemented and before the Site is certified by the DTSC as having been remediated. The LUC will run with the land and stay in effect as long as hazardous substances limit use of the Site and until terminated by the DTSC. Pursuant to Section 67391.1 of Title 22, Division 4.5, Chapter 39, CCR, the project proponent will pay all costs, including for DTSC oversight, associated with the administration of the LUCs. The DTSC has the authority to require modification or removal of any land improvements placed in violation of the restrictions. Violation of the LUC will be grounds for the DTSC to file civil or criminal actions as provided by law.
+## Ongoing compliance obligation
 
-The proposed remedial alternative, which includes containment/encapsulation by construction of the State Route 132 Project, is cost-effective and includes a land use covenant, maintenance, inspection, and groundwater monitoring. The cost implementation for this alternative is approximately 20 times less than the cost to excavate and transport excavated soil stockpile material for offsite disposal.
+Once recorded, the LUC becomes a standing compliance benchmark against which Caltrans's O&M performance is measured. The O&M Plan (Section 4.3, carried in both the Interim RACR and the Final O&M Agreement) requires Caltrans to submit an annual report to DTSC by January 31 for the prior calendar year, covering any BCS disturbance activities, site inspection findings, completed maintenance or repairs, and the continuing effectiveness of the clean cap/containment system. That annual report must affirmatively confirm that the Site "remains compliant with the DTSC-required Land Use Covenant" — making the LUC not a one-time filing but the recurring standard against which each year's inspection cycle (see the 2025 annual inspection correspondence) is judged.
 
-## See Also
+## See also
 
-* [[caltrans]]
-* [[dtsc]]
-* [[barium-containing-soil-consolidation]]
-* [[clean-fill-capping]]
-* [[phase-1-bcs-consolidation]]
-* [[soil-stockpiles]]
-* [[sr-132-west-expressway-project]]
-* [[barium]]
+- [[dtsc]]
+- [[caltrans]]
+- [[sr-132-west-expressway-project]]
+- [[clean-fill-capping]]
+- [[barium]]
+- [[annual-cost-estimate]]
