@@ -25,6 +25,8 @@ When source material discusses multiple analytes, wells, or entities in the same
 
 Every specific date, document/case number, identifier (well ID, APN, site code), quantity, concentration, or other load-bearing fact must be taken verbatim from the source material below — do not paraphrase a value, translate, round, or reconstruct it from memory. If the sources do not state a fact exactly, omit it rather than approximating. Do not embed inline quotations, excerpt markers, or bracketed citation tokens in the prose — write plain narrative text and refer to documents by name and date where useful.
 
+Write only what the record supports. Never pad an article to fill a template: omit any section you cannot fill with real content from the sources, and never write a section whose content is a statement that the sources do not address the topic. A short, dense article is correct; a long one padded with "not documented in the provided source material" is not.
+
 Adapt the article structure to what this concept actually is. Use whichever sections apply:
 
 ## Overview
