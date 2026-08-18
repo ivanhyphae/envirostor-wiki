@@ -1,35 +1,27 @@
 ---
 concept: north-carpenter-road-overcrossing
-entity_type: infrastructure
-aliases: ["North Carpenter Road Overcrossing (bridge)"]
-sources: ["wiki/sources/LOTB-N Carpenter OC.md"]
+entity_type: site
+aliases: ["North Carpenter Road Overcrossing"]
+sources: ["wiki/sources/2- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size A-G.md", "wiki/sources/LOTB-N Carpenter OC/LOTB-N Carpenter OC.md"]
 confidence: high
-created_at: 2026-08-18T17:35:39Z
+created_at: 2026-08-18T18:02:03Z
 ---
 
-## North Carpenter Road Overcrossing
+The North Carpenter Road Overcrossing is a bridge structure constructed as part of the [[sr-132-west-expressway-project]] in Stanislaus County, California. Its construction involved soil management activities relevant to the [[caltrans-modesto-soil-stockpiles]] remediation case file.
 
-The North Carpenter Road Overcrossing is a component of the SR 132 West Expressway Project in Stanislaus County, California. This overcrossing is relevant to the Caltrans Modesto Soil Stockpiles remediation case file due to its location and the soil management activities conducted in its vicinity.
+## Soil Sample Analysis
 
-## Site record
+Soil samples collected during the construction of the North Carpenter Road Overcrossing on October 26, 2021, were analyzed for several constituents.
 
-Soil samples collected during the construction of the North Carpenter Road Overcrossing were analyzed for various constituents.
+*   **Arsenic:** Detected at concentrations up to 12.7 milligrams per kilogram (mg/kg).
+*   **Lead:** Detected at concentrations up to 11.7 mg/kg.
+*   **Polychlorinated Biphenyls (PCBs):** Detected at concentrations up to 0.033 mg/kg.
 
-*   **Arsenic:** In samples collected on October 26, 2021, arsenic was detected at concentrations up to 12.7 milligrams per kilogram (mg/kg).
-*   **Lead:** On October 26, 2021, lead was detected in soil samples at concentrations up to 11.7 mg/kg.
-*   **Polychlorinated Biphenyls (PCBs):** On October 26, 2021, PCBs were detected in soil samples at concentrations up to 0.033 mg/kg.
-
-## Regulatory status
-
-The soil management plan for the SR 132 West Expressway Project addresses the handling of soil with detected constituents. Specific regulatory thresholds applicable to the North Carpenter Road Overcrossing are detailed within the broader project documentation.
-
-## Open items
-
-No specific open items related solely to the North Carpenter Road Overcrossing are documented in the provided source material.
+The [[sr-132-west-expressway-project]] has a soil management plan that addresses the handling of soil with detected constituents.
 
 ## See also
 
 *   [[caltrans]]
 *   [[geocon-consultants]]
 *   [[mse-wall-construction]]
-*   SR 132 West Expressway Project
+*   [[sr-132-west-expressway-project]]

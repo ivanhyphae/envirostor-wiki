@@ -1,30 +1,25 @@
 ---
 concept: site-investigation-workplan
 entity_type: deliverable
-aliases: ["SIWP", "Site Investigation Workplan"]
-sources: ["wiki/sources/S9650-06-03 MODESTO RAMP WORKPLAN.0412/S9650-06-03 MODESTO RAMP WORKPLAN.0412.md"]
+aliases: ["Site Investigation Workplan"]
+sources: ["wiki/sources/09.20.2012 Final Caltrans Supplemental Site Characterization Workplan 2.md", "wiki/sources/7083_S9525-06-44 Modesto Soil Stockpiles Fenceline Workplan.0912/7083_S9525-06-44 Modesto Soil Stockpiles Fenceline Workplan.0912.md"]
 confidence: high
-created_at: 2026-08-18T17:36:02Z
+created_at: 2026-08-18T18:02:34Z
 ---
 
-## Site Investigation Workplan
+The Site Investigation Workplan is a deliverable submitted by Geocon Consultants, Inc. to the California Department of Transportation (Caltrans) that outlines the scope of services, procedures, and methods for conducting a supplemental site investigation. This workplan is a critical step in addressing environmental concerns at the [[caltrans-modesto-soil-stockpiles]] site.
 
-### Overview
-The Site Investigation Workplan is a document submitted by Geocon Consultants, Inc. to the California Department of Transportation (Caltrans) outlining the scope of services, procedures, and methods for a site investigation. This workplan was prepared in accordance with Caltrans Contract No. 06A1634 and Work Request EA No. 10-0A671 for the Modesto Ramp Rehabilitation Project, specifically concerning the State Route 99 (SR99) Kansas Avenue Northbound Off-Ramp in Modesto, California.
+### Supplemental Site Investigation Workplan
 
-### Site Record
-The Site Investigation Workplan was submitted via electronic mail to Mr. Richard Stewart, PG of Caltrans - District 6. The subject of the electronic mail was "SITE INVESTIGATION WORKPLAN MODESTO RAMP REHABILITATION PROJECT STATE ROUTE 99 KANSAS AVENUE NORTHBOUND OFF-RAMP MODESTO, CALIFORNIA CONTRACT NO. 06A1634, EA NO. 10-0A671".
+This Workplan was prepared in accordance with Caltrans Contract No. 06A1580 and Task Order No. 44, for a supplemental site investigation at the [[caltrans-modesto-soil-stockpiles]] located south of the intersection of State Route (SR) 99 and Kansas Avenue in Stanislaus County, California. The workplan addresses comments received from the California Department of Toxic Substances Control (DTSC), in consultation with the [[central-valley-rwqcb]], dated September 12, 2012.
 
-### Regulatory Status
-Not documented in the provided source material.
+The document was submitted to Mr. Richard Stewart, PG of Caltrans - District 6, via electronic mail. The subject of the email was "SUPPLEMENTAL SITE INVESTIGATION WORKPLAN MODESTO SOIL STOCKPILES STATE ROUTES 99 AND 132, STANISLAUS COUNTY, CALIFORNIA CONTRACT NO. 06A1580, TASK ORDER NO. 44, EA NO. 10-403500".
 
-### Open Items
-Not documented in the provided source material.
-
-### See also
-* [[barium]]
+## See also
 * [[caltrans]]
+* [[dtsc]]
+* [[geocon-consultants]]
+* [[soil-stockpiles]]
+* [[barium]]
 * [[caltrans-modesto-soil-stockpiles]]
-* [[geocon-consultants-inc]]
-* [[stlc-ttlc]]
-* [[stockpile-3]]
+* [[central-valley-rwqcb]]

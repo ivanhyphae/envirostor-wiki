@@ -1,26 +1,21 @@
 ---
 concept: stockpile-3-bcs-removal-verification-testing
-entity_type: remedial_action
-aliases: []
-sources: ["wiki/sources/SR 132 Stockpile 3 BCS Removal Tech Memo/SR 132 Stockpile 3 BCS Removal Tech Memo.md"]
+entity_type: deliverable
+aliases: ["Stockpile 3 BCS Removal Verification Testing"]
+sources: ["wiki/sources/2- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size A-G.md", "wiki/sources/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18.md"]
 confidence: high
-created_at: 2026-08-18T17:36:14Z
+created_at: 2026-08-18T18:03:07Z
 ---
 
-## Stockpile 3 BCS Removal Verification Testing
+The [[stockpile-3-bcs-removal-verification-testing]] involved the sampling and analysis of soil excavated from former [[stockpile-3]] to confirm the effective removal of barium-containing soil (BCS). This verification was a critical step in the remediation process for the State Route 132 Project in Modesto, California, ensuring that the excavated material met specified criteria before its relocation.
 
-This article details the verification testing conducted for the removal of barium-containing soil (BCS) from former [[stockpile-3]] as part of the State Route 132 Project in Modesto, California. The testing was performed by Geocon Consultants Inc. and documented in a Technical Memorandum dated March 13, 2020, addressed to Rick Demi, PE, Construction Manager at WSP/City of Modesto.
+### Excavation and Verification
 
-### Site Record
-
-The BCS material from Stockpile 3, located adjacent and east of State Route 99 between Kansas Avenue and the Modesto Irrigation District (MID) water canal, was excavated and transported for placement as embankment fill within the designated [[stockpile-1]] fill containment zone. A total of 3,075 truckloads of BCS material, estimated at approximately 38,440 cubic yards (based on 12.5 cubic yards per truck), were moved to Stockpile 1.
-
-The BCS removal verification testing was conducted in general accordance with the January 2019 Remedial Design Implementation Plan (RDIP) for the State Route 132 Project. The RDIP specified verification testing thresholds and excavation target elevations for Stockpile 3, along with a minimum number of verification soil samples required.
+BCS material from Stockpile 3, situated east of State Route 99 between Kansas Avenue and the Modesto Irrigation District (MID) water canal, was excavated and transported to [[stockpile-1]] for use as embankment fill. A total of 3,075 truckloads, estimated at approximately 38,440 cubic yards, were moved. The verification testing for BCS removal was conducted in accordance with the January 2019 Remedial Design Implementation Plan (RDIP) for the State Route 132 Project. The RDIP established the required verification testing thresholds, target excavation elevations for Stockpile 3, and a minimum number of soil samples to be collected.
 
 ### See Also
 
 *   [[barium]]
-*   [[geocon-consultants-inc]]
 *   [[stockpile-1]]
 *   [[stockpile-3]]
 *   [[stockpile-3-excavation]]

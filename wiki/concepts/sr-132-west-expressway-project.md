@@ -1,19 +1,15 @@
 ---
 concept: sr-132-west-expressway-project
 entity_type: site
-aliases: ["SR 132 West Expressway Phase 1", "SR 132 West – Freeway/Expressway Project", "State Route 132 West Freeway/Expressway Project"]
-sources: ["wiki/sources/Errata to January 2019 RDIP - SR 132 West Expressway Phase 1/Errata to January 2019 RDIP - SR 132 West Expressway Phase 1.md", "wiki/sources/FW_ SR 132 Basin 5 Clean Fill Sampling Plan /FW_ SR 132 Basin 5 Clean Fill Sampling Plan .md", "wiki/sources/Final O and M Agreement with Cover Letter (900259)/Final O and M Agreement with Cover Letter (900259).md", "wiki/sources/Final RDIP Approval Letter (900259)/Final RDIP Approval Letter (900259).md", "wiki/sources/Fiscal Year Cost Estimate 23_24_Modesto Soil Stockpiles (900259)/Fiscal Year Cost Estimate 23_24_Modesto Soil Stockpiles (900259).md", "wiki/sources/Fiscal Year Cost Estimate 24_25_Modesto Soil Stockpiles (900259)/Fiscal Year Cost Estimate 24_25_Modesto Soil Stockpiles (900259).md", "wiki/sources/Hearing SummaryReport_SR132 6-21-17 rdcd sz/HearingSummaryReport_SR132 6.21.17 rdcd sz.md", "wiki/sources/Hwy 132 Clean Fill Source Testing Exhibit/Hwy 132 Clean Fill Source Testing Exhibit.md", "wiki/sources/LOTB-N Carpenter OC.md", "wiki/sources/Modesto Soil Stockpiles_ Final Recorded LUC/Modesto Soil Stockpiles_ Final Recorded LUC.md", "wiki/sources/OM Plan Comments (900259)/OM Plan Comments (900259).md", "wiki/sources/RDIP All Figures/RDIP All Figures.md", "wiki/sources/RDIP Errata Acceptance/RDIP Errata Acceptance.md", "wiki/sources/RDIP Variance Reqeust #2 Acceptance E-Mail/RDIP Variance Reqeust #2 Acceptance E-Mail.md", "wiki/sources/RDIP Variance Request Acceptance E-Mail/RDIP Variance Request Acceptance E-Mail.md"]
+aliases: ["SR 132 West Expressway Project", "State Route 132 West Freeway/Expressway Project"]
+sources: ["wiki/sources/03.01.2012 SR 132 west Expressway Followup5_srb.RA.md", "wiki/sources/1- SR_132_FEIR_EA_ 20180302 FINAL Main Doc.md", "wiki/sources/2- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size A-G.md", "wiki/sources/3- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size H-K.md", "wiki/sources/3.14.2018 - Approval letter for SR 132 RAP.md", "wiki/sources/43A0310-04 A01 Executed.md", "wiki/sources/43A0310-04 A02 Executed Task Order-Caltrnas Modesto Soil Stockpiles.md", "wiki/sources/43A0404-04 Executed.md", "wiki/sources/43A0487 _04 Modesto Stockpiles - signed.md", "wiki/sources/5.18.2015 - Final Caltrans Cover Letter Revised Administrative Record Caltrans Modesto Soil Stockpiles.md", "wiki/sources/Annual Cost Estimate Letter - FY 25.26 - State Route 132 (900259)/Annual Cost Estimate Letter - FY 25.26 - State Route 132 (900259).md", "wiki/sources/SR 132 Public Notice English_.md", "wiki/sources/SR 132 West Signed NOA Public.md", "wiki/sources/SR_132_DEIR_EA.md", "wiki/sources/SR_132_DEIR_EA_Append_A-F.md", "wiki/sources/SR_132_DEIR_EA_Append_G-J.md", "wiki/sources/State Route 132 RAP Approval PN (FINAL 2-21-18).md", "wiki/sources/sr-132-west-expressway-project/sr-132-west-expressway-project.md"]
 confidence: high
-created_at: 2026-08-18T17:35:31Z
+created_at: 2026-08-18T18:02:49Z
 ---
 
-The [[sr-132-west-expressway-project]] is a Caltrans highway construction project in Stanislaus County, California, that involves the remediation of the Caltrans Modesto Soil Stockpiles. The remediation strategy, as outlined in the [[remedial-design-implementation-plan]] (RDIP), involves containment of [[barium]]-containing soil stockpiles.
+The [[sr-132-west-expressway-project]] is a Caltrans highway construction project in Stanislaus County, California, that involves the remediation of the [[caltrans-modesto-soil-stockpiles]]. The remediation strategy, as outlined in the [[remedial-design-implementation-plan]] (RDIP), involves containment of [[barium]]-containing soil stockpiles. Caltrans is the responsible party for the implementation of the remediation plan under the oversight of the [[dtsc]] and the [[central-valley-rwqcb]].
 
-## Overview
-
-The SR 132 West Expressway Project is the context for the remediation of the Caltrans Modesto Soil Stockpiles. The project's construction activities, specifically Interim Phase 1, required the management and containment of these stockpiles. Caltrans is the responsible party for the implementation of the remediation plan under the oversight of the [[dtsc]] and the [[central-valley-rwqcb]].
-
-## Site record
+## Site Record
 
 The Remedial Design Implementation Plan (RDIP) for Interim Phase 1 of the SR 132 West Expressway Project was prepared by Geocon Consultants, Inc. and approved by the DTSC on April 3, 2019. An errata to this RDIP was accepted by DTSC on February 5, 2020.
 
@@ -25,15 +21,15 @@ A second variance request, dated September 2, 2020, was reviewed by DTSC and the
 
 An Operation and Maintenance (O&M) Plan was also reviewed. Comments on the Draft O&M Plan, dated August 1, 2022, were provided by DTSC. These comments included suggestions for correcting misspellings, specifying advance notification periods for disturbance of barium-containing soil (BCS), ensuring compliance with Health and Safety Code (HSC) 25123.3(b)(4)(A) regarding cap thickness, and recommending inspections after significant events such as substantial rainfall or traffic accidents. The comments also noted the need to document unauthorized access and impacts to the cap.
 
-Annual cost estimates for DTSC oversight have been provided. For the period of July 1, 2023, through June 30, 2024, DTSC estimated oversight costs for tasks including the completion of a Land Use Covenant (LUC), review of the Annual Inspection, and project management. For the period of July 1, 2024, through June 30, 2025, DTSC estimated oversight costs for reviewing the Annual Inspection, amending/reviewing the Interagency Agreement, and project management.
+Annual cost estimates for DTSC oversight have been provided. For the period of July 1, 2023, through June 30, 2024, DTSC estimated oversight costs for tasks including the completion of a Land Use Covenant (LUC), review of the Annual Inspection, and project management. For the period of July 1, 2024, through June 30, 2025, DTSC estimated oversight costs for reviewing the Annual Inspection, amending/reviewing the Interagency Agreement, and project management. An estimate for Fiscal Year 2025-2026 (July 1, 2025 - June 30, 2026) was provided on December 24, 2025, detailing costs for the administration of the LUC, review of the Annual Inspection, and project management.
 
-## Regulatory status
+## Regulatory Status
 
 The remediation of the Caltrans Modesto Soil Stockpiles is overseen by the [[dtsc]] and the [[central-valley-rwqcb]]. The RDIP, which details the containment alternative for remediation, was approved by DTSC. Land Use Covenants (LUCs) are part of the project's record, with a final recorded LUC documented.
 
-## Open items
+## Open Items
 
-As of November 21, 2024, DTSC's estimated oversight costs for the period of July 1, 2024, through June 30, 2025, include the review and approval of the Annual Inspection (due by January 18, 2025) and the amendment or review of the Interagency Agreement, which was set to expire on June 30, 2025.
+As of December 24, 2025, DTSC's estimated oversight costs for Fiscal Year 2025-2026 include the administration of the LUC, review of the Annual Inspection, and project management.
 
 ## See also
 
@@ -44,4 +40,4 @@ As of November 21, 2024, DTSC's estimated oversight costs for the period of July
 * [[soil-stockpiles]]
 * [[barium]]
 * [[central-valley-rwqcb]]
-* [[clean-soil-cover]]
+* [[caltrans-modesto-soil-stockpiles]]

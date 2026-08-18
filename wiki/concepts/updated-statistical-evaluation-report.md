@@ -1,23 +1,17 @@
 ---
 concept: updated-statistical-evaluation-report
 entity_type: deliverable
-aliases: ["statistical evaluation report"]
-sources: ["wiki/sources/S2350-01-02 Updated Statistical Evaluation Report_2-24/S2350-01-02 Updated Statistical Evaluation Report_2.24.md"]
+aliases: ["Updated Statistical Evaluation Report"]
+sources: ["wiki/sources/11 29 2012 Caltrans GND Water Monitoring Rpts.md"]
 confidence: high
-created_at: 2026-08-18T17:35:52Z
+created_at: 2026-08-18T18:03:20Z
 ---
 
-## Updated Statistical Evaluation Report
+The Updated Statistical Evaluation Report, dated February 24, was prepared by Geocon Consultants, Inc. This report presents a statistical analysis of groundwater data collected at the [[caltrans-modesto-soil-stockpiles]] site, specifically focusing on the evaluation of [[barium]] concentrations in relation to established thresholds.
 
-The Updated Statistical Evaluation Report, dated February 24, was prepared by Geocon Consultants, Inc. This report presents a statistical analysis of groundwater data collected at the Caltrans Modesto Soil Stockpiles site, specifically focusing on the evaluation of barium concentrations in relation to established thresholds.
+## Barium Exceedances
 
-## Site record
-
-The Updated Statistical Evaluation Report analyzed data from several monitoring wells, including MW-4, MW-9, and MW-10. The report identified barium concentrations that exceeded the applicable screening level. For instance, barium was detected at MW-4 at a concentration of 1,100 micrograms per liter (µg/L) on October 26, 2021. Similarly, MW-9 showed a barium concentration of 1,200 µg/L on the same date, and MW-10 recorded 1,100 µg/L on October 27, 2021. These concentrations are above the screening level of 1,000 µg/L.
-
-## Regulatory status
-
-The screening level for barium at this site is 1,000 µg/L. The concentrations detected in MW-4, MW-9, and MW-10, as reported in the Updated Statistical Evaluation Report, exceed this threshold.
+The Updated Statistical Evaluation Report analyzed groundwater data from monitoring wells [[mw-4]], [[mw-9]], and [[mw-10]]. Barium concentrations detected in these wells exceeded the applicable screening level of 1,000 micrograms per liter (µg/L). Specifically, barium was detected at MW-4 at a concentration of 1,100 µg/L on October 26, 2021. On the same date, MW-9 showed a barium concentration of 1,200 µg/L. MW-10 recorded a barium concentration of 1,100 µg/L on October 27, 2021.
 
 ## See also
 

@@ -1,26 +1,25 @@
 ---
 concept: arielle-mcleskey
 entity_type: person
-aliases: ["Arielle McLeskey"]
-sources: ["wiki/sources/DTSC Approval Response for final version of Well Destruction Report.md", "wiki/sources/DTSC PM Change Notice - State Route 132 - Modesto Soil Stockpiles, Modesto.md"]
+aliases: []
+sources: ["wiki/sources/DTSC Approval Response for final version of Well Destruction Report/DTSC Approval Response for final version of Well Destruction Report.md", "wiki/sources/DTSC PM Change Notice - State Route 132 - Modesto Soil Stockpiles, Modesto.md"]
 confidence: high
-created_at: 2026-08-18T17:35:16Z
+created_at: 2026-08-18T18:03:39Z
 ---
 
-## Arielle Mcleskey
+Arielle McLeskey is identified in project documentation as a Project Manager for the [[dtsc]]. She was the DTSC Project Manager who signed the [[dtsc-conditional-approval-of-well-destruction-report]] dated January 26, 2023.
 
-Arielle Mcleskey is identified in project documentation as a Project Manager for the [[dtsc]].
+### Conditional Approval of Well Destruction Report
 
-### Regulatory status
-
-Mcleskey was the DTSC Project Manager who signed the [[dtsc-conditional-approval-of-well-destruction-report]] dated January 26, 2023.
+On January 30, 2026, McLeskey issued a conditional approval for the Well Destruction Completion Report. She noted that only one correction was needed. McLeskey followed up with Adam Inman of [[caltrans]] on March 16, 2026, to inquire if he had sent the revised report, as she had not received it.
 
 ### See also
 
 * [[caltrans]]
 * [[dtsc]]
 * [[adam-inman]]
-* [[dean-wright]]
 * [[dtsc-conditional-approval-of-well-destruction-report]]
-* [[removal-action-completion-report-racr]]
 * [[well-destruction]]
+* [[dean-wright]]
+* [[dtsc-pm-change-notice-state-route-132-modesto-soil-stockpiles]]
+* [[removal-action-completion-report-racr]]

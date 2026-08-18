@@ -1,13 +1,11 @@
 ---
 concept: stockpile-2-confirmation-sampling-tech-memo
 entity_type: deliverable
-aliases: []
-sources: ["wiki/sources/Stockpile 2 Confirmation Sampling Tech Memo Approval/Stockpile 2 Confirmation Sampling Tech Memo Approval.md"]
+aliases: ["Stockpile 2 Confirmation Sampling Tech Memo"]
+sources: ["wiki/sources/2- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size A-G.md", "wiki/sources/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18.md"]
 confidence: high
-created_at: 2026-08-18T17:36:09Z
+created_at: 2026-08-18T18:03:03Z
 ---
-
-## Stockpile 2 Confirmation Sampling Tech Memo
 
 This technical memorandum, dated March 9, 2020, documented the removal of Barium Containing Soil (BCS) from the east and west ends of [[stockpile-2]]. It also detailed the subsequent confirmation soil sampling conducted to verify that cleanup levels established in the Remedial Design Implementation Plan (RDIP) had been achieved in these areas. The [[dtsc]] (DTSC) reviewed this memo and, based on the sampling results, agreed that the east and west ends of Stockpile 2 met the RDIP verification thresholds and were suitable for the placement of clean embankment fill.
 

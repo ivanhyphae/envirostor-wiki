@@ -1,38 +1,33 @@
 ---
 concept: excavation-monitoring-plan
 entity_type: deliverable
-aliases: ["Excavation Monitoring Plan", "the Plan"]
-sources: ["wiki/sources/S9650-06-03 Modesto Ramp Ex Mon Plan -no appx-0612/S9650-06-03 Modesto Ramp Ex Mon Plan -no appx-0612.md"]
+aliases: ["Excavation Monitoring Plan"]
+sources: ["wiki/sources/2- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size A-G.md"]
 confidence: high
-created_at: 2026-08-18T17:36:05Z
+created_at: 2026-08-18T18:01:18Z
 ---
 
-## Excavation Monitoring Plan
+The Excavation Monitoring Plan (the Plan) was developed by [[geocon-consultants-inc]] for [[caltrans]] to guide the safe excavation of contaminated soil at [[stockpile-3]] during highway improvements. It details procedures for air monitoring and verification of excavation completion, focusing on risks associated with barium.
 
-### Overview
+### Site Record and Oversight
 
-The Excavation Monitoring Plan (the Plan) was prepared by [[geocon-consultants-inc]] on behalf of [[caltrans]] for the [[caltrans-modesto-soil-stockpiles]] project, specifically addressing planned construction excavations adjacent to the existing State Route 99 (SR99) Kansas Avenue Off-ramp in Modesto, California. The Plan outlines procedures for air monitoring and verification of completed excavations within [[stockpile-3]] during highway safety and widening improvements. It summarizes previous site investigations, health risks associated with identified contaminants (notably barium), and the excavation monitoring process.
+The Plan specifically addresses the excavation of the northern portion of [[stockpile-3]] for the SR99 Kansas Avenue off-ramp traffic safety improvements. Approximately 2,800 cubic yards of fill material from [[stockpile-3]] were scheduled for excavation over an estimated five working days during daytime off-ramp closures. This material was to be disposed of as non-hazardous waste at the Fink Road Sanitary Landfill. Excavations into underlying native soils were not expected to require special handling or air monitoring.
 
-### Site Record
+Oversight of the excavation was to be provided by a California Professional Geologist (PG) or a supervised field geologist/engineer from [[geocon-consultants-inc]]. This individual was responsible for documenting daily activities, including personnel, air monitoring locations, visible dust, active excavation, material quantities, and confirmation of excavation limits within [[stockpile-3]] to native soil. Daily field reports, supplemented by photographs, were to be maintained. The oversight representative also had the authority to collect soil samples and prepare chain-of-custody documentation.
 
-The [[stockpile-3]] Excavation Monitoring Plan details monitoring activities associated with the excavation of the northern portion of [[stockpile-3]] during construction of the SR99 Kansas Avenue off-ramp traffic safety improvements. Teichert is scheduled to conduct this excavation over an estimated five working days during daytime off-ramp closures. The excavated [[stockpile-3]] fill material, estimated at approximately 2,800 cubic yards, will be disposed of as non-hazardous waste at the Fink Road Sanitary Landfill in Crows Landing, Stanislaus County, California. Excavations within underlying native soils will not require special handling, excavation, or air monitoring.
+The Plan references previous site characterization data, including the 2009 Final Preliminary Endangerment Assessment (PEA) for the [[caltrans-modesto-soil-stockpiles]] by Shaw, and additional characterization by [[geocon-consultants-inc]] in April 2012. This 2012 work involved 19 soil borings within the [[stockpile-3]] off-ramp excavation area to evaluate chemicals of potential concern (COPCs), particularly barium, which was elevated in stockpiles generated from evaporation ponds.
 
-Oversight of the [[stockpile-3]] excavation activities will be provided by a [[geocon-consultants-inc]] California Professional Geologist (PG) or a field geologist/engineer under the direct supervision of a PG. This representative will determine when planned construction excavation limits within the [[stockpile-3]] fill materials have been completed. The individual performing oversight will maintain daily field logs documenting personnel, activities, air monitoring locations, visible dust, active soil excavation, quantities of materials excavated, and confirmation of excavation limits within [[stockpile-3]] (confirming native soil conditions). Daily field reports will be supplemented by photographs as applicable. The oversight individual may also collect soil samples and prepare chain-of-custody documentation.
+### Project Context and Limitations
 
-The Plan references previous site characterization data from the Final Preliminary Endangerment Assessment (PEA) for the [[caltrans-modesto-soil-stockpiles]] prepared by Shaw in 2009, and additional site characterization completed by [[geocon-consultants-inc]] in April 2012 for the planned [[stockpile-3]] off-ramp construction area. This additional characterization involved 19 soil borings within the [[stockpile-3]] off-ramp excavation area. The PEA evaluated the nature and extent of chemicals of potential concern (COPCs) and assessed potential risks to human health and the environment from stockpiles 1, 2, and 3, which were placed in the early 1960s and generated from excavations of evaporation ponds containing elevated barium and other COPCs.
+The [[caltrans-modesto-soil-stockpiles]] project operates under an Interagency Agreement involving [[caltrans]], the California Department of Toxic Substances Control (DTSC), and the Central Valley Regional Water Quality Control Board (RWQCB). The Excavation Monitoring Plan was a deliverable under Caltrans Contract No. 06A1634 and Work Request EA No. 10-0A671.
 
-### Regulatory Status
+The Plan was prepared solely for [[caltrans]] and is based on limited sampling and laboratory testing. It is not a complete set of construction plans or specifications and is valid as of its date, June 13, 2012. Updates may be required to reflect subsequent site activities. The services were performed in accordance with the local standard of care at the time of service.
 
-The [[caltrans-modesto-soil-stockpiles]] project is being addressed under an Interagency Agreement between [[caltrans]], the California Department of Toxic Substances Control (DTSC), and the Central Valley Regional Water Quality Control Board (RWQCB). The Plan itself is a deliverable under Caltrans Contract No. 06A1634 and Work Request EA No. 10-0A671.
-
-### Limitations
-
-This Plan was prepared solely for [[caltrans]] and is based on the results of limited sampling and laboratory testing. It does not constitute a complete set of construction plans or specifications. The information is valid as of the Plan's date (June 13, 2012) and may require updates to reflect additional site activities. Services were conducted in accordance with the local standard of care at the time of service.
-
-### See also
+## See also
 
 * [[caltrans]]
 * [[caltrans-modesto-soil-stockpiles]]
 * [[geocon-consultants-inc]]
 * [[stlc-ttlc]]
 * [[stockpile-3]]
+* [[barium-mcl]]

@@ -1,39 +1,36 @@
 ---
 concept: ceqa
 entity_type: regulatory_decision
-aliases: ["CEQA", "California Environmental Quality Act"]
-sources: ["wiki/sources/opr25@opr.ca.gov_20180319_135531/opr25@opr.ca.gov_20180319_135531.md"]
+aliases: ["", "California Environmental Quality Act", "california-environmental-quality-act"]
+sources: ["wiki/sources/1- SR_132_FEIR_EA_ 20180302 FINAL Main Doc.md", "wiki/sources/2- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size A-G.md", "wiki/sources/3.15.2018 - Caltrans Modesto SOF.md", "wiki/sources/opr25@opr.ca.gov_20180319_135531/opr25@opr.ca.gov_20180319_135531.md"]
 confidence: high
-created_at: 2026-08-18T17:36:17Z
+created_at: 2026-08-18T18:00:57Z
 ---
 
-The California Environmental Quality Act (CEQA) is a state law that requires state and local agencies to consider the environmental implications of their actions before approving projects. For the [[modesto-soil-stockpiles]] project, CEQA compliance involved the preparation and certification of an Environmental Impact Report/Environmental Assessment (EIR/EA) by [[caltrans]], the Lead Agency. The Department of Toxic Substances Control (DTSC), a CEQA Responsible Agency, utilized this EIR/EA for its own CEQA analysis.
+The California Environmental Quality Act (CEQA) is a state law requiring agencies to consider environmental implications before approving projects. For the [[modesto-soil-stockpiles]] project, CEQA compliance involved the preparation and certification of an Environmental Impact Report/Environmental Assessment (EIR/EA) by [[caltrans]], the Lead Agency. The Department of Toxic Substances Control (DTSC), a CEQA Responsible Agency, utilized this EIR/EA for its own CEQA analysis.
 
-## Overview
+## Regulatory Determinations
 
-The [[caltrans]] Modesto Soil Stockpiles project involved the containment of approximately 160,000 cubic yards of soil contaminated with metals. [[caltrans]], as the Lead Agency under CEQA, prepared an EIR/EA and certified it on March 2, 2018. DTSC, acting as a Responsible Agency, approved the project on March 14, 2018, based on the EIR/EA. DTSC determined that the project would not have a significant effect on the environment, and mitigation measures were made a condition of project approval.
-
-## Site Record
-
-The project consists of the containment of three stockpiles of soil containing metals, primarily barium, strontium, and lead. These stockpiles are located south of the SR 99/Kansas Avenue Interchange in Modesto, Stanislaus County. The containment strategy involves constructing retaining walls, bridge abutments, and placing the stockpiles beneath the roadway. Unpaved areas will be covered with clean fill. This remedy aims to prevent exposure and minimize surface water infiltration into groundwater. Annual inspections of the containment features and groundwater monitoring are planned to ensure the long-term integrity of the remedy.
-
-## Regulatory Status
-
-[[caltrans]] certified the EIR/EA on March 2, 2018. DTSC approved the project on March 14, 2018, issuing a [[notice-of-determination]]. DTSC made the following determinations under CEQA:
+On March 14, 2018, DTSC, as a CEQA Responsible Agency, approved the Caltrans Modesto Soil Stockpiles project. DTSC made the following determinations under CEQA:
 *   The project will not have a significant effect on the environment.
-*   An EIR that included this project was prepared and certified by [[caltrans]].
+*   An Environmental Impact Report that included this project was prepared and certified by [[caltrans]] on March 2, 2018.
 *   Mitigation measures were made a condition of project approval.
-*   Findings were made pursuant to CEQA.
+*   Findings were made pursuant to the provisions of CEQA.
 
-A Statement of Overriding Considerations was not adopted for this project by DTSC.
+DTSC did not adopt a Statement of Overriding Considerations for this project.
 
-## Open Items
+## Project Description and Remedy
 
-The final environmental document, comments and responses, and the record of project approval are available to the public at the Caltrans District 10 Office, the DTSC File Room, and online via the Caltrans website. DTSC's EnviroStor website also provides information on the project.
+The project involves the containment of approximately 160,000 cubic yards of soil contaminated with metals, primarily barium, strontium, and lead. These stockpiles are located south of the SR 99/Kansas Avenue Interchange in Modesto, Stanislaus County. The containment strategy includes constructing retaining walls and bridge abutments, and placing the stockpiles beneath the roadway. Unpaved areas will be covered with clean fill. This remedy is designed to prevent exposure and minimize surface water infiltration into groundwater. Annual inspections of the containment features and groundwater monitoring are planned to ensure the long-term integrity of the remedy.
+
+## Public Record
+
+The final environmental document, comments and responses, and the record of project approval are publicly available at the Caltrans District 10 Office, the DTSC File Room, and online via the Caltrans website. DTSC's EnviroStor website also provides information on the project.
 
 ## See Also
 
 *   [[caltrans]]
 *   [[dtsc]]
 *   [[modesto-soil-stockpiles]]
+*   [[final-environmental-impact-report-environmental-assessment]]
 *   [[notice-of-determination]]

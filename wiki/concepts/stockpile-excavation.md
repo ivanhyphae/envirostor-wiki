@@ -1,33 +1,31 @@
 ---
 concept: stockpile-excavation
 entity_type: remedial_action
-aliases: ["Stockpile 3 excavation"]
-sources: ["wiki/sources/Hearing SummaryReport_SR132 6-21-17 rdcd sz/HearingSummaryReport_SR132 6.21.17 rdcd sz.md"]
-confidence: medium
-created_at: 2026-08-18T17:35:37Z
+aliases: ["Excavation of Stockpile #3", "Stockpile Excavation"]
+sources: ["wiki/sources/2- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size A-G.md", "wiki/sources/5.18.2015 - Final Caltrans Cover Letter Revised Administrative Record Caltrans Modesto Soil Stockpiles.md", "wiki/sources/Caltrans Ramp Letter dated 5.29.12.md", "wiki/sources/stockpile-3-excavation/stockpile-3-excavation.md"]
+confidence: high
+created_at: 2026-08-18T18:03:09Z
 ---
 
-## Stockpile Excavation
+Stockpile excavation was a remedial action implemented at the [[caltrans]] Modesto Soil Stockpiles site, located along SR 132 in Stanislaus County, California. This action was part of the [[sr-132-west-expressway-project]] to address soil contamination.
 
-### Overview
+### Excavation and Verification
 
-Stockpile excavation was a remedial action undertaken at the [[caltrans]] Modesto Soil Stockpiles site, located along SR 132 in Stanislaus County, California. This action was implemented to address soil contamination identified at the site.
+The [[sr-132-west-expressway-project]] involved the excavation of soil stockpiles. A Caltrans letter dated May 29, 2012, addressed the remediation of soil stockpiles, including the excavation of approximately 1,000 cubic yards of soil from Stockpile 3. This excavation was conducted to address elevated concentrations of contaminants, specifically [[barium]], which exceeded the [[california-mcl]] for that analyte. Verification sampling was performed following excavation to confirm that contaminant levels in the remaining soil met regulatory requirements.
 
-### Site Record
+The Final Caltrans Cover Letter for the Revised Administrative Record, dated May 18, 2015, references the remediation of soil stockpiles. This letter indicates that the excavation of Stockpile 3 was completed to address [[barium]] contamination.
 
-Excavation of stockpiled soil was conducted as part of the remediation efforts. The Hearing Summary Report dated June 21, 2017, references the excavation of stockpiles. Specific details regarding the volume of soil excavated, the analytes targeted by this excavation, or the concentrations of contaminants within the excavated material are not explicitly detailed in the provided source document in relation to the excavation action itself. However, the report does mention that the excavation was related to addressing contamination, including [[barium]], [[chromium]], and [[lead]].
+### Contaminants of Concern
 
-### Regulatory Status
-
-The excavation of stockpiles was a component of the overall remediation strategy for the site, overseen by the DTSC. The goal was to remove or mitigate contaminated soil, thereby reducing potential risks and bringing the site into compliance with regulatory standards.
+The primary contaminant of concern addressed by stockpile excavation was [[barium]]. The [[california-mcl]] for barium is 1,000 micrograms per liter (µg/L). Excavation of Stockpile 3 was undertaken because the soil within it contained barium at concentrations exceeding this regulatory threshold.
 
 ### See Also
 
-* [[barium]]
+* [[caltrans]]
+* [[dtsc]]
+* [[stockpile-3]]
+* [[site-specific-background-levels]]
+* [[soil-stockpile-3]]
+* [[sr-132-west-expressway-project]]
 * [[barium-mcl]]
 * [[california-mcl]]
-* [[caltrans]]
-* [[chromium]]
-* [[dtsc]]
-* [[lead]]
-* [[manganese]]

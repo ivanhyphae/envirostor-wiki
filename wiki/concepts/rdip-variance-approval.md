@@ -1,38 +1,36 @@
 ---
 concept: rdip-variance-approval
 entity_type: regulatory_decision
-aliases: ["RDIP Variance", "RDIP Variance #2 Approval", "RDIP Variance Request Acceptance"]
-sources: ["wiki/sources/Caltrans Modesto Soil Stcokpiles RDIP Variance/Caltrans Modesto Soil Stcokpiles RDIP Variance.md", "wiki/sources/RDIP Variance Reqeust #2 Acceptance E-Mail/RDIP Variance Reqeust #2 Acceptance E-Mail.md", "wiki/sources/RDIP Variance Request Acceptance E-Mail/RDIP Variance Request Acceptance E-Mail.md"]
+aliases: ["RDIP Variance Approval"]
+sources: ["wiki/sources/2- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size A-G.md"]
 confidence: high
-created_at: 2026-08-18T17:35:05Z
+created_at: 2026-08-18T18:02:21Z
 ---
 
-## RDIP Variance Approval
+[[rdip-variance-approval]] refers to formal acceptances by regulatory agencies of proposed deviations from the [[remedial-design-implementation-plan]] (RDIP) for the [[sr-132-west-expressway-project]]. These approvals are critical for managing the sourcing and placement of clean cover fill materials used in the remediation of [[barium-containing-soil-consolidation]] (BCS) and aerially deposited lead (ADL) within soil stockpiles.
 
-### Overview
-This section details approvals granted by the California Department of Toxic Substances Control (DTSC) and the Water Board (WB) for variances to the Remedial Design Implementation Plan (RDIP) concerning the Caltrans Modesto Soil Stockpiles. These variances address the sourcing and use of clean cover fill materials for capping barium-containing soil (BCS) and aerially deposited lead (ADL) within Stockpiles 1 and 2 during the [[sr-132-west-expressway-project]].
+### Clean Fill Source Approvals
 
-### Site Record
-On April 9, 2020, Geocon submitted a Variance to Remedial Design Implementation Plan (RDIP Variance) to DTSC. This variance addressed the identified sources of clean cover fill materials for capping consolidated barium-containing soil (BCS) within Stockpiles 1 and 2.
+On April 9, 2020, [[geocon-consultants]] submitted a variance request to the [[dtsc]] concerning clean cover fill for BCS within Stockpiles 1 and 2. Two primary sources were identified and subsequently approved:
 
-*   **Carpenter Road Area:** The highway contractor, Bay Cities Paving and Grading, initially identified an area adjacent and east of Carpenter Road within the SR 132 right-of-way as a clean fill source. Geocon, in coordination with [[caltrans]] and DTSC, evaluated this area and determined that the planned highway underpass excavation area adjacent and east of Carpenter Road would generate suitable soil material. DTSC subsequently approved this planned Carpenter Road clean fill source area.
-*   **MSE Wall Footing Excavations (Stockpile 1):** An additional source of clean fill material was identified at the proposed mechanically stabilized earth (MSE) wall footing excavations (approximately five-foot-deep) along the southern boundaries of Stockpiles 1 and 2. Geocon evaluated the MSE wall footing material along the southern boundary of Stockpile 1. It was determined that the upper foot of planned wall footing excavation soil contained elevated barium concentrations and would be placed in Stockpile 1 and 2 permanent fill areas. However, soil extending from 1 to 5 feet from existing grade in this area contained barium concentrations with a calculated 95% upper confidence limit (UCL) of 113.1 mg/kg, which was within the range of site-specific naturally occurring background. DTSC and the Water Board, via an email dated April 17, 2020, officially accepted this material from the southern boundary of Stockpile 1 for use as clean cap soil. Approval for similar material from the southern boundary of Stockpile 2 was pending data submission and review.
+*   **Carpenter Road Area:** Soil generated from the planned highway underpass excavation area adjacent and east of Carpenter Road, within the SR 132 right-of-way, was identified as a suitable source of clean fill. [[caltrans]] and DTSC evaluated this area, and DTSC approved its use.
+*   **MSE Wall Footing Excavations (Stockpile 1):** Material from MSE wall footing excavations along the southern boundary of Stockpile 1 was also evaluated. While the upper foot of this excavation contained elevated barium, soil from 1 to 5 feet below existing grade had barium concentrations within the site-specific background range (95% UCL of 113.1 mg/kg). DTSC and the Water Board, via email on April 17, 2020, accepted this deeper material for use as clean cap soil. Approval for similar material from Stockpile 2 was pending.
 
-On September 2, 2020, a Second Variance to the Remedial Design Implementation Plan (Request) was submitted. This request provided characteristics of Class 1, Class 2, and Class 3 aggregate subbase material, indicating that a minimum of 4 inches of Class 3 subbase material would provide adequate clean cover over the BCS/ADL stockpiles until pavement and hardscape completion.
+### Class 3 Subbase Material Approval
 
-*   **Class 3 Subbase Material:** DTSC and the Water Board reviewed this request and agreed that Class 3 subbase could be used as an acceptable clean cap alternative. A visual inspection on September 15, 2020, revealed the material was primarily a fine sand. Due to its fine-grained nature, both agencies agreed that a minimum cap thickness of 6 inches was warranted, rather than the initially proposed 4 inches, especially since no pavement or hardscaping would be completed before the upcoming rainy season.
-*   **Sampling Requirement:** DTSC and the Water Board requested a single, composite sample be obtained for barium and lead analysis (EPA Test Method 6010B) from the stockpile of Class 3 material adjacent to the Rosemore Overcrossing to ensure it met RDIP standards.
-*   **RDIP Variance #2 Approval:** DTSC, via an email dated September 21, 2020, officially accepted the request for the use of Class 3 subbase, with the condition of a 6-inch minimum cap thickness and potential for increased monitoring.
+A second variance request was submitted on September 2, 2020, proposing the use of Class 3 aggregate subbase material as an alternative clean cap.
 
-### Regulatory Status
-The DTSC and the Water Board are the regulatory agencies involved in reviewing and approving variances to the RDIP. Approvals have been granted for specific sources of clean fill material, with conditions regarding thickness and sampling.
+*   **Material Characteristics and Approval:** DTSC and the Water Board reviewed the characteristics of Class 1, Class 2, and Class 3 subbase materials. They agreed that Class 3 subbase could serve as an acceptable clean cap.
+*   **Thickness Adjustment:** Following a visual inspection on September 15, 2020, which noted the Class 3 material was primarily fine sand, both agencies determined that a minimum cap thickness of 6 inches was warranted, an increase from the initially proposed 4 inches, particularly due to the upcoming rainy season and the absence of immediate pavement or hardscaping.
+*   **Sampling Requirement:** DTSC and the Water Board requested a single composite sample from the Class 3 material stockpile near the Rosemore Overcrossing for barium and lead analysis (EPA Test Method 6010B) to confirm it met RDIP standards.
+*   **RDIP Variance #2 Approval:** DTSC officially accepted the use of Class 3 subbase material via email on September 21, 2020, with the condition of a 6-inch minimum thickness and the possibility of increased monitoring.
 
-### See Also
+## See also
 * [[caltrans]]
 * [[dtsc]]
+* [[variance-approvals]]
+* [[geocon-consultants]]
 * [[remedial-design-implementation-plan]]
 * [[sr-132-west-expressway-project]]
-* [[barium]]
+* [[barium-containing-soil-consolidation]]
 * [[borrow-area]]
-* [[central-valley-rwqcb]]
-* [[clean-soil-cover]]

@@ -1,10 +1,10 @@
 ---
 concept: operation-and-maintenance-plan
 entity_type: deliverable
-aliases: ["Draft O&M Plan", "Draft Operation and Maintenance Plan", "O&M Plan"]
-sources: ["wiki/sources/Final O and M Agreement with Cover Letter (900259)/Final O and M Agreement with Cover Letter (900259).md", "wiki/sources/OM Plan Comments (900259)/OM Plan Comments (900259).md", "wiki/sources/RE_ Modesto Stockpile Annual Inspection 2026_DTSC Approval/RE_ Modesto Stockpile Annual Inspection 2026_DTSC Approval.md"]
+aliases: ["O&M Plan", "Operation and Maintenance Plan", "operations-and-maintenance-plan"]
+sources: ["wiki/sources/1- SR_132_FEIR_EA_ 20180302 FINAL Main Doc.md", "wiki/sources/2- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size A-G.md", "wiki/sources/3- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size H-K.md", "wiki/sources/Annual Stockpile Inspection Form/Annual Stockpile Inspection Form.md", "wiki/sources/Final O and M Agreement with Cover Letter (900259)/Final O and M Agreement with Cover Letter (900259).md", "wiki/sources/Modesto Soil Stockpiles_ Final Recorded LUC/Modesto Soil Stockpiles_ Final Recorded LUC.md", "wiki/sources/OM Plan Comments (900259)/OM Plan Comments (900259).md", "wiki/sources/S1908-01-01 Caltrans Modesto Stockpile Interim RACR_12.22 (1)/S1908-01-01 Caltrans Modesto Stockpile Interim RACR_12.22 (1).md", "wiki/sources/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan-Revised_10-14.md", "wiki/sources/SR_132_DEIR_EA_Append_G-J.md"]
 confidence: high
-created_at: 2026-08-18T17:35:30Z
+created_at: 2026-08-18T18:02:06Z
 ---
 
 The Operation and Maintenance (O&M) Plan for the Caltrans Modesto Soil Stockpiles is a formal agreement between the California Department of Transportation (Caltrans) and the Department of Toxic Substances Control (DTSC) that outlines procedures for managing barium-containing soil (BCS) stockpiles. These stockpiles, consolidated and capped with clean fill material, were incorporated as highway embankment fill for the State Route (SR) 132 West Expressway Project. The O&M Plan ensures the long-term protection of public health and the environment by detailing requirements for maintaining the integrity of the clean soil cover and addressing any potential disturbance of the BCS.

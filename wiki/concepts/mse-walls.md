@@ -1,35 +1,25 @@
 ---
 concept: mse-walls
 entity_type: infrastructure
-aliases: ["Mechanically Stabilized Earth walls"]
-sources: ["wiki/sources/3.15.2018 - Caltrans Modesto SOF.md"]
-confidence: medium
-created_at: 2026-08-18T17:34:22Z
+aliases: ["MSE Walls"]
+sources: ["wiki/sources/2- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size A-G.md", "wiki/sources/3- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size H-K.md", "wiki/sources/Annual Stockpile Inspection Form/Annual Stockpile Inspection Form.md", "wiki/sources/stockpile-1-mse-wall-footing-excavation-characterization-testing/stockpile-1-mse-wall-footing-excavation-characterization-testing.md", "wiki/sources/stockpile-2-mse-wall-footing-excavation-characterization-testing/stockpile-2-mse-wall-footing-excavation-characterization-testing.md"]
+confidence: high
+created_at: 2026-08-18T18:01:38Z
 ---
 
-## MSE Walls
+Mechanically Stabilized Earth (MSE) walls are a type of retaining structure employed in the remediation of the Caltrans Modesto Soil Stockpiles site. These structures are integral to the containment strategy for the [[soil-stockpiles]], working in conjunction with [[clean-fill-capping]] and [[clean-soil-cover]] to manage soils that may contain contaminants such as [[lead]] and [[barium]].
 
-Mechanically Stabilized Earth (MSE) walls are a type of retaining structure used in the remediation of the Caltrans Modesto Soil Stockpiles site. These walls are constructed using compacted soil reinforced with geosynthetic or metallic materials. At this site, MSE walls are part of the remedial strategy, specifically in conjunction with [[clean-fill-capping]] and [[clean-soil-cover]] to manage contaminated soil.
+## Site Record and Function
 
-## Site record
-
-The project record indicates that MSE walls are a component of the remedial design for the SR 132 site in Stanislaus County. The construction of these walls is intended to provide stable containment for stockpiled soils, which may contain contaminants such as [[lead]] and [[barium]]. The specific design and construction details of the MSE walls are documented within the project's remedial action plans and construction specifications. The use of MSE walls is integrated with the placement of clean fill and soil covers to achieve final site remediation goals.
-
-## Regulatory status
-
-The use and construction of MSE walls are subject to the approval of regulatory agencies, including the Department of Toxic Substances Control (DTSC). The design and implementation of MSE walls must meet the requirements outlined in the approved remedial action plan and any subsequent DTSC directives.
-
-## Open items
-
-Further details regarding the specific performance monitoring or long-term maintenance requirements for the MSE walls are not explicitly detailed in the provided source material.
+The project documentation confirms the use of MSE walls as a component of the remedial design for the SR 132 site in Stanislaus County. Their construction is intended to provide stable containment for the stockpiled soils. The Annual Stockpile Inspection Form includes photographic evidence of retaining walls associated with [[stockpile-1]] and [[stockpile-2]]. Specifically, an image labeled "Retaining wall Stockpile #2" shows a textured concrete retaining wall. Another image, "North slope Stockpile #1," depicts a long, plain light-gray concrete block wall adjacent to the highway embankment. These walls are part of the engineered systems designed to ensure the long-term stability and containment of the remediated areas.
 
 ## See also
 
-*   [[barium]]
-*   [[caltrans]]
-*   [[clean-fill-capping]]
-*   [[clean-fill-suitable-as-cover]]
-*   [[clean-soil-cover]]
-*   [[dtsc]]
-*   [[lead]]
-*   [[mse-wall-construction]]
+* [[mse-wall-construction]]
+* [[soil-stockpiles]]
+* [[stockpile-1]]
+* [[stockpile-2]]
+* [[stockpile-3]]
+* [[stockpile-3-excavation]]
+* [[barium-containing-soil-consolidation]]
+* [[california-chhsl]]

@@ -1,21 +1,19 @@
 ---
 concept: stockpile-3-confirmation-sampling-tech-memo
 entity_type: deliverable
-aliases: []
-sources: ["wiki/sources/Stockpile 3 Confirmation Sampling Tech Memo Approval/Stockpile 3 Confirmation Sampling Tech Memo Approval.md"]
+aliases: ["Stockpile 3 Confirmation Sampling Tech Memo"]
+sources: ["wiki/sources/2- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size A-G.md", "wiki/sources/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18.md"]
 confidence: high
-created_at: 2026-08-18T17:36:11Z
+created_at: 2026-08-18T18:03:08Z
 ---
 
-## Stockpile 3 Confirmation Sampling Tech Memo
+The [[stockpile-3-confirmation-sampling-tech-memo]], dated March 13, 2020, was prepared by [[geocon-consultants-inc]] and submitted by [[caltrans]] to the [[dtsc]]. This deliverable documented the excavation of Barium Containing Soil (BCS) from Stockpile 3 and the subsequent confirmation soil sampling, verifying that the area achieved the cleanup levels established in the Remedial Design Implementation Plan (RDIP).
 
-This document, dated March 13, 2020, was prepared by [[geocon-consultants-inc]] and submitted by [[caltrans]] to the [[dtsc]] for approval. It details the removal of Barium Containing Soil (BCS) from Stockpile 3 and the subsequent confirmation soil sampling. The memo serves as verification that the area has achieved the cleanup levels established in the Remedial Design Implementation Plan (RDIP).
+## Excavation and Verification
 
-## Site Record
+The Stockpile 3 BCS Removal Verification Testing Technical Memorandum documented the excavation of BCS Stockpile 3. Analytical verification confirmed that concentrations of [[barium]] and [[lead]] in the native soil remaining at the site were below the threshold values established in the RDIP. This indicated that the removal and relocation of all BCS stockpile material was complete.
 
-The Stockpile 3 BCS Removal Verification Testing Technical Memorandum, dated March 13, 2020, documented the excavation of BCS Stockpile 3. Analytical verification confirmed that concentrations of [[barium]] and [[lead]] in the native soil remaining at the site were below the threshold values established in the RDIP. This indicated that the removal and relocation of all BCS stockpile material was complete.
-
-## Regulatory Status
+## Regulatory Acceptance
 
 On March 18, 2020, Dean Wright of the [[dtsc]] issued an email accepting the March 13, 2020, Technical Memorandum. This acceptance confirmed that the sampling results showed Stockpile 3 BCS had been removed and the remaining soil met the RDIP verification thresholds. The [[dtsc]] agreed that no further BCS RDIP monitoring requirements were necessary for this area, deeming it suitable for clean embankment fill.
 
@@ -27,9 +25,7 @@ Following the approval of the Stockpile 3 BCS removal, [[caltrans]] requested ap
 
 * [[barium]]
 * [[caltrans]]
-* [[central-valley-rwqcb]]
 * [[dtsc]]
-* [[geocon-consultants-inc]]
 * [[lead]]
-* [[rap-approval]]
-* [[site-specific-background-levels]]
+* [[stockpile-3]]
+* [[stockpile-3-excavation]]

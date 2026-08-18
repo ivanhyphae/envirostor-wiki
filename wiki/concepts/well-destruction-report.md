@@ -1,42 +1,28 @@
 ---
 concept: well-destruction-report
 entity_type: deliverable
-aliases: ["WDR"]
-sources: ["wiki/sources/S1200-01-01 Modesto Stockpiles Well Dest Rpt_06-19/S1200-01-01 Modesto Stockpiles Well Dest Rpt_06.19.md", "wiki/sources/S2350-01-02 Well Destruction Report_6-25/S2350-01-02 Well Destruction Report_6.25.md"]
+aliases: ["Well Destruction Report"]
+sources: ["wiki/sources/11 29 2012 Caltrans GND Water Monitoring Rpts.md", "wiki/sources/2- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size A-G.md", "wiki/sources/7084_S9525-06-44 Response to DTSC Workplan Comments-0912.md", "wiki/sources/dtsc-conditional-approval-of-well-destruction-report/dtsc-conditional-approval-of-well-destruction-report.md"]
 confidence: high
-created_at: 2026-08-18T17:35:53Z
+created_at: 2026-08-18T18:03:23Z
 ---
 
-## Well Destruction Report
+Well destruction reports document the permanent sealing and abandonment of wells and borings to prevent them from acting as conduits for contaminant migration or sources of groundwater contamination. For the [[caltrans]] Modesto Soil Stockpiles site, these reports detail the methods used to decommission monitoring wells and other borings as part of the remediation process.
 
-### Overview
-
-Well destruction reports document the process of permanently sealing and abandoning wells to prevent them from acting as conduits for contaminant migration or sources of groundwater contamination. For the Modesto Soil Stockpiles site, these reports detail the methods used to decommission monitoring wells and other borings.
-
-### Site Record
+### Site Record and Regulatory Review
 
 Two well destruction reports are referenced for the Modesto Soil Stockpiles project:
 
-*   **Modesto Stockpiles Well Dest Rpt 06-19**: This report, dated June 19, 2019, covers the destruction of wells.
-*   **Well Destruction Report 6-25**: This report, dated June 25, 2019, also details well destruction activities.
+*   **Modesto Stockpiles Well Dest Rpt 06-19**: Dated June 19, 2019, this report details the destruction of specific wells.
+*   **Well Destruction Report 6-25**: Dated June 25, 2019, this report also details well destruction activities.
 
-The specific wells destroyed and the methods employed are detailed within these documents.
-
-### Regulatory Status
-
-Well destruction activities are typically overseen by regulatory agencies to ensure proper closure of wells. For this project, the Central Valley Regional Water Quality Control Board (RWQCB) and the Department of Toxic Substances Control (DTSC) are the relevant agencies. The destruction of wells is a standard procedure in environmental remediation projects to ensure the integrity of the subsurface environment.
-
-### Open Items
-
-No open items related to well destruction reports are documented in the provided source material.
+These reports were subject to review by regulatory agencies, including the [[dtsc]] and the [[central-valley-rwqcb]]. The [[dtsc]] provided conditional approval for the well destruction report, as documented in their correspondence dated October 26, 2012. This conditional approval indicated that the report met the requirements for well destruction, a critical step in ensuring the long-term integrity of the subsurface environment at the site.
 
 ### See Also
 
-*   [[caltrans]]
-*   [[geocon-consultants-inc]]
 *   [[well-destruction]]
-*   [[barium]]
-*   [[central-valley-rwqcb]]
+*   [[caltrans]]
 *   [[dtsc]]
-*   [[groundwater-not-impacted]]
-*   [[lead]]
+*   [[geocon-consultants-inc]]
+*   [[central-valley-rwqcb]]
+*   [[dtsc-conditional-approval-of-well-destruction-report]]

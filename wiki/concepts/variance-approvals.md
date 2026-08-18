@@ -1,37 +1,30 @@
 ---
 concept: variance-approvals
 entity_type: regulatory_decision
-aliases: ["Variance to Remedial Design Implementation Plan", "variance approval"]
-sources: ["wiki/sources/08-30-2012 Caltrans Ramp5_srb RAdocx_srb 8_15_12_JS081612 RA4.md", "wiki/sources/Bent 2 Stockpiles Tech Memo/Bent 2 Stockpiles Tech Memo.md", "wiki/sources/S1908-01-01 RDIP Variance #2/S1908-01-01 RDIP Variance #2.md"]
+aliases: ["RDIP Variance Approval", "Variance Approvals"]
+sources: ["wiki/sources/2- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size A-G.md", "wiki/sources/3- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size H-K.md", "wiki/sources/Approval Letter Stockpile 2 Spoils Workplan (900259)/Approval Letter Stockpile 2 Spoils Workplan (900259).md", "wiki/sources/Caltrans Modesto Soil Stcokpiles RDIP Variance/Caltrans Modesto Soil Stcokpiles RDIP Variance.md", "wiki/sources/RDIP Variance Reqeust #2 Acceptance E-Mail/RDIP Variance Reqeust #2 Acceptance E-Mail.md", "wiki/sources/RDIP Variance Request Acceptance E-Mail/RDIP Variance Request Acceptance E-Mail.md", "wiki/sources/S1908-01-01 RDIP Variance #2/S1908-01-01 RDIP Variance #2.md", "wiki/sources/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan-Revised_10-14.md", "wiki/sources/SR_132_DEIR_EA_Append_G-J.md"]
 confidence: high
-created_at: 2026-08-18T17:33:52Z
+created_at: 2026-08-18T18:03:24Z
 ---
-
-## Variance Approvals
-
-### Overview
 
 Variance approvals are regulatory authorizations that permit deviations from the established [[remedial-design-implementation-plan]] (RDIP) for the [[caltrans-modesto-soil-stockpiles]] project. These variances address specific aspects of the remediation strategy, such as the suitability of materials for clean cover fill.
 
-### Site Record
+### Variance to RDIP for Clean Cover Fill
 
-On April 9, 2020, a variance to the RDIP was approved by the [[dtsc]] (DTSC). This variance addressed the use of soil excavated from the Bent-2 Area as a potential component of the clean cap for [[stockpile-2]]. Characterization testing of the Bent 2 excavation soil stockpiles, performed by Geocon Consultants Inc. and documented in a Technical Memorandum dated October 30, 2020, revealed barium concentrations ranging from 31 to 230 milligrams per kilogram (mg/kg). Four of the ten samples exceeded the maximum site-specific background value for barium of 120 mg/kg. Lead was detected in six samples at concentrations ranging from 2.6 to 13 mg/kg, with the maximum site-specific background concentration for lead being 3.8 mg/kg.
+On April 9, 2020, [[geocon-consultants]] submitted a Variance to the Remedial Design Implementation Plan (RDIP Variance) to the [[dtsc]] for the Caltrans Modesto Soil Stockpiles. This variance addressed the use of clean cover fill materials for capping consolidated barium-containing soil (BCS) within Stockpiles 1 and 2. The RDIP stipulated a minimum 12-inch-thick clean fill, or alternatively, a minimum 4-inch-thick aggregate base (AB) material on the upper stockpile surface pending placement of structural pavement and hardscape.
 
-Based on these results, the Bent 2 soil stockpiles did not meet the clean cap criteria as established in the referenced variance document. However, pending DTSC review, the material was considered potentially suitable for use as partial clean cap (6 inches or less) on the upper surface of Stockpile 2, provided that additional clean cap, including the planned structural pavement section, would be placed over the entire upper surface. Fill material from previously approved clean fill sources would be required for the northerly slope of Stockpile 2.
+The highway contractor initially identified an excavation area adjacent and east of Carpenter Road within the SR 132 right-of-way as a source for clean fill. Geocon evaluated this area and, in coordination with Caltrans and DTSC, determined the material was suitable for use as clean cover fill. DTSC subsequently approved this source.
 
-A Second Variance to the Remedial Design Implementation Plan (RDIP Variance #2) was prepared and submitted on September 2, 2020, to address clean cover fill material proposed by the highway contractor for the upper surface of consolidated barium-containing soil (BCS) within Stockpiles 1 and 2. This variance sought to allow the use of a minimum of 4 inches of Class 3 aggregate subbase materials as clean cover fill. This material was deemed equivalent to aggregate base for purposes of cover material and met the intent of the RDIP, which allowed for a minimum 4-inch-thick aggregate base on the upper stockpile surface pending subsequent placement of structural pavement and hardscape. The structural pavement section for the Interim Phase I of the SR 132 West Project was specified to include 0.85 feet of concrete pavement, 0.25 feet of hot mix asphalt, and 0.70 feet of Class 3 aggregate subbase.
+An additional source of clean fill material was identified from mechanically stabilized earth (MSE) wall footing excavations along the southern boundaries of Stockpiles 1 and 2. Geocon evaluated the MSE wall footing material along the southern boundary of Stockpile 1. In coordination with Caltrans and DTSC, it was determined that the upper foot of this excavation soil contained elevated barium concentrations and would not be suitable as clean fill. This material was designated for placement in Stockpile 1 and 2 permanent fill areas. However, soil from 1 to 5 feet below grade in this area, with a calculated 95% upper confidence limit (UCL) for barium of 113.1 mg/kg, was within the range of site-specific naturally occurring background concentrations. Both DTSC and the Water Board agreed that this material could be used as clean cap soil on the project. DTSC officially accepted this variance for the soil along the southern boundary of Stockpile 1 via email on April 17, 2020. The approval for similar material from the southern boundary of Stockpile 2 was contingent on the submission and review of its data.
 
-### Regulatory Status
+### Second Variance to RDIP for Aggregate Subbase
 
-The use of Bent 2 excavation soil as partial clean cap for Stockpile 2 was pending DTSC review and approval as of the October 30, 2020, Technical Memorandum. The Second Variance to the RDIP, submitted on September 2, 2020, proposed the use of Class 3 aggregate subbase as clean cover fill, which was considered to meet the intent of the RDIP and provide adequate clean cover.
+On September 2, 2020, a Second Variance to the Remedial Design Implementation Plan (RDIP Variance #2) was submitted to address clean cover fill material proposed by the highway contractor for the upper surface of consolidated BCS within Stockpiles 1 and 2. This variance sought to allow the use of a minimum of 4 inches of Class 3 aggregate subbase materials as clean cover fill. The RDIP's intent for capping the upper surface with 4 inches of aggregate base was to preserve fill capacity, with the understanding that the structural pavement section and hardscape would provide the ultimate clean cap. The specified structural pavement section for the Interim Phase I of the SR 132 West Project includes concrete pavement, hot mix asphalt, and Class 3 aggregate subbase.
 
-### See also
+Review of the aggregate subbase gradation summaries indicated that the materials were primarily comprised of sand and gravel with lesser fines content, similar to aggregate base materials. The proposed placement of 4 inches of Class 3 aggregate subbase was deemed to provide adequate interim clean cover, equivalent to aggregate base for purposes of cover material, until the pavement section/hardscape was placed.
 
-* [[barium]]
-* [[caltrans]]
-* [[clean-fill-suitable-as-cover]]
-* [[geocon-consultants-inc]]
-* [[remedial-design-implementation-plan]]
-* [[stockpile-2]]
-* [[bent-2-area]]
-* [[bent-2-excavation-soil-stockpiles-characterization-testing]]
+On September 21, 2020, DTSC and the Water Board (WB) officially accepted the request for the use of Class 3 subbase. However, a visual inspection on September 15, 2020, revealed the stockpiled material was primarily a fine sand. Given its fine-grained nature, both agencies agreed that a minimum cap thickness of 6 inches, rather than 4 inches, was warranted, especially since no pavement or hardscaping would be completed before the upcoming rainy season. Additionally, DTSC and WB requested a single composite sample be obtained for barium and lead analysis from the Class 3 material stockpile adjacent to the Rosemore Overcrossing to ensure it met the RDIP standards.
+
+### Approval of Stockpile 2 BCS Foundation Spoil Assessment Workplan
+
+On March 4, 2022, the [[dtsc]] approved the Technical Memorandum for Stockpile 2 Barium Containing Soil (BCS) Foundation Spoil Assessment Workplan, submitted by [[geocon-consultants]] on behalf of [[caltrans]]. This memorandum described the planned sampling and management of BCS spoils generated from the installation of a Weather Station and Overhead Sign #1 on [[stockpile-2]]. DTSC concurred with the stockpiling and sampling procedures. DTSC also agreed that if sampling results indicated concentrations of barium and lead below established site-specific background levels, the material could be reused on-site at locations mutually agreed upon by DTSC and Caltrans. If sampling results showed spoils material above background concentrations, it was to be profiled for disposal at the Forward Landfill in Manteca or another acceptable landfill facility.

@@ -1,29 +1,26 @@
 ---
 concept: rdip-acceptance
 entity_type: regulatory_decision
-aliases: ["Remedial Design Implementation Plan acceptance", "Remedial Design and Implementation Plan acceptance"]
-sources: ["wiki/sources/03-01-2012 SR 132 west Expressway Followup5_srb-RA.md", "wiki/sources/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19/S1200-01-01 Caltrans Modesto Stockpile RDIP_01.19.md"]
+aliases: ["RDIP Acceptance"]
+sources: ["wiki/sources/2- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size A-G.md", "wiki/sources/3- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size H-K.md", "wiki/sources/S9800-01-17 Modesto Stockpiles Draft Final Remedial Action Plan-Revised_10-14.md"]
 confidence: high
-created_at: 2026-08-18T17:33:49Z
+created_at: 2026-08-18T18:02:18Z
 ---
 
-The Remedial Design Implementation Plan (RDIP) for the Caltrans Modesto Soil Stockpiles project, specifically addressing the State Route 132 West Freeway/Expressway Project in Stanislaus County, California, outlines the strategy for remediation. The RDIP was developed by Geocon Consultants, Inc. and submitted to Caltrans.
+RDIP Acceptance signifies the formal approval of the Remedial Design and Implementation Plan (RDIP) by regulatory agencies. This acceptance is a critical milestone, authorizing the commencement of specific remedial actions outlined in the plan for the Caltrans Modesto Soil Stockpiles.
 
-## Site Record
+## Remedial Design and Implementation Plan (RDIP)
 
-The RDIP, titled "REMEDIAL DESIGN IMPLEMENTATION PLAN – INTERIM PHASE 1," was prepared for the Caltrans Modesto Soil Stockpiles, State Route 132 West Freeway/Expressway Project, Stanislaus County, California.
+The Remedial Design and Implementation Plan (RDIP) for the Caltrans Modesto Soil Stockpiles, State Route 132 West Freeway/Expressway Project, Stanislaus County, California, was prepared by Geocon Consultants, Inc. for Caltrans. This plan details the proposed remedial actions for the project.
 
-## Regulatory Status
+## Regulatory Review and Approval
 
-The RDIP is a component of the overall remediation process, which involves regulatory oversight from agencies such as the Department of Toxic Substances Control (DTSC) and the Central Valley Regional Water Quality Control Board (Central Valley RWQCB). The project aims to address contamination, including barium, found in soil stockpiles.
+The RDIP is subject to review and approval by regulatory bodies overseeing the remediation efforts. These agencies include the Department of Toxic Substances Control (DTSC) and the Central Valley Regional Water Quality Control Board (Central Valley RWQCB). The project addresses contamination, including barium, present in the soil stockpiles.
 
 ## See also
 
-*   [[caltrans]]
-*   [[dtsc]]
-*   [[barium]]
-*   [[central-valley-rwqcb]]
-*   [[conditional-approvals]]
-*   [[final-remedial-action-plan]]
-*   [[geocon-consultants-inc]]
-*   [[health-and-safety-plan]]
+* [[caltrans]]
+* [[central-valley-rwqcb]]
+* [[dtsc]]
+* [[geocon-consultants]]
+* [[remedial-design-and-implementation-plan]]

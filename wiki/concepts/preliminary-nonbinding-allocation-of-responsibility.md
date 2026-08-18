@@ -1,33 +1,25 @@
 ---
 concept: preliminary-nonbinding-allocation-of-responsibility
-entity_type: deliverable
-aliases: []
-sources: ["wiki/sources/5.18.2015 - Final Caltrans Cover Letter Revised Administrative Record Caltrans Modesto SoilStockpiles.md"]
+entity_type: regulatory_decision
+aliases: ["Preliminary Nonbinding Allocation of Responsibility"]
+sources: ["wiki/sources/2- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size A-G.md", "wiki/sources/5.18.2015 - Final Caltrans Cover Letter Revised Administrative Record Caltrans Modesto Soil Stockpiles.md"]
 confidence: medium
-created_at: 2026-08-18T17:34:42Z
+created_at: 2026-08-18T18:02:17Z
 ---
 
-## Preliminary Nonbinding Allocation Of Responsibility
+The Preliminary Nonbinding Allocation Of Responsibility (PNOR) is a document that identifies parties potentially responsible for cleanup costs and assigns them a preliminary share of those costs. This allocation is not final and may be revised as the remediation process progresses.
 
-The Preliminary Nonbinding Allocation Of Responsibility (PNOR) is a step in the remediation process where potential responsible parties are identified and assigned a preliminary share of the cleanup costs. This allocation is nonbinding and subject to revision as more information becomes available.
+## PNOR Submission to DTSC
 
-## Site record
-
-The Final Caltrans Cover Letter Revised Administrative Record, dated May 18, 2015, references the PNOR in the context of the [[state-route-132-modesto-soil-stockpiles]] project. The letter states that Caltrans has provided a PNOR to the Department of Toxic Substances Control (DTSC). However, the specific details of this PNOR, including the identified parties and their allocated responsibilities, are not detailed in the provided source material.
-
-## Regulatory status
-
-The PNOR is a component of the regulatory process managed by the [[dtsc]]. It is a precursor to more definitive cost allocation and remedial actions.
-
-## Open items
-
-The specific details of the PNOR for the [[state-route-132-modesto-soil-stockpiles]] project, including the parties identified and their respective allocations, are not fully detailed in the provided source material. Further information regarding the PNOR's contents and any subsequent revisions or challenges would be found in other project documentation.
+On May 18, 2015, Caltrans submitted a PNOR to the Department of Toxic Substances Control (DTSC) as part of the administrative record for the [[state-route-132-modesto-soil-stockpiles]] project. The cover letter indicates that Caltrans has provided this PNOR to DTSC, but the specific details of the allocation, including the identified parties and their assigned responsibilities, are not elaborated upon in the provided source material.
 
 ## See also
 
 * [[caltrans]]
-* [[draft-remedial-action-plan]]
 * [[dtsc]]
+* [[feasibility-study]]
+* [[human-health-risk-assessment]]
 * [[remedial-action-plan]]
-* [[state-route-132-modesto-soil-stockpiles]]
-* [[statement-of-reasons]]
+* [[soil-management-plan]]
+* [[soil-stockpile-3]]
+* [[soil-stockpiles]]

@@ -1,32 +1,28 @@
 ---
 concept: soil-stockpile-3
 entity_type: site
-aliases: ["Stockpile 3"]
-sources: ["wiki/sources/Hearing SummaryReport_SR132 6-21-17 rdcd sz/HearingSummaryReport_SR132 6.21.17 rdcd sz.md"]
+aliases: ["Soil Stockpile 3", "Stockpile 3"]
+sources: ["wiki/sources/2- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size A-G.md", "wiki/sources/3- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size H-K.md", "wiki/sources/5.18.2015 - Final Caltrans Cover Letter Revised Administrative Record Caltrans Modesto Soil Stockpiles.md", "wiki/sources/SR 132 Stockpile 3 BCS Removal Tech Memo.md", "wiki/sources/Stockpile 3 Confirmation Sampling Tech Memo Approval.md"]
 confidence: high
-created_at: 2026-08-18T17:35:29Z
+created_at: 2026-08-18T18:02:44Z
 ---
 
-## Soil Stockpile 3
+Soil Stockpile 3 was a temporary accumulation of excavated soil generated during the [[sr-132-west-expressway-project]] in Stanislaus County, California. It was a focus of investigation and remediation efforts due to the presence of [[barium]].
 
-### Overview
-Soil Stockpile 3 was a soil stockpile associated with the SR 132 project in Stanislaus County, California. It was a subject of investigation and remediation due to the presence of contaminants.
+### Barium Concentration
 
-### Site Record
-During the investigation, Soil Stockpile 3 contained barium at a concentration of 1,100 milligrams per kilogram (mg/kg). This concentration was identified in the "Hearing Summary Report SR 132" dated June 21, 2017. The report does not specify the date the sample was collected or analyzed.
+Confirmation sampling conducted on Soil Stockpile 3 identified barium at a concentration of 1,100 milligrams per kilogram (mg/kg). This concentration was reported in the SR 132 Stockpile 3 BCS Removal Tech Memo. The [[california-mcl]] for barium is 1 mg/L.
 
-### Regulatory Status
-The California Maximum Contaminant Level (MCL) for barium is 1 mg/L. The concentration of barium found in Soil Stockpile 3 (1,100 mg/kg) exceeded this threshold.
+### Remediation and Verification
 
-### Open Items
-The provided source material does not detail any open items related to Soil Stockpile 3.
+Geocon-Consultants prepared a [[barium-containing-soil-consolidation]] plan for Soil Stockpile 3, which was submitted to [[caltrans]] and the DTSC. The plan proposed a method for consolidating the barium-containing soil. Following the implementation of the consolidation, verification sampling was conducted. The Stockpile 3 Confirmation Sampling Tech Memo Approval documents the approval of this verification sampling, indicating that the remediation objectives for Soil Stockpile 3 were met.
 
-### See also
+## See also
 * [[barium]]
-* [[barium-mcl]]
 * [[california-mcl]]
 * [[caltrans]]
-* [[chromium]]
 * [[dtsc]]
-* [[lead]]
-* [[manganese]]
+* [[geocon-consultants]]
+* [[soil-stockpiles]]
+* [[sr-132-west-expressway-project]]
+* [[stockpile-3-excavation]]

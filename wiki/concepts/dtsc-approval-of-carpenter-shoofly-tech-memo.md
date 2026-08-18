@@ -2,30 +2,22 @@
 concept: dtsc-approval-of-carpenter-shoofly-tech-memo
 entity_type: regulatory_decision
 aliases: ["DTSC Approval of Carpenter Shoofly Tech Memo"]
-sources: ["wiki/sources/DTSC E-mail Approval of Carpenter Shoofly Tech Memo.md"]
+sources: ["wiki/sources/2- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size A-G.md", "wiki/sources/7084_S9525-06-44 Response to DTSC Workplan Comments-0912.md"]
 confidence: high
-created_at: 2026-08-18T17:35:05Z
+created_at: 2026-08-18T18:01:12Z
 ---
 
-## DTSC Approval of Carpenter Shoofly Tech Memo
+The [[dtsc-approval-of-carpenter-shoofly-tech-memo]] represents the Department of Toxic Substances Control's (DTSC) formal acceptance of Caltrans' technical assessment regarding the use of clean soil as cover material at the [[carpenter-road-shoofly-area]]. This approval was a critical step in the remediation process, allowing for the utilization of specific soil resources for site management.
 
-The Department of Toxic Substances Control (DTSC) approved the "Carpenter Shoofly Area Technical Memorandum" on March 15, 2019. This approval was communicated via email from DTSC representative Kyle Cockerham to Caltrans representative Dean Wright. The technical memorandum addressed the suitability of clean soil for use as cover material at the [[carpenter-road-shoofly-area]].
+## DTSC Approval of Technical Memorandum
 
-## Site Record
-
-On March 15, 2019, Kyle Cockerham of DTSC emailed Dean Wright of Caltrans to convey DTSC's approval of the "Carpenter Shoofly Area Technical Memorandum." The memorandum concerned the use of clean soil as cover material.
-
-## Regulatory Status
-
-The DTSC's approval on March 15, 2019, signifies regulatory acceptance of the proposed use of clean soil as cover material at the [[carpenter-road-shoofly-area]], as detailed in the approved technical memorandum.
+On March 15, 2019, DTSC representative Kyle Cockerham communicated DTSC's approval of the "Carpenter Shoofly Area Technical Memorandum" to Caltrans representative Dean Wright via email. The memorandum detailed the findings and conclusions regarding the suitability of clean soil for use as cover material within the [[carpenter-road-shoofly-area]]. This approval signifies regulatory concurrence with Caltrans' assessment and proposed use of this material.
 
 ## See also
 
-*   [[caltrans]]
-*   [[carpenter-road-shoofly-area]]
-*   [[central-valley-rwqcb]]
-*   [[clean-fill-suitable-as-cover]]
-*   [[clean-soil-cover]]
-*   [[dean-wright]]
-*   [[dtsc]]
-*   [[kyle-cockerham]]
+* [[caltrans]]
+* [[dtsc]]
+* [[carpenter-road-shoofly-area]]
+* [[central-valley-rwqcb]]
+* [[clean-fill-suitable-as-cover]]
+* [[clean-soil-cover]]

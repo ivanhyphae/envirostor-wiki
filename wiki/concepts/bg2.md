@@ -1,33 +1,36 @@
 ---
 concept: bg2
 entity_type: monitoring_location
-aliases: []
-sources: ["wiki/sources/06A2542ct_to16_SurfaceWaterLetter _final-20210323.md", "wiki/sources/06A2542ct_to97_SurfaceWaterLetter_final-20230309.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Dec 2016 SW Sampling_01.17/S1200-01-01 Modesto Stockpiles Dec 2016 SW Sampling_01.17.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Oct 2016 SW Sampling_12.16/S1200-01-01 Modesto Stockpiles Oct 2016 SW Sampling_12.16.md"]
+aliases: ["BG2"]
+sources: ["wiki/sources/06A2542ct_to16_SurfaceWaterLetter _final-20210323.md", "wiki/sources/06A2542ct_to97_SurfaceWaterLetter_final-20230309.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Dec 2016 SW Sampling_01.17/S1200-01-01 Modesto Stockpiles Dec 2016 SW Sampling_01.17.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Oct 2016 SW Sampling_12.16/S1200-01-01 Modesto Stockpiles Oct 2016 SW Sampling_12.16.md", "wiki/sources/S9525-01-44C Modesto Stockpiles GW September 2013 1013.md", "wiki/sources/S9525-06-44A Caltrans Modesto Stockpiles GW 0213.md", "wiki/sources/S9525-06-44A Caltrans Modesto Stockpiles GW Nov2012 0213.md", "wiki/sources/S9525-06-44A May 2012 GW Report 1112.md", "wiki/sources/S9525-06-44AModesto Stockpiles GW  SEPT2012 1212.md", "wiki/sources/S9525-06-44AModesto Stockpiles GW. SEPT2012.1212.md", "wiki/sources/S9800-01-17 Caltrans Modesto Stockpiles Dec 2013 GW Mon 0114.md", "wiki/sources/S9800-01-17 Caltrans Modesto Stockpiles GW_06 15.md", "wiki/sources/S9800-01-17 Modesto Stockpiles Feb2014 GW Mon 0414.md", "wiki/sources/S9800-01-17 Modesto Stockpiles June 2014 GW Mon 0814.md", "wiki/sources/S9800-01-17A Caltrans Modesto Stockpiles GW_06 16.md"]
 confidence: high
-created_at: 2026-08-18T17:33:29Z
+created_at: 2026-08-18T18:00:38Z
 ---
 
-## Bg2
-
-### Overview
 Bg2 is a surface water sampling location situated near a storm water inlet north of Stockpile 2, along North Emerald Avenue. It is used to monitor surface water quality in the vicinity of the Caltrans Modesto Soil Stockpiles.
 
-### Site Record
-During the December 15, 2016, surface water sampling event, sample Bg2 was collected from water flowing into a storm water inlet north of Stockpile 2 on North Emerald Avenue. The sample was analyzed for dissolved metals. Barium, calcium, chromium, copper, magnesium, manganese, molybdenum, potassium, nickel, sodium, strontium, vanadium, and zinc were reported for Bg2. Cobalt and lead were also reported for Bg2. The manganese concentration reported for Bg2 exceeded its secondary MCL. With the exception of manganese, none of the reported concentrations exceeded their respective primary or secondary MCLs. Arsenic, beryllium, cadmium, mercury, selenium, silver, and thallium were not reported at concentrations equal to or greater than their respective method detection limits (MDLs) for Bg2. The analytical results for Bg2 were within the same general range of concentrations as previously reported for Bg2.
+### Surface Water Sampling Results
 
-During the October 28, 2016, surface water sampling event, sample Bg2 was collected from water flowing into a storm water inlet north of Stockpile 2 on North Emerald Avenue. The sample was analyzed for dissolved metals. Antimony, barium, calcium, copper, magnesium, molybdenum, potassium, sodium, strontium, and zinc were reported for Bg2. Cadmium, chromium, manganese, and nickel were reported for Bg2. None of the reported concentrations exceeded their respective primary or secondary Maximum Contaminant Levels (MCLs). Arsenic, beryllium, cobalt, lead, mercury, selenium, silver, thallium, and vanadium were not reported at concentrations equal to or greater than their respective MDLs for Bg2. The analytical results were within the same general range of concentrations as previously reported for Bg2.
+#### December 15, 2016
+
+During the December 15, 2016, surface water sampling event, sample Bg2 was collected from water flowing into a storm water inlet north of Stockpile 2 on North Emerald Avenue. The sample was analyzed for dissolved metals. The following metals were reported for Bg2: barium, calcium, chromium, copper, magnesium, manganese, molybdenum, potassium, nickel, sodium, strontium, vanadium, and zinc. Cobalt and lead were also reported for Bg2. The manganese concentration reported for Bg2 exceeded its secondary MCL. With the exception of manganese, none of the reported concentrations exceeded their respective primary or secondary MCLs. Arsenic, beryllium, cadmium, mercury, selenium, silver, and thallium were not reported at concentrations equal to or greater than their respective method detection limits (MDLs) for Bg2. The analytical results for Bg2 were within the same general range of concentrations as previously reported for Bg2.
 
 The laboratory noted that samples Bg1 and Bg2 collected on December 15, 2016, were diluted due to high concentrations of target analytes, specifically calcium and sodium.
 
+#### October 28, 2016
+
+During the October 28, 2016, surface water sampling event, sample Bg2 was collected from water flowing into a storm water inlet north of Stockpile 2 on North Emerald Avenue. The sample was analyzed for dissolved metals. Antimony, barium, calcium, copper, magnesium, molybdenum, potassium, sodium, strontium, and zinc were reported for Bg2. Cadmium, chromium, manganese, and nickel were reported for Bg2. None of the reported concentrations exceeded their respective primary or secondary Maximum Contaminant Levels (MCLs). Arsenic, beryllium, cobalt, lead, mercury, selenium, silver, thallium, and vanadium were not reported at concentrations equal to or greater than their respective MDLs for Bg2. The analytical results were within the same general range of concentrations as previously reported for Bg2.
+
 ### Regulatory Status
+
 Manganese concentrations in Bg2 exceeded the secondary MCL during the December 15, 2016 sampling event. No other reported concentrations in Bg2 exceeded their respective primary or secondary MCLs during the December 15, 2016 or October 28, 2016 sampling events.
 
-### See also
+## See also
 * [[bg1]]
 * [[pl1]]
 * [[pl2]]
 * [[pl3]]
 * [[pl4]]
 * [[pl5]]
-* [[fenceline-stations]]
-* [[barium]]
+* [[barium-containing-soil-consolidation]]
+* [[geocon-consultants]]

@@ -1,36 +1,33 @@
 ---
 concept: fenceline-stations
 entity_type: monitoring_location
-aliases: []
-sources: ["wiki/sources/06A2542ct_to16_SurfaceWaterLetter _final-20210323.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Dec 2016 SW Sampling_01.17/S1200-01-01 Modesto Stockpiles Dec 2016 SW Sampling_01.17.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18/S1200-01-01 Modesto Stockpiles Jan 2018 SW Sampling_02.18.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17/S1200-01-01 Modesto Stockpiles Mar 2017 SW Sampling_06.17.md", "wiki/sources/S1200-01-01 Modesto Stockpiles March 2018 SW Sampling_04.18/S1200-01-01 Modesto Stockpiles March 2018 SW Sampling_04.18.md", "wiki/sources/S1200-01-01 Modesto Stockpiles Oct 2016 SW Sampling_12.16/S1200-01-01 Modesto Stockpiles Oct 2016 SW Sampling_12.16.md"]
+aliases: ["Fenceline Stations", "Fenceline sampling stations"]
+sources: ["wiki/sources/2- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size A-G.md", "wiki/sources/7083_S9525-06-44 Modesto Soil Stockpiles Fenceline Workplan.0912/7083_S9525-06-44 Modesto Soil Stockpiles Fenceline Workplan.0912.md", "wiki/sources/DTSC Letter Response - 2025 GW Monitoring Report (900259)/DTSC Letter Response - 2025 GW Monitoring Report (900259).md", "wiki/sources/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18.md", "wiki/sources/S9525-06-44A Stormwater SAP Addendum 0213.md"]
 confidence: high
-created_at: 2026-08-18T17:33:32Z
+created_at: 2026-08-18T18:01:19Z
 ---
 
-## Fenceline Stations
+Fenceline stations are surface water sampling locations established along the perimeter of the Caltrans Modesto Soil Stockpiles site. Their purpose is to monitor surface water quality, particularly for potential impacts from the barium-containing soil consolidation activities.
 
-### Overview
-Fenceline stations are a type of surface water sampling location used at the Caltrans Modesto Soil Stockpiles site. These stations are situated along the perimeter of the site to monitor surface water quality.
+### Surface Water Monitoring
 
-### Site record
-Surface water sampling was conducted at various locations, including fenceline stations, on the following dates:
+Surface water sampling, including at fenceline stations, was conducted by [[geocon-consultants]] on multiple dates to evaluate the integrity of the stockpile containment system. These sampling events were performed in accordance with the *Final Surface Water Sampling and Analysis Plan (SAP)* dated January 2006 and its addendum dated February 20, 2013. The specific locations of the fenceline stations are depicted on the Site Plan, Figure 2, referenced in the project reports.
+
+Sampling dates for fenceline stations include:
 *   October 28, 2016
 *   December 15, 2016
 *   March 24, 2017
 *   January 8, 2018
 *   March 22, 2018
 
-These sampling activities were performed by geocon-consultants-inc. in accordance with the *Final Surface Water Sampling and Analysis Plan (SAP)* dated January 2006 and the *Addendum to Surface Water Sampling and Analysis Plan* dated February 20, 2013. The sampling locations, including fenceline stations, are depicted on the Site Plan, Figure 2, referenced in the reports.
+The results of this surface water sampling were reviewed by the California Department of Toxic Substances Control (DTSC) and were reported as being within reporting limits in the Storm Water Sampling Report dated June 18, 2025. DTSC conditionally approved this report on January 30, 2026.
 
-### Regulatory status
-The surface water sampling was conducted in general accordance with protocols approved by the California Environmental Protection Agency, Department of Toxic Substances Control (DTSC).
-
-### See also
-*   [[bg1]]
+## See also
+*   [[geocon-consultants]]
+*   [[barium-containing-soil-consolidation]]
 *   [[pl1]]
 *   [[pl2]]
 *   [[pl3]]
 *   [[pl4]]
 *   [[pl5]]
 *   [[barium]]
-*   [[geocon-consultants-inc]]

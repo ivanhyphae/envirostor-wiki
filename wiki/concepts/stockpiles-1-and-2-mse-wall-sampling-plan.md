@@ -1,32 +1,47 @@
 ---
 concept: stockpiles-1-and-2-mse-wall-sampling-plan
 entity_type: deliverable
-aliases: ["Sampling Plan for the removal and management of barium-containing soil (BCS) from Stockpile 1 and Stockpile 2"]
-sources: ["wiki/sources/Stockpiles 1 and 2 MSE Wall Sampling Plan/Stockpiles 1 and 2 MSE Wall Sampling Plan.md"]
+aliases: ["MSE Wall Sampling Plan for Stockpiles 1 and 2", "Stockpiles 1 and 2 MSE Wall Sampling Plan"]
+sources: ["wiki/sources/2- SR_132_FEIR_EA_ 20180302 FINAL Appendices rdcd size A-G.md", "wiki/sources/Acceptance E-mail_Stockpiles 1 and 2 MSE Wall Sampling Plan/Acceptance E-mail_Stockpiles 1 and 2 MSE Wall Sampling Plan.md", "wiki/sources/E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan/E-mail - Stockpiles 1 and 2 MSE Wall Sampling Plan.md", "wiki/sources/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18/S1200-01-01 Final Caltrans Modesto Stockpile RAP_03.18.md", "wiki/sources/stockpiles-1-and-2-mse-wall-sampling-plan/stockpiles-1-and-2-mse-wall-sampling-plan.md"]
 confidence: high
-created_at: 2026-08-18T17:36:12Z
+created_at: 2026-08-18T18:03:11Z
 ---
 
-## Stockpiles 1 and 2 MSE Wall Sampling Plan
+The Stockpiles 1 and 2 MSE Wall Sampling Plan details the methodology for collecting soil samples in preparation for Mechanically Stabilized Earth (MSE) wall construction at the Caltrans Modesto Soil Stockpiles site. This plan is integral to the remediation of Barium-Containing Soil (BCS) along SR 132 in Stanislaus County, California, specifically addressing the characterization and classification of soils intended for reuse within the MSE wall structure.
 
-The Stockpiles 1 and 2 MSE Wall Sampling Plan outlines the strategy for collecting soil samples in relation to the Mechanically Stabilized Earth (MSE) wall construction at the Caltrans Modesto Soil Stockpiles site. This plan is a component of the broader remediation efforts for Barium-Containing Soil (BCS) at the project location along SR 132 in Stanislaus County, California. The sampling is intended to inform the remediation design and implementation, particularly concerning the management and potential reuse of soil within the MSE wall structure.
+### Plan Review and Acceptance
 
-### Site Record
+The MSE Wall Sampling Plan, along with associated figures, was submitted by Caltrans to the Department of Toxic Substances Control (DTSC) and the Water Board on March 31, 2020. On April 2, 2020, DTSC and the Water Board communicated their acceptance of the plan, indicating no comments. This acceptance allowed for the proposed sampling of MSE footing soils to proceed for characterization and DTSC classification for on-site reuse.
 
-The Grading Plan dated January 2019, prepared by Geocon-Consultants-Inc for the Caltrans Modesto Soil Stockpiles Remedial Design Implementation Plan, indicates the location of [[stockpile-1]] and [[stockpile-2]]. These stockpiles are identified as containing Barium-Containing Soil. The plan also references a "BCS Removal Sampling Plan" and shows a "Southern Slope Retaining Wall" in proximity to Stockpile 1. A "Proposed Sampling Location" is marked near the "RW/Fence Line" in relation to Stockpile 61, which is also identified as Barium-Containing Soil. Figure 3-2 of the Remedial Design Implementation Plan, also dated January 2019, depicts Stockpile 1 and Stockpile 2 as large areas of Barium-Containing Soil bisected by Emerald Ave. This figure also shows areas designated for "Imported Clean Embankment Fill/Structure Backfill Placement" and "Emerald Ave. Eastern Bridge Abutment Stockpile Removal Area," as well as zones for "Barium-Containing Soil and ADL Consolidation Zone."
+### Sampling Methodology and Analysis
 
-### Regulatory Status
+The sampling plan, developed by Geocon Consultants, Inc., outlines the collection of discrete soil samples from borings or trenches within the mid-point of MSE wall footing excavations. Ten sampling locations are identified, spaced approximately 200 feet apart. Samples will be collected from one-foot intervals to the planned footing excavation depth of approximately 4 to 5 feet. Each discrete sample will be analyzed for [[barium]] and [[lead]] with an expedited 48-hour turnaround time.
 
-The specific regulatory standards or thresholds applicable to the MSE wall sampling plan are not detailed in the provided source material. However, the overall project addresses Barium-Containing Soil, implying that [[barium]] concentrations are a key concern for regulatory compliance.
+The analytical data will be compared against specific Remedial Design Implementation Plan (RDIP) and regulatory screening levels to determine the suitability of the soil for reuse as clean capping material, abutment/embankment fill, or placement in Barium-Containing Soil (BCS) containment zones.
 
-### Open Items
+The screening levels are as follows:
 
-The provided source material does not explicitly detail any open items related to the Stockpiles 1 and 2 MSE Wall Sampling Plan.
+*   **Barium:**
+    *   Maximum site-specific background: 120 mg/kg
+    *   RDIP BCS removal threshold (groundwater protection): 1,000 mg/kg
+    *   Construction worker Environmental Screening Level (ESL): 3,000 mg/kg
+    *   Residential ESL: 15,000 mg/kg
+    *   Commercial ESL: 220,000 mg/kg
+*   **Lead:**
+    *   Maximum site-specific background: 3.8 mg/kg
+    *   DTSC residential ESL: 80 mg/kg
 
-### See Also
+### Site Context and Related Activities
+
+The sampling is being conducted in conjunction with the excavation of the Stockpile 1 southern slope zone BCS. Geocon Consultants, Inc. personnel were on-site to provide Remedial Design Implementation Plan (RDIP) monitoring, including air and dust perimeter sampling, as work commenced on March 31, 2020.
+
+## See Also
 
 *   [[barium]]
+*   [[caltrans]]
+*   [[dtsc]]
 *   [[geocon-consultants-inc]]
+*   [[lead]]
 *   [[mse-wall-construction]]
 *   [[remedial-design-implementation-plan]]
 *   [[stockpile-1]]
