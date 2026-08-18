@@ -63,7 +63,7 @@ Check the existing-concepts list before emitting. If the corpus says the same th
 ## Output
 
 For each concept:
-- `name`: lowercase-hyphenated identifier (e.g. "mw-5", "barium-mcl", "phase-1-consolidation"). Keep it short — a name longer than about five words means you are extracting a sentence.
+- `name`: lowercase-hyphenated identifier (e.g. "mw-5", "barium-mcl", "phase-1-consolidation"). Keep it short — a name longer than about five words means you are extracting a sentence. **Never split an acronym across the hyphen**: TPH becomes `tph`, not `tp-h`; RACR becomes `racr`, not `ra-cr`; PAH becomes `pah`. A hyphen separates words, never the letters of an abbreviation. Put the expansion in `aliases`.
 - `aliases`: alternative names and spellings used in the documents
 - `sources`: the source file path(s) that mention this concept. Each summary below is headed by a line "### Source: <path>" — copy that <path> string EXACTLY, character for character, into the sources array. Do not abbreviate it, drop the "wiki/sources/" prefix, drop the filename, or reconstruct it from memory — the path must be copied verbatim from the "### Source:" line, or downstream grounding checks cannot locate the file.
 - `type`: the entity type, from this list exactly:
