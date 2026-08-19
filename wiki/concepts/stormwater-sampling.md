@@ -2,7 +2,7 @@
 concept: stormwater-sampling
 entity_type: claim
 aliases: ["stormwater sampling"]
-sources: ["wiki/sources/captures/thallium-detected-in-stockpile-soil/thallium-detected-in-stockpile-soil.md", "wiki/sources/captures/thallium-exceeds-mcl-in-stormwater/thallium-exceeds-mcl-in-stormwater.md", "wiki/sources/thallium-detected-in-stockpile-soil/thallium-detected-in-stockpile-soil.md", "wiki/sources/thallium-exceeds-mcl-in-stormwater/thallium-exceeds-mcl-in-stormwater.md"]
+sources: []
 confidence: medium
 created_at: 2026-08-18T23:23:15Z
 ---
@@ -27,8 +27,6 @@ The December 2023 result is significant specifically because it breaks a pattern
 
 ## See also
 
-- [[thallium-exceeds-mcl-in-stormwater]]
-- [[thallium-detected-in-stockpile-soil]]
 - [[thallium]]
 - [[california-primary-mcl]]
 - [[groundwater-not-impacted]]
